@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008196">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Henry Johnson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008196">
+                    <persName>
+                      William Henry Johnson
+                        (Warren County, Mississippi, planter and brother of George Washington Johnson)
+                    </persName>
+                        <event type="birth"  when="1813-06-13"  ><ab>1813-06-13</ab></event>
+                        <event type="death"  when="1872-12-28"  ><ab>1872-12-28</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Warren County, Mississippi, planter. Scott County, Kentucky, native. Son of William Johnson and Elizabeth &quot;Betsy&quot; Payne Johnson. Married to Mary B. Johnson. Father of William H. Johnson. Married to Lucy A. Johnson. Owner of Belle Isle, a cotton plantation, in Warren County, Mississippi. Planter in Warren County in 1850 and 1860. Owned 77 enslaved persons in 1850 and 93 in 1860. Colonel in the Confederate Army during the Civil War.</p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;Death of  a Kentuckian<hi rend="italic">, *Courier-Journal</hi> (Louisville, Ky.), January 3, 1873, p. 1. <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Mississippi, Warren County, p. 239A. <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Mississippi, Warren County. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Mississippi, Warren County, p. 134. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Mississippi, Warren County, p. 257A-257B. Smith, Myron J., Jr., <hi rend="italic">The Fight for the Yazoo, August 1862-July 1864: Swamps, Forts and Fleets on Vicksburg&#39;s Northern Flank</hi> (Jefferson, NC: McFarland &amp; Company, Inc., 2012), 91. <hi rend="italic">Find A Grave</hi>, &quot;William Henry Johnson (1813-1872),&quot; Memorial #98878640, http://www.findagrave.com/memorial/98878640/william-henry-johnson (accessed January 3, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
