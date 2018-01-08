@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002592">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Simon Bolivar Buckner</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002592">
+                    <persName>
+                      Simon Bolivar Buckner
+                        (Kentucky soldier)
+                    </persName>
+                        <event type="birth"  when="1823-04-01"  ><ab>1823-04-01</ab></event>
+                        <event type="death"  when="1914-01-08"  ><ab>1914-01-08</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kentucky soldier. Hart County, Kentucky, native. Graduate of the United States Military Academy at West Point in 1844.  Assistant Professor of geography, history and ethics at the United State Military Academy at West Point from 1845 to 1846. Lieutenant in General Worth’s Division during the Mexican-American War. Instructor of military tactics at the United States Military Academy at West Point. Inspector General of Kentucky under Governor Beriah Magoffin. Commissioned a Brigadier General in the Confederate Army. Prisoner of war at Fort Warren in Boston, from February 1862 to August 1862. Exchanged at Richmond, Virginia. Promoted to major general and commanded Hardee&#39;s Corps of Bragg&#39;s Army. Promoted to Lieutenant General and served as Chief of Staff for General Edmund Kirby Smith in the Western Theater from September 1864 to April 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 654. Arndt M. Stickles, <hi rend="italic">Simon Bolivar Buckner: Borderland Knight</hi> (Chapel Hill: The University of North Carolina Press, 1940) 4, 15, 17, 46, 256. <hi rend="italic">Find A Grave</hi>, &quot;Simon Bolivar Buckner, Sr. (1823-1914),&quot; Memorial #5144, http://www.findagrave.com/memorial/5144/simon-bolivar-buckner (accessed January 8, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
