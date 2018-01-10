@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002686">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00005987">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Price</title>
+        <title level="a" type="main">156th Ohio Volunteer Infantry (U.S.A.)</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
@@ -14,7 +14,7 @@
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name></name>
+            <name>Stephen Powell</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -32,36 +32,34 @@
     <sourceDesc><ab>Born Digital</ab></sourceDesc>
 </fileDesc>
 
-      <encodingDesc>
-        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
-          </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <profileDesc>
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
             <textClass>
-            <keywords>
-                <term type="type">Person</term>
-            </keywords>
-        </textClass>
-        <particDesc>
-                <person xml:id="N00002686">
-                    <persName>
-                      John Price
-                        (Jury Foreman)
-                    </persName>
-                      <trait type="gender" subtype="M"/>
-                </person> 
-        </particDesc>    
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00005987">
+                    <orgName>156th Ohio Volunteer Infantry (U.S.A.)</orgName>
+                        <event type="begun"  when="1864-05-15"  ><ab>1864-05-15</ab></event>
+                        <event type="ended"  when="1864-09-01"  ><ab>1864-09-01</ab></event>
+                </org>
+            </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Jefferson County, Kentucky, foreman of a jury. </p>
+        <p>Organized at Camp Dennison, Ohio, and mustered in May 15, 1864. Mustered out September 1, 1864.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0003
+        <ab><bibl>Frederick H. Dyer, <hi rend="italic">A Compendium to the War of the Rebellion</hi>, Vol. II (Des Moines, IA: Dyer Publishing Company, 1908), 1551-1552.
 </bibl></ab>
     </back>
 </text>

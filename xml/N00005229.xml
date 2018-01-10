@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002686">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005229">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Price</title>
+        <title level="a" type="main">Margaret Smith</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
@@ -11,10 +11,6 @@
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name></name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -45,24 +41,20 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00002686">
+                <person xml:id="N00005229">
                     <persName>
-                      John Price
-                        (Jury Foreman)
+                      Margaret Smith
+                        ()
                     </persName>
-                      <trait type="gender" subtype="M"/>
+                      <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Jefferson County, Kentucky, foreman of a jury. </p>
+        <p>Cannot determine.  Accused of theft.</p>
 
     </body>
-    <back>
-        <ab><bibl>KYR-0001-005-0003
-</bibl></ab>
-    </back>
 </text>
 </TEI>
