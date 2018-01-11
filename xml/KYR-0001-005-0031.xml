@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0031"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Falmouth. Pendleton County Ky <date when="1864-07-22">July 22<hi rend="sup">nd</hi>/64</date></p>
-<p>This affiant Francis P Craig, Jailor of the County aforesaid upon oath states, that on Saturday the <date when="--06-25">25<hi rend="sup">th</hi> June</date> last-- a squad of Union soldiers, by force and violence entered his dwelling, the residence of himself wife, family and children, the same being the dwelling of the Jailor of the County aforesaid and the <unclear>L</unclear> whereof constitutes the public Jail of the County, by violence and force threw him upon floor, examined his pockets, covering his eyes and mouth, and forcesibly wrenched the Keys of the Jail from his hands, by forcing a banyonet betwen the keys and his fingers and wresting the keys from <hi rend="str">his</hi> him <hi rend="str">hands</hi> A part of them ^thus^ forcecibly held him down, on the floor; and a part of them, then past, into the jail department of the house -- opened the cells of the jail and forciable let out, Harrison Barns, who was confined under the charge of murdering Joseph Bishop Dec<hi rend="sup">d</hi>, and committed to the jail under the proclamation of the Governor of Ky offering a reward of &#36;250 for his apprehention and <hi rend="str">under</hi> the indictment found by the Grand Jury of the County -- And that the said Barns so forceably let out is now<pb/>
-<lb/>again at large, fleeing from justice, in parts unknown -- The said squad of Union Soldiers also at the same time and in like manners let out of said Jail, a runaway slave Henry-- who claimed to belong to D<hi rend="sup">r</hi> Tate of Tennessee, and who was ordered by the County Court to be sold at public auction by the Sheriff of the County, under the provisions of the laws of this State in such cases made and provided.</p>
+   <p><placeName ref="cwgk:P00000550">Falmouth</placeName>. <placeName ref="cwgk:P00000544">Pendleton County</placeName> Ky <date when="1864-07-22">July 22<hi rend="sup">nd</hi>/64</date></p>
+<p>This affiant <persName ref="cwgk:N00005983">Francis P Craig</persName>, Jailor of the County aforesaid upon oath states, that on Saturday the <date when="--06-25">25<hi rend="sup">th</hi> June</date> last-- a squad of <orgName ref="cwgk:O00002945">Union</orgName> soldiers, by force and violence entered his dwelling, the residence of himself wife, family and children, the same being the dwelling of the Jailor of the County aforesaid and the <unclear>L</unclear> whereof constitutes the public Jail of the County, by violence and force threw him upon floor, examined his pockets, covering his eyes and mouth, and forcesibly wrenched the Keys of the Jail from his hands, by forcing a banyonet betwen the keys and his fingers and wresting the keys from <hi rend="str">his</hi> him <hi rend="str">hands</hi> A part of them ^thus^ forcecibly held him down, on the floor; and a part of them, then past, into the jail department of the house -- opened the cells of the jail and forciable let out, <persName ref="cwgk:N00005227">Harrison Barns</persName>, who was confined under the charge of murdering <persName ref="cwgk:N00005984">Joseph Bishop</persName> Dec<hi rend="sup">d</hi>, and committed to the jail under the proclamation of the Governor of Ky offering a reward of $250 for his apprehention and <hi rend="str">under</hi> the indictment found by the Grand Jury of the County -- And that the said Barns so forceably let out is now<pb/>
+<lb/>again at large, fleeing from justice, in parts unknown -- The said squad of <orgName ref="cwgk:O00002945">Union</orgName> Soldiers also at the same time and in like manners let out of said Jail, a runaway slave <persName ref="cwgk:N00005985">Henry</persName>-- who claimed to belong to D<hi rend="sup">r</hi> Tate of <placeName ref="cwgk:P001001">Tennessee</placeName>, and who was ordered by the County Court to be sold at public auction by the Sheriff of the County, under the provisions of the laws of this State in such cases made and provided.</p>
 <p>At the time these outrages were committed there were stationed at this place a part of the 156 Regt <hi rend="str">Ohio</hi> and a part of the 1<hi rend="str">5</hi>68 Regt Ohio Vol<unclear><hi rend="underline"><hi rend="sup">s</hi></hi></unclear> for 100 days -- under the command of Maj Whiteman -- and ^the^ squad of the soldiers who committed the above outrage upon the laws of the State, and all peoples of right and justice, this affiant is unable to designate by name, as they were strangers to him, and the same was done on the night of the day designated above -- </p>
 <p>He further states, that some days before the above outrage was committed upon his person and the Jail of the County he incidenly=ly was informed; that violence upon the jail was talked of, among some of these soldiers and that ^he^ forthwith went to Maj Whiteman ^the commander of the post^ and informed him and asked protection in his official duties -- Maj Whiteman replied<pb/>
 <lb/>that he should rest contented, that protection as far is in his power would be afforded him He supposes the squad of soldiers who committed the above out-rage and participated were between, (at least) thirty and forty of them -- There was a number sufficient to crowd the hall from the front of the house to the back of the jail and among them ^were^ those who wore upon their persons the insignias of office -- </p>
@@ -75,8 +83,8 @@
 <p>F. P. Craig J P C</p>
 <p>Pendleton County
 <lb/>State of Kentucky</p>
-<p>Sworn to and subscribed by F P Craig, Jailor of Pendleton County Ky before me Presiding Judge of the Pendleton County Court this <date when="1864-07-22">22<hi rend="sup">nd</hi> day of July 1864</date></p>
-<p>S Tho Hauser P. J. P. C. Co</p>
+<p>Sworn to and subscribed by F P Craig, Jailor of Pendleton County Ky before me Presiding Judge of the <orgName ref="cwgk:O00000679">Pendleton County Court</orgName> this <date when="1864-07-22">22<hi rend="sup">nd</hi> day of July 1864</date></p>
+<p><persName ref="cwgk:N00001515">S Tho Hauser</persName> P. J. P. C. Co</p>
   </body>
  </text>
 </TEI>
