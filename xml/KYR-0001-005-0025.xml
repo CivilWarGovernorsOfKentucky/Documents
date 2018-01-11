@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0025"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,7 +71,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lancaster Ky <date when="1864-03-07">March 7<hi rend="sup">th</hi> 1864</date>
+   <p><placeName ref="cwgk:P001842">Lancaster Ky</placeName> <date when="1864-03-07">March 7<hi rend="sup">th</hi> 1864</date>
 <lb/>To His Excellency Thos E. Bramlette Governor of the Commonwealth of Kentucky;</p>
 <p>Your petitioner the undersigned N. Sandifer Presiding judge of the Garrard County Court respectfully states that on the <date when="1862-11-17">17<hi rend="sup">th</hi> day of November 1862</date> one James H. Smith did unlawfully and feloniously shoot, kill and murder in the town of Lancaster one Joshua Burdett, a citizen of the town aforesaid; and that James H. Smith is now and has been for more than a year last past absent and so secrets himself that no officer of this commonwealth has been able to bring him before the proper tribunal; and that the case of murder is one of very extremely aggravated character: sherefore your petitioner asks and requests that as large a reward be offered for the apprehension <hi rend="str">of </hi>and delivery of said J. H. Smith to Jailor of Garrard County Ky as your Excellency may deem proper under the circumstances</p>
 <p>N Sandifer P, J, G, C, C</p>
