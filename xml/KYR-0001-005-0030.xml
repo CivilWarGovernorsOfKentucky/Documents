@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0030"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,6 +71,7 @@
  </teiHeader>
  <text>
   <body>
+<<<<<<< HEAD
    <p><placeName ref="cwgk:P00000550">Falmouth</placeName>, <placeName ref="cwgk:P00000544">Pendleton County Ky.</placeName> <date when="1864-07-22">July 22<hi rend="underline"><hi rend="sup">nd</hi></hi> 1864</date>
 <lb/>His Excellency
     <lb/><persName ref="cwgk:N001000">Tho E Bramlett Gov</persName><hi rend="sup">r</hi> of Ky
@@ -72,8 +81,19 @@
 <lb/>laws, and the lawless to be turned out from our Jails, and the lives and property of our citisen are to be preyed upon, and put in jeopardy by the military forces both from the North and the South; and this without remedy-- we have surely fallen upon evil times-- and not only the times, but the most valorous and patriotic loyal, are not without well founded apprehensions, that military powers and forces are ^to^ subordinate all civil rights, and ^ultimately to^ invite a state of affairs, which in days past, gavee to her soil, the name of 'The blody ground' and which, God in his mercies, I pray, may avert -- </p>
 <p>Respectfully Your<hi rend="sup">s</hi>
  <lb/><hi rend="underline"><persName ref="cwgk:N00001515">S. Tho. Hauser</persName></hi><pb/></p>
+=======
+   <p><placeName ref="cwgk:P00000550">Falmouth</placeName>, <placeName ref="cwgk:P00000544">Pendleton County Ky</placeName>. <date when="1864-07-22">July 22<hi rend="underline"><hi rend="sup">nd</hi></hi> 1864</date>
+<lb/>His Excellency
+<lb/><persName ref="cwgk:N001000">Tho E Bramlett </persName>Gov<hi rend="sup">r</hi> of Ky
+<lb/>Sir</p>
+<p>At the last term of the <orgName ref="cwgk:O00000489">Pendleton Circuit Court</orgName> at the instance of <persName ref="cwgk:N00005226">Mr Carpenter</persName>, Com<hi rend="sup">lths</hi> Attorney-- for this judicial Circuit I addressed a letter to you, informing you that <persName ref="cwgk:N00005227">Harrison Barns</persName>, against whom the Grand Jury of the County had found an Indictment for murder was running at large &amp; suggested the propriety of offering a reward for his arrest -- Under that indictment and your Excellency' <unclear><hi rend="str">power</hi></unclear> offer of reward for his apprehention he was arrested by <persName ref="cwgk:N00005228">Mr Pribble</persName> (I think it was) and lodged for trial in our Jail-- where he remained securely (as was hoped) until the <date when="--06-25">25 June</date> last when he, together with a runaway slave was by violence and force, set at liberty as detailed by the inclosed affidavit of the Jailor.</p>
+<p>If our own soldiers who come among us for the purpose of protection and the enforcement of the laws, are permitted to become the aggressors and violators of the<pb/>
+<lb/>laws, and the lawless to be turned out from our Jails, and the lives and property of our citisen are to be preyed upon, and put in jeopardy by the military forces both from the North and the South; and this without remedy-- we have surely fallen upon evil times-- and not only the times, but the most valorous and patriotic loyal, are not without well founded apprehensions, that military powers and forces are ^to^ subordinate all civil rights, and ^ultimately to^ invite a state of affairs, which in days past, gavee to her soil, the name of 'The blody ground' and which, God in his mercies, I pray, may avert -- </p>
+<p>Respectfully Your<hi rend="sup">s</hi>
+<lb/><persName ref="cwgk:N00001515">S. Tho. Hauser</persName><pb/></p>
+>>>>>>> c1f57fa76c835380d1cc6fdef51744998466b595
 <p>Reward
-<lb/>&#36;250
+<lb/>$250
 <lb/>Pendleton Co
 <lb/>Harrison Barnes
 <lb/>Offered

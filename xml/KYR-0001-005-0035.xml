@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0035"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,6 +71,7 @@
  </teiHeader>
  <text>
   <body>
+<<<<<<< HEAD
    <p><placeName ref="cwgk:P00001847">Springfield Ky</placeName>
 <lb/><date when="1864-05-09">May 9 1864</date>
     <lb/><persName ref="cwgk:001000">Hon T E Bramlette</persName>
@@ -77,10 +86,24 @@
  <lb/><persName ref="cwgk:N00005031">John M<hi rend="sup">c</hi>Intire</persName>
  <lb/>Presiding Judge of the <orgName ref="cwgk:O00000726">Washington County Court</orgName></p>
    <p><placeName ref="cwgk:P00005027">Washington Co</placeName>
+=======
+   <p><placeName ref="cwgk:P00001847">Springfield Ky</placeName><lb/><date when="1864-05-09">May 9 1864</date>
+<lb/><persName ref="cwgk:N001000">Hon T E Bramlette</persName><lb/>Gov<hi rend="sup">r</hi> of Ky
+<lb/>Dear Sir -- </p>
+<p>You have as I understand been informed by the Jailor of this County of the escape from Jail of <hi rend="str">Thomas</hi> <persName ref="cwgk:N00005230">Edward Maddox</persName> on the <gap/> day of <gap/> last, and thinking perhaps it my duty as County Judge to officially inform you of the fact in order that a reward may be offered for his arrest -- </p>
+<p>He was charged with killing W<hi rend="sup">m</hi> A Brothers of this County and was tried before an examining Court and refused bail and was Consequently Confined in Jail, A party of lawless men came into town in the night and broke the Jail door open and took him out -- I am satisfied if a suitable reward was offered, he would be arrested,</p>
+<p>He is about 5 feet 8 inches high, light complected, dark hair, about 45 or 50 years of age -- </p>
+<p>I understand that he is now in <persName ref="cwgk:N00005232">Capt Bells</persName> Company, 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry -- <pb/>
+<lb/>stationed at <placeName ref="cwgk:P00005234">Halls Gap</placeName> -- </p>
+<p>Respectfully -- 
+<lb/>John M<hi rend="sup">c</hi>Intire
+<lb/>Presiding Judge of the <orgName ref="cwgk:O00000726">Washington County Court</orgName></p>
+<p>Washington Co
+>>>>>>> c1f57fa76c835380d1cc6fdef51744998466b595
 <lb/>Reward
-<lb/>&#36;200
+<lb/>$200
 <lb/><date when="1864-05-11">11<hi rend="sup">th</hi> May 1864</date></p>
-<p>&#36;200 Reward</p>
+<p>$200 Reward</p>
   </body>
  </text>
 </TEI>
