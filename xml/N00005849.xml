@@ -10,7 +10,7 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Natalie</name>
+            <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -46,6 +46,7 @@
                       Ann Tate 
                         ()
                     </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
                       <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
@@ -53,8 +54,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Cannot determine.</p>
+        <p>Breckinridge County, Kentucky, resident. Married to Alfred Tate. Mother of Nancy Tate and Emeline Tate. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge, District No. 1, no pg. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
