@@ -3,14 +3,14 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Zacriah Walls</title>
+        <title level="a" type="main">Zachariah Walls</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Natalie</name>
+            <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -43,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00005919">
                     <persName>
-                      Zacriah Walls
+                      Zachariah Walls
                         (Mercer County)
                     </persName>
+                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,8 +54,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Cannot determine.</p>
+        <p>Mercer County, Kentucky, day laborer. Day laborer in Mercer County, Kentucky in 1860. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer, p. 108.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
