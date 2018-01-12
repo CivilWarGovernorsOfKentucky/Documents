@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0207"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,10 @@
  <text>
   <body>
    <p>M<hi rend="underline"><hi rend="sup">rs</hi></hi> Ann E. Johnson
-<lb/>Near Payne's Depot
-<lb/>Scott County Kentucky</p>
-<p><hi rend="str">His Excellency
-<lb/>Gov Johnson
-<lb/>Bowling Green
-<lb/>Ky</hi><pb/></p>
+<lb/>Near <placeName ref="cwgk:P00005406">Payne's Depot
+</placeName><lb/><placeName ref="cwgk:P001030">Scott County Kentucky</placeName></p>
+<p><placeName ref="cwgk:P00000560">Bowling Green
+Ky</placeName><pb/></p>
 <p>My Friend M<hi rend="sup">r</hi> Shower will hand you this -- Treat him very kindly for my sake</p>
 <p>G. W, J</p>
   </body>
