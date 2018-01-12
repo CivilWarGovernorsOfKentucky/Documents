@@ -10,7 +10,7 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Natalie</name>
+            <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -46,6 +46,8 @@
                       Thomas Nichols
                         ()
                     </persName>
+                        <event type="birth"  when="1827-10-30"  ><ab>1827-10-30</ab></event>
+                        <event type="death"  when="1914-07-27"  ><ab>1914-07-27</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,8 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Married Sarah Nichols</p>
+        <p>Boyd County, Kentucky, shoemaker. Native of Scotland. Married to Sarah Nichols. Shoemaker in Boyd County, Kentucky in 1880.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Boyd, Lower Catlettsburg, p. 24. <hi rend="italic">Find A Grave</hi>, &quot;Thomas Y Nichols (October 30, 1827-July 27, 1914),&quot; Memorial #32401664, http://www.findagrave.com/memorial/32401664 (accessed [January 12, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
