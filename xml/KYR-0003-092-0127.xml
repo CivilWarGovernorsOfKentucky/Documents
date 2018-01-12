@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0127"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,12 +70,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>to Genl Breckenridge I want every thing found in my clothes. I have never have assumed a position in regard to our public difficulties <hi rend="str">to be</hi> which was not sustained by the Judgement of the people. I wanted personal honor and political liberty and Constitutional state Government, and for these I drew the sword, and until those terms could be secured either by negotiation or <hi rend="str">on the</hi> dictated from the field of battle, of course we could have no other duty than to remain at our post</p>
+   <p>to <persName ref="cwgk:N001789">Genl Breckenridge</persName> I want every thing found in my clothes. I have never have assumed a position in regard to our public difficulties <hi rend="str">to be</hi> which was not sustained by the Judgement of the people. I wanted personal honor and political liberty and Constitutional state Government, and for these I drew the sword, and until those terms could be secured either by negotiation or <hi rend="str">on the</hi> dictated from the field of battle, of course we could have no other duty than to remain at our post</p>
 <p>George W Johnston
 <lb/>Provisional governor
-<lb/>of Ky</p>
-<p>Anne E Johnston
-<lb/>Georgetown Ky<pb/></p>
+<lb/>of<placeName ref="cwgk:P001800"> Ky</placeName></p>
+<p><persName ref="cwgk:N00008172">Anne E Johnston
+</persName><lb/><placeName ref="cwgk:P001838">Georgetown Ky</placeName><pb/></p>
 <p>my wife knows how well I love her and she needs no message from to tell her how I love her </p>
 <p>I wanted <hi rend="str">and</hi> my ^wife &amp;^ children to make duty to God and man the rule of their conduct</p>
   </body>
