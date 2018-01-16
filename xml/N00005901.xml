@@ -10,7 +10,7 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Natalie</name>
+            <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -46,6 +46,7 @@
                       John Cardwell
                         (Mercer County)
                     </persName>
+                        <event type="birth"  when="1832"  cert="medium" ><ab>c1832</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,8 +54,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Cannot determine.</p>
+        <p>Mercer County, Kentucky, resident. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer, District 1, no p.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
