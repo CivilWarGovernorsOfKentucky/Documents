@@ -10,7 +10,7 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Natalie</name>
+            <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -46,6 +46,8 @@
                       James M Brown 
                         (Mercer County)
                     </persName>
+                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,8 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Cannot determine.</p>
+        <p>Salvisa, Kentucky, farmer. Married to Susan P. Brown. Farmer in Salvisa, Kentucky in 1880. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer, Salvisa, p. 132. <hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Mercer, Salvisa, p. 6B.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
