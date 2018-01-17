@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Bowling Green Branch of the Northern Bank of Kentucky</title>
+        <title level="a" type="main">Bowling Green Branch of the Bank of Kentucky</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
@@ -42,18 +42,16 @@
             </textClass>
             <particDesc>
                 <org xml:id="O00008222">
-                    <orgName>Bowling Green Branch of the Northern Bank of Kentucky</orgName>
+                    <orgName>Bowling Green Branch of the Bank of Kentucky</orgName>
+                        <event type="begun"  when="1820"  ><ab>1820</ab></event>
+                        <event type="ended"  when="1865-06"  ><ab>1865-06</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
-    <body>
-        <p>This branch of the Northern Bank of Kentucky existed by 1840.</p>
-
-    </body>
     <back>
-        <ab><bibl><hi rend="italic">Reports Communicated to Both Branches of the Legislature of Kentucky, at the December Session, 1840</hi> (Frankfort, KY: A.G. Hodges, State Printer, 1840), 427.
+        <ab><bibl>Dale Royalty, &quot;Bank of Kentucky&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 47.
 </bibl></ab>
     </back>
 </text>
