@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0042"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Jefferson County</p>
-<p>Philip Breckner on his oath says, that he is now a resident of the city of Louisville living on Grayson between sixth and seventh Streets and that he has been lately discharged from the Military service of the United States into which he had enlisted and had served three years and three months in Company E. 35<hi rend="underline"><hi rend="sup">th</hi></hi> Ohio Volunteers that he had resided for about three years in the city of Louisville prior to such enlistment. Affiant was <hi rend="str">at</hi> during all that time well acquainted with William Salzman of Louisville, the same person who was indicted in the Jefferson Circuit Court and for whom David Schroeder went bail and he states from his own knowledge that the s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman is a soldier in the service of the United States and a member of the 12<hi rend="underline"><hi rend="sup">th</hi></hi> Michigan Volunteers. Affiant has seen the s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman in the service as a soldier as aforesaid and had conversed with him, not knowing that the s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman was indicted and a fugitive from justice. The s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman was at the time of the s<hi rend="underline"><hi rend="sup">d</hi></hi> interview stationed in Nashville Tennessee which is now about six months since.</p>
+   <p><placeName ref="cwgk:P001800">State of Kentucky</placeName><lb/>Jefferson County</p>
+<p><persName ref="cwgk:N00006020">Philip Breckner </persName>on his oath says, that he is now a resident of the city of <orgName ref="cwgk:O001028">Louisville</orgName> living on Grayson between sixth and seventh Streets and that he has been lately discharged from the Military service of the <orgName ref="cwgk:O00002945">United States</orgName> into which he had enlisted and had served three years and three months in Company E. 35<hi rend="underline"><hi rend="sup">th</hi></hi> Ohio Volunteers that he had resided for about three years in the city of <orgName ref="cwgk:O001028">Louisville</orgName> prior to such enlistment. Affiant was <hi rend="str">at</hi> during all that time well acquainted with <persName ref="cwgk:N00006022">William Salzman</persName> of <orgName ref="cwgk:O001028">Louisville</orgName>, the same person who was indicted in the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> and for whom <persName ref="cwgk:N00005180">David Schroeder</persName> went bail and he states from his own knowledge that the s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman is a soldier in the service of the <orgName ref="cwgk:O00002945">United States</orgName> and a member of the 12<hi rend="underline"><hi rend="sup">th</hi></hi> Michigan Volunteers. Affiant has seen the s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman in the service as a soldier as aforesaid and had conversed with him, not knowing that the s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman was indicted and a fugitive from justice. The s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman was at the time of the s<hi rend="underline"><hi rend="sup">d</hi></hi> interview stationed in <placeName ref="cwgk:P001004">Nashville Tennessee</placeName> which is now about six months since.</p>
 <p>Philip <unclear/></p>
 <p>Subscribed &amp; sworn to before me this <date when="1864-11-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864.</date></p>
 <p>John N. Mattingly
@@ -73,7 +80,7 @@
 <p><figure type="seal"><ab>JOHN N. MATTINGTLY
 <lb/>NOTARY PUBLIC
 <lb/>JEFFERSON COUNTY, KY.</ab></figure></p>
-<p></p>
+<p/>
   </body>
  </text>
 </TEI>
