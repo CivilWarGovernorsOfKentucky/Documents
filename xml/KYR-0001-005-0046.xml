@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0046"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Metcalfe Circuit Court
-<lb/><date when="1864-05">May (special called) term 1864</date>.
+   <p><orgName ref="cwgk:O001025">State of Kentucky</orgName><lb/><orgName ref="cwgk:O00000430">Metcalfe Circuit Court
+</orgName><lb/><date when="1864-05">May (special called) term 1864</date>.
 <lb/>Commonwealth Plff
-<lb/>vs. &#125; Indictment for Bigamy
-<lb/>Geo. W Polson Deft.</p>
+<lb/>vs. } Indictment for Bigamy
+<lb/><persName ref="cwgk:N00005176">Geo. W Polson</persName> Deft.</p>
 <p>On motion of the attorney for the Commonwealth, ordered that this prosecution be dismissed.</p>
-<p>A copy attest. R H Young Clk.<pb/></p>
+<p>A copy attest. <persName ref="cwgk:N00005175">R H Young</persName> Clk.<pb/></p>
 <p>Commonwealth
-<lb/>vs &#125; Indictment for Bigamy
+<lb/>vs } Indictment for Bigamy
 <lb/>Geo W Polson.
 <lb/>Copy of order.<figure type="hr"/></p>
 <p>Pardon the offence<figure type="hr"/></p>
