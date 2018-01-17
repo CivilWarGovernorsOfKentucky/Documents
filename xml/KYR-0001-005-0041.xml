@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0041"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p><figure type="seal"><ab>CITY OF LOUISVILLE
-<lb/>PROGRESS
-<lb/>KENTUCKY</ab></figure>
-<lb/>Mayor's Office,
+   <p>
+<placeName ref="cwgk:P001800">KENTUCKY</placeName><lb/>Mayor's Office,
 <lb/>Louisville, Ky., <date when="1864-12-29">Dec 29 1864</date>
 <lb/>Hon Sec<hi rend="sup">y</hi> of State
-<lb/>Frankfort Ky
-<lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>Enclosed you will find affidavit of Chas G. Jones, on which you will please send requisition on the Gov'r of Tennessee appointing Robt Gilchirest Agent to convey the prisoner to our state</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName><lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>Enclosed you will find affidavit of <persName ref="cwgk:N00005531">Chas G. Jones</persName>, on which you will please send requisition on the <persName ref="cwgk:N00005294">Gov'r of Tennessee </persName>appointing Robt Gilchirest Agent to convey the prisoner to our state</p>
 <p>By so doing you will
 <lb/>Oblige Your obt svt
-<lb/>J, B, Ehrich
-<lb/>Clk Police Dept</p>
+<lb/><persName ref="cwgk:N00005177">J. B. Ehrich
+</persName><lb/>Clk Police Dept</p>
   </body>
  </text>
 </TEI>
