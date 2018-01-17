@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0044"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Williamstown Grant Co Ky
-<lb/><date when="1864-11-23">Nov 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1864</date>
-<lb/>To his Excellency Thos E Bramlet Governor of the commonwealth of Ky</p>
-<p>The undersigned judge of the Grant county court would most respectfully represent and state that samuel Anderson in the county of Grant and state of Kentucky <hi rend="str">did</hi> killed and murdered G W Osbern on the <gap/> day of <gap/> <date when="1865">1865</date> The undersigned would further represent and state that said murder was committed in cold blood without any provocation whatever That the murdered man was a peaceable Quiet industrius &amp; good citizen of said county &amp; state &amp; was a young man with a wife and some small children and had commenced life with every prospect of succes your Excellency is now informed that said Samuel Anderson has been indicted by the Grant circuit court for the murder of said Osbern a copy of which indictment is herewith sent and that said Anderson has left the state of Kentucky &amp; fled therefrom immediately after the murder was committed by him you are now most respectfully requested to offer a liberal reward for the apprehensn of said Anderson I am sir your obt servt</p>
-<p>M Burnett pesiding Judge of Grant county<pb/></p>
+   <p><placeName ref="cwgk:P00003122">Williamstown</placeName> <placeName ref="cwgk:P00000938">Grant Co Ky</placeName><lb/><date when="1864-11-23">Nov 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1864</date>
+<lb/>To his <persName ref="cwgk:N001000">Excellency Thos E Bramlet</persName> Governor of the commonwealth of Ky</p>
+<p>The undersigned judge of the <orgName ref="cwgk:O00000628">Grant county court</orgName> would most respectfully represent and state that <persName ref="cwgk:N00005170">samuel Anderson</persName> in the county of Grant and state of Kentucky <hi rend="str">did</hi> killed and murdered G W Osbern on the <gap/> day of <gap/> <date when="1865">1865</date> The undersigned would further represent and state that said murder was committed in cold blood without any provocation whatever That the murdered man was a peaceable Quiet industrius &amp; good citizen of said county &amp; state &amp; was a young man with a wife and some small children and had commenced life with every prospect of succes your Excellency is now informed that said Samuel Anderson has been indicted by the <orgName ref="cwgk:O00000384">Grant circuit court</orgName> for the murder of said Osbern a copy of which indictment is herewith sent and that said Anderson has left the state of Kentucky &amp; fled therefrom immediately after the murder was committed by him you are now most respectfully requested to offer a liberal reward for the apprehensn of said Anderson I am sir your obt servt</p>
+<p><persName ref="cwgk:N00005169">M Burnett</persName> pesiding Judge of Grant county<pb/></p>
 <p>Petition to The Governor for a reward for samuel Anderson</p>
   </body>
  </text>
