@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0038"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,7 +72,7 @@
  <text>
   <body>
    <p>To his Excellency the <persName ref="cwgk:N001000">Governor of Kentucky</persName>,</p>
-   <p>Your petitioner respectfully represents that he was indicted at the last February Term of the <orgName ref="cwgk:O00000377">Fayette Circuit Court</orgName> for <hi rend="underline">assault</hi> and <hi rend="underline">battery</hi> that he has been tried and found guilty and a fine of &#36;100; and three months imprisonment assessed against him. While he admits the simple fact of having committed the offense charged he consider; the puneshment very severe, He says he is without money or friends and unless the fine and imprisonment is remitted he will have to stay in Jail for about 140 days. In order to avoid this disagreeable necessity, he proposes and promises <hi rend="str">that</hi> if he is released that he will join the <orgName ref="cwgk:O00001186">U S. Army</orgName> for three years or during the war, That he as always been a <placeName ref="cwgk:P001802">Union</placeName> man, loyal to his government.</p>
+   <p>Your petitioner respectfully represents that he was indicted at the last February Term of the <orgName ref="cwgk:O00000377">Fayette Circuit Court</orgName> for <hi rend="underline">assault</hi> and <hi rend="underline">battery</hi> that he has been tried and found guilty and a fine of $100; and three months imprisonment assessed against him. While he admits the simple fact of having committed the offense charged he consider; the puneshment very severe, He says he is without money or friends and unless the fine and imprisonment is remitted he will have to stay in Jail for about 140 days. In order to avoid this disagreeable necessity, he proposes and promises <hi rend="str">that</hi> if he is released that he will join the <orgName ref="cwgk:O00001186">U S. Army</orgName> for three years or during the war, That he as always been a <placeName ref="cwgk:P001802">Union</placeName> man, loyal to his government.</p>
 <p><stamp type="revenue"/><note place="stamp">W. A. S.
 <lb/><date when="1864-06-24">June 24
 <lb/>1864.</date></note></p>
@@ -74,9 +82,7 @@
 <p>Sworn to before me this <date when="1864-06-24">24 June 1864</date></p>
    <p><persName ref="cwgk:N00005263">Will: A. Stivers</persName>.
 <lb/>Notary Public.</p>
-<p><figure type="seal"><ab>W. A. STIVERS
-<lb/>NOTARY PUBLIC
- <lb/><placeName ref="cwgk:P001031">FAYETTE COUNTY, KY.</placeName></ab></figure></p>
+<p> <placeName ref="cwgk:P001031">FAYETTE COUNTY, KY</placeName>.</p>
 <p>The undersigned unite in the prayer of the petitioner</p>
    <p><persName ref="cwgk:N00005264">G. Stoll Jr</persName>
     <lb/><persName ref="cwgk:N00005265">B L Burnet</persName>
