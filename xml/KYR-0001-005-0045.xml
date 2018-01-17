@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0045"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head-Quarters District of Kentucky,
-<lb/>PROVOST MARSHAL'S OFFICE,
-<lb/>Lexington, Ky., <date when="1864-09-05">Sept 5" 1864</date>.
+   <p>Head-Quarters <orgName ref="cwgk:O00000273">District of Kentucky</orgName>,<lb/>PROVOST MARSHAL'S OFFICE,
+<lb/><placeName ref="cwgk:P001002">Lexington, Ky</placeName>., <date when="1864-09-05">Sept 5" 1864</date>.
 <lb/>General,</p>
-<p>The General Commanding directs me to say that Privates Ervin Ray, Austin, P, Smith, and William Wilcox. 35" Ky. Inft. Vols, who are now confined in the Hopkins Co. jail, upon the charge of Murdering James. L. Clark. are entitled to trial by Gen'l Court. Martial or Military Commission- He therefore directs me to make a requisition on the Govenor, through your office, for these men, that they may be tried under the 30" section of the Act of Congress, approved <date when="1863-03-03">March 3" 1863</date>.</p>
+<p>The General Commanding directs me to say that Privates <persName ref="cwgk:N00005274">Ervin Ray</persName>, <persName ref="cwgk:N00005275">Austin. P. Smith</persName>, and <persName ref="cwgk:N00005276">William Wilcox</persName>. <orgName ref="cwgk:O00005277">35" Ky. Inft. Vols</orgName>, who are now confined in the <placeName ref="cwgk:P00002615">Hopkins Co</placeName>. jail, upon the charge of Murdering James. L. Clark. are entitled to trial by Gen'l Court. Martial or Military Commission- He therefore directs me to make a requisition on the Govenor, through your office, for these men, that they may be tried under the 30" section of the Act of Congress, approved <date when="1863-03-03">March 3" 1863</date>.</p>
 <p>I am Gen'l Very Respectfully
 <lb/>Your Obt. Servt
-<lb/>R. Vance
-<lb/>Prov. Mor. Genl.
+<lb/><persName ref="cwgk:N00005279">R. Vance</persName><lb/>Prov. Mor. Genl.
 <lb/>Dist of Ky.</p>
-<p>Brig Gen'l. D. Lindsey.
-<lb/>Inspt Gen'l and Adj't Gen'l
+<p>Brig Gen'l. <persName ref="cwgk:N00000873">D. Lindsey</persName>.<lb/>Inspt Gen'l and Adj't Gen'l
 <lb/>Ky Forces
 <lb/>Frankford Ky<pb/></p>
 <p>Hd. Qrs. Dist. Ky.
