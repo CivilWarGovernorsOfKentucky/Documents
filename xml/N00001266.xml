@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001266">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Major Lloyd Tilghman</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001266">
+                    <persName>
+                      Major Lloyd Tilghman
+                        (Paducah, Kentucky, civil engineer and soldier)
+                    </persName>
+                        <event type="birth"  when="1816-01-18"  ><ab>1816-01-18</ab></event>
+                        <event type="death"  when="1863-05-16"  ><ab>1863-05-16</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Paducah, Kentucky, civil engineer and soldier. Maryland native. Son of James Tilghman and Anne Caroline Shoemaker Tilghman. Married to Augusta Murray Boyd Tilghman on May 26, 1843. Father of Lloyd Tilghman, Fred Tilghman, Slidell Tilghman, and Horatia Tilghman. Graduated from the United States Military Academy in West Point, New York, in 1836. Served in the First U.S. Dragoons in 1836. Resigned from the U.S. Army. Civil engineer in Panama and throughout many southern states, building railroads and canals, from 1836 to 1861. Veteran of the Mexican-American War. Relocated to Paducah, Kentucky, in 1852. Owned two enslaved persons in Paducah in 1860. Colonel in the 3rd Kentucky Infantry (Confederate) from July 1861 to October 1861. Promoted to brigadier general in October 1861. Commanded troops at Fort Donelson and Fort Henry in Tennessee. Prisoner of war following the surrender of Fort Donelson and transferred to Fort Warren in Massachusetts from February 1862 to July 1862. Ordered to Mississippi in August 1862. Reassigned in October 1862 to command a division of General Mansfield Lovell in Mississippi. Died in Mississippi at the Battle of Champion Hill on May 16, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McCracken County, Disctrict No. 2, Paducah, p. 127. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, McCracken County, Disctrict No. 2, Paducah, p. 19. Bruce S. Allardice and Lawrence Lee Hewitt, eds., <hi rend="italic">Kentuckians in Gray: Confederate Generals and Field Officers of the Bluegrass State</hi> (Lexington: University Press of Kentucky, 2008), 264-270. James W. Raab, <hi rend="italic">Confederate General Lloyd Tilghman: A Biography</hi> (Jefferson, North Carolina: McFarland &amp; Company, Inc, 2004), 9, 33, 107; <hi rend="italic">Find A Grave</hi>, &quot;Lloyd Tilghman ( Jamnuary 18, 1816 - May 16, 1863),&quot; Memorial #11093, https://www.findagrave.com/memorial/11093/lloyd-tilghman (accessed January 18, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
