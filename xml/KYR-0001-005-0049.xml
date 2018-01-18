@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0049"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lancaster Ky. <date when="1864-07-20">July. 20/64</date>
-<lb/>Gov. Bramlet</p>
-<p>John Tanner was Committed to the Garrard County Jail for the alleged murder of his wife, two children and sister-in law and for Arson -- he escaped the Jail on the night of the 15.<hi rend="sup"> -- </hi>inst and is now going at large -- </p>
+   <p><placeName ref="cwgk:P001842">Lancaster Ky</placeName>. <date when="1864-07-20">July. 20/64</date>
+<lb/><persName ref="cwgk:N001000">Gov. Bramlet</persName></p>
+<p><persName ref="cwgk:N00005285">John Tanner</persName> was Committed to the <placeName ref="cwgk:P00004742">Garrard County</placeName> Jail for the alleged murder of his wife, two children and sister-in law and for Arson -- he escaped the Jail on the night of the 15.<hi rend="sup"> -- </hi>inst and is now going at large -- </p>
 <p>He is about 35 or 40 years old. 5 feet six or Eight inches high, dark hair rather sallow comple<hi rend="str">ct</hi>xion-- weighs about 135<hi rend="underline"><hi rend="sup">lbs</hi></hi> has a stopage ^or stammering^ in his speech-- articulates imperfect, and in the habit of repeating the last words of every sentence -- at first the impression is made that he is simple minded or foolish -- </p>
 <p>I suggest a reward for his apprehension</p>
 <p>yours truly
-<lb/>N Sandifer P, J, G, C, C<pb/></p>
+<lb/><persName ref="cwgk:N00004743">N Sandifer </persName>P, J, <orgName ref="cwgk:O00000630">G, C, C</orgName><pb/></p>
 <p>Garrard Co
 <lb/>Reward
-<lb/>&#36;300,
+<lb/>$300,
 <lb/>for John Tanner
 <lb/><date when="1864-07-22">22<hi rend="sup">d</hi> July/64</date></p>
   </body>
