@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0051"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky</p>
-<p>Pleas before the Honorable P B Muir Sole Judge of the Jefferson Circuit Court held at the Court House in the City Louisville on the <date when="1864-06-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> day of June 1864</date></p>
+   <p><placeName ref="cwgk:P001800">State of Kentucky</placeName></p>
+<p>Pleas before the Honorable <persName ref="cwgk:N002003">P B Muir </persName>Sole Judge of the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> held at the Court House in the City <orgName ref="cwgk:O001028">Louisville </orgName>on the <date when="1864-06-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> day of June 1864</date></p>
 <p>The Commonwealth Plff
-<lb/>versus &#125; Indict felony
-<lb/>John Welch Deft</p>
-<p>Be it remembered that heretofore To wit; <date when="1864-05-07">7 day of May 1864</date>, the Grand Jurors impanneled and sworn to enquire in and for the body of the County of Jefferson and State of Kentucky, presented and returned into Court an indictment for murder, a true bill against John Welch, which is in substance as follows</p>
+<lb/>versus } Indict felony
+<lb/><persName ref="cwgk:N00005173">John Welch </persName>Deft</p>
+<p>Be it remembered that heretofore To wit; <date when="1864-05-07">7 day of May 1864</date>, the Grand Jurors impanneled and sworn to enquire in and for the body of the <placeName ref="cwgk:P001005">County of Jefferson</placeName> and State of Kentucky, presented and returned into Court an indictment for murder, a true bill against John Welch, which is in substance as follows</p>
 <p><note place="left margin">Indictment</note>
 <lb/>The Commonwealth of Kentucky
 <lb/>against
@@ -77,22 +85,22 @@
 <lb/><date when="1864-05">May Term A D 1864</date></p>
 <p>The Grand Jurors of the County of Jefferson in the name and by the authority of the Commonwealth of Kentucky accuse John Welch of the crime of murder committed in manner and form as follows To wit<pb/>
 <lb/><note place="header">2</note>
-<lb/>The said John Welch in the said County of Jefferson on the <gap/> day of <date when="1861-03">March A D 1864</date>, did wilfully, wickedly, feloniously and of his malice aforethought kill and murder Ellen Gaven by shooting her in and upon her body and breast, her right breast with a gun and pistol, contrary to the form of the statute in such cases made and provided and against the peace and dignity of the Commonwealth of Kentucky</p>
-<p>J R Dupuy
-<lb/>Commonwealth Atty</p>
+<lb/>The said John Welch in the said County of Jefferson on the <gap/> day of <date when="1861-03">March A D 1864</date>, did wilfully, wickedly, feloniously and of his malice aforethought kill and murder <persName ref="cwgk:N00006025">Ellen Gaven</persName> by shooting her in and upon her body and breast, her right breast with a gun and pistol, contrary to the form of the statute in such cases made and provided and against the peace and dignity of the Commonwealth of Kentucky</p>
+<p><persName ref="cwgk:N002002">J R Dupuy
+</persName><lb/>Commonwealth Atty</p>
 <p>Which was endorsed by the Clerk of said Court
 <lb/><date when="1864-05-07">1864 May 7</date> Rec<hi rend="sup">d</hi> from Grand Jury and filed</p>
 <p>And at a Court continued and held as aforesaid on the <date when="1864-05-13">13 May 1864</date></p>
 <p><note place="left margin">Verdict</note>
 <lb/>John Welch-- who has been indicted by a Grand Jury of this <unclear><hi rend="str">Count</hi></unclear>Circuit for felony and who is now confined in the jail of this Circuit on said charge was this day led to the bar of this Court by and in the custody of the jailor attending the same and being arraigned upon said indictment plead not guilty thereto and for his trial put himself upon the country and the Attorney for the Commonwealth likewise And the defendant moved the<pb/>
 <lb/><note place="header">3</note>
-<lb/>Court upon affidavit filed to grant him a continuance herein and said motion being heard was submitted and the Court being advised It is ordered that said motion be overruled to which ruling of the Court the defendant excepts -- Wherefore to try the issue joined let a jury come and thereupon came a jury Towit; L Richardson, Pres Rocors, A L Harding, Henry Dennis, W D Smith, J Parkhill, F H Hogan, W F Lane, A A Quarrier, George Fonterman, Robert Tompkins and W H Dulaney who being duly elected, tried and sworn well and truly to try and true deliverance make between the Commonwealth and the accused upon oath returned into Court the following verdict, We of the Jury find the accused John Welch guilty as charged in the within indictment</p>
+<lb/>Court upon affidavit filed to grant him a continuance herein and said motion being heard was submitted and the Court being advised It is ordered that said motion be overruled to which ruling of the Court the defendant excepts -- Wherefore to try the issue joined let a jury come and thereupon came a jury Towit;<persName ref="cwgk:N00006026"> L Richardson</persName>, <persName ref="cwgk:N00006027">Pres Rocors</persName>, <persName ref="cwgk:N00006028">A L Harding</persName>, <persName ref="cwgk:N00006029">Henry Dennis</persName>, <persName ref="cwgk:N00006030">W D Smith</persName>, <persName ref="cwgk:N00006031">J Parkhill</persName>, F H Hogan, <persName ref="cwgk:N00006033">W F Lane</persName>, <persName ref="cwgk:N00005530">A A Quarrier</persName>, <persName ref="cwgk:N00006034">George Fonterman</persName>, <persName ref="cwgk:N00006035">Robert Tompkins</persName> and <persName ref="cwgk:N00006036">W H Dulaney </persName>who being duly elected, tried and sworn well and truly to try and true deliverance make between the Commonwealth and the accused upon oath returned into Court the following verdict, We of the Jury find the accused John Welch guilty as charged in the within indictment</p>
 <p>A A Quarrier foreman </p>
 <p>And thereupon the prisoner was remanded and taken to jail accordingly</p>
 <p>And at a Court continued and held as aforesaid on the <date when="1864-05-14">14 May 1864</date></p>
 <p>Came the defendant by Attorney and moved the Court for a new trial on grounds in writing filed<pb/></p>
 <p><note place="header">4</note>
-<lb/><note place ="left margin">Grounds for New trial</note>
+<lb/><note place="left margin">Grounds for New trial</note>
 <lb/>The defendant John Welsh moves for a new trial in this cause because the Court misinstructed the jury</p>
 <p>Bijurs for Welsh -- </p>
 <p>And at a Court continued and held as aforesaid on the <date when="1864-05-16">16 May 1864</date></p>
@@ -101,20 +109,20 @@
 <p><note place="left margin">Sentence</note>
 <lb/>The defendant was this day brought into Court and being informed of the nature of the indictment, plea and verdict was asked if he had any legal cause to show why judgment should not now be pronounced against him; and none being shown, It is adjudged and ordered by the Court, that the said John Welsh be taken to the jail of Jefferson County Kentucky, and there safely kept until Friday the <date when="1864-07-22">22 day of July 1864</date>, on which day between sunrise and sunset, near the corner of Eighteenth and Broadway Streets in Louisville Kentucky, the Sheriff of Jefferson County Kentucky, shall hang him<pb/>
 <lb/><note place="header">5</note>
-<lb/>by the neck until he is dead; to which defendant by his Attorney excepts and prays an appeal to the Honorable the Court of Appeals and time until the <date when="--06-06">6 June</date> next is given him to file his bill of exceptions herein</p>
+<lb/>by the neck until he is dead; to which defendant by his Attorney excepts and prays an appeal to the Honorable the <orgName ref="cwgk:O00000311">Court of Appeals </orgName>and time until the <date when="--06-06">6 June</date> next is given him to file his bill of exceptions herein</p>
 <p>And at a Court continued and held as aforesaid on the <date when="1864-06-02">2 June 1864</date></p>
 <p><note place="left margin">Order filing Bill Ex</note>
 <lb/>Came the defendant by Attorney and tendered to the Court his bill of exceptions herein, which being signed and sealed by the Court is ordered to be made part of the record and proceedings herein</p>
 <p><note place="left margin">Bill of Ex</note>
-<lb/>Be it remembered that on the trial of this cause, the Commonwealth introduced as a witness James C Gill who testified that he is and was in <date when="--03">March</date> last the coroner of Jefferson County, that he held an inquest upon the body of Ellen Gaven, in <date when="--03">March</date> last; that he found her breast pierced by a bullet, of which wound she had died.</p>
-<p><note place="left margin">Cha<hi rend="sup">s</hi> Hale</note>
-<lb/>And also introduced Charles Hale, who testified that in <date when="--03">March</date> last he was engaged in the building of a house in M<hi rend="sup">c</hi>Allisters alley in the City of Louisville and was occupied on the roof of said building when he heard noise and quarrelling in the<pb/>
+<lb/>Be it remembered that on the trial of this cause, the Commonwealth introduced as a witness <persName ref="cwgk:N00002928">James C Gill </persName>who testified that he is and was in <date when="--03">March</date> last the coroner of Jefferson County, that he held an inquest upon the body of Ellen Gaven, in <date when="--03">March</date> last; that he found her breast pierced by a bullet, of which wound she had died.</p>
+<p>
+<persName ref="cwgk:N00006037">Chas Hale</persName><lb/>And also introduced Charles Hale, who testified that in <date when="--03">March</date> last he was engaged in the building of a house in M<hi rend="sup">c</hi>Allisters alley in the City of Louisville and was occupied on the roof of said building when he heard noise and quarrelling in the<pb/>
 <lb/><note place="header">6</note>
 <lb/>said alley and when he was about looking down to see the fuss, he heard some voice call out don't shoot, and simultaneously he heard the discharge of a pistol, on descending from the roof into the alley, he saw Ellen Gaven lying on the ground, her breast pierced by bullet of which wound she very soon died Witness saw the accused, he held a small pistol in his hand and fired one load of it, all that was left, into the ground and then said you may arrest me now, He was walking away slowly from the scene, all this occured in the morning between 9 and 10 O'Clock. Hale stated that he was at work 50 or 75 yards from accused &amp; deceased when he first saw them -- that at this time the deceased had a brick bat in her hand and accused had a pistol pointed at her -- deceased seemed to be ordering accused to go away and at the time accused shot her, her right hand was raised, in which she held a brick bat. Witness could'nt repeat the language used by deceased, for he did not hear it distinctly -- seeing the difficulty he witness started to run in that direction to prevent it and as he ran he said, "do'n't shoot," and as he pronounced the words "do'n't shoot," accused shot the deceased,<pb/>
 <lb/><note place="header">7</note>
 <lb/>accused could not have heard the words, "do'n't shoot," used by witness before accused shot -- the words "do'n't shoot," and the firing of accused<hi rend="sup">s</hi> pistol occured at the same time</p>
 <p><note place="left margin">Jno Gavin</note>
-<lb/>Also John Gaven -- who stated that he was the husband of the deceased, that he was 26 years of age and belonged to the <gap/> Regiment U S Volunteers, that he lived partly in the Hospital and partly in his home, having leave from the Hospital surgeon to spend his nights at home. He <hi rend="str"><unclear/></hi> his wife had occupied the back kitchen of a house in M<hi rend="sup">c</hi>Allisters alley as a dwelling, He had seen the accused once before with a companion, about a week before the killing</p>
+<lb/>Also <persName ref="cwgk:N00006038">John Gaven </persName>-- who stated that he was the husband of the deceased, that he was 26 years of age and belonged to the <gap/> Regiment U S Volunteers, that he lived partly in the Hospital and partly in his home, having leave from the Hospital surgeon to spend his nights at home. He <hi rend="str"><unclear/></hi> his wife had occupied the back kitchen of a house in M<hi rend="sup">c</hi>Allisters alley as a dwelling, He had seen the accused once before with a companion, about a week before the killing</p>
 <p>They had come to his house and offered him a drink and he took it, when they remained in his room which he and his wife occupied, and witness left and returned in a short time, when they separated in a friendly manner -- about a week after this first interview, that is on the night preceding the homicide, the accused and his former companion again appeared and asked admittance into the room occupied by witness and wife -- It was about 9 or 10 O'Clock at night. They again offered<pb/>
 <lb/><note place="header">8</note>
 <lb/>drink which he accepted and then left and did not return until about 12 O'Clock, when the deceased informed him that she had been insulted by the companion of accused. They then commenced quarreling and witness ordered them out of his house and pursued them throwing brickbats after them -- Next morning the accused returned and asked witness why he had insulted him and driven him from his premises and witness answered that he had nothing against the accused, that it was his companion who had caused all the difficulty -- On being cross examined, he stated that the quarrel of the morning of the homocide commenced in the back kitchen and that a side alley runs along the house from the alley to the kitchen, through which side alley the accused ran when pursued by witness -- Witness stated that in the pursuit he had picked up an axe to strike the accused; but had reflected on the enormity of the crime of murder and had thrown it aside; when accused had passed the gate in front of the house and had reached the centre of the alley, he turned and fired and killed witness's wife. The deceased and witness were not far apart and about 14 feet from the accused, she at the time be-<pb/>
