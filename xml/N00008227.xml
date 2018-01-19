@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008227">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Wood Bayless</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008227">
+                    <persName>
+                      George Wood Bayless
+                        (Louisville, Kentucky, physician and professor)
+                    </persName>
+                        <event type="birth"  when="1817-01-17"  ><ab>1817-01-17</ab></event>
+                        <event type="death"  when="1873-09-08"  ><ab>1873-09-08</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, physician and professor. Chairman of the medical department of the University of Louisville. Married to Virginia L. Bayless. Father of Benjamin Bayless, Mary B. Bayless, Sallie G. Bayless, Elizabeth W. Bayless, Martha B. Bayless, Maria D. Bayless, George Bayless, and Esther Bayless. Physician and professor in Louisville in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, 5th Ward, p. 157. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, 5th Ward, p. 92. &quot;Death of Professor George W. Bayless,&quot; <hi rend="italic">Courier-Journal</hi> (Louisville, Ky.), September 10, 1873, p. 1. <hi rend="italic">Find A Grave</hi>, &quot;Dr George Wood Bayless (1817-1873),&quot; Memorial #69212069, http://www.findagrave.com/memorial/69212069/george-wood-bayless (accessed January 19, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
