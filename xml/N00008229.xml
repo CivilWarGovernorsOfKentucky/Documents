@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008229">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Hancock</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008229">
+                    <persName>
+                      George Hancock
+                        (Louisville, Kentucky, planter)
+                    </persName>
+                        <event type="birth"  when="1798-04-06"  ><ab>1798-04-06</ab></event>
+                        <event type="death"  when="1875-08-27"  ><ab>1875-08-27</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, planter. Fincastle, Virginia, native. Son of George Hancock and Margaret Strother Hancock. Married to Eliza Croghan Hancock on September 28, 1819. Married to Mary Holliday Davidson Hancock on December 14, 1834. Graduated from Yale College in New Haven Connecticut, in 1818. Member of the Virginia House of Delegates. Relocated to Jefferson County, Kentucky. Planter in Jefferson County in 1850 and 1860. Owned thirty-five enslaved persons in Jefferson County in 1850. Founder and president of the Jefferson County Agricultural and Mechanical Association in 1852. Owner of Hayfield plantation in Jefferson County, Kentucky. Owned twenty-two enslaved persons in Jefferson County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, District No. 1, p. 175B. <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Jefferson County, District No. 1. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, District No. 2, p. 62. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jefferson County, District No. 2, p. 14-15. Johnston, J. Stoddard, <hi rend="italic">Memorial History of Louisville, From its First Settlement to the Year 1896, Volume I</hi> (Chicago; New York: American Biographical Publishing Co., 1896), 391-92.
+</bibl></ab>
+    </back>
+</text>
+</TEI>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006028">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. Canada</title>
+        <title level="a" type="main">Addison L. Harding</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
@@ -11,6 +11,10 @@
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Stephen Powell</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,12 +45,12 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006005">
+                <person xml:id="N00006028">
                     <persName>
-                      W. Canada
-                        ()
+                      Addison L. Harding
+                        (clerk, Jefferson County)
                     </persName>
-                        <trait type="race" subtype="White"/>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,8 +58,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Was refused a vote for C. A. Wickliffe for governor and L. S. Trimble for congress in 1863. </p>
+        <p>Louisville, Jefferson County, Kentucky, clerk. Married to Eleanor Stillwell on November 3, 1838.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson, District 1, p. 185; <hi rend="italic">Indiana Select Marriages Index - Microfilm (1748-1993)</hi>, Roll #549330, Floyd, Indiana.
+</bibl></ab>
+    </back>
 </text>
 </TEI>

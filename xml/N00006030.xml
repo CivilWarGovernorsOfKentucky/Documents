@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006030">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. Canada</title>
+        <title level="a" type="main">William D. Smith</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
@@ -11,6 +11,10 @@
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Stephen Powell</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,12 +45,12 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006005">
+                <person xml:id="N00006030">
                     <persName>
-                      W. Canada
-                        ()
+                      William D. Smith
+                        (book keeper, Louisville)
                     </persName>
-                        <trait type="race" subtype="White"/>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,8 +58,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Was refused a vote for C. A. Wickliffe for governor and L. S. Trimble for congress in 1863. </p>
+        <p>Louisville, Jefferson County, Kentucky, bookkeeper. Married to Mary C. Oliver.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson, Louisville Ward 7, p. 45. <hi rend="italic">Kentucky Birth, Marriage and Death Records - Microfilm (1852-1910)</hi>, KDLA, Roll #000482708, Jefferson County Marriages, p. 1.
+</bibl></ab>
+    </back>
 </text>
 </TEI>

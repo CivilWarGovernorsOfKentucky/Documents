@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006035">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. Canada</title>
+        <title level="a" type="main">Robert William Tompkins</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
@@ -11,6 +11,10 @@
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Stephen Powell</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,12 +45,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006005">
+                <person xml:id="N00006035">
                     <persName>
-                      W. Canada
-                        ()
+                      Robert William Tompkins
+                        (merchant, Louisville)
                     </persName>
-                        <trait type="race" subtype="White"/>
+                        <event type="birth"  when="1826"  ><ab>1826</ab></event>
+                        <event type="death"  when="1875-12-21"  ><ab>1875-12-21</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,8 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Was refused a vote for C. A. Wickliffe for governor and L. S. Trimble for congress in 1863. </p>
+        <p>Louisville, Jefferson County, Kentucky, wholesale dry goods merchant at “Joseph T. Tompkins &amp; Bro.” Married to Susanna Elizabeth Dean on November 16, 1853. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Find A Grave</hi>, “Robert William Tompkins (1826-December 21, 1875),” Memorial #65563017, https://www.findagrave.com/cgi-bin/fg.cgi?page=gsr&amp;GSfn=&amp;GSmn=&amp;GSln=&amp;GSbyrel=all&amp;GSby=&amp;GSdyrel=all&amp;GSdy=&amp;GScntry=4&amp;GSst=0&amp;GSgrid=65563017&amp;df=all&amp;GSob=n (accessed June 5, 2017). 
+</bibl></ab>
+    </back>
 </text>
 </TEI>

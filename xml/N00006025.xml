@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006025">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. Canada</title>
+        <title level="a" type="main">Ellen Gaven</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
@@ -11,6 +11,10 @@
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Stephen Powell</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,12 +45,12 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006005">
+                <person xml:id="N00006025">
                     <persName>
-                      W. Canada
-                        ()
+                      Ellen Gaven
+                        (Louisville)
                     </persName>
-                        <trait type="race" subtype="White"/>
+                        <event type="death"  when="1864-03"  ><ab>1864-03</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,8 +58,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Was refused a vote for C. A. Wickliffe for governor and L. S. Trimble for congress in 1863. </p>
+        <p>Louisville, Kentucky resident. Wife of John Gaven. Murdered in March 1863, with John Welch as the accused.</p>
 
     </body>
+    <back>
+        <ab><bibl>KYR-0001-005-0051.
+</bibl></ab>
+    </back>
 </text>
 </TEI>

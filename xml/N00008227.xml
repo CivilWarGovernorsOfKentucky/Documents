@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008227">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. Canada</title>
+        <title level="a" type="main">George Wood Bayless</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Stephen Powell</name>
+            <name>Jesse Nasta</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
+            <name>Anthony P. Curtis</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,11 +41,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006005">
+                <person xml:id="N00008227">
                     <persName>
-                      W. Canada
-                        ()
+                      George Wood Bayless
+                        (Louisville, Kentucky, physician and professor)
                     </persName>
+                        <event type="birth"  when="1817-01-17"  ><ab>1817-01-17</ab></event>
+                        <event type="death"  when="1873-09-08"  ><ab>1873-09-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,8 +56,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Was refused a vote for C. A. Wickliffe for governor and L. S. Trimble for congress in 1863. </p>
+        <p>Louisville, Kentucky, physician and professor. Chairman of the medical department of the University of Louisville. Married to Virginia L. Bayless. Father of Benjamin Bayless, Mary B. Bayless, Sallie G. Bayless, Elizabeth W. Bayless, Martha B. Bayless, Maria D. Bayless, George Bayless, and Esther Bayless. Physician and professor in Louisville in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, 5th Ward, p. 157. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, 5th Ward, p. 92. &quot;Death of Professor George W. Bayless,&quot; <hi rend="italic">Courier-Journal</hi> (Louisville, Ky.), September 10, 1873, p. 1. <hi rend="italic">Find A Grave</hi>, &quot;Dr George Wood Bayless (1817-1873),&quot; Memorial #69212069, http://www.findagrave.com/memorial/69212069/george-wood-bayless (accessed January 19, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>

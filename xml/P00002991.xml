@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00003490">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00002991">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. L. Simmons</title>
+        <title level="a" type="main">Versailles, Kentucky</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -28,36 +32,37 @@
     <sourceDesc><ab>Born Digital</ab></sourceDesc>
 </fileDesc>
 
-      <encodingDesc>
-        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
-          </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <profileDesc>
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
             <textClass>
-            <keywords>
-                <term type="type">Person</term>
-            </keywords>
-        </textClass>
-        <particDesc>
-                <person xml:id="N00003490">
-                    <persName>
-                      W. L. Simmons
-                        (stub, grant county)
-                    </persName>
-                      <trait type="gender" subtype="M"/>
-                </person> 
-        </particDesc>    
+                <keywords>
+                    <term type="type">Place</term>
+                </keywords>
+            </textClass>
+            <settingDesc>
+                <place xml:id="P00002991">
+                    <placeName>
+                        <location>
+                              <geo>38.0526 84.7299</geo>
+                            <settlement>Versailles, Kentucky</settlement>
+                        </location>
+                    </placeName>
+                </place> 
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Drafted correspondence to Thomas E. Bramlette on November 24, 1864. </p>
+        <p>Seat of Woodford County, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0043.
+        <ab><bibl>Robert M. Rennick, <hi rend="italic">Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 1988), 304.
 </bibl></ab>
     </back>
 </text>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00008362">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. Canada</title>
+        <title level="a" type="main">[ ] Regiment U S Volunteers</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Stephen Powell</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
-          </respStmt>
+          </respStmt>        
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -28,34 +24,33 @@
     <sourceDesc><ab>Born Digital</ab></sourceDesc>
 </fileDesc>
 
-      <encodingDesc>
-        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
-          </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <profileDesc>
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
             <textClass>
-            <keywords>
-                <term type="type">Person</term>
-            </keywords>
-        </textClass>
-        <particDesc>
-                <person xml:id="N00006005">
-                    <persName>
-                      W. Canada
-                        ()
-                    </persName>
-                        <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M"/>
-                </person> 
-        </particDesc>    
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00008362">
+                    <orgName>[ ] Regiment U S Volunteers</orgName>
+                </org>
+            </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Was refused a vote for C. A. Wickliffe for governor and L. S. Trimble for congress in 1863. </p>
+        <p>Regiment of which John Gaven was a part. Appeared in transcript of Commonwealth of Kentucky v. John Welch. </p>
 
     </body>
+    <back>
+        <ab><bibl>KYR-0001-005-0051.
+</bibl></ab>
+    </back>
 </text>
 </TEI>

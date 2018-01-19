@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006039">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. Canada</title>
+        <title level="a" type="main">Mary Jane McChord</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
@@ -11,6 +11,10 @@
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Stephen Powell</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,12 +45,12 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006005">
+                <person xml:id="N00006039">
                     <persName>
-                      W. Canada
-                        ()
+                      Mary Jane McChord
+                        (Louisville)
                     </persName>
-                        <trait type="race" subtype="White"/>
+                        <event type="birth"  when="1837"  ><ab>1837</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,8 +58,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Was refused a vote for C. A. Wickliffe for governor and L. S. Trimble for congress in 1863. </p>
+        <p>Louisville, Jefferson County, resident. Ohio native. Ran a boarding house in which John and Ellen Gaven and Dora Harris lived. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Twelfth Manuscript Census of the United States</hi> (1900), Population Schedules, Kentucky, Jefferson, Louisville Ward 4, p. 35A. KYR-0001-005-0051.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
