@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0052"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency The Governor of Kentucky</p>
-<p>The undersigned Judge of the Morgan county court respectfully represents that at the Spring term <date when="1865">1865</date> of the Morgan Circuit Court an<hi rend="str">d</hi> indictment was returned in said court by the Grand Jury of Morgan County charging David Roberts with the wilful and Malicious Murder of James L. Kendall a Copy of which inictment is herewith enclosed. He states that said Roberts at the time of his indictment and since that time has been a fugitive from justice, that some time after said indictment was returned against said Roberts a reward was offered by the then Governor of the commonwealth of Kentucky for his apprehension but the said reward has expired by limitation and the said Roberts is still at large and a fugitive from justice. That the said indictment has been filed away until the said Roberts can be arrested and brought before the court. That said Murder was a cold blooded and premeditated murder without excuse or mitigation and the undersigned now<pb/>
+   <p>To his Excellency The <persName ref="cwgk:N001000">Governor of Kentucky</persName></p>
+<p>The undersigned Judge of the Morgan county court respectfully represents that at the Spring term <date when="1865">1865</date> of the <orgName ref="cwgk:O00000434">Morgan Circuit Court</orgName> an<hi rend="str">d</hi> indictment was returned in said court by the Grand Jury of <placeName ref="cwgk:P00005286">Morgan County</placeName> charging <persName ref="cwgk:N00005287">David Roberts </persName>with the wilful and Malicious Murder of <persName ref="cwgk:N00005288">James L. Kendall</persName> a Copy of which inictment is herewith enclosed. He states that said Roberts at the time of his indictment and since that time has been a fugitive from justice, that some time after said indictment was returned against said Roberts a reward was offered by the then Governor of the <orgName ref="cwgk:O001025">commonwealth of Kentucky</orgName> for his apprehension but the said reward has expired by limitation and the said Roberts is still at large and a fugitive from justice. That the said indictment has been filed away until the said Roberts can be arrested and brought before the court. That said Murder was a cold blooded and premeditated murder without excuse or mitigation and the undersigned now<pb/>
 <lb/>respectfully requests your Excellency to offer a suitable reward for said Roberts in order that he may if possible be brought to before the Court and the ends of justice be enforced</p>
-<p>Oscar McKenzie County Judge for Morgan C<hi rend="underline"><hi rend="sup">o</hi></hi></p>
+<p><persName ref="cwgk:N00005289">Oscar McKenzie </persName>County Judge for Morgan C<hi rend="underline"><hi rend="sup">o</hi></hi></p>
   </body>
  </text>
 </TEI>
