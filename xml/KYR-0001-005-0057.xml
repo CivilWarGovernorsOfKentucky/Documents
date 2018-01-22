@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0057"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>The State of Kentucky
-<lb/>County of Jefferson</p>
-<p>This day William McKinzie (Enjineer of the United States Navy) made oath before me that on the <date when="1865-02-25">25th day of February 1865</date> in the City of Louisville Ky. a felony was committed by the felonious stealing and carrying away from the person and pocket of the offiant, (Wm McKinzie) six fifty d<unclear/> United States Treasury note <unclear/> of which were compound into <unclear/> notes and the other a fifty dollar Treasury note worth fifty dollars Each amounting in all to the sum of three hundred dollars in money, and one twenty dollar gold piece, also a diamond cluster ring with six setts worth &#36;1500,00 and that he has good grounds to suspect and verily believes that William Krachahone <hi rend="underline">alias</hi> George A Miller, <hi rend="underline">alias</hi> William <hi rend="str">a</hi>Ashton has been guilty of the crime of feloniously stealing and carrying away from the said Wm McKenzie the aforesaid money and property, and that the said William Krachahone <hi rend="underline">alias</hi> George A Miller, <hi rend="underline">Alias</hi> William Ashton is now a fugitive from Justice at larg in the state of<gap/><pb/>
+   <p>The<orgName ref="cwgk:O001025"> State of Kentucky</orgName><lb/><placeName ref="cwgk:P001005">County of Jefferson</placeName></p>
+<p>This day <persName ref="cwgk:N00005308">William McKinzie</persName> (Enjineer of the <orgName ref="cwgk:O00005307">United States Navy</orgName>) made oath before me that on the <date when="1865-02-25">25th day of February 1865</date> in the City of <placeName ref="cwgk:P00000337">Louisville Ky</placeName>. a felony was committed by the felonious stealing and carrying away from the person and pocket of the offiant, (Wm McKinzie) six fifty d<unclear/> United States Treasury note <unclear/> of which were compound into <unclear/> notes and the other a fifty dollar Treasury note worth fifty dollars Each amounting in all to the sum of three hundred dollars in money, and one twenty dollar gold piece, also a diamond cluster ring with six setts worth $1500,00 and that he has good grounds to suspect and verily believes that William Krachahone <hi rend="underline">alias</hi> George A Miller, <hi rend="underline">alias</hi> William <hi rend="str">a</hi>Ashton has been guilty of the crime of feloniously stealing and carrying away from the said Wm McKenzie the aforesaid money and property, and that the said William Krachahone <hi rend="underline">alias</hi> George A Miller, <hi rend="underline">Alias</hi> William Ashton is now a fugitive from Justice at larg in the state of<gap/><pb/>
 <lb/>and thus this affidavit is made for the purpose of geting a requisition for him from the Govonr of <hi rend="str">said state</hi> Kentucky to <hi rend="str">of</hi> the Governor of the state of <gap/></p>
 <p>W<hi rend="sup">m</hi> McKenzie</p>
 <p>Subscribed and sworn to before me by William McKenzie this <date when="1865-02-27">27th day of Feb 1865</date>.</p>
