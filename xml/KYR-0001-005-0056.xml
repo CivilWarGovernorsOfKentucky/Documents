@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0056"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Edmonton Ky <date when="1865-02-27">Feb 27<hi rend="sup">th</hi>/64</date>
-<lb/>Hon Thomas E Bramlett
-<lb/>Govrnor of Kentucky</p>
-<p>Sir-- This is to inform you that John Neal a citizen of Metcalfe county &amp; discharged soldier was Shot &amp; killed on the Streets of the Town of Center in this County by Richard Williams ^<date when="1865-02-05">Feb 5<hi rend="sup">th</hi> 1865</date>^ also a citizen of this County (Metcalfe)-- The act was done so far as I can learn without Provocation and the criminal has made good his escape -- This is therefore to ask that you offer a reasonable reward for his apprehension -- </p>
+   <p><placeName ref="cwgk:P00005304">Edmonton Ky</placeName> <date when="1865-02-27">Feb 27<hi rend="sup">th</hi>/64</date>
+<lb/>Hon <persName ref="cwgk:N001000">Thomas E Bramlett</persName><lb/>Govrnor of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>Sir-- This is to inform you that <persName ref="cwgk:N00005305">John Neal</persName> a citizen of <placeName ref="cwgk:P00004949">Metcalfe county</placeName> &amp; discharged soldier was Shot &amp; killed on the Streets of the Town of Center in this County by <persName ref="cwgk:N00005306">Richard Williams</persName> ^<date when="1865-02-05">Feb 5<hi rend="sup">th</hi> 1865</date>^ also a citizen of this County (Metcalfe)-- The act was done so far as I can learn without Provocation and the criminal has made good his escape -- This is therefore to ask that you offer a reasonable reward for his apprehension -- </p>
 <p>Respectfuly yours,
-<lb/>John Y Wallace
-<lb/>Judge of Metcalfe County Court<pb/></p>
-<p>&#36;250. Reward for Rich<hi rend="underline"><hi rend="sup">d</hi></hi> Williams for Murder of John Neal
+<lb/><persName ref="cwgk:N00000966">John Y Wallace
+</persName><lb/>Judge of <orgName ref="cwgk:O00000665">Metcalfe County Court</orgName><pb/></p>
+<p>$250. Reward for Rich<hi rend="underline"><hi rend="sup">d</hi></hi> Williams for Murder of John Neal
 <lb/><date when="1864-03-06">6<hi rend="sup">th</hi> Mch/65</date></p>
   </body>
  </text>
