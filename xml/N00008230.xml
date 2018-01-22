@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008230">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Alvin Duvall</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008230">
+                    <persName>
+                      Alvin Duvall
+                        (Scott County, Kentucky, court of appeals judge)
+                    </persName>
+                        <event type="birth"  when="1813-03-20"  ><ab>1813-03-20</ab></event>
+                        <event type="death"  when="1891-11-17"  ><ab>1891-11-17</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Scott County, Kentucky, court of appeals judge. Scott County native. Son of John Alvin Duvall. Married to Virginia Hotlzclaw Duvall in 1843. Father of Henry Duvall, Alvin Duvall, Jr., Virginia Duvall, William Duvall, and Mary Stites Duvall. Graduated from Georgetown College in Georgetown, Kentucky, in 1833. Studied law under James F. Robinson. Graduated from the Law Department at Transylvania University in Lexington, Kentucky, in 1840. Practiced law in Georgetown from 1840 to 1852. Member of the House of Representatives of the Commonwealth of Kentucky from Scott County in 1850. Judge of the ??? Judicial District of the Commonwealth of Kentucky from 1852 to 1856. Judge of the Court of Appeals of the Commonwealth of Kentucky from 1856 to 1864. Chief justice of the Court of Appeals from 1862 to 1864. Removed from the 1864 poll books and ordered arrested by General Stephen G. Burbridge, under suspicion of disloyalty, in August 1864. Fled to Canada for two months. Returned to Georgetown to assume his law practice from 1864 to 1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky,  Franklin County, Frankfort, p. 25. H. Levin, <hi rend="italic">The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 86. <hi rend="italic">The National Cyclopaedia of American Biography. Volume VI</hi> (New York: James T. White &amp; Company, 1896), 14. <hi rend="italic">Find A Grave</hi>, &quot;Alvin Duvall, Sr (1813-1891),&quot; Memorial #43161683, http://www.findagrave.com/memorial/43161683/alvin-duvall (accessed January 22, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
