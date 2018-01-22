@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005310">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Christian Quinot</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Stephen Powell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005310">
+                    <persName>
+                      Christian Quinot
+                        (Louisville, Kentucky, blacksmith)
+                    </persName>
+                        <event type="birth"  when="1835-06-28"  ><ab>1835-06-28</ab></event>
+                        <event type="death"  when="1865-07"  ><ab>1865-07</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, blacksmith. Native of Germany. Son of Christian Quinot and Sophie Herwagen Quinot. Married to Pauline Quinot. Blacksmith in Louisville in 1861. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Germany, Select Birth and Baptisms - Microfilm</hi> (1558-1898), Roll # 1052925, p. unknown. Henry Tanner, ed., <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 199. <hi rend="italic">Kentucky Wills and Probate Records</hi> (1774-1989), Jefferson, Wills, Vols. 6-7, 1862-1872, p. 167. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
