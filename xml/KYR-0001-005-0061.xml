@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0061"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Gov. Bramlette.
-<lb/>Frankfort
-<lb/>Sir,</p>
-<p>I enclose you two letters received from the Clerk of the Bath Circuit Court -- an estimable &amp; reliable gentleman. -- </p>
+   <p><persName ref="cwgk:N001000">Gov. Bramlette</persName>.<lb/><placeName ref="cwgk:P00000308">Frankfort
+</placeName><lb/>Sir,</p>
+<p>I enclose you two letters received from the <persName ref="cwgk:N00003130">Clerk</persName> of the <orgName ref="cwgk:O00000358">Bath Circuit Court</orgName> -- an estimable &amp; reliable gentleman. -- </p>
 <p>I hope that you will at once take the action which you deem proper. -- </p>
 <p>Very Respy
-<lb/>R. Apperson Jr.
-<lb/>Circt. Judge 11<hi rend="sup">th</hi> District</p>
-<p>Mt. Sterling Ky
-<lb/><date when="1864-05-11">11 May 65</date>.</p>
+<lb/><persName ref="cwgk:N00003127">R. Apperson Jr.
+</persName><lb/>Circt. Judge 11<hi rend="sup">th</hi> District</p>
+<p><placeName ref="cwgk:P00001936">Mt. Sterling Ky
+</placeName><lb/><date when="1864-05-11">11 May 65</date>.</p>
   </body>
  </text>
 </TEI>
