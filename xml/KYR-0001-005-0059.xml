@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0059"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Catlettsburg Ky
-<lb/><date when="1865-03-26">March 26 1865</date>
+   <p><placeName ref="cwgk:P00001173">Catlettsburg Ky</placeName><lb/><date when="1865-03-26">March 26 1865</date>
 <lb/>Govener Bramlett
 <lb/>Sir</p>
-<p>Enclosed is a certified copy of an indictment against Calvin Dyer for feloniously receiving stolen goods he has forfeited his recognizence and is now in scioto county ohio please have a requisition for him</p>
+<p>Enclosed is a certified copy of an indictment against <persName ref="cwgk:N00005317">Calvin Dyer</persName> for feloniously receiving stolen goods he has forfeited his recognizence and is now in <placeName ref="cwgk:P00005316">scioto county ohio</placeName> please have a requisition for him</p>
 <p>Yours
-<lb/>J D Jones
-<lb/>County Atty<pb/></p>
-<p>Requisition on Governor of Ohio 
-<lb/>issued &amp; -- 
+<lb/><persName ref="cwgk:N00005315">J D Jones</persName><lb/>County Atty<pb/></p>
+<p>Requisition on <persName ref="cwgk:N00008365">Governor of Ohio</persName> <lb/>issued &amp; -- 
 <lb/>appt<hi rend="underline"><hi rend="sup">d</hi></hi> Agent to make demand
 <lb/><date when="1865-03-31">31<hi rend="sup">st</hi> Mch 1865</date></p>
   </body>
