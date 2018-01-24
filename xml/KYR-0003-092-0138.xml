@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0138"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,14 +70,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>George W Johnson Dr
-<lb/>To O. W. Gaines</p>
+   <p><persName ref="cwgk:N001002">George W Johnson</persName> Dr<lb/>To <persName ref="cwgk:N00008251">O. W. Gaines</persName></p>
 <p><date when="1861-05-25">1861
 <lb/>May 25</date>
 <lb/><table rend="rules">
 <row>
 	<cell>2884 feet of inch plank at 1,56</cell>
-	<cell>&#36;43.26</cell>
+	<cell>$43.26</cell>
 </row>
 <row>
 	<cell>Stable Bill up to this date</cell>
@@ -77,7 +84,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>&#36;46.66</cell>
+	<cell>$46.66</cell>
 </row>
 </table><pb/></p>
 <p>Received with Act &amp; all others up to this date in full <date when="1862-03-20">Mar 20.th 1862</date></p>
