@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0137"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,8 +70,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mr Geo W Johnson
-<lb/><table rend="rules">
+   <p>Mr <persName ref="cwgk:N001002">Geo W Johnson
+</persName><lb/><table rend="rules">
 <row>
 	<cell>1860</cell>
 	<cell/>
@@ -76,11 +84,11 @@
 </row>
 </table></p>
 <p><date when="1862-04-10">April 10<hi rend="sup">th </hi>1862</date> Received payment</p>
-<p>J. W. South,<pb/></p>
+<p><persName ref="cwgk:N00003959">J. W. South</persName>,<pb/></p>
 <p>Geo W Johnson 
 <lb/>In a/c with 
 <lb/>Ky Penty
-<lb/>&#36;70</p>
+<lb/>$70</p>
   </body>
  </text>
 </TEI>
