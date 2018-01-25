@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0090"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,21 +72,19 @@
  <text>
   <body>
    <p><date when="1865-08-31">August 31 1865</date>
-<lb/>Morgantown Butler Co Ky.
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
-<lb/>Governer of Ky</p>
-<p>On the <date when="1865-04-12">12<hi rend="sup">th</hi> day of April</date> last one James M Bryant in a drinking spree on a difference about &#36;5<hi rend="underline">00</hi> sudenly picked up a Stone &amp; killed Cap<hi rend="underline"><hi rend="sup">t</hi></hi> John J -- Washer and made his escape. we have made &#36;100- to pay for his arrest as we believe we have heard of his whereabouts and desire if you think proper that you would offer a like amount. Capt Washer was as peaceable inoffensive &amp; harmless as any man &amp; Suppirted a good character. He served gallantly as Capt in the 11 Ky Vol In. throughout truly brave &amp; loyal his only fault was sometimes drinking toomuch. Bryant was a disapated gambler</p>
+<lb/><placeName ref="cwgk:P00005534">Morgantown</placeName> Butler Co <orgName ref="cwgk:O001025">Ky</orgName>.<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
+<lb/>Governer of <orgName ref="cwgk:O001025">Ky</orgName></p>
+<p>On the <date when="1865-04-12">12<hi rend="sup">th</hi> day of April</date> last one <persName ref="cwgk:N00005536">James M Bryant</persName> in a drinking spree on a difference about $5<hi rend="underline">00</hi> sudenly picked up a Stone &amp; killed Cap<hi rend="underline"><hi rend="sup">t</hi></hi> John J -- Washer and made his escape. we have made $100- to pay for his arrest as we believe we have heard of his whereabouts and desire if you think proper that you would offer a like amount. Capt Washer was as peaceable inoffensive &amp; harmless as any man &amp; Suppirted a good character. He served gallantly as Capt in the <orgName ref="cwgk:O00002636">11 Ky Vol In</orgName>. throughout truly brave &amp; loyal his only fault was sometimes drinking toomuch. Bryant was a disapated gambler</p>
 <p>Verry Respectfully
-<lb/>John C Cohron
-<lb/>Admi<hi rend="underline"><hi rend="sup">r</hi></hi> of Capt John J Washer</p>
+<lb/><persName ref="cwgk:N00005538">John C Cohron</persName><lb/>Admi<hi rend="underline"><hi rend="sup">r</hi></hi> of Capt John J Washer</p>
 <p>Morgantown Ky <date when="1865-09-02">Sept 2nd 1865</date></p>
 <p>I think it would be right &amp; proper to offer the reward as Washer was a good Citizen and the Statements of John C Cohron are<pb/>
 <lb/>to be relied on.</p>
 <p>yours &amp;c
-<lb/>B L D Guffy p J B C C</p>
+<lb/><persName ref="cwgk:N00005540">B L D Guffy</persName> p J <orgName ref="cwgk:O00000359">B C C</orgName></p>
 <p>Butler Co
 <lb/>Reward
-<lb/>&#36;200- for J. M Bryant
+<lb/>$200- for J. M Bryant
 <lb/>offered <date when="1865-09-09">9 Sept/65</date>.</p>
   </body>
  </text>
