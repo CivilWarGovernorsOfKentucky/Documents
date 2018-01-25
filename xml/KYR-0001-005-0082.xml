@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0082"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,28 +71,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>Campbell Circuit Court
-<lb/>The Com"mth of Kentucky Plaintiff
-<lb/>Against &#125; Indictment for Refusing to receive the vote of a qualified voter
-<lb/>John W Flora &amp; George Herendon Defendants</p>
-<p>The Grand Jury of Campbell County, in the name and by the authority of the Commonwealth of Kentucky, accuse John W Flora &amp; Geo Herendon of the offense of refusing to receive the vote of a qualified voter, Committed as follows, viz; The Said John W, Flora &amp; George Herendon on the <gap/> day of <date when="1865-08">August, 1865</date>, and on divers other days and times, before and since that time, and before the finding of this Indictment, in the County and State aforesaid, being officers of an Election then &amp; there held at Carthage Precinct in Said County, under the Constitution and laws of the State aforesaid, for the Election<pb/>
-<lb/>of a Member of the Congress of the United States, for the 6<hi rend="underline"><hi rend="sup">th</hi></hi> Congressional District, a State Treasurer, a Senator from the 25<hi rend="underline"><hi rend="sup">th</hi></hi> Senatorial District in the State aforesaid, two Members of the General assembly for the County aforesaid, and a Clerk of the Circuit Court for the county aforesaid, The Said Flora being then &amp; there a Judge of said Election &amp; the Said Herendon the Sheriff of the said Election -- Severally acting as such, at the time and place aforesaid, having been duly appointed &amp; qualified as such Judge &amp; Sheriff, and the Jury aforesaid in the name and by the authority aforesaid, does further Say that at the Election aforesaid held for the purpose aforesaid, at the Precinct and County aforesaid -- Alfred Dial a qualified voter of said precinct &amp; county, did then &amp; there appear at the Polls before the Judges, Sheriff &amp; Clerk of Said Election between the hours of Seven Oclock A, M, and<pb/>
+   <p><orgName ref="cwgk:O00000361">Campbell Circuit Court</orgName><lb/>The <orgName ref="cwgk:O001025">Com"mth of Kentucky </orgName>Plaintiff<lb/>Against } Indictment for Refusing to receive the vote of a qualified voter
+<lb/><persName ref="cwgk:N00005341">John W Flora</persName> &amp; <persName ref="cwgk:N00005340">George Herendon </persName>Defendants</p>
+<p>The Grand Jury of <placeName ref="cwgk:P00001874">Campbell County</placeName>, in the name and by the authority of the Commonwealth of Kentucky, accuse John W Flora &amp; Geo Herendon of the offense of refusing to receive the vote of a qualified voter, Committed as follows, viz; The Said John W, Flora &amp; George Herendon on the <gap/> day of <date when="1865-08">August, 1865</date>, and on divers other days and times, before and since that time, and before the finding of this Indictment, in the County and State aforesaid, being officers of an Election then &amp; there held at <placeName ref="cwgk:P00005339">Carthage</placeName> Precinct in Said County, under the Constitution and laws of the State aforesaid, for the Election<pb/>
+<lb/>of a Member of the <orgName ref="cwgk:O00005496">Congress of the United States</orgName>, for the 6<hi rend="underline"><hi rend="sup">th</hi></hi> Congressional District, a State Treasurer, a Senator from the 25<hi rend="underline"><hi rend="sup">th</hi></hi> Senatorial District in the State aforesaid, two Members of the General assembly for the County aforesaid, and a Clerk of the Circuit Court for the county aforesaid, The Said Flora being then &amp; there a Judge of said Election &amp; the Said Herendon the Sheriff of the said Election -- Severally acting as such, at the time and place aforesaid, having been duly appointed &amp; qualified as such Judge &amp; Sheriff, and the Jury aforesaid in the name and by the authority aforesaid, does further Say that at the Election aforesaid held for the purpose aforesaid, at the Precinct and County aforesaid -- <persName ref="cwgk:N00005354">Alfred Dial </persName>a qualified voter of said precinct &amp; county, did then &amp; there appear at the Polls before the Judges, Sheriff &amp; Clerk of Said Election between the hours of Seven Oclock A, M, and<pb/>
 <lb/>Six Oclock P M, and did then &amp; there offer to vote, Whereupon the Said John W Flora and the said Geo Herendon as Judge &amp; Sheriff of Said Election Respectively did knowingly unlawfully and completly refuse to receive the vote of the Said Alfred Dial, Contrary to the Statute made and provided, and against the peace and dignity of the Commonwealth of Kentucky.</p>
 <p>Witnesses
 <lb/><hi rend="underline">Alfred Dial</hi></p>
 <p>R. B. Carpenter
 <lb/>Commonwealths Attorney</p>
 <p>A, Copy
-<lb/>Attest Benj Beall clk
-<lb/>Campbell Circuit Court<pb/></p>
+<lb/>Attest <persName ref="cwgk:N00001889">Benj Beall</persName> clk<lb/>Campbell Circuit Court<pb/></p>
 <p>134
 <lb/>The Commonwealth
 <lb/>Against
 <lb/>John W Flora &amp; Geo Herendon<figure type="hr"/>
 <lb/>Indictment for Refusing to receive the vote of a qualified voter<figure type="hr"/>
 <lb/>A True Bill
-<lb/>G. W. Carmack
-<lb/>Foreman<figure type="hr"/>
+<lb/><persName ref="cwgk:N00005338">G. W. Carmack
+</persName><lb/>Foreman<figure type="hr"/>
 <lb/>Filed <date when="1865-08-24">Aug 24<hi rend="sup">th</hi> 1865</date>
 <lb/>B. W iss<hi rend="sup">d</hi> <date when="1865-08-28">aug 28th "</date></p>
   </body>
