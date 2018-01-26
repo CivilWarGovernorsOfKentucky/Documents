@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0094"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Thomas E. Bramlett Gov. of Ky.</p>
-<p>The undersigned Circuit Judge of the 12<hi rend="sup">th</hi> Judicial district of Ky would respectfully represent that Nelson Voluntine Stands indicted in the Knox Circuit Court for the Murder of <gap/> Walker charged to have been Committed in Knox County Ky on the <gap/> day of <date when="1864-10">Oct 1864</date>. -- That said Voluntine has flead from Justice &amp; is now at large- And it has been made to appear to the undersigned that the Same is an <hi rend="underline">aggrav</hi>ated case of Murder &amp; that a reward should be Offered for the Apprehention of the perpetrator -- Your Excellency is therefore respectfully requested to issue a reward for the apprehention of Said Valentine -- Barbourville Knox County Ky <date when="1865-09-22">Sept 22. 1865</date>.</p>
-<p>Granville Pearl</p>
+   <p>To His Excellency Thomas E. Bramlett Gov. of <placeName ref="cwgk:P001800">Ky</placeName>.</p>
+<p>The undersigned Circuit Judge of the 12<hi rend="sup">th</hi> Judicial district of Ky would respectfully represent that <persName ref="cwgk:N00005370">Nelson Voluntine</persName> Stands indicted in the <orgName ref="cwgk:O00000411">Knox Circuit Court</orgName> for the Murder of <gap/> <persName ref="cwgk:N00005369">Walker</persName> charged to have been Committed in <placeName ref="cwgk:P00000855">Knox County Ky </placeName>on the <gap/> day of <date when="1864-10">Oct 1864</date>. -- That said Voluntine has flead from Justice &amp; is now at large- And it has been made to appear to the undersigned that the Same is an <hi rend="underline">aggrav</hi>ated case of Murder &amp; that a reward should be Offered for the Apprehention of the perpetrator -- Your Excellency is therefore respectfully requested to issue a reward for the apprehention of Said Valentine -- <placeName ref="cwgk:P00005368">Barbourville</placeName> <placeName ref="cwgk:P00000855">Knox County Ky </placeName><date when="1865-09-22">Sept 22. 1865</date>.</p>
+<p><persName ref="cwgk:N00002711">Granville Pearl</persName></p>
 <p>Description</p>
 <p>Said Voluntine is about 32 years old: 6 feet high, heavy Eyebrows. dark Skin &amp; dark Eyes. &amp; dark hair. Wears mushtash -- quiet spoken -- prominent front teeth has a Scar on the calf of his leg from<pb/>
 <lb/>gun shot wound -- is a gambler &amp; drinks hard.</p>
@@ -73,9 +81,9 @@
 <lb/>Knox Cir Ct
 <lb/>vs</p>
 <p>Com<hi rend="sup">th</hi>
-<lb/>gt &#125; Pet for <hi rend="underline">reward</hi>
+<lb/>gt } Pet for <hi rend="underline">reward</hi>
 <lb/>Nelsen Valuntine<figure type="hr"/>
-<lb/>&#36;250 = Reward offered 
+<lb/>$250 = Reward offered 
 <lb/><date when="1866-04-27">27 Apl/66</date>
 <lb/>Knox</p>
   </body>
