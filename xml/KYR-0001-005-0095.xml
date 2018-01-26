@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0095"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,14 +72,10 @@
  <text>
   <body>
    <p><hi rend="str">To</hi>
-<lb/>Commonwealth of Kentucky
-<lb/>Mercer County -- Sct -- 
-<lb/>To His Excellency, Thomas E. Bramlette,
-<lb/>Govenor of Kentucky;</p>
-<p>Your Petitioner, Mercer County Judge, Thos- Edwards, represents that the following persons have committed a heinous offence against the person of Mrs- <gap/> Gray by committing a rape upon her person in the presence of her husband whom they had bound and robbed, You are therefore especially petitioned, requested, and implored by me to offer a reward of &#36;500 each for said parties, whose names are Thomas Jenkins, Anthony Smith and John Bishop -- The description of them is herewith presented as part hereof -- 
-<lb/><date when="1865-09-05">5 Sept 1865</date></p>
-<p>Tho<hi rend="sup">s</hi> Edwards P J M C C</p>
-<p></p>
+<lb/>Commonwealth of <placeName ref="cwgk:P001800">Kentucky</placeName><lb/><placeName ref="cwgk:P00000556">Mercer County</placeName> -- Sct -- <lb/>To His Excellency, <persName ref="cwgk:N001000">Thomas E. Bramlette</persName>,<lb/>Govenor of <placeName ref="cwgk:P001800">Kentucky</placeName>;</p>
+<p>Your Petitioner, Mercer County Judge, Thos- Edwards, represents that the following persons have committed a heinous offence against the person of Mrs- <gap/> Gray by committing a rape upon her person in the presence of <persName ref="cwgk:N00006133">her husband</persName> whom they had bound and robbed, You are therefore especially petitioned, requested, and implored by me to offer a reward of $500 each for said parties, whose names are <persName ref="cwgk:N00005372">Thomas Jenkins</persName>, <persName ref="cwgk:N00005373">Anthony Smith</persName> and <persName ref="cwgk:N00005374">John Bishop</persName> -- The description of them is herewith presented as part hereof -- <lb/><date when="1865-09-05">5 Sept 1865</date></p>
+<p>Tho<hi rend="sup">s</hi> Edwards P J M C<orgName ref="cwgk:O00000424"> </orgName>C</p>
+<p/>
   </body>
  </text>
 </TEI>
