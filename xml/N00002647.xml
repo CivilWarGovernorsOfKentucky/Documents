@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002647">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edwin McMasters Stanton</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002647">
+                    <persName>
+                      Edwin McMasters Stanton
+                        (United States Attorney General and Secretary of War)
+                    </persName>
+                        <event type="birth"  when="1814-12-19"  ><ab>1814-12-19</ab></event>
+                        <event type="death"  when="1869-12-24"  ><ab>1869-12-24</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>United States Attorney General and Secretary of War. Steubenville, Ohio, native. Attended Kenyon College in Gambier, Ohio. Studied law with Daniel L. Collier. Admitted to the bar in Ohio in 1836. Attorney in Pittsburgh, Pennsylvania, from 1847 to 1855. Attorney in Washington, District of Columbia, from 1855 to 1860. Attorney General of the United States under President James Buchanan from December 1860 to March 1861. Secretary of War of the United States under President Abraham Lincoln and President Andrew Johnson, from January 1862 to May 1868.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Walter Stahr, <hi rend="italic">Stanton: Lincoln&#39;s War Secretary</hi> (New York: Simon &amp; Schuster, 2017). William L. Barney, <hi rend="italic">The Oxford Encyclopedia of the Civil War</hi> (New York: Oxford University Press, 2011), 301-302.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
