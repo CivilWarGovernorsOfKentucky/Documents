@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0093"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,20 +70,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Memorandum of indictments found at the <date when="1865-06">June term 1865</date> of the Caldwell Circuit Court against Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> &amp; others.</p>
+   <p>Memorandum of indictments found at the <date when="1865-06">June term 1865</date> of the <orgName ref="cwgk:O00000363">Caldwell Circuit Court</orgName> against Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> &amp; others.</p>
 <p>For permitting F. W. Da<hi rend="str"><unclear/></hi>bney a minor to play on a Jennie Lind Table, without the written permission of his parents,</p>
 <p>W. E. Mitchusson &amp; Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi>
 <lb/>For Keeping a <hi rend="str">J</hi> gaming table, towit, a Jennie Lind table, they being licensed coffee house Keepers.</p>
-<p>Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> &amp; S. M. Miller
-<lb/>Permitting gaming in a house with cards and on a Jennie Lind table,</p>
+<p>Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> &amp; <persName ref="cwgk:N00006053">S. M. Miller
+</persName><lb/>Permitting gaming in a house with cards and on a Jennie Lind table,</p>
 <p>Edward Baker J<hi rend="underline"><hi rend="sup">r.</hi></hi> &amp; S. M. Miller
-<lb/>Permitting minors, towit Fisk Overby, W. Owen and William Denny, to game upon a Jennie Lind table,</p>
+<lb/>Permitting minors, towit <persName ref="cwgk:N00006059">Fisk Overby</persName>, <persName ref="cwgk:N00006060">W. Owen</persName> and <persName ref="cwgk:N00006061">William Denny</persName>, to game upon a Jennie Lind table,</p>
 <p>Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> and S. M. Miller,
-<lb/>Permitting minors to play in a Jennie Lind table towit E. B. Ford, Robert Overby and George Coon,</p>
+<lb/>Permitting minors to play in a Jennie Lind table towit <persName ref="cwgk:N00006062">E. B. Ford</persName>, <persName ref="cwgk:N00006063">Robert Overby</persName> and <persName ref="cwgk:N00006064">George Coon</persName>,</p>
 <p>Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> and S. M. Miller,
 <lb/>Keeping a gaming table, towit: a Jennie Lind table</p>
-<p>Edward Baker and L. D. Gardner
-<lb/>Gaming on Pigeon hole table.<pb/></p>
+<p>Edward Baker and <persName ref="cwgk:N00006057">L. D. Gardner
+</persName><lb/>Gaming on Pigeon hole table.<pb/></p>
 <p>Memorandum of Indictments against Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>,,</p>
   </body>
  </text>
