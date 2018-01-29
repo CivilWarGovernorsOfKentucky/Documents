@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006072">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John McAuley Palmer</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Stephen Powell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Stephen Powell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006072">
+                    <persName>
+                      John McAuley Palmer
+                        (Military Governor of Kentucky)
+                    </persName>
+                        <event type="birth"  when="1817-09-13"  ><ab>1817-09-13</ab></event>
+                        <event type="death"  when="1900-09-25"  ><ab>1900-09-25</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Carlinville, Illinois, attorney, major general, and Military Governor. Eagle Creek, Kentucky, native. Attorney in Carlinville, Illinois in 1840. Delegate to the state constitutional convention in 1847. Member of the state senate from 1852 to 1854. Delegate to the National Republican convention at Philadelphia in 1856. Presidential elector to the Republican ticket of 1860. Delegate to the Peace convention at Washington, February 4th, 1861. Served in the Fourteenth Regiment, Illinois Volunteer Infantry as colonel, brigadier-general, and major-general from 1861 to 1866. Served as Military Governor of Kentucky in early 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl>George T. Palmer, <hi rend="italic">A Conscientious Turncoat: The Story of John M. Palmer, 1817-1900.</hi> (New Haven: Yale University Press, 1941). John M. Palmer, <hi rend="italic">Personal Recollections of John M. Palmer: The Story of an Ernest Life.</hi> (Cincinnati: R. Clarke Co., 1901). &quot;John McCauley Palmer,&quot; <hi rend="italic">Appletons&#39; Cyclopedia of American Biography</hi> (1600-1889), Volume IV,  p. 640. <hi rend="italic">Find a Grave</hi>, <hi rend="italic">John McAuley Palmer (September 13, 1817-September 25, 1900),</hi> Memorial #5895174, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=Palmer&amp;GSfn=John&amp;GSmn=McAuley&amp;GSbyrel=all&amp;GSdyrel=all&amp;GSob=n&amp;GRid=5895174&amp;df=all&amp; (accessed July 20, 2017).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
