@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005391">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas Clelland Bell</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Stephen Powell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Stephen Powell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005391">
+                    <persName>
+                      Thomas Clelland Bell
+                        (lawyer)
+                    </persName>
+                        <event type="birth"  when="1838-04-29"  ><ab>1838-04-29</ab></event>
+                        <event type="death"  when="1901-02-01"  ><ab>1901-02-01</ab></event>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Harrodsburg, Kentucky, attorney. Kentucky native. Married to Sallie M. Bell. Father of Paul E. Bell, Anna C. Bell, and William C. Bell. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mercer, Harrodsburg, p. 22. <hi rend="italic">Find A Grave</hi>, “Thomas Clelland Bell (April 29, 1838-February 1, 1901),” Memorial #45692592, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=45692592 (accessed June 5, 2017).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
