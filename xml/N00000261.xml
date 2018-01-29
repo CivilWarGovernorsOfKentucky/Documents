@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000261">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Gibson Mallory</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000261">
+                    <persName>
+                      Gibson Mallory
+                        (Jefferson County, Kentucky, planter)
+                    </persName>
+                        <event type="birth"  when="1810"  cert="medium" ><ab>c1810</ab></event>
+                        <event type="death"  when="1864-07-26"  ><ab>1864-07-26</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, planter. Virginia native. Married to Sarah E. Mallory. Member of the Senate of the Commonwealth of Kentucky from Jefferson County from 1857 to 1859 and from 1863 to 1864. Planter in Jefferson County in 1860. Owned thirty-one enslaved persons in Jefferson County in 1860. Member of the Kentucky State Agricultural Society from 1857 to 1864. Director of the Kentucky State Agricultural Society in 1864. Murdered in Jefferson County by a Union soldier on July 27, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, District 2, p. 22. <hi rend="italic">Louisville Weekly Journal</hi> (Louisville, Ky.), July 28, 1864, p. 2. &quot;Local Committees of Arrangements of the U.S. Agricultural Society,&quot; <hi rend="italic">Daily Courier</hi> (Louisville, Ky.), March 31, 1857, p. 3. Lewis Collins, <hi rend="italic">Collins&#39; Historical Sketches of Kentucky: History of Kentucky</hi>, vol 1 (Covington, Ky.: Collins &amp; Co, 1882), 137.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
