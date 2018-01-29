@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0101"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>The Commonwealth of Kentucky to any peace officer of Mercer County</p>
-<p>It appearing that there are reasonable grounds for believing that John D Hale has been guilty of a breach of the peace by drawing a pistol on Jefferson Roberds on the streets of Harrodsburg on the <date when="1865-09-06">6<hi rend="sup">th</hi> day of September 1865</date>. You are commanded forthwith to arrest the said John D Hale and bring him before me to be dealt with according to law, Given under my hand this <date when="1865-09-06">6<hi rend="sup">th</hi> day of September 1865</date></p>
-<p>Thomas H. Hardin P, J, T H</p>
-<p>Summons as witnesses for the Commonwealth Charles A, Hardin and Thomas C. Bell</p>
+   <p>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> to any peace officer of <placeName ref="cwgk:P00000556">Mercer County</placeName></p>
+<p>It appearing that there are reasonable grounds for believing that <persName ref="cwgk:N00005392">John D Hale</persName> has been guilty of a breach of the peace by drawing a pistol on <persName ref="cwgk:N00005389">Jefferson Roberds</persName> on the streets of <placeName ref="cwgk:P00000555">Harrodsburg</placeName> on the <date when="1865-09-06">6<hi rend="sup">th</hi> day of September 1865</date>. You are commanded forthwith to arrest the said <persName ref="cwgk:N00005392">John D Hale</persName> and bring him before me to be dealt with according to law, Given under my hand this <date when="1865-09-06">6<hi rend="sup">th</hi> day of September 1865</date></p>
+<p><persName ref="cwgk:N00005388">Thomas H. Hardin</persName> P, J, T H</p>
+<p>Summons as witnesses for the Commonwealth <persName ref="cwgk:N00005390">Charles A. Hardin</persName> and <persName ref="cwgk:N00005391">Thomas C. Bell</persName></p>
 <p>T H, Hardin P, J. T H</p>
 <p>A Copy<pb/></p>
 <p>K-150-D K Vol-8-<date when="1865">1865</date></p>
