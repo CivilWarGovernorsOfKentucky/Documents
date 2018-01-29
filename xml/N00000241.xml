@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000241">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William R. Kinney</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000241">
+                    <persName>
+                      William R. Kinney
+                        (Henderson)
+                    </persName>
+                        <event type="birth"  when="1835"  ><ab>1835</ab></event>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kentucky native. Son of john Kinney and Maria M. Kinney. Married to Fannie Allen Kinney in Grayson County, Kentucky, in 1856. Father of Willis J. Kinney and William A. Kinney. Law student in Ohio County, Kentucky, in 1850. Attorney in Henderson County in 1860.</p>
+
+<p>Major of the 12th Kentucky Volunteer Cavalry Regiment from  to February 1863.  Resigned on February 12, 1863. Member of the House of Representatives of the Commonwealth of Kentucky from Henderson County from 1863 to 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Lewis Collins and Richard H. Collins, <hi rend="italic">Collins&#39; Historical Sketches of Kentucky</hi>, vol I. (Covington, Ky.: Collins &amp; Co, 1877), 335.
+
+Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Ohio County, District 1, stamped p. 48. Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Henderson County, Division 1, p. 3. Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910), Kentucky Department for Libraries and Archives, Frankfort, Kentucky, Roll #994036, Grayson County Marriages, p. 6.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
