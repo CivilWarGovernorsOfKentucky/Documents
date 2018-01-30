@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0105"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,24 +71,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lincoln CIRCUIT COURT.
-<lb/>THE COMMONWEALTH OF KENTUCKY,
-<lb/>AGAINST
+   <p><orgName ref="cwgk:O00000417">Lincoln CIRCUIT COURT</orgName>.<lb/>THE <orgName ref="cwgk:O001025">COMMONWEALTH OF KENTUCKY</orgName>,<lb/>AGAINST
 <lb/>Augden Bridgwater</p>
-<p>The Grand Jury of Lincoln County, in the name and by the authority of the Commonwealth of Kentucky, accuse Augden Bridgwater of the Crime of horse-stealing commited as follows, viz: the said Augden Bridgwater did on the <date when="1865-09-05">5<hi rend="sup">th</hi> day of September 1865</date>, in the County aforesaid unlawfully and feloniously steal, take and carry away from the possession of Jennie Adams one horse of the value of one hundred dollars, the personal property of the said Jennie Adams, and converted the same to his own use and benefit. Against the peace and dignity of the Commonwealth of Kentucky.</p>
+<p>The Grand Jury of <placeName ref="cwgk:P00005395">Lincoln County</placeName>, in the name and by the authority of the Commonwealth of Kentucky, accuse Augden Bridgwater of the Crime of horse-stealing commited as follows, viz: the said Augden Bridgwater did on the <date when="1865-09-05">5<hi rend="sup">th</hi> day of September 1865</date>, in the County aforesaid unlawfully and feloniously steal, take and carry away from the possession of Jennie Adams one horse of the value of one hundred dollars, the personal property of the said <persName ref="cwgk:N00005397">Jennie Adams</persName>, and converted the same to his own use and benefit. Against the peace and dignity of the Commonwealth of Kentucky.</p>
 <p>M. H. OWSLEY,
 <lb/>Attorney for the Commonwealth</p>
 <p>A true Copy
 <lb/>Attest
-<lb/>W H Miller C L C C<pb/></p>
+<lb/><persName ref="cwgk:N00008414">W H Miller</persName> C L C C<pb/></p>
 <p>COMMONWEALTH
 <lb/>INDICTMENT FOR 
 <lb/>Horse Stealing
 <lb/>VERSUS
 <lb/>Augden Bridgwater
 <lb/>A TRUE BILL.
-<lb/>R, W, Givens
-<lb/>Foreman.
+<lb/><persName ref="cwgk:N00005398">R. W. Givens</persName><lb/>Foreman.
 <lb/><gap/> 186<gap/>. Filed <gap/>
 <lb/>WITNESSES EXAMINED,
 <lb/><gap/>
