@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,11 @@
                 <person xml:id="N00005209">
                     <persName>
                       Jeremiah Pope
-                        (Rockcastle Co, wanted for murder)
+                        (Rockcastle County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1824-03-24"  ><ab>1824-03-24</ab></event>
+                        <event type="death"  when="1908-07-01"  ><ab>1908-07-01</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Wanted for murder in Rockcastle County, Kentucky.</p>
+        <p>Illinois resident. Kentucky native. Resident of Rockcastle County in 1850. Married to Martha Ann Woodyard Pope in 1851. Father of John F. Pope. Resident of Illinois from 1862 to 1882. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0014. KYR-0001-005-0110.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Rockcastle, Southern District, p. 161. <hi rend="italic">Twelfth Manuscript Census of the United States</hi> (1900), Population Schedules, Nebraska, Pawnee County, Pawnee City, p. 3A. <hi rend="italic">Find A Grave</hi>, &quot;Jeremiah Pope (March 24, 1824-July 1, 1908),&quot; Memorial # 84786629, http://www.findagrave.com//memorial/84786629 (accessed January 30, 2018).
 </bibl></ab>
     </back>
 </text>
