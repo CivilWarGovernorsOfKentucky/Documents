@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0107"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p><milestone unit="column" n="2"/><cb n="1"/>PHIL. TOMPPERT Jr., CLERK.
-<lb/><cb n="2"/>FRED. WOBBE, DEPUTY CLERK.
-<lb/><milestone unit="column" n="1"/>Clerks' Office, Louisville City Court,
+   <p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N002038">PHIL. TOMPPERT Jr</persName>., CLERK.<lb/><cb n="2"/><persName ref="cwgk:N00001154">FRED. WOBBE,</persName> DEPUTY CLERK.<lb/><milestone unit="column" n="1"/>Clerks' Office, Louisville City Court,
 <lb/>Louisville, Ky., <date when="1865-10-23">October 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1865</date>.
 <lb/>His Excellency
 <lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
 <lb/>D<hi rend="sup">r </hi>Sir.</p>
 <p>M<hi rend="underline"><hi rend="sup">r</hi></hi> Gill the coroner of this County Informs me that he has applied to your Excellency to offer a reward for the apprehension of the Murderers of an unknown Woman killed some few nights since in the Neighborhood of this city. I learn from the facts appearing before the coroners Jury, that a most foul &amp; outrageous Murder has been committed by some persons unknown; a Reward may lead to <hi rend="str">the</hi> Information that will give a refference to facts that may lead to the arrest of the Guilty parties. I respectfully reccomend that a reward be offered.</p>
 <p>I am your obt sevt
-<lb/>Geo W. Johnston
-<lb/>Ct Judge 7<hi rend="underline"><hi rend="sup">th</hi></hi> Judicial District</p>
+<lb/><persName ref="cwgk:N00001155">Geo W. Johnston
+</persName><lb/>Ct Judge 7<hi rend="underline"><hi rend="sup">th</hi></hi> Judicial District</p>
   </body>
  </text>
 </TEI>
