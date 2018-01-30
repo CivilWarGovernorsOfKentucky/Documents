@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000240">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Richard Taylor Jacob</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000240">
+                    <persName>
+                      Richard Taylor Jacob
+                        (Oldham County, Kentucky, farmer, politician, and soldier)
+                    </persName>
+                        <event type="birth"  when="1825-03-13"  ><ab>1825-03-13</ab></event>
+                        <event type="death"  when="1903-12-13"  ><ab>1903-12-13</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Oldham County, Kentucky, farmer, politician, and soldier. Oldham County native. Son of John I. Jacob and Lucy Donald Robertson Jacob. Married to Sarah Benton Jacob in 1848. Married Laura Wilson Jacob in 1865. Lived in South America from 1844 to 1845. Studied law under Nathaniel Wolfe in Louisville, Kentucky, in 1846. Veteran of the Mexican-American War. Farmer in Missouri from 1848 to 1853. Owned twelve enslaved persons in Cooper County, Missouri, in 1850. Member of the Presybeterian Church in 1853. Relocated to Oldham County in 1853. Member of the House of Representatives of the Commonwealth of Kentucky from 1859 to 1863. Colonel of the 9th Kentucky Volunteer Cavalry Regiment from August 1862 to August 1863. Lieutenant governor of the Commonwealth of Kentucky, under Governor Thomas E. Bramlette, from 1863 to 1867. Arrested and expelled, by Stephen G. Burbridge, to Virginia in November 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Missouri, Cooper County, District No. 23. <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0097. Thomas D. Clark, &quot;Richard Taylor Jacob&quot; in in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 462. <hi rend="italic">The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 249-251.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
