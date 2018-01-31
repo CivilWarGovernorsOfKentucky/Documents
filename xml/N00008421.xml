@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       Samuel Nuckols
                         (Woodford County farmer)
                     </persName>
+                        <event type="birth"  when="1793"  cert="medium" ><ab>c1793</ab></event>
                         <event type="death"  when="1871"  ><ab>1871</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -51,11 +56,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Woodford County, Kentucky, farmer. Married to Mary Carlyle Nuckols. Father of George Nuckols, Claiborne Nuckols, Robert Nuckols, John Nuckols, and Louisa Nuckols.</p>
+        <p>Woodford County, Kentucky, farmer. Kentucky native. Married to Mary Carlyle Nuckols. Father of George Nuckols, Claiborne Nuckols, Robert Nuckols, John Nuckols, and Louisa Nuckols. Farmer in Woodford County in 1850. Owned twenty-five enslaved people in Woodford County in 1850. Farmer in Woodford County in 1860. Owned eighteen enslaved persons in Woodford County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>William E. Railey, History of Woodford County, Kentucky (Baltimore: Genealogical Publishing Co., 2002), 108.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Woodford County, District No. 2, p. 466B. <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Woodford County, District No. 2. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Woodford County, Unnamed District, p. 38. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Woodford County, Unnamed District, pp. 16-7. William E. Railey, History of Woodford County, Kentucky (Baltimore: Genealogical Publishing Co., 2002), 108.
 </bibl></ab>
     </back>
 </text>
