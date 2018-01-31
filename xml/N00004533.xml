@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00004533">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edmund Haynes Taylor, Sr.</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Krista Kinslow</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00004533">
+                    <persName>
+                      Edmund Haynes Taylor, Sr.
+                        (Frankfort banker | Military Board)
+                    </persName>
+                        <event type="birth"  when="1799-06-04"  ><ab>1799-06-04</ab></event>
+                        <event type="death"  when="1873-04-24"  ><ab>1873-04-24</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Frankfort, Kentucky, banker and member of the Kentucky Military Board. Jefferson County, Kentucky, native. Son of Richard Taylor. Married to Martha Southgate Taylor. Moved to Frankfort in 1811. Clerk in the office of the State Auditor of the Commonwealth of Kentucky in 1818. Quartermaster General of the Commonwealth of Kentucky. Cashier of the Frankfort branch of the Bank of Kentucky from 1835 to 1873. Member of the Military Board of Kentucky from September 25, 1861 to March 15, 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl>E. Polk Johnson, <hi rend="italic">A History of Kentucky and Kentuckians: The Leaders and Representative Men in Commerce, Industry and Modern Activities</hi>, vol. III (Chicago and New York: Lewis Publishing Company, 1812), 1704. <hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), vii. <hi rend="italic">Find A Grave</hi>, &quot;Edmund H Taylor (1799-1873),&quot; Memorial #66970240, https://www.findagrave.com/memorial/66970240 (accessed January 31, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
