@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0114"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,20 +71,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Marion Crittenden County Ky
-<lb/><date when="1865-11-10">Nov. 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>.
+   <p><placeName ref="cwgk:P00001367">Marion </placeName><placeName ref="cwgk:P00006094">Crittenden County Ky
+</placeName><lb/><date when="1865-11-10">Nov. 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>.
 <lb/>Gov. Bramlett
 <lb/>Dear Sir</p>
-<p>The grand jury of this County have just returned in court indictments against James Guess William Knight, James Metlock, William Simpson, Alfred Lawson, Leason Lawson, James B Williams, Hiram Jones, David Ellis, John Hall, William Michell, Wiley Pullum G. J. Martin, James Beard and George Parrish: for murder robbery burglary and larceny, and against some of them for these offenses several times repeated</p>
-<p>About the commencement of this court they fled from this State and are now as I have been informed and have no doubt in. Hardin County Illinois and are now engaged in stealing horses and mules constantly from this side of the river</p>
-<p>The object in view, is to have them arrested by the authorities of Illinois and brought here</p>
+<p>The grand jury of this County have just returned in court indictments against <persName ref="cwgk:N00006095">James Guess</persName> <persName ref="cwgk:N00006096">William Knight</persName>, <persName ref="cwgk:N00006097">James Metlock</persName>, <persName ref="cwgk:N00006098">William Simpson</persName>, <persName ref="cwgk:N00006099">Alfred Lawson</persName>, <persName ref="cwgk:N00006100">Leason Lawson</persName>, <persName ref="cwgk:N00006101">James B Williams</persName>, <persName ref="cwgk:N00006102">Hiram Jones</persName>, <persName ref="cwgk:N00006103">David Ellis</persName>, <persName ref="cwgk:N00006104">John Hall</persName>, <persName ref="cwgk:N00006105">William Michell</persName>, Wiley Pullum <persName ref="cwgk:N00006107">G. J. Martin</persName>, <persName ref="cwgk:N00006108">James Beard</persName> and <persName ref="cwgk:N00006109">George Parrish</persName>: for murder robbery burglary and larceny, and against some of them for these offenses several times repeated</p>
+<p>About the commencement of this court they fled from this State and are now as I have been informed and have no doubt in. <placeName ref="cwgk:P00006110">Hardin County Illinois</placeName> and are now engaged in stealing horses and mules constantly from this side of the river</p>
+<p>The object in view, is to have them arrested by the authorities of <placeName ref="cwgk:P00004765">Illinois</placeName> and brought here</p>
 <p>If you can effect the requisition by Teligraph the better, as speedy action is all important, I trust this will be done with the least possible delay. It is believed, and in which opinion I concur, that the lives of some of the grand jury, witnesses and<pb/>
 <lb/>many of othe Citizens will be in great jeopardy immediately after court should they not be at once arrested.</p>
 <p>I have already provided to the citizens in that county the warrants of arrest that they may know what is going on and to get them to make the arrests at once, giving them assurances that these acts would be sustained by a requisition</p>
 <p>I am dear sir most
 <lb/>truly your friend &amp; obt st
-<lb/>W. P. Fowler</p>
-<p>P. S Please find copies of indictments enclosed herewith, I would name Capt. Jonathan Belt of Hardin County Illinois as a proper agent should arrests be made</p>
+<lb/><persName ref="cwgk:N00006111">W. P. Fowler</persName></p>
+<p>P. S Please find copies of indictments enclosed herewith, I would name <persName ref="cwgk:N00006112">Capt. Jonathan Belt </persName>of Hardin County Illinois as a proper agent should arrests be made</p>
 <p>Would it be amiss to offer a reward for Guess?</p>
 <p>W. P. Fowler</p>
   </body>
