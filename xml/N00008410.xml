@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00008410">
                     <persName>
                       David Hall
-                        (Ballard county stub)
+                        (Ballard county)
                     </persName>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -48,5 +52,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Signed petition on behalf of Joseph Mansfield in Ballard County, Kentucky, in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0001-004-0143.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
