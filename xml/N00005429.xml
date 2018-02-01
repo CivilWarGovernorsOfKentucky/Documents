@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005429">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Claudius Tift</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Stephen Powell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Stephen Powell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005429">
+                    <persName>
+                      Claudius Tift
+                        (printer)
+                    </persName>
+                        <event type="birth"  when="1817-03-27"  ><ab>1817-03-27</ab></event>
+                        <event type="death"  when="1910-03-14"  ><ab>1910-03-14</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Campbell County, Kentucky, printer and soldier. New York native. Son of Reuben Tift and Betsy de Colon Tift. Married to Mary Mullen Tift on May 9, 1846. Father of Milton Tift, Mary Tift, Elizabeth Tift, Scott Tift, Kate Tift, and Anna Tift. Printer in Campbell County in 1860. First Lieutenant in Company B, 23rd Kentucky Infantry from May 1861 to November 1862. Captain in Company H, 23rd Kentucky Infantry from November 20, 1862 to October 17, 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Campbell, Newport, p. 87. <hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 134. <hi rend="italic">Find A Grave</hi>, &quot;Lieut Claudius Tifft (March 27, 1817-March 14, 1910),&quot; Memorial #61083620, http://www.findagrave.com//memorial/61083620 (accessed February 1, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
