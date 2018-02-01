@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0123"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Campbell County &#125; SS.</p>
-<p>John Barnes of the County and state above being first duly sworn states that one <hi rend="underline">Claudius Tift</hi> (Painter by trade) did on or about the <date when="1864-12-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of <hi rend="underline">Dec</hi> 1864</date> <hi rend="str">c</hi>in the County of Campbell and state of Kentucky commit a felony, to wit: a Larceny, in this by breaking the seal of a letter, (written by affiant in the City of <hi rend="underline">Nashville</hi> <hi rend="underline">Tenn</hi> and addressed to "Henry Barnes" affiants Brother residing in Campbell <hi rend="underline">Co</hi> <hi rend="underline">Ky</hi>) entrusted to the said Tift to deliver and feloniously taking there from the sum of Four Hundred (&#36;400<hi rend="underline"><hi rend="sup">00</hi></hi>) Dollars in the currency of the United states, which sum of money the said Tift converted to his own use -- that the money was the property of affiant which he was sending to the said Henry Barnes for safe keeping- that said Tift immediately fled the state to La Crosse Wisconsin where he now is.</p>
+   <p><placeName ref="cwgk:P001800">State of Kentucky</placeName><lb/><placeName ref="cwgk:P00001874">Campbell County </placeName>} SS.</p>
+<p><persName ref="cwgk:N00006113">John Barnes </persName>of the County and state above being first duly sworn states that one  (Painter by trade) did on or about the <persName ref="cwgk:N00005429">Claudius Tift</persName><date when="1864-12-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of <hi rend="underline">Dec</hi> 1864</date> <hi rend="str">c</hi>in the County of Campbell and state of Kentucky commit a felony, to wit: a Larceny, in this by breaking the seal of a letter, (written by affiant in the City of <hi rend="underline">Nashville</hi> <hi rend="underline">Tenn</hi> and addressed to "<persName ref="cwgk:N00006211">Henry Barnes</persName>" affiants Brother residing in Campbell <hi rend="underline">Co</hi> <hi rend="underline">Ky</hi>) entrusted to the said Tift to deliver and feloniously taking there from the sum of Four Hundred ($400<hi rend="underline"><hi rend="sup">00</hi></hi>) Dollars in the currency of the <placeName ref="cwgk:P001802">United states</placeName>, which sum of money the said Tift converted to his own use -- that the money was the property of affiant which he was sending to the said <persName ref="cwgk:N00006211">Henry Barnes</persName> for safe keeping- that said Tift immediately fled the state to <placeName ref="cwgk:P00005425">La Crosse Wisconsin</placeName> where he now is.</p>
 <p>Affiant further states that the said Tift in a letter mailed from La Crosse <hi rend="underline">Wis</hi> having date <date when="1865-04-11">April 11. 1865</date>, addressed to <hi rend="underline">Col</hi> J. P. Jackson of Campbell <hi rend="underline">Co</hi> Ky confessed the act complained of and promised to make<pb/>
 <lb/>restitution of the money stolen which he has failed to do and further affiant saith not.</p>
 <p>John Barnes</p>
 <p>sworn to before me this <date when="1865-11-25">25<hi rend="sup">th</hi> day of November 1865</date> by the above named John Barnes and subscribed by him in my presence.</p>
-<p>E Ladd J. P.</p>
+<p><persName ref="cwgk:N00006115">E Ladd</persName> J. P.</p>
 <p>O. W. Root
 <lb/>Cor York &amp; Layton</p>
-<p>Requisition upon Governor of Wisconsin</p>
+<p>Requisition upon <persName ref="cwgk:N00008425">Governor of Wisconsin</persName></p>
 <p>Com of Ky
-<lb/>agst &#125; affidavit.
+<lb/>agst } affidavit.
 <lb/>Claudius Tift</p>
 <p>Moses Cook Agent</p>
 <p>affidavit of John Barnes<figure type="hr"/>
