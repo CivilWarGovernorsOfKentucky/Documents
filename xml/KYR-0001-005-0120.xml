@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0120"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,15 +68,14 @@
  <text>
   <body>
    <p>Louisville Ky <date when="1865-11-13">Nov 13, 1865</date>
-<lb/>Jas R Page Esqr
-<lb/>Dr Sir</p>
-<p>Please send <hi rend="underline">requisition</hi>, in the case of Com'th vs W<hi rend="underline"><hi rend="sup">m</hi></hi> George to Governor of Ohio with Thos Slator as Agent -- directing the warrant to be sent to me or to <hi rend="underline">Thos Slator</hi> of this place as soon as convenient and oblige</p>
-<p>Yrs vry truly J R Dupuy
-<lb/>Com' atty -- <pb/></p>
+<lb/><persName ref="cwgk:N001778">Jas R Page</persName> Esqr<lb/>Dr Sir</p>
+<p>Please send <hi rend="underline">requisition</hi>, in the case of Com'th vs W<hi rend="underline"><hi rend="sup">m</hi></hi> George to <placeName ref="cwgk:P001036">Governor of Ohio</placeName> with <persName ref="cwgk:N00005439">Thos Slator</persName> as Agent -- directing the warrant to be sent to me or to  of this place as soon as convenient and oblige<persName ref="cwgk:N00005439">Thos Slator</persName></p>
+<p>Yrs vry truly <persName ref="cwgk:N002002">J R Dupuy
+</persName><lb/>Com' atty -- <pb/></p>
 <p>Requisition on Governor of Ohio for W<hi rend="sup">m</hi> George
 <lb/>&amp; Grand Larceny
-<lb/>Jefferson Cir Ct
-<lb/><hi rend="str">&amp;</hi>
+<lb/><orgName ref="cwgk:O001000">Jefferson Cir Ct
+</orgName><lb/><hi rend="str">&amp;</hi>
 <lb/>Thos Slator appt<hi rend="underline"><hi rend="sup">d</hi></hi> Agent
 <lb/><date when="1865-11-15">15 Nov/65</date>
 <lb/></p>
