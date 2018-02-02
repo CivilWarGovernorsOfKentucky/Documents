@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005702">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Ambrose E. Burnside</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Courtney Buchkoski</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005702">
+                    <persName>
+                      Ambrose E. Burnside
+                        (Union General)
+                    </persName>
+                        <event type="birth"  when="1824-05-23"  ><ab>1824-05-23</ab></event>
+                        <event type="death"  when="1881-09-13"  ><ab>1881-09-13</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Rhode Island soldier. Liberty, Indiana, native. Married to Mary Richmond Bishop. Graduated from the United States Military Academy in West Point, New York, in 1847. Served in the 2nd United States Artillery Regiment from 1847 to 1853. Founded the Bristol Rifle Works in Bristol, Rhode Island, in 1853. Colonel of the 1st Rhode Island Volunteer Infantry Regiment from April 16, 1861 to August 6, 1861. Commissioned brigadier general of United States volunteers on August 6, 1861. Commissioned major general of United States volunteers on March 18, 1862. Assigned to command the Army of the Potomac on November 8, 1862. Assigned to command of the Department of the Ohio on March 16, 1863. Resigned from the United States Army on April 15, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Ezra J. Warner, <hi rend="italic">Generals in Blue: Lives of the Union Commanders</hi> (Baton Rouge: Louisiana State University Press, 1964), 57-58.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
