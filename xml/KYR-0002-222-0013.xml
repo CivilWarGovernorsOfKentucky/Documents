@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0013"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,52 +63,59 @@
  </teiHeader>
  <text>
   <body>
-   <p>NO. 22.<figure type="hr"/>The State of Kentucky
-<lb/>T<hi rend="str">he United States</hi>, 
+   <p>NO. 22.<figure type="hr"/>
+<lb/>T<hi rend="str">he United States</hi>The State of Kentucky,
 <lb/>To Calvin Ford Dr</p>
 <p><table rend="rules">
 <row>
-	<cell><date when="1862">1862</date>.</cell>
+	<cell><date when="1862">1862</date></cell>
 	<cell> </cell>
 	<cell> </cell>
 	<cell> </cell>
 </row>
 <row>
 	<cell><date when="1862-08-22">August 22</date></cell>
-	<cell>To Hawling 4 horse team 2 days at</cell>
-	<cell>$3.00</cell>
-	<cell>$6.00</cell>
+	<cell>To Hawling 4 horse team 2 days at &#36;3,00</cell>
+	<cell>&#36;6.</cell>
+	<cell>00</cell>
 </row>
 <row>
 	<cell><date when="1862-08-22">"</date></cell>
-	<cell> " do 2 horse team &amp; hand 4 days -- </cell>
-	<cell>2.50</cell>
-	<cell><hi rend="underline">10.00</hi></cell>
+	<cell> " do 2 horse team &amp; hand 4 days -- 250</cell>
+	<cell><hi rend="underline">10</hi></cell>
+	<cell><hi rend="underline">.00</hi></cell>
 </row>
 <row>
 	<cell/>
 	<cell/>
-	<cell> </cell>
-	<cell>16.00</cell>
+	<cell>16</cell>
+	<cell>00</cell>
 </row>
-</table>
-<lb/>(hawling Military stores &amp; subsistance) at Eminence Camp</p>
-<p>Approved By order of the Governor
+<row>
+	<cell/>
+	<cell>(hawling Military Stores &amp; Subsistance) at Eminence Camp</cell>
+	<cell></cell>
+	<cell></cell>
+</row>
+</table></p>
+<p>Approved 
+<lb/>By order of the Governor
 <lb/>Jno. W Finnell
 <lb/>Adjt Genl Ky Vols</p>
 <p>approved Richard T. Jacob Col. 9<hi rend="sup">th</hi> Ky Co</p>
-<p>I Certify that the above account is correct and just; that the services were rendered as stated: and that they were a necessary for the Public Service.</p>
-<p>Chas A. Clarke Lt &amp; R. Q. M 
-<lb/>9<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cav</p>
-<p>Received at Frankfort on, the <date when="1863-12-18">18" of Dec, 186<hi rend="str">2</hi>3,</date> of S. G. Suddarth Q. M. Genl <hi rend="str">Quartermaster U.S. Army</hi> State of Ky^, the sum of sixteen Dollars and -- cents, in full of the above account.</p>
-<p>Calvin Ford</p>
-<p>[DUPLICATE.]<pb/></p>
-<p>No. 22.<figure type="hr"/>No. 62 Abstract B U Qr. <date when="1862">1862</date>.
+<p>I Certify that the above account is correct and just; that the services were rendered as stated; and that they were a necessary for the Public Service.</p>
+<p>Chas A. Clarke Lt &amp; R, q m 
+<lb/>9<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry</p>
+<p>Received at Frankfort Ky the <date when="1863-12-18">18" of Dec 186<hi rend="str">2</hi>3,</date> of S, G, Suddarth Q, M, Gen<hi rend="sup">l</hi> <hi rend="str">Quartermaster U.S. Army</hi>State of Ky, the sum of sixteen Dollars and <gap/> cents, in full of the above account.</p>
+<p>[DUPLICATE.]
+<lb/>Calvin Ford<pb/></p>
+<p>No. 22.<figure type="hr"/>
+<lb/>No. 62 Abstract B U Qr. <date when="1862">1862</date>.
 <lb/>Calvin Ford
-<lb/>Dollars 16 -- /<hi rend="sub">100</hi>
-<lb/>Paid <date when="1863-12-18">Decr 18 186<hi rend="str">2</hi>3</date>
-<lb/>Transportation
-<lb/>J232</p>
+<lb/>Dollars 16 -- <hi rend="sup"><gap/></hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1863-12-18">Decr 18 186<hi rend="str">2</hi>3</date>.</p>
+<p>Transportation</p>
+<p>J232</p>
   </body>
  </text>
 </TEI>

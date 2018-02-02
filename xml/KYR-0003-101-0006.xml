@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-101-0006"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -41,7 +44,7 @@
       <settlement>Frankfort</settlement>
       <repository>Kentucky Historical Society</repository>
       <collection>Charles W. Quiggins papers</collection>
-      <idno/>
+      <idno></idno>
      </msIdentifier>
     </msDesc>
    </sourceDesc>
@@ -61,7 +64,7 @@
  <text>
   <body>
    <p><figure type="seal"><ab>UNITED WE STAND DIVIDED WE FALL</ab></figure>
-<lb/>STATE OF KENTUCKY.
+<lb/>STATE OF KENTUCKY.<figure type="hr"/>
 <lb/>Head-Quarters Kentucky Volunteers,
 <lb/>ADJUTANT GENERAL'S OFFICE,
 <lb/>Frankfort, <date when="1864-09-01">Sept 1<hi rend="underline"><hi rend="sup">st</hi></hi>, 1864</date>.
@@ -71,10 +74,10 @@
 <lb/>Major.</p>
 <p>The Governor has decided that recruiting officers have no authority to enlist men out of the Capital Guard Regt, but that they must go out and enlist citizens. This is done to preserve discipline among our men as they are now in active <hi rend="str">duty</hi> service, and not for the purpose of discouraging enlistments in the US service. You will therefore notify any officer who attempts to recruit them that a transfer will not be made.</p>
 <p>Very Respectfully
-<lb/>D. W. Lindsey
+<lb/>D, W, Lindsey
 <lb/>Inspector &amp; Adjt Gen<hi rend="sup">l</hi> Ky<pb/></p>
-<p><date when="1864-09-01">Sept. 1st 16<hi rend="str">5</hi>4</date>
-<lb/><date when="1864-09-01">Sep 1</date></p>
+<p><date when="1864-09-01">Sept, 1<hi rend="underline"><hi rend="sup">st</hi></hi> 16<hi rend="str">5</hi>4</date></p>
+<p><date when="1864-09-01">Sep 1</date></p>
   </body>
  </text>
 </TEI>

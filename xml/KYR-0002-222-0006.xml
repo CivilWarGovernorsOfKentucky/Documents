@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0006"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,7 +64,7 @@
  <text>
   <body>
    <p>Frankfort <date when="1863-06-02">June 2nd 1863</date></p>
-<p>Genl Finnells Telegraph <unclear>asct</unclear></p>
+<p>Genl Finnells Telegraph <unclear>apct</unclear></p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1863-05">May</date></cell>
@@ -71,13 +74,13 @@
 </row>
 <row>
 	<cell><date when="1863-05-01">1</date></cell>
-	<cell>Message to R Baylor Camp Denigen</cell>
+	<cell>Message to R Taylor Camp <unclear>Denissen</unclear></cell>
 	<cell>1</cell>
 	<cell>00</cell>
 </row>
 <row>
 	<cell><date when="1863-05-01">"</date></cell>
-	<cell>"" " Wickliffe Lex</cell>
+	<cell>" " Wickliffe Lex</cell>
 	<cell/>
 	<cell>44</cell>
 </row>
@@ -107,7 +110,7 @@
 </row>
 <row>
 	<cell><date when="1863-05-06">6</date></cell>
-	<cell>" " Rosencrans M Boro</cell>
+	<cell>" " Rosencrans MBoro</cell>
 	<cell/>
 	<cell>87</cell>
 </row>
@@ -119,13 +122,13 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Judd fr Lexington</cell>
+	<cell>" " Todd fr Lexington</cell>
 	<cell/>
 	<cell>44</cell>
 </row>
 <row>
 	<cell/>
-	<cell>" " Boyle Gov</cell>
+	<cell>" " Boyle- Gov</cell>
 	<cell/>
 	<cell>83</cell>
 </row>
@@ -137,13 +140,13 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Harlan fr Gen I</cell>
+	<cell>" " Harlan fr Genl F</cell>
 	<cell/>
 	<cell>60</cell>
 </row>
 <row>
 	<cell><date when="1863-05-07">7</date></cell>
-	<cell>" " Canton Cov</cell>
+	<cell>" ' Canton Cov</cell>
 	<cell/>
 	<cell>75</cell>
 </row>
@@ -155,13 +158,13 @@
 </row>
 <row>
 	<cell><date when="1863-05-07">"</date></cell>
-	<cell>" " Sullivan Nulle Thos Page</cell>
+	<cell>" " Sullivan Nulle Tho S Page</cell>
 	<cell/>
 	<cell>87</cell>
 </row>
 <row>
 	<cell><date when="1863-05-08">8</date></cell>
-	<cell>" " Mey M Boro</cell>
+	<cell>" " Mey MBoro</cell>
 	<cell>2</cell>
 	<cell>06</cell>
 </row>
@@ -179,14 +182,14 @@
 </row>
 <row>
 	<cell><date when="1863-05-13">13</date></cell>
-	<cell>" " Dougerty Cov</cell>
+	<cell>" " Dougrty Cov</cell>
 	<cell/>
 	<cell>69</cell>
 </row>
 <row>
 	<cell><date when="1863-05-13">"</date></cell>
-	<cell>" " Fry Washington City</cell>
-	<cell>1</cell>
+	<cell>" " Fry,, Washington City</cell>
+	<cell><hi rend="underline">1</hi></cell>
 	<cell>90 ^2154^</cell>
 </row>
 <row>
@@ -215,13 +218,19 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Boyle</cell>
+	<cell>" " " "</cell>
+	<cell/>
+	<cell>43</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " Boyle "</cell>
 	<cell/>
 	<cell>55</cell>
 </row>
 <row>
 	<cell><date when="1863-05-18">18</date></cell>
-	<cell>" " Dunlap M B</cell>
+	<cell>" " Dunlap MB</cell>
 	<cell>1</cell>
 	<cell>11</cell>
 </row>
@@ -233,7 +242,7 @@
 </row>
 <row>
 	<cell><date when="1863-05-19">19</date></cell>
-	<cell>" "<unclear/> Thos Page</cell>
+	<cell>" ' <unclear>Mllury</unclear>. -- <unclear/> Page</cell>
 	<cell/>
 	<cell>80</cell>
 </row>
@@ -245,15 +254,15 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Weir</cell>
+	<cell>" " Weir -- </cell>
 	<cell/>
 	<cell>35</cell>
 </row>
 <row>
-	<cell><date when="1863-05-20">"</date></cell>
+	<cell><date when="1863-05-20">" '</date></cell>
 	<cell>Farms</cell>
 	<cell>1</cell>
-	<cell>59</cell>
+	<cell>39</cell>
 </row>
 <row>
 	<cell><date when="1863-05-21">21</date></cell>
@@ -269,7 +278,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Wlcff Sq</cell>
+	<cell>" " Wilett <unclear>Sz</unclear></cell>
 	<cell/>
 	<cell>59</cell>
 </row>
@@ -279,14 +288,12 @@
 	<cell/>
 	<cell>48</cell>
 </row>
-</table>
-<lb/><pb/>
-<lb/>No 11 Abst
+</table><pb/></p>
+<p>No 11 Abst
 <lb/>Telegraph Company
-<lb/>Dollars $64. <hi rend="sup">16</hi>/<hi rend="sub">100</hi>
-<lb/>Paid <date when="1863-06-07">June 7<hi rend="sup">th</hi> 1863</date>
-<lb/><pb/>
-<lb/><table rend="rules">
+<lb/>Dollars &#36;64. <hi rend="sup">16</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1863-06-07">June 7<hi rend="sup">th</hi> 1863</date><pb/></p>
+<p><table rend="rules">
 <row>
 	<cell><date when="1863-05-22">22</date></cell>
 	<cell>Mesage to Genl Burnside</cell>
@@ -301,7 +308,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Boyle Lon</cell>
+	<cell>" " Boyle Lou</cell>
 	<cell/>
 	<cell>71</cell>
 </row>
@@ -331,7 +338,7 @@
 </row>
 <row>
 	<cell><date when="1863-05-26">26</date></cell>
-	<cell>" Boyle Lon</cell>
+	<cell>" Boyle Lou</cell>
 	<cell/>
 	<cell>35</cell>
 </row>
@@ -349,7 +356,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>" Moore Lon</cell>
+	<cell>" Moore Lou</cell>
 	<cell/>
 	<cell>42</cell>
 </row>
@@ -396,8 +403,14 @@
 	<cell>43</cell>
 </row>
 <row>
+	<cell/>
+	<cell>" " "</cell>
+	<cell/>
+	<cell>35</cell>
+</row>
+<row>
 	<cell><date when="1863-05-27">27</date></cell>
-	<cell>Wilch Sy Sy</cell>
+	<cell>" Wilch <unclear>Sz Sz</unclear></cell>
 	<cell/>
 	<cell>55</cell>
 </row>
@@ -427,13 +440,13 @@
 </row>
 <row>
 	<cell><date when="1863-05-28">"</date></cell>
-	<cell>"Athey Cov</cell>
+	<cell>" Athey Cov</cell>
 	<cell/>
 	<cell>45</cell>
 </row>
 <row>
 	<cell/>
-	<cell>" Tillson Lon</cell>
+	<cell>" Tillson Lou</cell>
 	<cell/>
 	<cell>45</cell>
 </row>
@@ -456,16 +469,22 @@
 	<cell>51</cell>
 </row>
 <row>
+	<cell/>
+	<cell>" Bell "</cell>
+	<cell/>
+	<cell>73 ^184 1847^</cell>
+</row>
+<row>
 	<cell><date when="1863-05-29">29</date></cell>
-	<cell>" Forwarded to Genl Cov 9.</cell>
+	<cell>" Fowarded to Genl Cov 9.</cell>
 	<cell>1</cell>
-	<cell>68</cell>
+	<cell>68.</cell>
 </row>
 <row>
 	<cell/>
 	<cell>" " " " "</cell>
-	<cell>1</cell>
-	<cell>68</cell>
+	<cell>1.</cell>
+	<cell>68.</cell>
 </row>
 <row>
 	<cell/>
@@ -482,8 +501,8 @@
 <row>
 	<cell/>
 	<cell>Stamps</cell>
-	<cell>2</cell>
-	<cell>14</cell>
+	<cell><hi rend="underline">2</hi></cell>
+	<cell><hi rend="underline">14</hi></cell>
 </row>
 <row>
 	<cell/>
@@ -491,10 +510,10 @@
 	<cell>64</cell>
 	<cell>16</cell>
 </row>
-</table><pb/>
-<lb/>No 11 Abst
+</table><pb/></p>
+<p>No 11 Abst
 <lb/>Telegraph Company
-<lb/>Dollars $64.<hi rend="sup">16</hi>/<hi rend="sub">100</hi>
+<lb/>Dollars &#36;64.<hi rend="sup">16</hi>/<hi rend="sub">100</hi>
 <lb/>Paid <date when="1863-06-07">June 7<hi rend="sup">th</hi> 1863</date></p>
   </body>
  </text>

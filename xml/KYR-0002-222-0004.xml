@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0004"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,8 +62,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>Genl. J. W. Finnell's <unclear/> <date when="1863-06">June 1863</date>
-<lb/>To Telegrafs <unclear>of</unclear></p>
+   <p>Genl. J. W. Finnell's <unclear>a/c</unclear> <date when="1863-06">June 1863</date>
+<lb/>To Telegrap <unclear>of</unclear></p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1863-06-01">June 1</date></cell>
@@ -112,7 +115,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Lex</cell>
+	<cell>" "</cell>
 	<cell/>
 	<cell>30</cell>
 </row>
@@ -126,13 +129,13 @@
 	<cell/>
 	<cell>" Wickliffe</cell>
 	<cell/>
-	<cell>34</cell>
+	<cell><hi rend="underline">34</hi></cell>
 </row>
 <row>
 	<cell/>
 	<cell>" Buckley Eminence</cell>
 	<cell/>
-	<cell>30</cell>
+	<cell><hi rend="str">2</hi>30</cell>
 </row>
 <row>
 	<cell><date when="1863-06-04">4</date></cell>
@@ -154,7 +157,7 @@
 </row>
 <row>
 	<cell><date when="1863-06-08">8</date></cell>
-	<cell>" " Seawell Lon</cell>
+	<cell>" " Seawell Lou</cell>
 	<cell/>
 	<cell>47</cell>
 </row>
@@ -166,13 +169,13 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Sanders"</cell>
+	<cell>" " Sanders "</cell>
 	<cell/>
 	<cell>54</cell>
 </row>
 <row>
 	<cell/>
-	<cell>" " Athens Cov</cell>
+	<cell>" " Athey Cov</cell>
 	<cell/>
 	<cell>45</cell>
 </row>
@@ -196,20 +199,20 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Boyle Lon</cell>
+	<cell>" " Boyle Lou</cell>
 	<cell/>
-	<cell>43</cell>
+	<cell><hi rend="underline">43</hi></cell>
 </row>
 <row>
 	<cell/>
-	<cell>" " Gilbert MtVernon</cell>
+	<cell>" " Gilbert Mt Vernon</cell>
 	<cell>2</cell>
 	<cell>46</cell>
 </row>
 <row>
 	<cell/>
 	<cell>" " Burnside</cell>
-	<cell>2</cell>
+	<cell/>
 	<cell>46 ^1662^</cell>
 </row>
 <row>
@@ -238,7 +241,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>Democrat &amp; Lon</cell>
+	<cell>" Democrat &amp; Lou</cell>
 	<cell/>
 	<cell>37</cell>
 </row>
@@ -277,25 +280,25 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Rosecrans</cell>
+	<cell>" " Rosencrans</cell>
 	<cell/>
 	<cell>80</cell>
 </row>
 <row>
 	<cell><date when="1863-06-16">16</date></cell>
-	<cell>" Genl F. Athey</cell>
+	<cell>To Genl F. Athey</cell>
 	<cell/>
 	<cell>60</cell>
 </row>
 <row>
 	<cell><date when="1863-06-17">17</date></cell>
-	<cell>"Mssrs M<hi rend="sup">c</hi>Neil Lon Geo</cell>
+	<cell>" Mssrs M<hi rend="sup">c</hi>Neil Lou Geo</cell>
 	<cell/>
 	<cell>71</cell>
 </row>
 <row>
 	<cell/>
-	<cell>" Finnell for Athey Cov</cell>
+	<cell>" Finnell fr athey Cov</cell>
 	<cell/>
 	<cell>46</cell>
 </row>
@@ -319,15 +322,15 @@
 </row>
 <row>
 	<cell/>
-	<cell>" Tevis Lon</cell>
-	<cell>1</cell>
+	<cell>" Tevis Lou</cell>
+	<cell/>
 	<cell>35</cell>
 </row>
 <row>
 	<cell/>
 	<cell>" Collier "</cell>
-	<cell>1</cell>
-	<cell>66</cell>
+	<cell><hi rend="underline">1</hi></cell>
+	<cell><hi rend="underline">66</hi></cell>
 </row>
 <row>
 	<cell/>
@@ -342,14 +345,14 @@
 	<cell>68</cell>
 </row>
 <row>
-	<cell><date when="1863-06-23">23</date></cell>
+	<cell/>
 	<cell>" " Cin</cell>
 	<cell>1</cell>
 	<cell>11 ^23.24^</cell>
 </row>
 <row>
-	<cell/>
-	<cell>" " "</cell>
+	<cell><date when="1863-06-23">23</date></cell>
+	<cell>" " </cell>
 	<cell>1</cell>
 	<cell>20</cell>
 </row>
@@ -360,14 +363,20 @@
 	<cell>31</cell>
 </row>
 <row>
+	<cell/>
+	<cell>" " "</cell>
+	<cell>1</cell>
+	<cell>05</cell>
+</row>
+<row>
 	<cell><date when="1863-06-24">24</date></cell>
 	<cell>" " "</cell>
 	<cell/>
-	<cell>35</cell>
+	<cell>3<hi rend="str">1</hi>5</cell>
 </row>
 <row>
 	<cell><date when="1863-06-24">"</date></cell>
-	<cell>" Genl Boyle L'ville</cell>
+	<cell>" Genl Boyle D'ville</cell>
 	<cell>1</cell>
 	<cell>04</cell>
 </row>
@@ -387,11 +396,11 @@
 	<cell/>
 	<cell>" Cutts Cin</cell>
 	<cell/>
-	<cell>61</cell>
+	<cell><hi rend="str">4</hi><hi rend="underline">61</hi></cell>
 </row>
 <row>
 	<cell/>
-	<cell>" Genl Burnside</cell>
+	<cell>" Gen Burnside</cell>
 	<cell/>
 	<cell>54</cell>
 </row>
@@ -399,7 +408,7 @@
 	<cell/>
 	<cell>" Mullins</cell>
 	<cell/>
-	<cell>52 58</cell>
+	<cell>5<hi rend="str">04</hi>58</cell>
 </row>
 <row>
 	<cell/>
@@ -421,7 +430,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>Athey <unclear/></cell>
+	<cell>Athey Fran</cell>
 	<cell/>
 	<cell>46</cell>
 </row>
@@ -442,13 +451,13 @@
 <lb/><table rend="rules">
 <row>
 	<cell><date when="1863-06-24">"</date></cell>
-	<cell>To Genl Finnell</cell>
+	<cell>Fr Genl Finnell</cell>
 	<cell>2</cell>
 	<cell>54</cell>
 </row>
 <row>
 	<cell><date when="1863-06-26">26</date></cell>
-	<cell>" Adj't Mulles Falmouth</cell>
+	<cell>" Adjt Mulles Falmouth</cell>
 	<cell/>
 	<cell>70</cell>
 </row>
@@ -480,17 +489,17 @@
 	<cell><date when="1863-06-27">"</date></cell>
 	<cell>" " "</cell>
 	<cell/>
-	<cell>65</cell>
+	<cell>45</cell>
 </row>
 <row>
 	<cell/>
 	<cell>" Athy from</cell>
-	<cell>1213</cell>
-	<cell>4934</cell>
+	<cell><hi rend="str">1</hi>12</cell>
+	<cell><hi rend="str">49</hi>34</cell>
 </row>
 <row>
 	<cell><date when="1863-06-22">22</date></cell>
-	<cell>" Carter Dille</cell>
+	<cell>" Carter Dville</cell>
 	<cell>1</cell>
 	<cell>69</cell>
 </row>
@@ -502,9 +511,9 @@
 </row>
 <row>
 	<cell><date when="1863-06-22">"</date></cell>
-	<cell>" Semple Lon</cell>
+	<cell>" Semple Lou</cell>
 	<cell/>
-	<cell>47</cell>
+	<cell><hi rend="underline">47</hi></cell>
 </row>
 <row>
 	<cell/>
@@ -515,13 +524,13 @@
 <row>
 	<cell/>
 	<cell>Stamps</cell>
-	<cell>2</cell>
-	<cell>19</cell>
+	<cell><hi rend="underline">2</hi></cell>
+	<cell><hi rend="underline">19</hi></cell>
 </row>
 <row>
 	<cell/>
 	<cell/>
-	<cell>$63</cell>
+	<cell>&#36;63</cell>
 	<cell>59</cell>
 </row>
 </table></p>
