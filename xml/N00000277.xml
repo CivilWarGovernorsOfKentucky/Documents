@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000277">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Tucker Woodson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000277">
+                    <persName>
+                      Tucker Woodson
+                        ()
+                    </persName>
+                        <event type="birth"  when="1804-11-04"  ><ab>1804-11-04</ab></event>
+                        <event type="death"  when="1874-07-08"  ><ab>1874-07-08</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kentucky lawyer, farmer, and politician. Married to Evelyn Byrd Woodson. Father of William Creighton Woodson, Sarah Woodson, Anna Meade Woodson, and Jessamine Byrd Woodson. Owned nineteen enslaved persons in 1850 and twelve in 1860. Member of the Whig Party and Republican Party. Member of the House of Representatives of the Commonwealth of Kentucky from Jessamine County from 1835 to 1837 and 1840. Member of the Senate of the Commonwealth of Kentucky from 1842 to 1846 and from 1853 to 1857. Member of the Union Executive Committee of Kentucky in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0002-022-0001; Bennett H. Young, <hi rend="italic">A History of Jessamine County, Kentucky, from its Earliest Settlement to 1898</hi> (Louisville: Courier-Journal Job Printing Co., 1898), 79 and 213-215; “Union State Convention at Frankfort,” <hi rend="italic">The Commonwealth</hi> (Frankfort, Ky.), January 6, 1865; “Tucker Woodson,” (http://politicalgraveyard.com/bio/woodside-woodville.html#715.72.58) (accessed February 1, 2017); Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Jessamine County, District No 2; Seventh Manuscript Census of the United States (1850), Slave Schedules, Kentucky, Jessamine County, District No 2; Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Jessamine County, p. 74; Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Jessamine County, p. 18.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
