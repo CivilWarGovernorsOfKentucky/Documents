@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0132"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Franklin County &#125; sct.</p>
-<p>Personally appeared before me a Justice of the Peace in and for the County and State aforesaid John E. Murrah, Assisstant Quarter Master of the State of Kentucky and made oath, that in <date when="1865-09">September 186<hi rend="str">4</hi>5</date> he was on duty as Assisstant Quarter Master of Kentucky at the then Post of Lebanon Ky he had in his employment as Clerk in his office as Quarter Master aforesaid C. B, Pratt, and on or about the <date when="1865-09-10">10<hi rend="sup">th</hi> day of September 1865</date> the said C, B, Pratt, in his capacity of clerk aforesaid had placed under his care, and received into his possession, the sum of Twenty ^one^ <hi rend="str">Nine</hi> Hundred and ^ten^ <hi rend="str">ninety nine</hi> Dollars <hi rend="str">and Sixteen Cents</hi>, of money due to affiant as Quarter Master aforesaid, and which said C. B, Pratt undertook and was in duty bound to pay out to affiant, but which said sum of Twenty one Hundred and ten dollars said C, B, Pratt did unlawfully fraudulently and felloneously embezzle and Convert to his own use, said C, B, Pratt received said sum of money and Embbezzled the same in the County of Jefferson and State of Kentucky</p>
+   <p><orgName ref="cwgk:O001025">State of Kentucky
+</orgName><lb/><placeName ref="cwgk:P001019">Franklin County</placeName> } sct.</p>
+<p>Personally appeared before me a Justice of the Peace in and for the County and State aforesaid <persName ref="cwgk:N00005440">John E. Murrah</persName>, Assisstant Quarter Master of the State of Kentucky and made oath, that in <date when="1865-09">September 186<hi rend="str">4</hi>5</date> he was on duty as Assisstant Quarter Master of Kentucky at the then Post of <placeName ref="cwgk:P00002553">Lebanon Ky </placeName>he had in his employment as Clerk in his office as Quarter Master aforesaid C. B, Pratt, and on or about the <date when="1865-09-10">10<hi rend="sup">th</hi> day of September 1865</date> the said <persName ref="cwgk:N00005441">C, B, Pratt</persName>, in his capacity of clerk aforesaid had placed under his care, and received into his possession, the sum of Twenty ^one^ <hi rend="str">Nine</hi> Hundred and ^ten^ <hi rend="str">ninety nine</hi> Dollars <hi rend="str">and Sixteen Cents</hi>, of money due to affiant as Quarter Master aforesaid, and which said C. B, Pratt undertook and was in duty bound to pay out to affiant, but which said sum of Twenty one Hundred and ten dollars said C, B, Pratt did unlawfully fraudulently and felloneously embezzle and Convert to his own use, said <persName ref="cwgk:N00005441">C, B, Pratt</persName> received said sum of money and Embbezzled the same in the <placeName ref="cwgk:P001005">County of Jefferson</placeName> and State of Kentucky</p>
 <p>J E Murrah
 <lb/>Capt &amp; A Q M Ky Vol<pb/></p>
 <p>Sworn to and Subscirbed by J. E. Murrah in due form before the undersigned a Justice of the peace for Franklin County this <date when="1865-12-16">16th day of Decr. 1865</date></p>
-<p><hi rend="underline">Geo W Gwin J P.</hi></p>
+<p><persName ref="cwgk:N00002995">Geo W Gwin</persName> J P.</p>
 <p><stamp type="revenue"/><pb/></p>
-<p>Requisition upon Gov of Louisiana for C B Pratt &amp; appt<hi rend="underline"><hi rend="sup">d</hi></hi> Tho<hi rend="sup">s</hi> Slater agent
+<p>Requisition upon <persName ref="cwgk:N00008427">Gov of Louisiana</persName> for C B Pratt &amp; appt<hi rend="underline"><hi rend="sup">d</hi></hi> Tho<hi rend="sup">s</hi> Slater agent
 <lb/><date when="1865-12-16">16 Dec/65</date></p>
   </body>
  </text>
