@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0130"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mercer County Sct
-<lb/>To the Governor of Kentucky</p>
-<p>Your Petitioner Thos Edwards states he is County Judge of Mercer County that James Lawson is indicted in the Mercer Circuit Court for feloniously murdering one "<hi rend="underline">Bud</hi>" Bosley &amp; has fled from justice &amp; is now running at large to the great terror of the good citizens of this Commonwealth</p>
+   <p><placeName ref="cwgk:P00000556">Mercer County</placeName> Sct<lb/>To the <persName ref="cwgk:N001000">Governor of Kentucky</persName></p>
+<p>Your Petitioner <persName ref="cwgk:N00003674">Thos Edwards</persName> states he is County Judge of Mercer County that <persName ref="cwgk:N00005437">James Lawson</persName> is indicted in the <orgName ref="cwgk:O00000424">Mercer Circuit Court</orgName> for feloniously murdering one "<hi rend="underline">Bud</hi>" Bosley &amp; has fled from justice &amp; is now running at large to the great terror of the good citizens of this <orgName ref="cwgk:O001025">Commonwealth</orgName></p>
 <p>The killing of Bosly by Lawson was without any provocation whatever &amp; was in law &amp; fact a most outrageous murder -- Lawson is a desperado who defies all law civil &amp; military</p>
 <p>The ends of justice cannot be satisfied without his arrest which cannot be accomplished without a reward of at least the full amount authorized by law being offered- Peace has come but order cannot be restored till those who are lawbreakers are made to feel the penalties of the Law, I most humbly but most earnestly petition<pb/>
 <lb/>Your Excellency to offer a reward of <hi rend="underline">Five</hi> Hundred Dollars for the apprehension of this despeate outlaw &amp; his delivery to the Jailer of Mercer County to answer this most flagrant Murder -- &amp; as in duty bound will ever pray &amp;<hi rend="sup">c</hi></p>
 <p>Tho<hi rend="sup">s</hi> Edwards
 <lb/>Presiding Judge of Mercer County</p>
-<p>Reward of &#36;300.
+<p>Reward of $300.
 <lb/>Jas Lawson for murder of Bud Bosley
 <lb/>Mercer Co
 <lb/><date when="1865-11-23">23<hi rend="sup">d</hi> Nov/65</date></p>
