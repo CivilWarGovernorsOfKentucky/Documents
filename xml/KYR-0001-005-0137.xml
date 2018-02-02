@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0137"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,18 +72,16 @@
  <text>
   <body>
    <p><hi rend="underline">Confidential</hi>,
-<lb/>Cincinnati <date when="1865-12-22">Decr. 22. 1865</date>
-<lb/>To the Honorable the Governor of Kentucky.
-<lb/>Dear Sir.</p>
-<p>I have the honor to enquire if you have official knowledge of one Wilkins Warren, being a Fugitive from Justice from Bath co. Kentucky where he is charged with the crime of Murder, said to have been committed in the Spring of <date when="1865">1865</date>. If such be the case will ^you^ do me the honor of so informing me and in addition thereto, if such be practicable, please furnish me with the name of the victim, and also of some of his friends. The matter was mentioned to me an hour ago, and I do not desire to move in it until I am aware of its breadth<pb/>
+<lb/><placeName ref="cwgk:P00001208">Cincinnati </placeName><date when="1865-12-22">Decr. 22. 1865</date>
+<lb/>To the Honorable the <persName ref="cwgk:N001000">Governor of Kentucky</persName>.<lb/>Dear Sir.</p>
+<p>I have the honor to enquire if you have official knowledge of one <persName ref="cwgk:N00003129">Wilkins Warren</persName>, being a Fugitive from Justice from <placeName ref="cwgk:P00000478">Bath co. Kentucky</placeName> where he is charged with the crime of Murder, said to have been committed in the Spring of <date when="1865">1865</date>. If such be the case will ^you^ do me the honor of so informing me and in addition thereto, if such be practicable, please furnish me with the name of the victim, and also of some of his friends. The matter was mentioned to me an hour ago, and I do not desire to move in it until I am aware of its breadth<pb/>
 <lb/>and that the criminal is wanted by your authorities. My information is <unclear/> the effect that said Warren can be found and the location has been furnished me.</p>
 <p>Will you do me the favor of an early reply.</p>
 <p>Very Respectfully
 <lb/>Your Obedient Servant
-<lb/>Charles R. Smith
-<lb/>Late Deputy Prov. Marshal
-<lb/>1" District of Ohio.
-<lb/>Address, Lock Drawer N. 176 Post Office.</p>
+<lb/><persName ref="cwgk:N00005546">Charles R. Smith
+</persName><lb/>Late Deputy Prov. Marshal
+<lb/><orgName ref="cwgk:O00005547">1" District of Ohio</orgName>.<lb/>Address, Lock Drawer N. 176 Post Office.</p>
   </body>
  </text>
 </TEI>
