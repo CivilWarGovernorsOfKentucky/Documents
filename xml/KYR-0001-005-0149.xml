@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0149"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,23 +71,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>Clay circuit court
-<lb/>The commonwealth of Kentucky
-<lb/>against &#125; Indictment
-<lb/>Jacob Giltner</p>
-<p>The Grand Jury of Clay county in the name and by the authority of the commonwealth of Kentucky accuse Jacob Giltner of the Crime of Murder, Committed as follows, viz; The said Jacob Giltner on the <date when="1865-11-24">24<hi rend="sup">th</hi> day of November 1865</date> in the county afforesaid did feloniously and wilfully &amp; with malice afforethought kill and murder William Clark by shooting him with a gun and Pistol against the peace and dignity of the commonwealth of Kentucky</p>
-<p>H. F. Finly
-<lb/>commonwealths atty</p>
+   <p><orgName ref="cwgk:O00000372">Clay circuit court
+</orgName><lb/>The <orgName ref="cwgk:O001025">commonwealth of Kentucky
+</orgName><lb/>against } Indictment
+<lb/><persName ref="cwgk:N00005431">Jacob Giltner</persName></p>
+<p>The Grand Jury of Clay county in the name and by the authority of the commonwealth of Kentucky accuse Jacob Giltner of the Crime of Murder, Committed as follows, viz; The said Jacob Giltner on the <date when="1865-11-24">24<hi rend="sup">th</hi> day of November 1865</date> in the county afforesaid did feloniously and wilfully &amp; with malice afforethought kill and murder <persName ref="cwgk:N00005432">William Clark</persName> by shooting him with a gun and Pistol against the peace and dignity of the commonwealth of Kentucky</p>
+<p><persName ref="cwgk:N00000911">H. F. Finly
+</persName><lb/>commonwealths atty</p>
 <p>Witnesses
-<lb/>Reubin Baker
-<lb/>Thos Merrll
-<lb/>John Petters
-<lb/>John H Gilbert
-<lb/>John Sperlock</p>
+<lb/><persName ref="cwgk:N00007290">Reubin Baker
+</persName><lb/><persName ref="cwgk:N00007291">Thos Merrll
+</persName><lb/>John Petters
+<lb/><persName ref="cwgk:N00007293">John H Gilbert
+</persName><lb/><persName ref="cwgk:N00007294">John Sperlock</persName></p>
 <p>A true copy attest
-<lb/>G W Price Clerk<pb/></p>
+<lb/><persName ref="cwgk:N00005696">G W Price</persName> Clerk<pb/></p>
 <p>The commonwealth
-<lb/>v &#125; Indictment
+<lb/>v } Indictment
 <lb/>Jacob Giltner<figure type="hr"/>
 <lb/>A True Bill
 <lb/>J. G. Gilbert
