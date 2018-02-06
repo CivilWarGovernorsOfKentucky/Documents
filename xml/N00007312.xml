@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007312">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Dishman</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Stephen Powell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007312">
+                    <persName>
+                      John Dishman
+                        (Commonwealth&#39;s attorney for the Twelfth District of Kentucky)
+                    </persName>
+                        <event type="birth"  when="1820-06-23"  ><ab>1820-06-23</ab></event>
+                        <event type="death"  when="1894-05-03"  ><ab>1894-05-03</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Commonwealth&#39;s attorney for the Twelfth District of Kentucky. Virginia native. Son of William Dishman. Married to Jane T. Atchison Dishman. Attorney in Barbourville, Knox County. Commonwealth&#39;s Attorney for the Twelfth District of Kentucky from 1858 to 1861. Attorney in Lexington, Kentucky from 1861 to 1865. Commonwealth&#39;s Attorney for a mountain district comprising Knox, Harlan, Letcher, Perry, Breathitt, Owsley, Clay, Jackson, and Laurel counties after 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Knox, Barbourville, p. 36. William Elsey Connelley and E. M. Coulter, <hi rend="italic">History of Kentucky</hi>, vol. 5 (Chicago: The American Historical Society, 1922), 423. <hi rend="italic">Find A Grave</hi>, &quot;John Dishman (June 23, 1820-May 3, 1894),&quot; Memorial #15309240, https://www.findagrave.com/memorial/15309240/john-dishman (accessed June 18, 2017). 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
