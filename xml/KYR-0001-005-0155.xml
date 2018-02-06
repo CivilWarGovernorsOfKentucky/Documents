@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0155"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,11 +72,11 @@
  <text>
   <body>
    <p>Mr E H vanwincle</p>
-<p>If the Govenor offers any reward for those men please forward to me as soon as posible all information concerning it. I want to send <hi rend="str">word</hi> warrant to one of the adjoining counties for to have one of them arrested I have put some bench warrants in the hands of the sheriff but they seam to be out on the scout and cant be found I think they are or at least two of them are in this part of the contry now.</p>
+<p>If the <persName ref="cwgk:N001000">Govenor</persName> offers any reward for those men please forward to me as soon as posible all information concerning it. I want to send <hi rend="str">word</hi> warrant to one of the adjoining counties for to have one of them arrested I have put some bench warrants in the hands of the sheriff but they seam to be out on the scout and cant be found I think they are or at least two of them are in this part of the contry now.</p>
 <p>yours &amp;c
-<lb/>W A Miller
-<lb/>London
-<lb/>Kentucky</p>
+<lb/><persName ref="cwgk:N00007303">W A Miller
+</persName><lb/><placeName ref="cwgk:P00005970">London
+</placeName><lb/><placeName ref="cwgk:P001800">Kentucky</placeName></p>
   </body>
  </text>
 </TEI>
