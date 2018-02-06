@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0154"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,28 +72,27 @@
  <text>
   <body>
    <p>Laurel, circuit, Court
-<lb/>The Commonwealth of Kentucky
-<lb/>against &#125; Indict
-<lb/>Esam Bowling Hugh Bowling &amp; Isham Bowling</p>
-<p>The Grand Jury of Laurel county in the name and by the authority of the commonwealth of Ky accuses Esam Bowling Hughe. Bowling and Isham Bowling of the crime of Murder committed as follows to wit the said Esam Bowling Hughe Bowling &amp; Isham Bowling on the <date when="1860-01-06">6<hi rend="sup">th</hi> of January 1860</date> in the county aforesaid did unlawfully and with Malice afore thought kill and murder Arnold Kirby by stabbing him with a knife or some other Sharp Instrument against the peace and dignity of the commonwealth of Kentucky</p>
-<p>John Dishman
-<lb/>Comlth Atty</p>
+<lb/>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky
+</orgName><lb/>against } Indict
+<lb/>Esam Bowling <persName ref="cwgk:N00007308">Hugh Bowling</persName> &amp; <persName ref="cwgk:N00007309">Isham Bowling</persName></p>
+<p>The Grand Jury of Laurel county in the name and by the authority of the commonwealth of Ky accuses Esam Bowling Hughe. Bowling and Isham Bowling of the crime of Murder committed as follows to wit the said Esam Bowling Hughe Bowling &amp; Isham Bowling on the <date when="1860-01-06">6<hi rend="sup">th</hi> of January 1860</date> in the county aforesaid did unlawfully and with Malice afore thought kill and murder <persName ref="cwgk:N00007310">Arnold Kirby</persName> by stabbing him with a knife or some other Sharp Instrument against the peace and dignity of the commonwealth of Kentucky</p>
+<p><persName ref="cwgk:N00007312">John Dishman
+</persName><lb/>Comlth Atty</p>
 <p>Witnesses
-<lb/>P L Johnson
-<lb/>Hue Cordell
-<lb/>Martin Asher
-<lb/>Stephin Langly
-<lb/>Jefferson Johnson
-<lb/>Alfred Girtman
-<lb/>James Evans
-<lb/>L B Nichleson
-<lb/>James Weaver
-<lb/>James Hodge
-<lb/>Even Janes
-<lb/>Robt Asher
-<lb/>David Weaver</p>
+<lb/><persName ref="cwgk:N00007313">P L Johnson</persName><lb/><persName ref="cwgk:N00007314">Hue Cordell
+</persName><lb/><persName ref="cwgk:N00007316">Martin Asher
+</persName><lb/><persName ref="cwgk:N00007318">Stephin Langly
+</persName><lb/><persName ref="cwgk:N00007319">Jefferson Johnson
+</persName><lb/><persName ref="cwgk:N00007320">Alfred Girtman
+</persName><lb/><persName ref="cwgk:N00007322">James Evans
+</persName><lb/>L B Nichleson
+<lb/><persName ref="cwgk:N00007324">James Weaver
+</persName><lb/><persName ref="cwgk:N00007325">James Hodge
+</persName><lb/>Even Janes
+<lb/><persName ref="cwgk:N00007317">Robt Asher
+</persName><lb/><persName ref="cwgk:N00007327">David Weaver</persName></p>
 <p>A copy
-<lb/><hi rend="underline">Att John Pitman clk</hi></p>
+<lb/>Att <persName ref="cwgk:N00007328">John Pitman </persName>clk</p>
   </body>
  </text>
 </TEI>
