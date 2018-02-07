@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00008400">
                     <persName>
                       W. F. Bland
-                        (stub)
+                        (Ballard county resident)
                     </persName>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -48,5 +52,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ballard County, Kentucky, resident.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Records of the Internal Revenue Service</hi>. Record Group 58. The National Archives at Washington, DC.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
