@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">E T George</title>
+        <title level="a" type="main">Edward T. George</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,25 @@
         <particDesc>
                 <person xml:id="N00008399">
                     <persName>
-                      E T George
-                        (stub)
+                      Edward T. George
+                        (Ballard county farmer)
                     </persName>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ballard County, Kentucky, farmer. Kentucky native. Married to Martha A. George. Father of Nancy B. George,  Prentice D. George, Lucy M. George, and July George. Farmer in Ballard County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Milburn District, p. 77.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Anderson County, District 5, p. 15.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
