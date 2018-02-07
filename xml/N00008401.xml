@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">F, George</title>
+        <title level="a" type="main">Franklin George</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,27 @@
         <particDesc>
                 <person xml:id="N00008401">
                     <persName>
-                      F, George
-                        (stub)
+                      Franklin George
+                        (Ballard Co. Farmer/Graves Co. merchant)
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Farmer and merchant in Ballard and Graves Counties, Kentucky. Kentucky native. Married to Elizabeth George. Father of Sarah George, Norvil George, Eddy George, and Quintus George. Farmer in Ballard County in 1850. Merchant in Graves County in 1860. Owned three enslaved persons in Graves County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 261A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Graves County, p. 52.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Graves County, p. 33.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, Milburn, District 7, p. 19.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
