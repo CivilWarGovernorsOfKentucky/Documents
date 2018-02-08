@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Thomas Willingham</title>
+        <title level="a" type="main">Thomas J. Willingham</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,26 @@
         <particDesc>
                 <person xml:id="N00008395">
                     <persName>
-                      Thomas Willingham
-                        (stub)
+                      Thomas J. Willingham
+                        (Hickman/Ballard county farmer)
                     </persName>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Hickman and Ballard County, Kentucky, farmer. Kentucky native. Married to Sarah Reese Willingham. Father of William Willingham, Maria G Willingham, Mary F. Willingham, James Jarrett Willingham, Richard G. Willingham, Robert O. Willingham, and Ellis Bennet Willingham. Farmer in Hickman County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hickman County, Clinton District, p. 75.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, District 5, p. 10.<lb/>
+Kentucky. <hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>. Microfilm rolls #7007125-7007131, 7011804-7011813, 7012974-7013570, 7015456-7015462. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
