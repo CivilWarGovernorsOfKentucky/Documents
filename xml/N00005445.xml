@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">E. G. Farmer</title>
+        <title level="a" type="main">Edward G. Farmer</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,10 @@
         <particDesc>
                 <person xml:id="N00005445">
                     <persName>
-                      E. G. Farmer
-                        (Ballard County, Kentucky, murdered)
+                      Edward G. Farmer
+                        (Ballard County hotel keeper)
                     </persName>
+                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
                         <event type="death"  when="1865-11-29"  ><ab>1865-11-29</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Allegedly murdered by E.T. George in Ballard County. </p>
+        <p>Ballard County, Kentucky, hotel keeper. Kentucky native. Hotel keeper in Ballard County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0133.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Milburn District, p. 77.<lb/>
+KYR-0001-005-0133.
 </bibl></ab>
     </back>
 </text>
