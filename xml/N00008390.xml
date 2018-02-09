@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[I T Tam]</title>
+        <title level="a" type="main">[J T Pane]</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,8 +43,8 @@
         <particDesc>
                 <person xml:id="N00008390">
                     <persName>
-                      [I T Tam]
-                        (stub)
+                      [J T Pane]
+                        (Ballard county resident)
                     </persName>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -48,5 +52,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Signed petition on behalf of Joseph Mansfield in Ballard County, Kentucky, in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0001-004-0143.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
