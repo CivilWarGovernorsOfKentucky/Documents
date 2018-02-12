@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1308"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,31 +72,22 @@
  <text>
   <body>
    <p>To his Excelency
-<lb/>Gov. Bramlette</p>
+<lb/><persName ref="cwgk:N001000">Gov. Bramlette</persName></p>
 <p><stamp type="revenue"/><note place="stamp">R S K
 <lb/><date when="1864-11-29">29 Nov 1864</date></note></p>
 <p>Your Pettioner would represent that at the fall term of the Equity &amp; Criminal court in warren County in <date when="1859">1859</date> he was fined Sixty dollars for Selling Spirits contrary to law. the inditement was founded on a witness predjutice against me I had not been in the practice of violating the law and am not now, never keep and tiple Spiritious liquors-nor never Intend to am a Loyal citizen and law abiding man though <hi rend="underline">poor</hi>-I have never paid the fine from the fact I have not been able to do So and Suport my family I pray your Excelency to remit the fine-and will ever pray-</p>
 <p>John Larrance</p>
 <p>Sworn to befor the undersigned Justice of the peace for warren county by John Larrane this <date when="1864-11-29">29<hi rend="sup">th</hi> Novr 1864</date></p>
-<p>R. S. Knowles J. P. W. C.<pb/></p>
+<p>R. S. Knowles J. P. <orgName ref="cwgk:O00000724">W. C.</orgName><pb/></p>
 <p>We the undersigned neighbors and acquaintances of John Larrane represent to your Excelency that we know the petitioner and represent him to be a good citizen a Loyal man peaceable and Industrious with a large family and would respectfully represent him as worthy of Executive Clemency Respt -- Yours -- </p>
-<p>G W Pedigo
-<lb/>Preston Doughty
-<lb/>James Doughty
-<lb/>James M Garman
-<lb/>Jacob Garman
-<lb/>W. H. Pedigo
-<lb/>J H, Pedigo
-<lb/>Louis legrand
-<lb/>B M garman
-<lb/>Nathan legrand<pb/></p>
+<p><persName ref="cwgk:N00003351">G W Pedigo</persName><lb/><persName ref="cwgk:N00003362">Preston Doughty</persName><lb/><persName ref="cwgk:N00003357">James Doughty</persName><lb/><persName ref="cwgk:N00007789">James M Garman</persName><lb/><persName ref="cwgk:N00003356">Jacob Garman</persName><lb/><persName ref="cwgk:N00007790">W. H. Pedigo</persName><lb/><persName ref="cwgk:N00003352">J H, Pedigo</persName><lb/><persName ref="cwgk:N00003346">Louis legrand</persName><lb/><persName ref="cwgk:N00003347">B M garman</persName><lb/><persName ref="cwgk:N00003349">Nathan legrand</persName><pb/></p>
 <p>Govenor.</p>
-<p>If you can Relieve Mr Smith &amp; Larrane consistently I hope you will do So and confer a favor on them &amp; their familys mail to my adress. Smiths Grove</p>
-<p>Geo Wright<pb/></p>
+<p>If you can Relieve Mr Smith &amp; <persName ref="cwgk:N00003377">Larrane</persName> consistently I hope you will do So and confer a favor on them &amp; their familys mail to my adress. <persName ref="cwgk:N00007788">Smith</persName>s Grove</p>
+<p><persName ref="cwgk:N00003350">Geo Wright</persName><pb/></p>
 <p>Warren Equity &amp; Crim Ct
 <lb/>vs
 <lb/>John Larrance
-<lb/>&#36;60.
+<lb/>$60.
 <lb/>Tipling
 <lb/>Remitted
 <lb/><date when="1865-01-07">7<hi rend="sup">th</hi> Jany/65</date></p>
