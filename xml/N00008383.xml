@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R.George</title>
+        <title level="a" type="main">Reuben George</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,27 @@
         <particDesc>
                 <person xml:id="N00008383">
                     <persName>
-                      R.George
-                        (stub)
+                      Reuben George
+                        (Ballard county farmer)
                     </persName>
+                        <event type="birth"  when="1802"  cert="medium" ><ab>c1802</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ballard County, Kentucky, farmer. Kentucky native. Married to Indiana George. Father of E. George, Thomas George, William George, Clay George, and Mary George. Owned one enslaved person in Ballard County in 1860. Farmer in Ballard County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 251B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Milburn District, p. 90.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Ballard County, Milburn District, p. 10.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, Milburn, p. 2.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
