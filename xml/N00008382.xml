@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">William George</title>
+        <title level="a" type="main">William M. George</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,25 @@
         <particDesc>
                 <person xml:id="N00008382">
                     <persName>
-                      William George
-                        (stub)
+                      William M. George
+                        (Ballard county farmer)
                     </persName>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ballard County, Kentucky, farmer. Kentucky native. Son of Reuben George and Indiana George. Farmer in Ballard County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Milburn District, p. 90. <lb/>
+ <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, Milburn, p. 2.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
