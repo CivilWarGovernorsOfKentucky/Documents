@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Thos Sullenger</title>
+        <title level="a" type="main">Thomas E. Sullenger</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,28 @@
         <particDesc>
                 <person xml:id="N00008379">
                     <persName>
-                      Thos Sullenger
-                        (stub)
+                      Thomas E. Sullenger
+                        (Ballard county farmer)
                     </persName>
+                        <event type="birth"  when="1833"  ><ab>1833</ab></event>
+                        <event type="death"  when="1902"  ><ab>1902</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ballard County, Kentucky, farmer. Kentucky native. Son of R. Sullenger and J. Sullenger. Married to Martha E. Porter Sullenger. Father of George T. Sullenger, Mary C. Sullenger, and John A. Sullenger. Farmer in Ballard County in 1850.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 259A.<lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Crittenden County, Hurricane, p. 24.<lb/>
+Kentucky. <hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>. Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Thomas E. Sullenger (1833-1902),&quot; Memorial #61874372, https://www.findagrave.com/memorial/61874372/thomas-e.-sullenger] (accessed February 13, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
