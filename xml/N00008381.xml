@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">D H Thomas</title>
+        <title level="a" type="main">Durett H. Thomas</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,28 @@
         <particDesc>
                 <person xml:id="N00008381">
                     <persName>
-                      D H Thomas
-                        (stub)
+                      Durett H. Thomas
+                        (Ballard Co. laborer)
                     </persName>
+                        <event type="birth"  when="1837"  ><ab>1837</ab></event>
+                        <event type="death"  when="1904"  ><ab>1904</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ballard County, Kentucky, farm laborer. Kentucky native. Married to Susan A. Boyd Thomas. Father of Benetta Thomas. Farm laborer in Ballard County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Milburn District, p. 80.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, Milburn District, p. 9.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Durrett H Thomas (1837-1904),&quot; Memorial #145009040, https://www.findagrave.com/memorial/145009040 (accessed February 13, 2018).<lb/>
+Kentucky. <hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>. Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
