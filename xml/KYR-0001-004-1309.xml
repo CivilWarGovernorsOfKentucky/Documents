@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1309"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,24 +72,21 @@
  <text>
   <body>
    <p><note place="header">(1)</note>
-<lb/>State of Kentucky
-<lb/>Adair County &amp; Circuit Sct</p>
+<lb/><orgName ref="cwgk:O001025">State of Kentucky</orgName><lb/><orgName ref="cwgk:O00000590">Adair County</orgName> &amp; <orgName ref="cwgk:O00000338">Circuit</orgName> Sct</p>
 <p><note place="left margin">Court</note>
-<lb/>Pleas before The Hon. Thomas T Alexander Judge of the Adair Circuit Court at the courthouse in Columbia on Saturday the <date when="1864-11-19">19<hi rend="sup">th</hi> day of November 1864</date></p>
+<lb/>Pleas before The Hon. <persName ref="cwgk:N00002587">Thomas T Alexander</persName> Judge of the Adair Circuit Court at the courthouse in <placeName ref="cwgk:P001014">Columbia</placeName> on Saturday the <date when="1864-11-19">19<hi rend="sup">th</hi> day of November 1864</date></p>
 <p><note place="left margin">Parties</note>
 <lb/>The Commonwealth of Kentucky Plff
-<lb/>against &#125; Indictment for Murder
-<lb/>Richard Smith Defendant
-<lb/>	
+<lb/>against } Indictment for Murder
+<lb/><persName ref="cwgk:N00003599">Richard Smith</persName> Defendant<lb/>	
 <lb/><note place="left margin">Indictment</note>
-<lb/>The Grand Jury of Cumberland County in the name and by the authority of the Commonwealth of Kentucky accuse Richard Smith of the crime of Murder committed as follows, viz, the said Richard Smith <hi rend="str">did</hi> on the <date when="1864-04-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of April 1864</date> in the County aforesaid did Feloniously and with Malice aforethoug<hi rend="str">t</hi>ht Kill and Murder Elzy Morgan by shooting him with a pistol against the peace and dignity of the Commonwealth of Kentucky,</p>
-<p>J. H. C Sandidge
-<lb/>Atty for the Commonwealth</p>
+<lb/>The <orgName ref="cwgk:O00000368">Grand Jury of Cumberland County</orgName> in the name and by the authority of the Commonwealth of Kentucky accuse Richard Smith of the crime of Murder committed as follows, viz, the said <persName ref="cwgk:N00003599">Richard Smith</persName> <hi rend="str">did</hi> on the <date when="1864-04-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of April 1864</date> in the County aforesaid did Feloniously and with Malice aforethoug<hi rend="str">t</hi>ht Kill and Murder <persName ref="cwgk:N00003512">Elzy Morgan</persName> by shooting him with a pistol against the peace and dignity of the Commonwealth of Kentucky,</p>
+<p><persName ref="cwgk:N00003583">J. H. C Sandidge</persName><lb/>Atty for the Commonwealth</p>
 <p><note place="left margin">Record of case in the Cumberland cir. ct.</note>
 <lb/>State of Kentucky
 <lb/>Cumberland Circuit Sct</p>
 <p>The Commonwealth of Ky
-<lb/>against&#125; Indict<hi rend="sup">mnt</hi> for Murder
+<lb/>against} Indict<hi rend="sup">mnt</hi> for Murder
 <lb/>Richard Smith Defendant</p>
 <p>Be it remembered that on the <date when="1864-04-18">18<hi rend="sup">th</hi> day of April 1864</date> (April Term) the following Order was made towit,</p>
 <p>"The Grand Jury returned An Indictment against Richard Smith for Murder endorsed a "True Bill" and signed by David Williams foreman"<pb/>
@@ -107,10 +112,10 @@
 <lb/><note place="left margin">Orders Court (viz)</note></p>
 <p>At a Circuit Court continued &amp; held for the County of Adair at the Courthouse in Columbia on Friday the <date when="1864-11-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864</date></p>
 <p><note place="left margin">Counsel appt<hi rend="underline"><hi rend="sup">d</hi></hi> to assist in defense</note>
-<lb/>This day came the attorney for the Commonwealth and the prisoner was led to the bar in custody of the Jailer and the Deft being unable to employ counsel the court appointed Timoleon Cravens Esq <hi rend="str">to assist in the defense</hi> a member of the bar to assist in the defense of said prisoner -- <note place="left margin">Deft filed affidavit &amp; mo. for cont. &amp;c</note> Thereupon the Deft produced his affidavit which is ordered to be filed, and moved the court for a continuance the attorney for the Commonwealth offered to admit the truth of the Statements of the witness Thomas Turner &amp; thereupon the court overruled the motion for a continuance to which Deft excepts, <note place="left margin">Defts dem<hi rend="underline"><hi rend="sup">r</hi></hi> overrl<hi rend="underline"><hi rend="sup">d</hi></hi></note> Deft then offered his demurrer to the Indictment herein &amp; the matters of law being understood &amp;c, the Indictment is considered good &amp; the demurrer is overruled to which defendant excepts -- <note place="left margin">plea of not guilty</note> By consent of the Defendant an arraignment is dispensed with- and said Defendant pleads not guilty and thereupon came the following Jurors,<note place="left margin">Jury or<hi rend="underline"><hi rend="sup">d</hi></hi></note> (towit) N M Collins, Henry J Payne, Josiah Frankum, James M. Wilson, Henry Logan &amp; Alexander Naylor and the jury not being completed, the Jurors were charged by the court &amp; by agreement permitted to disperse to meet again tomorrow morning 9 Oclock and the prisoner was remanded to Jail<pb/>
+<lb/>This day came the attorney for the Commonwealth and the prisoner was led to the bar in custody of the Jailer and the Deft being unable to employ counsel the court appointed <persName ref="cwgk:N00003615">Timoleon Cravens</persName> Esq <hi rend="str">to assist in the defense</hi> a member of the bar to assist in the defense of said prisoner -- <note place="left margin">Deft filed affidavit &amp; mo. for cont. &amp;c</note> Thereupon the Deft produced his affidavit which is ordered to be filed, and moved the court for a continuance the attorney for the Commonwealth offered to admit the truth of the Statements of the witness <persName ref="cwgk:N00000218">Thomas Turner</persName> &amp; thereupon the court overruled the motion for a continuance to which Deft excepts, <note place="left margin">Defts dem<hi rend="underline"><hi rend="sup">r</hi></hi> overrl<hi rend="underline"><hi rend="sup">d</hi></hi></note> Deft then offered his demurrer to the Indictment herein &amp; the matters of law being understood &amp;c, the Indictment is considered good &amp; the demurrer is overruled to which defendant excepts -- <note place="left margin">plea of not guilty</note> By consent of the Defendant an arraignment is dispensed with- and said Defendant pleads not guilty and thereupon came the following Jurors,<note place="left margin">Jury or<hi rend="underline"><hi rend="sup">d</hi></hi></note> (towit) <persName ref="cwgk:N00003594">N M Collins</persName>, <persName ref="cwgk:N00003519">Henry J Payne</persName>, <persName ref="cwgk:N00003589">Josiah Frankum</persName>, <persName ref="cwgk:N00003534">James M. Wilson</persName>, <persName ref="cwgk:N00003521">Henry Logan</persName> &amp; <persName ref="cwgk:N00003380">Alexander Naylor</persName> and the jury not being completed, the Jurors were charged by the court &amp; by agreement permitted to disperse to meet again tomorrow morning 9 Oclock and the prisoner was remanded to Jail<pb/>
 <lb/><note place="header">(6)</note>
 <lb/><note place="left margin">Affidavit of Deft</note>
-<lb/>The defendant says he not ready for trial in this case for the following reasons, Thomas Turner one of the<hi rend="str">s</hi> witnesses for Deft and for whom he has had a sfa issued to Cumberland County where said Thomas Turner who is a soldier was at the time Dft last heard from him which sfa has been returned not executed by A. G. Waggener Sheriff of Cumberland County Ky, Affiant further says that the Regt to which said Thomas Turner is on duty and posted in or near Burksville Cumberland, County Ky that said Turner is a material witness for the defendant in this that said Turner will state that on the morning and before the Commission of the offense with which dft stands charged, in this case -- that the said Turner and affiant had been for several days preceeding the commission of the offense on provost duty near the town of Burksville or therein and that said <hi rend="str">affidavit</hi> affiant had been drinking considerably for several days preceding the time of the offense and looked Strange -- and looked about in a strange way and, on the morning before and before affiant came to town where the offense was committed, Affiant said to said Turner that He affiant was going to Burksville to have a big spree with John Elder, and that said witness will state that John Elder was not and had not been in Burksville for several years -- and in fact does not live in the state of Ky -- </p>
+<lb/>The defendant says he not ready for trial in this case for the following reasons, <persName ref="cwgk:N00000218">Thomas Turner</persName> one of the<hi rend="str">s</hi> witnesses for Deft and for whom he has had a sfa issued to Cumberland County where said Thomas Turner who is a soldier was at the time Dft last heard from him which sfa has been returned not executed by <persName ref="cwgk:N00003379">A. G. Waggener</persName> Sheriff of <placeName ref="cwgk:P001829">Cumberland County Ky</placeName>, Affiant further says that the Regt to which said <persName ref="cwgk:N00000218">Thomas Turner</persName> is on duty and posted in or near Burksville Cumberland, County Ky that said Turner is a material witness for the defendant in this that said Turner will state that on the morning and before the Commission of the offense with which dft stands charged, in this case -- that the said Turner and affiant had been for several days preceeding the commission of the offense on provost duty near the town of <placeName ref="cwgk:P00000547">Burksville</placeName> or therein and that said <hi rend="str">affidavit</hi> affiant had been drinking considerably for several days preceding the time of the offense and looked Strange -- and looked about in a strange way and, on the morning before and before affiant came to town where the offense was committed, Affiant said to said Turner that He affiant was going to <placeName ref="cwgk:P00000547">Burksville</placeName> to have a big spree with John Elder, and that said witness will state that <persName ref="cwgk:N00007787">John Elder</persName> was not and had not been in <placeName ref="cwgk:P00000547">Burksville</placeName> for several years -- and in fact does not live in the state of Ky -- </p>
 <p>That said witness will further state that after the dft came to town witness &amp; affiant<pb/>
 <lb/><note place="header">(7)</note>
 <lb/><note place="left margin">aff. ent<hi rend="underline"><hi rend="sup">d</hi></hi></note>
@@ -304,7 +309,7 @@
 <lb/>(D) The Court instructs the Jury that moral insanity most usually consists in a perversions of the passions feelings and affections which when proven to the satisfaction of the Jury excuses the commission of crime when it exists in such violence as to cease to be controlled by the action of the mind
 <lb/>Given</p>
 <p>State of Kentucky
-<lb/>County of Adair &#125; Sct</p>
+<lb/>County of Adair } Sct</p>
 <p>I James T. Page Clerk of the Circuit Court for the County aforesaid do hereby certify that the preceding twenty nine pages contain a full and complete transcript of the record and proceedings of the prosecution therein mentioned of The Commonwealth of Kentucky against Richard Smith -- </p>
 <p>Witness my hand this <date when="1864-11-26">26<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864</date></p>
 <p>James T. Page C, A, C, C</p>
@@ -392,11 +397,10 @@
 </table></p>
 <p>J. T. Page Clk<pb/></p>
 <p>The Comth of Ky
-<lb/>vs &#125; Transcript of Record
+<lb/>vs } Transcript of Record
 <lb/>Richard Smith<figure type="hr"/></p>
 <p>An Appeal refused.
-<lb/>J. F. Bullitt
-<lb/><date when="1864-12-22">Dec<hi rend="sup">r</hi> 22, 1864</date></p>
+<lb/><persName ref="cwgk:N00002032">J. F. Bullitt</persName><lb/><date when="1864-12-22">Dec<hi rend="sup">r</hi> 22, 1864</date></p>
 <p>Respited until <date when="1865-03-03">3<hi rend="sup">d</hi> day March 1865</date>
 <lb/><date when="1865-01-31">31<hi rend="sup">st</hi> Jany/65</date></p>
   </body>
