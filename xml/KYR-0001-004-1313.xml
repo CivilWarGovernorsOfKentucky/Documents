@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1313"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>W. B. Baker has deposited Bond in this Office to obtain Coffee House License from the Trustees of the town of R. Spring,</p>
+   <p><persName ref="cwgk:N00004859">W. B. Baker</persName> has deposited Bond in <orgName ref="cwgk:O00000719">this Office</orgName> to obtain Coffee House License from the Trustees of the town of <placeName ref="cwgk:P00000548">R. Spring</placeName>,</p>
 <p><date when="1864-11-14">Nov 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
-<lb/>Mat McKinney Clk</p>
-<p>E. Ledford has deposited Bond in this Office with view of obtaining Coffee House License from the Trustees of the town of R Springs</p>
+<lb/><persName ref="cwgk:N00003628">Mat McKinney</persName> Clk</p>
+<p><persName ref="cwgk:N00003626">E. Ledford</persName> has deposited Bond in this Office with view of obtaining Coffee House License from the Trustees of the town of R Springs</p>
 <p><date when="1864-11-14">Nov 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
 <lb/>Mat McKinney Clk<pb/></p>
-<p>I J. H. Wilkinson Presiding Judge of the Trigg County Court certify that at the time when Messr Ledford &amp; Baker made application for License as stated in the foregoing petition, the opinion was entertained &amp; acted ^upon^ by myself &amp; the then clerk of the County Court Mat M<hi rend="sup">c</hi>Kinney that it was only necessary for the applicant to procure "Merchants License to retail" for which the tax is five dollars -- instead of State License. The same opinion was entertained by members of the bar at this place. Acting upon these views we did issue the wrong License to Ledford &amp; Baker, it was through our mistake as to the law, and not through any fault of theirs that the law was violated</p>
+<p>I <persName ref="cwgk:N00003627">J. H. Wilkinson</persName> Presiding Judge of the Trigg County Court certify that at the time when Messr Ledford &amp; Baker made application for License as stated in the foregoing petition, the opinion was entertained &amp; acted ^upon^ by myself &amp; the then clerk of the County Court Mat M<hi rend="sup">c</hi>Kinney that it was only necessary for the applicant to procure "Merchants License to retail" for which the tax is five dollars -- instead of State License. The same opinion was entertained by members of the bar at this place. Acting upon these views we did issue the wrong License to Ledford &amp; Baker, it was through our mistake as to the law, and not through any fault of theirs that the law was violated</p>
 <p>Given under my hand this <date when="1866-09-15">15th day of Sept 1866</date>
 <lb/><hi rend="underline">J. H. Wilkinson P. J T C C</hi></p>
   </body>
