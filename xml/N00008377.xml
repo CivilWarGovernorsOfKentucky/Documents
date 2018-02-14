@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">D C Mix</title>
+        <title level="a" type="main">David C. Mix</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,27 @@
         <particDesc>
                 <person xml:id="N00008377">
                     <persName>
-                      D C Mix
-                        (stub)
+                      David C. Mix
+                        (Ballard Co. Carding machine operator)
                     </persName>
+                        <event type="birth"  when="1834-06-15"  ><ab>1834-06-15</ab></event>
+                        <event type="death"  when="1917-03-25"  ><ab>1917-03-25</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ballard County, Kentucky, carding machine operator. Tennessee native. Married to Elizabeth J. Ellis Mix in 1856. Father of Ella Mix, Millie Mix, and Mary Mix.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, District 8, p. 12.<lb/>
+<hi rend="italic">Kentucky, County Marriage Records, 1783-1965</hi>, Ancestry, Marriages, Ballard County, 1856.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;David C. Mix (1834-1917),&quot; Memorial #93084442, https://www.findagrave.com/memorial/93084442 (accessed February 14, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
