@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1322"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington, Ky., <date when="1864-11-30">Nov. 30, '64.</date>
-<lb/>Thos. W. Hawkins, Esq. -- </p>
-<p>Your letter of yesterday has been received. I have no power whatever to order the sheriff to return the capias. There is no trouble about the matter whatever. You remember that I had a petition to hand the Governor for you to get him to remit all but the &#36;150. which he only can do.</p>
+   <p><placeName ref="cwgk:P001002">Lexington, Ky.</placeName>, <date when="1864-11-30">Nov. 30, '64.</date>
+<lb/><persName ref="cwgk:N00006330">Thos. W. Hawkins</persName>, Esq. -- </p>
+<p>Your letter of yesterday has been received. I have no power whatever to order the sheriff to return the capias. There is no trouble about the matter whatever. You remember that I had a petition to hand the <persName ref="cwgk:N001000">Governor</persName> for you to get him to remit all but the $150. which he only can do.</p>
 <p>You had better go to the Governor at once, as all the others have done, and I have no doubt he will remit your fine. The Petition I had will not do, as the date is wrong. You will have no trouble, if you do as all the others have done,</p>
 <p>Yours,
-<lb/>John L. Scott.<pb/></p>
+<lb/><persName ref="cwgk:N00006329">John L. Scott</persName>.<pb/></p>
 <p><unclear/>
 <lb/><unclear>J</unclear></p>
   </body>
