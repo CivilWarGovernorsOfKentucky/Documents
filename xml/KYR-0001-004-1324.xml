@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1324"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,16 +72,12 @@
  <text>
   <body>
    <p><date when="1864-11-29">Nov th 29 1864</date>
-<lb/>Harrodsburg Mercer Ky
-<lb/>To the on Thomas E Bromlet
-<lb/>Govener of Ky</p>
-<p>Wea The under siners are personal Aquaded with Sollomon Corn from his child hood up To this act he was all ways counted An onest young man on till this his First he confest his crime and give up The goos he luck and was confind in The Mercer Jail and sent to frankfort Jail and sent back to Mecer and foung gilty and sent- To The state prisen For Two years Wea Think you will use your exative athority in his be behalf</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>J. Donovan
-<lb/>Jas <unclear>Donor</unclear>
+<lb/><placeName ref="cwgk:P00000555">Harrodsburg</placeName> Mercer <orgName ref="cwgk:O001025">Ky</orgName><lb/>To the on Thomas E Bromlet
+<lb/>Govener of <orgName ref="cwgk:O001025">Ky</orgName></p>
+<p>Wea The under siners are personal Aquaded with <persName ref="cwgk:N00006334">Sollomon Corn</persName> from his child hood up To this act he was all ways counted An onest young man on till this his First he confest his crime and give up The goos he luck and was confind in The <orgName ref="cwgk:O00000659">Mercer Jail</orgName> and sent to<orgName ref="cwgk:O00003470"> frankfort Jail</orgName> and sent back to Mecer and foung gilty and sent- To <orgName ref="cwgk:O00000266">The state prisen</orgName> For Two years Wea Think you will use your exative athority in his be behalf</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00007818">J. Donovan</persName><lb/>Jas <unclear>Donor</unclear>
 <lb/>Wiliam <unclear/>
-<lb/>Ja yost
-<lb/><cb n="2"/><hi rend="str">J</hi>B N Bauer
-<lb/>Conelius Donovan
+<lb/><persName ref="cwgk:N00007820">Ja yost</persName><lb/><cb n="2"/><hi rend="str">J</hi><persName ref="cwgk:N00007821">B N Bauer</persName><lb/>Conelius Donovan
 <lb/>Markam <unclear>Deringer</unclear><milestone unit="column" n="1"/>
 <lb/></p>
   </body>
