@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1328"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington <date when="1864-11-02">Nov 2-64</date></p>
-<p>Sir Gen Huston Has said Every thing in relation to my circumstance I wold come and se you but my Circumstances will not allow me to I hope you will Releive me of those fines they went against me at the last circut court of franklin I hav quit Playing Cards and gon to hardwork hoping<pb/>
+   <p><placeName ref="cwgk:P001002">Lexington</placeName> <date when="1864-11-02">Nov 2-64</date></p>
+<p><persName ref="cwgk:N001000">Sir</persName> <persName ref="cwgk:N00007822">Gen Huston</persName> Has said Every thing in relation to my circumstance I wold come and se you but my Circumstances will not allow me to I hope you will Releive me of those fines they went against me at the last <orgName ref="cwgk:O00000376">circut court of franklin</orgName> I hav quit Playing Cards and gon to hardwork hoping<pb/>
 <lb/>this will Receive your kindness</p>
 <p>I remain Very
 <lb/>Respectfuly
-<lb/>H. C. Metcalf</p>
+<lb/><persName ref="cwgk:N00006353">H. C. Metcalf</persName></p>
 <p>Ps
 <lb/>I was fined in 2 cases for Dealing faro Please hav the Remits sent to Lexington as the Judg ments hav ben sent hear
 <lb/></p>
