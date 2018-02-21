@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1331"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Carlisle <date when="1864-11-19">Nov, 19, 1864</date>
+   <p><placeName ref="cwgk:P00000537">Carlisle</placeName> <date when="1864-11-19">Nov, 19, 1864</date>
 <lb/>Hon Tho<hi rend="sup">s</hi>. E. Bramblet
 <lb/>Gov. of Ky</p>
-<p>Dear sir I Enclose you herewith Mr. Delaneys Petition </p>
+<p>Dear sir I Enclose you herewith Mr. <persName ref="cwgk:N00006292">Delaneys</persName> Petition </p>
 <p>I was Attorney for Delaney in the trial and I am satisfied his Case presents just Considerations for your clemency</p>
 <p>He is very much afflicted with fits his neighbours &amp; family said it affected his mind &amp; small things enraged him &amp; made him almost an irresponsible being -- </p>
 <p>His sho^u^lder blade was broken <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> and he had his arm tied up at the trial &amp; it was broken by a fall when in a fit -- All the Jurors except one that I have seen signed the Petition-</p>
 <p>Truly yours
-<lb/>Fitch Munger</p>
+<lb/><persName ref="cwgk:N00006356">Fitch Munger</persName></p>
   </body>
  </text>
 </TEI>
