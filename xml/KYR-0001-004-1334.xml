@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1334"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Newport Ky.
-<lb/><date when="1864-11-07">Nov 7. 1864</date>
-<lb/>Gov. Bramlette
-<lb/>Dear Sir,</p>
-<p>Sometime ago, I forwarded Petition's &amp;c for remission of fine <hi rend="str">assessed</hi> of &#36;75, assessed against William Girty, by the Campbell Circuit Court at its <date when="1864-02">late Feby.</date> Term for carrying concealed weapons</p>
+   <p><placeName ref="cwgk:P00004717">Newport Ky</placeName>.<lb/><date when="1864-11-07">Nov 7. 1864</date>
+<lb/><persName ref="cwgk:N001000">Gov. Bramlette</persName><lb/>Dear Sir,</p>
+<p>Sometime ago, I forwarded Petition's &amp;c for remission of fine <hi rend="str">assessed</hi> of $75, assessed against <persName ref="cwgk:N00007773">William Girty</persName>, by the <orgName ref="cwgk:O00000361">Campbell Circuit Court</orgName> at its <date when="1864-02">late Feby.</date> Term for carrying concealed weapons</p>
 <p>The facts are set out in a record accompanying the petition, &amp; I think it will be seen the whole thing was a mere <date when="--07-04">fourth of July</date> Spree, &amp; that injustice was done Girty.</p>
-<p>If you have not acted on the matter I beg to call your attention to it. Mr. Carlisle mentioned the matter to you a few days since</p>
+<p>If you have not acted on the matter I beg to call your attention to it. <persName ref="cwgk:N00007774">Mr. Carlisle</persName> mentioned the matter to you a few days since</p>
 <p>Yrs respectfully
-<lb/>J. R. Hallam<pb/></p>
+<lb/><persName ref="cwgk:N00006448">J. R. Hallam</persName><pb/></p>
 <p>Campbell Cir Ct
 <lb/>vs
 <lb/>W<hi rend="sup">m</hi> Girty
-<lb/>&#36;75
+<lb/>$75
 <lb/>Remitted
 <lb/><date when="1864-11-08">8<hi rend="sup">th</hi> Nov/64</date></p>
 <p>Carrying concealed -- </p>
