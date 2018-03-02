@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001198">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main"> Joseph Norris</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001198">
+                    <persName>
+                       Joseph Norris
+                        (Bethel, Missouri, farmer and War of 1812 Veteran)
+                    </persName>
+                        <event type="birth"  when="1790"  cert="medium" ><ab>c1790</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Bethel, Missouri, farmer. Maryland native. Married to Lydia Norris. Father of America Norris, Edward Norris, Joseph Norris, George Norris, and Thomas Norris. Veteran of the War of 1812. Farmer in Oneco, Illinois, in 1850. Farmer in Bethel in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Illinois, Stephenson County, Town of Oneco. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Missouri, Shelby County, Bethel Township, p. 23. Edwin Porter Thompson, <hi rend="italic">A Young People’s History of Kentucky for Schools and General Reading</hi> (St. Louis: A. R. Fleming Publishing Company, 1897), 197. John M. Trowbridge, “’To Meet the Men at Any Element:’ The Kentucky Militia in the Battle of Lake Erie,” <hi rend="italic">Kentucky Ancestors: Genealogical Quarterly of the Kentucky Historical Society</hi> 42, no. 1 (2006): 4. <hi rend="italic">Find A Grave</hi>, &quot;Joseph Norris (February 18, 1790 - July 13, 1879),&quot; Memorial #129106505, https://www.findagrave.com/cgi-bin/fg.cgi/page/gr/http//fg.cgi?page=gr&amp;GRid=129106505 (accessed June 27, 2017).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
