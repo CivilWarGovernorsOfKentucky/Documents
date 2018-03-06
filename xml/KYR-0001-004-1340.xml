@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1340"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,19 +70,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlet, Governor, of Kentucky; we petitioners Citizens of the County of <hi rend="str">car</hi> -- Carter; and part of the Jury sumoned from, Carter County to Lawrence, at the fall term of the Court, in <date when="1859-10">October 1859,</date> and being the <unclear>trial</unclear> of <hi rend="str">said Endic</hi> of Gabriel. Endicott for <hi rend="underline">murder</hi>, we found him Guilty of Manslaughter, and fixed his time of Confinement at ten years; said Endicott has now been confine little more than half the term; has been a faithfull, <hi rend="underline">prisoner</hi> is a young man, of standing, and Moral worth; all things connected with his case; and himself considered; we hope will induce, your Excelly to act
+   <p>To his Excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlet, Governor, of<orgName ref="cwgk:O001025"> Kentucky</orgName>; we petitioners Citizens of the County of <hi rend="str">car</hi> -- Carter; and part of the Jury sumoned from, Carter County to Lawrence, at the fall term of the Court, in <date when="1859-10">October 1859,</date> and being the <unclear>trial</unclear> of <hi rend="str">said Endic</hi> of Gabriel. Endicott for <hi rend="underline">murder</hi>, we found him Guilty of Manslaughter, and fixed his time of Confinement at ten years; said Endicott has now been confine little more than half the term; has been a faithfull, <hi rend="underline">prisoner</hi> is a young man, of standing, and Moral worth; all things connected with his case; and himself considered; we hope will induce, your Excelly to act
 <lb/>over,<pb/>
 <lb/>favorably, in his case, and pardon, him from the balance of his time,</p>
 <p>and as in duty will ever &amp; c,
 <lb/>Petitioners Names
-<lb/>J. B. Ward
-<lb/>William Everman
-<lb/>Samuel Everman
-<lb/>Elijah Horton
-<lb/>John Grizzell
-<lb/><unclear>O.</unclear> M: Harper
-<lb/>James. W. Scott.
-<lb/>James M<hi rend="sup">c</hi>Glone</p>
+<lb/><persName ref="cwgk:N00006426">J. B. Ward</persName><lb/><persName ref="cwgk:N00006427">William Everman</persName><lb/><persName ref="cwgk:N00006428">Samuel Everman</persName><lb/><persName ref="cwgk:N00006429">Elijah Horton</persName><lb/><persName ref="cwgk:N00006430">John Grizzell</persName><lb/><unclear>O.</unclear> M<persName ref="cwgk:N00006431">[O. M:] Harper</persName><lb/><persName ref="cwgk:N00006432">James. W. Scott.
+</persName><lb/>James M<hi rend="sup">c</hi>Glone</p>
   </body>
  </text>
 </TEI>
