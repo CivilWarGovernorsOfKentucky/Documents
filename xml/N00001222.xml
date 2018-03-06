@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001222">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Benjamin F. Graves</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001222">
+                    <persName>
+                      Benjamin F. Graves
+                        (Lexington, Kentucky, attorney, judge, and politician.)
+                    </persName>
+                        <event type="birth"  when="1802-02-16"  ><ab>1802-02-16</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lexington, Kentucky, attorney, judge, and politician. Fayette County, Kentucky, native. Son of John C. Graves. Studied law and admitted to the bar. Attorney in Fayette County in 1850. Judge of the Fayette County Court from 1850 to 1858 and 1866 to 1874. Mayor of Lexington from 1859 to 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fayette County, District No. 1, p. 247. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington, 3rd Ward, p. 569. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, Ward 2, p. 8. George Washington Ranck, <hi rend="italic">History of Lexington, Kentucky: Its Early Annals and Recent Progress, Including Biographical Sketches and Personal Reminiscences of the Pioneer Settlers, Notices of Prominent Citizens, Etc., Etc.</hi> (Cincinnati: R. Clarke, 1872), 363-364.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
