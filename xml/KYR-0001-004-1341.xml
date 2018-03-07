@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1341"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisa Ky, <hi rend="str">October</hi>
+   <p><placeName ref="cwgk:P00000553">Louisa Ky</placeName>, <hi rend="str">October</hi>
 <lb/><date when="1864-11-05">Novr 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>To his Excellency
-<lb/>Thomas E, Bramlet,
-<lb/>Governor,,</p>
-<p>Some five years ago one Gabriel Endicott, was convicted in the Lawrence Court for manslaughter, in killing David Justice, who, was my Brotherinlaw, I took the lead in employing counsel to assist in prosecuting said Endicott, we employed Col, L. T. Moore, Hon<hi rend="underline"><hi rend="sup">l</hi></hi> L, W, Andrews and others; -- the case being as strangely made by proof as could be produced, left it only a case of circumstantial evidence; taking all things into consideration I am satisfied, the ends of<pb/>
-<lb/>Justice; and cause of humanity, would be better, attained by pardoning Endicott, than keeping, him longer, confined to obtain this end, I have united, in a petition, of my neighbours, and have no doubt the entire, population of the county, would if applied to unite, in the prayer for his pardon; I am sir very respectfully your</p>
+<lb/><persName ref="cwgk:N001000">Thomas E, Bramlet</persName>,<lb/>Governor,,</p>
+<p>Some five years ago one <persName ref="cwgk:N00004886">Gabriel Endicott</persName>, was convicted in the <orgName ref="cwgk:O00000418">Lawrence Court</orgName> for manslaughter, in killing <persName ref="cwgk:N00004887">David Justice</persName>, who, was my Brotherinlaw, I took the lead in employing counsel to assist in prosecuting said Endicott, we employed Col, <persName ref="cwgk:N00000825">L. T. Moore</persName>, Hon<hi rend="underline"><hi rend="sup">l</hi></hi> <persName ref="cwgk:N00001182">L, W, Andrews</persName> and others; -- the case being as strangely made by proof as could be produced, left it only a case of circumstantial evidence; taking all things into consideration I am satisfied, the ends of<pb/>
+<lb/>Justice; and cause of humanity, would be better, attained by pardoning Endicott, than keeping, him longer, confined to obtain this end, I have united, in a petition, of my neighbours, and have no doubt the entire, population of <placeName ref="cwgk:P00000552">the county</placeName>, would if applied to unite, in the prayer for his pardon; I am sir very respectfully your</p>
 <p>obedient Servant
-<lb/>William Vinson</p>
+<lb/><persName ref="cwgk:N00004888">William Vinson</persName></p>
   </body>
  </text>
 </TEI>
