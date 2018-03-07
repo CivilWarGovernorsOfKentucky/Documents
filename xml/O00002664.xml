@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00004802">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00002664">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main"> Smithland, Kentucky</title>
+        <title level="a" type="main">17th Kentucky Infantry</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Tyler Campbell</name>
+            <name>Anthony P. Curtis</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Tyler Campbell</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -45,28 +37,25 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="type">Place</term>
+                    <term type="type">Organization</term>
                 </keywords>
             </textClass>
-            <settingDesc>
-                <place xml:id="P00004802">
-                    <placeName>
-                        <location>
-                              <geo>37.1389 -88.4034</geo>
-                            <settlement> Smithland, Kentucky</settlement>
-                        </location>
-                    </placeName>
-                </place> 
-            </settingDesc>    
+            <particDesc>
+                <org xml:id="O00002664">
+                    <orgName>17th Kentucky Infantry</orgName>
+                        <event type="begun"  when="1862-01-04"  ><ab>1862-01-04</ab></event>
+                        <event type="ended"  when="1865-01-23"  ><ab>1865-01-23</ab></event>
+                </org>
+            </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Seat of Livingston County, Kentucky. Located at the junction of the Ohio River and Cumberland River.</p>
+        <p>Organized at Calhoun, Kentucky. Mustered in on January 4, 1862 and mustered out on January 23, 1865. Officer(s): Colonel James M. Shackelford, Colonel John H. McHenry, Jr., and Colonel Alexander M. Stout.</p>
 
     </body>
     <back>
-        <ab><bibl>H. Lee Wallace, &quot;Smithland&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 832.
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1 (Frankfort: John H. Harney, Public Printer, 1866), 985; Frederick Henry Dyer, <hi rend="italic">A Compendium of the War of the Rebellion</hi>, (Des Moines: Dyer Publishing Company, 1908), p. 1204-1205.
 </bibl></ab>
     </back>
 </text>
