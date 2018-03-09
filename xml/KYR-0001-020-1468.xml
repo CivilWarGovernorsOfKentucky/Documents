@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1468"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Newport Ky <date when="1861-10-31">Oct<hi rend="underline"><hi rend="sup">r</hi></hi> 31<hi rend="underline"><hi rend="sup">st</hi></hi> 1861</date>
-<lb/>Hon B Magoffin
-<lb/>Frankfort Ky
-<lb/>Dear Sir</p>
-<p>Tho' not personally acquainted with you I have taken the liberty to forward the accompanying ^petition^ on behalf of Charles May.</p>
+   <p><placeName ref="cwgk:P00004717">Newport Ky</placeName> <date when="1861-10-31">Oct<hi rend="underline"><hi rend="sup">r</hi></hi> 31<hi rend="underline"><hi rend="sup">st</hi></hi> 1861</date>
+<lb/><persName ref="cwgk:N00000258">Hon B Magoffin</persName><lb/><placeName ref="cwgk:P00000308">Frankfort Ky
+</placeName><lb/>Dear Sir</p>
+<p>Tho' not personally acquainted with you I have taken the liberty to forward the accompanying ^petition^ on behalf of<persName ref="cwgk:N00007919"> Charles May</persName>.</p>
 <p>Allow me to urge upon your attention the character of the petitioners as showing this to be a meritorious case justly calling for the exercise of the executive clemency -- </p>
 <p>I am most respectfully yours &amp;c
-<lb/>F. M. Webster -- </p>
+<lb/><persName ref="cwgk:N00004738">F. M. Webster</persName> -- </p>
   </body>
  </text>
 </TEI>
