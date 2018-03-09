@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1465"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1861-10-16">Oct 16 <hi rend="underline">1861</hi></date>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-10-16">Oct 16 <hi rend="underline">1861</hi></date>
 <lb/>My Dear Sir</p>
-<p>Will you do my the favor to bring to the Governor<hi rend="sup">s</hi> favorable Consideration the Application of my friend Tho<hi rend="sup">s</hi> Sullivan for the remission of a fine of &#36;25<hi rend="sup"> -- </hi>against him</p>
+<p>Will you do my the favor to bring to <persName ref="cwgk:N00000258">the Governor</persName><hi rend="sup">s</hi> favorable Consideration the Application of my friend Tho<hi rend="sup">s</hi> Sullivan for the remission of a fine of $25<hi rend="sup"> -- </hi>against him</p>
 <p>He is a poor man and ought not as I believe to have been fined His petition He has Just mailed if the Governor does Remit it please have the Remission mailed to Tho<hi rend="sup">s</hi> Sullivan to the care of</p>
 <p>Yours Truly
-<lb/>John Cawein</p>
+<lb/><persName ref="cwgk:N00007914">John Cawein</persName></p>
 <p>Ja<hi rend="sup">s</hi> W Tate Esq
 <lb/>Frankfort
 <lb/>Ky</p>
