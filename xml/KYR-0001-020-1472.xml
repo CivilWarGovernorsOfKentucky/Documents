@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1472"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Newport <date when="1861-10-20">Oct 20<hi rend="sup">th</hi> 1861</date>
+   <p><placeName ref="cwgk:P00004717">Newport</placeName> <date when="1861-10-20">Oct 20<hi rend="sup">th</hi> 1861</date>
 <lb/>His Excellency
-<lb/>B. Magoffin Govenor. of the State of Kentucky</p>
-<p>At the request of the father of the convict for whom a petition is forwarded from this city to day I desire to say, that in common with the best citizens of this city I feel to sympathise with the convict, Geo. Knarr and his family, Knowing there are many circumstances in mitigation of the crime of<hi rend="str">or</hi> which he is convicted And Sir, should he be restored to his liberty, by the Exercise of Executive Clemency, it will meet the approbation of the best and most responsible portion of this people who will cheerfully accord to you, motives actuated by the highest considerations of humanity</p>
+<lb/>B. Magoffin Govenor. of the <orgName ref="cwgk:O001025">State of Kentucky</orgName></p>
+<p>At the request of <persName ref="cwgk:N00008009">the father of the convict</persName> for whom a petition is forwarded from this city to day I desire to say, that in common with the best citizens of this city I feel to sympathise with the convict, <persName ref="cwgk:N00003844">Geo. Knarr</persName> and his family, Knowing there are many circumstances in mitigation of the crime of<hi rend="str">or</hi> which he is convicted And Sir, should he be restored to his liberty, by the Exercise of Executive Clemency, it will meet the approbation of the best and most responsible portion of this people who will cheerfully accord to you, motives actuated by the highest considerations of humanity</p>
 <p>Very Respectfully
-<lb/>A D Smalley</p>
+<lb/><persName ref="cwgk:N00008010">A D Smalley</persName></p>
   </body>
  </text>
 </TEI>
