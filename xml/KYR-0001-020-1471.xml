@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1471"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky <date when="1861-10">October Term 1861</date>
-<lb/>Jefferson Circuit Court <date when="1861-10-21">October 21 1861</date></p>
+   <p><orgName ref="cwgk:O001025">State of Kentucky</orgName> <date when="1861-10">October Term 1861</date>
+<lb/><orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> <date when="1861-10-21">October 21 1861</date></p>
 <p>The Commonwealth Plff
 <lb/>vs Indict felony
 <lb/>Henry Self &amp; William Burns Defts</p>
@@ -73,7 +81,7 @@
 <lb/>Lee Chambers D C
 <lb/>for James P Chambers c<pb/></p>
 <p>Commonwealth
-<lb/>vs &#125; Copy Order
+<lb/>vs } Copy Order
 <lb/>Henry Self &amp;<hi rend="sup">c</hi></p>
   </body>
  </text>
