@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1460"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Henderson Ky <date when="1861-10-10">Oct the 10 -- 61</date>
+   <p><placeName ref="cwgk:P001815">Henderson Ky</placeName> <date when="1861-10-10">Oct the 10 -- 61</date>
 <lb/>Ja<hi rend="sup">s </hi>W Tate
-<lb/>Assistant Secretary of State of Kentucky
-<lb/>My old Friend</p>
-<p>Allow me to tax your generosity &amp; kindness, to intercede with his Excelency the Govenor -- for the remission of a fine assessed or found against me for fifty (&#36;50 at the June Term of our circuit court. These hard times it would realy destroy me very much to pay out So much money for nothing.</p>
+<lb/>Assistant Secretary of State of <orgName ref="cwgk:O001025">Kentucky</orgName><lb/>My old Friend</p>
+<p>Allow me to tax your generosity &amp; kindness, to intercede with his Excelency the Govenor -- for the remission of a fine assessed or found against me for fifty ($50 at the June Term of <orgName ref="cwgk:O00000397">our circuit court</orgName>. These hard times it would realy destroy me very much to pay out So much money for nothing.</p>
 <p>I have a very large family to Support &amp; they are all girls &amp; 50 dollars would go fare towards clothing &amp; feeding them through the approaching winter.</p>
 <p>I do hope the Govenor will remit the fine as <hi rend="underline">I am or was not</hi> <hi rend="underline">guilty</hi> of the misdemer for which I was fined. <hi rend="str">for</hi> Do What you can &amp; Say to the Govenor that he has it in his power to make or releve a needy family of a burden for which they will allway hold in greatful remembrance</p>
-<p>Your Friend Ambrose, H, Talbott<pb/></p>
+<p>Your Friend <persName ref="cwgk:N00007903">Ambrose, H, Talbott</persName><pb/></p>
 <p>A. H. Talbott to Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Tate</p>
   </body>
  </text>
