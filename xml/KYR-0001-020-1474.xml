@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1474"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,37 +71,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency B Magoffin Governor of the Commonwealth of Kentucky</p>
-<p>Your petitioners would respectfully represent that Geo Knarr was heretofore convicted of manslaughter in the Campbell Circuit Court at the <gap/> term thereof and sentenced to confinement in the Penitentiary where he now is, They would farther state that Knorr had sustained a good character up to the time of the offense for which he was convicted and the commision of which was in a sudden affray growing out of reports derogatory to the character of Knorrs wife which had been circulated by the party for whos homicide Knorr was convicted,</p>
-<p>It appears that Knorr has a wife &amp; child dependant upon him for support &amp; who are in destitute circumstances, that he was confined a long time in Jail before he had a trial; and believing that the ends of justice do not demand his further confinement in the Penitentiary your petitioners pray your Excellency ^in the exercise of the divine atribute of mercy^ to restore him to his liberty and his family -- Campbell County Ky <date when="1861-10-18">October 18<hi rend="sup">th</hi>/61</date></p>
+   <p>To <persName ref="cwgk:N00000258">his Excellency B Magoffin</persName> Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName></p>
+<p>Your petitioners would respectfully represent that Geo Knarr was heretofore convicted of manslaughter in the <orgName ref="cwgk:O00000361">Campbell Circuit Court</orgName> at the <gap/> term thereof and sentenced to confinement in the <orgName ref="cwgk:O00000266">Penitentiary</orgName> where he now is, They would farther state that Knorr had sustained a good character up to the time of the offense for which he was convicted and the commision of which was in a sudden affray growing out of reports derogatory to the character of <persName ref="cwgk:N00003845">Knorrs wife</persName> which had been circulated by <persName ref="cwgk:N00003826">the party</persName> for whos homicide Knorr was convicted,</p>
+<p>It appears that Knorr has a wife &amp; <persName ref="cwgk:N00008011">child</persName> dependant upon him for support &amp; who are in destitute circumstances, that he was confined a long time in Jail before he had a trial; and believing that the ends of justice do not demand his further confinement in the Penitentiary your petitioners pray your Excellency ^in the exercise of the divine atribute of mercy^ to restore him to his liberty and his family -- <placeName ref="cwgk:P00001874">Campbell County Ky</placeName> <date when="1861-10-18">October 18<hi rend="sup">th</hi>/61</date></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Gus Artsman clk cir ct 
-<lb/>H. Sine, J. P.
-<lb/>Sam<hi rend="sup">l</hi> Winston
-<lb/><hi rend="underline">R F Caldwell</hi>
-<lb/><hi rend="underline">Geo. R. Fearons</hi>
-<lb/><cb n="2"/>A,, D,, Smalley
-<lb/><hi rend="underline">Jno. P. Jackson</hi> Foreman of Jury
-<lb/><hi rend="underline">Philip W Turner</hi>
-<lb/>John Hall Juror
-<lb/>C, Stricker<milestone unit="column" n="1"/><pb/>
-<lb/><hi rend="underline">H. D Helm</hi>
-<lb/>John Sticker
-<lb/>C W, Todd
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Bennet
-<lb/>Thomas Savran -Juror-
-<lb/>John Livingston
-<lb/>J Horsfall Jailor
-<lb/>R Maddox
-<lb/>R D Hayman
-<lb/>P Constans
-<lb/>Joseph Morlidge
-<lb/>Jno Mohler -Juror-
-<lb/>W<hi rend="sup">m</hi> Stricker -Juror-
-<lb/>George Harrop -Juror-
-<lb/>Gorg Doller Jurer
-<lb/>K R Deglow
-<lb/>J. H. Deglow
-<lb/>S C Mercher<pb/></p>
+<lb/><persName ref="cwgk:N00006900">H. Sine</persName>, J. P.<lb/>Sam<hi rend="sup">l</hi> Winston
+<lb/>
+<persName ref="cwgk:N00008014">R F Caldwell</persName><lb/><hi rend="underline">Geo. R. Fearons</hi>
+<lb/><cb n="2"/><persName ref="cwgk:N00008010">A,, D,, Smalley</persName><lb/> Foreman of Jury
+<persName ref="cwgk:N00006114">Jno. P. Jackson</persName><lb/><hi rend="underline">Philip W Turner</hi>
+<lb/><persName ref="cwgk:N00008017">John Hall</persName> Juror<lb/><persName ref="cwgk:N00008018">C. Stricker</persName><milestone unit="column" n="1"/><pb/>
+<lb/>
+<persName ref="cwgk:N00008455">H. D Helm</persName><lb/><persName ref="cwgk:N00008456">John Sticker
+</persName><lb/><persName ref="cwgk:N00008457">C W, Todd
+</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Bennet
+<lb/><persName ref="cwgk:N00008459">Thomas Savran</persName> -Juror-<lb/><persName ref="cwgk:N00008462">John Livingston
+</persName><lb/><persName ref="cwgk:N00006902">J Horsfall</persName> Jailor<lb/><persName ref="cwgk:N00008463">R Maddox
+</persName><lb/><persName ref="cwgk:N00008464">R D Hayman</persName><lb/><persName ref="cwgk:N00008465">P Constans</persName><lb/><persName ref="cwgk:N00008467">Joseph Morlidge</persName><lb/><persName ref="cwgk:N00008468">Jno Mohler</persName> -Juror-<lb/>W<hi rend="sup">m</hi> Stricker -Juror-
+<lb/><persName ref="cwgk:N00008470">George Harrop</persName> -Juror-<lb/><persName ref="cwgk:N00008471">Gorg Doller</persName> Jurer<lb/><persName ref="cwgk:N00008472">K R Deglow</persName><lb/><persName ref="cwgk:N00008473">J. H. Deglow</persName><lb/><persName ref="cwgk:N00008474">S C Mercher</persName><pb/></p>
 <p>To the Governor of Kentucky
 <lb/>Petition in the Matter of Geo Knorr</p>
   </body>
