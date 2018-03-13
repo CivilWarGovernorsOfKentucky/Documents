@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1484"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Dover <date when="1861-10-08">Oct 8/61</date>
-<lb/>Gov Magoffin</p>
-<p>Dear Sir inclosed you will find the amount of G W Hortons fine and costs the man I Spoke to you a bout, you will confur a favor to numerous friend by remitting the Same with high reguards for your Self personally I remain yours Truly</p>
-<p>M Smith<pb/></p>
+   <p><placeName ref="cwgk:P00002812">Dover</placeName> <date when="1861-10-08">Oct 8/61</date>
+<lb/><persName ref="cwgk:N00000258">Gov Magoffin</persName></p>
+<p>Dear Sir inclosed you will find the amount of <persName ref="cwgk:N00008123">G W Hortons</persName> fine and costs the man I Spoke to you a bout, you will confur a favor to numerous friend by remitting the Same with high reguards for your Self personally I remain yours Truly</p>
+<p><persName ref="cwgk:N00002835">M Smith</persName><pb/></p>
 <p>Remitted
 <lb/>B. M</p>
-<p>Mason J. P.
-<lb/>&#36;9. &#125; Breach
+<p><orgName ref="cwgk:O00000661">Mason</orgName> J. P.<lb/>$9. } Breach
 <lb/>G. W. Horton
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-10">Octo 10. 1861</date></p>
   </body>
