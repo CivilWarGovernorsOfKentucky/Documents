@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002591">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Luke P. Blackburn</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002591">
+                    <persName>
+                      Luke P. Blackburn
+                        (Kentucky, Mississippi, and Louisiana, physician and special envoy)
+                    </persName>
+                        <event type="birth"  when="1816-06-16"  ><ab>1816-06-16</ab></event>
+                        <event type="death"  when="1887-09-14"  ><ab>1887-09-14</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kentucky, Mississippi, and Louisiana, physician and special envoy. Woodford County, Kentucky, native. Married to Ella Boswell Blackburn. Graduated from the Medical Department at Transylvania University in Lexington, Kentucky in 1835. Physician in Lexington. Member of the House of Representatives of the Commonwealth of Kentucky from 1843 to 1845. Physician in Frankfort, Kentucky, in 1844. Moved to Natchez, Mississippi, in 1847. Physician in New Orleans, Louisiana, in 1858. Special envoy representing Governor Beriah Magoffin in New Orleans to purchase arms and ammunition in 1861. Aide-de-camp for Sterling Price in Mississippi. Appointed by Mississippi Governor John J. Pettus to relocate the military casualties in the state. Traveled to Canada in August 1863, to smuggle items through the blockade into the Confederacy.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Nancy Disher Baird, &quot;Luke Pryor Blackburn,&quot; in <hi rend="italic">Kentucky’s Governors</hi> Lowell H. Harrison, ed. (Lexington: The University Press of Kentucky, 2004), 111 - 114; Nancy Disher Baird, <hi rend="italic">Luke Pryor Blackburn: Physician, Governor, Reformer</hi> (University Press of Kentucky, 1979).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
