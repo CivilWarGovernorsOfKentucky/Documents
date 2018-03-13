@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1479"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Greenupsburg Ky
-<lb/><date when="1861-10-10">October 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+   <p><placeName ref="cwgk:P00005803">Greenupsburg Ky</placeName><lb/><date when="1861-10-10">October 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
 <lb/>To his Excellency
-<lb/>Beriah M<hi rend="sup">c</hi>goffin Governor of The Commonwealth of Kentucky.
-<lb/>Dear Sir</p>
-<p>At the <date when="1861-11">November Term of the Greenup circuit court 1861</date>. One John W. Prince was fine Seventy or Seventy five Dollars for an assault commited upon one Prater Hugh Craycraft became the Security, of Prince &amp; will have the Money to pay unless your Executive Clemency Shall interpose &amp; release him of the payment of the same. Except costs &amp; commonwealths Attorney fees M<hi rend="underline"><hi rend="sup">r</hi></hi> Craycraft is a clever gentlemen in humble circumstances, but owing to the unfortunate condition of the country, it is impossible to collect money-- and if his property is suffered to sell at this time, it would break him up. and then in all probability would not pay the debt. please give this matter due consideration. And if from the facts that will be made known to you Your Excellency should remit the fine -- please Extend the time of payment.</p>
+<lb/>Beriah M<hi rend="sup">c</hi>goffin Governor of The <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>.<lb/>Dear Sir</p>
+<p>At the <date when="1861-11">November Term of the Greenup circuit court 1861</date>. One <persName ref="cwgk:N00007993">John W. Prince</persName> was fine Seventy or Seventy five Dollars for an assault commited upon one <persName ref="cwgk:N00007994">Prater</persName> <persName ref="cwgk:N00007108">Hugh Craycraft</persName> became the Security, of Prince &amp; will have the Money to pay unless your Executive Clemency Shall interpose &amp; release him of the payment of the same. Except costs &amp; commonwealths Attorney fees M<hi rend="underline"><hi rend="sup">r</hi></hi> Craycraft is a clever gentlemen in humble circumstances, but owing to the unfortunate condition of the country, it is impossible to collect money-- and if his property is suffered to sell at this time, it would break him up. and then in all probability would not pay the debt. please give this matter due consideration. And if from the facts that will be made known to you Your Excellency should remit the fine -- please Extend the time of payment.</p>
 <p>Yours with very Great respect
-<lb/>Geo, E, Roe </p>
+<lb/><persName ref="cwgk:N00007995">Geo. E. Roe</persName> </p>
 <p>To his Excellency 
 <lb/>Beriah Mcgoffin
 <lb/>Governor of the commonwealth of Kentucky.<pb/></p>
 <p>Greenup Cir. Ct
-<lb/>&#36;<hi rend="str">6</hi>70 &#125; Assault
+<lb/>$<hi rend="str">6</hi>70 } Assault
 <lb/>Jno. W. Price
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-26">Octo 26 1861</date></p>
 <p>Respite 12 mo
