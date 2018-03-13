@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1480"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort Ky <date when="1861-10-31">Oct 31<hi rend="sup">st</hi> 1861</date>
+   <p><placeName ref="cwgk:P00000308">Frankfort Ky</placeName> <date when="1861-10-31">Oct 31<hi rend="sup">st</hi> 1861</date>
 <lb/>To His Excelency,
 <lb/>B MaGoffin
 <lb/>Govenor,</p>
-<p>William Stanzer was convicted of Felony at the <date when="1860-10">Oct term 1860</date> of the Jefferson circuit Court, for one year. <hi rend="str">his</hi> was Recd <date when="--11-02">Nov 2<hi rend="sup">nd</hi></date> his time will Expire day after to morrow, He wants to stay in the City to Night with a friend of his and go of to morrow on the Dove if you will Pardon him. If you will Do So you will greatly oblige yours</p>
-<p>E. Whitesides<pb/></p>
+<p><persName ref="cwgk:N00007972">William Stanzer</persName> was convicted of Felony at the <date when="1860-10">Oct term 1860</date> of the Jefferson circuit Court, for one year. <hi rend="str">his</hi> was Recd <date when="--11-02">Nov 2<hi rend="sup">nd</hi></date> his time will Expire day after to morrow, He wants to stay in <placeName ref="cwgk:P00000308">the City</placeName> to Night with a friend of his and go of to morrow on the Dove if you will Pardon him. If you will Do So you will greatly oblige yours</p>
+<p><persName ref="cwgk:N00002874">E. Whitesides</persName><pb/></p>
 <p>Jefferson Cir. Ct<figure type="hr"/>
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Stanzer
 <lb/>1 yr Penty
