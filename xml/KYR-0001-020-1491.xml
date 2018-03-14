@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1491"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Covington<date when="1861-10-21">Oct 21 1861</date>
-<lb/>Hon Gov B Magoffin
-<lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>Mr G. W Tompson has been fined for selling or giving my negro man spirits I will say to you that my negro man is in the habbit by my permission to do little Jobs for which he gets pay and Mr T-- hired him to scrub out his shop and gave him a drink of beer. I do not think he T intended to break the law and therefore think his fine should be remitted </p>
+   <p><placeName ref="cwgk:P00000936">Covington</placeName><date when="1861-10-21">Oct 21 1861</date>
+<lb/><persName ref="cwgk:N00000258">Hon Gov B Magoffin</persName><lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>Mr <persName ref="cwgk:N00008157">G. W Tompson</persName> has been fined for selling or giving my negro man spirits I will say to you that <persName ref="cwgk:N00008158">my negro man</persName> is in the habbit by my permission to do little Jobs for which he gets pay and Mr T-- hired him to scrub out his shop and gave him a drink of beer. I do not think he T intended to break the law and therefore think his fine should be remitted </p>
 <p>Very Respecfull
 <lb/>Your obedt Servnt
 <lb/>C J Blackburn</p>
