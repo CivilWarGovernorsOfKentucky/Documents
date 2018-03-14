@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005450">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001441">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Robert Coleman</title>
+        <title level="a" type="main">Henry Unsell</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Stephen Powell</name>
+            <name>Courtney Buchkoski</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
+            <name></name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,12 +41,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00005450">
+                <person xml:id="N00001441">
                     <persName>
-                      Robert Coleman
-                        (Christian County, Kentucky, murdered)
+                      Henry Unsell
+                        (Ballard Co. wagoner/farmer)
                     </persName>
-                        <event type="death"  when="1865-11"  ><ab>1865-11</ab></event>
+                        <event type="birth"  when="1793"  cert="medium" ><ab>c1793</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in a letter from H. R. Littell to Thomas E. Bramlette on December 13, 1865. Shot on November 9, 1865, with Pinkney Yancey as the accused.</p>
+        <p>Ballard County, Kentucky, wagoner. Kentucky native. Married to Sally Unsell. Father of John Unsell, Malinda Unsell, Alfred Unsell, Elijah Unsell, and E. Unsell. Farmer in Ballard County in 1850. Wagoner in Ballard County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0135.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, Blandville, p. 277B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 9.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, District 3, p. 6.
 </bibl></ab>
     </back>
 </text>

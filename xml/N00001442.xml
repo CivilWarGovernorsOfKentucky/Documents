@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00002516">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001442">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">New Hampshire</title>
+        <title level="a" type="main">Urban Ables</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Courtney Buchkoski</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
+            <name></name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -28,37 +28,38 @@
     <sourceDesc><ab>Born Digital</ab></sourceDesc>
 </fileDesc>
 
-        <encodingDesc>
-            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
-                </prefixDef>
-            </listPrefixDef>
-        </encodingDesc>
-        <profileDesc>
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
             <textClass>
-                <keywords>
-                    <term type="type">Place</term>
-                </keywords>
-            </textClass>
-            <settingDesc>
-                <place xml:id="P00002516">
-                    <placeName>
-                        <location>
-                              <geo>43.2081 -71.5376</geo>
-                            <settlement>New Hampshire</settlement>
-                        </location>
-                    </placeName>
-                </place> 
-            </settingDesc>    
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001442">
+                    <persName>
+                      Urban Ables
+                        (Ballard Co. farmer)
+                    </persName>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Capital at Concord, New Hampshire. Located on the Atlantic Ocean.</p>
+        <p>Ballard County, Kentucky, farmer. Tennessee native. Father of George R. Ables.</p>
 
     </body>
     <back>
-        <ab><bibl>R. Stuart Wallace, James Duane Squires, and Jere R. Daniell, &quot;New Hampshire&quot; in <hi rend="italic">Encyclopedia Britannica</hi>, (https://www.britannica.com/place/New-Hampshire-state) (accessed May 22, 2017).
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, District 5, p. 2.
 </bibl></ab>
     </back>
 </text>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005450">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002012">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Robert Coleman</title>
+        <title level="a" type="main">Wesley Garrett</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Stephen Powell</name>
+            <name>Krista Kinslow</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
+            <name></name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,12 +41,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00005450">
+                <person xml:id="N00002012">
                     <persName>
-                      Robert Coleman
-                        (Christian County, Kentucky, murdered)
+                      Wesley Garrett
+                        (Ballard Co. Carpenter)
                     </persName>
-                        <event type="death"  when="1865-11"  ><ab>1865-11</ab></event>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in a letter from H. R. Littell to Thomas E. Bramlette on December 13, 1865. Shot on November 9, 1865, with Pinkney Yancey as the accused.</p>
+        <p>Ballard County, Kentucky, master carpenter. Tennessee native. Married to Sarah Jane Whitby Garret in 1853. Father of Francis C. Garret, Andrew J. Garret, Shanis Garrett, and Mary L. Garrett. Master carpenter in Ballard County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0135.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 5. <lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870),  Population Schedules, Kentucky, Ballard County, Blandville, p. 4.<lb/>
+<hi rend="italic">Tennessee State Marriages, 1780-2002</hi>. Nashville, TN, USA: Tennessee State Library and Archives. Microfilm.
 </bibl></ab>
     </back>
 </text>

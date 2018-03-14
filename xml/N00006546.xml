@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005450">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006546">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Robert Coleman</title>
+        <title level="a" type="main">Simon Cameron</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Stephen Powell</name>
+            <name>Tyler Campbell</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
+            <name>Anthony P. Curtis</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,12 +41,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00005450">
+                <person xml:id="N00006546">
                     <persName>
-                      Robert Coleman
-                        (Christian County, Kentucky, murdered)
+                      Simon Cameron
+                        (Pennsylvania politician and secretary of war)
                     </persName>
-                        <event type="death"  when="1865-11"  ><ab>1865-11</ab></event>
+                        <event type="birth"  when="1799-03-08"  ><ab>1799-03-08</ab></event>
+                        <event type="death"  when="1889-06-26"  ><ab>1889-06-26</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +56,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in a letter from H. R. Littell to Thomas E. Bramlette on December 13, 1865. Shot on November 9, 1865, with Pinkney Yancey as the accused.</p>
+        <p>Pennsylvania politician and secretary of war. Maytown, Pennsylvania, native. Orphaned in 1808. Apprentice printer under Andrew Kennedy. Journeyman in Lancaster, Pennsylvania, Harrisburg, Pennsylvania, and Washington, Pennsylvania. Editor of the <hi rend="italic">Bucks County Messenger</hi> in 1821. Editor of the <hi rend="italic">Republican</hi> in Harrisburg, Pennsylvania, in 1824. State printer of Pennsylvania from 1825 to 1827. Adjutant general of Pennyslvania in 1826. Member of the Senate of the United States from 1845 to 1849 and 1859 to 1861. Secretary of War, appointed by President Abraham Lincoln, from March 1861 to January 1862. Resigned as Secretary of War, due to corruption allegations. Minister to Russia from January 1862 to November 1862. Returned to Pennsylvania.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0135.
+        <ab><bibl>&quot;Simon Cameron is Dead,&quot; <hi rend="italic">The Nashville Tennessean</hi> (Nashville, Tenn.), June 27, 1889, p. 4. &quot;Simon Cameron&#39;s Death,&quot; <hi rend="italic">The New York Times</hi> (New York, N.Y.), June 27, 1889, p. 1. Paul Kahan, * Amiable Scoundrel: Simon Cameron, Lincoln&#39;s Scandalous Secretary of War* (Washington D.C.: Potomac Books, 2016).
 </bibl></ab>
     </back>
 </text>
