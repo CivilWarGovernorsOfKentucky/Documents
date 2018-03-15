@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0150"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,61 +71,60 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bedford Trimble co. Kentucky
-<lb/><date when="1863-10-05">October 5<hi rend="sup">th</hi> 1863 -- </date>
+   <p><placeName ref="cwgk:P00001508">Bedford</placeName> Trimble co. Kentucky<lb/><date when="1863-10-05">October 5<hi rend="sup">th</hi> 1863 -- </date>
 <lb/>To His Excellency
-<lb/>Hon Thomas E. Bramlette Governor of the commonwealth of Kentucky,</p>
-<p>Your petitioner a resident of Trimble county would most respectfully represent that, he was fined fifteen Dollars and costs of suit about <date when="1863-06-20">20<hi rend="sup">th</hi> June last</date> before Esquire John W Stewart a Justice of the peace for Trmble county for striking James M. Branch.</p>
+<lb/>Hon <persName ref="cwgk:N001000">Thomas E. Bramlette</persName> Governor of the commonwealth of Kentucky,</p>
+<p>Your petitioner a resident of Trimble county would most respectfully represent that, he was fined fifteen Dollars and costs of suit about <date when="1863-06-20">20<hi rend="sup">th</hi> June last</date> before <persName ref="cwgk:N00000999">Esquire John W Stewart</persName> a Justice of the peace for Trmble county for striking <persName ref="cwgk:N00001959">James M. Branch.</persName></p>
 <p>your peitioner does not deny striking said Branch; but was excited from the fact that Branch used very insulting language, and he supposed that he might strike him, hence the blow.</p>
 <p>your Petitioner would further represent that he is poor and humble in life, has a small family, wife &amp; 2 children to Support and also a very poor old widowed Mother who depends on my earnings for Support,</p>
 <p>He further states hes sorry for his offence having been always a peacable well disposed person, he therefore prays your Honor to exercise that Clemency which his case Seems to demand and as in duty bound will every pray &amp;C &amp;C</p>
-<p>J. Milton Moore<pb/></p>
+<p><persName ref="cwgk:N00001958">J. Milton Moore</persName><pb/></p>
 <p>We the undersigned citizens of Trimble county join the petitioner J. Milton Moore in his prayer and pray you to remit said fine or so much thereof as in your clemency you may See fit &amp;C</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Willis Oliver
-<lb/>Andrew Scott
-<lb/>S: Mead
-<lb/>James Sparkes
-<lb/>George M Perkinson
-<lb/>George Orr
-<lb/>George Wright
-<lb/>L, Milner
-<lb/>Noah P. Chandler
-<lb/>F Crafton
-<lb/>William Bobbins
-<lb/>F. A. Speed
-<lb/>Benj Wiggi<unclear>staten</unclear>
-<lb/>Jacob Downs
-<lb/>Stephen Yeager
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00001002">Willis Oliver
+</persName><lb/><persName ref="cwgk:N00001562">Andrew Scott
+</persName><lb/><persName ref="cwgk:N00001956">S. Mead
+</persName><lb/><persName ref="cwgk:N00001955">James Sparkes
+</persName><lb/>George M Perkinson
+<lb/><persName ref="cwgk:N00001954">George Orr
+</persName><lb/><persName ref="cwgk:N00001556">George Wright
+</persName><lb/><persName ref="cwgk:N00001960">L. Milner
+</persName><lb/><persName ref="cwgk:N00001966">Noah P. Chandler
+</persName><lb/><persName ref="cwgk:N00001965">F Crafton
+</persName><lb/><persName ref="cwgk:N00001964">William Bobbins
+</persName><lb/><persName ref="cwgk:N00001963">F. A. Speed
+</persName><lb/>Benj Wiggi<unclear>staten</unclear>
+<lb/><persName ref="cwgk:N00001961">Jacob Downs
+</persName><lb/>Stephen Yeager
 <lb/>T <unclear/>
 <lb/>Charles. Martin
 <lb/>John. Law X
 <lb/>W W Rhea
-<lb/><cb n="2"/>S. Gatewood
-<lb/>W P Adcock
-<lb/>T M M<hi rend="sup">c</hi>Carty (one of the Jury)
-<lb/>Robert C Moreland
-<lb/>T. B gatewood
+<lb/><cb n="2"/><persName ref="cwgk:N00001970">S. Gatewood
+</persName><lb/><persName ref="cwgk:N00001941">W P Adcock
+</persName><lb/>T M M<hi rend="sup">c</hi>Carty (one of the Jury)
+<lb/><persName ref="cwgk:N00001972">Robert C Moreland
+</persName><lb/>T. B gatewood
 <lb/>P, R, Smith.
 <lb/>J, T, Shepherd
-<lb/>F Calvert
-<lb/>J Lingale
-<lb/>A Mitchel
-<lb/>M. H. Hunt
-<lb/>J W Mulikin
-<lb/>Thomas Mitchell
-<lb/>William Hardin
-<lb/>T Colbert
-<lb/>C Colbert
-<lb/>H Fonden
+<lb/><persName ref="cwgk:N00001979">F Calvert
+</persName><lb/><persName ref="cwgk:N00001978">J Lingale
+</persName><lb/><persName ref="cwgk:N00001977">A Mitchel
+</persName><lb/><persName ref="cwgk:N00001976">M. H. Hunt
+</persName><lb/>J W Mulikin
+<lb/><persName ref="cwgk:N00001946">Thomas Mitchell
+</persName><lb/><persName ref="cwgk:N00001945">William Hardin
+</persName><lb/><persName ref="cwgk:N00001974">T Colbert
+</persName><lb/><persName ref="cwgk:N00001973">C Colbert
+</persName><lb/>H Fonden
 <lb/>Harry. F. Garriott
-<lb/>William Shepherd
-<lb/>Brooks. R. Perkinson
-<lb/>J M Colbert
-<lb/>Wm Stanley
-<lb/>B M Hunter
-<lb/>D F Jones
-<lb/>James J James
-<lb/>John S Sulivan<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00001947">William Shepherd
+</persName><lb/>Brooks. R. Perkinson
+<lb/><persName ref="cwgk:N00001986">J M Colbert
+</persName><lb/><persName ref="cwgk:N00001952">Wm Stanley
+</persName><lb/><persName ref="cwgk:N00001985">B M Hunter
+</persName><lb/>D F Jones
+<lb/><persName ref="cwgk:N00001983">James J James
+</persName><lb/>John S Sulivan<milestone unit="column" n="1"/><pb/></p>
 <p>Trimble Co
 <lb/>vs
 <lb/>J, M Moore</p>
