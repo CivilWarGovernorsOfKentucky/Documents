@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN001801">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Andrew Johnson</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N001801">
+                    <persName>
+                      Andrew Johnson
+                        (president)
+                    </persName>
+                        <event type="birth"  when="1808-12-29"  ><ab>1808-12-29</ab></event>
+                        <event type="death"  when="1875-07-31"  ><ab>1875-07-31</ab></event>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Sixteenth vice president and Seventeenth president of the United States. Married to Eliza McCardle in 1827. Father of Martha Johnson Patterson, Charles Johnson, Mary Johnson Stover, Robert Johnson, and Andrew Johnson, Jr. Apprenticed to a tailor. Worked as a tailor in North Carolina, South Carolina, Alabama, and Greenville, Tennessee. Member of the Democratic Party. Elected as alderman of Greeneville, Tennessee, in 1829, and mayor of Greeneville in 1834. Member of the House of Representatives of the State of Tennessee from Greene County, Tennessee, from 1835 to 1837. Member of the House of Representatives of the State of Tennessee from Washington County, Tennessee, from 1839 to 1841. Democratic presidential elector in 1840. Member of the Senate of the State of Tennessee from 1841 to 1843. Member of the House of Representatives of the United States from the 1st District of Tennessee from 1843 to 1853. Governor of the State of Tennessee from 1853 to 1857. Member of the Senate of the United States from Tennessee from 1857 to 1862. Military governor of Tennessee, with the rank of brigadier general, from 1862 to 1865. Vice president of the United States on the National Union Party ticket with President Abraham Lincoln from March 1865 to April 1865. President of the United States, following the assassination of Lincoln, from April 1865 to March 1869.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Andrew Johnson National Historic Site, National Park Service, s.v. “Andrew Johnson Timeline,” https://www.nps.gov/anjo/learn/historyculture/timeline.htm (accessed on October 24, 2016); Hans L. Trefousse, <hi rend="italic">Andrew Johnson: A Biography</hi> (New York: W. W. Norton &amp; Company, 1989).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
