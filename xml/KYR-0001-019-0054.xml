@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0054"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>Harrodsburg. <date when="1861-05-23">May. 23<hi rend="sup">rd</hi> <hi rend="underline">1861</hi></date>
-<lb/>Gov. Magoffin</p>
+   <p><placeName ref="cwgk:P00000555">Harrodsburg</placeName>. <date when="1861-05-23">May. 23<hi rend="sup">rd</hi> <hi rend="underline">1861</hi></date>
+<lb/>Gov. <persName ref="cwgk:N00000258">Magoffin</persName></p>
 <p>Dear Sir. I have a company of forty men, organized for the state guard all of them stout healthy men, and I wish <hi rend="str">you</hi>to know if you will accept and arm them. They are as fine a company of men as <hi rend="underline">old</hi> <hi rend="underline">mercer</hi> can raise. will you please to let me know as soon as it is convenient. whether you will accept them or not. The people are tolerably quiet in this section of country. very little excitement, trade of all kinds dull, Crops looking admirably well.</p>
 <p>I remain respectfully
 <lb/>Yours
@@ -72,7 +80,7 @@
 <p>To Gov Magoffin<pb/></p>
 <p>A. G. Smith
 <lb/>Harrodsburg
-<lb/>State Guard</p>
+<lb/><orgName ref="cwgk:O00000303">State Guard</orgName></p>
 <p>Sec will answer</p>
   </body>
  </text>
