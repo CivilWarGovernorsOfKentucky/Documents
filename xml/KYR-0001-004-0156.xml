@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0156"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency the Governor of the State of Kentucky</p>
-<p>C P Springer a citizen of Mercer County State of Kentucky would respectfully represent that on the <date when="1863-08-28">28<hi rend="sup">th</hi> day of August 1863</date> two judgments for &#36;5 &amp; costs each were rendered against him by the Police Judge of Harrodsburg both of s<hi rend="underline"><hi rend="sup">d</hi></hi> Judgments were rendered on charges of drunkenness &amp; disorder He states that he is a poor man a painter by trade and has dependent on him for support a wife and five children and an aged father and mother they are wholy dependent on your petitioner. He states that the two acts of offence for which he was adjudged to pay fines as in two cases were infact but one case of continued intoxication He states that since the said offense he has done nothing to lay himself liable to a simalar charge. That the drunkenness and disorder if any was committed in an unguarded moment, that he did not do nor threaten any violence to any person or property and believes that he <hi rend="str">most</hi> only injury done atall was done to him-self in the regrets &amp; mortification caused to his own feelings He states he is not addicted to drinking spiritous liquors as a habit -- </p>
+   <p>To His Excellency the <persName ref="cwgk:N001000">Governor</persName> of the State of <placeName ref="cwgk:P001800">Kentucky</placeName></p>
+<p><persName ref="cwgk:N00003673">C P Springer </persName>a citizen of <placeName ref="cwgk:P00000556">Mercer County</placeName> State of Kentucky would respectfully represent that on the <date when="1863-08-28">28<hi rend="sup">th</hi> day of August 1863</date> two judgments for $5 &amp; costs each were rendered against him by the Police Judge of <placeName ref="cwgk:P00000555">Harrodsburg</placeName> both of s<hi rend="underline"><hi rend="sup">d</hi></hi> Judgments were rendered on charges of drunkenness &amp; disorder He states that he is a poor man a painter by trade and has dependent on him for support a wife and five children and an aged father and mother they are wholy dependent on your petitioner. He states that the two acts of offence for which he was adjudged to pay fines as in two cases were infact but one case of continued intoxication He states that since the said offense he has done nothing to lay himself liable to a simalar charge. That the drunkenness and disorder if any was committed in an unguarded moment, that he did not do nor threaten any violence to any person or property and believes that he <hi rend="str">most</hi> only injury done atall was done to him-self in the regrets &amp; mortification caused to his own feelings He states he is not addicted to drinking spiritous liquors as a habit -- </p>
 <p>He his wife &amp; children an aged mother and<pb/>
 <lb/>^father^ have no means of support except from the proceeds of his daily labor and that the amount of said fines if he should have to pay same will very much lessen his ability to discharge his sd duties to his family. Wherefore he places his case before your excellency and prays that in your clemency you will remit him of said fines.</p>
 <p>C. P. Springer</p>
@@ -111,7 +119,7 @@
 <lb/>Tho E Bramlette</p>
 <p>His Excellency
 <lb/>The Governor of Kentucky
-<lb/>Frankfort</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName></p>
   </body>
  </text>
 </TEI>
