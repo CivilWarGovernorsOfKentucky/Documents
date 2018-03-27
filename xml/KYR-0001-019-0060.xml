@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0060"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,14 +72,13 @@
  <text>
   <body>
    <p>Telegraph Office)
-<lb/>Louisville Ky <date when="1861-05-30">May 30 1861</date>
-<lb/>Gov. Beriah Magoffin
-<lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir</p>
-<p>Herewith please find copies of messages Sent and received by you during your stay here also copy of one sent from Frankfor<hi rend="underline">t</hi> to Tooms -- Montgomery -- </p>
+<lb/><placeName ref="cwgk:P00000337">Louisville Ky</placeName> <date when="1861-05-30">May 30 1861</date>
+<lb/>Gov. <persName ref="cwgk:N00000258">Beriah Magoffin</persName><lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir</p>
+<p>Herewith please find copies of messages Sent and received by you during your stay here also copy of one sent from Frankfor<hi rend="underline">t</hi> to Tooms -- <placeName ref="cwgk:P00000869">Montgomery</placeName> -- </p>
 <p>Will you please acknowledge -- for me to M<hi rend="underline"><hi rend="sup">r</hi></hi> Monroe Secy of State the receipt of his letter-- &amp; hand him enclosed, bill for accompanying despatches</p>
 <p>Resptfy Yours
-<lb/>J, R, Boyle
-<lb/>Agt</p>
+<lb/><persName ref="cwgk:N00004763">J, R, Boyle
+</persName><lb/>Agt</p>
   </body>
  </text>
 </TEI>
