@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0161"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,24 +71,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Blandville Kentucky
-<lb/><date when="1863-10-02">Octr 2<hi rend="sup">d</hi>/63</date>
+   <p>Blandville <placeName ref="cwgk:P001800">Kentucky</placeName><lb/><date when="1863-10-02">Octr 2<hi rend="sup">d</hi>/63</date>
 <lb/>To his Excellency
 <lb/>Tho<hi rend="sup">s</hi> E Bramlett
 <lb/>Governor of Key
 <lb/>Respected Sir -- </p>
-<p>The undersigned, will Respectfully state to your Excellency, that they are the Jury that tried James M<hi rend="sup">c</hi>Cawley &amp; Wesley Garrett for Keeping a gaming house in the Town of Blandville, We further State that the evidence was barely sufficient to warrant us in finding a verdict against them, We therefore, think from all the circumstances connected with the case, that it is one that deserves Executive Interposition,</p>
+<p>The undersigned, will Respectfully state to your Excellency, that they are the Jury that tried James M<hi rend="sup">c</hi>Cawley &amp; <persName ref="cwgk:N00002012">Wesley Garrett</persName> for Keeping a gaming house in the Town of <placeName ref="cwgk:P00002006">Blandville</placeName>, We further State that the evidence was barely sufficient to warrant us in finding a verdict against them, We therefore, think from all the circumstances connected with the case, that it is one that deserves Executive Interposition,</p>
 <p>Very Respectfully
 <lb/>your obedient Servants &amp;c
 <lb/>J. F. M<unclear/>
 <lb/>J U. owen
-<lb/>W. G. Scott
-<lb/>Joseph Kimmel
-<lb/>W. L Skinner
+<lb/><persName ref="cwgk:N00002257">W. G. Scott</persName><lb/><persName ref="cwgk:N00002258">Joseph Kimmel</persName><lb/>W. L Skinner
 <lb/>A.. Hook
-<lb/>J. W. Rudolph
-<lb/>J. S. Brown. Jr
-<lb/>B. F. Fraser</p>
+<lb/><persName ref="cwgk:N00002261">J. W. Rudolph
+</persName><lb/>J. S. Brown. Jr
+<lb/><persName ref="cwgk:N00001320">B. F. Fraser</persName></p>
   </body>
  </text>
 </TEI>
