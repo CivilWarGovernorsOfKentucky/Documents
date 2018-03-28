@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Wm H Duncan</title>
+        <title level="a" type="main">William H. Duncan</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,26 @@
         <particDesc>
                 <person xml:id="N00008489">
                     <persName>
-                      Wm H Duncan
-                        (Ballard county resident)
+                      William H. Duncan
+                        (Daviess/Ballard Co. Physician)
                     </persName>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Daviess County and Ballard County, Kentucky, physician. Kentucky native. Physician in Daviess County in 1860. Physician in Ballard County in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Daviess County, Owensboro, District 4, p. 145.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky Ballard County, District 2, p. 33.<lb/>
+<hi rend="italic">Records of the Internal Revenue Service</hi>. Record Group 58, Series M768, Roll 3. The National Archives at Washington, DC. Access via Ancestry.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
