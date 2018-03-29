@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008493">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">S. G Jackson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Scott Ackerman</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008493">
+                    <persName>
+                      S. G Jackson
+                        (Estill County, Kentucky)
+                    </persName>
+                        <event type="birth"  when="1838-06-23"  ><ab>1838-06-23</ab></event>
+                        <event type="death"  when="1886-04-24"  ><ab>1886-04-24</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Clerk and soldier in Company H of the 4th Kentucky (Confederate) Regiment. Son of Josiah Ashurst Jackson and Elizabeth Martin Jackson. Husband of Mary Thomas Taylor and father of Taylor Jackson (b. November, 1862). Enlisted in Company H of the 4th Kentucky Regiment on August 22nd, 1861 at Camp Burnett, Tennessee. </p>
+
+    </body>
+    <back>
+        <ab><bibl>Year: 1870; Census Place: Precinct 4, Clark, Kentucky; Roll: M593<hi rend="italic">456; Page: 40A; Family History Library Film: 545955 _Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0066.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), [Population/Slave] Schedules, [State], [County], [City/District], p. X<lb/>
+https://www.findagrave.com/memorial/30953513 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
