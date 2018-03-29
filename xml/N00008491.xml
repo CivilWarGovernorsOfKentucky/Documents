@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,23 @@
                 <person xml:id="N00008491">
                     <persName>
                       John Jones, Sr.
-                        ()
+                        (Harlan County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1774"  cert="medium" ><ab>c1774</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Harlan County, Kentucky, farmer. North Carolina native. Father of John Jones, Jr. Farmer in Harlan County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harlan, p. 127.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
