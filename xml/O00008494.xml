@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00008494">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Red River Iron Works</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Scott Ackerman</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00008494">
+                    <orgName>Red River Iron Works</orgName>
+                        <event type="begun"  when="1805"  ><ab>1805</ab></event>
+                        <event type="ended"  when="1865"  ><ab>1865</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>The Red River Iron Works was established about 1805, producing material for the United States during the War of 1812. It soon became part of the &quot;Red River Iron District&quot; located in Estill County, with Powell County coming into existence in 1852. A new rolling mill was added around 1840, but iron manufacturing ceased around 1860, and the site became Red River Iron Manufacturing Company in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Kleber, The Kentucky Encyclopedia, 732, Perrin, History of Kentucky, 579.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
