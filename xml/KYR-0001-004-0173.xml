@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0173"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,25 +71,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Jefferson Circuit Court
-<lb/><date when="1863-10">October Term 1863</date>
+   <p><placeName ref="cwgk:P001800">State of Kentucky
+</placeName><lb/><orgName ref="cwgk:O001000">Jefferson Circuit Court
+</orgName><lb/><date when="1863-10">October Term 1863</date>
 <lb/><date when="1863-10-26">October 26 1863</date></p>
 <p>The Commonwealth Plff
 <lb/>versus Indict felony
-<lb/>Jno Riley &amp; James Russell Defts</p>
-<p>We of the jury find the prisoner Jno Riley guilty as charged in the within indictment and say he shall be confined in the jail and penetentiary house of this Commonwealth two years and six months And we also find the prisoner James Russell guilty and say he shall be confined in the penitentiary of this Commonwealth One year and we recommend said Russell to Executive Clemency</p>
-<p>J. A. Gilliss "Foreman"</p>
+<lb/><persName ref="cwgk:N00002889">Jno Riley</persName> &amp; <persName ref="cwgk:N00002890">James Russell Deft</persName>s</p>
+<p>We of the jury find the prisoner Jno Riley guilty as charged in the within indictment and say he shall be confined in the jail and <orgName ref="cwgk:O00000266">penetentiary</orgName> house of this Commonwealth two years and six months And we also find the prisoner James Russell guilty and say he shall be confined in the penitentiary of this <orgName ref="cwgk:O001025">Commonwealth</orgName> One year and we recommend said Russell to Executive Clemency</p>
+<p><persName ref="cwgk:N00002888">J. A. Gilliss</persName> "Foreman"</p>
 <p><hi rend="str">and thereupon the</hi>
 <lb/>A. Copy Att
 <lb/>Jas P <hi rend="underline">Chambers</hi> c</p>
 <p>To His Excellency,
-<lb/>Thomas E. Bramlette,
-<lb/>Governor of Kentucky:</p>
+<lb/><persName ref="cwgk:N001000">Thomas E. Bramlette,</persName><lb/>Governor of Kentucky:</p>
 <p>I concur, with the Jury, in recommending the above named James Russell to Your Excellency's clemency.</p>
-<p><hi rend="underline">P. B. Muir</hi></p>
-<p>Louisville, Ky.
-<lb/><date when="1863-11-07">Nov. 7. 1863.</date></p>
+<p><persName ref="cwgk:N002003">P. B. Muir</persName></p>
+<p><placeName ref="cwgk:P00000337">Louisville</placeName>, Ky.<lb/><date when="1863-11-07">Nov. 7. 1863.</date></p>
   </body>
  </text>
 </TEI>
