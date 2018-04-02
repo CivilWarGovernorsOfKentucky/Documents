@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0171"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Jefferson Circuit Court &#125; sct.
-<lb/><date when="1863-10">October Term 1863.</date>
+   <p><placeName ref="cwgk:P001800">State of Kentucky
+</placeName><lb/><orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> } sct.<lb/><date when="1863-10">October Term 1863.</date>
 <lb/><date when="1863-10-27">October 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1863.</date></p>
-<p>We the Jury find Chas Smith the prisoner <hi rend="str">the</hi> <hi rend="str">prisoner</hi> herein guilty, as charged in this Indictment, and say he shall be confined one year in the jail and penetentiary House of the Commonwealth and recommend him to executive clemency.</p>
-<p>J. H. Myers. "Foreman"</p>
+<p>We the Jury find Chas Smith the prisoner <hi rend="str">the</hi> <hi rend="str">prisoner</hi> herein guilty, as charged in this Indictment, and say he shall be confined one year in the jail and <orgName ref="cwgk:O00000266">penetentiary</orgName> House of the Commonwealth and recommend him to executive clemency.</p>
+<p><persName ref="cwgk:N00001238">J. H. Myers</persName>. "Foreman"</p>
 <p>I James, P, Chambers clerk of the Jefferson Circuit Court. in the State of Kentucky, do hereby certify that the foregoing is a true and correct copy of the verdict rendered by the Jury. in the case of the Comth vs Chas Smith</p>
 <p>Witness my hand as clerk this <date when="1863-10-29">29 Octo 1863.</date></p>
 <p>Att. <hi rend="underline">James, P, Chambers</hi> clk<pb/></p>
