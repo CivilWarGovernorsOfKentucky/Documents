@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00000446">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00008503">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Mason County, Kentucky</title>
+        <title level="a" type="main">4th Kentucky Mounted Infantry Confederate</title>
           <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Hannah M. O&#39;Daniel</name>
-          </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Scott Ackerman</name>
+          </respStmt>        
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -37,28 +33,25 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="type">Place</term>
+                    <term type="type">Organization</term>
                 </keywords>
             </textClass>
-            <settingDesc>
-                <place xml:id="P00000446">
-                    <placeName>
-                        <location>
-                              <geo>38.6412 -83.7444</geo>
-                            <settlement>Mason County, Kentucky</settlement>
-                        </location>
-                    </placeName>
-                </place> 
-            </settingDesc>    
+            <particDesc>
+                <org xml:id="O00008503">
+                    <orgName>4th Kentucky Mounted Infantry Confederate</orgName>
+                        <event type="begun"  when="1861-11-14"  ><ab>1861-11-14</ab></event>
+                        <event type="ended"  when="1865-04-26"  ><ab>1865-04-26</ab></event>
+                </org>
+            </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Seat at Maysville, Kentucky. Located on the Ohio River.</p>
+        <p>The Fourth Kentucky Mounted Infantry (Confederate) was organized on September 13th, 1861 at Camp Burnett in Montgomery County, Tennessee. Sent to join Confederate General Simon Bolivar Buckner&#39;s forces at Bowling Green, late September or early October 1861.Participated in the battle of Shiloh, April 1862, the battle at Baton Rogue, Louisiana on August 5th, 1862. Joined General Bragg&#39;s army in time to participate in Battle of Murfreesboro, TN, and Chickamauga. </p>
 
     </body>
     <back>
-        <ab><bibl>Jean W. Calvert, “Mason County” and “Maysville,” in <hi rend="italic">The Kentucky Encyclopedia</hi>, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), p. 614, 621.
+        <ab><bibl><hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0066.
 </bibl></ab>
     </back>
 </text>
