@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0176"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,13 +70,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>J. H. Bradshaw
-<lb/>Sheriff Powell County</p>
+   <p><persName ref="cwgk:N00002895">J. H. Bradshaw
+</persName><lb/>Sheriff <placeName ref="cwgk:P00001937">Powell County</placeName></p>
 <p>Revenue <date when="1861">1861</date>
 <lb/><table rend="rules">
 <row>
 	<cell>Amt of Judgment for Principal</cell>
-	<cell>&#36;667.27</cell>
+	<cell>$667.27</cell>
 </row>
 <row>
 	<cell>" " " " Damages</cell>
@@ -77,15 +85,15 @@
 </table></p>
 <p>Paid in full except Damages
 <lb/><date when="1863-10-08">Oct 8<hi rend="sup">th</hi> 1863</date></p>
-<p>Attest Grant Green
-<lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi></p>
+<p>Attest <persName ref="cwgk:N00000466">Grant Green
+</persName><lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi></p>
 <p>Remit damages
 <lb/>Tho E Bramlette Gov<hi rend="sup">r</hi><pb/></p>
-<p>Franklin Cir
-<lb/>vs
+<p><orgName ref="cwgk:O00000376">Franklin Cir
+</orgName><lb/>vs
 <lb/>J. H. Bradshaw
 <lb/>Shff Powell
-<lb/>&#36;133<hi rend="underline"><hi rend="sup">45</hi></hi>
+<lb/>$133<hi rend="underline"><hi rend="sup">45</hi></hi>
 <lb/>Rev <date when="1861">1861</date></p>
   </body>
  </text>
