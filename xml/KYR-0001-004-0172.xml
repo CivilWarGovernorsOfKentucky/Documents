@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0172"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky.
-<lb/><date when="1863-10-31">Octr. 31<hi rend="underline"><hi rend="sup">st</hi></hi> 1863</date>
+   <p><placeName ref="cwgk:P00000337">Louisville </placeName><placeName ref="cwgk:P001800">Ky</placeName>.<lb/><date when="1863-10-31">Octr. 31<hi rend="underline"><hi rend="sup">st</hi></hi> 1863</date>
 <lb/>His Excellency
 <lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette
 <lb/>&amp;c &amp;c</p>
-<p>Your Excellency will see the certificate of the Clerk of the Jefferson Circuit Court in the case of the Com. vs. Chas Smith and also the petition enclosed.</p>
+<p>Your Excellency will see the certificate of the Clerk of the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> in the case of the Com. vs. <persName ref="cwgk:N00002876">Chas Smith </persName>and also the petition enclosed.</p>
 <p>You will observe that the names of only eight jurors are attached. They were unanimous in requesting me to petition but before I could get up the petition the Court adjourned and I have resolved not to wait<pb/>
 <lb/>until Monday, but to send it off with the eight signatures and the explanation why only eight appear. I was appointed by the Court to defend for him and found him a very deserving young man. I hope your Excellency will consider his case, which has been presented to you in a hurry and with more informality than it might have been, at your earliest convenience and remit his pardon to me if at all possible before he leaves the city<pb/>
-<lb/>for Frankfort</p>
+<lb/>for <placeName ref="cwgk:P00000308">Frankfort</placeName></p>
 <p>I have the honor to be your Excellency's humble Obdt Sevt</p>
-<p>Geo. Kilpatrick
-<lb/>Atty at Law<pb/></p>
+<p><persName ref="cwgk:N00002881">Geo. Kilpatrick
+</persName><lb/>Atty at Law<pb/></p>
 <p>Statement of Counsel</p>
   </body>
  </text>
