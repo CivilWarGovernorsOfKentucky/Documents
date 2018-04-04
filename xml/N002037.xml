@@ -6,6 +6,10 @@
         <title level="a" type="main">Robert A. Hamilton</title>
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>
     </titleStmt>
@@ -40,8 +44,9 @@
                 <person xml:id="N002037">
                     <persName>
                       Robert A. Hamilton
-                        (Louisville Atty)
+                        (Louisville, Kentucky, attorney)
                     </persName>
+                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, attorney. Attorney in Louisville in 1861.</p>
+        <p>Louisville, Kentucky, attorney. Kentucky native. Son of J. Russell Hamilton and Sarah E. Hamilton. Attorney in Louisville in 1860 and 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>Henry Tanner, ed., Tanner’s Louisville Directory and Business Advertiser for 1861 (Louisville: Directory Publication and Advertising Agency, 1861), 110.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson, Louisville, Ward 2, p. 400.<lb/>
+Henry Tanner, ed., <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 110.
 </bibl></ab>
     </back>
 </text>
