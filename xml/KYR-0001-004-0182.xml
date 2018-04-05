@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0182"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,55 +71,43 @@
  </teiHeader>
  <text>
   <body>
-   <p>Midway <date when="1863-10-06">Octobr 6<hi rend="sup">th</hi>/63</date>
+   <p><placeName ref="cwgk:P00002993">Midway</placeName> <date when="1863-10-06">Octobr 6<hi rend="sup">th</hi>/63</date>
 <lb/>To his Excelency
 <lb/>Tho<hi rend="sup">s</hi>, E. Bramblett
 <lb/>Govenor of the State of Ky</p>
-<p>We the undersigned Citizens of Woodford County, would respectfuly Petition your honor to Remit a fine of Seventy Dollars that was imposed on D. B. Price in Versailles on the <date when="1863-10-05">5<hi rend="sup">th</hi> Oct 1863</date></p>
+<p>We the undersigned Citizens of <placeName ref="cwgk:P00002992">Woodford County</placeName>, would respectfuly Petition your honor to Remit a fine of Seventy Dollars that was imposed on D. B. Price in <placeName ref="cwgk:P00002991">Versailles</placeName> on the <date when="1863-10-05">5<hi rend="sup">th</hi> Oct 1863</date></p>
 <p>Very Respectfully
 <lb/>Yours &amp;
-<lb/><milestone unit="column" n="2"/><cb n="1"/>R H Davenport) Trustee
-<lb/>John H Martin
-<lb/>John Coyle) Trustee
-<lb/>M. E. Poynter
-<lb/>T D <hi rend="underline">Martin</hi>
-<lb/>Wm. N. Thomosson J. P. W. C
-<lb/>D. M. Jolly
-<lb/>Jacob Merryman
-<lb/>C W Norwood
-<lb/>S. T. Woolums) Trustee
-<lb/>John Sutton
-<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Pates
-<lb/>J T Pates
-<lb/>S. B. Utterback
-<lb/>J W Martin) Trustee
-<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> H. Buford
+<lb/><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00002948">R H Davenport</persName>) Trustee<lb/><persName ref="cwgk:N00002949">John H Martin
+</persName><lb/><persName ref="cwgk:N00002950">John Coyle</persName>) Trustee<lb/><persName ref="cwgk:N00002951">M. E. Poynter</persName><lb/>T D <hi rend="underline">Martin</hi>
+<lb/><persName ref="cwgk:N00002953">Wm. N. Thomosson</persName> J. P. W. C<lb/><persName ref="cwgk:N00002954">D. M. Jolly
+</persName><lb/><persName ref="cwgk:N00002955">Jacob Merryman
+</persName><lb/><persName ref="cwgk:N00002956">C W Norwood
+</persName><lb/><persName ref="cwgk:N00002957">S. T. Woolums</persName>) Trustee<lb/><persName ref="cwgk:N00002958">John Sutton</persName><lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Pates
+<lb/><persName ref="cwgk:N00002960">J T Pates
+</persName><lb/><persName ref="cwgk:N00002961">S. B. Utterback
+</persName><lb/><persName ref="cwgk:N00002962">J W Martin</persName>) Trustee<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> H. Buford
 <lb/>John F. <unclear>Waits</unclear>
 <lb/><hi rend="underline">Sam</hi>, B, Wallace
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> R. Buford. -- 
 <lb/>J. H, Woolums
-<lb/>S, W, Paine
-<lb/>C C <hi rend="underline">Hurst</hi>
+<lb/><persName ref="cwgk:N00002970">S. W. Paine
+</persName><lb/>C C <hi rend="underline">Hurst</hi>
 <lb/>E Waits
 <lb/><cb n="2"/>James, M, Woolums. P M
 <lb/>T C Wood
-<lb/>James Ford
-<lb/>L. I. Fleming
+<lb/><persName ref="cwgk:N00002974">James Ford</persName><lb/>L. I. Fleming
 <lb/>W<hi rend="sup">m</hi> W Harper
-<lb/>Legrand Lucas
-<lb/>L, D, Cable
-<lb/>G, Hall
-<lb/>John Hammonds
-<lb/>D. Lehmann) Trustee
-<lb/>Milton Kereheval
-<lb/><hi rend="underline">W. A.</hi> <hi rend="underline">Leavy</hi>
-<lb/>Jesse McConnell
-<lb/>E. N. <unclear>Suter</unclear>
-<lb/>Thomas Martin
-<lb/>R. C. Ricketts
-<lb/><hi rend="underline">W F Patterson</hi>
-<lb/>H D Davis
-<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi> <hi rend="underline">A Moore</hi>
+<lb/><persName ref="cwgk:N00002978">Legrand Lucas
+</persName><lb/>L, D, Cable
+<lb/><persName ref="cwgk:N00002980">G. Hall
+</persName><lb/><persName ref="cwgk:N00002981">John Hammonds</persName><lb/><persName ref="cwgk:N00002982">D. Lehmann</persName>) Trustee<lb/><persName ref="cwgk:N00002983">Milton Kereheval</persName><lb/><hi rend="underline">W. A.</hi> <hi rend="underline">Leavy</hi>
+<lb/><persName ref="cwgk:N00002986">Jesse McConnell
+</persName><lb/>E. N. <unclear>Suter</unclear>
+<lb/><persName ref="cwgk:N00002988">Thomas Martin</persName><lb/>R. C. Ricketts
+<lb/>
+<persName ref="cwgk:N00002989">W F Patterson</persName><lb/><persName ref="cwgk:N00002966">H D Davis
+</persName><lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi> <hi rend="underline">A Moore</hi>
 <lb/>Lewis J Ford<pb/></p>
 <p><milestone unit="column" n="1"/>Pet for remission</p>
   </body>
