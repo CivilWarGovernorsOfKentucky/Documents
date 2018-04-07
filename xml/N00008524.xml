@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008524">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">S.N. Marshall</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brianna Kirk</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008524">
+                    <persName>
+                      S.N. Marshall
+                        (physician)
+                    </persName>
+                        <event type="birth"  when="1830-10-14"  ><ab>1830-10-14</ab></event>
+                        <event type="death"  when="1898-08-18"  ><ab>1898-08-18</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Shelby County, Kentucky, physician. Kentucky native. Son of Samuel and Druzilla Marshall. Married to Drucilla Carpenter Marshall on May 18, 1855. Father of May D. Marshall, William Marshall, and Thomas T. Marshall. Listed as physician in 1860 census. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Spencer County, District Two, pg. 112. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Shelby County, District One, pg. 8. <hi rend="italic">Marriage Records. Kentucky Marriages.</hi> Madison County Courthouse, Richmond, Kentucky (accessed via Ancestry.com). <hi rend="italic">Find A Grave</hi>, &quot;S.N. Marshall (1830-1898),&quot; Memorial # 31355284, https://www.findagrave.com/memorial/31355284 (accessed April 7, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
