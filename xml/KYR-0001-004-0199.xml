@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0199"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,13 +70,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>E. B. Treadway
-<lb/>Sheriff Owsley County
-<lb/>Revenue <date when="1861">1861</date></p>
+   <p><persName ref="cwgk:N00002436">E. B. Treadway
+</persName><lb/>Sheriff <placeName ref="cwgk:P00000562">Owsley County</placeName><lb/>Revenue <date when="1861">1861</date></p>
 <p><table rend="rules">
 <row>
 	<cell>Amount of Judgment for Principal</cell>
-	<cell>&#36;366.30</cell>
+	<cell>$366.30</cell>
 </row>
 <row>
 	<cell>" " " " Damages</cell>
@@ -77,13 +84,13 @@
 </table></p>
 <p>Paid in full except Damages
 <lb/><date when="1863-10-26">Oct 26<hi rend="sup">th</hi> 1863</date> -- </p>
-<p>Attest C. Bailey
-<lb/><hi rend="underline">Asst Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi><pb/></p>
-<p>Franklin Cir Ct.
-<lb/>vs
+<p>Attest <persName ref="cwgk:N00002894">C. Bailey
+</persName><lb/><hi rend="underline">Asst Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi><pb/></p>
+<p><orgName ref="cwgk:O00000376">Franklin Cir Ct.
+</orgName><lb/>vs
 <lb/>E. B. Treadway
 <lb/>Shff Owsley Co
-<lb/>Damages &#36;73.<hi rend="underline"><hi rend="sup">26</hi></hi>
+<lb/>Damages $73.<hi rend="underline"><hi rend="sup">26</hi></hi>
 <lb/>Remt<hi rend="sup">d</hi> <date when="1863-10-27">27<hi rend="sup">th</hi> Oct/63</date></p>
   </body>
  </text>
