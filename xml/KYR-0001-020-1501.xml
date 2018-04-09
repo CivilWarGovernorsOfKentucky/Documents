@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1501"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,13 +70,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>At the <date when="1861-10">october term 1861</date> of the Montegemery quarterly court Green Boling was fined ten dollars &amp; costs for a breach of the peace and was since replevied &amp; is now absent a soldier in the U S Service and the security will have it to pay. Boling was drunk when he committed the offence and is a good citizen when sober &amp; I would ask his excellency Gov Magoffin to remit the fine</p>
+   <p>At the <date when="1861-10">october term 1861</date> of the Montegemery quarterly court <persName ref="cwgk:N00003163">Green Boling</persName> was fined ten dollars &amp; costs for a breach of the peace and was since replevied &amp; is now absent a soldier in the U S Service and the security will have it to pay. Boling was drunk when he committed the offence and is a good citizen when sober &amp; I would ask his excellency<persName ref="cwgk:N00000258"> Gov Magoffin</persName> to remit the fine</p>
 <p>Respectfully
 <lb/>Thos Turner<pb/></p>
 <p>Remitted
 <lb/>B. M</p>
 <p>Montgomery Cir. Ct
-<lb/>&#36;10. &#125; Breach of the Peace
+<lb/>$10. } Breach of the Peace
 <lb/>Green Boling
 <lb/>Iss<hi rend="sup">d</hi> <date when="1862-03-05">Mar. 5. 1862</date></p>
   </body>
