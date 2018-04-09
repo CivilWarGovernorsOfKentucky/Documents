@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1502"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Breckinridge County Kentucky</p>
-<p>Thomas Falls states that he lived near Margolyes Tavern. I was at his house varius times and have staid with him several times always found plenty of Good &amp; substantial food for man and horse I know of the said Margolyes, buying corn of Thos Mcquiddey. Given under my hand this <date when="1861-11-21">21st day of November 1861.</date></p>
+   <p><placeName ref="cwgk:P001810">Breckinridge County</placeName> <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p><persName ref="cwgk:N00003165">Thomas Falls</persName> states that he lived near <orgName ref="cwgk:O00003164">Margolyes Tavern</orgName>. I was at his house varius times and have staid with him several times always found plenty of Good &amp; substantial food for man and horse I know of the said Margolyes, buying corn of <persName ref="cwgk:N00003166">Thos Mcquiddey</persName>. Given under my hand this <date when="1861-11-21">21st day of November 1861.</date></p>
 <p><hi rend="str">Given under my hand this 21 Nov 1861</hi></p>
 <p>Thomas ^his X mark^ Falls</p>
 <p>Sworn to before me this <date when="1861-11-21">21<hi rend="sup">st</hi> November 1861</date></p>
-<p>Edward Pate J P. B. C</p>
+<p><persName ref="cwgk:N00003167">Edward Pate </persName>J P. B. C</p>
   </body>
  </text>
 </TEI>
