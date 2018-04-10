@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1505"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hancock County Kentucky</p>
-<p>Jesse G. Marlow States that he lives and did live at Bennetsville at the time Margolyes Kept his tavern near this Town that the said Margolyes, had an entire sufficentcy of Good substantials for men and beasts. has Kept a stable and I heard O. P. Spencer say that he had engaged Stable room of him, and heard also that he had of Saml Rice. I borrowed corn of Margolyes and also bought some. I also saw fodder at his tavern Stand. I have been frequently at his tavern and am of the opinion that he kept as orderly &amp; decent a house as any house where drinking is allowed</p>
+   <p><placeName ref="cwgk:P001816">Hancock County</placeName> <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>Jesse G. Marlow States that he lives and did live at <placeName ref="cwgk:P00003171">Bennetsville</placeName> at the time Margolyes Kept his tavern near this Town that the said <persName ref="cwgk:N00003169">Margolyes</persName>, had an entire sufficentcy of Good substantials for men and beasts. has Kept a stable and I heard<persName ref="cwgk:N00003173"> O. P. Spencer</persName> say that he had engaged Stable room of him, and heard also that he had of <persName ref="cwgk:N00003172">Saml Rice</persName>. I borrowed corn of <persName ref="cwgk:N00003169">Margolyes</persName> and also bought some. I also saw fodder at his tavern Stand. I have been frequently at his tavern and am of the opinion that he kept as orderly &amp; decent a house as any house where drinking is allowed</p>
 <p>Given under my hand this <date when="1861-11-21">21<hi rend="sup">st</hi> November 1861</date></p>
 <p>Jesse Marlow</p>
 <p>Sworn to this <date when="1861-11-21">21<hi rend="sup">st</hi> November 1861</date></p>
-<p>Ed Pate J P. B C.</p>
+<p><persName ref="cwgk:N00003167">Ed Pate</persName> J P. B C.</p>
   </body>
  </text>
 </TEI>
