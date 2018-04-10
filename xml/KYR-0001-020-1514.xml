@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1514"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Breckinridge County Kentucky</p>
-<p>Edward Pate states that he was frequently at Margoyles Tavern near Bennetsville Ky. has staid with him at night has eat at his tavern had his horse fed -- have seen fodder &amp; corn to feed stock, and found about as good fare as is usual at little country stands, and never found any room to complain of myself or horse </p>
+   <p><placeName ref="cwgk:P001810">Breckinridge County</placeName> <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p><persName ref="cwgk:N00003167">Edward Pate</persName> states that he was frequently at <orgName ref="cwgk:O00003164">Margoyles Tavern</orgName> near <placeName ref="cwgk:P00003171">Bennetsville</placeName> Ky. has staid with him at night has eat at his tavern had his horse fed -- have seen fodder &amp; corn to feed stock, and found about as good fare as is usual at little country stands, and never found any room to complain of myself or horse </p>
 <p>Given under my hand this <date when="1861-11-22">22<hi rend="sup">nd</hi> November 1861</date></p>
 <p>Edward Pate</p>
 <p>Sworn to before me this <date when="1861-11-22">22<hi rend="underline"><hi rend="sup">d</hi></hi> day of Novr 1861,</date></p>
-<p>J. S. Wilkerson J. P, B. C</p>
+<p><persName ref="cwgk:N00003184">J. S. Wilkerson</persName> J. P, B. C</p>
   </body>
  </text>
 </TEI>
