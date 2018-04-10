@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1509"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hancock County Kentucky</p>
-<p>Robert Martin States that he lives in the Town of Bennetsville and did at the time Margolyes Kept his Tavern Near here. I was there frequently and Margolyes Seemed at all times to endeavor to Keep good order I have Known of his buying corn and have seen corn there I never heard any complaint of food for man or horse. I have understood that he had engaged stabling of some of the near nieghbors,</p>
+   <p><placeName ref="cwgk:P001816">Hancock County</placeName> <placeName ref="cwgk:P001800">Kentucky</placeName></p>
+<p><persName ref="cwgk:N00003179">Robert Martin </persName>States that he lives in the Town of <placeName ref="cwgk:P00003171">Bennetsville</placeName> and did at the time Margolyes Kept his <orgName ref="cwgk:O00003164">Tavern</orgName> Near here. I was there frequently and <persName ref="cwgk:N00003169">Margolyes</persName> Seemed at all times to endeavor to Keep good order I have Known of his buying corn and have seen corn there I never heard any complaint of food for man or horse. I have understood that he had engaged stabling of some of the near nieghbors,</p>
 <p>Given under my hand this <date when="1861-11-21">21<hi rend="sup">st</hi> day of November 1861</date></p>
 <p>Robert ^his X mark^ Martin</p>
 <p>Sworn to before me this <date when="1861-11-21">21<hi rend="sup">st</hi> November 1861</date></p>
