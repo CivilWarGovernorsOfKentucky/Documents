@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1506"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,11 +70,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Jno. T. Barber states that he lives about 3 miles from Margolyes Tavern. that I have been there several times and never saw any thing on the rowdy order. I was there when Margolyes was raising a stable and was there after it was raised I never heard of any dissatisfaction by any body against Margolyes as a tavern Keeper</p>
+   <p><persName ref="cwgk:N00003175">Jno. T. Barber</persName> states that he lives about 3 miles from <orgName ref="cwgk:O00003164">Margolyes Tavern</orgName>. that I have been there several times and never saw any thing on the rowdy order. I was there when Margolyes was raising a stable and was there after it was raised I never heard of any dissatisfaction by any body against <persName ref="cwgk:N00003169">Margolyes</persName> as a tavern Keeper</p>
 <p>Given under my hand this <date when="1861-11-21">21<hi rend="sup">st</hi> Nov 1861</date></p>
 <p>John T Barber</p>
 <p>Sworn to before me this <date when="1861-11-21">21<hi rend="sup">st</hi> November 1861</date></p>
-<p>Edward Pate J, P, B, C</p>
+<p><persName ref="cwgk:N00003167">Edward Pate </persName>J, P, B, C</p>
   </body>
  </text>
 </TEI>
