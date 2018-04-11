@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1518"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,35 +71,33 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency the Governor of the Commonwealth of Kentucky -- </p>
-<p>Your petitioners John Gore and John. W. Bingham would respectfully represent to your Excellency that on Samuel Matheney was fined in the police Court of Harrodsburg the sum of five Dollars &amp; costs, amounting in all to the sum of Nine dollars &amp; 58 cents, and that your petitioners became security upon a Replevin bond for the said Matheney, for the amount of the aforesaid fine -- and costs; and that since the execution of the aforesaid bond said Matheny has left for <hi rend="str">the southern</hi> the Army, and an execution has been issued against your petitioners for the said fine and costs, and is now in the hands of the Marshal, and your petitioners will have to pay the same -- and that they have no funds in their hands belonging to the said Matheney, &amp; that should they discharge said execution, it will be a total loss to your petitioners.</p>
+   <p>To his Excellency the <persName ref="cwgk:N00000258">Governor of the Commonwealth of Kentucky</persName> -- </p>
+<p>Your petitioners <persName ref="cwgk:N00003199">John Gore </persName>and <persName ref="cwgk:N00003200">John. W. Bingham</persName> would respectfully represent to your Excellency that on <persName ref="cwgk:N00003201">Samuel Matheney </persName>was fined in the police Court of <placeName ref="cwgk:P00000555">Harrodsburg</placeName> the sum of five Dollars &amp; costs, amounting in all to the sum of Nine dollars &amp; 58 cents, and that your petitioners became security upon a Replevin bond for the said Matheney, for the amount of the aforesaid fine -- and costs; and that since the execution of the aforesaid bond said Matheny has left for <hi rend="str">the southern</hi> the <orgName ref="cwgk:O00000506">Army</orgName>, and an execution has been issued against your petitioners for the said fine and costs, and is now in the hands of the Marshal, and your petitioners will have to pay the same -- and that they have no funds in their hands belonging to the said Matheney, &amp; that should they discharge said execution, it will be a total loss to your petitioners.</p>
 <p>Wherefore your petitioners would pray your Excellency to interpose in their behalf and remit said fine<pb/>
 <lb/>An as in duty bound your petitioners will ever pray.</p>
 <p>J, W, Bingham
 <lb/>John Gore</p>
 <p>Mercer County
-<lb/>State of Kentucky</p>
+<lb/>State of <placeName ref="cwgk:P001800">Kentucky</placeName></p>
 <p>John Gore and John W. Bingham say that the statements contained in the foregoing petition are true.</p>
 <p>J, W, Bingham
 <lb/>John Gore</p>
 <p>Sworn to before me this <date when="1861-11-18">18 day of Nov 1861.</date></p>
-<p>E. J. Polk Examiner for Mercer County</p>
+<p><persName ref="cwgk:N00003198">E. J. Polk</persName> Examiner for <placeName ref="cwgk:P00000556">Mercer County</placeName></p>
 <p>The undersigned ^Citizens of Harrodsburg^ join in the prayer of the above petition<figure type="hr"/></p>
 <p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">Names</hi>
-<lb/>Chr Chinn
-<lb/>E J Polk
-<lb/>Q A Thompson
-<lb/><hi rend="underline">J. W. Cardwell</hi>
+<lb/><persName ref="cwgk:N00001866">Chr Chinn
+</persName><lb/>E J Polk
+<lb/><persName ref="cwgk:N00003202">Q A Thompson
+</persName><lb/><hi rend="underline">J. W. Cardwell</hi>
 <lb/>S S M<hi rend="sup">c</hi>Fatridge
-<lb/>William Daveiss
-<lb/>J, L, Smedley
-<lb/>J M Lillard
-<lb/>W A Hode
-<lb/><cb n="2"/><hi rend="underline">Names</hi><milestone unit="column" n="1"/><pb/></p>
-<p>Harrodsburg Po. ct</p>
+<lb/><persName ref="cwgk:N00003204">William Daveiss</persName><lb/><persName ref="cwgk:N00003205">J. L. Smedley
+</persName><lb/>J M Lillard
+<lb/><persName ref="cwgk:N00003207">W A Hode</persName><lb/><cb n="2"/><hi rend="underline">Names</hi><milestone unit="column" n="1"/><pb/></p>
+<p><orgName ref="cwgk:O00003265">Harrodsburg Po. ct</orgName></p>
 <p>Remitted 
 <lb/>B. M</p>
-<p>&#36;5. &#125; Replevin Bond
+<p>$5. } Replevin Bond
 <lb/>John Gore 
 <lb/>J. W. Bingham
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-11-19">Nov 19. 1861</date></p>
