@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. H. Crouch</title>
+        <title level="a" type="main">John H. Crouch</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,24 @@
         <particDesc>
                 <person xml:id="N00008542">
                     <persName>
-                      J. H. Crouch
-                        (Ballard Co.)
+                      John H. Crouch
+                        (Ballard Co. farmer)
                     </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ballard County, Kentucky, farmer. Kentucky native. Married to Mary S. Turner Crouch. Father of Martha E. Crouch, James F. Crouch, and Luvenia E. Crouch. Farmer in Ballard County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860),  Population Schedules, Kentucky, Ballard County, Lovelaceville District, p. 149.<lb/>
+Kentucky._ Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)_. Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
