@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1524"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,25 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p><milestone unit="column" n="3"/><cb n="1"/>W. G. HUGHES,
-<lb/>Morganfield.
-<lb/><cb n="2"/>F. H. DALLAM,
-<lb/>Henderson.
-<lb/><cb n="3"/>D. H. HUGHES,
-<lb/>Morganfield.
-<lb/><milestone unit="column" n="1"/>HUGHES, DALLAM &amp; HUGHES,
+   <p><milestone unit="column" n="3"/><cb n="1"/><persName ref="cwgk:N00003272">W. G. HUGHES</persName>,<lb/><placeName ref="cwgk:P00001832">Morganfield</placeName>.<lb/><cb n="2"/><persName ref="cwgk:N00003273">F. H. DALLAM</persName>,<lb/><placeName ref="cwgk:P001815">Henderson</placeName>.<lb/><cb n="3"/><persName ref="cwgk:N00003274">D. H. HUGHES</persName>,<lb/><placeName ref="cwgk:P00001832">Morganfield</placeName>.<lb/><milestone unit="column" n="1"/>HUGHES, DALLAM &amp; HUGHES,
 <lb/>COUNSELORS AND ATTORNEYS AT LAW,
 <lb/>MORGANFIELD AND HENDERSON, KY.
 <lb/>Will attend Promptly to all Business committed to them.<figure type="hr"/></p>
 <p>Morganfield, Ky., <date when="1861-11-11">Nov 11th 1861.</date>
-<lb/>To his Excellency Beriah Magoffin Governor of Ky
-<lb/>Dr Sir</p>
-<p>You will remember my statement to you in the latter part of <date when="1861-09">September</date> in Frankfort of the case of young Berry confessing judgement for &#36;150 on an indictment for carrying a challenge and your promise that it should be remitted. Mr Lowe our commonwealth's atty wrote you a letter last spring defining the circumstances with his opinion &amp; request that the same should be remitted -- </p>
+<lb/>To his Excellency <persName ref="cwgk:N00000258">Beriah Magoffin</persName> Governor of Ky<lb/>Dr Sir</p>
+<p>You will remember my statement to you in the latter part of <date when="1861-09">September</date> in <placeName ref="cwgk:P00000308">Frankfort</placeName> of the case of young <persName ref="cwgk:N00003276">Berry</persName> confessing judgement for $150 on an indictment for carrying a challenge and your promise that it should be remitted. Mr <persName ref="cwgk:N00003275">Lowe</persName> our commonwealth's atty wrote you a letter last spring defining the circumstances with his opinion &amp; request that the same should be remitted -- </p>
 <p>I send you a copy of the judgement and hope you will give it your immediate attention, the Sherriff having the "capias pro fine" in his hands=</p>
 <p>Very Resp'y. Yr. Ob't. Serv't,
 <lb/>D, H, Hughes<pb/></p>
-<p>Union Cir. Ct
-<lb/>&#36;150. &#125; Carrying Challenge
+<p><orgName ref="cwgk:O00000582">Union Cir. Ct
+</orgName><lb/>$150. } Carrying Challenge
 <lb/>N. C. Berry
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-11-19">Nov 19. 1861</date><figure type="hr"/></p>
 <p>Remitted 
