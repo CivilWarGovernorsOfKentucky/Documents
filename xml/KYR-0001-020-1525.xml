@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1525"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Harrodsburg <date when="1861-11-12">Nov<hi rend="sup">r</hi> 12<hi rend="sup">th</hi> 1861</date>
+   <p><placeName ref="cwgk:P00000555">Harrodsburg</placeName> <date when="1861-11-12">Nov<hi rend="sup">r</hi> 12<hi rend="sup">th</hi> 1861</date>
 <lb/>Dear Sir</p>
-<p>John Douly was fined in the Police Court of Harrodsburg 83 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> cents &amp; another fine of &#36;5,00 in Same Court both for getting Intoxicated the Debts have been replieved J P Doyle &amp; Jno Burke Secty</p>
+<p><persName ref="cwgk:N00003277">John Douly </persName>was fined in the <orgName ref="cwgk:O00003265">Police Court of Harrodsburg </orgName>83 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> cents &amp; another fine of $5,00 in Same Court both for getting Intoxicated the Debts have been replieved <persName ref="cwgk:N00003278">J P Doyle</persName> &amp; Jno Burke Secty</p>
 <p>You told me when I saw you that you would remit the fines</p>
 <p>You will find his Petition on file doubtless Please Send the remittance inclosed to me</p>
 <p>Very Respectfully
 <lb/>Yours <hi rend="underline">Ben C Allin</hi></p>
 <p>His Excellency 
-<lb/>B MaGoffin</p>
+<lb/><persName ref="cwgk:N00000258">B MaGoffin</persName></p>
 <p>PS All well as usual</p>
 <p>B C A<pb/></p>
 <p>Remitted as to Five Dollar fine -- 
