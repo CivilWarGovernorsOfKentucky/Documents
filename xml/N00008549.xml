@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,25 @@
                 <person xml:id="N00008549">
                     <persName>
                       Edward Myall
-                        ()
+                        (Mays Lick, Kentucky, wagon maker)
                     </persName>
+                        <event type="birth"  when="1834-10-02"  ><ab>1834-10-02</ab></event>
+                        <event type="death"  when="1914-12-16"  ><ab>1914-12-16</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Mays Lick, Kentucky, wagon maker. Native of England. Son of James Myall and Mary Myall. Married to Lucy Myall. Wagon maker in Mays Lick in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason, Mays Lick, p. 62.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016170, Mason County Deaths, p. 706.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
