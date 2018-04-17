@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1528"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,8 +70,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency the Governor of Kentucky.</p>
-<p>Your Petitioner, Columbus Kent, would respectfully represent that shortly after the last August Election he was fined by Judge <hi rend="str">P</hi>John Parker, <hi rend="str">C</hi>Town Judge at Athens, Fayette County, Kentucky, the sum of fourteen dollars and the costs am<hi rend="str">t</hi>ounting to &#36;6<hi rend="underline"><hi rend="sup">10</hi></hi></p>
+   <p>To his Excellency the Governor of <placeName ref="cwgk:P001800">Kentucky</placeName>.</p>
+<p>Your Petitioner, <persName ref="cwgk:N00003314">Columbus Kent</persName>, would respectfully represent that shortly after the last August Election he was fined by Judge <hi rend="str">P</hi>John Parker, <hi rend="str">C</hi>Town Judge at <placeName ref="cwgk:P00003315">Athens</placeName>, <placeName ref="cwgk:P001031">Fayette County</placeName>, Kentucky, the sum of fourteen dollars and the costs am<hi rend="str">t</hi>ounting to $6<hi rend="underline"><hi rend="sup">10</hi></hi></p>
 <p>This fine was inflicted for noise and disorder while intoxicated on the day of said election. Your Petitioner is not in the habit of getting drunk or of disturbing any one. He was with his friends on that day and <hi rend="str"><unclear/></hi>excited about the election and so drank too much. He injured <hi rend="str">to</hi> no one; the public was but little disturbed by the noise he made.</p>
 <p>The above is a truthful detail of the facts connected with the above named spree and the conseqeuent fine. Your petitioner is heartily ashamed of it. He has conducted himself in a sober and orderly manner ever since.</p>
 <p>He would now respectfully ask Your Excellency to remit said fine. He is poor; has his Mother, who is a widow, to support and while he acknowledges that he was guilty of the above disorder; he hopes that you will think the payment of the costs a sufficient penalty for it.
@@ -78,8 +86,8 @@
 <lb/></hi>Chas Swift
 <lb/><hi rend="underline">John M Clay
 <lb/></hi>J H Craig</p>
-<p>Athens Po. Ct
-<lb/>&#36;14 &#125; breach</p>
+<p><orgName ref="cwgk:O00008544">Athens Po. Ct
+</orgName><lb/>$14 } breach</p>
 <p>Remitted 
 <lb/>B. M</p>
 <p>C. Kent
