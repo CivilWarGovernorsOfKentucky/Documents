@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00008560">
                     <persName>
                       J. Laytham
-                        ()
+                        (Mason County)
                     </persName>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -48,5 +52,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Signed a petition on behalf of William Carr in Mason County, Kentucky.</p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0001-020-1529.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
