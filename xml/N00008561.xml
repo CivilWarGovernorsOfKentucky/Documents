@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,25 @@
                 <person xml:id="N00008561">
                     <persName>
                       George Wells
-                        ()
+                        (Mason County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1829"  ><ab>1829</ab></event>
+                        <event type="death"  when="1901"  ><ab>1901</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Mason County, Kentucky, farmer. Married to Melissa A. Loyd Wells. Father of Mary M. Wells, George R. Wells, Bettie Wells, John W. Wells, and Charles Wells. Farmer in Mason County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason, District 2, p. 142.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994048, Mason County Marriages, p. unknown.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;George R. Wells (1829-1901),&quot; Memorial #23547747, http://www.findagrave.com/memorial/23547747 (accessed April 17, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
