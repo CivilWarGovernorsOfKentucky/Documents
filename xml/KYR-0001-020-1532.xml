@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1532"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,25 +71,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort Ky. <date when="1861-11-03">Nov. 3rd 1861</date>
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky. <date when="1861-11-03">Nov. 3rd 1861</date>
 <lb/>To his Excellency
-<lb/>Governor Beriah Magoffin</p>
-<p>The undersigned your petitioners pray that you will remit a fine assessed aginst William P, Watson of this City on a charge of disorderly conduct, Said fine in the opinion of your petitioners is <hi rend="str">excessive</hi> excessive amounting, ^to ten dollars^ <hi rend="str">with costs as it does to &#36;13.75 and</hi> as the offense injured no one, therefore they pray Executive clemency</p>
+<lb/>Governor <persName ref="cwgk:N00000258">Beriah Magoffin</persName></p>
+<p>The undersigned your petitioners pray that you will remit a fine assessed aginst <persName ref="cwgk:N00003473">William P. Watson</persName> of this City on a charge of disorderly conduct, Said fine in the opinion of your petitioners is <hi rend="str">excessive</hi> excessive amounting, ^to ten dollars^ <hi rend="str">with costs as it does to $13.75 and</hi> as the offense injured no one, therefore they pray Executive clemency</p>
 <p>Very Respectfully
 <lb/>J H Johnson
-<lb/>W. L. Harlan
-<lb/><hi rend="underline">J A Crittenden
-<lb/>John M Todd
-<lb/></hi>James M Todd
-<lb/>S Sanders
-<lb/>E P Bowman
-<lb/>J, W, Pruett
-<lb/>A, C. Keenor
-<lb/>R K Woodson<pb/></p>
-<p>Franfort Po Ct</p>
+<lb/><persName ref="cwgk:N00001149">W. L. Harlan
+</persName><lb/><persName ref="cwgk:N00003475">John M Todd
+</persName><persName ref="cwgk:N00001132">James M Todd
+</persName><lb/><persName ref="cwgk:N00003476">S Sanders
+</persName><lb/><persName ref="cwgk:N00003477">E P Bowman
+</persName><lb/><persName ref="cwgk:N00003478">J. W. Pruett
+</persName><lb/><persName ref="cwgk:N00003472">A. C. Keenor
+</persName><lb/><persName ref="cwgk:N00003471">R K Woodson</persName><pb/></p>
+<p><orgName ref="cwgk:O00003470">Franfort Po Ct</orgName></p>
 <p>Remitted. 
 <lb/>B. M</p>
-<p>&#36;10 &#125; Breach
+<p>$10 } Breach
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Watson
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-11-19">Nov 19. 1861</date></p>
   </body>
