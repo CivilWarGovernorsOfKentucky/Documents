@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,22 @@
             <particDesc>
                 <org xml:id="O00008567">
                     <orgName>9th Kentucky Volunteer Infantry Regiment (U.S.A.)</orgName>
+                        <event type="begun"  when="1861-11-26"  ><ab>1861-11-26</ab></event>
+                        <event type="ended"  when="1864-12-15"  ><ab>1864-12-15</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Camp Boyle, Adair County, Kentucky. Mustered in November 26, 1861, and mustered out December 15, 1864.   Officer(s): Colonel Benjamin C. Grider and Colonel George H. Cram. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 786, 805.
+
+United States Adjutant General’s Office, _ Official Army Register of The Volunteer Force of The United States Army for the Years 1861, &#39;62, &#39;63, &#39;64, &#39;65_, vol. 4, (Washington, D.C.: 1865), 1255. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
