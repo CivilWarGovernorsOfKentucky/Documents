@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1535"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  <text>
   <body>
    <p>To His Excellency
-<lb/>B Magoffin</p>
-<p>Your Petitioner would most respectfully state that a judgement was rendered against him at the spring Term of the Barren Circuit Court for the year <date when="1861"><hi rend="underline">Eighteen Hundred and Sixty One</hi></date>, for the Sum of <hi rend="underline">Two Hundred Dollars</hi> on <hi rend="underline">Bail Bond</hi> entered into by your Petioner, for the appearance of one <hi rend="underline">James White</hi> of Boyle County, Kentucky who was charged with stealing a shawl worth about Six Dollars. Your Petitioner Prays and will ever be greatful for the Remission of Said Amount as above specified</p>
+<lb/><persName ref="cwgk:N00000258">B Magoffin</persName></p>
+<p>Your Petitioner would most respectfully state that a judgement was rendered against him at the spring Term of the <orgName ref="cwgk:O00000351">Barren Circuit Court</orgName> for the year <date when="1861"><hi rend="underline">Eighteen Hundred and Sixty One</hi></date>, for the Sum of <hi rend="underline">Two Hundred Dollars</hi> on <hi rend="underline">Bail Bond</hi> entered into by your Petioner, for the appearance of one <hi rend="underline">James White</hi> of <placeName ref="cwgk:P00002353">Boyle County</placeName>, <placeName ref="cwgk:P001800">Kentucky</placeName> who was charged with stealing a shawl worth about Six Dollars. Your Petitioner Prays and will ever be greatful for the Remission of Said Amount as above specified</p>
 <p>Your Obt Sevrt
 <lb/>B, A, Wheat</p>
 <p><date when="1861-11-27"><hi rend="underline">Nov 2</hi><hi rend="underline"><hi rend="str">6</hi></hi><hi rend="underline">7, 1861</hi></date></p>
@@ -74,7 +82,7 @@
 <p>Remitted
 <lb/>B. M</p>
 <p>Barren Cir. Ct
-<lb/>&#36;200. &#125; Bail Bond
+<lb/>$200. } Bail Bond
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-12-18">Dec<hi rend="sup">r</hi> 18. 1861</date></p>
   </body>
  </text>
