@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008574">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John C. Eversole</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008574">
+                    <persName>
+                      John C. Eversole
+                        (Perry Co)
+                    </persName>
+                        <event type="birth"  when="1830"  ><ab>1830</ab></event>
+                        <event type="death"  when="1864-05-02"  ><ab>1864-05-02</ab></event>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Perry County, Kentucky, farmer. Married to Nancy Anne Duff Eversole. Father of Sarah Eversole, Elizabeth Eversole, Harrison Eversole, Joseph Eversole, George Eversole, Clarkston Eversole, Mary Eversole, Polly Eversole, and John C. Eversole. Farmer in Perry County in 1850. Farmer in Perry County in 1860. Major in the 14th Kentucky Volunteer Cavalry Regiment from February 1863 to March 1864. Killed by guerilla fighters near his home on May 2, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Perry County, District One. Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Perry County, District One, p. 90. “Murdered by Guerillas,” in <hi rend="italic">The Louisville Weekly Journal</hi>, June 21, 1864. William Elsey Connelly and E.M. Coulter, <hi rend="italic">History of Kentucky</hi> Volume 5 (Chicago and New York: The American Historical Society, 1922), 632-633. Find A Grave, “Maj John C. Eversole (1830-1864),” Memorial #11392806, https://www.findagrave.com/memorial/11392806# (accessed April 20, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
