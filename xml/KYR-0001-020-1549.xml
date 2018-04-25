@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1549"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  <text>
   <body>
    <p>Jefferson Cir. ct
-<lb/>Hugh Doty
-<lb/>1 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> yrs Penty
+<lb/><persName ref="cwgk:N00003724">Hugh Doty
+</persName><lb/>1 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> yrs Penty
 <lb/>Felony
 <lb/>Pardon Iss<hi rend="sup">d</hi> <date when="1861-11-18">Nov. 18<hi rend="underline"><hi rend="sup">th</hi></hi>. 1861</date></p>
   </body>
