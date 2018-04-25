@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1544"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Breckenridge Circuit Court.
-<lb/><date when="1859-10">October term, 1859</date>
-<lb/>The Commonwealth of Kentucky. Plaintiff
-<lb/>Against Indictment
-<lb/>Henry. B. Margoleyes Defendant</p>
-<p>The Grand Jury of Breckenridge County, in the name and by the authority of the Commonwealth of Kentucky accuse Henry. B. Margolyes a tavern keeper, of the offense of breaking and violating his tavern obligation and bond, committed as follows, viz: The said Henry B Margolyes having obtained a license to keep a tavern in the County aforesaid, with Edward Pate, as his surety on the <date when="1858-08-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of August 1858.</date> entered into an obligation in substance as follows:</p>
+   <p><orgName ref="cwgk:O00000353">Breckenridge Circuit Court</orgName>.<lb/><date when="1859-10">October term, 1859</date>
+<lb/>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>. Plaintiff<lb/>Against Indictment
+<lb/><persName ref="cwgk:N00003169">Henry. B. Margoleyes </persName>Defendant</p>
+<p>The Grand Jury of <placeName ref="cwgk:P001810">Breckenridge County</placeName>, in the name and by the authority of the Commonwealth of Kentucky accuse Henry. B. Margolyes a tavern keeper, of the offense of breaking and violating his tavern obligation and bond, committed as follows, viz: The said Henry B Margolyes having obtained a license to keep a tavern in the County aforesaid, with <persName ref="cwgk:N00003167">Edward Pate</persName>, as his surety on the <date when="1858-08-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of August 1858.</date> entered into an obligation in substance as follows:</p>
 <p>"Tavern Keeper's bond,
 <lb/>The Commonwealth of Kentucky</p>
 <p>Whereas, Henry. B. Margoleys has obtained a license to keep a tavern near Bennettsville in the County of Breckenridge. Now, we Henry B Margoleys, principal and Edward Pate his surety, do hereby covenant and agree that the said Henry. B. Margolyes, shall continually find and provide in said Tavern good wholesome cleanly lodging and diet for travellers, and stabling and provender, or pasturage for horses or mules, during the period the license remains in force; and that he will not suffer any gaming in his house or on his premises, and will not suffer any person to tipple or drink more than is necessary, in his house or on his premises, or at any time suffer any scandalous or disorderly behaviour in his house or on his premises.</p>
@@ -103,12 +109,12 @@
 <lb/>Att Geo W Jolly Deputy Clerk
 <lb/>Breckenridge Circuit Court.<pb/></p>
 <p>Commonwealth of Ky
-<lb/>vs &#125; Copy of Pet<hi rend="sup">n</hi> &amp; Judg<hi rend="underline"><hi rend="sup">t</hi></hi>
+<lb/>vs } Copy of Pet<hi rend="sup">n</hi> &amp; Judg<hi rend="underline"><hi rend="sup">t</hi></hi>
 <lb/>Henry. B. Margolyes &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
 <p>Breckinridge Cir. Ct.</p>
 <p>Remitted
 <lb/>B. M.</p>
-<p>&#36;300 &#125; Tavern Bond
+<p>$300 } Tavern Bond
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-11-27">Nov 27. 1861</date></p>
   </body>
  </text>
