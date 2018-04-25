@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1547"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1861-11-12">Nov 12<hi rend="sup">th</hi> 1861</date>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-11-12">Nov 12<hi rend="sup">th</hi> 1861</date>
 <lb/>Dr Sir</p>
-<p>I received your note to day and ^am^ very willing to state that I have not only examined Angelo Devoto but that, I have been frequently called upon to prescribe for him since his confinement in Jail. His health is injured by confinement <unclear/> in Jail, he is suffering from disease of the chest and genenal constitutional neuralgia, to recover from which release from confinement is necessay, and I do not think he would stand confinement in the Penitentiary, I also know that he has a family of small children, who are entirely destitute of the necessaries of life, and depend wholy upon charity for subsistance.</p>
+<p>I received your note to day and ^am^ very willing to state that I have not only examined <persName ref="cwgk:N00003612">Angelo Devoto</persName> but that, I have been frequently called upon to prescribe for him since his confinement in Jail. His health is injured by confinement <unclear/> in Jail, he is suffering from disease of the chest and genenal constitutional neuralgia, to recover from which release from confinement is necessay, and I do not think he would stand confinement in the <orgName ref="cwgk:O00000266">Penitentiary</orgName>, I also know that he has a family of small children, who are entirely destitute of the necessaries of life, and depend wholy upon charity for subsistance.</p>
 <p><hi rend="underline">E K, Seele</hi>
-<lb/>Physician Louisville Jail</p>
-<p>To N, Wolf Esqr</p>
+<lb/>Physician <orgName ref="cwgk:O00001161">Louisville Jail</orgName></p>
+<p>To <persName ref="cwgk:N00000219">N. Wolf</persName> Esqr</p>
 <p>P. S. I have known his for some <hi rend="str">D</hi>years and have never heard his character impeached before.</p>
 <p>E K, <hi rend="underline">Seele</hi></p>
   </body>
