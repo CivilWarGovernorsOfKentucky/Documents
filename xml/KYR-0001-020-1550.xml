@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1550"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Spring. Hill Woodford
-<lb/><date when="1861-11-01">Nov the 1<hi rend="sup">rst</hi> 1861</date>
-<lb/>His Excellency</p>
-<p>Governor I never asked for the release of any convict, but I have been much struck with the manly bearing &amp; the conduct of Elam Milly and also with the confidence the Keepers of the Prison have placed in him He was convicted for a short term and for a small offence; he has faithfully served the Commonwealth not only without a guard but at large as the Agent of the Prison. Six weeks are only remaining of his time, give him that Restore him to liberty &amp; his rights as a citizen, he is a stout firm looking fellow in the vigour of manhood, his county is in trouble and needs his services, give him a chance</p>
+   <p>Spring. Hill <placeName ref="cwgk:P00002992">Woodford
+</placeName><lb/><date when="1861-11-01">Nov the 1<hi rend="sup">rst</hi> 1861</date>
+<lb/>His <persName ref="cwgk:N00000258">Excellency</persName></p>
+<p>Governor I never asked for the release of any convict, but I have been much struck with the manly bearing &amp; the conduct of <persName ref="cwgk:N00003727">Elam Milly </persName>and also with the confidence the Keepers of the Prison have placed in him He was convicted for a short term and for a small offence; he has faithfully served the <orgName ref="cwgk:O001025">Commonwealth</orgName> not only without a guard but at large as the Agent of the Prison. Six weeks are only remaining of his time, give him that Restore him to liberty &amp; his rights as a citizen, he is a stout firm looking fellow in the vigour of manhood, his county is in trouble and needs his services, give him a chance</p>
 <p>Truly Yours
-<lb/>W T. Hart<pb/></p>
+<lb/><persName ref="cwgk:N00003726">W T. Hart</persName><pb/></p>
 <p>Green cir. ct
 <lb/>Elam Milby
 <lb/>18 Mo
