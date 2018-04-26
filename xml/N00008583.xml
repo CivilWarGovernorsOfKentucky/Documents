@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00008583">
                     <persName>
                       Thomas B. Cochran
-                        (Shelbyville resident, Lt. Col, 2nd Kentucky Cavalry)
+                        (Shelbyville, Lt. Col, 2nd Kentucky Cavalry)
                     </persName>
+                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
