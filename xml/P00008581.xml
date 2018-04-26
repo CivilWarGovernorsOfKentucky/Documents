@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00008581">
                     <placeName>
                         <location>
+                              <geo>38.0317 -85.3425</geo>
                             <settlement>Mount Eden, Kentucky</settlement>
                         </location>
                     </placeName>
@@ -48,5 +53,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Village located in Spencer County, Kentucky, and Shelby County, Kentucky.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Robert M. Rennick, <hi rend="italic">Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 2013) (Accessed via Google Books). 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
