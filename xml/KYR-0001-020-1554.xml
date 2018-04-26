@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1554"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Maysville Kentucky
-<lb/><date when="1861-11-26">26 of novr 1861</date>
-<lb/>To the Honbl<hi rend="underline"><hi rend="sup">e</hi></hi> Beriah Magoffin</p>
-<p>John L Scott Esqr will hand you two petitions one of Brookover, the other of Hasson; pardon me for expressing my hope that you will remit the fines against Brookover, his case I deem one where executive Clemency should be exercised -- his petiton is signed among others by Mr M<hi rend="sup">c</hi><unclear>an'Tee</unclear> the owner of the slave, Hasson is a poor ignorant Drayman, having a family and in these times can hardly "make tongue and buckle meat"</p>
-<p>I hope if the Legislature gives a Bill of sale of Kentucky to Lincoln &amp; C<hi rend="sup">o</hi>, that it <hi rend="str">will</hi> will contain no Covenant of Warrantee.</p>
+   <p><placeName ref="cwgk:P00001219">Maysville</placeName> Kentucky<lb/><date when="1861-11-26">26 of novr 1861</date>
+<lb/>To the Honbl<hi rend="underline"><hi rend="sup">e</hi></hi> <persName ref="cwgk:N00000258">Beriah Magoffin</persName></p>
+<p><persName ref="cwgk:N00002277">John L Scott</persName> Esqr will hand you two petitions one of <persName ref="cwgk:N00002670">Brookover</persName>, the other of <persName ref="cwgk:N00003960">Hasson</persName>; pardon me for expressing my hope that you will remit the fines against <persName ref="cwgk:N00002670">Brookover</persName>, his case I deem one where executive Clemency should be exercised -- his petiton is signed among others by Mr M<hi rend="sup">c</hi><unclear>an'Tee</unclear> the owner of the slave, <persName ref="cwgk:N00003960">Hasson</persName> is a poor ignorant Drayman, having a family and in these times can hardly "make tongue and buckle meat"</p>
+<p>I hope if the <orgName ref="cwgk:O00008521">Legislature</orgName> gives a Bill of sale of Kentucky to Lincoln &amp; C<hi rend="sup">o</hi>, that it <hi rend="str">will</hi> will contain no Covenant of Warrantee.</p>
 <p>Respectfully
 <lb/>yrs
 <lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> D Taylor</p>
