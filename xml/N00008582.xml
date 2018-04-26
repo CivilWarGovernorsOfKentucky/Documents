@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">G W Caplinger</title>
+        <title level="a" type="main">George W. Caplinger</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,28 @@
         <particDesc>
                 <person xml:id="N00008582">
                     <persName>
-                      G W Caplinger
-                        ()
+                      George W. Caplinger
+                        (Shelby County resident)
                     </persName>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Shelbyville, Kentucky, native. Married to G. Anna Pulliam on December 21, 1865. Shelby County resident in 1850. Private in Shelby County State Guard from September 5, 1862, to November 1, 1862. Shelbyville town marshal in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Shelby County, p. 302.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1867), 856.
+
+<hi rend="italic">Kentucky, County Marriage Records, 1783-1965</hi>, Shelby County, December 21, 1865. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
