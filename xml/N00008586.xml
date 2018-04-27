@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,11 @@
                 <person xml:id="N00008586">
                     <persName>
                       James V McKasson
-                        ()
+                        (Spencer County, Indiana Soldier)
                     </persName>
+                        <event type="birth"  when="1831"  ><ab>1831</ab></event>
+                        <event type="death"  when="1895"  ><ab>1895</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
