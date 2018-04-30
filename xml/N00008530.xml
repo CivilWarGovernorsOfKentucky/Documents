@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Brianna Kirk</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00008530">
                     <persName>
                       Garrett Watts
-                        (person)
+                        (Fayette County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1797"  cert="medium" ><ab>c1797</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,8 +55,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Fayette County, Kentucky, resident. Appears in November 4, 1862, letter between Samuel D. McCullough and James F. Robinson in Lexington, Kentucky.</p>
+        <p>Fayette County, Kentucky, farmer. Kentucky native. Married to Lucy Watts. Farmer in Fayette County in 1860. Owned twenty-three enslaved persons in Fayette County in 1850. Owned eighteen enslaved persons in Fayette County in 1860. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Fayette, District 2, p. 133. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette, District 2, p. 24.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Fayette, District 1, p. 13. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
