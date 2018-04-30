@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0001"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>R R Ironworks Ky <date when="1861-07-17">July 17<hi rend="sup"> -- </hi>1861</date>
-<lb/>Phil Swigert Esqr
-<lb/>Dear Sir</p>
-<p>I suppose there will be application made to the Commission for the distribution of guns for a company that was said to be organized in Stanton Powell County A C-- Daniel. Capt. &amp; I am sorry to say a son of mine S. G Jackson 1,<hi rend="sup">st </hi>Lieutenant <hi rend="sup">2</hi>/<hi rend="sub">3</hi> of the Company are rank secessionist &amp; had a secession flag waiving the day the Company was raised. the company is of the worst kind of men as to Character except a few. I think they took no oath but subscribed to a paper &amp; which they will pay no regard. I think the Certificate<pb/>
-<lb/>of the County Judge is not according to law from what I have heard I hope they will get no arms</p>
+   <p><orgName ref="cwgk:O00008494">R R Ironworks</orgName> Ky <date when="1861-07-17">July 17<hi rend="sup"> -- </hi>1861</date>
+<lb/><persName ref="cwgk:N00002747">Phil Swigert</persName> Esqr<lb/>Dear Sir</p>
+<p>I suppose there will be application made to the <orgName ref="cwgk:O00006066">Commission</orgName> for the distribution of guns for a company that was said to be organized in <placeName ref="cwgk:P00001940">Stanton</placeName> <placeName ref="cwgk:P00001937">Powell County</placeName> A C-- Daniel. Capt. &amp; I am sorry to say a son of mine <persName ref="cwgk:N00008493">S. G Jackson</persName> 1,<hi rend="sup">st </hi>Lieutenant <hi rend="sup">2</hi>/<hi rend="sub">3</hi> of the Company are rank secessionist &amp; had a secession flag waiving the day the <orgName ref="cwgk:O00008503">Company</orgName> was raised. the company is of the worst kind of men as to Character except a few. I think they took no oath but subscribed to a paper &amp; which they will pay no regard. I think the Certificate<pb/>
+<lb/>of the <persName ref="cwgk:N00006960">County Judge</persName> is not according to law from what I have heard I hope they will get no arms</p>
 <p>Your Truly &amp;<hi rend="str">P</hi>
-<lb/>Josiah A Jackson</p>
+<lb/><persName ref="cwgk:N00008492">Josiah A Jackson</persName></p>
 <p>I do not wish to be made public</p>
 <p>J A J</p>
 <p>J. A. Jackson
-<lb/>Estill County
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> &amp; ans <date when="1861-07-18">18<hi rend="sup"> -- </hi>July 1861</date>.</p>
+<lb/><placeName ref="cwgk:P00004776">Estill County</placeName><lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> &amp; ans <date when="1861-07-18">18<hi rend="sup"> -- </hi>July 1861</date>.</p>
   </body>
  </text>
 </TEI>
