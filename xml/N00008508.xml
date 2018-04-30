@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Scott Ackerman</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,10 @@
                 <person xml:id="N00008508">
                     <persName>
                       John R. Pirtle
-                        (Louisville)
+                        (Louisville, Kentucky, physician and soldier)
                     </persName>
-                        <event type="birth"  when="1827"  ><ab>1827</ab></event>
+                        <event type="birth"  when="1833-02-15"  ><ab>1833-02-15</ab></event>
+                        <event type="death"  when="1896-02-24"  ><ab>1896-02-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,8 +56,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky. Kentucky Native. Married to Emeline Pirtle. Father of Laura and Alicce Pirtle. Physician. Enlisted at Camp Joseph Holt, September 9th, 1861. Major with the 68th (Unassigned) Kentucky Infantry. Resigned March 10th, 1862 to accept position as surgeon with 8th Kentucky.Resigned due to ill health, December 19th, 1862.</p>
+        <p>Louisville, Kentucky, physician and soldier. Kentucky native. Married to Elmira K. Schwing Pirtle on March 10, 1852. Father of Laura and Alice Pirtle. Physician in Louisville in 1860. Surgeon in the 8th Kentucky Volunteer Infantry Regiment (U.S.A.) until December 19th, 1862.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson, Louisville, Ward 7, p. 131.<lb/>
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, KDLA, Roll #7007129, Louisville Deaths, p. 127.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994040, Jefferson County Marriages, p. 3.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 942.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;John Rowan Pirtle (February 15, 1833-February 24, 1896),&quot; Memorial #69115742, http://www.findagrave.com/memorial/69115742 (accessed April 30, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
