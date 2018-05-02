@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008601">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">O. J. Skinner</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008601">
+                    <persName>
+                      O. J. Skinner
+                        (Whitley Co)
+                    </persName>
+                        <event type="birth"  when="1817-09-03"  ><ab>1817-09-03</ab></event>
+                        <event type="death"  when="1893-02-02"  ><ab>1893-02-02</ab></event>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Whitley County, Kentucky, physician. Washington County, Vermont native. Son of Orson and Dorothea Skinner. Married to Sarah P. Clark on October 5, 1851. Father of Jennie M. Skinner, Julia M. Skinner, Elvira E. Skinner, and Mary E. Skinner. Appointed Postmaster in Russell County, Kentucky in 1848. Lawyer in Russell County, Kentucky in 1850. Lawyer in Whitley County, Kentucky in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Russell County, District One. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Whitley County, District One, p. 107. William G. Cutler, <hi rend="italic">History of the State of Kansas</hi> (Chicago: A.T. Andreas, 1883), http://www.kancoll.org/books/cutler/woodson/woodson-co-p4.html#BIOGRAPHICAL<hi rend="italic">SKETCHES</hi>SKINNER-WILSON (accessed April 26, 2018). Find A Grave, “Dr J. O. W. ‘OJ’ Skinner (1817-1893),” Memorial #22570960, https://www.findagrave.com/memorial/22570960/j.-o._w.-skinner# (accessed April 26, 2018). 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
