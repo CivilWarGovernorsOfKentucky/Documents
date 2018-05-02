@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00008600">
                     <persName>
                       [unknown] [unknown]
-                        ()
+                        (Louisville, Kentucky)
                     </persName>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -48,5 +52,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Signed a petition on behalf of Marshall Woodson in Louisville, Kentucky. </p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0001-020-1575.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
