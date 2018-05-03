@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W W Mosly</title>
+        <title level="a" type="main">William Watson Mosly</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,26 @@
         <particDesc>
                 <person xml:id="N00008604">
                     <persName>
-                      W W Mosly
-                        ()
+                      William Watson Mosly
+                        (Ballard Co. farmer)
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ballard County, Kentucky, farmer. Kentucky native. Married to Matilda Francis Berry Mosly. Father of James T. Mosly, John N. Mosly, Robert D. Mosly, and William Lindsey Mosly. Farmer in Ballard County in 1860. Farmer in Ballard County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Picketts District, p. 48.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, District 8, p. 4.<lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Ballard County, Arlington District 8, p. 2.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
