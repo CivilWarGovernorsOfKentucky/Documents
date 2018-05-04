@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1582"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,38 +70,36 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency the Gov. of Ky your petitioners, Would most respectfuly represent that one Isham Waddle was trid at the present Nov. Term of the Larue Circuit on a charge of Laceny. and was convicted, &amp; sent to the Penetntiry for one year.</p>
+   <p>To his Excellency the <persName ref="cwgk:N00000258">Gov. of Ky</persName> your petitioners, Would most respectfuly represent that one Isham Waddle was trid at the present Nov. Term of the <orgName ref="cwgk:O00000413">Larue Circuit</orgName> on a charge of Laceny. and was convicted, &amp; sent to the Penetntiry for one year.</p>
 <p>Your petitioners would represent that ^he^ is a youth of but Seventeen years, and was turnd out from his home by a drunken father at about the age of twelve years to Seak a living, and a matter of course, has been thrown into bad company often, and being pinched by hunger &amp; want who in an evil hour apperpiated some goods to his own use for which he has been convicted, It is though by many that if he should meete with executive clemancy. there yet may be a chan<hi rend="str"><unclear/></hi>ce of reformation, and he be saved, your petitioners think him <hi rend="str">a fit subject</hi> boy that should demand the interposition of the executive, clemancy and in duty bound they will ever pray &amp;C</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>T. J. Brunk
-<lb/>John C, Nicholas
-<lb/>John, J, Allen
-<lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Smith
-<lb/>W. W. Brownfield
-<lb/>Henry A. Cissell
-<lb/>Geo Brownfield Clk Larue circt ct
-<lb/><cb n="2"/>Robt. D. Murray
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00004502">T. J. Brunk
+</persName><lb/>John C, Nicholas
+<lb/><persName ref="cwgk:N00004501">John. J. Allen
+</persName><lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Smith
+<lb/><persName ref="cwgk:N00003944">W. W. Brownfield
+</persName><lb/><persName ref="cwgk:N00003938">Henry A. Cissell
+</persName><lb/><persName ref="cwgk:N00003942">Geo Brownfield</persName> Clk Larue circt ct<lb/><cb n="2"/>Robt. D. Murray
 <lb/>atty for the Commonwealth pro tem
-<lb/>J G Burba
-<lb/>John W <unclear>Day</unclear>
+<lb/><persName ref="cwgk:N00003949">J G Burba
+</persName><lb/>John W <unclear>Day</unclear>
 <lb/><hi rend="str">G</hi> G B. <unclear/>
-<lb/>Thomas, Goodin
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Allen
-<lb/>Christopher Conner<pb/>
+<lb/><persName ref="cwgk:N00004506">Thomas. Goodin
+</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Allen
+<lb/><persName ref="cwgk:N00003936">Christopher Conner</persName><pb/>
 <lb/><cb n="1"/>W<hi rend="sup">m</hi> H Slaughter
-<lb/>G W Thomas
-<lb/>A. W. Holderman
-<lb/>S. E. Duckworth
-<lb/>W H Hamilton
-<lb/>H. A. Coleman
-<lb/>P, Williamson J L C
-<lb/>W H Waille
-<lb/>C W Mather
-<lb/>Edward Thompson
-<lb/><cb n="2"/>H. S. Johnson
-<lb/>T. M. Murrell,
-<lb/>E Sutton
-<lb/>W, B, Nevitt
-<lb/>I F Cessna<milestone unit="column" n="1"/></p>
+<lb/><persName ref="cwgk:N00004509">G W Thomas
+</persName><lb/><persName ref="cwgk:N00004510">A. W. Holderman
+</persName><lb/><persName ref="cwgk:N00004511">S. E. Duckworth
+</persName><lb/><persName ref="cwgk:N00001720">W H Hamilton
+</persName><lb/><persName ref="cwgk:N00004518">H. A. Coleman
+</persName><lb/><persName ref="cwgk:N00004516">P. Williamson </persName>J L C<lb/>W H Waille
+<lb/><persName ref="cwgk:N00004519">C W Mather
+</persName><lb/><persName ref="cwgk:N00004520">Edward Thompson
+</persName><lb/><cb n="2"/><persName ref="cwgk:N00004512">H. S. Johnson
+</persName><lb/>T. M. Murrell,
+<lb/><persName ref="cwgk:N00004514">E Sutton
+</persName><lb/><persName ref="cwgk:N00004515">W, B, Nevitt
+</persName><lb/>I F Cessna<milestone unit="column" n="1"/></p>
 <p>Larue Cir. Ct</p>
 <p>Issue pardon
 <lb/>B. M. </p>
