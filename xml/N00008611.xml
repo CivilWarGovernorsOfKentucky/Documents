@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00008611">
                     <persName>
                       Thomas Dempsey
-                        ()
+                        (Covington, Kentucky, master tobacconist)
                     </persName>
+                        <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -52,5 +57,9 @@
         <p>Covington, Kentucky, master tobacconist. Kentucky native. Married to Sarah Dempsey. Father of Mary Dempsey, Sarah Dempsey, Belle Dempsey, Thomas Dempsey, Harriet Dempsey, Stephen Dempsey. Master tobacconist in Covington in 1860. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton, Covington, Ward 5, p. 257-258.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
