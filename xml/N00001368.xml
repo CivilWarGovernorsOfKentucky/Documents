@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -46,7 +50,8 @@
                       William D. Blanks
                         (Ballard county farmhand)
                     </persName>
-                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <event type="birth"  when="1824-11-10"  ><ab>1824-11-10</ab></event>
+                        <event type="death"  when="1906-07-14"  ><ab>1906-07-14</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Ballard County, Kentucky, farmhand. Virginia native. Married to Narcissa Blanks. Father of Harriett L. Blanks, James A. Blanks, T. Blanks, and William A. Blanks. Farmhand in Ballard County in 1860. </p>
+        <p>Ballard County, Kentucky, farmhand. Virginia native. Married to Narcissa Horn Blanks. Father of Harriett L. Blanks, James A. Blanks, T. Blanks, and William A. Blanks. Farmhand in Ballard County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Ballard County, Blandville, p. 25. 
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Ballard County, Blandville, p. 25. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;William D. Blanks (1824-1906),&quot; Memorial #80148204, https://www.findagrave.com/memorial/80148204/william-d.-blanks (accessed May 15, 2018).<lb/>
+<hi rend="italic">Tennessee State Marriages, 1780-2002</hi>. Nashville, TN, USA: Tennessee State Library and Archives. Microfilm. Accessed via Ancestry.
 </bibl></ab>
     </back>
 </text>
