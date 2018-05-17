@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,22 @@
                 <person xml:id="N00008622">
                     <persName>
                       James Mcmanis
-                        ()
+                        (Washington County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1808"  cert="medium" ><ab>c1808</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Washington County, Kentucky, resident. Garrard County native. Married to Angeline Keeling Mcmanis in Washington County on December 25, 1853. Resident in Washington County in 1853. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994057, Henderson County Marriages, p. 1.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
