@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,11 @@
                 <person xml:id="N00004443">
                     <persName>
                       William Waller
-                        (stub, union county)
+                        (Union Co. Farmer)
                     </persName>
+                        <event type="birth"  when="1828-02-17"  ><ab>1828-02-17</ab></event>
+                        <event type="death"  when="1912-09-04"  ><ab>1912-09-04</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of John Thompson addressed to Beriah Magoffin from Union County, Kentucky, in 1861.</p>
+        <p>Union County, Kentucky, farmer. Kentucky native. Married to Elizabeth Waller. Father of William M. Waller and Aaron Waller. Owned three enslaved persons in Union County in 1860. Farmer in Union County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1577.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, p. 64.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Union County, p. 16.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>. Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>
