@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,9 @@
                 <person xml:id="N00004456">
                     <persName>
                       John M. Kerney
-                        (stub, union county)
+                        (Union Co. farmer)
                     </persName>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +58,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of John Thompson addressed to Beriah Magoffin from Union County, Kentucky, in 1861.</p>
+        <p>Union County, Kentucky, farmer. Virginia native. Married to Mary Kerney. Father of James Kerney and William Kerney. Farmer in Union County in 1850.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1577.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), [Population/Slave] Schedules, [State], [County], [City/District], p. X
 </bibl></ab>
     </back>
 </text>
