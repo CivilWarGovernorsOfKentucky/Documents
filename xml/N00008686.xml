@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008686">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George D. Ramsay</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brianna Kirk</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008686">
+                    <persName>
+                      George D. Ramsay
+                        (Brig. Genl)
+                    </persName>
+                        <event type="birth"  when="1801"  cert="medium" ><ab>c1801</ab></event>
+                        <event type="death"  when="1882-05-23"  ><ab>1882-05-23</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Brigadier General, Chief of Ordinance in the U.S. Army. Virginia Native. Son of Andrew and Catherine Ramsay. Married to Eliza Ramsay. Father of Frances M. Ramsay, Juliana G. Ramsay, George D. Ramsay, Joseph G. Ramsay, and Catherine G. Ramsay. Graduated from the United States Military Academy in 1820. Fought in the Mexican-American War. Promoted to major of ordnance in April, 1861, lieutenant-colonel in August, 1861, and colonel in 1863. Appointed chief of ordnance in September 1863 with brigadier general rank. Served as brigadier general until 1864. Retired from active service in September 1864. Died May 23, 1882.</p>
+
+    </body>
+</text>
+</TEI>
