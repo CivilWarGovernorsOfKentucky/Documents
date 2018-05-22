@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008687">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert V. Grinter</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brianna Kirk</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008687">
+                    <persName>
+                      Robert V. Grinter
+                        (Captain, 8th KY Cav)
+                    </persName>
+                        <event type="birth"  when="1835-01-06"  ><ab>1835-01-06</ab></event>
+                        <event type="death"  when="1875-05-25"  ><ab>1875-05-25</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Trigg County, Kentucky, resident. Kentucky native. Son of Samuel and Nancy Grinter. Resident of Logan County in 1850. Resident of Trigg County in 1860. Mustered in September 13, 1862 as Supernumerary Lieutenant in Cadiz, KY, for one year with Company L, 8th Kentucky Cavalry. Appointed Supernumerary 2nd Lieutenant by Governor of Kentucky. Promoted to Captain. Mustered out March 31, 1863. Re-enlisted on April 16, 1863, as captain, for one year with Company L, 8th KY Cavalry. Died May 25, 1875.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Logan County, District No. 2, p. 115. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trigg County, p. 112. <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 89. <hi rend="italic">Find A Grave</hi>, &quot;Robert V. Grinter (1835-1875),&quot; Memorial #114348088 http://www.findagrave.com/memorial/114348088 (accessed May 22, 2018]).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
