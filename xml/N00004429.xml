@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">S. H. Neel</title>
+        <title level="a" type="main">Samuel Neel</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,10 @@
         <particDesc>
                 <person xml:id="N00004429">
                     <persName>
-                      S. H. Neel
-                        (Union County, Kentucky, farmer)
+                      Samuel Neel
+                        (Union Co.)
                     </persName>
+                        <event type="birth"  when="1801"  cert="medium" ><ab>c1801</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +58,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of John Thompson addressed to Beriah Magoffin from Union County, Kentucky, in 1861.</p>
+        <p>Union County, resident. Kentucky native. Married to Sarah Neel. Father of Bettie Neel, May C. Neel, James H. Neel.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1577.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population/ Schedules, Kentucky, Union County, p. 55
 </bibl></ab>
     </back>
 </text>
