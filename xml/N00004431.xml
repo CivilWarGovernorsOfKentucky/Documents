@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00004431">
                     <persName>
                       James Wallace
-                        (Union County, Kentucky)
+                        (Union Co. farmer)
                     </persName>
+                        <event type="birth"  when="1801-05-18"  ><ab>1801-05-18</ab></event>
+                        <event type="death"  when="1871-12"  ><ab>1871-12</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of John Thompson addressed to Beriah Magoffin from Union County, Kentucky, in 1861.</p>
+        <p>Union County, Kentucky, farmer. Kentucky native. Married to Mary S. Wallace. Father of Benjamin F. Wallace, Hiram J. Wallace, William C. Wallace, and George M. Wallace. Farmer in Union County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1577.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, [City/District], p. 173.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;James Wallace (1801-1871),&quot; Memorial #37052074, https://www.findagrave.com/memorial/37052074 (accessed May 22, 2018).
 </bibl></ab>
     </back>
 </text>
