@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C. G. Mattingly</title>
+        <title level="a" type="main">Charles Gibson Mattingly</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00004425">
                     <persName>
-                      C. G. Mattingly
-                        (Union County, Kentucky)
+                      Charles Gibson Mattingly
+                        (Union Co. farmer)
                     </persName>
+                        <event type="birth"  when="1843"  cert="medium" ><ab>c1843</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of John Thompson addressed to Beriah Magoffin from Union County, Kentucky, in 1861.</p>
+        <p>Union County, Kentucky, farmer. Kentucky native. Son of Sarah Mattingly. Married to Mary Malvina Teer Mattingly in 1862. Father of John R. Mattingly and Robert H. Mattingly.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1577.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, p. 127.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Union County, Morganfield, p. 8.<lb/>
+<hi rend="italic">Marriage Records. Kentucky Marriages</hi>. Madison County Courthouse, Richmond, Kentucky. Access via Ancestry.
 </bibl></ab>
     </back>
 </text>
