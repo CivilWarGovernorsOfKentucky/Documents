@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Joseph Prewitte</title>
+        <title level="a" type="main">Joseph Prewitt</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,23 @@
         <particDesc>
                 <person xml:id="N00008665">
                     <persName>
-                      Joseph Prewitte
-                        ()
+                      Joseph Prewitt
+                        (Boyle County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1832"  cert="medium" ><ab>c1832</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Boyle County, Kentucky, farmer. Kentucky native. Son of Sidney S. Prewitt and Elizabeth Prewitt. Farmer in Boyle County in 1850. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Boyle County, District 1, p. 340A.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
