@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,24 @@
                 <person xml:id="N00008663">
                     <persName>
                       David Wilkerson
-                        ()
+                        (Boyle County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1801"  ><ab>1801</ab></event>
+                        <event type="death"  when="1869-06"  ><ab>1869-06</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Boyle County, Kentucky, farmer. Maryland native. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Federal Mortality Census Schedules, 1850-1880, and Related Indexes, 1850-1880</hi>, NARA Microfilm Publication, T655, Roll 15, p. 91 (accessed via Ancestry.com).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
