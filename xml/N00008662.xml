@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,24 @@
                 <person xml:id="N00008662">
                     <persName>
                       Joseph Rainey
-                        ()
+                        (Boyle County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Boyle County, Kentucky, farmer. Mercer County, Kentucky, native. Married to Martha A. Sweeney Rainey in Boyle County on July 22, 1855. Father of Matilda Rainey and John Thomas Rainey. Farmer in Boyle County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boyle County, p. 132.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994028, Boyle County Marriages, p. unknown.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
