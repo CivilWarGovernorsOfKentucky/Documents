@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,25 @@
                 <person xml:id="N00008658">
                     <persName>
                       Jacob Carpenter
-                        ()
+                        (Boyle County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1807-08-05"  ><ab>1807-08-05</ab></event>
+                        <event type="death"  when="1868-05-14"  ><ab>1868-05-14</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Boyle County, Kentucky, farmer. Virginia native. Married to Nancy Carpenter. Father of Geneva Carpenter, Martha Carpenter, Will C. Carpenter, Nannie Carpenter, James B. Carpenter, and George H. Carpenter. Farmer in Boyle County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boyle County, p. 90.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Jacob B. Carpenter (August 5, 1807-May 14, 1868),&quot; Memorial #47468677, http://www.findagrave.com/memorial/47468677 (accessed May 25, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
