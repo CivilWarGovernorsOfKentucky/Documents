@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,24 @@
                 <person xml:id="N00008667">
                     <persName>
                       Stephen Semonis
-                        ()
+                        (Mercer County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Mercer County, Kentucky, farmer. Kentucky native. Married to Emeline Semonis. Father of Atta B. Semonis, Charles S. Semonis, George Semonis, John H. Semonis, Martha E. Semonis, Sanford Semonis, and Fannie Semonis. Farmer in Mercer County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, District 2, p. 52-53.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mercer County, Precinct 2, p. 2.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
