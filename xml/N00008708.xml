@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,20 @@
                       William W Morse
                         (Caldwell County)
                     </persName>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Caldwell County, Kentucky, constable. Kentucky native. Married to Matilda Grubbs. Father of James Morse, Mary Morse, Susan Morse, Wiley Morse, Sarah Morse, Melzer Morse, Harrison Morse, and George Morse. Resident in Caldwell County in 1850. Constable in Caldwell County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District One. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Princeton Division, p. 38-39.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
