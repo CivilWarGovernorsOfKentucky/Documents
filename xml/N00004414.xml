@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -48,6 +52,7 @@
                     </persName>
                         <event type="birth"  when="1829-01-01"  ><ab>1829-01-01</ab></event>
                         <event type="death"  when="1908-09-11"  ><ab>1908-09-11</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -55,11 +60,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Union County, Kentucky, farmer. Kentucky native. Married to Ann E. McMurray. Father of Isabella McMurray, Berry McMurray, and George Dean McMurray. Farmer in Union County in 1860. </p>
+        <p>Union County, Kentucky, farmer. Kentucky native. Married to Ann E. McMurray. Father of Isabella McMurray, Berry McMurray, and George Dean McMurray. Farmer in Union County in 1860. Owned five enslaved persons in 1860.</p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, p. 82.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Union County, p. 22.<lb/>
 <hi rend="italic">Find A Grave</hi>, &quot;Thomas McMurray (January 1, 1829-September 11, 1908),&quot; Memorial #59508954, http://www.findagrave.com/memorial/59508954 (accessed May 10, 2018).
 </bibl></ab>
     </back>
