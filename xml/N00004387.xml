@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -47,6 +51,7 @@
                         (Union County, Kentucky, farmer)
                     </persName>
                         <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Union County, Kentucky, farmer. Union County native. Married to Sarah E. Hooper Mitchell in Union County on May 19, 1854. Father of Douglass Mitchell, Oscar Mitchell, Houston Mitchell, and Alice Mitchell. Farmer in Union County in 1850. </p>
+        <p>Union County, Kentucky, farmer. Union County native. Married to Sarah E. Hooper Mitchell in Union County on May 19, 1854. Father of Douglass Mitchell, Oscar Mitchell, Houston Mitchell, and Alice Mitchell. Farmer in Union County in 1860. Owned two enslaved persons in Union County in 1860.</p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Union, District 1.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union, p. 135.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Union, p. 135.<lb/>
 <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Union, Shilo, p. 18.<lb/>
 <hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994056, Union County Marriages, p. unknown.
 </bibl></ab>

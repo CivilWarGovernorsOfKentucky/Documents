@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1577"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,33 +71,34 @@
  <text>
   <body>
    <p>To His excelleny
-<lb/>The Governor of Ky</p>
-<p>Your Petitioner John Thompson states that on the day of <date when="1861-08">August 1861</date>. He was tried before James Wickett Esqr a Justice of the peace in &amp; for Union County for a brach of the Peace Committed at the <date when="1861-08">August Election for 1861.</date> at Wa<unclear/> precinct in said County of Union and was fined Eighteen Dollars</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor of Ky</persName></p>
+<p>Your Petitioner<persName ref="cwgk:N00004370"> John Thompson</persName> states that on the day of <date when="1861-08">August 1861</date>. He was tried before <persName ref="cwgk:N00004375">James Wickett </persName>Esqr a Justice of the peace in &amp; for <placeName ref="cwgk:P00001845">Union County</placeName> for a brach of the Peace Committed at the <date when="1861-08">August Election for 1861.</date> at Wa<unclear/> precinct in said County of Union and was fined Eighteen Dollars</p>
 <p>He says the difficulty, took place late in the evening of the election day, after most of the Crowd had got pretty merry, over the result of the election, and your Petitioner being a Southern Rights man, was insulted by some of the Crowd happen to stri<hi rend="str">ck</hi>ke one of them and &amp; for that was fined -- </p>
-<p>He will state that he is an old man the lawful father of twenty four children from three wives, thirteen of whom are living and two of them in the Southern army, That he is poor having only a small farm to support his wife &amp; younger children He therefore asks your Excellency to remit said fine &amp; promises to be herafter as he was before<pb/>
+<p>He will state that he is an old man the lawful father of twenty four children from three wives, thirteen of whom are living and two of them in the <orgName ref="cwgk:O00000506">Southern army</orgName>, That he is poor having only a small farm to support his wife &amp; younger children He therefore asks your Excellency to remit said fine &amp; promises to be herafter as he was before<pb/>
 <lb/>except this one occasion, a peaceable, &amp; good citizen</p>
 <p>John ^his X mark^ Thompson</p>
 <p>The undersigned citizn of Union County ask the Governor to Release Mr Thompson from the foregoing fine, and though small to him it would be hard to pay</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>I know Mr, Thompson has had more children than any man in the Country &amp; is a good citizen W G Hughes
-<lb/><unclear>H F</unclear> <unclear/>
+<p><milestone unit="column" n="2"/><cb n="1"/>I know Mr, Thompson has had more children than any man in the Country &amp; is a good citizen <persName ref="cwgk:N00003272">W G Hughes
+</persName><lb/><unclear>H F</unclear> <unclear/>
 <lb/><cb n="2"/><hi rend="underline">Willis G Hughes</hi>
 <lb/>Ben. P, Cissell
-<lb/>E. S. Cowgill
-<lb/>W, T. Teer
-<lb/>S. P. Hardy
-<lb/>James Alvy
-<lb/>G. P. Riggs
-<lb/>Geo,, W,, Sellers
-<lb/>Fer Becker<milestone unit="column" n="1"/></p>
+<lb/><persName ref="cwgk:N00004372">E. S. Cowgill
+</persName><lb/><persName ref="cwgk:N00004374">W, T. Teer
+</persName><lb/><persName ref="cwgk:N00004376">S. P. Hardy
+</persName><lb/>James Alvy
+<lb/><persName ref="cwgk:N00004378">G. P. Riggs
+</persName><lb/><persName ref="cwgk:N00008619">Geo,, W,, Sellers
+</persName><lb/><persName ref="cwgk:N00004379">Fer Becker</persName><milestone unit="column" n="1"/></p>
 <p>Dear Sir</p>
 <p>This case is precisely similar with one you pardoned for me last session of the Legislature. I have no hesitation in saying it is a case that calls for executive clemency I am not <unclear/> for petitioner</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Wm H Berry
-<lb/>Simon Goff
-<lb/>J W C Houston
-<lb/>Sam B Houston
-<lb/>Richard Blandfort
-<lb/><unclear>William</unclear> G<unclear/>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00004380">Wm H Berry
+</persName><lb/><persName ref="cwgk:N00004381">Simon Goff
+</persName><lb/>J W C Houston
+<lb/><persName ref="cwgk:N00004385">Sam B Houston
+</persName><lb/><persName ref="cwgk:N00004383">Richard Blandfort
+</persName><lb/><unclear>William</unclear> G<unclear/>
 <lb/><cb n="2"/>Ben P Cissell
+<<<<<<< HEAD
 <lb/>S. G. Hughes
 <lb/>L S Mitchell
 <lb/>Joseph French
@@ -101,69 +110,82 @@
 <lb/>J C Compton
 <lb/>J B Buckman
 <lb/>James Burris
+=======
+<lb/><persName ref="cwgk:N00004386">S. G. Hughes
+</persName><lb/><persName ref="cwgk:N00004387">L S Mitchell
+</persName><lb/><persName ref="cwgk:N00004388">Joseph French
+</persName><lb/><persName ref="cwgk:N00004389">Geo W Riddle
+</persName><lb/><persName ref="cwgk:N00004390">George payne
+</persName><lb/><persName ref="cwgk:N00004395">Louis [Fiettinge]</persName>ie<unclear/>nger<pb/>
+<lb/><cb n="1"/>nick <unclear>Gregg</unclear>
+<lb/><persName ref="cwgk:N00004397">Clement M Buckman
+</persName><lb/>J C Compton
+<lb/><persName ref="cwgk:N00004399">J B Buckman
+</persName><lb/>James Burris
+>>>>>>> origin/master
 <lb/>John. B Raley
 <lb/>M R Waller
-<lb/>Thomas Hammack
-<lb/>John R Taylor
-<lb/>J, B, Drury
-<lb/>S, B, Hughes
-<lb/>C, N, Buckman
-<lb/>Joseph, O, Brown
+<lb/><persName ref="cwgk:N00004403">Thomas Hammack
+</persName><lb/><persName ref="cwgk:N00004404">John R Taylor
+</persName><lb/>J, B, Drury
+<lb/><persName ref="cwgk:N00004406">S. B. Hughes
+</persName><lb/><persName ref="cwgk:N00004407">C, N, Buckman
+</persName><lb/>Joseph, O, Brown
 <lb/>Hiram M<hi rend="sup">c</hi>Elroy
-<lb/>Th. C. Buckman
-<lb/>R: Davidson
-<lb/>W T Drury
+<lb/><persName ref="cwgk:N00004411">Th. C. Buckman
+</persName><lb/><persName ref="cwgk:N00004412">R: Davidson
+</persName><lb/>W T Drury
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Duval
 <lb/>Ja<hi rend="sup">s</hi> D Benson
-<lb/>C G mattingly
-<lb/>Samuel Burch
-<lb/>Leo French
-<lb/>S D. Delany
-<lb/>G T Waller
-<lb/>S H Neel
-<lb/>James Wallace
-<lb/>W A, Kerney
+<lb/><persName ref="cwgk:N00004425">C G mattingly
+</persName><lb/>Samuel Burch
+<lb/><persName ref="cwgk:N00004427">Leo French
+</persName><lb/>S D. Delany
+<lb/><persName ref="cwgk:N00004430">G T Waller
+</persName><lb/>S H Neel
+<lb/><persName ref="cwgk:N00004431">James Wallace
+</persName><lb/>W A, Kerney
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. P. Riggs
-<lb/>Chas Barnett
-<lb/>A S Churchill
-<lb/>Thomas Wight
-<lb/>Sam<hi rend="sup">l</hi> R Springer
+<lb/><persName ref="cwgk:N00004444">Chas Barnett
+</persName><lb/><persName ref="cwgk:N00004445">A S Churchill
+</persName><lb/><persName ref="cwgk:N00004446">Thomas Wight
+</persName><lb/>Sam<hi rend="sup">l</hi> R Springer
 <lb/><cb n="2"/>Thomas M<hi rend="sup">c</hi>Murray
 <lb/>Harvy Dyer
 <lb/>Ch: F. Scha<unclear/>
 <lb/>W<hi rend="sup">m</hi> David
 <lb/>F, Allisen
-<lb/>Lyle Waller
-<lb/>T W Campbell
-<lb/>Sam<hi rend="sup">l</hi> P, Spalding
+<lb/><persName ref="cwgk:N00004419">Lyle Waller
+</persName><lb/><persName ref="cwgk:N00004420">T W Campbell
+</persName><lb/>Sam<hi rend="sup">l</hi> P, Spalding
 <lb/>wm H. <unclear>Kibbe</unclear>
 <lb/>I W <unclear>hues</unclear>
 <lb/>Richard hardester
 <lb/>Alfred Cullen
 <lb/>Gabriel W Abell
 <lb/>G. Fahrni
-<lb/>G<unclear/> Taylor
-<lb/>Minor I Griggs
-<lb/>Roland Griggs
-<lb/>Richard Burnes
-<lb/>Philip Briscoe
-<lb/>Wm Waller
-<lb/>Joh Alvy
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> H Barker
-<lb/>Fred Johnson
-<lb/>N P, Green
+<lb/>G<unclear/> <persName ref="cwgk:N00004369">Taylor
+</persName><lb/>Minor I Griggs
+<lb/><persName ref="cwgk:N00004440">Roland Griggs
+</persName><lb/><persName ref="cwgk:N00004441">Richard Burnes
+</persName><lb/><persName ref="cwgk:N00004442">Philip Briscoe
+</persName><lb/><persName ref="cwgk:N00004443">Wm Waller
+</persName><lb/><persName ref="cwgk:N00004448">Joh Alvy
+</persName><lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> H Barker
+<lb/><persName ref="cwgk:N00004450">Fred Johnson
+</persName><lb/>N P, Green
 <lb/>W B Pentecost
-<lb/>J R Dodge
-<lb/>Solimon K Neel
+<lb/><persName ref="cwgk:N00004454">J R Dodge
+</persName><lb/>Solimon K Neel
 <lb/>William Mattin^G^ly
-<lb/>John M Kerney
-<lb/>A, Hanger
-<lb/>B F Delaney
-<lb/>Robert Spalding<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00004456">John M Kerney
+</persName><lb/><persName ref="cwgk:N00004457">A, Hanger
+</persName><lb/><persName ref="cwgk:N00003605">B F Delaney
+</persName><lb/><persName ref="cwgk:N00004459">Robert Spalding</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Union J P</p>
 <p>Remitted
 <lb/>B. M</p>
-<p>&#36;8 &#125; Breach
+<p>$8 } Breach
 <lb/>John Thompson
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-12-18">Dec<hi rend="sup">r</hi> 18. 1861</date></p>
   </body>
