@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,23 @@
                 <person xml:id="N00008701">
                     <persName>
                       Solomon Meredith
-                        ()
+                        (Wayne County, Indiana)
                     </persName>
+                        <event type="birth"  when="1810-05-10"  ><ab>1810-05-10</ab></event>
+                        <event type="death"  when="1875-10-02"  ><ab>1875-10-02</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Guilford County, North Carolina native.</p>
+
+    </body>
+    <back>
+        <ab><bibl>: Andrew White Young, <hi rend="italic">History of Wayne County, Indiana, from its First Settlement to the Present Time: with Numerous Biographical and Family Sketches</hi> (Cincinnati: Robert Clarke &amp; Co., 1872), 270-271. <hi rend="italic">Find A Grave</hi>, “Solomon Meredith (1810-1875),” Memorial  #5844298, https://www.findagrave.com/memorial/5844298/solomon-meredith# (accessed May 26, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
