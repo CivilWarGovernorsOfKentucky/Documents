@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Eleazer A. Paine
                         (Warren County, Illinois)
                     </persName>
+                        <event type="birth"  when="1815-09-10"  ><ab>1815-09-10</ab></event>
+                        <event type="death"  when="1882-12-16"  ><ab>1882-12-16</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,8 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Married to Elizabeth Paine. Father of Phelps Paine.</p>
+        <p>Monmouth, Warren County, Illinois, lawyer and soldier. Parkman, Geauga County, Ohio native. Son of Hendrick E. Paine and Harriet Ellsworth. Graduated from the U.S. Military Academy in 1839. Married to Charlotte Chapin on May 24, 1843. Father of Phelps Paine, Harriet Paine, Maria C. Paine, and Lydia Paine. Served as a Second Lieutenant on General Zachary Taylor’s staff during the Second Seminole War, from 1839 to 1840. Resigned his commission in the U.S. Army on October 11, 1840. Deputy U.S. Marshall for Ohio, from 1842 to 1845. Served as Lieutenant Colonel of the Ohio militia, from 1842 to 1845, and then promoted to Brigadier General, from 1845 to 1848. Practiced law in Painesville, Ohio, from 1843 to 1848. Practiced law in Monmouth, from 1848 to 1861. Lawyer in Warren County in 1850. Lawyer in Monmouth in 1860. Commissioned Colonel of the 9th Illinois Volunteer Regiment (U.S.A.) on July 3, 1861. Promoted to Brigadier General on September 3, 1861. Resigned commission on April 5, 1865.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Illinois, Warren County. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, Warren County, Monmouth, p. 172. Rossiter Johnson and John Howard Brown, <hi rend="italic">The Twentieth Century Biographical Dictionary of Notable Americans</hi> Volume 8 (Boston: The Biographical Society, 1904), p. 171 James Grant Wilson and John Fiske, <hi rend="italic">Appletons’ Cyclopaedia of American Biography</hi> Volume 4 (New York: D. Appleton and Company, 1898), p. 627-628.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
