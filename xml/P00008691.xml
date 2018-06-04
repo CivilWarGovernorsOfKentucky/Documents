@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00008691">
                     <placeName>
                         <location>
+                              <geo>37.8092 -85.4669</geo>
                             <settlement>Bloomfield, Kentucky</settlement>
                         </location>
                     </placeName>
@@ -48,5 +53,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>City in Nelson County, Kentucky. </p>
+
+    </body>
+    <back>
+        <ab><bibl>City of Boomfield, <hi rend="italic">Bloomfield Kentucky</hi>, http://www.bloomfieldky.com/bloomfieldofficials.shtml.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
