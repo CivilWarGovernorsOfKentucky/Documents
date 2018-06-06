@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00008733">
                     <placeName>
                         <location>
+                              <geo>37.53 -84.6615</geo>
                             <settlement>Stanford, Kentucky</settlement>
                         </location>
                     </placeName>
@@ -48,5 +53,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Seat of Lincoln County, Kentucky.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Allan R. Leach, &quot;Stanford&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 846. Robert M. Rennick, <hi rend="italic">Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 1984), 281.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
