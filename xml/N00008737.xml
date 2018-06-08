@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">William M. Ends</title>
+        <title level="a" type="main">William M. Ends Sr.</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,23 @@
         <particDesc>
                 <person xml:id="N00008737">
                     <persName>
-                      William M. Ends
+                      William M. Ends Sr.
                         (Lincoln County)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Stanford, Kentucky, farmer and soldier. Pittsylvania County, Virginia native. Married to Lucy Ann Bolwin. Father of Sarah A. Ends, Martha Ends, Lucia A. Ends, Eliza C. Ends, William M. Ends, Mary F. Ends, Margaret E. Ends, Nancy P. Ends, Hiram T. Ends, and Harrison Ends. Farmer in Garrard County, Kentucky in 1850. Resident in Lincoln County, Kentucky in 1860. Enlisted as private in the 4th Kentucky Volunteer Mounted Infantry Regiment (U.S.A.) on November 4, 1864 in Lancaster, Kentucky. Mustered out of service in August 17, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Garrard County, Division 1. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lincoln County, p. 81. <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0181.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
