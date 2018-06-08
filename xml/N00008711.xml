@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. J. Harrison</title>
+        <title level="a" type="main">John J. Harrison</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,23 @@
         <particDesc>
                 <person xml:id="N00008711">
                     <persName>
-                      J. J. Harrison
-                        (Ohio County)
+                      John J. Harrison
+                        (Ohio County, lawyer)
                     </persName>
+                        <event type="birth"  when="1809"  cert="medium" ><ab>c1809</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ohio County, Kentucky, lawyer. Virginia native. Married to Sarah Harrison. Father of John Harrison, Thomas Harrison, James Harrison, Mary Harrison, Harriet Harrison, and Lycurgus Harrison. Married to Judah Ann Petty on January 11, 1853. Lawyer in Ohio County in 1850. Owned one enslaved person in 1850. Delegate to Ohio County Democratic Party Convention in Hartford on December 6, 1858.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ohio County, District 1. <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Ohio County, District 1. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ohio County, Hartford, 13. “Democratic Meeting in Ohio,” <hi rend="italic">The Louisville Daily Courier</hi>, December 11, 1858.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
