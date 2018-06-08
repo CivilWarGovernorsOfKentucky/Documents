@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,6 +43,8 @@
             <particDesc>
                 <org xml:id="O00008741">
                     <orgName>Hall&#39;s Gap Battalion</orgName>
+                        <event type="begun"  when="1865-03"  ><ab>1865-03</ab></event>
+                        <event type="ended"  when="1865-07-27"  ><ab>1865-07-27</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
