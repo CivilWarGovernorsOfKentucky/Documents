@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -44,14 +48,19 @@
                     </persName>
                         <event type="birth"  when="1810-11-30"  ><ab>1810-11-30</ab></event>
                         <event type="death"  when="1876-01-11"  ><ab>1876-01-11</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Fulton County, Kentucky, Episcopal minister. Chester, Delaware County, Pennsylvania native. Married to Mary F. Miller on July 31, 1838. Father of Mary L. Cowgill, John W. Cowgill, Anna L. Cowgill, Martha E. Cowgill, Louisa M. Cowgill, Nannie F. Cowgill, and Warwick M. Cowgill. P.E.C. minister in Fulton County in 1850. Owned eleven enslaved persons in 1850. Episcopal minister in Fulton County in 1860. Owned twenty-five enslaved persons in 1860.</p>
+
+    </body>
     <back>
-        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;Rev Nathaniel Newlin Cowgill (1810-1876),&quot; Memorial #130602262, https://www.findagrave.com/memorial/130602262# (accessed June 8, 2018).
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fulton County. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fulton County, p. 65. <hi rend="italic">Find A Grave</hi>, &quot;Rev Nathaniel Newlin Cowgill (1810-1876),&quot; Memorial #130602262, https://www.findagrave.com/memorial/130602262# (accessed June 8, 2018).
 </bibl></ab>
     </back>
 </text>
