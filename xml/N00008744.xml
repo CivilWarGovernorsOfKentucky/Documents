@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,23 @@
                 <person xml:id="N00008744">
                     <persName>
                       George O. Hart
-                        (Steamboat Master)
+                        (New Albany, Indiana Steamboat Captain)
                     </persName>
+                        <event type="birth"  when="1834-08-07"  ><ab>1834-08-07</ab></event>
+                        <event type="death"  when="1906-09-19"  ><ab>1906-09-19</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>New Albany, Indiana, druggist, steamboat captain, and merchant. Girard, Pennsylvania native. Son of Edson Hart and Hellen Hart. Married to Addie H. Stout on March 13, 1855. Father of George B. Hart, Addie Hart, Annie Hart, Lenah Hart, Archer H. Hart, Mary D. Hart, and Edson Hart. Clerk in New Albany in 1850. Druggist in New Albany in 1860. Captain of the Steamer St. Patrick from 1864-1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Floyd County, New Albany. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Floyd County, New Albany Ward 1, p. 128. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), [Population/Slave] Schedules, Kentucky, McCracken County, Paducah Subdivision 112, p. 37. <hi rend="italic">Find A Grave</hi>, &quot;Capt George O Hart (1834-1906),&quot; Memorial #84128963, https://www.findagrave.com/memorial/84128963# (accessed June 8, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
