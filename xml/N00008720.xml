@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,23 @@
                 <person xml:id="N00008720">
                     <persName>
                       John S. McKenney
-                        ()
+                        (Pendleton County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Pendleton County, Kentucky, farmer. Kentucky native. Married to Drucilla Berry McKenney in Harrison County on August 27, 1832. Father of William McKenney, Nancy McKenney, Mary McKenney, George McKenney, Cordelia McKenney, Francis McKenney, and Drucilla McKenney. Farmer in Pendleton County in 1850. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Pendleton County, District 1, p. 366A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Harrison County Marriages, film #000216884.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
