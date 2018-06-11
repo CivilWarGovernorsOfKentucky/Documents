@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">E. N. Gifford</title>
+        <title level="a" type="main">Elisha N. Gifford</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,24 @@
         <particDesc>
                 <person xml:id="N00008721">
                     <persName>
-                      E. N. Gifford
-                        ()
+                      Elisha N. Gifford
+                        (Pendleton County, Kentucky, farm worker)
                     </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Pendleton County, Kentucky, farm worker. Pendleton County native. Married to Mary A. Henton Gifford in Pendleton County on October 27, 1852. Father of Henry B. Gifford and William A. Gifford. Farm worker in Pendleton County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pendleton County, p. 247.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994052, Pendleton County Marriages.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
