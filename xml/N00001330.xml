@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">E. W. Gerrell</title>
+        <title level="a" type="main">Edward W. Gerrell</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Courtney Buchkoski</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -43,11 +47,10 @@
         <particDesc>
                 <person xml:id="N00001330">
                     <persName>
-                      E. W. Gerrell
-                        (Probably Ballard County)
+                      Edward W. Gerrell
+                        (Ballard Co. farmer)
                     </persName>
-                        <event type="birth"  when="1825-06-12"  ><ab>1825-06-12</ab></event>
-                        <event type="death"  when="1880-08-31"  ><ab>1880-08-31</ab></event>
+                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition for Lewis S. Lee stemming from a Franklin Circuit Court case.</p>
+        <p>Ballard County, Kentucky, farmer. Virginia native. Married to Martha F. Garrett Gerrell.  Father of Ada Gerrell, Walter Gerrell, and Anna Gerrell.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;E. W. Gerrell (1825-1880),&quot; Memorial #144978177, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=144978177 (accessed September 18, 2017). <hi rend="italic">Ballard County Cemeteries</hi>, vol. 3 (Wickliffe, Ky.: Ballard-Carlisle Historical &amp; Genealogical Society, 1991), 6.
+        <ab><bibl><hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Ballard County, Lovelaceville District 2, p. 22.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>. Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>
