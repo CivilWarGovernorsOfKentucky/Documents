@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,23 @@
                 <person xml:id="N00008762">
                     <persName>
                       James Price
-                        ()
+                        (Grant County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Grant County, Kentucky, farmer. Kentucky native. Married to America Zinn Price in Grant County on October 1, 1846. Father of Agnes R. Price, Commodore P. Price, Newton T. Price, Susan E. Price, and Clara F. Price. Farmer in Grant County in 1860. Farmer in Grant County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grant County, p. 118.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Grant County Marriages, Film #001490815. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
