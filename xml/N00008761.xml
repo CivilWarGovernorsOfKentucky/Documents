@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00008761">
                     <persName>
                       Henry Bartling
-                        (Major)
+                        (Pennsylvania, soldier )
                     </persName>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <event type="death"  when="1889-11-27"  ><ab>1889-11-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Pennsylvania, soldier. Pennsylvania native. Married to Emma Cornelia Vieregg on April 13, 1848. Father of William H. Bartling, Addie Ella Bartling, Grace Bartling, Jane Bartling, and Emma Bartling. Grocer in Philadelphia, Pennsylvania in 1850. Livery Keeper in Reading, Pennsylvania in 1860. Commissioned 1st Lieutenant in the 2nd Illinois Volunteer Cavalry Regiment (U.S.A.) on August 24, 1861. Promoted to Captain on January 30, 1863. Mustered out on April 11, 1863. Appointed Major on the 8th U.S. Colored Heavy Artillery on May 25, 1864, and mustered in on June 22, 1864 at Paducah, Kentucky. Appointed Provost Marshal for the District of Western Kentucky at Paducah on July 20, 1864 under the command of Brigadier General Eleazer A. Paine. Arrested on September 30, 1864 in connection with Paine’s corrupt command at Paducah, charged with illegally appropriating money from citizens in his position as Provost Marshal for his own private use.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Pennsylvania, Philadelphia County, Walnut Ward Philadelphia. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Pennsylvania, Berks County, Northwest Ward Reading, p. 385. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kansas, Shawnee County, Ward 1 Topeka, p. 48. <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Illinois</hi>, NARA RG 94, Microfilm Series M539, Roll 0005. <hi rend="italic">Compiled Military Service Records of Volunteer Union Soldiers Who Served with the United States Colored Troops: Artillery Organizations</hi>, NARA RG 94, Microfilm Series M1818, Roll 0134.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
