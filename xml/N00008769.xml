@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. J. Bromback</title>
+        <title level="a" type="main">John J. Bromback</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,26 @@
         <particDesc>
                 <person xml:id="N00008769">
                     <persName>
-                      J. J. Bromback
-                        ()
+                      John J. Bromback
+                        (Verona, Kentucky, carpenter)
                     </persName>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Verona, Kentucky, farm manager. Kentucky native. Son of George W. Bromback and Elizabeth Bromback. Married to Martha Green Bromback in Boone County, Kentucky, on November 11, 1855. Father of Frances E. Bromback and James A. Bromback. Farm manager in Verona in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Boone County, District 2, p. 187B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boone County, Verona, p. 224.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Pendleton County Marriages, Film #000216817.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
