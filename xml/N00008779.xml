@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. Clemens</title>
+        <title level="a" type="main">John Clemens</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,7 +43,7 @@
         <particDesc>
                 <person xml:id="N00008779">
                     <persName>
-                      J. Clemens
+                      John Clemens
                         (steamboat clerk)
                     </persName>
                       <trait type="gender" subtype="M"/>
@@ -48,5 +52,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Clerk on the Steamer St. Patrick on the Louisville, Cairo, and Memphis U.S. mail line, in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl>“Boats Leaving To-day,” <hi rend="italic">Evansville Daily Journal</hi>, November 14, 1865.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
