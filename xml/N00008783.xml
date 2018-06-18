@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,26 @@
                       Franklin Metcalfe
                         (Bracken County)
                     </persName>
+                        <event type="birth"  when="1805-07"  cert="medium" ><ab>c1805-07</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Bracken County, Kentucky, shoemaker. Kentucky native. Married to Emily Hathaway on November 27, 1831. Father of Sallie Metcalfe, William Metcalfe, Maria Metcalfe, Daniel C. Metcalfe, Henry Metcalfe, Ely P. Metcalfe, Elizabeth Metcalfe, Salina Metcalfe, Emily Metcalfe, Benjamin Metcalfe, Mary C. Metcalfe. Justice of the Peace in Bracken County. Shoemaker in Bracken County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bracken County, p. 943. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, Eastern District, p. 38. 
+
+<hi rend="italic">Kentucky, County Marriage Records, 1783-1965</hi>, TH-1-9981-4774-18, Bracken County, November 27, 1831 (accessed via Ancestry.com).
+
+Taliaferro P. Shaffner, ed., <hi rend="italic">The Kentucky State Register, for the Year 1847</hi> (Louisville, KY: Morton &amp; Griswold), 52. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
