@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,20 @@
                       George W. Hamilton
                         (Bracken County attorney)
                     </persName>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Bracken County, Kentucky, attorney. Kentucky native. Attorney in Bracken County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, Eastern District, [State], [County], [City/District], p. 130.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
