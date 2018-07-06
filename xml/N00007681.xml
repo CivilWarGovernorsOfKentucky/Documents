@@ -44,8 +44,11 @@
                 <person xml:id="N00007681">
                     <persName>
                       Ed Yates
-                        (stub, Taylor co.)
+                        (Taylor County Farmer)
                     </persName>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
+                        <event type="death"  when="unknown "  ><ab>unknown </ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -56,5 +59,9 @@
         <p>Taylor County, Kentucky, farmer. Kentucky native. Married to Eliza A. Yates. Father of Mary F. Yates, Maria Yates, James W. Yates, Lord Yates, F. M. Yates, G.W. Yates, Susan E. Yates, Sebastian Yates, Robert Yates. Farmer in Taylor County in 1860. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Taylor County, District 1, p. 99.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
