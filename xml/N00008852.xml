@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Wm [Crouch]</title>
+        <title level="a" type="main">William Crouch</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,26 @@
         <particDesc>
                 <person xml:id="N00008852">
                     <persName>
-                      Wm [Crouch]
-                        ()
+                      William Crouch
+                        (Mercer County, Kentucky, farm hand)
                     </persName>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Mercer County, Kentucky, farm hand. Kentucky native. Son of Absalom Crouch and Louisiana Crouch. Married to Tabitha Gibson Crouch in Mercer County on May 1, 1860. Farm hand in Mercer County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Garrard County, Division 1, p. 240A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, p. 70.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mercer County Marriages, Film #000191864.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
