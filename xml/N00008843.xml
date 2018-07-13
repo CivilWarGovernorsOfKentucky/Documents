@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. T. Poynter</title>
+        <title level="a" type="main">Wiley T. Poynter</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
@@ -43,14 +43,20 @@
         <particDesc>
                 <person xml:id="N00008843">
                     <persName>
-                      W. T. Poynter
+                      Wiley T. Poynter
                         (Woodford County)
                     </persName>
+                        <event type="birth"  when="1838-08-14"  ><ab>1838-08-14</ab></event>
+                        <event type="death"  when="1896-07-30"  ><ab>1896-07-30</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 926. <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 295. <hi rend="italic">Find A Grave</hi>, &quot;Dr Wiley Taul Poynter (1838-1896),&quot; Memorial #100783027, https://www.findagrave.com/memorial/100783027# (accessed on July 13, 2018). 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
