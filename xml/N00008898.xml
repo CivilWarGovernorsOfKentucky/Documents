@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008898">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James R. Noble</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brianna Kirk</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008898">
+                    <persName>
+                      James R. Noble
+                        (captain, 28th KY Vol. Inf.)
+                    </persName>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, coach builder. Philadelphia, Pennsylvania native. Son of William and Letty Noble. Married to Sarah (Sallie) Noble on July 28, 1862. Father of Josie B. Noble, William S, Noble, James R. Noble, Gordon G. Noble, and Sandus P. Noble. Farmer in Breathitt County in 1850. Coach builder in Jefferson County in 1860. Captain of the 28th Kentucky Volunteer Infantry Regiment (U.S.A.) from 1862 to 1864. Resigned on February 4, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breathitt County, District No. 1, p. 31. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, p. 45. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Boyle County, Danville, p. 155. <hi rend="italic">Marriage Records. Kentucky Marriages</hi>. Madison County Courthouse, Richmond, Kentucky. Accessed via Ancestry.com. <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 395. <hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1867), 274.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
