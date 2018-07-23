@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,20 @@
                       W. G. Anderson
                         (Taylor county Laborer)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Taylor County, Kentucky, laborer. Virginia native. Married to Ophelia Anderson. Father of William T. Anderson, Mary E. Anderson, Sarah A. Anderson. Laborer in Taylor County in 1860.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Taylor County, Division 2, p. 642.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
