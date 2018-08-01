@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000289">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Caleb M. Mathews</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Courtney Buchkoski</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000289">
+                    <persName>
+                      Caleb M. Mathews
+                        (Henry County, Kentucky, attorney)
+                    </persName>
+                        <event type="birth"  when="1810-10-29"  ><ab>1810-10-29</ab></event>
+                        <event type="death"  when="1891-06-08"  ><ab>1891-06-08</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Henry County, Kentucky, attorney. Virginia native. Son of John Mathews and Sarah McDowell Mathews. Married to Frances L. Beazley Matthews in Woodford County, Kentucky, on January 2, 1838. Father of John W. Mathews, Joseph D. Mathews, Frank Mathews, Anna M. Mathews, and Sally Mathews. Graduate of Transylvania Law School in Lexington, Kentucky, in 1837. Trustee of Henry Academy and Henry Female College in New Castle, Kentucky. Attorney in Henry County in 1860.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henry County, Subdivision 1, p. 82.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Woodford County Marriages, Film #000252320, p. 72.<lb/>
+W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend="italic">Kentucky: A History of the State</hi>, 6th ed. (Louisville and Chicago: F. A. Battey and Company, 1887), p. 76.<lb/>
+<hi rend="italic">The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 106.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Caleb M. Mathews (October 27, 1810-June 8, 1891),&quot; Memorial #12271069, http://www.findagrave.com/memorial/12271069 (accessed August 1, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
