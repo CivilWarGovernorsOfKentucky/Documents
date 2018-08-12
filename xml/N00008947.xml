@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,22 @@
                 <person xml:id="N00008947">
                     <persName>
                       Jesse Barber
-                        ()
+                        (Morgan County, Miller)
                     </persName>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Morgan County, Kentucky, miller. Married to Nancy Abbot on December 5, 1839. Father of Andrew Barber, Margarett Barber, Sarah A. Barber, John Barber, and Thomas Barber. Miller in Morgan County in 1850 and in 1860. Appointed Postmaster for West Liberty, Kentucky in 1861 and in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Morgan County. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Morgan County, District 1, p. 106.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
