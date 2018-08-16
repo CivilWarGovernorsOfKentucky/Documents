@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,22 @@
                       Alfred Messick
                         (Louisville, Kentucky, tailor)
                     </persName>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
+                        <event type="death"  when="1879-08-27"  ><ab>1879-08-27</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Louisville, Kentucky, tailor. Kentucky native. Married to Letitia Miles Messick on October 16, 1835. Father of Margaret E. Messick and Walter B. W. Messick. Tailor in Louisville in 1850 and in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville District 3, p. 285A. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 5, p. 141. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 8, p. 76A. <hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #7007126, Jefferson County Deaths , p. 898.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
