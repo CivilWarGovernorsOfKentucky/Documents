@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       James H. Johnston
                         (Marshall County)
                     </persName>
+                        <event type="birth"  when="1822-03-31"  ><ab>1822-03-31</ab></event>
+                        <event type="death"  when="1899-06-04"  ><ab>1899-06-04</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,21 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Marshall County, Kentucky, farmer. Kentucky native. Married to Drucilla J. Staton Johnston on November 14, 1841. Father of Nancy M. Johnston, Joseph O. Johnston, Mary Johnston, Elizab Johnston, Isaac Johnston, Phelix F. Johnston, Bell A. Johnston, and Jennie Johnston. Farmer in Marshall County in 1850 and in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marshall County. p. 480A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, p. 125.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marshall County, Staton District, p. 16.
+
+“Meeting in Marshall County,” <hi rend="italic">Louisville Daily Courier</hi>, July 10, 1861.
+
+<hi rend="italic">Find A Grave</hi>, &quot;James H. Johnston (1822-1899),&quot; Memorial #64546616, https://www.findagrave.com/memorial/64546616# (accessed August 20, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
