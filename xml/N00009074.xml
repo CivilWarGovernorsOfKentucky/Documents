@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       James McBride
                         (Marshall County, farmer)
                     </persName>
+                        <event type="birth"  when="1797"  cert="medium" ><ab>c1797</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,17 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Marshall County, Kentucky, farmer. Virginia native. Married to Jane McBride. Father of Ambrose G. McBride, James C. McBride, Leroy McBride, Ivin McBride and Casper McBride. Married to Nancy Beard McBride on September 18, 1862. Farmer in Marshall County in 1850 and in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marshall County, p. 488B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, p. 147.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marshall County, Staton District, p. 35.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
