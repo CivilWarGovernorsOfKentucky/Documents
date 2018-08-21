@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009086">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Jefferson Lisby</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009086">
+                    <persName>
+                      Jefferson Lisby
+                        (Shelby County, Kentucky, farmer )
+                    </persName>
+                        <event type="birth"  when="1804"  cert="medium" ><ab>c1804</ab></event>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Shelby County, Kentucky, laborer. Kentucky native. Son of Henry Lisby. Married to Sarah Heddy on February 18, 1822. Father of Lewis Lisby, Elizabeth Lisby, Jane Lisby, Simon Lisby, Nancy Lisby, Henry Lisby, Howard Lisby, Washington Lisby, Mary Lisby. Farmer in Shelby County in 1850. Laborer in Shelby County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Shelby County, District 2, p. 351B-352A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Shelby County, p. 132.
+
+<hi rend="italic">Kentucky, County Marriage Records, 1783-1965</hi>, Shelby County, Film # 000259283, February 18, 1822 (accessed via ancestry.com). 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
