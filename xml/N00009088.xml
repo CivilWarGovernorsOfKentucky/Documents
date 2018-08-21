@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       Robert A. Wade
                         (Marshall County, farmer)
                     </persName>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Marshall County, Kentucky, farmer. Married to Mary Ann Hardy Wade on December 24, 1840. Father of Asberry H. Wade, Rufus E. Wade, and Mary Anne Wade. Farmer in Henry County, Tennessee in 1850. Owned one enslaved person in Henry County in 1850. Farmer in Marshall County in 1860. Owned two enslaved persons in Marshall County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Henry County, District 11, p. 340A.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Tennessee, Henry County, District 11. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, p. 127.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Marshall County, p. 5. 
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marshall County, Staton District, p. 17.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi> (Richmond, KY: Madison County Courthouse), Film no. 001942719, p. 382.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
