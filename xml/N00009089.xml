@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       Alfred Williams
                         (Marshall County, saddler)
                     </persName>
+                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,21 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Marshall County, Kentucky, saddler. Kentucky native. Married to Elizabeth B. Noel on February 15, 1848. Father of Benjamin F. Williams and William Williams. Farmer in Trigg County, Kentucky in 1850. Owned one enslaved person in 1850. Saddler in Marshall County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District 2, p. 358B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Trigg County, District 2.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, p. 105.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marshall County, Birmingham District, p. 2.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi> (Richmond, KY: Madison County Courthouse), Film no. 000321335, p. 583.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
