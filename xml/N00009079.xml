@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">E. C. Dycus</title>
+        <title level="a" type="main">Elijah C. Dycus</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00009079">
                     <persName>
-                      E. C. Dycus
-                        ()
+                      Elijah C. Dycus
+                        (Marshall County, physician)
                     </persName>
+                        <event type="birth"  when="1820-10-10"  ><ab>1820-10-10</ab></event>
+                        <event type="death"  when="1906-03-05"  ><ab>1906-03-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
