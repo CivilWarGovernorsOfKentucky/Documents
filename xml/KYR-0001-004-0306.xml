@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0306"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,32 +62,33 @@
  </teiHeader>
  <text>
   <body>
-   <p>M<hi rend="sup">c</hi>Lean Cir Ct
-<lb/>vs
-<lb/>H. Lucas Shff
-<lb/>Damages
-<lb/>$511.<hi rend="sup">39</hi>
-<lb/>Remitted
-<lb/><date when="1863-11-05">5<hi rend="sup">th</hi> Nov/ 63</date></p>
-<p>Remitted Damages
-<lb/>Bramlette Gov<hi rend="sup">r</hi>.<pb/></p>
-<p>Henry Lucas
+   <p>Henry Lucas
 <lb/>Sheriff M<hi rend="sup">c</hi>Lean County &amp; Sureties
 <lb/>Revenue <date when="1861">1861</date></p>
 <p><table rend="rules">
 <row>
 	<cell>Amt of Judgment for Principal</cell>
-	<cell>$2556.97</cell>
+	<cell>&#36;2.556.97</cell>
 </row>
 <row>
 	<cell>" " " " Damages</cell>
-	<cell>511.39 </cell>
+	<cell><hi rend="underline">511.39</hi> </cell>
 </row>
 </table></p>
-<p>Paid in full except Damages <date when="1863-11-05">Novr 5<hi rend="sup">th</hi> 1863</date>
-<lb/>Attest
+<p>Paid in full except Damages <date when="1863-11-05">Novr 5<hi rend="sup">th</hi> 1863</date></p>
+<p>Attest
 <lb/>C. Bailey
-<lb/>Asst Aud<hi rend="sup">r</hi></p>
+<lb/><hi rend="underline">Asst Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi><pb/></p>
+<p>M<hi rend="sup">c</hi>Lean Cir Ct
+<lb/>vs
+<lb/>H. Lucas Shff
+<lb/>Damages</p>
+<p>Remit Damages
+<lb/>Bramlette Go<hi rend="underline"><hi rend="sup">vr</hi></hi></p>
+<p>&#36;511.<hi rend="sup">39</hi>
+<lb/>Remitted
+<lb/><date when="1863-11-05">5<hi rend="sup">th</hi> Nov/ 63</date></p>
+<p></p>
   </body>
  </text>
 </TEI>
