@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,28 @@
                 <person xml:id="N00009098">
                     <persName>
                       George W. Gilbert 
-                        ()
+                        (Pike County, Kentucky, hotel keeper)
                     </persName>
+                        <event type="birth"  when="1817-20"  cert="medium" ><ab>c1817-20</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Pike County, Kentucky, hotel keeper. Virginia native. Married to Lydia Ratliff. Father of James Gilbert and Mary Gilbert. Taylor in Letcher County in 1850. Hotel keeper in Pike County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Letcher County, District 2, p. 140B. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pike County, District 1, p. 916. 
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Pike County, District 6, p. 74B.
+
+<hi rend="italic">Kentucky, Death Records, 1852-1965</hi>, Film # 7020649, State File #23684, Boyd County (accessed via ancestry.com). 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
