@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,26 @@
             <particDesc>
                 <org xml:id="O00009111">
                     <orgName>Phillips &amp; Son</orgName>
+                        <event type="begun"  when="1861"  cert="medium" ><ab>c1861</ab></event>
+                        <event type="ended"  when="1871"  ><ab>1871</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Iron works located in Covington, Kentucky. Partner(s): Thomas Phillips and George Phillips.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Covington, Kentucky, City Directory, 1861</hi>, (Covington, KY), p. 439. 
+
+<hi rend="italic">Covington, Kentucky, City Directory, 1866</hi>, (Covington, KY), p. 80.
+
+<hi rend="italic">Williams&#39; Covington and Newport directory 1869</hi>, (Public Library of Cincinnati and Hamilton County, 1869), 101.
+
+<hi rend="italic">Covington, Kentucky, City Directory, 1871</hi>, (Covington, KY), p. 186.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
