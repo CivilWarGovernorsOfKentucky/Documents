@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,30 @@
                       Samuel Ruply
                         (Harrodsburg, livery keeper)
                     </persName>
+                        <event type="birth"  when="1840"  ><ab>1840</ab></event>
+                        <event type="death"  when="1870"  ><ab>1870</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Harrodsburg, Kentucky, livery keeper. Kentucky native. Son of John Ruply and Mary Jane Ruply. Married to Rachel Ann Hope Ruply on June 29, 1863. Father of James Ruply. Resident in Harrodsburg in 1850. Livery keeper in Harrodsburg in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, Harrodsburg District 2, p. 363A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 11.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Boyle County, Precinct 1, p. 9.
+
+Dodd, Jordan, <hi rend="italic">Kentucky Marriages, 1851-1900</hi>, (accessed via Ancestry.com). 
+
+<hi rend="italic">Find A Grave</hi>, &quot;Sam Rupley (1840-1876),&quot; Memorial #27290627, https://www.findagrave.com/memorial/27290627# (accessed August 24, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
