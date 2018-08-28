@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       Thomas H. Buckner
                         (Mercer County, planter)
                     </persName>
+                        <event type="birth"  when="1805"  cert="medium" ><ab>c1805</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,21 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Harrodsburg, Kentucky, planter. Virginia native. Married to Louisa Buckner. Father John T. Buckner, Davis M. Buckner, Richard A. Buckner, James H. Buckner, Mattie Buckner, Phillip Buckner, and Jesse Buckner. Planter in Washington County, Mississippi in 1850. Owned eighty-three enslaved persons in Washington County in 1850. Planter in Harrodsburg in 1860. Owned nine enslaved persons in Harrodsburg in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Mississippi, Washington County, p. 274B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Mississippi, Washington County.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 18.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mercer County, Harrodsburg, p. 4
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Mississippi, Washington County, p. 311.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
