@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Thomas Allin
                         (Mercer County, county clerk)
                     </persName>
+                        <event type="birth"  when="1794-07-20"  ><ab>1794-07-20</ab></event>
+                        <event type="death"  when="1864-05-13"  ><ab>1864-05-13</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Mercer County, Kentucky, county clerk. Kentucky native. Married to Mary B. Thompson Allin on September 11, 1814. Father of William Allin, Henry Allin, George Allin, Sarah Allin, Phillip Allin, Joseph Allin, and Daeress Allin. County court clerk in Mercer County in 1850. Owned twelve enslaved persons in Mercer County in 1850. County clerk in Mercer County in 1860. Owned fourteen enslaved persons in Mercer County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, District 2, p. 338B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Mercer County, District 2.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, p. 36.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mercer County, p. 11.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 000191845, p. 177.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Thomas Allin (1794-1864),&quot; Memorial #44910374, https://www.findagrave.com/memorial/44910374# (accessed August 28, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
