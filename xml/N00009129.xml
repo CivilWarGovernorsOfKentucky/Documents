@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       Frederick W. Currey
                         (Harrodsburg, farmer)
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,19 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Harrodsburg, Kentucky, tanner. England native. Son of John Currey and Dinah Currey. Married to Cornelia C. Gaines Currey on March 13, 1854. Father of John K. Currey, Mariam D. Currey, Fred G. Currey, and Davis Lee Currey. Hemp manufacturer in Harrodsburg in 1850. Tanner in Harrodsburg in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 364A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 25.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 4.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 000216815, p. 20.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
