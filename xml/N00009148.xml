@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -43,11 +47,22 @@
                         (Harrodsburg, painter)
                     </persName>
                         <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Harrodsburg, Kentucky, painter. Kentucky native. Son of Eliza Moore. Painter in Harrodsburg in 1860. Served in the 2nd Kentucky Volunteer Cavalry Regiment (C.S.A.) as a private.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 23.
+
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 13.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
