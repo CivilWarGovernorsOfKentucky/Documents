@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,8 @@
                       Ambrose Portwood
                         (Mercer County, hotel keeper)
                     </persName>
-                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="birth"  when="1825-06-17"  ><ab>1825-06-17</ab></event>
+                        <event type="death"  when="1915-03-25"  ><ab>1915-03-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +55,17 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Harrodsburg, Kentucky, hotel keeper. Kentucky native. Married to Louisa Miller Portwood on December 23, 1848. Father of Armistead Portwood, John B. Portwood, Caleb D. Portwood, Willard C. Portwood, Emma R. Portwood, Jackson Portwood, and Lena H. Portwood. Hotel keeper in Harrodsburg in 1860. Owned two enslaved persons in Harrodsburg in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 11.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Anderson County, District 1, p. 38.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Ambrose C Portwood (1825-1915),&quot; Memorial #42759083, https://www.findagrave.com/memorial/42759083# (accessed September 1, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
