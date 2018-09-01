@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. T. Cooke</title>
+        <title level="a" type="main">William T. Cooke</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00009149">
                     <persName>
-                      W. T. Cooke
+                      William T. Cooke
                         (Harrodsburg, blacksmith)
                     </persName>
-                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
+                        <event type="birth"  when="1825-09-25"  ><ab>1825-09-25</ab></event>
+                        <event type="death"  when="1862-10-15"  ><ab>1862-10-15</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +55,15 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Harrodsburg, Kentucky, blacksmith. New Jersey native. Blacksmith in Harrodsburg in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 13.
+
+<hi rend="italic">Find A Grave</hi>, &quot;William Taylor Cooke (1825-1862),&quot; Memorial #118359237, https://www.findagrave.com/memorial/118359237# (accessed September 1, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
