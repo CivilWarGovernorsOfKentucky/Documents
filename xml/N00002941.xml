@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002941">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Denton Geoghegan</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002941">
+                    <persName>
+                      Denton Geoghegan
+                        (Hardin County physician and farmer)
+                    </persName>
+                        <event type="birth"  when="1824-04-23"  ><ab>1824-04-23</ab></event>
+                        <event type="death"  when="1869-11-16"  ><ab>1869-11-16</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hardin County, Kentucky, physician and farmer. Kentucky native. Member of the Episcopal Church. Brick-mason in Mississippi from 1842 to 1844. Studied medicine in Elizabethtown under one of his brothers, Thomas D. Geoghegan. Graduated from the Louisville Medical College in 1846. Physician in West Point, Kentucky from 1846 to 1854. Physician in Elizabethtown from 1854 to 1869. Owned two enslaved persons in 1860. Household owned an additional seven enslaved persons in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Samuel Haycraft, <hi rend="italic">A History of Elizabethtown, Kentucky, and its Surroundings</hi> (Elizabethtown, Ky.: The Woman&#39;s Club of Elizabethtown, Ky., 1921 ), 129. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hardin County, District 1, p. 90. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Hardin County, Elizabethtown District 1, p. 9.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
