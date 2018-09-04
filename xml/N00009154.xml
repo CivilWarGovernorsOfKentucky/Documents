@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       Cornelius O&#39;Hern
                         (Florence, Kentucky, laborer)
                     </persName>
+                        <event type="birth"  when="1819"  cert="medium" ><ab>c1819</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Florence, Kentucky, laborer. Ireland native. Married to Ann O’Hern. Catherine O’Hern, Cornelius O’Hern, John O’Hern, Daniel O’Hern, and Mary E. O’Hern. Laborer in Florence in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boone County, Florence, p. 6.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
