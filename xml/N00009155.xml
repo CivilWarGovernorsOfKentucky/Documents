@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,8 @@
                       Benjamin Dulaney
                         (Florence, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1860"  cert="medium" ><ab>c1860</ab></event>
+                        <event type="birth"  when="1798-04-16"  ><ab>1798-04-16</ab></event>
+                        <event type="death"  when="1875-11-12"  ><ab>1875-11-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +55,21 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Florence, Kentucky, farmer. Virginia native. Married to Louisa V. Graves Dulaney on March 29, 1823. Father of John J. Dulaney, Robert K. Dulaney, Benjamin A. Dulaney, and Elizabeth L. Dulaney. Farmer in Boone County, Kentucky in 1850. Owned three enslaved persons in Boone County in 1850. Farmer in Florence in 1860. Owned eight enslaved persons in Florence in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Boone County, District 2, p. 179B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Boone County, District 2.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boone County, Florence, p. 10.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Boone County, Florence, p. 1.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Benjamin Dulaney (1798-1875),&quot; Memorial #91574784, https://www.findagrave.com/memorial/91574784# (accessed September 4, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
