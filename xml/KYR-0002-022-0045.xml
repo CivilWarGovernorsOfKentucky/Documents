@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0045"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hawesville Ky
-<lb/><date when="1862-11-20">Nov. 20, 1862</date>
-<lb/>Gov. Robinson</p>
-<p>Sir. Some time in <date when="1862-07">july last,</date> there were arrested, in this Hancock County Ky 13 young men citizens of said County, who were about leaving for the rebel army, They were arrested by the <hi rend="str">by</hi> <hi rend="str">the</hi> Home Guards taken to Louisville, and from there sent to Camp Morton and are now at Johnsons Island," one of the member has since died of camp fever. Five of the number viz. Gideon.G. Snider Jesse.C. Morison, Thomas Long, Joe M<hi rend="sup">c</hi>Intire and John Jenkins are willing to take the oath to support the consitution of the united states, as they write home to their parents, and that they were over persuaded to do what they did, also that they are desirous of being good &amp; loyal citizens, They are willing to give bond with good security for the faithful performance of their loyalty: Their parents are willing to go with them in bond as their security.</p>
+   <p><placeName ref="cwgk:P001817">Hawesville Ky
+</placeName><lb/><date when="1862-11-20">Nov. 20, 1862</date>
+<lb/><persName ref="cwgk:N001004">Gov. Robinson</persName></p>
+<p>Sir. Some time in <date when="1862-07">july last,</date> there were arrested, in this <placeName ref="cwgk:P001816">Hancock County Ky</placeName> 13 young men citizens of said County, who were about leaving for the <orgName ref="cwgk:O00000506">rebel army</orgName>, They were arrested by the <hi rend="str">by</hi> <hi rend="str">the</hi> <orgName ref="cwgk:O00003155">Home Guards</orgName> taken to <placeName ref="cwgk:P00000337">Louisville</placeName>, and from there sent to Camp Morton and are now at Johnsons Island," one of the member has since died of camp fever. Five of the number viz. <persName ref="cwgk:N00003255">Gideon.G. Snider</persName> <persName ref="cwgk:N00003366">Jesse.C. Morison</persName>, <persName ref="cwgk:N00003423">Thomas Long</persName>, Joe M<hi rend="sup">c</hi>Intire and <persName ref="cwgk:N00003432">John Jenkins</persName> are willing to take the oath to support the consitution of the <orgName ref="cwgk:O00002945">united states</orgName>, as they write home to their parents, and that they were over persuaded to do what they did, also that they are desirous of being good &amp; loyal citizens, They are willing to give bond with good security for the faithful performance of their loyalty: Their parents are willing to go with them in bond as their security.</p>
 <p>We a part of the Home Guard who arrested the young men have every confidence, that if you will have them released, on these condition they will from this time forward make good and loyal citizens. They are all under age inexperienced boys</p>
 <p>Minor. E. Pate
-<lb/>N, L, Lightfoot
-<lb/>John. Hale &#125; Homes Guards
+<lb/><persName ref="cwgk:N00003447">N. L. Lightfoot
+</persName><lb/>John. Hale } Homes Guards
 <lb/>Post Master, Hawesville W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Henry
 <lb/>Presiding Judges. John. M. Brown
 <lb/>M. L. Cooper<pb/></p>
-<p>State of Kentucky
-<lb/>Hancock County &#125; Sct</p>
-<p>I, Eldred. E. Pate, now clerk of both courts of the above named county, and at that time ^acting^ colonel of the Home Guards, also made the arrests in person, certify that the ^men whose^ names ^are^ signed above are good and loyal citizens.
-<lb/>This <date when="1862-11-20">Nov 20<hi rend="sup">th</hi> 1862</date></p>
+<p><orgName ref="cwgk:O001025">State of Kentucky
+</orgName><lb/>Hancock County } Sct</p>
+<p>I, <persName ref="cwgk:N00002290">Eldred. E. Pate</persName>, now clerk of both courts of the above named county, and at that time ^acting^ colonel of the Home Guards, also made the arrests in person, certify that the ^men whose^ names ^are^ signed above are good and loyal citizens.<lb/>This <date when="1862-11-20">Nov 20<hi rend="sup">th</hi> 1862</date></p>
 <p><hi rend="underline">Eldred. E. Pate</hi> clerk
 <lb/>Hancock County &amp; circuit C<pb/></p>
 <p>Hawesville Ky.
