@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       James C. Fidler
                         (Anderson County, farmer)
                     </persName>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,21 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Anderson County, Kentucky, farmer. Kentucky native. Married to Susan Gudgell Fidler on October 1, 1850. Father of Ezra Fidler and Sarah Fidler. Hemp manufacturer in Anderson County in 1850. Owned twenty enslaved persons in 1850. Farmer in Anderson County in 1860. Owned eleven enslaved persons in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Anderson County, p. 195A.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Anderson County.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, p. 27.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, p. 6.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 000259310, p. 749.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
