@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,12 +46,25 @@
                       Jordan W. Bond
                         (Anderson County, farmer)
                     </persName>
-                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <event type="birth"  when="1831-02-02"  ><ab>1831-02-02</ab></event>
+                        <event type="death"  when="1909-06-13"  ><ab>1909-06-13</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Anderson County, Kentucky, farmer. Married to Mildred A. Martin Bond on September 24, 1857. Father of Lucy J. Bond. Farmer in Anderson County in 1860. Owned nine enslaved persons in Anderson County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, p. 108.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 001550673, p. 1007.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Jordan W. Bond (1831-1909),&quot; Memorial #73440187, https://www.findagrave.com/memorial/73440187 (accessed September 10, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
