@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,12 +46,28 @@
                       Christopher Marion Lillard
                         (Anderson County, farmer)
                     </persName>
-                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
+                        <event type="birth"  when="1819-10-22"  ><ab>1819-10-22</ab></event>
+                        <event type="death"  when="1910-06-19"  ><ab>1910-06-19</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Anderson County, Kentucky, farmer. Kentucky native. Married to Francis A. McGuire Lillard on October 26, 1843. Father of Sarah H. Lillard, Robert M. Lillard, Mary W. Lillard, Marion Lillard, Samuel Lillard, Minerva Lillard, and Alma Lillard. Farmer in Anderson County in 1850 and 1860. Owned four enslaved persons in Anderson County in 1850. Owned five enslaved persons in Anderson County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Anderson County, p. 196A. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, p. 18.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 000259309, p. 255.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Christopher Marion Lillard (1819-1910),&quot; Memorial #106797897, https://www.findagrave.com/memorial/106797897 (accessed September 10, 2018). 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
