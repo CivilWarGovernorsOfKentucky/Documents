@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0060"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky <date when="1864-08-09">Augst 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+   <p><placeName ref="cwgk:P00000337">Louisville Ky</placeName> <date when="1864-08-09">Augst 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>To Governor Th<hi rend="underline">os</hi> Bramlett
-<lb/>Frankfort Ky</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName></p>
 <p>Dear Sir at the solicitation of many friends I have concluded to raise a Battalion for the Purpose of fighting the roving Bands of Theives and cutthroats who are r<unclear/> many of our Citizens &amp;c If this meets your approbation I wish you would send me permisin as soon as you can for there is many anxious to go into such service now nothing more only I am</p>
 <p>yours Respe<hi rend="underline">fl</hi>
-<lb/>A B Vallandingham</p>
-<p>N, B, my Respects to Gen Combs</p>
+<lb/><persName ref="cwgk:N00005644">A B Vallandingham</persName></p>
+<p>N, B, my Respects to <persName ref="cwgk:N00000881">Gen Combs</persName></p>
   </body>
  </text>
 </TEI>
