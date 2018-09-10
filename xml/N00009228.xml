@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Jesse C Waterfield
                         (Anderson County, farmer)
                     </persName>
+                        <event type="birth"  when="1813-06-24"  ><ab>1813-06-24</ab></event>
+                        <event type="death"  when="1905-05-05"  ><ab>1905-05-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Anderson County, Kentucky, farmer. Kentucky native. Married to Renor Rout on October 17, 1833. Father of Melinda A. Waterfield, Mary J. Waterfield, John Waterfield, Martha E. Waterfield, William M. Waterfield, Sarah F. Waterfield, Victoria Waterfield, Cornelia Waterfield, James Waterfield, David Waterfield, and Beatrice Waterfield. Farmer in Anderson County in 1850 and 1860. Owned one enslaved person in Anderson County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Anderson County, p. 211B-212A. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, p. 29.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Anderson County, p. 7.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Anderson County, District 1, p. 19.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 001550673, p. 57.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Jesse C. Waterfill ([1813-1905),&quot; Memorial #35130390, https://www.findagrave.com/memorial/35130390# (accessed September 10, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
