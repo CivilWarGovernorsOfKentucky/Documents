@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005692">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Curran Pope</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005692">
+                    <persName>
+                      Curran Pope
+                        (Colonel of the 5th Kentucky Infantry)
+                    </persName>
+                        <event type="birth"  when="1813-07-30"  ><ab>1813-07-30</ab></event>
+                        <event type="death"  when="1862-11-05"  ><ab>1862-11-05</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, soldier. Louisville native. Son of Worden Pope and Elizabeth Taylor Thruston Pope. Married Matilda Prather Jacob Pope. Father of John J. Pope, Patrick H. Pope, and Mary Tyler Pope. Graduate of the United States Military Academy at West Point in 1834. Second lieutenant in the United States Artillery in 1834. Assistant engineer on the Kentucky River and Cumberland River in 1835. Clerk of the Jefferson County Court in Jefferson County for seventeen years. Colonel of the Fifth Kentucky Volunteer Infantry Regiment (U.S.A.) until November 5, 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 115-116. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Col. Curran Pope (July 30, 1813-November 5, 1862),&quot; Memorial #57357318, http://www.findagrave.com/memorial/57357318 (accessed May 12, 2017).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
