@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,24 @@
                       Robert H. Baldwin
                         (Mason County, deputy sheriff)
                     </persName>
+                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Mason County, Kentucky, deputy sheriff. Kentucky native. Married to Sallie Baldwin. Father of John M. Baldwin. Deputy sheriff in Mason County in 1860. Owned seven enslaved persons in Mason County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, District 1, p. 43A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, District 3, p. 103.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mason County, District 3, p. 17-18.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
