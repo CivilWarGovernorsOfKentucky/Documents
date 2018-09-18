@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,20 @@
                       William Stewart
                         (Clerk for Kentucky Inspector General)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Appointed clerk for Kentucky Inspector General’s office on March 13, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0002-060-0001.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
