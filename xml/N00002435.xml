@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John P. Hargis </title>
+        <title level="a" type="main">John S. Hargis </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Courtney Buchkoski</name>
@@ -43,14 +43,28 @@
         <particDesc>
                 <person xml:id="N00002435">
                     <persName>
-                      John P. Hargis 
+                      John S. Hargis 
                         (Breathitt County )
                     </persName>
+                        <event type="birth"  when="1820-11-11"  ><ab>1820-11-11</ab></event>
+                        <event type="death"  when="1892-02-28"  ><ab>1892-02-28</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Breathitt County, Kentucky, farmer and merchant. Virginia native. Married to Evaline Britton Hargis. Father of Sarah Hargis, Alexander Hargis, Thomas Hargis, William Hargis, James Hargis, and Nancy Hargis. Farmer and merchant in Breathitt County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breathitt County, District 1, p. 109.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breathitt County, Precinct 1, p. 25.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016189, Fayette County Deaths, File #8299.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;John S. Hargis (November 11, 1820-February 28, 1892),&quot; Memorial #112051240, http://www.findagrave.com/memorial/112051240 (accessed September 18, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
