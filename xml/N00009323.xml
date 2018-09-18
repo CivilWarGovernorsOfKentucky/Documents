@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,27 @@
                       Matthew Scott Dudley
                         (Lexington, soldier)
                     </persName>
+                        <event type="birth"  when="1844"  cert="medium" ><ab>c1844</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lexington, Kentucky, soldier. Kentucky native. Son of Ethelbert L. Dudley and Mary Dudley. Resident in Fayette County, Kentucky in 1850. Resident in Lexington in 1860. Served in the 21st Kentucky Volunteer Infantry Regiment (U.S.A.) as a private and adjutant from 1861 to 1863. Appointed Assistant Pay Master for Kentucky by Governor Thomas E. Bramlette on April 1, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fayette County, District 1, p. 144A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington Ward 2, p. 111.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington Ward 2, p. 53.
+
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 337.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
