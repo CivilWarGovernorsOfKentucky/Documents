@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Samuel C. Sayres
                         (Frankfort, assistant quartermaster)
                     </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <event type="death"  when="1906-07-30"  ><ab>1906-07-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,17 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Frankfort, Kentucky, captain and assistant quarter master. Mason County, Kentucky native. Married to Sally Theobald Sayres. Father of Adaline Sayres, Ella Sayres, and Lucy Sayres. Merchant clerk in Franklin County, Kentucky in 1850. Clerk in Frankfort in 1860. Appointed assistant quartermaster and captain for Kentucky State Troops on March 13, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 55B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 109.
+
+“Sayres,” <hi rend="italic">The Frankfort Roundabout</hi>, August 4, 1906.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
