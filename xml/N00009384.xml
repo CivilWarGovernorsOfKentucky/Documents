@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009384">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Washington Morgan</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009384">
+                    <persName>
+                      George Washington Morgan
+                        (Brig Gen&#39;l USA, Minister to Portugal, Ohio)
+                    </persName>
+                        <event type="birth"  when="1820"  ><ab>1820</ab></event>
+                        <event type="death"  when="1893"  ><ab>1893</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mount Vernon, Ohio, Minister to Portugal. Pennsylvania native. Married to Sarah H. Morgan. Appointed Minister Plenipotentiary to Portugal by President Polk until 1861. Commissioned a Brigadier General on November 12, 1861. Served as the commander of the Seventh Division of the Army of the Ohio. He resigned his commission on June 8, 1863 due to illness. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Biographical Directory of the United States Congress, 1774-Present</hi> &quot;George Washington Morgan (1820-1893)&quot; Index #M000950, http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000950 (accessed September 24, 2018)<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;George Washington Morgan (1820-1893),&quot; Memorial #5893676, https://www.findagrave.com/memorial/5893676/george-washington-morgan(accessed September 24, 2018).<lb/>
+<hi rend="italic">Ohio in the War: Her Statesmen Generals and Soldiers</hi>, vol.1: The History of Ohio During the War and the Lives of her Generals, 1895 (Cincinnati, Ohio: The Robert Clarke Company, p. 923. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>

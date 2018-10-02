@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>
     </titleStmt>
@@ -46,6 +50,8 @@
                       Louis Masey
                         (Foster, KY)
                     </persName>
+                        <event type="birth"  when="1818-10-12"  ><ab>1818-10-12</ab></event>
+                        <event type="death"  when="1891-10-05"  ><ab>1891-10-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Chair of the Board of Trustees of Foster, Kentucky, in 1860.</p>
+        <p>Bracken County, Kentucky, tobacconist. Kentucky native. Married to Martha Ann Wheeler Masey in Pendleton County on April 19, 1852. Father of John L. Masey, Josephine Masey, Thomas J. Masey, and William Masey. Chair of the Board of Trustees of Foster, Kentucky, in 1860. Tobacconist in Bracken County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-017-0005.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, District 1, p. 97.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994052, Pendleton County Marriages.<lb/>
+KYR-0001-017-0005.
 </bibl></ab>
     </back>
 </text>
