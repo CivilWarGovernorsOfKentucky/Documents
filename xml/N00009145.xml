@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009145">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Ambrose Portwood</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009145">
+                    <persName>
+                      Ambrose Portwood
+                        (Mercer County, hotel keeper)
+                    </persName>
+                        <event type="birth"  when="1825-06-17"  ><ab>1825-06-17</ab></event>
+                        <event type="death"  when="1915-03-25"  ><ab>1915-03-25</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Harrodsburg, Kentucky, hotel keeper. Kentucky native. Married to Louisa Miller Portwood on December 23, 1848. Father of Armistead Portwood, John B. Portwood, Caleb D. Portwood, Willard C. Portwood, Emma R. Portwood, Jackson Portwood, and Lena H. Portwood. Hotel keeper in Harrodsburg in 1860. Owned six enslaved persons in Harrodsburg in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 11.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mercer County, Harrodsburg, p. 3.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Anderson County, District 1, p. 38.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Ambrose C Portwood (1825-1915),&quot; Memorial #42759083, https://www.findagrave.com/memorial/42759083# (accessed September 1, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

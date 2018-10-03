@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Henry T. Jefferson</title>
+        <title level="a" type="main">Henry S. Jefferson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,12 @@
         <particDesc>
                 <person xml:id="N00008559">
                     <persName>
-                      Henry T. Jefferson
-                        (Mason County, Kentucky, deputy sheriff)
+                      Henry S. Jefferson
+                        (Mason County, Kentucky, farmer and deputy sheriff)
                     </persName>
+                        <event type="birth"  when="1818-08-11"  ><ab>1818-08-11</ab></event>
+                        <event type="death"  when="1866-11-10"  ><ab>1866-11-10</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mason County, Kentucky, deputy sheriff. Deputy sheriff in Mason County in 1860. </p>
+        <p>Married to Abigail Dawson Jefferson on March 2, 1839. Farmer in Mason County in 1850. Owned five enslaved persons in Mason County in 1850. Farmer in Mason County in 1860. Owned four enslaved persons in Mason County in 1860. Deputy sheriff in Mason County in 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1529.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, District 3, p. 142B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, District 3.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, District 2, p. 47.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 000281843, p. 358.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Henry S Jefferson (1818-1866),&quot; Memorial #43246267, https://www.findagrave.com/memorial/43246267# (accessed September 11, 2018).
 </bibl></ab>
     </back>
 </text>

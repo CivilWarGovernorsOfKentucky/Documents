@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009009">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John William Vessels</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brianna Kirk</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009009">
+                    <persName>
+                      John William Vessels
+                        (farmer, Meade County)
+                    </persName>
+                        <event type="birth"  when="1837-05-25"  ><ab>1837-05-25</ab></event>
+                        <event type="death"  when="1911-05-18"  ><ab>1911-05-18</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Meade County, Kentucky, farmer. Kentucky native. Son of Thomas and Sarah Vessels. Married to Emmaline Cissell on February 17, 1857. Father of Mary Vessels, Thomas Emmanuel Vessels, Euphrasia Vessels, Sarah Harriet Vessels, William Francis Vessels, Jane Vessels, Joseph Flagett Vessels, Mary Vessels, Eddie Vessels, and Peter Vessels. Farmer in Meade County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Meade County, p. 398. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Meade County, District no. 3, p. 316. <hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Meade County, District no. 1, p. 599. <hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Meade County Marriages, p. 30. <hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, All Counties. <hi rend="italic">Find A Grave</hi>, &quot;John William Vessels (1837-1911),&quot; Memorial #36552254, http://www.findagrave.com/memorial/36552254 (accessed [August 1, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

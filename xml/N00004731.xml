@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00004731">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Seidner Giltner</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00004731">
+                    <persName>
+                      William Seidner Giltner
+                        (Minister, president and teacher at Eminence College in Henry County, Kentucky)
+                    </persName>
+                        <event type="birth"  when="1827-05-18"  ><ab>1827-05-18</ab></event>
+                        <event type="death"  when="1921-12-15"  ><ab>1921-12-15</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Henry County, Kentucky, minister, educator, and school administrator. Kentucky native. Married to Sarah E. Raines Giltner. Married to Mary E. Ogdon Duncan Giltner. Father of Annabel Giltner, Elizabeth Giltner, Leigh G. Giltner, William S. Giltner, Jr., and Johnnie Giltner. Graduate of Bethany College in West Virginia. Ordained a Christian minister in 1852. Charter member of the Eminence Independent Order of Odd-Fellows in 1858. Teacher and president of Eminence College from 1858 to 1893. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henry County, Subdivision No. 1, p. 141. <lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Henry County, District of Eminence, p. 17.<lb/>
+Alvin F. Lewis, &quot;History of Higher Education in Kentucky,&quot; <hi rend="italic">United States Bureau of Education, Circular of Information No. 3, 1899</hi> (Washington: Government Printing Office, 1899), 325-327. <lb/>
+“Eminence College,” <hi rend="italic">The Kentucky Encyclopedia</hi>, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), 293. <lb/>
+&quot;Giltner,&quot; <hi rend="italic">The Bourbon News</hi> (Paris, Ky.), December 20, 1921. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;William Sidner Giltner (May 18, 1827-December 15, 1921),&quot; Memorial #28396690, http://www.findagrave.com/memorial/28396690 (accessed April 18, 2017).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

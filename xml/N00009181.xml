@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009181">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Sharp Darnaby</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009181">
+                    <persName>
+                      William Sharp Darnaby
+                        (Scott County Lawyer)
+                    </persName>
+                        <event type="birth"  when="1821"  ><ab>1821</ab></event>
+                        <event type="death"  when="1885"  ><ab>1885</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Scott County, Kentucky, lawyer. Kentucky native. Graduated from Transylvania University in 1846. Married to Fanny H. Lindsay on December 8, 1859. Elected to the State Senate in 1857. Lawyer in Scott County in 1861. Colonel in CSA. Aid to the Provisional Governor of Tennessee. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, Georgetown, p.995. 
+
+<hi rend="italic">Find A Grave</hi>, &quot;Col William Sharp Darnaby (1821-1885),&quot; Memorial #71364741, http://www.findagrave.com/memorial/71364741(accessed September 6, 2018).
+
+William Henry Perrin <hi rend="italic">History of Bourbon, Scott, Harrison, and Nicholas Counties, Kentucky</hi>,  (Cincinnati, Ohio: Art Guild Reprints, Inc, 1882), 589.
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1803-1883)</hi>, KDLA, Roll #000183225, Madison County. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>

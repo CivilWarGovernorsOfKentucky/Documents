@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002939">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Isaac Radley</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002939">
+                    <persName>
+                      Isaac Radley
+                        (Hardin County Sheriff)
+                    </persName>
+                        <event type="birth"  when="1806"  ><ab>1806</ab></event>
+                        <event type="death"  when="1871"  ><ab>1871</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hardin County, Kentucky, sheriff. Kentucky native. Married to Permelia Jane Welsh Radley. Father of Louisiana Radley Starling, Sallie Radley, John Radley, and Mary H. Radley. Constable in Hardin County in 1847. Sheriff of Hardin County from 1858 to 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hardin County, District 2, p. 18. <lb/>
+Taliaferro P. Shafner, ed., <hi rend="italic">The Kentucky State Register, for the Year 1847</hi> (Louisville: Morton &amp; Griswold, 1847), 94. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Isaac Radley (1806-1871),&quot; Memorial #86905116, http://www.findagrave.com/memorial/86905116 (accessed March 28, 2017).<lb/><lb/>
+&quot;Hardin County Sheriffs,&quot; (http://www.hcky.org/hcso/History/Past_Sheriffs.htm) (accessed on March 28, 2017).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

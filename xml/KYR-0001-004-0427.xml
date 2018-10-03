@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0427"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date>n.d.</date>
+    <date when="1862-05-31">31 May 1862</date>
    </creation>
    <textClass>
     <keywords>
@@ -59,20 +62,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>We Joseph Hennin Prinicpal
-<lb/>Cha<hi rend="sup">s</hi> Dupree Security
-<lb/>do bind ourselves three months after date to pay The commonwealth of Ky (The plaintiff in Execution) The Sum of Four Hundred forty dollars and 41 cents with interest thereon from this date being the amount of Principal, interest and cost of an Execution 323. which issued from the clerks office of the Nelson circuit court on the <date when="1862-03-09">9<hi rend="sup">th</hi> day of March 1862</date> in favor of said commonwealth of Ky for the sum of
+   <p>we Joseph Hennin <gap/> Prinicpal
+<lb/>Cha<hi rend="sup">s</hi> Dupree <gap/> Security
+<lb/>do bind ourselves three months after date to pay The commonwealth of Ky (The plaintiff in Execution) The Sum of Four Hundred forty dollars and 41 cents with interest thereon from this date being the amount of Principal, interest and cost of an Execution 323. which issued from the clerks office of the Nelson circuit court on the <date when="1862-03-09">9<hi rend="sup">th</hi> day of March 1862</date> in favor of Said commonwealth of Ky for the Sum of
 <lb/><table rend="rules">
 <row>
 	<cell>Principal</cell>
-	<cell>$400.cts</cell>
+	<cell>&#36;400.<hi rend="sup">cts</hi></cell>
 </row>
 <row>
 	<cell>Interest</cell>
 	<cell>4.40</cell>
 </row>
 <row>
-	<cell>costs</cell>
+	<cell>Costs</cell>
 	<cell>26.80</cell>
 </row>
 <row>
@@ -81,24 +84,26 @@
 </row>
 <row>
 	<cell>writing Bond</cell>
-	<cell>40</cell>
+	<cell><hi rend="underline">40</hi></cell>
 </row>
 <row>
-	<cell>amount</cell>
-	<cell>$440.41 cents</cell>
+	<cell>Amount</cell>
+	<cell>&#36;440.41 cents</cell>
 </row>
 </table></p>
-<p>Against the said Jo<hi rend="sup">s</hi> Hennin and we the said Jo<hi rend="sup">s</hi> Hennin principal. Cha<hi rend="sup">s</hi> Dupree security have replevied the same</p>
-<p>witness. our hand and seals this <date when="1862-05-31">31 day of May 1862</date> attest</p>
-<p><milestone unit="column" n="2"/><cb n="1"/><unclear/>S S Meddis D<unclear/>
-<lb/><unclear/> Davis
-<lb/><cb n="2"/>Jos Hennin [Seal)]
-<lb/>Chas Dupree [Seal]<milestone unit="column" n="1"/></p>
-<p><unclear/>Copy att Wm H Caughlin CK
-<lb/><unclear/> Court</p>
-<p>The Above bond was given on a debt <unclear/> Comth vs Paul Garras for forfeited Recognizance (Jos Henin being secruity in the bail bond) and principal in the Execution -- </p>
+<p>Against the Said Jo<hi rend="sup">s</hi> Hennin and we the said Jo<hi rend="sup">s</hi> Hennin Principal. Cha<hi rend="sup">s</hi> Dupree. Security have replevied the Same</p>
+<p>Witness. our hand and Seals this <date when="1862-05-31">31 day of May. 1862</date></p>
+<p>Jos Hennin <figure type="seal"/>
+<lb/>Chas Dupree <figure type="seal"/>
+<lb/><gap/> <figure type="seal"/></p>
+<p>attest
+<lb/><unclear/> S S Meddis D<unclear/>
+<lb/><unclear/>w Davis
+<lb/><unclear/> Copy att Wm H Slaughter CK
+<lb/><unclear/>uit Court</p>
+<p>The Above bond was given on a debt <unclear/> Comth vs Paul <unclear>Garras</unclear> for forfeited Recognizance (Jos Henin being secruity in the bail bond) and principal in the Execution -- </p>
 <p>Att
-<lb/>Wm H Slaughter ClK</p>
+<lb/>Wm H Slaughter Ck</p>
   </body>
  </text>
 </TEI>

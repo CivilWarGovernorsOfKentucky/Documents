@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0063"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,20 +71,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Visalia, Tulare County
-<lb/>California, <date when="1861-01-10">Jan' 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+   <p><placeName ref="cwgk:P00002423">Visalia</placeName>, <placeName ref="cwgk:P00002424">Tulare County
+</placeName><lb/>California, <date when="1861-01-10">Jan' 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
 <lb/>To His Excelency
-<lb/>Gov. of Kentucky
-<lb/>Dear Sir</p>
+<lb/><persName ref="cwgk:N00000258">Gov. of Kentucky
+</persName><lb/>Dear Sir</p>
 <p>I have been appointed Commissioner of Deeds for all the Western states and would respectfully solicit the same appointment of you for this County</p>
 <p>Respectfully
-<lb/>Robt. P. Gill</p>
+<lb/><persName ref="cwgk:N00002425">Robt. P. Gill</persName></p>
 <p>Reference
-<lb/>Jediah Gill
-<lb/>Clay village
-<lb/>Shelby County
-<lb/>Ky<pb/></p>
-<p>California<figure type="hr"/>
+<lb/><persName ref="cwgk:N00002426">Jediah Gill
+</persName><lb/><placeName ref="cwgk:P00002427">Clay village
+</placeName><lb/><placeName ref="cwgk:P001013">Shelby County
+</placeName><lb/>Ky<pb/></p>
+<p><placeName ref="cwgk:P00002428">California</placeName><figure type="hr"/>
 <lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>Rob<hi rend="sup">t</hi>. P. Gill<figure type="hr"/>
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-06">Feby 6 1861</date></p>

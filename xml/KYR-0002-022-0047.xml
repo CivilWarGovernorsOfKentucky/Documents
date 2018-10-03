@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0047"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hawesville <date when="1861-06-02">June 2<hi rend="sup">nd</hi> 1861.</date>
-<lb/>Hon B Magoffin
-<lb/>Dear Gov,</p>
-<p>I have this day forwarded to your hands of Commissioners for application for arms for a compny of Home Guards I have organized here. Our County is but poorly supplied with arms of any kind and our location is exceedingly exposed our negro poppulation is getting restive. from too free a communication with the abolitionist on the other side of the river And perhaps <hi rend="str">in</hi> no county in the state ^is^ at present more in Need of arms to protect ourselves than this. If possible I would like if you can possibly mange to send us Kenty Rifles percussion locks. I beg that you will endeavour to forward them here at your earliest convenience A Company is being organized here composed of <hi rend="underline">Union Men</hi> <hi rend="underline">entirely</hi> who openly boast they Can get arms furnised them by the Federal Government and they are now expecting them, Your promt attention to this application will be gratefully appreciated by ever</p>
+   <p><placeName ref="cwgk:P001817">Hawesville</placeName> <date when="1861-06-02">June 2<hi rend="sup">nd</hi> 1861.</date>
+<lb/>Hon <persName ref="cwgk:N00000258">B Magoffin</persName><lb/>Dear Gov,</p>
+<p>I have this day forwarded to your hands of Commissioners for application for arms for a compny of Home Guards I have organized here. Our <placeName ref="cwgk:P001816">County</placeName> is but poorly supplied with arms of any kind and our location is exceedingly exposed our negro poppulation is getting restive. from too free a communication with the abolitionist on the other side of the river And perhaps <hi rend="str">in</hi> no county in the <placeName ref="cwgk:P001800">state</placeName> ^is^ at present more in Need of arms to protect ourselves than this. If possible I would like if you can possibly mange to send us Kenty Rifles percussion locks. I beg that you will endeavour to forward them here at your earliest convenience A Company is being organized here composed of <hi rend="underline">Union Men</hi> <hi rend="underline">entirely</hi> who openly boast they Can get arms furnised them by the Federal Government and they are now expecting them, Your promt attention to this application will be gratefully appreciated by ever</p>
 <p>Yr friend obdt serv<hi rend="sup">t</hi>
 <lb/>Sincerly 
-<lb/>James R Jennings<pb/></p>
+ <lb/><persName ref="cwgk:N001821">James R Jennings</persName><pb/></p>
 <p>Hancock
-<lb/> -- Homeguards -- 
-<lb/>application by J R Jennings -- <figure type="hr"/></p>
+<lb/> -- <orgName ref="cwgk:O00003155">Homeguards</orgName> -- <lb/>application by J R Jennings -- <figure type="hr"/></p>
 <p>Jennings- has a <unclear>promt</unclear> from me -- </p>
   </body>
  </text>

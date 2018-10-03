@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009121">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Horatio F. Simrall</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009121">
+                    <persName>
+                      Horatio F. Simrall
+                        (Jefferson County, Kentucky, attorney and law professor)
+                    </persName>
+                        <event type="birth"  when="1818"  ><ab>1818</ab></event>
+                        <event type="death"  when="1901"  ><ab>1901</ab></event>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, attorney and law professor. Shelby County, Kentucky, native. Son of James Simrall and Rebecca Graham. Attended Hanover College in Hanover, Indiana, and Transylvania University in Lexington, Kentucky. Married Lydia Ann Newell on February 22, 1842. Father of Graham Simrall, [unknown] Simrall, and [unknown] Simrall.  Served in the Mississippi state legislature from 1846 to 1848. Law Professor at the University of Louisville from 1857 to 1861. Attorney in Louisville in 1861. Owned five enslaved persons in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Mississippi, Wilkinson County, p. 295A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 5, p. 119.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jefferson County, Louisville, p. 272B.
+
+Henry Tanner, ed., <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 227. 
+
+<hi rend="italic">Biographical and Historical Memoirs of Mississippi</hi>, vol. 2, (Chicago: The Goodspeed Publishing Co., 1881), 772-775.
+
+G. Glenn Clift, <hi rend="italic">Governors of Kentucky, 1792-1942</hi> (Cynthiana, Ky: Hobson Press, 1942), 142-43.
+</bibl></ab>
+    </back>
+</text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009406">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">N. H. McLean</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009406">
+                    <persName>
+                      N. H. McLean
+                        (Asst. Adjt. Genl, and Chief of Staff, Dept of OhioHamilton County, Ohio)
+                    </persName>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Graduated the United States Military Academy, West Point, in 1848. Served as brevetted Second Lieutenant to serve in California until 1854. At the beginning of the war he was placed in command of the Washington Arsenal. Selected for promotion to Major, and assigned to the Adjutant-General&#39;s Department in Cincinnati, Ohio. in 1862 he was transferred and assigned as Chief of Staff and Assistant Adjutant-General to General Wright in the Department of the Ohio. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Reports of Committees of the House of Representatives for the Second Session of the Forty-Third Congress: Report No. 279</hi>, vol.277, vol.279, 1874-&#39;75. (Washington: Government Printing Office, 1875) p. 1-6
+</bibl></ab>
+    </back>
+</text>
+</TEI>

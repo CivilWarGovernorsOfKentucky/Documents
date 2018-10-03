@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009349">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Landers Barber</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009349">
+                    <persName>
+                      Landers Barber
+                        (Bath County, farmer and soldier)
+                    </persName>
+                        <event type="birth"  when="1823"  ><ab>1823</ab></event>
+                        <event type="death"  when="1892"  ><ab>1892</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Bath County, Kentucky, farmer and soldier. Kentucky native. Married to Rhoda Clemmons Barber on November 30, 1844. Father of John Barber, Mary M. Barber, and William W. Barber. Married to Martha Angeline Henecker Barber on November 18, 1852. Father of Martin Barber, Nancy Barber, Daniel Barber, S. A. Douglas Barber. Farmer in Bath County in 1850 and 1860. Served in the 24th Kentucky Volunteer Infantry Regiment (U.S.A.) as second lieutenant from October 1861 to January 1865. Served in Captain Barber’s Company (Fleming County State Guard) as first lieutenant from June 1865 to November 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bath County, p. 96. 
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 000839918, p. 265.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 000216816, p. 10.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 365.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 900.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Landers Barber (1823-1892),&quot; Memorial #14235888, https://www.findagrave.com/memorial/14235888 (accessed September 19, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

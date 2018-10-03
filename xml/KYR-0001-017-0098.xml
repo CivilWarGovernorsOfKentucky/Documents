@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0098"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1861-03-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> March 1861</date>
-<lb/>Hon J. W. Tate
-<lb/>ass<hi rend="underline"><hi rend="sup">t</hi></hi> Secretary of State
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-03-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> March 1861</date>
+<<<<<<< HEAD
+<lb/>Hon <persName ref="cwgk:N00001223">J. W. Tate
+</persName><lb/>ass<hi rend="underline"><hi rend="sup">t</hi></hi> Secretary of State
 <lb/><hi rend="str">Fkfort)</hi>Sir</p>
-<p>Permit me to state that on the <date when="1861-02-16">16th ulto,</date> I forwarded to you by Mail the letter of our <hi rend="underline">Senator</hi> M<hi rend="underline"><hi rend="sup">r</hi></hi> Pennibaker recommending a <hi rend="underline">Renewal</hi> of my Commisison as a Notary Public:--(my last term of 4 years having expired) -- as he desired. I enclosed a one dollar Bill -- I did not hear from you since, I beg to call your attention thereto, &amp; to ask the favor of an early reply to D<hi rend="sup">r</hi> Sir</p>
+<p>Permit me to state that on the <date when="1861-02-16">16th ulto,</date> I forwarded to you by Mail the letter of our <hi rend="underline">Senator</hi> M<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N00002582">Pennibaker </persName>recommending a <hi rend="underline">Renewal</hi> of my Commisison as a Notary Public:--(my last term of 4 years having expired) -- as he desired. I enclosed a one dollar Bill -- I did not hear from you since, I beg to call your attention thereto, &amp; to ask the favor of an early reply to D<hi rend="sup">r</hi> Sir</p>
 <p>Your very obt Sevt
 <lb/>Mich<hi rend="sup">l</hi> Murphy<pb/></p>
-<p>Jefferson Co<figure type="hr"/>
+<p><placeName ref="cwgk:P001005">Jefferson Co</placeName><figure type="hr"/>
+=======
+    <lb/>Hon <persName ref="cwgk:N00001223">J. W. Tate</persName>
+<lb/>ass<hi rend="underline"><hi rend="sup">t</hi></hi> Secretary of State
+<lb/><hi rend="str">Fkfort)</hi>Sir</p>
+   <p>Permit me to state that on the <date when="1861-02-16">16th ulto,</date> I forwarded to you by Mail the letter of our <hi rend="underline">Senator</hi> M<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N00002582">Pennibaker</persName> recommending a <hi rend="underline">Renewal</hi> of my Commisison as a Notary Public:--(my last term of 4 years having expired) -- as he desired. I enclosed a one dollar Bill -- I did not hear from you since, I beg to call your attention thereto, &amp; to ask the favor of an early reply to D<hi rend="sup">r</hi> Sir</p>
+<p>Your very obt Sevt
+ <lb/><persName ref="cwgk:N00002583">Mich<hi rend="sup">l</hi> Murphy</persName><pb/></p>
+   <p><placeName ref="cwgk:P001005">Jefferson Co</placeName><figure type="hr"/>
+>>>>>>> 89f57f2423bc4a7109f1eec3fbebd304c3e7ab54
 <lb/>Notary
 <lb/>M. Murphy
 <lb/>Com Iss<hi rend="sup">d</hi> <date when="1861-02-11">Mar 11 1861</date></p>

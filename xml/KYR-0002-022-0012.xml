@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0012"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Fulton C<hi rend="sup">o</hi> Ky <date when="1864-01-11">Jan 11<hi rend="sup">th</hi> 1864</date>
-<lb/>Co<hi rend="sup">l</hi> G. C. Hallet,
-<lb/>Hickman Ky.
-<lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>Your note together with Gov<hi rend="sup">r's</hi> commission is to hand. In order that you may not be retarded in the organization of your regiment, I deem it my duty to inform you at once, that having been elected without my knowledge or consent to the position, the duties of which I am wholy unqualified to perform' I have written a note to the Governor declining the appointment,</p>
+   <p><placeName ref="cwgk:P00000889">Fulton C<hi rend="sup">o</hi> Ky</placeName> <date when="1864-01-11">Jan 11<hi rend="sup">th</hi> 1864</date>
+    <lb/>Co<hi rend="sup">l</hi> <persName ref="cwgk:N00000888">G. C. Hallet</persName>,
+<lb/><placeName ref="cwgk:P00000878">Hickman Ky.
+</placeName><lb/>D<hi rend="sup">r</hi> Sir</p>
+   <p>Your note together with <persName ref="cwgk:N001000">Gov<hi rend="sup">r's</hi></persName> commission is to hand. In order that you may not be retarded in the organization of your regiment, I deem it my duty to inform you at once, that having been elected without my knowledge or consent to the position, the duties of which I am wholy unqualified to perform' I have written a note to the Governor declining the appointment,</p>
 <p>Yours Respectfully.
-<lb/>Ward Boyd<pb/></p>
+<lb/><persName ref="cwgk:N00000929">Ward Boyd</persName><pb/></p>
 <p>Ward Boyd Esq
 <lb/>Rec<hi rend="sup">d</hi> <date when="1864-01-27">Jany 27, 1864</date></p>
   </body>
