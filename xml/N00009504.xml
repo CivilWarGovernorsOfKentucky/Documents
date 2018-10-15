@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,24 @@
                       A. G. Rhea
                         (Senator, Lawyer, Logan County)
                     </persName>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
+                        <event type="death"  when="unknown "  ><ab>unknown </ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Russellville, Logan County, Kentucky, lawyer and senator. Kentucky native. Married to Jane Rhea. Father of Bettie Rhea, Mattie Rhea, John Rhea, Jenny Rhea. Lawyer in Russellville, Logan County, Kentucky in 1860. Senator in Russellville, Logan County, Kentucky in 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Logan County, Russellville, District No 1, p. 481. 
+
+KYR-0001-020-0974
+</bibl></ab>
+    </back>
 </text>
 </TEI>
