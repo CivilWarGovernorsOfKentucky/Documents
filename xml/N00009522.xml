@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,8 @@
                       Thomas Remy
                         (Johnson County, farmer and soldier)
                     </persName>
-                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <event type="birth"  when="1825"  ><ab>1825</ab></event>
+                        <event type="death"  when="1902"  ><ab>1902</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +55,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer and soldier. Kentucky native. Married to Sarah Williams Remy on May 4, 1846. Father of Charles G. Remy, George W. Remy, Thursey Remy, Mary A. Remy, Acy I Remy, Ludana K. Remy, Lurana F. Remy, and Nancy M. Remy. Farmer in Johnson County in 1850 and 1860. Served in the 65th Regiment of Kentucky Militia as sergeant from May 21, 1864 to June 21, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 121B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 52.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County, Tom’s Creek, p. 3.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 001912950, p. 204.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 897.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Thomas Jefferson Ramey, Sr (1825-1902),&quot; Memorial #123689244, https://www.findagrave.com/memorial/123689244# (accessed October 16, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
