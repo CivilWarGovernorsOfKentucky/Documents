@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,7 @@
                       James W. Wells
                         (Johnson County, farmer and soldier)
                     </persName>
-                        <event type="birth"  when="1832"  cert="medium" ><ab>c1832</ab></event>
+                        <event type="birth"  when="1831-03-03"  ><ab>1831-03-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +54,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer and soldier. Kentucky native. Son of George Wells and Elizabeth Wells. Married to Eremetta Collins Wells on October 14, 1853. Father of Martha Wells, Frances M. Wells, John W. Wells, George W. Wells, LaFayette Wells, and Hiram B. Wells. Farmer in Johnson County in 1850 and 1860. Served in the 65th Regiment of Kentucky Militia as private from May 21, 1864 to June 21, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 118A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 31.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County, John’s Creek, p. 7.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 896.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 001912950, p. 109.
+
+<hi rend="italic">Find A Grave</hi>, &quot;James Wells (1831-unknown),&quot; Memorial #28310893, https://www.findagrave.com/memorial/28310893 (accessed October 16, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
