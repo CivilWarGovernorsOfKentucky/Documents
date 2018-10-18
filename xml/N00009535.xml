@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       Gilson Montgomery
                         (Johnson County, farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,21 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer and soldier. Kentucky native. Married to Jane Hager Montgomery on July 3, 1847. Father of Cynthia A. Montgomery, James M. Montgomery, John Montgomery, Mary Montgomery, George W. Montgomery, Richard S. Montgomery, William L. Montgomery, and Aleck Montgomery. Farmer in Johnson County in 1850 and 1860. Served in the 65th Regiment of Kentucky Militia as private from May 21, 1864 to June 21, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 101A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 51.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Minnesota, Meeker County, Kingston, p. 4.
+
+<hi rend="italic">Kentucky Marriage Records: From the Register if the Kentucky Historical Society</hi>, (Baltimore: Genealogical Publishing Co., Inc., second printing, 1996), 184.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 895.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
