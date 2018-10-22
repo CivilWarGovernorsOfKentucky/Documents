@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Silas J. Short</title>
+        <title level="a" type="main">Silas James Short</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00009546">
                     <persName>
-                      Silas J. Short
+                      Silas James Short
                         (Johnson County, farmer and soldier)
                     </persName>
-                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <event type="birth"  when="1830-08-28"  ><ab>1830-08-28</ab></event>
+                        <event type="death"  when="1896-11-03"  ><ab>1896-11-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +55,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer and soldier. Virginia native. Son of Thomas Short and Rachel Short. Married to Elizabeth Powers Short on October 25, 1860. Father of Sarah E. Short and Isaac H. Short. Farmer in Johnson County in 1850 and 1860. Served in the 65th Regiment of Kentucky Militia as private from May 21, 1864 to June 21, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 103A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 46.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County, John’s Creek, p. 14-15.
+
+<hi rend="italic">Virginia, Marriages, 1785-1940</hi>, (Salt Lake City, Utah: FamilySearch, 2013), Film No. 34389, p. 429.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 896.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Silas J. Short (1830-1896),&quot; Memorial #89209905, https://www.findagrave.com/memorial/89209905# (accessed October 22, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
