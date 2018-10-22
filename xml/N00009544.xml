@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00009544">
                     <persName>
                       Abel Franklin
-                        (Johnson County, soldier)
+                        (Johnson County and Floyd County, laborer and soldier)
                     </persName>
                         <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
                         <trait type="race" subtype="White"/>
@@ -50,5 +54,19 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky and Floyd County, Kentucky, laborer and soldier. Scott County, Virginia native. Son of Abe Franklin and Elizabeth Jefferson Franklin. Married to Cynthia A. Franklin. Father of Sarah M. Franklin and Margaret E. Franklin. Laborer in Floyd County in 1850. Served in the 65th Regiment of Kentucky Militia as corporal from May 21, 1864 to June 21, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Morgan County, p. 164B.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County, John’s Creek, p. 8.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 896.
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records in Microfilm (1852-1910)</hi>, KDLA, Roll #7017457, Johnson County Deaths, p. 2000.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
