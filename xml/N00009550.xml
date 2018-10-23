@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,29 @@
                       Thompson Ward
                         (Johnson County, farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer and soldier. Kentucky native. Son of Solomon Ward and Nancy A. Ward. Married to Phelin S. Blevins Ward on March 13, 1852. Father of Joseph Ward, Martin Ward, Marvin Ward, Lewis Ward, Colista Ward, Martha Ward, and Nancy Ward. Farmer in Johnson County in 1850 and 1860. Served in the 65th Regiment of Kentucky Militia as private from May 21, 1864 to June 21, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 102B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 53.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County, Barnett’s Creek, p. 28.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 001912950, p. 110.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 895.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
