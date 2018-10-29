@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,30 @@
                       John William Roberts
                         (Johnson County, cabinet maker and soldier)
                     </persName>
+                        <event type="birth"  when="1831-07-24"  ><ab>1831-07-24</ab></event>
+                        <event type="death"  when="1893-01-19"  ><ab>1893-01-19</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, cabinet maker and soldier. Nelson County, Kentucky native. Son of Horrace Roberts and Mary K. Roberts. Married to Louisa Ferguson Roberts on August 12, 1852. Father of James T. Roberts, Mary J. Roberts, William M. Roberts, Nancy Roberts, Daniel Roberts, and Elizabeth Roberts. Carpenter in Johnson County in 1850. Cabinet maker in Johnson County in 1860. Served in the 65th Regiment of Kentucky Militia as private from May 21, 1864 to June 21, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 80B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 3.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County, Paintsville, p. 2.
+
+<hi rend="italic">Kentucky Marriage Records on Microfilm (1852-1910)</hi>, KDLA, Roll #994038, Johnson County Marriages, p. 1.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 895.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
