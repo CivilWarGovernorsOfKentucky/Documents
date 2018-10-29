@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,25 @@
                       James Rice
                         (Johnson County, soldier)
                     </persName>
+                        <event type="birth"  when="1845-05-07"  ><ab>1845-05-07</ab></event>
+                        <event type="death"  when="1917-12-04"  ><ab>1917-12-04</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, soldier. Kentucky native. Son of Martin M. Rice and Sarah Rice. Resident in Johnson County in 1850 and 1860. Served in the 65th Regiment of Kentucky Militia as private from May 21, 1864 to June 21, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 89A-89B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 17.
+
+<hi rend="italic">Find A Grave</hi>, &quot;James Rice (1845-1917),&quot; Memorial #135939194, https://www.findagrave.com/memorial/135939194 (accessed October 29, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
