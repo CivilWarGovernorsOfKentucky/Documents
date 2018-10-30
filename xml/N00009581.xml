@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Wallis B. Arms
                         (Johnson County, farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1826-01-04"  ><ab>1826-01-04</ab></event>
+                        <event type="death"  when="1917-07-28"  ><ab>1917-07-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer and soldier. Kentucky native. Son of Aaron Arms and Betsy Shepherd Arms. Married to Mary B. Blare Arms on January 20, 1860. Father of Rachel E. Arms and Martha Jane Arms. Resident in Johnson County in 1850. Farmer in Johnson County in 1860. Served in the 65th Regiment of Kentucky Militia as corporal from May 21, 1864 to June 21, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 124B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 15.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County, Paintsville, p. 4. 
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 001912950, p. 165.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 896.
+
+<hi rend="italic">Kentucky Death Records on Microfilm (1852-1910)</hi>, KDLA, Roll #7016155, All Counties Marriages, p. 2763.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
