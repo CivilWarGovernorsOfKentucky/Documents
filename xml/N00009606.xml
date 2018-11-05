@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Isaac stableton</title>
+        <title level="a" type="main">Isaac Stableton</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,7 +43,7 @@
         <particDesc>
                 <person xml:id="N00009606">
                     <persName>
-                      Isaac stableton
+                      Isaac Stableton
                         (Johnson County, soldier)
                     </persName>
                         <event type="birth"  when="1844"  cert="medium" ><ab>c1844</ab></event>
@@ -49,5 +53,15 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, soldier. Kentucky native. Farmer in Johnson County. Served in the 65th Regiment of Kentucky Militia as private from May 21, 1864 to June 21, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 74.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 895.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
