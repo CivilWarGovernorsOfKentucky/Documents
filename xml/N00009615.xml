@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Martin Preston
                         (Johnson County, merchant)
                     </persName>
+                        <event type="birth"  when="1828-01-08"  ><ab>1828-01-08</ab></event>
+                        <event type="death"  when="1891-06-24"  ><ab>1891-06-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, merchant. Lawrence County, Kentucky native. Son of Moses Preston, Sr. Married to Nancy Marion Laird on May 31, 1854. Married to Julia Brown Preston on September 24, 1856. Father of South G. Preston, Emily A. Preston, Francis A. Preston, and Thomas G. Preston. Clerk in Johnson County in 1850. Merchant in Johnson County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 81A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 2.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County, Paintsville, p. 38. 
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 001912950, p. 191.
+
+<hi rend="italic">Kentucky Marriage Records on Microfilm (1852-1914)</hi>, KDLA, Roll #994027-994058, Johnson County Marriages, p. 5.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Martin Preston (1828-1891),&quot; Memorial #39221013, https://www.findagrave.com/memorial/39221013# (accessed November 6, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
