@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">F. N. Alexander</title>
+        <title level="a" type="main">Francis N. Alexander</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,24 @@
         <particDesc>
                 <person xml:id="N00009621">
                     <persName>
-                      F. N. Alexander
-                        ()
+                      Francis N. Alexander
+                        (Captain in the 1st Kentucky Volunteer Cavalry Regiment)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Captain in the 1st Kentucky Volunteer Cavalry Regiment (U.S.A.) from July 1, 1861, to April 14, 1863. Colonel in the 30th Kentucky Volunteer Infantry Regiment (U.S.A.) from April 5, 1864, to April 18, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 28-29.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 286-287. 906.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
