@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">S. S. Newman</title>
+        <title level="a" type="main">Shepard S. Newman</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Brianna Kirk</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00009374">
                     <persName>
-                      S. S. Newman
+                      Shepard S. Newman
                         (Kenton county)
                     </persName>
+                        <event type="birth"  when="1818"  ><ab>1818</ab></event>
+                        <event type="death"  when="1874"  ><ab>1874</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Member of a jury before whom two cases against William Nichols were tried in Kenton Circuit Court in Kenton County, Kentucky, in 1861.</p>
+        <p>Covington, Kentucky, master tobacconist. Kentucky native. Married to Elizabeth Newman. Father of Ellen Newman, Mary Newman, Robert Newman, Theodore Newman, Charles Newman, John Newman, Winfield Newman, Clara Newman, and George Newman. Tobacconist in Covington in 1850. Master tobacconist in Covington in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1449
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Kenton County, Covington, Ward 1, p. 221B<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington, p. 183.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Shepard S. Newman (1818-1874),&quot; Memorial #52876858, http://www.findagrave.com/memorial/52876858 (accessed November 15, 2018).
 </bibl></ab>
     </back>
 </text>
