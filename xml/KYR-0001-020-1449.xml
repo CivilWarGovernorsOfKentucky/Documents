@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1449"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brianna Kirk</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Commonwealth of Ky.
-<lb/>against &#125; Two Indictments for Felony.
-<lb/>William Nichols</p>
-<p>The following are the names of the jurors before whom the above two cases were tried at the <date when="1861-09">September Term of the Kenton Circuit Court 1861,</date> viz. H Bond, E. T. Clarkson, J. B. Lendrum H. E. Boswell, J. D. Reese William Wason S. S. Newman J. B. Wason John Maxwell. L. L. Daniel, J. Lett &amp; C. Blackburn.</p>
+   <p><orgName ref="cwgk:O001025">Commonwealth of Ky.</orgName><lb/>against } Two Indictments for Felony.
+<lb/><persName ref="cwgk:N00007671">William Nichols</persName></p>
+<p>The following are the names of the jurors before whom the above two cases were tried at the September Term of the  viz. <orgName ref="cwgk:O00000410">Kenton Circuit Court</orgName> 1861,<persName ref="cwgk:N00009415">H Bond</persName>, <persName ref="cwgk:N00006310">E. T. Clarkson</persName>, J. B. Lendrum <persName ref="cwgk:N00004641">H. E. Boswell</persName>, <persName ref="cwgk:N00009373">J. D. Reese</persName> <persName ref="cwgk:N00005631">William Wason</persName> <persName ref="cwgk:N00009374">S. S. Newman</persName> <persName ref="cwgk:N00004642">J. B. Wason</persName> <persName ref="cwgk:N00009416">John Maxwell</persName>. <persName ref="cwgk:N00004639">L. L. Daniel</persName>, <persName ref="cwgk:N00009422">J. Lett </persName>&amp; <persName ref="cwgk:N00004523">C. Blackburn</persName>.</p>
 <p>A Copy Att
-<lb/>N B Stephens Clerk
-<lb/>By G. E, Blackburn D C</p>
+<lb/><persName ref="cwgk:N00008145">N B Stephens </persName>Clerk<lb/>By <persName ref="cwgk:N00009372">G. E. Blackburn</persName> D C</p>
   </body>
  </text>
 </TEI>
