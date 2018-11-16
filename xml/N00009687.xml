@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Ezekiel G. Chapman
                         (Lawrence County, soldier)
                     </persName>
+                        <event type="birth"  when="1842-11-10"  ><ab>1842-11-10</ab></event>
+                        <event type="death"  when="1875-02-24"  ><ab>1875-02-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,25 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lawrence County, Kentucky, soldier. Kentucky native. William Chapman, Sr. and Mary H. Chapman. Resident in Lawrence County in 1850 and 1860. Served in the 14th Kentucky Volunteer Infantry Regiment (U.S.A.) as private and corporal from 1861 to 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lawrence County, p. 77B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lawrence County, Louisa, p. 27.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lawrence County, Louisa, p. 1.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 271.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 887.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 000840550 p. 1.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Ezekiel G. Chapman (1842-1875),&quot; Memorial #135974477, https://www.findagrave.com/memorial/135974477# (accessed November 16, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
