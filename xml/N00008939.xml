@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>
     </titleStmt>
@@ -48,6 +52,7 @@
                     </persName>
                         <event type="birth"  when="1835-01-01"  ><ab>1835-01-01</ab></event>
                         <event type="death"  when="1912-09-12"  ><ab>1912-09-12</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -55,11 +60,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Morgan County, Kentucky, farmer. Kentucky native. Married to Clarinda McKinzie on September 14, 1859. Father of Gongalpha Walsh, John Walsh, Frank Walsh, Malinda Walsh, Mosolette Walsh, Martha Walsh, Marry Walsh, William Walsh, and Lou Walsh. Farmer in Morgan County in 1860.</p>
+        <p>Morgan County, Kentucky, farmer. Kentucky native. Married to Clarinda McKinzie Walsh on September 14, 1859. Father of Gongalpha Walsh, John Walsh, Frank Walsh, Malinda Walsh, Mosolette Walsh, Martha Walsh, Marry Walsh, William Walsh, and Lou Walsh. Farmer in Morgan County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Morgan County, Division 2, p. 97. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Morgan County, West Liberty, p. 12. <hi rend="italic">Find A Grave</hi>, &quot;William A. Walsh (1835-1912),&quot; Memorial #62261397, https://www.findagrave.com/memorial/62261397/william-a.-walsh# (accessed on August 1, 2018).
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Morgan County, Division 2, p. 97. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Morgan County, West Liberty, p. 12. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Morgan County Marriages, Film #000839918, p. 177-78.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;William A. Walsh (1835-1912),&quot; Memorial #62261397, <lb/>
+https://www.findagrave.com/memorial/62261397/william-a.-walsh# (accessed on August 1, 2018).
 </bibl></ab>
     </back>
 </text>
