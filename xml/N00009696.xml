@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -43,6 +47,7 @@
                         (Lawrence County, farm hand and sheriff)
                     </persName>
                         <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <event type="death"  when="1867"  cert="medium" ><ab>c1867</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +55,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lawrence County, Kentucky, farm hand and sheriff. Kentucky native. Son of John H. Allison and Mary J. Allison. Farmer in Lawrence County in 1850. Farm hand in Lawrence County in 1860. Sheriff of Lawrence County in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lawrence County, p. 91B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lawrence County, p. 29.
+
+“Kentucky Election,” Louisville Daily Courier, August 18, 1866.
+
+“The Kentucky Legislature,” Louisville Daily Courier, January 8, 1867.
+
+“Kentucky Legislature,” The Louisville Daily Journal, January 18, 1868.
+
+KYR-0001-004-3357
+</bibl></ab>
+    </back>
 </text>
 </TEI>
