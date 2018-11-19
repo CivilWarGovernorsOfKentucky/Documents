@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00009706">
                     <placeName>
                         <location>
+                              <geo>38.3975 -82.558</geo>
                             <settlement>Ceredo, West Virginia</settlement>
                         </location>
                     </placeName>
@@ -48,5 +53,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Town in Wayne County, West Virginia. Located on the Ohio River.</p>
+
+    </body>
+    <back>
+        <ab><bibl>“Ceredo,” <hi rend="italic">The West Virginia Encyclopedia</hi>, https://www.wvencyclopedia.org/articles/1040 (accessed November 19, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
