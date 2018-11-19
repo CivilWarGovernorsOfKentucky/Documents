@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">1st Ohio Volunteer Infantry Regiment (U.S.A.)</title>
+        <title level="a" type="main">1st Ohio Volunteer Infantry Three-Month Regiment (U.S.A.)</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -38,11 +42,21 @@
             </textClass>
             <particDesc>
                 <org xml:id="O00009708">
-                    <orgName>1st Ohio Volunteer Infantry Regiment (U.S.A.)</orgName>
+                    <orgName>1st Ohio Volunteer Infantry Three-Month Regiment (U.S.A.)</orgName>
+                        <event type="begun"  when="1861-04-17"  ><ab>1861-04-17</ab></event>
+                        <event type="ended"  when="1861-08-02"  ><ab>1861-08-02</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at large. Mustered in on April 17, 1861. Mustered out on August 2, 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Frederick Dyer, <hi rend="italic">A Compendium of the War of the Rebellion</hi> (Des Moines: The Dyer Publishing Company, 1908), 1496.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
