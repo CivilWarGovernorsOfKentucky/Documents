@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,34 @@
                 <person xml:id="N00009701">
                     <persName>
                       Samuel Orr
-                        ()
+                        (Delaware County, farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1813-06-09"  ><ab>1813-06-09</ab></event>
+                        <event type="death"  when="1876-11-09"  ><ab>1876-11-09</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Delaware County, Indiana, farmer and soldier. Ireland native. Married to Jane E. Moore Orr. Father of Elizabeth M. Orr, James H. Orr, Sarah M. William Walter Orr, Martha Louisa Orr, George T. Orr, and Jemima J. Orr. Farmer in Delaware County in 1850 and 1860. Served in the 84th Indiana Volunteer Infantry Regiment (U.S.A.) as lieutenant colonel in 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Delaware County, Liberty, p. 317B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Delaware County, Liberty, p. 66.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Delaware County, Liberty, p. 21.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Indiana</hi>, NARA RG 94, Microfilm Series M540, Roll 57.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Col Samuel Orr (1813-1876),&quot; Memorial #13159960, https://www.findagrave.com/memorial/13159960/samuel-orr# (accessed November 19, 2018).
+
+Levander John Monks, <hi rend="italic">Courts and Lawyers of Indiana, Volume 3</hi>, (Federal Publishing Company, 1916), 1281.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
