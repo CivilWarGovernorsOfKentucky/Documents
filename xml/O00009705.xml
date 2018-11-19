@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,20 @@
             <particDesc>
                 <org xml:id="O00009705">
                     <orgName>84th Indiana Volunteer Infantry Regiment (U.S.A.)</orgName>
+                        <event type="begun"  when="1862-09-03"  ><ab>1862-09-03</ab></event>
+                        <event type="ended"  when="1865-06-14"  ><ab>1865-06-14</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Richmond and Indianapolis, Indiana. Mustered in on September 3, 1862. Mustered out on June 14, 1865. Commander(s): Colonel Nelson Trusler.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Frederick Dyer, <hi rend="italic">A Compendium of the War of the Rebellion</hi> (Des Moines: The Dyer Publishing Company, 1908), 1149.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
