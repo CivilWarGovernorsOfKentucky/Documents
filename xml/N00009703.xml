@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,29 @@
                 <person xml:id="N00009703">
                     <persName>
                       Gaylord McFall
-                        ()
+                        (Richland County, Ohio, merchant and soldier)
                     </persName>
+                        <event type="birth"  when="1829"  ><ab>1829</ab></event>
+                        <event type="death"  when="1898"  ><ab>1898</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Richland County, Ohio, merchant and soldier. Ohio native. Son of Hugh McFall and Clarissa McFall. Merchant in Madison, Ohio in 1850. Merchant in Mansfield, Ohio in 1860. Served in the McLaughin’s Squadron Ohio Cavalry (U.S.A). as captain and major in 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Richland County, Madison, p. 122B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Richland County, Mansfield, Ward 1, p. 23.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Ohio</hi>, NARA RG 94, Microfilm Series M552, Roll 71.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Maj Gaylord McFall (1829-1898),&quot; Memorial #124764554, https://www.findagrave.com/memorial/124764554# (accessed November 19, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
