@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,29 @@
                 <person xml:id="N00009709">
                     <persName>
                       John L. Zeigler
-                        ()
+                        (Wayne County, West Virginia, farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1813"  cert="medium" ><ab>c1813</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Wayne County, West Virginia, farmer and soldier. Pennsylvania native. Married to Susan Zeigler. Father of Hiram C. Zeigler, William A. Zeigler, Elizabeth M. Zeigler, John H. Zeigler, Helen M. Zeigler, Joseph P. Zeigler, Caroline E. Zeigler, and Amanda H. Zeigler. Farmer in Wayne County in 1850 and 1860. Served in the 5th West Virginia Volunteer Infantry Regiment (U.S.A.) as colonel from September 14, 1861 to April 14, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Virginia, Wayne County, District 66, p. 232B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Richland County, Mansfield, Ward 3, p. 66.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Boyd County, Catlettsburg, p. 1.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of West Virginia</hi>, NARA RG 94, Microfilm Series M508, Roll 131.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
