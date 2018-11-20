@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00009711">
                     <placeName>
                         <location>
+                              <geo>38.9006 -77.2643</geo>
                             <settlement>Vienna, Virginia</settlement>
                         </location>
                     </placeName>
@@ -48,5 +53,9 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Town in Fairfax County, Virginia.</p>
+
+    </body>
 </text>
 </TEI>
