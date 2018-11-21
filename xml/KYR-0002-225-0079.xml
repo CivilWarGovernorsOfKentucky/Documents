@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0079"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brianna Kirk</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Colesburg <date when="1865-03-11">March 11<hi rend="underline"><hi rend="sup">th</hi></hi> 18,65</date>
-<lb/>To His Excelency Gov Bramlette</p>
-<p>I have the Honor to make aplication to you for authority to recruit a Company of State troops to Serve in the State of Ky for the period of twelve months I have Served over three years in the Fedral army and know Cannot remain at Home on account of Gurillas if you will favor me with authority please Send me Some Blank Enlistment papers</p>
+   <p><placeName ref="cwgk:P00008678">Colesburg</placeName> <date when="1865-03-11">March 11<hi rend="underline"><hi rend="sup">th</hi></hi> 18,65</date>
+<lb/>To His Excelency <persName ref="cwgk:N001000">Gov Bramlette</persName></p>
+<p>I have the Honor to make aplication to you for authority to recruit a Company of <orgName ref="cwgk:O00000303">State troops</orgName> to Serve in the State of Ky for the period of twelve months I have Served over three years in the <orgName ref="cwgk:O00001186">Fedral army</orgName> and know Cannot remain at Home on account of Gurillas if you will favor me with authority please Send me Some Blank Enlistment papers</p>
 <p>Hopeing this May
 <lb/>Meet with your approval
 <lb/>I am your obdt Servant
-<lb/>John, F. Lay
-<lb/>Late Lt 48<hi rend="underline"><hi rend="sup">th</hi></hi> Ky<pb/></p>
-<p>Colesburg Ky
-<lb/><date when="1865-03-11">Mar. 11" 1865</date><figure type="hr"/>
+<lb/><persName ref="cwgk:N00008679">John, F. Lay</persName><lb/>Late Lt 48<hi rend="underline"><hi rend="sup">th</hi></hi> Ky<pb/></p>
+<p>Colesburg <placeName ref="cwgk:P001800">Ky</placeName><lb/><date when="1865-03-11">Mar. 11" 1865</date><figure type="hr"/>
 <lb/>Lay John F.
-<lb/>Late Lt. 48" Ky,<figure type="hr"/>
+<lb/>Late Lt. 48" <placeName ref="cwgk:P001800">Ky</placeName>,<figure type="hr"/>
 <lb/>To The Gov.<figure type="hr"/></p>
 <p>Desires authority to raise a Co. for 1 year state service -- </p>
 <p>If granted send necessary blanks and instructions -- <figure type="hr"/></p>
