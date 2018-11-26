@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,27 @@
                 <person xml:id="N00009724">
                     <persName>
                       Calvin Fuller
-                        ()
+                        (Wayne County, West Virginia, farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Wayne County, West Virginia, farmer and soldier. Virginia native. Married to Margarett Fuller. Father of James E. Fuller and Francis M. Fuller. Farmer in Wayne County, Virginia in 1860. Served in the Round Bottom Company of the Virginia State Militia (U.S.A.) as captain from 1862 to 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Virginia, Wayne County, p. 76.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, West Virginia, Wayne County, Butler, p. 8.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Virginia</hi>, NARA RG 94, Microfilm Series M508, Roll 7.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
