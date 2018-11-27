@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Brianna Kirk</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -43,6 +47,7 @@
                         (person, Bullitt County)
                     </persName>
                         <event type="birth"  when="1846"  cert="medium" ><ab>c1846</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -50,11 +55,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Bullitt County, Kentucky, resident. Kentucky native. Signs a petition letter to Governor Thomas E. Bramlette on May 28, 1864. Resident in Bullitt County in 1860.</p>
+        <p>Bullitt County, Kentucky, resident. Kentucky native. Resident in Bullitt County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, District 2, p. 148. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bullitt County, Sheperdsville, p. 679.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, District 2, p. 148. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bullitt County, Shepherdsville, p. 3.
 </bibl></ab>
     </back>
 </text>
