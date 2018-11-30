@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -44,11 +48,26 @@
                     </persName>
                         <event type="birth"  when="1807"  ><ab>1807</ab></event>
                         <event type="death"  when="1901"  ><ab>1901</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ashland, Kentucky, merchant. Virginia native. Married to Lavinia Callihan. Father of Josephine Callihan, Mary A. L. Callihan, Leonidas Callihan, Henrietta Callihan, and Caroline Callihan. Merchant in Lawrence County, Kentucky in 1850. Merchant in Ashland in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lawrence County, p. 77A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boyd County, Ashland, p. 130.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Boyd County, Ashland, p. 11.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Rev R. D. Callihan (1807-1901),&quot; Memorial #66039052, https://www.findagrave.com/memorial/66039052/r.d.-callihan# (accessed November 29, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
