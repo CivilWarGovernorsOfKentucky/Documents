@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009750">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Reuben Hitchcock</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009750">
+                    <persName>
+                      Reuben Hitchcock
+                        (Ohio attorney)
+                    </persName>
+                        <event type="birth"  when="1806-09-02"  ><ab>1806-09-02</ab></event>
+                        <event type="death"  when="1883-12-09"  ><ab>1883-12-09</ab></event>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Ohio attorney. Ohio native. Son of Peter Hitchcock and Nabby Cowles. Attended Yale University in New Haven, CT. Married to Sarah Marshall in 1834. Father of Peter Hitchcock, Eliza Hitchcock, Edward Hitchcock, and Hellen H. Hitchcock. Admitted to the bar in 1830. Judge of Common Pleas from 1851 to 1855. Vice president of the Cleveland and Mahoning Railroad. Special commissioner to review the cases of political prisoners incarcerated at Camp Chase, Ohio, from August 13, 1862, to October 30, 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Cuyahoga County, Cleveland Ward 2, p. 208A. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Lake County, Painesville Village, p. 418.
+
+_Obituary Record of Graduates of Yale College Deceased during the Academical Year ending in June 1884, presented at the meeting of alumni, June 28, 1884, p. 168.
+
+<hi rend="italic">The War of the Rebellion: A Compilation of the Official Records of the Union and Confederate Armies</hi>, 128 vols. (Washington, D.C., 1880-1901), series 2, vol. 4: 380, 690.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
