@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. J. Sparks</title>
+        <title level="a" type="main">Richard J. Sparks</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Louise Jones</name>
@@ -43,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00009767">
                     <persName>
-                      R. J. Sparks
-                        ()
+                      Richard J. Sparks
+                        (Oldham County, Kentucky farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1832-08-07"  ><ab>1832-08-07</ab></event>
+                        <event type="death"  when="1864-06-29"  ><ab>1864-06-29</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,8 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Richard J. Sparks, Captain of Captain Sparks Co. Oldham County State Guard, served September 17, 1862 to October 31, 1862</p>
+        <p>Oldham County, Kentucky farmer and soldier. Oldham County native. Married to Mildred A. Rouce Sparks in 1859.  Father of John Sparks and Emma Sparks. Farmer in Oldham County  in 1860.  Captain in Captain Sparks Company. Oldham County State Guard, served September 17, 1862 to October 31, 1862.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994035, Shelby County Marriages, p. 11.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Oldham County, p. 70.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 856<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Capt Richard J Sparks (1832-1864),&quot; Memorial #72781290, http://www.findagrave.com/memorial/72781290 (accessed December 3, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
