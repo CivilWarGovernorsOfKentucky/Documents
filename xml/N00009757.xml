@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       John Wesley Malone
                         (Logan County, lawyer and county judge)
                     </persName>
+                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Logan County, Kentucky, lawyer and county judge. Sumner County, Tennessee native. Son of William L. Malone and Sarah Shelby Weatherred Malone. Married to Elizabeth E. Malone. Father of Rowina Malone, John W. Malone, and Shelby Malone. Lawyer in Sumner County in 1850. Owned three enslaved persons in Sumner County in 1850. Lawyer in Logan County in 1860. Owned eight enslaved persons in Logan County in 1860. Logan County Judge in 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Sumner County, District 5, p. 106B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Tennessee, Sumner County, District 5, p. 1.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Logan County, District 2, p. 152.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Logan County, District 1, p. 29.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Logan County, Clay, p. 54.
+
+Jay Guy Cisco, <hi rend="italic">Historic Sumner County, Tennessee with Genealogies of the Bledsoe, Cage, and Douglass Families and Genealogical Notes of Other Sumner County Families</hi> (Nashville, TN: Folk-Keelin Printing Company, 1909), 118.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
