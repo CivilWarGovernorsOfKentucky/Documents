@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,22 @@
             <particDesc>
                 <org xml:id="O00009777">
                     <orgName>26th Kentucky Volunteer Infantry Regiment (U.S.A.)</orgName>
+                        <event type="begun"  when="1862-03-05"  ><ab>1862-03-05</ab></event>
+                        <event type="ended"  when="1865-07-10"  ><ab>1865-07-10</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Owensboro, Kentucky. Mustered in on March 5, 1862 and mustered out on July 10, 1865. Commander(s): Colonel Thomas B. Farleigh.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Report of the Adjutant General of the State of Kentucky_, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 708.
+
+Frederick Dyer, <hi rend="italic">A Compendium of the War of the Rebellion</hi> (Des Moines: The Dyer Publishing Company, 1908), 1208.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
