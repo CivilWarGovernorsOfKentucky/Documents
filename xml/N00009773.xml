@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00009773">
                     <persName>
                       Martin Jefferson Roark
-                        (Muhlenberg County, dry goods clerk and soldier)
+                        (Muhlenberg County, farmer, dry goods clerk, and soldier)
                     </persName>
+                        <event type="birth"  when="1833"  ><ab>1833</ab></event>
+                        <event type="death"  when="1908"  ><ab>1908</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,25 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Muhlenberg County, Kentucky, farmer, dry goods clerk, and soldier. Kentucky native. Son of William Roark and Martha Roark. Married to Nancy W. Davis Roark on May 6, 1858. Father of Rudick Roark. Farmer in Muhlenberg County in 1850. Dry goods clerk in Muhlenberg County in 1860. Served in the 11th Kentucky Volunteer Infantry Regiment (U.S.A.) as captain from January 1862 to July 1863. Served in the 71st Regiment Kentucky Enrolled Militia from December 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Muhlenberg County, District 1, p. 208A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Muhlenberg County, District 1, p. 132.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Muhlenberg County, Greenville, p. 11.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 000367208, p. 159.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 838.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 484.
+
+<hi rend="italic">Find A Grave</hi>, &quot;CPT Martin Jefferson Roark (1833-1908),&quot; Memorial #148516448, https://www.findagrave.com/memorial/148516448# (accessed December 5, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
