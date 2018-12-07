@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Henry English
                         (Madison County, miller, farmer, and soldier)
                     </persName>
+                        <event type="birth"  when="1835-01-20"  ><ab>1835-01-20</ab></event>
+                        <event type="death"  when="1917-06-12"  ><ab>1917-06-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,21 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Madison County, Kentucky, miller, farmer, and soldier. Son of Thomas A. English and Jane English. Married to Sarah Adams English on March 16, 1865. Miller and farmer in Madison County in 1860. Served in the 8th Kentucky Volunteer Infantry Regiment (U.S.A.) as private from September 23, 1861 to November 17, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Madison County, Division 1, p. 153.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Madison County, Elliston, p. 41.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 000183318, p. 63.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 221.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Henry English (1835-1917),&quot; Memorial #99016089, https://www.findagrave.com/memorial/99016089# (accessed December 7, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
