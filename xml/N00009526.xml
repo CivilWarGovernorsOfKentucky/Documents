@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Robert. B. Jameson</title>
+        <title level="a" type="main">Robert B. Jameson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Will Shelton</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Louise Jones</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00009526">
                     <persName>
-                      Robert. B. Jameson
-                        ()
+                      Robert B. Jameson
+                        (Owsley County merchant and soldier, served in 8th Ky Infantry USA)
                     </persName>
+                        <event type="birth"  when="1827-01-14"  ><ab>1827-01-14</ab></event>
+                        <event type="death"  when="1892-07-31"  ><ab>1892-07-31</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +56,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Served as Captain in 8th Kentucky Infantry (U.S.A) from January 15th, 1862 until he resigned on March 17th, 1863.</p>
+        <p>Beattyville, Owsley County Kentucky merchant and soldier. Kentucky native. Married to Gilly Ann Jameson. Father of George Ella Jameson, Wlaker Jameson and Bronlow Jameson. Served as Captain in 8th Kentucky Infantry (U.S.A) from January 15th, 1862 until he resigned on March 17th, 1863.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owsley County, Beatyville, p. 376<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>Robert B. Jameson, NARA RG 94, Microfilm Series M397, Roll 223.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lee County, Proctor, p. 335B
+</bibl></ab>
+    </back>
 </text>
 </TEI>
