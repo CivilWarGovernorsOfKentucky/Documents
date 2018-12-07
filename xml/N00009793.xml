@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       George Wesley Hancock Stouch
                         (Madison County, drug store clerk and soldier)
                     </persName>
+                        <event type="birth"  when="1842-03-03"  ><ab>1842-03-03</ab></event>
+                        <event type="death"  when="1906-11-10"  ><ab>1906-11-10</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Madison County, Kentucky, drug store clerk and soldier. Gettysburg, Pennsylvania native. Son of William Stouch and Margaret Stouch. Resident in York County, Pennsylvania in 1850. Drug store clerk in Madison County in 1860. Served in the 11th United States Infantry as private, corporal, sergeant major, and second lieutenant from November 30, 1861 to May 18, 1864. Served in the 3rd United States Infantry as second lieutenant and first lieutenant from May 18, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Pennsylvania, York County, North Ward, p. 4A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Madison County, Division 1, p. 150.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kansas, Ford County, Fort Dodge, p. 12.
+
+<hi rend="italic">Find A Grave</hi>, &quot;LTC George Wesley Hancock Stouch (1842-1906),&quot; Memorial #23890211, https://www.findagrave.com/memorial/23890211 (accessed December 7, 2018).
+
+<hi rend="italic">General Index to Pension Files, 1861-1934</hi> (Washington, D.C.: National Archives and Records Administration), T288, Stork, William—Strauch, Thomas, p. 1103.
+
+“Death of Lieut. Col. Stouch: Remains to Be Interred With Military Honors,” <hi rend="italic">Evening Star</hi>, November 12, 1906.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
