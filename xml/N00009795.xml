@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       George W. Maupin, Jr.
                         (Madison County, soldier)
                     </persName>
+                        <event type="birth"  when="1842-03-07"  ><ab>1842-03-07</ab></event>
+                        <event type="death"  when="1893-08-30"  ><ab>1893-08-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,25 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Madison County, Kentucky, soldier. Kentucky native. Son of George W. Maupin, Sr. Resident in Madison County in 1850 and 1860. Household owned eight enslaved persons in Madison County in 1850. Household owned fifteen enslaved persons in Madison County in 1860. Served in the 11th Kentucky Volunteer Cavalry Regiment (C.S.A.) as second lieutenant from September 1862 to December 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Madison County, District 1, p. 228B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Madison County, District 1, p. 507.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Madison County, Division 1, p. 137.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Madison County, Division 1, p. 33.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Madison County, Yates, p. 57.
+
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 60.
+
+<hi rend="italic">Find A Grave</hi>, &quot;George Washington Maupin, Jr (1842-1893),&quot; Memorial #71631735, https://www.findagrave.com/memorial/71631735# (accessed December 7, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
