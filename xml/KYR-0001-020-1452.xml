@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1452"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,16 +72,14 @@
  <text>
   <body>
    <p>To His Excellency,
-<lb/>Beriah Magoffin;
-<lb/>Governor of Ky.
-<lb/>Dear Sir;</p>
-<p>I herewith transmit to you the papers in reference to the pardon of William Nichols, a convict now confined in the penitentiary at Frankfort, and in the name of <hi rend="underline">humanity</hi> <hi rend="underline">implore</hi> your Excellency to give them your attention, at your very earliest convenience.</p>
-<p>The papers are three several petitions, which I have numbered 1, 2, and 3; and also the letter of Hon. John F. Fisk, and my late partner M. M. Benton. The petition N<hi rend="underline"><hi rend="sup">o</hi></hi> 1. is signed by several members of the bar, the clerk of the court, (M<hi rend="underline"><hi rend="sup">r</hi></hi> Ellis) the Mayor of ths city (Hon John A. Goodson) the city Marshall, (Clinton Butts) and others, who happened to be present and heard the evidence. This is the petition of which M<hi rend="underline"><hi rend="sup">r</hi></hi> Benton speaks in his letter. -- N<hi rend="underline"><hi rend="sup">o</hi></hi> 2 is signed by the immediate neighbors of Nichols, <hi rend="str">M</hi><hi rend="underline"><hi rend="str"><hi rend="sup">r</hi></hi></hi><hi rend="str"> Geo Phillips</hi> and the description of persons who have signed it certified to by the book=keeper of Messrs. Phillips &amp; Son, his employers. -- <hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 3 is signed by all the jurors who tried Nichols' case but one</hi>, and by divers others respectable and well known citizens, among whom is George Phillips, in whose rolling mill Nichols has worked for the last three years.<pb/></p>
+<lb/><persName ref="cwgk:N00000258">Beriah Magoffin</persName>;<lb/>Governor of <orgName ref="cwgk:O001025">Ky</orgName>.<lb/>Dear Sir;</p>
+<p>I herewith transmit to you the papers in reference to the pardon of <persName ref="cwgk:N00007671">William Nichols</persName>, a convict now confined in the <orgName ref="cwgk:O00000266">penitentiary </orgName>at <placeName ref="cwgk:P00000308">Frankfort</placeName>, and in the name of <hi rend="underline">humanity</hi> <hi rend="underline">implore</hi> your Excellency to give them your attention, at your very earliest convenience.</p>
+<p>The papers are three several petitions, which I have numbered 1, 2, and 3; and also the letter of Hon. <persName ref="cwgk:N00000460">John F. Fisk</persName>, and my late partner <persName ref="cwgk:N00007664">M. M. Benton</persName>. The petition N<hi rend="underline"><hi rend="sup">o</hi></hi> 1. is signed by several members of the bar, the clerk of the court, (M<hi rend="underline"><hi rend="sup">r</hi></hi> Ellis) the Mayor of ths city (Hon<persName ref="cwgk:N00004625"> John A. Goodson</persName>) the city Marshall, (<persName ref="cwgk:N00006954">Clinton Butts</persName>) and others, who happened to be present and heard the evidence. This is the petition of which M<hi rend="underline"><hi rend="sup">r</hi></hi> Benton speaks in his letter. -- N<hi rend="underline"><hi rend="sup">o</hi></hi> 2 is signed by the immediate neighbors of Nichols, <hi rend="str">M</hi><hi rend="underline"><hi rend="str"><hi rend="sup">r</hi></hi></hi><hi rend="str"> Geo Phillips</hi> and the description of persons who have signed it certified to by the book=keeper of Messrs. <orgName ref="cwgk:O00009111">Phillips &amp; Son</orgName>, his employers. -- <hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 3 is signed by all the jurors who tried Nichols' case but one</hi>, and by divers others respectable and well known citizens, among whom is <persName ref="cwgk:N00009110">George Phillips</persName>, in whose rolling mill Nichols has worked for the last three years.<pb/></p>
 <p>I had intended to have the jurors sign N<hi rend="underline"><hi rend="sup">o</hi></hi> 1, but the person who had N<hi rend="underline"><hi rend="sup">o</hi></hi> 3. had obtained the first four jurors' names, before I was aware of the fact, and I thought best to have them all sign the same paper. </p>
 <p>I trust it may be consistent with your Excellency's Sense of duty, to restore this man to his distressed and helpless, and now worse than orphan, little children, and "the blessing of those ready to perish shall rest upon you"</p>
 <p>Yours truly
 <lb/><hi rend="underline">John S. Nixon</hi>.</p>
-<p>Covington Ky. <date when="1861-10-19">Oct. 19. 1861.</date></p>
+<p><placeName ref="cwgk:P00000936">Covington </placeName>Ky. <date when="1861-10-19">Oct. 19. 1861.</date></p>
   </body>
  </text>
 </TEI>
