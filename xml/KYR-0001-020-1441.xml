@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1441"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,27 +71,16 @@
  <text>
   <body>
    <p>To his Excellency
-<lb/>B Magoffin
-<lb/>Governor of Kentucky</p>
-<p>We the undersigned Citizens of Marshall would recomend and most respectfully ask that the find assessed against W. B. Walters and John Dishman at <date when="1860-09">September Term 1860</date> of the Marshall Equity &amp; Crimminal Court for two hundred Dollars each, be remitted, and as in duty bound we will ever pray &amp;c
-<lb/><date when="1860-09">Sept 1860</date></p>
-<p>A, Johnston
-<lb/>G, S, Jones
-<lb/>I H Flowers
-<lb/>C, H Philly
-<lb/>A. Williams
-<lb/>John Stice
-<lb/>R, A, Wade
-<lb/>Josiah Jordan
-<lb/>R, Stokes,
-<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> H, Johnston
+<lb/><persName ref="cwgk:N00000258">B Magoffin</persName><lb/>Governor of <placeName ref="cwgk:P001800">Kentucky</placeName></p>
+<p>We the undersigned Citizens of <placeName ref="cwgk:P00000910">Marshall </placeName>would recomend and most respectfully ask that the find assessed against <persName ref="cwgk:N00009050">W. B. Walters</persName> and <persName ref="cwgk:N00009051">John Dishman</persName> at <date when="1860-09">September Term 1860</date> of the <placeName ref="cwgk:P00000910">Marshall </placeName>Equity &amp; Crimminal Court for two hundred Dollars each, be remitted, and as in duty bound we will ever pray &amp;c<lb/><date when="1860-09">Sept 1860</date></p>
+<p><persName ref="cwgk:N00009048">A. Johnston</persName><lb/><persName ref="cwgk:N00006469">G. S. Jones</persName><lb/><persName ref="cwgk:N00009057">I H Flowers</persName><lb/><persName ref="cwgk:N00009049">C. H Philly</persName><lb/><persName ref="cwgk:N00009089">A. Williams</persName><lb/><persName ref="cwgk:N00009096">John Stice
+</persName><lb/><persName ref="cwgk:N00009088">R. A. Wade</persName><lb/><persName ref="cwgk:N00009075">Josiah Jordan</persName><lb/><persName ref="cwgk:N00009085">R. Stokes</persName>,<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> H, Johnston
 <lb/>Thoma H Bluett
-<lb/>Wm King
-<lb/>E, C, Dycus
-<lb/>James M<hi rend="sup">c</hi>Bride
+<lb/><persName ref="cwgk:N00009084">Wm King</persName><lb/><persName ref="cwgk:N00009079">E. C. Dycus
+</persName><lb/>James M<hi rend="sup">c</hi>Bride
 <lb/>Henry. Malone<pb/></p>
 <p>Marshall E &amp; C. Ct
-<lb/>&#36;200 each &#125; Assault
+<lb/>$200 each } Assault
 <lb/>W, B, Walters &amp; Jno Dishman
 <lb/>Resp<hi rend="sup">d</hi> 12 Mos
 <lb/>Iss<hi rend="sup">d</hi> <date when="1860-12-01">Decr, 1 1860</date></p>
