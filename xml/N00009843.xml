@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       John Hill
                         (Richmond, soldier)
                     </persName>
+                        <event type="death"  when="1864-02-19"  ><ab>1864-02-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Richmond, Kentucky, soldier. Served in the 11th Kentucky Volunteer Cavalry Regiment (C.S.A.) as private and sergeant from September 10, 1862 to February 19, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 60.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
