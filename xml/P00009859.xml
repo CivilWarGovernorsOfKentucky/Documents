@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00009859">
                     <placeName>
                         <location>
+                              <geo>38.5945 -83.5235</geo>
                             <settlement>Poplar Flat, Kentucky</settlement>
                         </location>
                     </placeName>
@@ -48,5 +53,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Community in Lewis County, Kentucky.</p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0002-022-0127
+</bibl></ab>
+    </back>
 </text>
 </TEI>
