@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00009862">
                     <persName>
                       William C. Halbert
-                        (Lewis County, lawyer)
+                        (Lewis County, farmer and lawyer)
                     </persName>
                         <event type="birth"  when="1816"  ><ab>1816</ab></event>
                         <event type="death"  when="1877"  ><ab>1877</ab></event>
@@ -51,5 +55,19 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lewis County, Kentucky, farmer and lawyer. Kentucky native. Married to Lavina A. Halbert. Father of Mary Halbert, Walker Halbert, Isaac W. Halbert, Willie C. Halbert, Rachel F. Halbert, Henry D. Halbert, and Anna L. Halbert. Farmer in Lewis County in 1850. Lawyer in Lewis County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lewis County, District 2, p. 156A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lewis County, p. 110.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lewis County, Vanceburg, p. 12.
+
+<hi rend="italic">Find A Grave</hi>, &quot;William Cottingham Halbert (1816-1877),&quot; Memorial #84061619, https://www.findagrave.com/memorial/84061619# (accessed December 13, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
