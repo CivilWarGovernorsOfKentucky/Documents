@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,28 @@
                 <person xml:id="N00009861">
                     <persName>
                       Andrew J. Farrow
-                        ()
+                        (Lewis County, farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lewis County, Kentucky, farmer and soldier. Indiana native. Married to Sarah F. Farrow. Father of Mary C. Farrow and George W. Farrow. Married to Nancy Mcilwain Farrow on February 13, 1855. Farmer in Lewis County in 1850 and 1860. Served in the 10th Kentucky Volunteer Cavalry Regiment (U.S.A.) as first lieutenant from September 9, 1862 to September 17, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lewis County, District 2, p. 167A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lewis County, p. 36
+
+<hi rend="italic">Kentucky Marriage Records on Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Lewis County Marriages, p. 4.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 101.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
