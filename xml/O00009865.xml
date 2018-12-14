@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,28 @@
             <particDesc>
                 <org xml:id="O00009865">
                     <orgName>Maysville Eagle</orgName>
+                        <event type="begun"  when="1815"  ><ab>1815</ab></event>
+                        <event type="ended"  when="1887"  ><ab>1887</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Maysville, Kentucky, newspaper. Owner(s): Thomas Marshall Green, from 1860 to 1887. Editor(s): Lewis Collins, from November 1820 to November 1847; Richard Henry Collins, from c1845 to 1850; Thomas B. Stevenson, from 1850 to 1853; Thomas A. Curran, from 1857 to 1860; and Thomas Marshall Green, from 1860 to 1887.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Kentucky Advocate</hi>, June 17, 1887.
+
+Lewis Collins and Richard H. Collins, <hi rend="italic">Collins&#39; Historical Sketches of Kentucky</hi>, vol. 1 (Covington, KY: Collins &amp; Co., 1874), 28, 185, 200.
+
+<hi rend="italic">The Biographical Encyclopedia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 522-525.
+
+Ron D. Bryant, &quot;Lewis Collins&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 214.
+
+Ron D. Bryant, &quot;Richard Collins&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 215.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
