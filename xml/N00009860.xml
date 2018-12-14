@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Louise Jones</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Louise Jones</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00009860">
                     <persName>
                       John Gault Jr.
-                        ()
+                        (Louisville, Kentucky clerk and soldier)
                     </persName>
                         <event type="birth"  when="1837-06-06"  ><ab>1837-06-06</ab></event>
                         <event type="death"  when="1917-04-24"  ><ab>1917-04-24</ab></event>
@@ -52,8 +56,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Jefferson County, Kentucky clerk and soldier. Louisville native.  Son of John and Deborah Shaw Gault.  Married to Mary R. Timmons on November 9, 1859. Father of Minnie Gault. Served</p>
+        <p>Louisville, Jefferson County, Kentucky clerk and soldier. Louisville native.  Son of John and Deborah Shaw Gault.  Married to Mary R. Timmons on November 9, 1859. Father of Minnie Gault. Served as a Major in the 28th Kentucky Infantry, mustering in on April 15, 1863.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, p. 397A<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, p. 882<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, p. 549A<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 260.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016194, Jefferson County Deaths, File #11070.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000482708, p. 178
+</bibl></ab>
+    </back>
 </text>
 </TEI>
