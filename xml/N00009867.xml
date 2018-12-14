@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00009867">
                     <persName>
                       William R. Gerhart
-                        (soldier)
+                        (Lancaster, Pennsylvania, soldier)
                     </persName>
+                        <event type="birth"  when="1844-01-10"  ><ab>1844-01-10</ab></event>
+                        <event type="death"  when="1906-08-06"  ><ab>1906-08-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,27 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lancaster, Pennsylvania, soldier. Gettysburg, Pennsylvania native. Son of Emanuel N. Gerhart and Eliza Gerhart. Graduated from Franklin and Marshall College in Lancaster. Served in the Nevin’s Pennsylvania Volunteer Light Artillery Regiment (U.S.A.) as first sergeant and second lieutenant from July 2, 1861. Served in the 121st United States Colored Infantry Regiment as major from July 25, 1865 to June 30, 1865. Served in the 125th United States Colored Infantry Regiment as major and colonel from July 25, 1865 to December 14, 1867.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Hamilton County, Cincinnati, p. 691A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Pennsylvania, Lancaster County, Lancaster, Northeast Ward, p. 31.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Pennsylvania, Franklin County, Montgomery, p. 36.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers belonging to units from the State of Pennsylvania</hi>, NARA RG 94, Microfilm Series M554, Roll 42.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served the United States Colored Troops: 56th-138th USCT Infantry, 1864-1866</hi>, NARA Roll RG94-USCT-121-Bx06.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served the United States Colored Troops: 56th-138th USCT Infantry, 1864-1866</hi>, NARA Roll RG94-USCT-125-Bx20.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Col William Rickenbaugh Gerhart (1844-1906),&quot; Memorial #87359611, https://www.findagrave.com/memorial/87359611# (accessed December 14, 2018).
+
+<hi rend="italic">Pennsylvania, Death Certificates, 1906-1965</hi>, Pennsylvania Historic and Museum Commission, Certificate Number Range: 072021-075250, p. 3256.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
