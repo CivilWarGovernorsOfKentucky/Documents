@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,8 @@
                       William Wormald
                         (Maysville, Kentucky, clerk)
                     </persName>
-                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
+                        <event type="birth"  when="1835-06-04"  ><ab>1835-06-04</ab></event>
+                        <event type="death"  when="1901-03-27"  ><ab>1901-03-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +55,19 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Maysville, Kentucky, clerk. Maysville native. Son of Jacob Wormald and Frances Cox Wormald. Clerk in Maysville in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, Maysville, p. 114B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Maysville, p. 36.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Maysville, Ward 2, p. 22.
+
+“William Wormald: Death Claims One of Maysville’s Best Citizens,” <hi rend="italic">The Evening Bulletin</hi>, March 28, 1901.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
