@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       William H. McGranaghan
                         (Maysville, Kentucky, physician)
                     </persName>
+                        <event type="birth"  when="1823-07-16"  ><ab>1823-07-16</ab></event>
+                        <event type="death"  when="1891-11"  ><ab>1891-11</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +56,20 @@
     </teiHeader>
     <text>
     <body>
-        <p>Maysville, Kentucky, physician.</p>
+        <p>Maysville, Kentucky, physician. Clarksburg, Virginia native. Married to Jane R. Ellis McGranaghan on December 4, 1845. Father of Anna C. McGranaghan, Jennie E. McGranaghan, Lydia E. McGranaghan, William H. McGranaghan, Frank G. McGranaghan, and LuAmy McGranaghan. Physician in Maysville in 1850 and 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, Maysville, p. 36A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Maysville, p. 47.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Maysville, Ward 2, p. 13-14.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 000281843, p. 96.
+
+George Norbury Mackenzie and Nelson Osgood Rhoades, eds., <hi rend="italic">Colonial Families of the United States of America</hi>, Vol. VI (1912, Reprinted, Baltimore: Genealogical Publishing Co., Inc., 1966), 48.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
