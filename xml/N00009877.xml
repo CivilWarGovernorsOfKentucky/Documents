@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,29 @@
                 <person xml:id="N00009877">
                     <persName>
                       George W. Tudor
-                        (Maysville, Kentucky, farmer)
+                        (Maysville, Kentucky, tinner)
                     </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Maysville, Kentucky, tinner. Kentucky native. Married to Harriet M. Hickman on February 28, 1860. Father of Thomas Tudor. Tinner in Maysville in 1850 and 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, Maysville, p. 105A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Maysville, p. 19.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Maysville, Ward 4, p. 17.
+
+<hi rend="italic">Marriage Records: Kentucky Marriages</hi>, (Richmond, KY: Madison County Courthouse), film no. 000281844, p. 155.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
