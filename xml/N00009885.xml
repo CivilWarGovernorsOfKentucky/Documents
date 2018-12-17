@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       William H. Wise
                         (Maysville, Kentucky, tailor)
                     </persName>
+                        <event type="birth"  when="1817-10-13"  ><ab>1817-10-13</ab></event>
+                        <event type="death"  when="1884-12-23"  ><ab>1884-12-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,19 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Maysville, Kentucky, tailor. Virginia native. Married to Beulah Wise. Father of Susan A. Wise, Ann C. Wise, Harriet A. Wise, Hecuba Wise,  Henry A. Wise, Catherine Wise, William Wise, and John P. Wise. Tailor in Maysville in 1850 and 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, Maysville, p. 115B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Maysville, p. 14.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Maysville, Ward 4, p. 14.
+
+<hi rend="italic">Find A Grave</hi>, &quot;William H Wise (1817-1884),&quot; Memorial #39834283, https://www.findagrave.com/memorial/39834283 (accessed December 16, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
