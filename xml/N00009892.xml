@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Lewis Milton Ricketts
                         (Montgomery County, Kentucky, merchant and soldier)
                     </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="death"  when="1891-07-03"  ><ab>1891-07-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,21 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Montgomery County, Kentucky, merchant and soldier. Kentucky native. Son of H. Ricketts and Mary Ricketts. Clerk in Montgomery County in 1850. Merchant in Montgomery County in 1860. Served in the 14th Kentucky Volunteer Cavalry Regiment (U.S.A.) as quartermaster from August 29, 1862 to March 24, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 82A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Montgomery County, p. 50.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Maysville, Ward 2, p. 29.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 132.
+
+<hi rend="italic">Card Records of Headstones Provided for Deceased Union Civil War Veterans, ca. 1879-ca. 1903</hi>, NARA Records of the Office of the Quartermaster General, RG 92, Series M1845.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
