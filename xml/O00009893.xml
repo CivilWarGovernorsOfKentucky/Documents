@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,20 @@
             <particDesc>
                 <org xml:id="O00009893">
                     <orgName>44th Ohio Volunteer Infantry Regiment</orgName>
+                        <event type="begun"  when="1861-09-14"  ><ab>1861-09-14</ab></event>
+                        <event type="ended"  when="1864-01-04"  ><ab>1864-01-04</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Springfield, Ohio. Mustered in September 14 to October 14, 1861, and designated to 8th Ohio Volunteer Cavalry Regiment (U.S.A.) on January 4, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Frederick H. Dyer, <hi rend="italic">A Compendium of the War of the Rebellion</hi>, Vol. I (Des Moines, IA: The Dyer Publishing Company, 1908), 1517.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
