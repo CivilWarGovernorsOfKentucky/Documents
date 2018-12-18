@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,20 @@
             <particDesc>
                 <org xml:id="O00009906">
                     <orgName>2nd Kentucky Volunteer  Cavalry Regiment (C.S.A.)</orgName>
+                        <event type="begun"  when="1861-10"  ><ab>1861-10</ab></event>
+                        <event type="ended"  when="1864"  cert="medium" ><ab>c1864</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Bowling Green, Kentucky. Mustered in October 1861. Commander(s): Colonel John Hunt Morgan, Colonel Basil W. Duke, Colonel James W. Bowles, and Lieutenant Colonel John B. Hutchinson.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65</hi>, vol. 1 (Frankfort: Legislature of Kentucky, 1915), 540-594.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
