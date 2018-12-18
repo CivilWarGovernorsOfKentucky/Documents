@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Robert M. Trumbo
                         (Owingsville, Kentucky, soldier)
                     </persName>
+                        <event type="birth"  when="1844-10-23"  ><ab>1844-10-23</ab></event>
+                        <event type="death"  when="1898-03-21"  ><ab>1898-03-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,25 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Owingsville, Kentucky, soldier. Kentucky native. Son of Andrew Alkire Trumbo and Eliza Triplett Trumbo. Attended school in Bath County, Kentucky in 1850. Household owned nine enslaved persons in Bath County in 1850. Household owned six enslaved persons in Owingsville in 1860. Served in the 14th Kentucky Volunteer Infantry Regiment (U.S.A.) as corporal from August 20, 1862 to September 16, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath County, Division 2, p. 2B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Bath County, Division 2, p. 298. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bath County, Owingsville, p. 1
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Bath County, Owingsville, p. 1.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Court House p. 20.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 132.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Robert McKee Trumbo (1844-1898),&quot; Memorial #61558645, https://www.findagrave.com/memorial/61558645# (accessed December 17, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
