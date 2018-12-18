@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       Hugh Blair Wilson
                         (Ohio and Missouri, lawyer and soldier)
                     </persName>
+                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ohio and Missouri, teacher, lawyer, and soldier. Ohio native. Son of Nancy Wilson. Married to Elizabeth McCreight Wilson on May 17, 1853. Married to Elizabeth Augusta Frye on November 1, 1859. Teacher in Bethel, Ohio in 1850. Lawyer in Ironton, Missouri in 1860. Served in the 44th Ohio Volunteer Infantry Regiment (U.S.A.) as lieutenant colonel from September 5, 1861 to April 9, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Clark County, Bethel, p. 96B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Missouri, Iron County, Ironton, Arcadia Township, p. 10.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Iowa, Woodbury County, Sioux City, p. 69.
+
+<hi rend="italic">Marriage Records, Ohio Marriages</hi>, Various Ohio County Courthouses, Film 000466399, p. 665. 
+
+<hi rend="italic">Marriage Records, Ohio Marriages</hi>, Various Ohio County Courthouses, Film 000466400, p. 357.
+
+<hi rend="italic">Official Roster of the Soldiers of the State of Ohio in the War of Rebellion, 1861-1866, Vol. IV, 37th -53rd Regiments—Infantry</hi> (Akron, OH: The Werner ptg. and mfg. co., 1887), 295.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
