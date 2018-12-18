@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John B. Holladay</title>
+        <title level="a" type="main">John Buckner Holladay</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00009901">
                     <persName>
-                      John B. Holladay
+                      John Buckner Holladay
                         (Nicholas County, Kentucky, sheriff and soldier)
                     </persName>
+                        <event type="birth"  when="1824"  ><ab>1824</ab></event>
+                        <event type="death"  when="1897"  ><ab>1897</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,27 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Nicholas County, Kentucky, sheriff and soldier. Nicholas County native. Son of Thomas Holladay. Married to Sarah “Sallie” Morgan Holladay on June 14, 1855. Father of Lulu Holladay, Charlotte Holladay, Lattie Holladay, and Kate Holladay. Landlord in Nicholas County in 1850. Household owned fourteen enslaved persons on Nicholas County in 1850. Sheriff in Nicholas County in 1860. Served in the 1st Kentucky Volunteer Mounted Rifles Battalion (C.S.A.) as captain and major from October 22, 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Nicholas County, District 2, p. 444A.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Nicholas County, District 2, p. 11.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nicholas County, District 1, p. 93.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, District 2, p. 33.
+
+<hi rend="italic">Kentucky Marriage Records on Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Nicholas County Marriages, p. 8.
+
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 7.
+
+<hi rend="italic">Find A Grave</hi>, &quot;John Buckner Holladay (1824-1897),&quot; Memorial #166989392, https://www.findagrave.com/memorial/166989392# (accessed December 18, 2018).
+
+<hi rend="italic">Kentucky Death Records on Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, All Counties Deaths, p. 2922.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
