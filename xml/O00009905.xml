@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,20 @@
             <particDesc>
                 <org xml:id="O00009905">
                     <orgName>105th Ohio Volunteer Infantry Regiment (U.S.A.)</orgName>
+                        <event type="begun"  when="1862-08-20"  ><ab>1862-08-20</ab></event>
+                        <event type="ended"  when="1865-06-03"  ><ab>1865-06-03</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Camp Cleveland, Ohio. Mustered in August 20 and 21, 1862, and mustered out on June 3, 1865. Commander(s): Colonel Albert S. Hall, Lieutenant Colonel William R. Tolles, and Lieutenant Colonel George T. Perkins.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Official Roster of the Soldiers of the State of Ohio in the War of Rebellion, 1861-1866, Vol. VII</hi> (Akron, OH: The Werner ptg. and mfg. co., 1887), 570-571.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
