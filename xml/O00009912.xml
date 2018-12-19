@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,22 @@
             <particDesc>
                 <org xml:id="O00009912">
                     <orgName>33rd Kentucky Volunteer Infantry Regiment (U.S.A.)</orgName>
+                        <event type="begun"  when="1862-09-13"  ><ab>1862-09-13</ab></event>
+                        <event type="ended"  when="1864-04-01"  ><ab>1864-04-01</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Munfordville, Kentucky. Mustered in on September 13, 1862, and consolidated with the 26th Kentucky Volunteer Infantry Regiment (U.S.A.) on April 1, 1864. Commander(s): Lieutenant Colonel J. F. Lauck.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Frederick H. Dyer, <hi rend="italic">A Compendium of the War of the Rebellion</hi>, Vol. I (Des Moines, IA: The Dyer Publishing Company, 1908), 1210.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 316.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
