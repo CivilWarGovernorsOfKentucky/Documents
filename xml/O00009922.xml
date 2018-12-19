@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,20 @@
             <particDesc>
                 <org xml:id="O00009922">
                     <orgName>6th Kentucky Volunteer Cavalry Regiment (C.S.A.)</orgName>
+                        <event type="begun"  when="1862-09-08"  ><ab>1862-09-08</ab></event>
+                        <event type="ended"  when="1865"  cert="medium" ><ab>c1865</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Stanford, Kentucky. Mustered in on September 8, 1862. Commander(s): Colonel J. Warren Grigsby and Lieutenant Colonel Thomas W. Napier.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65</hi>, vol. 1 (Frankfort: Legislature of Kentucky, 1915), 660-685.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
