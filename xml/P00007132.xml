@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00009629">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00007132">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Knights of the Golden Circle</title>
+        <title level="a" type="main">Gallatin County, Kentucky</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Emily D. Moses</name>
+            <name>Tyler Campbell</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
@@ -37,25 +37,28 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="type">Organization</term>
+                    <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
-                <org xml:id="O00009629">
-                    <orgName>Knights of the Golden Circle</orgName>
-                        <event type="begun"  when="1854"  cert="medium" ><ab>c1854</ab></event>
-                        <event type="ended"  when="1863"  cert="medium" ><ab>c1863</ab></event>
-                </org>
-            </particDesc>
+            <settingDesc>
+                <place xml:id="P00007132">
+                    <placeName>
+                        <location>
+                              <geo>38.7834 -84.9016</geo>
+                            <settlement>Gallatin County, Kentucky</settlement>
+                        </location>
+                    </placeName>
+                </place> 
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Secret society headquartered in Cincinnati, Ohio. Operated from 1854 to 1863. Founder(s): George W. L. Bickley. </p>
+        <p>County in Kentucky. Seat at Warsaw. Located along the Ohio River.</p>
 
     </body>
     <back>
-        <ab><bibl>Keehn, David C., <hi rend="italic">Knights of the Golden Circle: Secret Empire, Southern Secession, Civil War.</hi>Baton Rouge: Louisiana State University Press, 2013. 
+        <ab><bibl>George H. Yater, &quot;Gallatin County&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 362-63..
 </bibl></ab>
     </back>
 </text>
