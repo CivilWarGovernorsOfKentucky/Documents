@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0021"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,22 +72,19 @@
  <text>
   <body>
    <p>(Copy)
-<lb/>Rockcastle County, <date when="1862-08-21">wed, aug. <hi rend="underline">21</hi> 1862</date>, 9 p.m.
-<lb/>Capt. S. B. Brown.</p>
-<p>I have ascertained to a certainty <hi rend="str">to a certainty</hi> that the rebels are in great force at and below London. About 1000 Cavalry at London and three or four thousand infantry beyond there towards Barboursville. I have seen several there who were prisoners, and four different men who were with waggons tell me that they laid in the woods and saw the infantry passing for half a day towards Barboursville. They have destroyed everything south of here and we are feeding the last corn we can get: we cannot live here -- there is nothing more for horses -- it is all nonsense to talk about feeding the little patches of green corn to our horses, that would starve the women &amp; children &amp; kill our horses.</p>
-<p>There are also four hundred rebels at M<hi rend="underline"><hi rend="sup">t</hi></hi> Vernon. They are threatening me from both positions &amp; some danger of them getting between me &amp; Richmond.</p>
+<lb/><placeName ref="cwgk:P00000906">Rockcastle County</placeName>, <date when="1862-08-21">wed, aug. <hi rend="underline">21</hi> 1862</date>, 9 p.m.
+<lb/><persName ref="cwgk:N00009418">Capt. S. B. Brown</persName>.</p>
+<p>I have ascertained to a certainty <hi rend="str">to a certainty</hi> that the <orgName ref="cwgk:O00000506">rebels</orgName> are in great force at and below London. About 1000 Cavalry at <placeName ref="cwgk:P00005970">London</placeName> and three or four thousand infantry beyond there towards Barboursville. I have seen several there who were prisoners, and four different men who were with waggons tell me that they laid in the woods and saw the infantry passing for half a day towards <placeName ref="cwgk:P00005368">Barboursville</placeName>. They have destroyed everything south of here and we are feeding the last corn we can get: we cannot live here -- there is nothing more for horses -- it is all nonsense to talk about feeding the little patches of green corn to our horses, that would starve the women &amp; children &amp; kill our horses.</p>
+<p>There are also four hundred rebels at M<hi rend="underline"><hi rend="sup">t</hi></hi> Vernon. They are threatening me from both positions &amp; some danger of them getting between me &amp; <placeName ref="cwgk:P00009682">Richmond</placeName>.</p>
 <p>The Country is pefectly desolated. How the people are to live here I can't see.</p>
 <p>My position here is not tenable. The force in front is overwhelming, and we can get nothing more for our horses &amp; nothing for ourselves in another day or two, &amp; no support following me that I know of; assistance must<pb/>
-<lb/>come quickly or the position at Cumberland gap will be lost and heavy forces will be marching on Richmond &amp; Lexington.</p>
+<lb/>come quickly or the position at <geogName ref="cwgk:G00009417">Cumberland gap</geogName> will be lost and heavy forces will be marching on Richmond &amp; <placeName ref="cwgk:P001002">Lexington</placeName>.</p>
 <p>Now gentlemen stir yourselves or you go up. This is no idle talk you must wake up to the danger of your position.</p>
 <p>Starvation will compel me to retire to where I can get provisions which I will do slowly, expecting to have assistance sent speedily.</p>
 <p>Telegraph the substance of this to the Gen<hi rend="underline"><hi rend="sup">l</hi></hi> and send this letter to him.</p>
 <p>If there were no forces in front of us we could not live here: everything destroyed.</p>
-<p>Leonidas Metcalfe
-<lb/>Col<hi rend="underline"><hi rend="sup">n</hi></hi> of Cav,
-<lb/>W. M. Oden, Lieu<hi rend="sup">t</hi>, Col<hi rend="underline"><hi rend="sup">n</hi></hi>
-<lb/>J. K. Faulkner, Major
-<lb/>Chas Milward. Maj.</p>
+<p><persName ref="cwgk:N00009382">Leonidas Metcalfe</persName><lb/>Col<hi rend="underline"><hi rend="sup">n</hi></hi> of <orgName ref="cwgk:O00006342">Cav</orgName>,<lb/><persName ref="cwgk:N00009419">W. M. Oden,</persName> Lieu<hi rend="sup">t</hi>, Col<hi rend="underline"><hi rend="sup">n</hi></hi>
+<lb/><persName ref="cwgk:N00009420">J. K. Faulkner</persName>, Major<lb/><persName ref="cwgk:N00009421">Chas Milward</persName>. Maj.</p>
   </body>
  </text>
 </TEI>
