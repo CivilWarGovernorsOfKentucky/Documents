@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009933">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009934">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Thompson Arterberry</title>
+        <title level="a" type="main">James Crawford, Jr.</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Lucas R. Somers</name>
-          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -41,12 +37,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00009933">
+                <person xml:id="N00009934">
                     <persName>
-                      Thompson Arterberry
+                      James Crawford, Jr.
                         (Monroe County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1806"  cert="medium" ><ab>c1806</ab></event>
+                        <event type="birth"  when="1808-10-30"  ><ab>1808-10-30</ab></event>
+                        <event type="death"  when="1888-01-18"  ><ab>1888-01-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,17 +51,5 @@
         </profileDesc>
     </teiHeader>
     <text>
-    <body>
-        <p>Monroe County, Kentucky, farmer. South Carolina native. Married to Elizabeth Arterberry. Father of James Arterberry, Benjamin Arterberry, William Arterberry, Alexander Arterberry, Wilson Arterberry, Nancy Arterberry, Lucinda Arterberry, Mary Arterberry, Rosette Arterberry, Bertrand Arterberry, and Sarah Arterberry. Farmer in Monroe County in 1850 and 1860.</p>
-
-    </body>
-    <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Monroe County, p. 391A-391B.
-
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Monroe County, p. 18.
-
-<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Monroe County, Precinct 4 p. 1.
-</bibl></ab>
-    </back>
 </text>
 </TEI>
