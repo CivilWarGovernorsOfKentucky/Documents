@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,22 @@
             <particDesc>
                 <org xml:id="O00009930">
                     <orgName>19th Kentucky Volunteer Infantry Regiment (U.S.A.)</orgName>
+                        <event type="begun"  when="1862-01-02"  ><ab>1862-01-02</ab></event>
+                        <event type="ended"  when="1865-01-26"  ><ab>1865-01-26</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Camp Harwood in Harrodsburg, Kentucky. Mustered in on January 2, 1862, and mustered out on January 26, 1865. Commander(s): Colonel William J. Landram and Lieutenant Colonel John Cowan.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 18-35.
+
+Frederick Dyer, <hi rend="italic">A Compendium of the War of the Rebellion</hi> (Des Moines: The Dyer Publishing Company, 1908), 1205-1206.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
