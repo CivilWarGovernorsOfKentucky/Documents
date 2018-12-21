@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0026"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Newcastle Henry Co Ky
-<lb/><date when="1862-08-27">August 27<hi rend="sup">th</hi> 1862</date>
-<lb/>Hon J F Robinson
-<lb/>Frankfort Ky 
-<lb/>Dear Sir -- </p>
-<p>I write you at the request of some of the most earnest and <hi rend="underline">practical</hi> Loyal men of this county requesting <hi rend="underline">if</hi> <hi rend="underline">practical</hi>- that about 100- efficient mounted men be kept in this county for some days- or until those now engaged in recruiting for the Confederate rebels- shall be caught or routed-This has been going on with <hi rend="str">an</hi> a remarkable activity- being adjacent to Trimble and owen- they have had a pretty clear <unclear/>- I have had since here a fair opertunity to hear and learn and I assure you sir this is no <hi rend="underline">hobgoblin</hi>- but an actuality- and the rebel Jessee- we thought killed has been<pb/>
-<lb/>successfully at work here up to last Sunday night- There are many hiding places on the border of Owen- and Trimble and many think he is yet skulking here. The few union men of Trimble have been agrieved by the uneven and the untimely action of Dickens a <hi rend="underline">Provost</hi> from this county who in a mistaken zeal (to say the least) has given to the recruiting Rebels a new impulse- and it is telling in the number of recruits- The troops now here- under Holman we have not heard from- but they were too late for the Locality they were sent to- This place should be the head quarters- and work out from here in squads- There are a number of efficient men here to cooperate with them but some permanent organization is necessary as a neucles for them-</p>
+   <p><placeName ref="cwgk:P00000305">Newcastle</placeName> <placeName ref="cwgk:P00000758">Henry Co</placeName> Ky<lb/><date when="1862-08-27">August 27<hi rend="sup">th</hi> 1862</date>
+<lb/><persName ref="cwgk:N001004">Hon J F Robinson
+</persName><lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky <lb/>Dear Sir -- </p>
+<p>I write you at the request of some of the most earnest and <hi rend="underline">practical</hi> Loyal men of this county requesting <hi rend="underline">if</hi> <hi rend="underline">practical</hi>- that about 100- efficient mounted men be kept in this county for some days- or until those now engaged in recruiting for the <orgName ref="cwgk:O00000506">Confederate rebels</orgName>- shall be caught or routed-This has been going on with <hi rend="str">an</hi> a remarkable activity- being adjacent to <placeName ref="cwgk:P00001509">Trimble</placeName> and <placeName ref="cwgk:P00004760">owen</placeName>- they have had a pretty clear <unclear/>- I have had since here a fair opertunity to hear and learn and I assure you sir this is no <hi rend="underline">hobgoblin</hi>- but an actuality- and the <persName ref="cwgk:N00008704">rebel Jessee</persName>- we thought killed has been<pb/>
+<lb/>successfully at work here up to last Sunday night- There are many hiding places on the border of Owen- and Trimble and many think he is yet skulking here. The few union men of <placeName ref="cwgk:P00001509">Trimble</placeName> have been agrieved by the uneven and the untimely action of <persName ref="cwgk:N00009447">Dickens</persName> a <hi rend="underline">Provost</hi> from this county who in a mistaken zeal (to say the least) has given to the recruiting Rebels a new impulse- and it is telling in the number of recruits- The troops now here- under <persName ref="cwgk:N00009475">Holman</persName> we have not heard from- but they were too late for the Locality they were sent to- This place should be the head quarters- and work out from here in squads- There are a number of efficient men here to cooperate with them but some permanent organization is necessary as a neucles for them-</p>
 <p>I do hope my dear sir that your health will be equal to the demands that are upon you and that God will favor this commonwealth in a kind providence over you, and this is the prayer of scores<pb/>
-<lb/>and hundreds of loyal hearts all over this land -- Mrs B joins in regards to you-</p>
+<lb/>and hundreds of loyal hearts all over this land -- <persName ref="cwgk:N00009446">Mrs B</persName> joins in regards to you-</p>
 <p>Respectfully
-<lb/>R H Buckley<pb/></p>
+<lb/><persName ref="cwgk:N00009445">R H Buckley</persName><pb/></p>
 <p>R. H. Buckley
 <lb/>New Castle</p>
   </body>
