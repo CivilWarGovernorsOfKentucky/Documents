@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[Unknown] Hamilton</title>
+        <title level="a" type="main">Oliver P. Hamilton</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00009496">
                     <persName>
-                      [Unknown] Hamilton
-                        (possibly Oliver Hamilton)
+                      Oliver P. Hamilton
+                        (Jackson County, Tennessee, farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1829"  cert="medium" ><ab>c1829</ab></event>
+                        <event type="death"  when="1864-07"  ><ab>1864-07</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in a letter from Bennett Spear Jr. to D. E. Downing in August 1862. </p>
+        <p>Jackson County, Tennessee, farmer and soldier. Tennessee native. Married to Helen Hamilton. Father of Isabel Hamilton, Loretha Hamilton, Benjamin Hamilton, George Hamilton, Rorey Ann Hamilton, and William Hamilton. Farmer in Jackson County in 1860. Owned one enslaved person in Jackson County in 1860. Served in the Shaw’s (Hamilton’s) Tennessee Volunteer Cavalry Battalion (C.S.A.) as captain and lieutenant colonel from 1862 to July 1864.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-027-0006. 
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jackson County, District 6, p. 3.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jackson County, District 6 south of Cumberland River, p. 1.
+
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Tennessee</hi>, NARA RG 109, Microfilm Series M268, Roll 84.
+
+<hi rend="italic">Selected Records of the War Department Relating to Confederate Prisoners of War, 1861-1865</hi>, National Archives Microfilm RG 109, Publication Roll M598_94, p. 5284.
 </bibl></ab>
     </back>
 </text>
