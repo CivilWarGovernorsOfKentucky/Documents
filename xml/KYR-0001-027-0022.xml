@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0022"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Georgetown Ky <date when="1862-08-25">Aug 25th ^62^</date>
-<lb/>Hon James F Robinson
-<lb/>Governor of Kentucky
+   <p><placeName ref="cwgk:P001838">Georgetown</placeName> Ky <date when="1862-08-25">Aug 25th ^62^</date>
+<lb/><persName ref="cwgk:N001004">Hon James F Robinson</persName><lb/>Governor of Kentucky
 <lb/>Dear Sir</p>
 <p>I Recd a day or two since from the last surviving brother of my departed father; -- bending under the weight of years, a request that I exert what influence I possessed to release him from Confinement at Camp <hi rend="str">c</hi>Chase.</p>
-<p>I Refer to Revd Edward Stevenson D D principle of Russelville Ky, ^female institute^ who informed me he had furnished you with a brief statement of the Causes of his imprisonment, which I entertain no doubt truly sets fourth the facts as understood by him.</p>
+<p>I Refer to <persName ref="cwgk:N00009503">Revd Edward Stevenson</persName> D D principle of <placeName ref="cwgk:P00002479">Russelville</placeName> Ky, ^female institute^ who informed me he had furnished you with a brief statement of the Causes of his imprisonment, which I entertain no doubt truly sets fourth the facts as understood by him.</p>
 <p>I Regret exceedingly that under any circumstances he should have suffered himself to have been placed on a vigilence Committee, and especially that he acted as Chairman, thus making himself prominent, (or apparently so) in persecuting union men for union sentiments.</p>
 <p>His explanation is, that he was solicited by union men to accept the position, with the view of Restraining and moderating the action of violent and ultra men, in which he thinks he succeeded.</p>
 <p>Be this as it may, I would fain hope that two months Confinement in prison would exert such a soothing influence upon<pb/>
@@ -81,11 +88,10 @@
 <p>I leave a space, trusting that you will feel <hi rend="str">h</hi>no hesitancy in Recomending to the presi<pb/>
 <lb/>dent the exercise of executive clemency in this case, which I will be happy to accept as a personal kindness to myself.</p>
 <p>With sentiments of high esteem I Remain yours most Respectfully</p>
-<p>Milton Stevenson</p>
-<p>If the facts as above stated in relation to the Rev Ed<hi rend="sup">r</hi> Stevenson are correct and I have had them verified from other Sources, I do not ^hesitate^ to concur in the desire expressed for his release upon his complying the requisitions of the Department -- Senator Rhea is acquainted with the facts and it would be well to refer to him</p>
+<p><persName ref="cwgk:N00009502">Milton Stevenson</persName></p>
+<p>If the facts as above stated in relation to the Rev Ed<hi rend="sup">r</hi> Stevenson are correct and I have had them verified from other Sources, I do not ^hesitate^ to concur in the desire expressed for his release upon his complying the requisitions of the Department -- <persName ref="cwgk:N00009504">Senator Rhea</persName> is acquainted with the facts and it would be well to refer to him</p>
 <p>respy
-<lb/>S J Gano
-<lb/><hi rend="str">Ch</hi><hi rend="str"><hi rend="sup">m</hi></hi> <hi rend="str">Union Com</hi><unclear/><pb/></p>
+<lb/><persName ref="cwgk:N00009508">S J Gano</persName><lb/><hi rend="str">Ch</hi><hi rend="str"><hi rend="sup">m</hi></hi> <hi rend="str">Union Com</hi><unclear/><pb/></p>
 <p>M. Stevenson</p>
   </body>
  </text>
