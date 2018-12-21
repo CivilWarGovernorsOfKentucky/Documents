@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -44,11 +48,24 @@
                     </persName>
                         <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
                         <event type="death"  when="1864-09-29"  ><ab>1864-09-29</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Monroe County, Kentucky, resident. Mississippi native. Married to Bennett Spear, Jr. Mother of Father of Isaac Spear, Coatney Ann Spear, Elizabeth Spear, Levi Spear, and Lorenzo Dow Spear. Resident in Monroe County in 1850 and 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Monroe County, p. 388B-389A. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Monroe County, p. 16. 
+
+<hi rend="italic">Find A Grave</hi>, &quot;Adaline Kendrick Spear (1819-1864),&quot; Memorial #108323906, https://www.findagrave.com/memorial/108323906# (accessed December 20, 2018).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
