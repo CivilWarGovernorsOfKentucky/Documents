@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,22 @@
             <particDesc>
                 <org xml:id="O00009977">
                     <orgName>2nd Kentucky Volunteer Infantry Regiment (U.S.A.)</orgName>
+                        <event type="begun"  when="1861-05"  ><ab>1861-05</ab></event>
+                        <event type="ended"  when="1864-06-19"  ><ab>1864-06-19</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Pendleton, Ohio. Mustered in May and June, 1861, and mustered out on June 19, 1864. Commander(s): Colonel William E. Woodruff, Colonel Thomas D. Sedgewick, Lieutenant Colonel George W. Neff, Lieutenant Colonel Warner Spencer, and Lieutenant Colonel John R. Hurd.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Frederick Henry Dyer, <hi rend="italic">A Compendium of the War of the Rebellion</hi>, (Des Moines: Dyer Publishing Company, 1908), p. 1198.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 556-593.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
