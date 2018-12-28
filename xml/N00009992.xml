@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00009992">
                     <persName>
                       George Tracy
-                        (Louisville, Kentucky, moulder)
+                        (Louisville, Kentucky, iron moulder)
                     </persName>
                         <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
                       <trait type="gender" subtype="M"/>
@@ -49,5 +53,15 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Louisville, Kentucky, iron moulder. Ireland native. Iron moulder in Louisville in 1850.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 7, p. 335B.
+
+<hi rend="italic">Edwards’ Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, business Firms, Etc., Etc., in the City of Louisville for 1870</hi> (Edwards, Greenough &amp; Deved, Publishers), p. 350.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
