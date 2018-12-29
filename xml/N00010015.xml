@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,23 @@
                       Henry H. Bohmer
                         (Louisville, Kentucky, carpenter)
                     </persName>
+                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Louisville, Kentucky, carpenter. Prussia native. Married to Eliza Bohmer. Father of Emma Bohmer, Charles Bohmer, Anna Bohmer, and Harry Bohmer. Carpenter in Louisville in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 3, p. 119.
+
+<hi rend="italic">Edwards’ Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, business Firms, Etc., Etc., in the City of Louisville for 1865-66</hi> (Edwards, Greenough &amp; Deved, Publishers), p. 215.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
