@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001695">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry Armendt</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Courtney Buchkoski</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001695">
+                    <persName>
+                      Henry Armendt
+                        (Hartford, Ohio County, Kentucky, Carpenter)
+                    </persName>
+                        <event type="birth"  when="1826-04-30"  ><ab>1826-04-30</ab></event>
+                        <event type="death"  when="1910-05-18"  ><ab>1910-05-18</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hartford, Ohio County, Kentucky, carpenter. Native of Germany. Married to Matilda H. Armendt. Father of Matilda Armendt, Lewis Armendt, Henry Armendt, William Armendt, Albert Armendt, Laura Armendt, Hellen Armendt. Carpenter in Hartford, Ohio County in 1870. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ohio County, Hartford, p. 28.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Henry Armendt (April 30, 1826- May 18, 1910),&quot; Memorial #20935395, http://www.findagrave.com/memorial/20935395 (accessed January 4, 2019).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
