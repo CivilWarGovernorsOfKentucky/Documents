@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">A. B. Baird</title>
+        <title level="a" type="main">Alexander Barnett Baird</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00010098">
                     <persName>
-                      A. B. Baird
+                      Alexander Barnett Baird
                         (Hartford, Ohio County, Kentucky, judge and hotel keeper)
                     </persName>
+                        <event type="birth"  when="1821-02-12"  ><ab>1821-02-12</ab></event>
+                        <event type="death"  when="1892-05-26"  ><ab>1892-05-26</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,8 +56,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Hartford, Ohio County, Kentucky, judge and hotel keeper. Kentucky native. </p>
+        <p>Hartford, Ohio County, Kentucky, judge and hotel keeper. Kentucky native. Married to Sallie M. Barnett Baird on December 24, 1844. Father of Sally M. Baird, Laura Baird, Clinton T. Baird, Naomi Baird, Prudence Baird, Alexander Baird. Elected as county judge in Ohio County Court in 1854. Judge in Ohio County Court from 1854 to 1861. Hotel keeper in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, County, City/District, p. 787.
+
+<hi rend="italic">Find A Grave</hi>, &quot;A. B. Baird (February 12, 1821-May 26, 1892),&quot; Memorial #32065367, http://www.findagrave.com/memorial/32065367 (accessed January X, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
