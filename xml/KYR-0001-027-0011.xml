@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0011"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Northern Bank of Kentucky,
-<lb/>Lexington, <date when="1862-08-21">Augt 21. 1862.</date>
-<lb/>Gov J F Robinson
-<lb/>Dear Sir</p>
+   <p><orgName ref="cwgk:O00002742">Northern Bank of Kentucky</orgName>,<lb/><placeName ref="cwgk:P001002">Lexington</placeName>, <date when="1862-08-21">Augt 21. 1862.</date>
+<lb/><persName ref="cwgk:N001004">Gov J F Robinson
+</persName><lb/>Dear Sir</p>
 <p>The City Council &amp; Military Authorities here ordered the Citizens to enrol themselves and drill every day from 4 to 6 ock P M, during which time all business is suspended.</p>
-<p>We have been obeying this order and regularly drilling. But we have no guns except some shot guns and but few of them. The Company to which I belong is well officered and the men good &amp; true. I was told the only way to procure arms was to write to you or Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Finnell.</p>
-<p>There some Guns here in the hands of the quartermaster but he says he can only issue them upon the order of Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Boyle.</p>
-<p>We have drilled thru evenings without Guns, and I promised our officers, Capt Williams &amp;c I would write to know if arms could be procured.</p>
+   <p>We have been obeying this order and regularly drilling. But we have no guns except some shot guns and but few of them. The <orgName ref="cwgk:O00009357">Company</orgName> to which I belong is well officered and the men good &amp; true. I was told the only way to procure arms was to write to you or Gen<hi rend="underline"><hi rend="sup">l</hi></hi> <persName ref="cwgk:N00000228">Finnell</persName>.</p>
+   <p>There some Guns here in the hands of the quartermaster but he says he can only issue them upon the order of Gen<hi rend="underline"><hi rend="sup">l</hi></hi> <persName ref="cwgk:N00000879">Boyle</persName>.</p>
+<p>We have drilled thru evenings without Guns, and I promised our officers, <persName ref="cwgk:N00009358">Capt Williams </persName>&amp;c I would write to know if arms could be procured.</p>
 <p>Fifty guns, with those we have belonging to us individually would do for our Company.</p>
 <p>Yours truly
-<lb/>M C Johnson</p>
-<p>N B. W<hi rend="sup">m</hi> Fleming writes you about arming a Home Guard company in Fleming County, which deserves attention.<pb/></p>
+<lb/><persName ref="cwgk:N00008279">M C Johnson</persName></p>
+   <p>N B. <persName ref="cwgk:N00007133">W<hi rend="sup">m</hi> Fleming</persName> writes you about arming a <orgName ref="cwgk:O00000872">Home Guard</orgName> company in <placeName ref="cwgk:P00000542">Fleming County</placeName>, which deserves attention.<pb/></p>
 <p>M. C. Johnson
 <lb/>arms for Home guards</p>
   </body>

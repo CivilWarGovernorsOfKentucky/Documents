@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0050"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hd. Qrs. Dept. of the Ohio
-<lb/>Cin. O. <date when="1862-10-06">Oct. 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>.
+   <p>Hd. Qrs. <orgName ref="cwgk:O001001">Dept. of the Ohio
+</orgName><lb/><placeName ref="cwgk:P00001208">Cin. O.</placeName> <date when="1862-10-06">Oct. 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>.
 <lb/>Sir,</p>
-<p>I am directed by the General Commanding, to say, in reply to your letter of <date when="1862-10-03">Oct. 3<hi rend="underline"><hi rend="sup">d</hi></hi></date>, that he has no control over paroled prisoners; they come under charge of the Commissary Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of prisoners, at Detroit, Mich.</p>
-<p>Camp Chase is the appointed rendezvous, for all paroled prisoners, belonging to regiments from Kentucky, (see Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Order, War Dept. N<hi rend="underline"><hi rend="sup">o</hi></hi> 72.1862) and the establishment of such a camp as you propose, near Louisville, is not in his power.</p>
+<p>I am directed by the General Commanding, to say, in reply to your letter of <date when="1862-10-03">Oct. 3<hi rend="underline"><hi rend="sup">d</hi></hi></date>, that he has no control over paroled prisoners; they come under charge of the Commissary Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of prisoners, at <placeName ref="cwgk:P00003302">Detroit, Mich.</placeName></p>
+<p><orgName ref="cwgk:O00009501">Camp Chase</orgName> is the appointed rendezvous, for all paroled prisoners, belonging to regiments from <placeName ref="cwgk:P001800">Kentucky</placeName>, (see Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Order, War Dept. N<hi rend="underline"><hi rend="sup">o</hi></hi> 72.1862) and the establishment of such a camp as you propose, near <placeName ref="cwgk:P00000337">Louisville</placeName>, is not in his power.</p>
 <p>Very Respectfully,
 <lb/>Your Obd<hi rend="underline"><hi rend="sup">t</hi></hi> Sevt.
-<lb/>T. L. Hayden A. D. C.</p>
-<p>Hon J. F. Robinson
-<lb/>Gov. of Kentucky<pb/></p>
+<lb/><persName ref="cwgk:N00009413">T. L. Hayden</persName> A. D. C.</p>
+<p><persName ref="cwgk:N001004">Hon J. F. Robinson</persName><lb/>Gov. of Kentucky<pb/></p>
 <p>Prisoners &amp;c</p>
-<p>From Genl Wright
-<lb/>Cincinnati.
+<p>From <persName ref="cwgk:N00006168">Genl Wright</persName><lb/>Cincinnati.
 <lb/>No Ans required</p>
   </body>
  </text>

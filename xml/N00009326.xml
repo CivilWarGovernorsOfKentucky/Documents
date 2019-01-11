@@ -8,6 +8,14 @@
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -45,19 +53,19 @@
                         <event type="birth"  when="1819-05-24"  ><ab>1819-05-24</ab></event>
                         <event type="death"  when="1901-01-22"  ><ab>1901-01-22</ab></event>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M"/>
+                      <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Queen of the United Kingdom of Great Britain and Ireland and Impress of India. Married to Albert, Prince Consort. Mother of Victoria, Edward, Alice, Alfred, Helena, Louise, Arthur, Leopold, Beatrice. </p>
+        <p>Queen of the United Kingdom of Great Britain and Ireland and Empress of India. Married to Albert, Prince Consort. Mother of Victoria, Edward, Alice, Alfred, Helena, Louise, Arthur, Leopold, and Beatrice. </p>
 
     </body>
     <back>
-        <ab><bibl>https://www.royal.uk/queen-victoria <lb/>
-https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom
+        <ab><bibl>&quot;Victoria (r.1837-1901),&quot; https://www.royal.uk/queen-victoria.<lb/>
+Edgar Trevor Williams, &quot;Victoria,&quot; in <hi rend="italic">Encyclopedia Brittanica</hi>, https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom.
 </bibl></ab>
     </back>
 </text>

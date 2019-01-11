@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009917">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Sebastian Eifort</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009917">
+                    <persName>
+                      Sebastian Eifort
+                        (Carter County, Kentucky, furnace owner and state representative)
+                    </persName>
+                        <event type="birth"  when="1817-01-12"  ><ab>1817-01-12</ab></event>
+                        <event type="death"  when="1893-12-11"  ><ab>1893-12-11</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Carter County Kentucky, furnace owner and state representative. Neustadt, Germany native. So of henry Eifort and Catherine Eifort. Married to Rachel Jackson Eifort on March 17, 1842. Father of William H. Eifort, James M. Eifort, Catherine Eifort, Mary J. Eifort, Sebastian Eifort, and Joseph Eifort. Worked at Jackson, Scioto, and Bloom furnaces in Scioto County, Ohio in 1839. Co-founded Harrison Furnace in Scioto County in 1852. Built and owned Boone Furnace in Carter County, Kentucky from 1856 to 1866. Served in the Kentucky state legislature from 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Marriage Records: Ohio Marriages</hi>, (Various Ohio County Courthouses), film no. 000292694, p. 216.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carter County, p. 60.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Greenup County,  Precinct 5, p. 24.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Sebastian Bartran Eifort (1817-1893),&quot; Memorial #87131513, https://www.findagrave.com/memorial/87131513/sebastian-bartran-eifort (accessed December 19, 2018).
+
+W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend="italic">Kentucky: A History of the State</hi>, 8th ed. (Louisville and Chicago: F. A. Battey and Company, 1888), 807-808.
+</bibl></ab>
+    </back>
+</text>
+</TEI>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0023"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,23 +71,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>WAR DEPARTMENT,
-<lb/>ADJUTANT GENERAL'S OFFICE,
-<lb/><hi rend="italic">Washington, </hi><date when="1863-10-30"><hi rend="italic">October</hi> 30<hi rend="italic">th</hi>, 1863</date>.
+   <p><orgName ref="cwgk:O00005118">WAR DEPARTMENT,</orgName><lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/><placeName ref="cwgk:P00001134">Washington</placeName>, <date when="1863-10-30"><hi rend="italic">October</hi> 30<hi rend="italic">th</hi>, 1863</date>.
 <lb/>SPECIAL ORDERS,
 <lb/>No. 484.</p>
 <p>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>
-<p>29. The leave of absence granted to Lieutenant <hi rend="italic">A. J. Alexander</hi>, 1st Kentucky Cavalry, until further orders, by Colonel <hi rend="italic">Frank Wolford</hi>, 1st Kentucky Cavalry, dated Headquarters of the 1st Kentucky Cavalry, Elizabethtown, Kentucky, <date when="1863-10-01">October 1st, 1862</date>, is hereby confirmed, with limitation to the time he is entitled to be mustered into service as Lieutenant-Colonel of the 11th Kentucky Cavalry.<figure type="hr"/></p>
-<p>By order of the Secretary of War:
-<lb/>E. D. TOWNSEND,
+   <p>29. The leave of absence granted to Lieutenant <persName ref="cwgk:N00005792"><hi rend="italic">A. J. Alexander</hi></persName>, <orgName ref="cwgk:O00005136">1st Kentucky Cavalry</orgName>, until further orders, by Colonel <persName ref="cwgk:N00005137"><hi rend="italic">Frank Wolford</hi></persName>, 1st Kentucky Cavalry, dated Headquarters of the 1st Kentucky Cavalry, <placeName ref="cwgk:P00002906">Elizabethtown, Kentucky</placeName>, <date when="1863-10-01">October 1st, 1862</date>, is hereby confirmed, with limitation to the time he is entitled to be mustered into service as Lieutenant-Colonel of the <orgName ref="cwgk:O00005233">11th Kentucky Cavalry</orgName>.<figure type="hr"/></p>
+   <p>By order of the <persName ref="cwgk:N00002647">Secretary of War</persName>:
+    <lb/><persName ref="cwgk:N00005757">E. D. TOWNSEND</persName>,
 <lb/><hi rend="italic">Assistant Adjutant General.</hi> </p>
 <p>OFFICIAL:
 <lb/>E D Townsend
 <lb/><hi rend="italic">Assistant Adjutant General.</hi> 
 <lb/>1.</p>
 <p>To the
-<lb/>Governor
-<lb/>of Kentucky<pb/></p>
+ <lb/><persName ref="cwgk:N001000">Governor
+  <lb/>of Kentucky</persName><pb/></p>
 <p>1<hi rend="underline"><hi rend="sup">st</hi></hi> Cav<hi rend="sup">y</hi><figure type="hr"/>
 <lb/>Lt. Alexander<figure type="hr"/>
 <lb/>pro to Lt. Col. 11'. Cav<hi rend="sup">y</hi>. <date when="1863-09-26">Sept<hi rend="sup">r</hi> 26. 1863</date>.<figure type="hr"/>

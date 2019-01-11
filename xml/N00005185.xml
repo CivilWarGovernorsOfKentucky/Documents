@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>
           <respStmt>
@@ -48,9 +52,11 @@
                 <person xml:id="N00005185">
                     <persName>
                       David A. Hamilton
-                        (murder victim, Hardin Co.)
+                        (Glasgow, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1842"  cert="medium" ><ab>c1842</ab></event>
                         <event type="death"  when="1863-09-30"  ><ab>1863-09-30</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,11 +64,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Murdered on September 30, 1863 in Hardin County, Kentucky.</p>
+        <p>Barren County, Kentucky, farmer. Son of Nancy Hamilton. Married to Frances A. Williamson Hamilton in Barren County in October 1862. Farmer in Barren County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0006
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Barren County, District 1, p. 66.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Barren County Marriages, Film #000216816.
 </bibl></ab>
     </back>
 </text>

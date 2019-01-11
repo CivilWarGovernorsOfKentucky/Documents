@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010076">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Ebenezer Dumont</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Louise Jones</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010076">
+                    <persName>
+                      Ebenezer Dumont
+                        (Union Army general, US Representative)
+                    </persName>
+                        <event type="birth"  when="1814-11-23"  ><ab>1814-11-23</ab></event>
+                        <event type="death"  when="1871-04-16"  ><ab>1871-04-16</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lawyer, US Representative from Indiana, general in the Union Army. Vevay, Switzerland County, Indiana native. Son of John and Julia Cory Dumont. Married to Mary Ann Cheek Dumont on April 18, 1839.  Father of Mary Fannie Dumont, Julia Louisa Dumont, Cornelia Cory Dumont, Martha E. Dumont, Clinton Charles Dumont, Isabella Anna Dumont, Anna Dumont, Jessie Virginia Dumont and Eugenia Dumont.  Graduate of the University of Indiana.  Served in the Indiana State House of Representatives in 1838 and from 1850 to 1853.  Served as a Lieutenant Colonel in the Mexican War. Appointed Colonel in the 7th Regiment Indiana Volunteer Infantry on April 27, 1861, promoted to Brigadier General in September 1861.  In 1862, commanded both 17th Brigade and 12th Division of the Army of the Ohio, during Braxton Bragg’s invasion of Kentucky.  Resigned from the army when elected to the US House of Representatives, serving from 1863 to 1867.</p>
+
+    </body>
+    <back>
+        <ab><bibl>United States. Congress. 1998. Biographical Directory of the United States Congress, 1774-Present. Washington, D.C.: United States Congress. http://bioguide.congress.gov/scripts/biodisplay.pl?index=D000524.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Ebenezer Dumont (1814-1871),&quot; Memorial #5888321, http://www.findagrave.com/memorial/5888321 (accessed January 3, 2019).<lb/>
+Warner, Ezra J. 1964. Generals in Blue : Lives of the Union Commanders. Baton Rouge, La.: Louisiana State University Press, p. 132-133, https://books.google.com/books?id=2PSgcaLic-AC&amp;printsec=frontcover&amp;dq=civil+war+generals+union&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiL5vO7n9TfAhUpx1kKHRXKAeYQ6AEINjAC#v=onepage&amp;q=Dumont&amp;f=false (accessed January 4, 2019).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

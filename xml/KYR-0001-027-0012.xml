@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0012"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort <date when="1862-08-21">augs 21<hi rend="sup">st</hi> 1862</date>
-<lb/>Gov. Robinson
-<lb/>Dear Sir</p>
-<p>Knowing that you will be often cald on for Information for Subsistence of Troops I have ben Sent hear by Ge<hi rend="underline">nl</hi>. Boyl as post commesary &amp; have on hand all Necessay Stores &amp; am prepard to furnish any number of troops I Learn that the Qt Master has Maid Some contracts which is not acording to any Regulations I have seen and at Rates fare above Goverment prices though you have the power to order aneything through this department- it is parte of My duty to Se that the goverment is not Swindled which I think is attempted by Partys you have not had the opportunitys as yet to detect Hoping you will give this Some attention </p>
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1862-08-21">augs 21<hi rend="sup">st</hi> 1862</date>
+<lb/><persName ref="cwgk:N001004">Gov. Robinson</persName><lb/>Dear Sir</p>
+   <p>Knowing that you will be often cald on for Information for Subsistence of Troops I have ben Sent hear by Ge<hi rend="underline">nl</hi>. <persName ref="cwgk:N00000879">Boyl</persName> as post commesary &amp; have on hand all Necessay Stores &amp; am prepard to furnish any number of troops I Learn that the <persName ref="cwgk:N00000946">Qt Master</persName> has Maid Some contracts which is not acording to any Regulations I have seen and at Rates fare above Goverment prices though you have the power to order aneything through this department- it is parte of My duty to Se that the goverment is not Swindled which I think is attempted by Partys you have not had the opportunitys as yet to detect Hoping you will give this Some attention </p>
 <p>I Remain with Dew Respect
 <lb/>your obedent servant
-<lb/>G. T. Spillman
-<lb/>Capt and C, S, U, S, vol<pb/></p>
+<lb/><persName ref="cwgk:N00009362">G. T. Spillman
+</persName><lb/>Capt and C, S, U, S, vol<pb/></p>
 <p>Capt. G. T. Spillman
 <lb/>Frankfort</p>
   </body>

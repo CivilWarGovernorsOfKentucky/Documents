@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005235">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Stoneman</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Courtney Buchkoski</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Courtney Buchkoski</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005235">
+                    <persName>
+                      George Stoneman
+                        (General )
+                    </persName>
+                        <event type="birth"  when="1822-08-08"  ><ab>1822-08-08</ab></event>
+                        <event type="death"  when="1894-09-05"  ><ab>1894-09-05</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>California general. Busti, New York, native. Married to Mary Oliver Hardisty Stoneman. Father of Cornelius Stonelan, George Stoneman, Jr., Katherine Stoneman, and Adele Stoneman. Attended Jamestown Academy in Jamestown, New York. Graduate of West Point Military Academy in 1846. Quartermaster in the Mormon Batallion at Santa Fe in 1847. Appointed Chief of Cavalry in the Army of the Potomac (U.S.A.) in August 1861. Brigadier general, major general, and brevetted colonel in the U.S. Army from August 13, 1861, to September 1, 1866. Adjutant to George B. McClellan.</p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;George Stoneman,&quot; in <hi rend="italic">The Union Army: A History of Military Affairs in the Loyal States, 1861-65</hi>, Vol. VIII (Madison, WI: Federal Publishing Company, 1908), p. 258-59. <lb/>
+&quot;George Stoneman,&quot; <hi rend="italic">Governors of California</hi>, California State Library,  http://governors.library.ca.gov/15-Stoneman.html (accessed May 7, 2017).<lb/>
+&quot;California Military History: Californians and the Military,&quot; <hi rend="italic">California Military Museum</hi>, http://www.militarymuseum.org/Stoneman.html (accessed October 12, 2018). 
+</bibl></ab>
+    </back>
+</text>
+</TEI>

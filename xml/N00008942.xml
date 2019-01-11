@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>
     </titleStmt>
@@ -46,6 +50,8 @@
                       Francis Garrett
                         (Morgan County)
                     </persName>
+                        <event type="birth"  when="1792"  cert="medium" ><ab>c1792</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Morgan County, Kentucky, clerk. Virginia native. Appointed Postmaster for West Liberty, Kentucky on April 30, 1847. Clerk in Morgan County in 1850 and in 1860.</p>
+        <p>Morgan County, Kentucky, clerk. Virginia native. Appointed Postmaster for West Liberty, Kentucky, on April 30, 1847. Clerk in Morgan County in 1850. Clerk in Morgan County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Morgan County, Kentucky. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Morgan County , District 1, p. 108.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Morgan County, Kentucky. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Morgan County, District 1, p. 108.<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, p. 690-91, (accessed via Ancestry.com).
 </bibl></ab>
     </back>
 </text>

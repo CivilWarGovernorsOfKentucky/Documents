@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007680">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Joel Noel</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>James N. McAllister</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007680">
+                    <persName>
+                      Joel Noel
+                        (farmer, Taylor Co.)
+                    </persName>
+                        <event type="birth"  when="1814-01-15"  ><ab>1814-01-15</ab></event>
+                        <event type="death"  when="1892-01-06"  ><ab>1892-01-06</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Taylor County, Kentucky, farmer and soldier. Married to Nancy Noel. Father of Henry B. Noel, Sally J. Noel, Mary A. Noel, John W. Noel, Willis L. B. Noel, Nancy Noel, Susan Noel, Martha Noel, and Parrie B. Noel. Farmer in Taylor County in 1860. Mustered in as a private in the 6th Kentucky Volunteer Cavalry Regiment (U.S.A.) on September 15, 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Taylor County, Division 1, p. 100.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Taylor County, Mannsville, p. 33.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 164.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Joel Hartford Noel (January 15, 1814-January 6, 1892),&quot; Memorial #18804308, http://www.findagrave.com/memorial/18804308 (accessed December 17, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

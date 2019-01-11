@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007039">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Ambrose Dudley</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007039">
+                    <persName>
+                      William Ambrose Dudley
+                        (Lexington Lawyer, Quartermaster General )
+                    </persName>
+                        <event type="birth"  when="1824-06-09"  ><ab>1824-06-09</ab></event>
+                        <event type="death"  when="1870-03-19"  ><ab>1870-03-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Fayette County, Kentucky, attorney and soldier. Kentucky native. Married to Mary J. Dudley. Father of Benjamin Dudley, William Dudley, and Mary Dudley. Graduate of Princeton College in 1842. Attorney in Fayette County from c1844 to 1860. President of the Louisville and Lexington Railway Company beginning in 1850. Commissioner to Washington D.C. with Francis K. Hunt to request the removal of U.S. troops from Kentucky in 1861. Appointed Quartermaster General of Kentucky on October 3, 1861. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, District 2, p. 22.<lb/>
+Z. F. Smith, <hi rend="italic">The History of Kentucky</hi> (Louisville: Courier-Journal Job Printing Company, 1892), 611-612. <lb/>
+The Military Department of Kentucky, <hi rend="italic">Military History of Kentucky</hi> (Frankfort: The State Journal, 1939), 95.<lb/>
+<hi rend="italic">Lexington History Museum</hi>, &quot;Lexington and Frankfort Railroad&quot;, http://lexhistory.org/wikilex/lexington-frankfort-railroad, (accessed June 13, 2017).<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;William Ambrose Dudley (June 9, 1824-March 19, 1870),&quot; Memorial #8872034, https://www.findagrave.com/memorial/8872034 (accessed June 13, 2017). 
+</bibl></ab>
+    </back>
+</text>
+</TEI>

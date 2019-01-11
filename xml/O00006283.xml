@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">65th Regiment Kentucky Militia</title>
+        <title level="a" type="main">65th Regiment of Kentucky Militia (U.S.A.)</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Anthony P. Curtis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Christina Adkins</name>
@@ -42,7 +50,9 @@
             </textClass>
             <particDesc>
                 <org xml:id="O00006283">
-                    <orgName>65th Regiment Kentucky Militia</orgName>
+                    <orgName>65th Regiment of Kentucky Militia (U.S.A.)</orgName>
+                        <event type="begun"  when="1864-05-21"  ><ab>1864-05-21</ab></event>
+                        <event type="ended"  when="1864-06-21"  ><ab>1864-06-21</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -53,11 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-022-0076.<lb/>
-KYR-0002-022-0077.<lb/>
-KYR-0002-022-0078.<lb/>
-KYR-0002-022-0079.<lb/>
-KYR-0002-022-0080. 
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 894-897.
 </bibl></ab>
     </back>
 </text>

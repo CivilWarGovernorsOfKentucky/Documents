@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010082">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Gordon Granger</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Louise Jones</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010082">
+                    <persName>
+                      Gordon Granger
+                        (Union General)
+                    </persName>
+                        <event type="birth"  when="1821-11-06"  ><ab>1821-11-06</ab></event>
+                        <event type="death"  when="1876-01-10"  ><ab>1876-01-10</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Career U. S. Army officer. Joy, Wayne County, New York native. Son of Gaius and Catherine Taylor Granger. Graduate of the United States Military Academy in 1845. Promoted to major general of volunteers on September 17, 1862, and took command of the Army of Kentucky.</p>
+
+    </body>
+    <back>
+        <ab><bibl>George W. Cullum, <hi rend="italic">Biographical Register of the Officers And Graduates of the U.S. Military Academy At West Point, N.Y.: From Its Establishment, In 1802, to 1890, With the Early History of the United States Military Academy</hi>, 3rd ed. (Boston: Houghton, Mifflin, 1891). entry #1265.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Gordon Granger (1821-1876),&quot; Memorial #5894120, http://www.findagrave.com/memorial/5894120 (accessed January 7, 2019).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

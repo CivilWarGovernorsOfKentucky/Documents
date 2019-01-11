@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">14th Kentucky Volunteer Infantry</title>
+        <title level="a" type="main">14th Kentucky Volunteer Infantry Regiment (U.S.A.)</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -42,20 +46,22 @@
             </textClass>
             <particDesc>
                 <org xml:id="O00006265">
-                    <orgName>14th Kentucky Volunteer Infantry</orgName>
-                        <event type="begun"  when="1863-08"  ><ab>1863-08</ab></event>
-                        <event type="ended"  when="1863-10"  ><ab>1863-10</ab></event>
+                    <orgName>14th Kentucky Volunteer Infantry Regiment (U.S.A.)</orgName>
+                        <event type="begun"  when="1861-12-10"  ><ab>1861-12-10</ab></event>
+                        <event type="ended"  when="1865-09-15"  ><ab>1865-09-15</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Organized in August 1863 in Louisa, Kentucky. Dissolved in October 1863. Served in the Department of the Ohio.</p>
+        <p>Organized at Louisa, Kentucky. Mustered in on December 10, 1861. Mustered out on September 15, 1865. Commander(s): Colonel Laban T. Moore, Colonel John C. Cochran, and Colonel George W. Gallup.</p>
 
     </body>
     <back>
-        <ab><bibl>Frederick H. Dyer, <hi rend="italic">A Compendium of the War of the Rebellion, Compiled and Arranged from Official Records of the Federal and Confederate Armies Reports of the Adjutant Generals of the Several States, the Army Registers and Other Reliable Documents and Sources</hi> (Des Moines, IA: Dyer Publishing Company, 1908), p. 530
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 872-893. 
+
+Frederick Dyer, <hi rend="italic">A Compendium of the War of the Rebellion</hi> (Des Moines: The Dyer Publishing Company, 1908), 1203.
 </bibl></ab>
     </back>
 </text>

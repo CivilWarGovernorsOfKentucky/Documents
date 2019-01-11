@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009928">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Penny Webster</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009928">
+                    <persName>
+                      George Penny Webster
+                        (Steubenville, Ohio, lawyer, clerk of court, and soldier)
+                    </persName>
+                        <event type="birth"  when="1824-12-24"  ><ab>1824-12-24</ab></event>
+                        <event type="death"  when="1862-10-08"  ><ab>1862-10-08</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Steubenville, Ohio, lawyer, clerk of court, and soldier. Butler County, Ohio native. Son of John Webster. Married to Mary E. V. McAdams on January 11, 1848. Father of John M. Webster, Thomas M. Webster, Ella M. Webster, George W. Webster, and Charles B. Webster.  Served as deputy clerk of court in Hamilton, Ohio from c1841 to c1843. Served in 1st Ohio Volunteer Infantry Regiment from 1846 to c1847. Lawyer in Steubenville in 1850 and 1860. Served as clerk of court. Served in the 25th Ohio Volunteer Infantry Regiment (U.S.A.) as major. Served in the 98th Ohio Volunteer Infantry Regiment (U.S.A.) as lieutenant colonel and colonel from May 1862 to October 8, 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Jefferson County, Steubenville, p. 65B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Jefferson County, Steubenville, Ward 3, p. 75.
+
+_ Marriage Records: Ohio Marriages_ (Various Ohio County Courthouses), Film no. 000355779 p. 309.
+
+Whitelaw Reid, <hi rend="italic">Ohio in the War: Her Statesmen, Her Generals, and Soldiers, Volume 1</hi> (Moore, Wilstach &amp; Baldwin, 1868), 1003.
+</bibl></ab>
+    </back>
+</text>
+</TEI>

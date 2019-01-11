@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1448"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brianna Kirk</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,20 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Todd Circuit Court
-<lb/>The Commonwealth of Kentucky
-<lb/>against &#125; Indictment
-<lb/>Spiller H Dickinson G R Thompson and William Glass</p>
-<p>The Grand Jury of Todd County, in the name and by the authority of the Commonwealth of Kentucky; accused Spiller H Dickinson G R Thompson and William Glass of the Offense of gaming Committed as follows, viz; The said Spiller. H Dickinson G R Thompson and William Glass did on the <date when="1860-09-30">30" day of September 1860</date> in the County aforesaid bet wager win and loose money property and other things of value at a game of chance played with cards by and between Said Spiller H Dickinson G R Thompson and William Glass in the County aforsaid agnst the peace and dignity of the Commonwealth of Kentucky</p>
-<p>U E Kennedy
-<lb/>foreman of the Grand Jury</p>
+   <p><orgName ref="cwgk:O00000578">Todd Circuit Court
+</orgName><lb/><orgName ref="cwgk:O001025">The Commonwealth of Kentucky
+</orgName><lb/>against } Indictment
+<lb/><persName ref="cwgk:N00009306">Spiller H Dickinson</persName> <persName ref="cwgk:N00009307">G R Thompson</persName> and <persName ref="cwgk:N00009311">William Glass</persName></p>
+<p>The Grand Jury of <placeName ref="cwgk:P00002675">Todd County</placeName>, in the name and by the authority of the Commonwealth of Kentucky; accused Spiller H Dickinson G R Thompson and William Glass of the Offense of gaming Committed as follows, viz; The said Spiller. H Dickinson G R Thompson and William Glass did on the <date when="1860-09-30">30" day of September 1860</date> in the County aforesaid bet wager win and loose money property and other things of value at a game of chance played with cards by and between Said Spiller H Dickinson G R Thompson and William Glass in the County aforsaid agnst the peace and dignity of the Commonwealth of Kentucky</p>
+<p><persName ref="cwgk:N00009364">U E Kennedy
+</persName><lb/>foreman of the Grand Jury</p>
 <p>Information given by 
-<lb/>Lycurgus Leavell
-<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> F Billingsly</p>
-<p>E P Campbell atty
-<lb/>for the Commonwealth<pb/></p>
+<lb/><persName ref="cwgk:N00009368">Lycurgus Leavell</persName>
+<lb/><persName ref="cwgk:N00009370">Cha<hi rend="underline"><hi rend="sup">s</hi></hi> F Billingsly</persName></p>
+<p><persName ref="cwgk:N00002633">E P Campbell </persName>atty<lb/>for the Commonwealth<pb/></p>
 <p>Commonwealth
-<lb/>V &#125; Indictment for Gaming
+<lb/>V } Indictment for Gaming
 <lb/>S H Dickinson G R Thompson<figure type="hr"/>
 <lb/>a <hi rend="str">T</hi>true Bill
 <lb/>U E Kennedy

@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C. W. Oaks</title>
+        <title level="a" type="main">Caldwell W. Oaks</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Louise Jones</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00008430">
                     <persName>
-                      C. W. Oaks
+                      Caldwell W. Oaks
                         (Owsley County petitioner)
                     </persName>
+                        <event type="birth"  when="1838-10-16"  ><ab>1838-10-16</ab></event>
+                        <event type="death"  when="1932-05-26"  ><ab>1932-05-26</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition for McKinney Maloney in 1864. </p>
+        <p>Breathitt County, Kentucky farmer and soldier.  Native of Harlan County, Kentucky.  Son of James and Mary Napier Oaks.  Married to Lavina Oaks.  Father of Sarah J. Oaks, Mary Oaks, Miranda Oaks and William Oaks.  Served as a sergeant in Company K, 14th Kentucky Cavalry, mustered in June 15, 1863, mustered out March 24, 1864.  Served as 1st Lieutenant of Company B, Three Forks Battalion, mustered in December 3, 1864, mustered out July 17, 1865. </p>
+
+<p>Owsley County petitioner: Signed a petition for McKinney Maloney in 1864. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-1338.
+        <ab><bibl>KYR-0001-004-1338.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breathitt County, p.24B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breathitt County, p. 331.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breathitt County, p. 388B.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 388.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 782.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7019167, Breathitt County Deaths, File #10605.
 </bibl></ab>
     </back>
 </text>

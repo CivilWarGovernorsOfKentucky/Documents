@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0006"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,37 +71,36 @@
  </teiHeader>
  <text>
   <body>
-   <p>War Department,
-<lb/>Adjutant General's Office,
-<lb/>Washington, <date when="1862-04-16">April 16, 1862.</date>
+   <p><orgName ref="cwgk:O00005118">War Department</orgName>,<lb/>Adjutant General's Office,
+<lb/><placeName ref="cwgk:P00001134">Washington</placeName>, <date when="1862-04-16">April 16, 1862.</date>
 <lb/>Special Orders, N<hi rend="underline"><hi rend="sup">o</hi></hi> 83.<figure type="hr"/></p>
-<p>5....The following officers having been reported on adversely by Boards of examination, and the President having approved the reports, are discharged the service to take effect <date when="1862-04-14">April 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1862.</date>
+   <p>5....The following officers having been reported on adversely by Boards of examination, and the <persName ref="cwgk:N001760">President</persName> having approved the reports, are discharged the service to take effect <date when="1862-04-14">April 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1862.</date>
 <lb/><table rend="rules">
-<row>
-	<cell>Major</cell>
-	<cell><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> A Coffey</hi>,</cell>
-	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky. Cavalry</cell>
-</row>
-<row>
-	<cell>Capt.</cell>
-	<cell><hi rend="underline">Francis B. Alexander</hi>,</cell>
-	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky "</cell>
-</row>
-<row>
-	<cell>Capt.</cell>
-	<cell><hi rend="underline">Boston Dillion</hi>,</cell>
-	<cell> " " "</cell>
-</row>
-</table><figure type="hr"/></p>
+  <row>
+   <cell>Major</cell>
+   <cell><persName ref="cwgk:N00005241"><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> A Coffey</hi></persName>,</cell>
+   <cell><orgName ref="cwgk:O00005136">1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky. Cavalry</orgName></cell>
+  </row>
+  <row>
+   <cell>Capt.</cell>
+   <cell><persName ref="cwgk:N00005242"><hi rend="underline">Francis B. Alexander</hi></persName>,</cell>
+   <cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky "</cell>
+  </row>
+  <row>
+   <cell>Capt.</cell>
+   <cell><persName ref="cwgk:N00005244"><hi rend="underline">Boston Dillion</hi></persName>,</cell>
+   <cell> " " "</cell>
+  </row>
+ </table><figure type="hr"/></p>
 <p>By order of the Secretary of War.
-<lb/>(Signed.) L. Thomas,
+ <lb/>(Signed.) <persName ref="cwgk:N00005245">L. Thomas</persName>,
 <lb/>Adjutant General.</p>
-<p>H<hi rend="underline"><hi rend="sup">d</hi></hi> Qrs Dept. of the Ohio.
+   <p>H<hi rend="underline"><hi rend="sup">d</hi></hi> Qrs <orgName ref="cwgk:O001001">Dept. of the Ohio</orgName>.
 <lb/>Cin. <date when="1862-09-27">Sept. 27, 1862.</date></p>
 <p>Official:
-<lb/>S M Preston
+ <lb/><persName ref="cwgk:N00005247">S M Preston</persName>
 <lb/>asst. adjt. Gen'l </p>
-<p>"Governor of Kentucky."<pb/></p>
+   <p>"<persName ref="cwgk:N00000258">Governor of Kentucky</persName>."<pb/></p>
 <p>1 Cav: 
 <lb/>Coffee
 <lb/>Alexander

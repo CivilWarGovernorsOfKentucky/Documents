@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[Unknown] Seawell</title>
+        <title level="a" type="main">Washington Seawell</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00009402">
                     <persName>
-                      [Unknown] Seawell
-                        (Colonel USA)
+                      Washington Seawell
+                        (Union Army, colonel and mustering officer)
                     </persName>
+                        <event type="birth"  when="1802"  ><ab>1802</ab></event>
+                        <event type="death"  when="1888-01-09"  ><ab>1888-01-09</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Given orders to him from the Secretary of War regarding minors in the war. </p>
+        <p>Union Army, colonel and mustering officer. Virginia native. Graduated from the United States Military Academy in West Point, New York in 1825. Served in the U.S. Army as lieutenant, captain, major, lieutenant colonel, and colonel from 1825 to 1866. Served in the 7th U.S. Infantry. Served as disbursing agent of Indian affairs from 1832-1834. Served as adjutant general and aid-de-camp to General Mathew Arbuckle. Served as chief mustering and disbursing officer for the state of Kentucky from March 1862 to September 1863. Served as chief mustering and disbursing officer in the Department of the Pacific from October 1863 to January 1864.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-027-0017
+        <ab><bibl><hi rend="italic">Appletons’ Cyclopedia of American Biography, Vol. V</hi> (New York: D. Appleton and Company, 1889), p. 448.
 </bibl></ab>
     </back>
 </text>

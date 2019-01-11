@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009844">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Henry Arnold</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Louise Jones</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009844">
+                    <persName>
+                      James Henry Arnold
+                        (Owsley County, Kentucky soldier and tailor, 2nd Lieut. 3 Forks Battalion)
+                    </persName>
+                        <event type="birth"  when="1828-10-09"  ><ab>1828-10-09</ab></event>
+                        <event type="death"  when="1918-05-17"  ><ab>1918-05-17</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Owsley County, Kentucky tailor and soldier.  Virginia native.  Son of Routhford and Sarah Arnold. Married to Harriet Arnold.  Father of Eudocia Arnold, Samuel P. Arnold, Stephen Arnold, Green A. Arnold, Alexander Arnold and Charles C. Arnold. Served as 2nd Lieutenant in Company B, Three Forks Battalion, mustered in August 27, 1864 and mustered out July 17, 1865. Occupation listed as tailor between 1860 and 1918.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owsley County, Booneville, p. 340.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Owsley County, Travellers Rest, p. 345A.<lb/>
+<hi rend="italic">Indiana Archives and Records Administration; Indianapolis, IN, USA; Death Certificates; Year: 1918; Roll: 10; Certificate: 18848.<lb/>
+_Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 782.
+</bibl></ab>
+    </back>
+</text>
+</TEI>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0053"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,24 +73,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>WESTERN UNION TELEGRAPH COMPANY.<figure type="hr"/>
+   <p><orgName ref="cwgk:O00007356">WESTERN UNION TELEGRAPH COMPANY</orgName>.<figure type="hr"/>
 <lb/>NO.1.] TERMS AND CONDITIONS ON WHICH MESSAGES ARE RECEIVED BY THIS COMPANY FOR TRANSMISSION.</p>
 <p>The public are notified that, in order to guard against mistakes in the transmission of messages, every message of importance ought to be repeated, by being sent back from the station at which it is to be received, to the station from which it is originally sent. Half the usual price for transmission will be charged for repeating the message; and while this Company will, as heretofore, use every precaution to ensure correctness, it will not be responsible for mistakes or delays in the transmission or delivery of repeated messages, beyond an amount exceeding five hundred times the amount paid for sending the message; nor will it be responsible for mistakes or delays in the transmission of unrepeated messages from whatever cause they may arise, nor for delays arising from interruptions in the working of its Telegraphs, nor for any mistake or omission of any other Company, over whose lines a message is to be sent to reach the place of destination. All messages will hereafter be received by this Company for transmission, subject to the above conditions.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>A. STAGER, Gen. Sup't, Cleveland, Ohio. 
-<lb/><cb n="2"/>I. R. ELWOOD, Sec'y, Rochester, N.Y.<milestone unit="column" n="1"/>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00007342">A. STAGER</persName>, Gen. Sup't, <placeName ref="cwgk:P00007358">Cleveland, Ohio</placeName>. <lb/><cb n="2"/><persName ref="cwgk:N00007357">I. R. ELWOOD</persName>, Sec'y, <placeName ref="cwgk:P00007359">Rochester, N.Y.</placeName><milestone unit="column" n="1"/>
 <lb/>2<figure type="hr"/></p>
 <p><date when="1862-10-07">oct 7 1862</date>
 <lb/>To <gap/>
 <lb/>By Telegraph from <gap/> <date when="1862">1862</date></p>
-<p>the Post <hi rend="str">Off</hi>Master of Frankfort says Jacobs cavalry had a fight last evening near Lawrenceburg Col Jacobs &amp; Lieut Macy both wounded not seriously Genl Sill lost some five or six wagons this morning Genl Sills is harrassed by the enemy's cavalry at six oclock this morning Genl Sill<pb/>
+   <p>the <persName ref="cwgk:N00003912">Post <hi rend="str">Off</hi>Master</persName> of <placeName ref="cwgk:P00000308">Frankfort</placeName> says <orgName ref="cwgk:O00002616">Jacobs cavalry</orgName> had a fight last evening near <placeName ref="cwgk:P00001867">Lawrenceburg</placeName> <persName ref="cwgk:N00000240">Col Jacobs</persName> &amp; <persName ref="cwgk:N00009911">Lieut Macy</persName> both wounded not seriously <persName ref="cwgk:N00009910">Genl Sill</persName> lost some five or six wagons this morning Genl Sills is harrassed by the enemy's cavalry at six oclock this morning <persName ref="cwgk:N00009910">Genl Sill</persName><pb/>
 <lb/>3
 <lb/><date when="1862-10-07">Oct 7 1862</date>
 <lb/>To <gap/>
 <lb/>By Telegraph from <gap/> <date when="1862">1862</date></p>
-<p>was shelling the woods nine miles beyond Lawrenceburg on the Bardstown road The latter statement is undoubtedly correct</p>
-<p>J H Garrard</p>
+<p>was shelling the woods nine miles beyond Lawrenceburg on the <placeName ref="cwgk:P00004617">Bardstown</placeName> road The latter statement is undoubtedly correct</p>
+<p><persName ref="cwgk:N00001049">J H Garrard</persName></p>
 <p>126- L267 col</p>
-<p>The above was recd at Bagdad at 12 PM last evening -- Detained on account line not working -- </p>
+<p>The above was recd at <placeName ref="cwgk:P00009890">Bagdad</placeName> at 12 PM last evening -- Detained on account line not working -- </p>
 <p>operator</p>
   </body>
  </text>

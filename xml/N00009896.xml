@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00009896">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles A. Marshall</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Lucas R. Somers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00009896">
+                    <persName>
+                      Charles A. Marshall
+                        (Mason County, Kentucky, farmer and soldier)
+                    </persName>
+                        <event type="birth"  when="1809-05-02"  ><ab>1809-05-02</ab></event>
+                        <event type="death"  when="1896-02-12"  ><ab>1896-02-12</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mason County, Kentucky, farmer, legislator and soldier. Married to Phebe Ann Parton Marshall on September 12, 1833. Member of the legislature of the Commonwealth of Kentucky in 1840, 1850, and 1857. Farmer in Mason County in 1850. Farmer in Mason County in 1860. Owned twenty-four enslaved persons in Mason County in 1850. Owned twenty-nine enslaved persons in Mason County in 1860. Colonel in the 16th Kentucky Volunteer Infantry Regiment (U.S.A.) from September 24, 1861, to May 1, 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, District 2, p. 102B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, District 2, p. 107.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Washington, p. 6.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Pendleton County Marriages, Film #000281842, p. 57.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 294.
+
+<hi rend="italic">Herringshaw&#39;s National Library of American Biography</hi>, Thomas William Herringshaw, ed. (Chicago: American Publishers&#39; Association, 1914), p. 43. 
+
+<hi rend="italic">Find A Grave</hi>, &quot;Col Charles Alexander Marshall (1809-1896),&quot; Memorial #80287127, https://www.findagrave.com/memorial/80287127# (accessed December 17, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
