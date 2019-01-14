@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0069"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,21 +70,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency the Govenor of Ky</p>
-<p>The undersigned would respectfully recommend the Hon Albert A Curtis, as a gentlemen every way qualified to fill the office of agent, to receive monies from soldiers in service and transmit the same to their families-- His appointment would give great satisfaction. </p>
-<p><hi rend="underline">W. C. Ireland</hi>
-<lb/>F. L. Cleveland
-<lb/>Granville Pearl
-<lb/>Thos J. Frazier
-<lb/>Harrison Cockrell
-<lb/>H S Powell
-<lb/><hi rend="underline">C. F. Burnam</hi>
-<lb/>Alex Lusk
-<lb/>Alex T White
-<lb/>D. W. Johns
-<lb/>E B Bacheller
-<lb/>W. C. Gilliss
-<lb/>Abijah Gilbert<pb/></p>
+   <p>To his Excellency the <persName ref="cwgk:N001004">Govenor of Ky</persName></p>
+<p>The undersigned would respectfully recommend the <persName ref="cwgk:N00004778">Hon Albert A Curtis</persName>, as a gentlemen every way qualified to fill the office of agent, to receive monies from soldiers in service and transmit the same to their families-- His appointment would give great satisfaction. </p>
+<p>
+<persName ref="cwgk:N00007109">W. C. Ireland</persName><lb/><persName ref="cwgk:N00000517">F. L. Cleveland
+</persName><lb/><persName ref="cwgk:N00002711">Granville Pearl
+</persName><lb/><persName ref="cwgk:N00001157">Thos J. Frazier</persName><lb/><persName ref="cwgk:N00004779">Harrison Cockrell</persName><lb/><persName ref="cwgk:N00009791">H S Powell</persName><lb/>
+<persName ref="cwgk:N00000224">C. F. Burnam</persName><lb/><persName ref="cwgk:N00007991">Alex Lusk</persName><lb/><persName ref="cwgk:N00009790">Alex T White</persName><lb/><persName ref="cwgk:N00009792">D. W. Johns</persName><lb/><persName ref="cwgk:N00006248">E B Bacheller</persName><lb/><persName ref="cwgk:N00006247">W. C. Gilliss</persName><lb/><persName ref="cwgk:N00009789">Abijah Gilbert</persName><pb/></p>
 <p><unclear>Recom</unclear> of Recieving Soldiers Money -- </p>
   </body>
  </text>
