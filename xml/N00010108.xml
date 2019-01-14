@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       John P. Tracy
                         (Hartford, Ohio County, Kentucky, coach maker)
                     </persName>
+                        <event type="birth"  when="1818"  cert="medium" ><ab>c1818</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -52,5 +57,9 @@
         <p>Hartford, Ohio County, Kentucky, coach maker. New York native. Married to Eliza Tracy. Father of Daniel F. Tracy, Lewis H. Tracy, Ann E. Tracy.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, County, City/District, p. 202.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
