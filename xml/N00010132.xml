@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">B J Scott</title>
+        <title level="a" type="main">Bartholomew J. Scott</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,26 @@
         <particDesc>
                 <person xml:id="N00010132">
                     <persName>
-                      B J Scott
-                        ()
+                      Bartholomew J. Scott
+                        (Smithland, Lyon County, Kentucky, teacher and lieutenant)
                     </persName>
+                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Smithland, Lyon County, Kentucky, teacher and soldier. Kentucky native. Teacher in Lyon, Kentucky, in 1860. Enrolled in the 20th Kentucky Infantry (U.S.A.) on October 24, 1861. Promoted from private to Sergeant on October 1, 1862. Promoted to 1st Sergeant on November 1, 1862. Promoted to Sergeant Major in March 1863. Transferred as 2nd Lieutenant to Company H, 20th Kentucky Infantry, on August 23, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 36-37, 56-57.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, County, City/District, p. 724.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
