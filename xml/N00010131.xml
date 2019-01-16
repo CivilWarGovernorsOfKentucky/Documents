@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">D. T. Buckner</title>
+        <title level="a" type="main">Daniel T. Buckner</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,8 +43,8 @@
         <particDesc>
                 <person xml:id="N00010131">
                     <persName>
-                      D. T. Buckner
-                        ()
+                      Daniel T. Buckner
+                        (Winchester, Clark, Kentucky, soldier)
                     </persName>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -48,5 +52,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Winchester, Kentucky, soldier. Kentucky native. Mustered in as Sergeant in the 20th Kentucky Infantry on January 6, 1862. Promoted to Sergeant Major on March 17th, 1862. Promoted to 2nd Lieutenant on June 1, 1862. Captain of 20th Kentucky Infantry.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 36, 912.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
