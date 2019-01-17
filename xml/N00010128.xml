@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">A. W. Trebein</title>
+        <title level="a" type="main">Adam W. Trebein</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,26 @@
         <particDesc>
                 <person xml:id="N00010128">
                     <persName>
-                      A. W. Trebein
-                        ()
+                      Adam W. Trebein
+                        (Lexington, Fayette, Kentucky, soldier)
                     </persName>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lexington, Fayette, Kentucky, soldier. Ohio native. Enrolled in 20th Kentucky Infantry (U.S.A.). Promoted from private to 2nd Lieutenant on January 28, 1862. Promoted to 1st Lieutenant on March 26, 1862. Promoted to Captain on August 30, 1862. Mustered out on January 17, 1865 in Louisville.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 38, 951.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette, Lexington, p. 197.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
