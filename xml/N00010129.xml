@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">L Demos</title>
+        <title level="a" type="main">Leonidas Denny</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,30 @@
         <particDesc>
                 <person xml:id="N00010129">
                     <persName>
-                      L Demos
-                        ()
+                      Leonidas Denny
+                        (Harrodsburg, Mercer County, Kentucky, farm hand and lieutenant)
                     </persName>
+                        <event type="birth"  when="1840"  ><ab>1840</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Harrodsburg, Mercer County, Kentucky, farm hand and lieutenant. Kentucky native. Married to Sarah T. Campbell Denny. Son of Walter Denny and Eliza J. Denny. Farm hand in Mercer County in 1860. Enrolled in 20th Kentucky Infantry (U.S.A.). Promoted from Corporal to Sergeant on March 26, 1862. Promoted to 1st Sergeant on November 24, 1862. Promoted to 1st Lieutenant on April 1, 1863. Dismissed from service on February 9, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrodsburg, p. 46.
+
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marshall, Marshall, p. 44.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 40.
+
+<hi rend="italic">Find A Grave</hi>, &quot;L. Denny(1840-Death),&quot; Memorial #35958329, http://www.findagrave.com/memorial/35958329 (accessed January 17, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
