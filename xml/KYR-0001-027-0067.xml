@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0067"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1862-10-27">Oct 27 1862</date>
-<lb/>Hon J. F. Robinson
-<lb/>Governor of Kentucky
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1862-10-27">Oct 27 1862</date>
+<lb/><persName ref="cwgk:N001004">Hon J. F. Robinson
+</persName><lb/>Governor of Kentucky
 <lb/>Sir</p>
-<p>At the time of Thomas Stephens arrest he was a Corporal in My Company and one of the most efficient and worthy Non Commissioned officers I had -- a good soldier in every respect. Always obeying orders to the very letter He exerted himself more and had a greater influence in keeping a good disiplin in the Company than any Non Commission officer of the Company He ought to have been a Seargent instead of Corporal </p>
+<p>At the time of <persName ref="cwgk:N00009782">Thomas Stephens</persName> arrest he was a Corporal in My Company and one of the most efficient and worthy Non Commissioned officers I had -- a good soldier in every respect. Always obeying orders to the very letter He exerted himself more and had a greater influence in keeping a good disiplin in the Company than any Non Commission officer of the Company He ought to have been a Seargent instead of Corporal </p>
 <p>Yours Very Respectfuly
-<lb/>W Blood Late Capt Co "B" Louisville Provo Guard<pb/></p>
+<lb/><persName ref="cwgk:N00009783">W Blood</persName> Late Capt Co "B" <orgName ref="cwgk:O00009785">Louisville Provo Guard</orgName><pb/></p>
 <p>I fully endorse the within in every particular</p>
-<p>C C Hare Capt
-<lb/>Co "G" Pro Guard
+<p><persName ref="cwgk:N00009784">C C Hare</persName> Capt<lb/>Co "G" Pro Guard
 <lb/>(Late Lieut Co B)</p>
   </body>
  </text>
