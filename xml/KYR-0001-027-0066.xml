@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0066"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,15 +72,14 @@
  <text>
   <body>
    <p>Executive Department
-<lb/>Frankfort K. <date when="1862-10-30">Oct 30/62</date>
-<lb/>W. A. Dudley Esq
-<lb/>Quarter Master General
-<lb/>Dear Sir</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort </placeName>K. <date when="1862-10-30">Oct 30/62</date>
+<lb/><persName ref="cwgk:N00007039">W. A. Dudley</persName> Esq<lb/><orgName ref="cwgk:O00000389">Quarter Master General
+</orgName><lb/>Dear Sir</p>
 <p>Your letter of the <date when="1862-10-27">27th inst.</date>, tendering your resignation of the office of Quarter Master General of the State, to take effect on the <date when="1862-11-01">1<hi rend="sup">st</hi> proximo</date>, has been received.</p>
 <p>I regret the causes which have impelled you to this step, and more especially that which refers to your enfeebled state of health. The fidelty and ability with which you have discharged the duties of the position from which you now, voluntarily, propose to retire, have<hi rend="str"><unclear/></hi> been such as to command my most hearty approbation; and I do not hesitate to say that, in your withdrawal from it, the State loses the services of a competent, faithful and reliable officer.</p>
 <p>In accepting your resignation, for the causes which you have assigned, I beg to reciprocate your expressions of kindness, and to wish you a speedy restoration of your accustomed health and vigor.</p>
 <p>I am very truly yours
-<lb/>J. F. Robinson<pb/></p>
+<lb/><persName ref="cwgk:N001004">J. F. Robinson</persName><pb/></p>
 <p>Q<hi rend="underline"><hi rend="sup">r</hi></hi> M<hi rend="underline"><hi rend="sup">r</hi></hi> General
 <lb/>W. A. Dudley</p>
 <p>Resignation &amp; Gov. acceptance
