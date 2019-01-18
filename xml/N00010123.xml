@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">James R. B. Cole</title>
+        <title level="a" type="main">James R. B. Cole, Jr. </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,29 @@
         <particDesc>
                 <person xml:id="N00010123">
                     <persName>
-                      James R. B. Cole
-                        ()
+                      James R. B. Cole, Jr. 
+                        (Crittenden County, Kentucky, lieutenant)
                     </persName>
+                        <event type="birth"  when="1839-10-19"  ><ab>1839-10-19</ab></event>
+                        <event type="death"  when="1908-12-11"  ><ab>1908-12-11</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Crittenden County, Kentucky, lieutenant. Kentucky native. Son of James R. Cole. Married to Mary D. Cole. Served in the 20th Kentucky Infantry from January 1862 to January 17, 1865. Promoted from private to corporal in January 1862. Promoted to sergeant on July 11, 1862. Promoted to 2nd lieutenant on January 1, 1863, in Louisville, Kentucky. Promoted to 1st lieutenant on July 5, 1864, in Thomas Ferry, Georgia. Mustered out on January 17, 1865, in Louisville, Kentucky.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 40, 44, 916.
+
+<hi rend="italic">Find A Grave</hi>, &quot;J. R. B. Cole (October 19, 1839-December 11, 1908),&quot; Memorial #46266962, http://www.findagrave.com/memorial/46266962 (accessed January X, 2019).
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Crittenden County, the West half of, p. 365.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
