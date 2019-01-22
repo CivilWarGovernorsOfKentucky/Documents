@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. C. Musselman</title>
+        <title level="a" type="main">William C. Musselman</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,31 @@
         <particDesc>
                 <person xml:id="N00010130">
                     <persName>
-                      W. C. Musselman
-                        ()
+                      William C. Musselman
+                        (Cynthiana, Harrison County, Kentucky, captain)
                     </persName>
+                        <event type="birth"  when="1839"  ><ab>1839</ab></event>
+                        <event type="death"  when="1887"  ><ab>1887</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Cynthiana, Harrison County, Kentucky, captain. Kentucky native. Son of James Musselman and Ellen Musselman. Mustered in as 1st lieutenant in the 20th Kentucky Infantry (U.S.A.) on January 6, 1861, in Smithland. Promoted to captain on January 1, 1863. Mustered out on January 17, 1865, in Louisville. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Harrison, District No. 2, p. 41.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Harrison, Cynthiana, p. 4.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 44, 50, 949.
+
+<hi rend="italic">Find A Grave</hi>, &quot;William C. Musselman (1839-1887),&quot; Memorial #43077335, http://www.findagrave.com/memorial/43077335 (accessed January 17, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
