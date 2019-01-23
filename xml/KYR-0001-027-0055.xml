@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0055"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Walnut. St. Louisville <date when="1862-10-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> Oct 1862</date>
-<lb/>By telegraph from. Bardstown
-<lb/>To James. F. Robinson
-<lb/>Gov of Ky</p>
-<p>Our information here is that the battle commenced between Gen. M<hi rend="sup">c</hi>Cooks Corps D. Armee on our side and Gen. Braggs Main forces at one o'clock p.m on <date when="1862-10-08">Wednesday</date> at the farm of Jordan- Peters about two miles from Perryville lasted till night. about which time Gen. Crittendens Corps. D. armee came into action. Gen. Woods division which includes Col. Grigsby's Regt participated for half <hi rend="str">an</hi> hour or so when darkness seperated the combat. the enemy withdrawing in the direction of Harrodsburg where he was hemmed in during Yesterday, Cut off it is said from Gen. Kirby Smith, Our Army is reported to be advantageously situated in all sides of the enemy and in high spirits Confident of victory- Our loss is not yet<pb/>
-<lb/>accurately known but is supposed to be about fifteen hundred 1,500 Killed and wounded. The enemys loss being greater- among the killed are Gen. J. S. Jackson Gen W. S. Terrill and Col. Webster whose bodies passed here and will reach your city tonight. Col. W<hi rend="underline"><hi rend="sup">m</hi></hi> Lyttle was mortally wounded and died yesterday. Gen. Rosseau is said to be wounded. there is a rumor that Bragg &amp; Buckner are both Killed. but this is not believed here -- </p>
-<p>John. E. Newman</p>
+   <p>Walnut. St. <placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1862-10-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> Oct 1862</date>
+<lb/>By telegraph from. <placeName ref="cwgk:P00004617">Bardstown</placeName><lb/>To <persName ref="cwgk:N001004">James. F. Robinson</persName><lb/>Gov of Ky</p>
+<p>Our information here is that the battle commenced between Gen. M<hi rend="sup">c</hi>Cooks Corps D. Armee on our side and <persName ref="cwgk:N00003001">Gen. Braggs</persName> Main forces at one o'clock p.m on <date when="1862-10-08">Wednesday</date> at the farm of <persName ref="cwgk:N00009923">Jordan- Peters</persName> about two miles from <placeName ref="cwgk:P00000469">Perryville</placeName> lasted till night. about which time <persName ref="cwgk:N00009778">Gen. Crittendens</persName> Corps. D. armee came into action. <persName ref="cwgk:N00009926">Gen. Woods</persName> division which includes <orgName ref="cwgk:O00009922">Col. Grigsby's Regt</orgName> participated for half <hi rend="str">an</hi> hour or so when darkness seperated the combat. the enemy withdrawing in the direction of <placeName ref="cwgk:P00000555">Harrodsburg</placeName> where he was hemmed in during Yesterday, Cut off it is said from <persName ref="cwgk:N00003011">Gen. Kirby Smith</persName>, Our Army is reported to be advantageously situated in all sides of the enemy and in high spirits Confident of victory- Our loss is not yet<pb/>
+<lb/>accurately known but is supposed to be about fifteen hundred 1,500 Killed and wounded. The enemys loss being greater- among the killed are <persName ref="cwgk:N00000811">Gen. J. S. Jackson</persName> <persName ref="cwgk:N00009927">Gen W. S. Terrill</persName> and <persName ref="cwgk:N00009928">Col. Webster</persName> whose bodies passed here and will reach your city tonight. Col. W<hi rend="underline"><hi rend="sup">m</hi></hi> Lyttle was mortally wounded and died yesterday. <persName ref="cwgk:N00002299">Gen. Rosseau</persName> is said to be wounded. there is a rumor that Bragg &amp; <persName ref="cwgk:N00002592">Buckner</persName> are both Killed. but this is not believed here -- </p>
+<p><persName ref="cwgk:N00009779">John. E. Newman</persName></p>
 <p>198 L 2.08 Col</p>
   </body>
  </text>
