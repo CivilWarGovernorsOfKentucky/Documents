@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,11 @@
                 <person xml:id="N00009363">
                     <persName>
                       Samuel Maguire
-                        (Surgeon, Fleming, 10 Cavalry, 45 Regiment)
+                        (Fleming County, Kentucky, physician)
                     </persName>
+                        <event type="birth"  when="1818"  cert="medium" ><ab>c1818</ab></event>
+                        <event type="death"  when="1892"  cert="medium" ><ab>c1892</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,13 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Served as Assistant Surgeon to the Tenth Kentucky Cavalry from September 10, 1862 until September 17, 1863. Surgeon of the Forty-Fifth Regiment Kentucky Infantry. Enrolled on November 14, 1863 in Cincinnati, Ohio. Honorably discharged in December 24, 1964.</p>
+        <p>Fleming County, Kentucky, physician. Pennsylvania native. Married to Eliza J. Maguire. Father of John J. Maguire, William F. Maguire. Physician in Bath County in 1850. Assistant Surgeon in the 10th Kentucky Cavalry (U.S.A.) from September 10, 1862 until September 17, 1863. Surgeon in the 45th Kentucky Infantry (U.S.A.). Enrolled on November 14, 1863 in Cincinnati, Ohio. Mustered out on December 24, 1964, in Catlettsburg, Kentucky.</p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 443, 934, 935. 
 
 <hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 250. 
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath County, 2nd Division, p. 97.
 </bibl></ab>
     </back>
 </text>
