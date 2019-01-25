@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0030"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Friday Night
-<lb/><date when="1862-08-29">August 29th 62</date>
-<lb/>Gov Robinson,</p>
-<p>I have reliable information that Morgan was at Glasgow to-day with 2000 Cavalry &amp; 2 or 3 pieces of artillery- He will doubtless attack our forces <hi rend="str"><unclear/></hi> &amp; attempt to Destroy Green River bridge, unless we have sufficient force to repulse the enemy, in that event he may turn his course toward Lebanon, &amp; try to advance towards the Capitol- I suggest that <hi rend="underline">every</hi> effort be made to be in the best state of defense -- - It would be disastrous to us should he take Frankfort</p>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> Friday Night<lb/><date when="1862-08-29">August 29th 62</date>
+<lb/><persName ref="cwgk:N001004">Gov Robinson,</persName></p>
+<p>I have reliable information that <persName ref="cwgk:N00004777">Morgan</persName> was at <placeName ref="cwgk:P00000336">Glasgow</placeName> to-day with 2000 Cavalry &amp; 2 or 3 pieces of artillery- He will doubtless attack our <orgName ref="cwgk:O00001186">forces</orgName> <hi rend="str"><unclear/></hi> &amp; attempt to Destroy <geogName ref="cwgk:G00003748">Green River</geogName> bridge, unless we have sufficient force to repulse the enemy, in that event he may turn his course toward <placeName ref="cwgk:P00002553">Lebanon</placeName>, &amp; try to advance towards the Capitol- I suggest that <hi rend="underline">every</hi> effort be made to be in the best state of defense -- - It would be disastrous to us should he take <placeName ref="cwgk:P00000308">Frankfort</placeName></p>
 <p>I am truly
 <lb/>Your friend
-<lb/>G. T. Wood<pb/></p>
+<lb/><persName ref="cwgk:N00000775">G. T. Wood</persName><pb/></p>
 <p>G. T. Wood</p>
   </body>
  </text>
