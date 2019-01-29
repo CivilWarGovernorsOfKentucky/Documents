@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0027"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington Ky <date when="1862-08-28">Aug 28th 1862</date>
-<lb/>Hon Govener Robinson
-<lb/>Sir</p>
-<p>I am Here under arrest in this Place I wrote a letter to Govenor Todd, of Ohio as I Live in that State His answer to address you and you would attend to my Case as it is out of His Jurisdiction I will state- to you as to my arrest I Belong to the 5th Ohio cav Col Taylor commanding He was anchious For me to Get A Better Posision in another Regement So he Transfered me to the 1st Bat of Ky Cavalry under Col Rubin Munday I Remained with this command for some 7 months<pb/>
-<lb/>The Pay Master came and Refused to Pay me, as my Transfer was of no account and I would Have to Report my self Back to my Regement 5th Ohio Cavalry I then went to Cincinnati By the consent of General Geo Morgan and col Munday and Reported to the Quarter Master General of Ohio <hi rend="str"><unclear/></hi>for Transportation to my Regement it was sent to me I intended agoing The Next Day when I was arrested By Major <unclear>Garber</unclear> of General Morgan's Division and Brought Here have been Here 35 days I Have Called for a trial some 4 or 5 Diffirant The Provost Marshal is anchious for me to Get out of Here and think that they ought to Give me a trial I am A good Soldger Sober and it is A shame to keep<pb/>
+   <p><placeName ref="cwgk:P001002">Lexington</placeName> Ky <date when="1862-08-28">Aug 28th 1862</date>
+<lb/><persName ref="cwgk:N001004">Hon Govener Robinson
+</persName><lb/>Sir</p>
+<p>I am Here under arrest in this Place I wrote a letter to <persName ref="cwgk:N00005318">Govenor Todd</persName>, of <placeName ref="cwgk:P001036">Ohio</placeName> as I Live in that State His answer to address you and you would attend to my Case as it is out of His Jurisdiction I will state- to you as to my arrest I Belong to the <orgName ref="cwgk:O00009476">5th Ohio cav</orgName> <persName ref="cwgk:N00009477">Col Taylor</persName> commanding He was anchious For me to Get A Better Posision in another Regement So he Transfered me to the <orgName ref="cwgk:O00009378">1st Bat of Ky Cavalry</orgName> under <persName ref="cwgk:N00005774">Col Rubin Munday</persName> I Remained with this command for some 7 months<pb/>
+<lb/>The Pay Master came and Refused to Pay me, as my Transfer was of no account and I would Have to Report my self Back to my Regement 5th <placeName ref="cwgk:P001036">Ohio</placeName> Cavalry I then went to <placeName ref="cwgk:P00001208">Cincinnati</placeName> By the consent of <persName ref="cwgk:N00009384">General Geo Morgan</persName> and col Munday and Reported to the <orgName ref="cwgk:O00009680">Quarter Master General of Ohio</orgName> <hi rend="str"><unclear/></hi>for Transportation to my Regement it was sent to me I intended agoing The Next Day when I was arrested By Major <unclear>Garber</unclear> of General Morgan's Division and Brought Here have been Here 35 days I Have Called for a trial some 4 or 5 Diffirant The Provost Marshal is anchious for me to Get out of Here and think that they ought to Give me a trial I am A good Soldger Sober and it is A shame to keep<pb/>
 <lb/>me in Here when they Brave Men on the Battle Field so Bad I Can Give the Best of Refferance to my moral Caracter Govener I wish you to Take me out Have me Released so as I can Join my Regement Emediatly Govener tells me it is in your Power and you will confer A Great Favor on A Good Soldger</p>
 <p>I am yours
 <lb/>S E <hi rend="underline">Smith</hi><pb/></p>
