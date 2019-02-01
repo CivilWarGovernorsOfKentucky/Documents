@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">N. S. Ray</title>
+        <title level="a" type="main">Nicholas S. Ray</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,25 @@
         <particDesc>
                 <person xml:id="N00010162">
                     <persName>
-                      N. S. Ray
+                      Nicholas S. Ray
                         ()
                     </persName>
+                        <event type="birth"  when="1823-02-25"  ><ab>1823-02-25</ab></event>
+                        <event type="death"  when="1885-03-05"  ><ab>1885-03-05</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lebanon, Marion County, Kentucky, bank employee. Kentucky native. Married to Mary A. C. Father of W. W. Ray, Nicholas Ray, J. S. Ray. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon, p. 90.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
