@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,30 @@
                 <person xml:id="N00010197">
                     <persName>
                       Leo Beaven 
-                        ()
+                        (Marion County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <event type="death"  when="1906"  cert="medium" ><ab>c1906</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lebanon, Marion County, Kentucky, farmer. Kentucky native. Married to Caroline Mattingly Beaven in Marion County on October 10, 1854. Father of Richard Beaven, Anne Beaven, William Beaven, Cassie Beaven. Farmer in Marion County in 1860. Employed Thomas Clark in 1860. Farmer in Marion County in 1870.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, District 1, p. 66.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, St. Marys, p. 162.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Leo Beaven (c1825-c1906),&quot; Memorial #5408580 , http://www.findagrave.com/memorial/5408580 (accessed February 4, 2019).
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Marion County Marriages, p. 1.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
