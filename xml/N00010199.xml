@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">F B, Merimee</title>
+        <title level="a" type="main">Frederick B. Merimee</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,27 @@
         <particDesc>
                 <person xml:id="N00010199">
                     <persName>
-                      F B, Merimee
-                        ()
+                      Frederick B. Merimee
+                        (Lebanon, Marion County, Kentucky, merchant)
                     </persName>
+                        <event type="birth"  when="1826"  ><ab>1826</ab></event>
+                        <event type="death"  when="1883"  ><ab>1883</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lebanon, Marion County, Kentucky, merchant. Kentucky native. Married to Eliza Ann Merimee. Father of Thomas H. Merimee, Marie E. Merimee, Leonard S. Merimee. Merchant in Marion County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon/District 1, p. 42.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Merimee (1826-1883),&quot; Memorial #110937358, http://www.findagrave.com/memorial/110937358 (accessed February 4, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
