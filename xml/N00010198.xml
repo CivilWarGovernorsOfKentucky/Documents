@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W Medley</title>
+        <title level="a" type="main">Wilford H. Medley</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,28 @@
         <particDesc>
                 <person xml:id="N00010198">
                     <persName>
-                      W Medley
-                        ()
+                      Wilford H. Medley
+                        (Marion County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1809"  cert="medium" ><ab>c1809</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Marion County, Kentucky, farmer. Maryland native. Married to Anne V. Rhodes Medley on August 21, 1830. Farmer in Marion County in 1850. Farmer in Marion County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, District 1.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, District 1, p. 4.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, X County Marriages, Film #000551244, p. 237.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
