@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Napoleon [...]</title>
+        <title level="a" type="main">Napoleon Turner</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,7 +43,7 @@
         <particDesc>
                 <person xml:id="N00010186">
                     <persName>
-                      Napoleon [...]
+                      Napoleon Turner
                         ()
                     </persName>
                       <trait type="gender" subtype="M"/>
@@ -48,5 +52,9 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Marion County, Kentucky, farmer. Kentucky native. Married to Catherine Turner. Father of Thomas J. Turner. Farmer in Marion County in 1860.</p>
+
+    </body>
 </text>
 </TEI>
