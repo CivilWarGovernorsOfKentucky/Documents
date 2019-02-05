@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,8 @@
                       George A. McKinney
                         (Adair County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1842"  cert="medium" ><ab>c1842</ab></event>
+                        <event type="birth"  when="1842"  ><ab>1842</ab></event>
+                        <event type="death"  when="1922"  ><ab>1922</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
