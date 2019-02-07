@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Piers Carrico</title>
+        <title level="a" type="main">Pious Carrico</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,35 @@
         <particDesc>
                 <person xml:id="N00010181">
                     <persName>
-                      Piers Carrico
-                        ()
+                      Pious Carrico
+                        (Washington County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1810"  cert="medium" ><ab>c1810</ab></event>
+                        <event type="death"  when="1894"  ><ab>1894</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Washington County, Kentucky, farmer. Maryland native. Married to Mary M. Spalding Carrico in Washington County on November 5, 1830. Father of Martha Carrico, Rose Carrico, Harriet Carrico, Susan Carrico, James Carrico, Catharine Carrico, Joseph Carrico, Maranda Carrico, Sarilla Carrico, Nathan Carrico, Frank Carrico. Married to Mary Ann Boarman in Marion County on November 3, 1864. Farmer in Washington County in 1850. Farmer in Washington County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Washington County, p. 435.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Washington County, District 2, p. 1.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Raywick, p. 27.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Washington County Marriages, Film #000551244, p. 256.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Marion County Marriages, Film #000597424, p. 167.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Pious Carico (c1810-1894),&quot; Memorial #75264080, http://www.findagrave.com/memorial/75264080 (accessed February 7, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
