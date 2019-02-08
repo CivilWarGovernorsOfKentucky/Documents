@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. D. Catlin</title>
+        <title level="a" type="main">William Davis Catlin</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,31 @@
         <particDesc>
                 <person xml:id="N00010175">
                     <persName>
-                      W. D. Catlin
-                        ()
+                      William Davis Catlin
+                        (Haysville, Marion County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1820-08-30"  ><ab>1820-08-30</ab></event>
+                        <event type="death"  when="1892-02-20"  ><ab>1892-02-20</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Haysville, Marion County, Kentucky, farmer. Kentucky native. Married to Mary Colbert Catlin in Marion County in October 1852. Father of Perry Catlin, Maria Catlin, Minerva Catlin, Jessie Catlin. Stepfather of Mary Gray, Sarah Gray, Martha Gray, William Gray, James Gray. Farmer in Marion County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, District 2, p. 74.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Haysville, p. 70.
+
+<hi rend="italic">Find A Grave</hi>, &quot;William D. Catlin (August 30, 1820-February 20, 1892),&quot; Memorial #57299701 , http://www.findagrave.com/memorial/57299701 (accessed February 8, 2019).
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Marion County Marriages.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
