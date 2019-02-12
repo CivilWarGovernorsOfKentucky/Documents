@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Louise Jones</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>
     </titleStmt>
@@ -46,6 +50,8 @@
                       Edmond Burns
                         (Franklin County, Kentucky)
                     </persName>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed the petition of John Lillis in Frankfort, Kentucky.</p>
+        <p>Franklin County, Kentucky contractor.  Married to Joanna Burns.  Father of Mary A. Burns. Employed as a contractor in Frankfort, Kentucky in 1860. Signed the petition of John Lillis in Frankfort, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0015.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 245
 </bibl></ab>
     </back>
 </text>
