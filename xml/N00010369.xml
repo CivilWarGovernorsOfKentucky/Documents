@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00010369">
                     <persName>
                       Thomas H. Miller
-                        ()
+                        (Mason County, Kentucky, wagoner)
                     </persName>
                         <event type="birth"  when="1836"  cert="medium" ><ab>c1836</ab></event>
                         <trait type="race" subtype="White"/>
@@ -51,8 +55,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Maysville, Mason County, Kentucky, wagoner. Kentucky native. Married to Elizabeth Miller. Father of Elijah H. Miller. Wagoner in Mason County in 1860.</p>
+        <p>Mason County, Kentucky, wagoner. Kentucky native. Married to Elizabeth Gallagher Miller in Mason County on September 14, 1859. Father of Elijah H. Miller. Wagoner in Mason County in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, District 3, p. 79.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, X County Marriages, Film #000281844, p.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
