@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Michael Osburn</title>
+        <title level="a" type="main">Michael Osborne</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,8 +43,8 @@
         <particDesc>
                 <person xml:id="N00010379">
                     <persName>
-                      Michael Osburn
-                        ()
+                      Michael Osborne
+                        (Mason County, Kentucky, day laborer)
                     </persName>
                         <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
@@ -51,8 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mason County, Kentucky, day laborer. Native of Ireland. Married to</p>
+        <p>Mason County, Kentucky, day laborer. Native of Ireland. Married to Bridget Osborne. Father of John Osborne, Mary Osborne, Kate Osborne, Joana Osborne. Day laborer in Mason County in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, District 3, p. 553.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
