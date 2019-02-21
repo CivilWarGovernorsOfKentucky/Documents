@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. E. Lett </title>
+        <title level="a" type="main">Jacob E. Lett </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Brianna Kirk</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
@@ -47,9 +51,11 @@
         <particDesc>
                 <person xml:id="N00009422">
                     <persName>
-                      J. E. Lett 
-                        (Kenton county)
+                      Jacob E. Lett 
+                        (Kenton county, Kentucky, master carpenter.)
                     </persName>
+                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,13 +63,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Member of a jury before whom two cases against William Nichols were tried in Kenton Circuit Court in Kenton County, Kentucky, in 1861. Signed petition on behalf of Henry Helman in Covington, Kenton County, Kentucky.</p>
+        <p>Kenton county, Kentucky, master carpenter. Kentucky native. Married to Catherine Lett. Father of John Lett, William Lett, John Lett, and Kate Lett. Master Carpenter in Kenton County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1449.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington Ward 3, p. 634.
 
-KYR-0001-020-1486.
+<hi rend="italic">U.S. City Directories, 1822-1995</hi> &quot;Covington, Kentucky, City Directory, 1878&quot; p. 293. 
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Kenton County, Covington Ward 3, p. 24A.
 </bibl></ab>
     </back>
 </text>
