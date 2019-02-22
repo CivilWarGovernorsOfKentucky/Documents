@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. N. Gallagher</title>
+        <title level="a" type="main">William H. Gallagher</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00010419">
                     <persName>
-                      W. N. Gallagher
+                      William H. Gallagher
                         (Mason County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1838"  ><ab>1838</ab></event>
+                        <event type="death"  when="1905"  ><ab>1905</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of John Gallagher in Mason County on October 1, 1861.</p>
+        <p>Mason County, Kentucky, resident. Kentucky native. Son of John Gallagher and Mary Gallagher. Married to Sarah E. Blackburn in Mason County on October 26, 1859. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1496
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, District 3, p. 303.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mason County Marriages, Film #000281844.
+
+<hi rend="italic">Find A Grave</hi>, &quot;W. H. Gallagher (1838-1905),&quot; Memorial #62213923, http://www.findagrave.com/memorial/62213923 (accessed February 22, 2019).
 </bibl></ab>
     </back>
 </text>
