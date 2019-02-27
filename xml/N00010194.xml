@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Rh M Spalding</title>
+        <title level="a" type="main">Richard M. Spalding</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,31 @@
         <particDesc>
                 <person xml:id="N00010194">
                     <persName>
-                      Rh M Spalding
-                        ()
+                      Richard M. Spalding
+                        (Lebanon, Marion County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1808-06-07"  ><ab>1808-06-07</ab></event>
+                        <event type="death"  when="1883-09-24"  ><ab>1883-09-24</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lebanon, Marion County, Kentucky, farmer. Kentucky native. Married to Mary J. Spalding. Father of John L. Spalding, Richard Spalding, Catherin Spalding, Leonard Spalding, Henrietta Spalding, Mary E. Spalding, Benidict J. Spalding Nancy Spalding, Martin J. Spalding. Farmer in Marion County in 1850. Employed Henry Howe and Harrison O&#39;Daniel in Marion County in 1850. Farmer in Marion County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, p. X.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, New Market-District 1, p. 573.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Lebanon, p. 58.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Richard M. Spalding (June 7, 1808-September 24, 1883),&quot; Memorial #103686185, http://www.findagrave.com/memorial/103686185 (accessed February 5, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>

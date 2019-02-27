@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C. H. Noble</title>
+        <title level="a" type="main">Lorenzo Hobbs Noble</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,37 @@
         <particDesc>
                 <person xml:id="N00010179">
                     <persName>
-                      C. H. Noble
-                        ()
+                      Lorenzo Hobbs Noble
+                        (Lebanon, Marion County, Kentucky, attorney)
                     </persName>
+                        <event type="birth"  when="1818-12-15"  ><ab>1818-12-15</ab></event>
+                        <event type="death"  when="1899-03-20"  ><ab>1899-03-20</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lebanon, Marion County, Kentucky, attorney. Paris, Maine native. Married to Ann A. Hogue Noble in Bardstown, Nelson County, on October 18, 1845. Father of Mary C. Noble, William P. Noble, Charles H. Noble, Daniel A. Noble. Graduated from Harvard University School of Law in 1847. Attorney in Marion County in 1860. Employed King McBath in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon/District 1, p. 553.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Lebanon, p. 4.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Marion County Marriages, Film #000481508.
+
+<hi rend="italic">History and Genealogy of the Family of Thomas Noble, of Westfied, Massachusetts</hi>,  North America, Family Histories, 1500-2000. (Accessed February 7, 2019, via ancestry.com).
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1965)</hi>, KDLA, Roll #994027-994058, Marion County Deaths, p. 162.
+
+<hi rend="italic">Catalog of the Alpha Delta Phi Society.</hi>, <hi rend="italic">U.S., School Catalogs, 1765-1935</hi>, Educational Institutions. American Antiquarian Society, Worcester, Massachusetts., p. 49. (Accessed via ancestry.com on February 7, 2019).
+
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Marion County, KY, May 1865, p. 136, (Accessed via ancestry.com).
+</bibl></ab>
+    </back>
 </text>
 </TEI>

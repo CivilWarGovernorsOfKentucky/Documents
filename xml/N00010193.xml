@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J H Edelen </title>
+        <title level="a" type="main">James H. Edelen </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,33 @@
         <particDesc>
                 <person xml:id="N00010193">
                     <persName>
-                      J H Edelen 
-                        ()
+                      James H. Edelen 
+                        (Lebanon, Marion County, Kentucky, merchant and druggist)
                     </persName>
+                        <event type="birth"  when="1833-08-15"  ><ab>1833-08-15</ab></event>
+                        <event type="death"  when="1902-09-13"  ><ab>1902-09-13</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lebanon, Marion County, Kentucky, merchant and druggist. Kentucky native. Son of Leonard Edelen and Susan Edelen. Married to Mary Lewis Edelen in Mercer County on January 23, 1855. Father of Sallie Edelen, Thomas S. Edelen. Merchant in Marion County in 1860. Employed Frank M. Coward in Marion County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, p. 679.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon/District 1, p. 741.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Lebanon, p. 78.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mercer County Marriages, Film #000191862.
+
+<hi rend="italic">Find A Grave</hi>, &quot;J. H. Edelen (August 15, 1833-September 13, 1902),&quot; Memorial #112259404, http://www.findagrave.com/memorial/112259404 (accessed February 5, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>

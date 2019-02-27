@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1475"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,61 +67,32 @@
  </teiHeader>
  <text>
   <body>
-   <p>Scott County Ky -- <date when="1861-10-09">Oct 9<hi rend="sup">th</hi> 1861</date>
-<lb/>To his Excellency Beriah Magoffin-</p>
-<p>The undersigned citizens of Scott county- recommend to your clemency Sanferd Chowning -- who at the November term of the Scott Circuit court was found guilty of keeping a tipling house and fined Sixty Dollars -- </p>
+   <p><placeName ref="cwgk:P001030">Scott County Ky</placeName> -- <date when="1861-10-09">Oct 9<hi rend="sup">th</hi> 1861</date>
+<lb/>To <persName ref="cwgk:N00000258">his Excellency Beriah Magoffin</persName>-</p>
+<p>The undersigned citizens of Scott county- recommend to your clemency Sanferd Chowning -- who at the November term of the <orgName ref="cwgk:O00000576">Scott Circuit court</orgName> was found guilty of keeping a tipling house and fined Sixty Dollars -- </p>
 <p><hi rend="str">The circumstances of the f<unclear/> case was not agravtating -- and grew out of an ignorance of the hability of Chowning</hi> -- ^Chowning^ <hi rend="str">who</hi> is a poor man -- and will be greatly distressed at this time by the enforcing of the Judgement -- </p>
-<p>James Y Kelly
-<lb/>Bat T Thompson
-<lb/>S R Thomson
-<lb/>Ed Lucas
-<lb/>Sam W Thompson
-<lb/>G W Offutt
-<lb/>Geo E Prewitt
-<lb/>^Direct answer to^ T. I. Burns
-<lb/>D W Gatwood
-<lb/>J C Applegate
-<lb/>C D Smith
-<lb/>J. T Pratt
-<lb/>A Hawkins<pb/>
-<lb/>W R Webb
-<lb/>M Polk
-<lb/>W F Pullen
+<p><persName ref="cwgk:N00009192">James Y Kelly</persName><lb/><persName ref="cwgk:N00010259">Bat T Thompson</persName><lb/><persName ref="cwgk:N00010260">S R Thomson</persName><lb/>Ed Lucas
+<lb/><persName ref="cwgk:N00010262">Sam W Thompson</persName><lb/><persName ref="cwgk:N00009190">G W Offutt</persName><lb/><persName ref="cwgk:N00010263">Geo E Prewitt</persName><lb/>^Direct answer to^<persName ref="cwgk:N00010367"> T. I. Burns</persName><lb/><persName ref="cwgk:N00010266">D W Gatwood</persName><lb/><persName ref="cwgk:N00009183">J C Applegate</persName><lb/><persName ref="cwgk:N00010267">C D Smith</persName><lb/>J. T Pratt
+<lb/><persName ref="cwgk:N00010268">A Hawkins</persName><pb/>
+<lb/><persName ref="cwgk:N00010269">W R Webb</persName><lb/><persName ref="cwgk:N00010270">M Polk</persName><lb/>W F Pullen
 <lb/>Sam W Long
-<lb/>Sam Godey
-<lb/>William Jackson
-<lb/>A M Hall
-<lb/>S W H Rawlins
-<lb/>Y H Godey
-<lb/>Jno. N. Long
-<lb/>T Pullen
-<lb/>L Covington
-<lb/>W, S, Fitsgerald
+<lb/><persName ref="cwgk:N00010273">Sam Godey</persName><lb/><persName ref="cwgk:N00010274">William Jackson</persName><lb/><persName ref="cwgk:N00010366">A M Hall
+</persName><lb/>S W H Rawlins
+<lb/><persName ref="cwgk:N00010276">Y H Godey</persName><lb/>Jno. N. Long
+<lb/><persName ref="cwgk:N00010283">T Pullen</persName><lb/><persName ref="cwgk:N00010284">L Covington</persName><lb/>W, S, Fitsgerald
 <lb/>W, Samuell
 <lb/>A P Hils
-<lb/>John N wash
-<lb/>A G, morison
-<lb/>J D Whitton
-<lb/>M Powel
-<lb/>T, H, Whitton
-<lb/>E. D. Conley
-<lb/>Reuben Bridding
-<lb/>Jas. S. Whitton
-<lb/>M L. Whitton
-<lb/>R H Whitton
-<lb/>J <unclear/>
-<lb/>J A Nall
-<lb/>W. B. Southworth
-<lb/>Austin Alsop
-<lb/><hi rend="str">G</hi> George Sullavan<pb/>
+<lb/><persName ref="cwgk:N00010290">John N wash</persName><lb/>A G, morison
+<lb/><persName ref="cwgk:N00010297">J D Whitton</persName><lb/><persName ref="cwgk:N00010300">M Powel</persName><lb/>T, H, Whitton
+<lb/><persName ref="cwgk:N00010313">E. D. Conley</persName><lb/><persName ref="cwgk:N00010314">Reuben Bridding</persName><lb/><persName ref="cwgk:N00010316">Jas. S. Whitton</persName><lb/>M L. Whitton
+<lb/><persName ref="cwgk:N00010335">R H Whitton</persName><lb/>J <unclear/>
+<lb/><persName ref="cwgk:N00010365">J A Nall</persName><lb/>W. B. Southworth
+<lb/><persName ref="cwgk:N00010337">Austin Alsop</persName><lb/><hi rend="str">G</hi> George Sullavan<pb/>
 <lb/>James Taylor
 <lb/>Jos, B <unclear/>
-<lb/>Flem glass
-<lb/>Nelson Jones
-<lb/>Noel G. W. Noe
-<lb/>W H Stockdell
-<lb/>John Jones
-<lb/>John Spencer</p>
+<lb/><persName ref="cwgk:N00010341">Flem glass</persName><lb/><persName ref="cwgk:N00010342">Nelson Jones</persName><lb/><persName ref="cwgk:N00010343">Noel G. W. Noe
+</persName><lb/><persName ref="cwgk:N00010345">W H Stockdell</persName><lb/><persName ref="cwgk:N00010364">John Jones
+</persName><lb/><persName ref="cwgk:N00010347">John Spencer</persName></p>
   </body>
  </text>
 </TEI>

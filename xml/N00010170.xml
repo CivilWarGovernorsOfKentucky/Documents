@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">D B Thompson</title>
+        <title level="a" type="main">Daniel B. Thompson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,29 @@
         <particDesc>
                 <person xml:id="N00010170">
                     <persName>
-                      D B Thompson
-                        ()
+                      Daniel B. Thompson
+                        (Loretto, Marion County, Kentucky farmer)
                     </persName>
+                        <event type="birth"  when="1818-10-04"  ><ab>1818-10-04</ab></event>
+                        <event type="death"  when="1887-01-25"  ><ab>1887-01-25</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Loretto, Marion County, Kentucky farmer. Kentucky native. Married to Malinda Thompson. Father of Catherine Thompson, John P. Thompson, Daniel Thompson, Richard Thompson, Mark Thompson, Harriet Thompson, Caroline Thompson, Anna Thompson. Farmer in Marion County in 1850 to 1880. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, District 1, p. 554.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Loretto, p. 16.
+
+<hi rend="italic">Find A Grave</hi>, &quot;D. B. Thompson (October 4, 1818-January 25, 1887),&quot; Memorial #21653520 , http://www.findagrave.com/memorial/21653520 (accessed February 1, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>

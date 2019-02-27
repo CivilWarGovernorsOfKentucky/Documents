@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">H. Bond</title>
+        <title level="a" type="main">Hiram Bond</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Brianna Kirk</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00009415">
                     <persName>
-                      H. Bond
-                        (Kenton county)
+                      Hiram Bond
+                        (Covington, Kenton county, Kentucky, master stone cutter)
                     </persName>
+                        <event type="birth"  when="1807"  cert="medium" ><ab>c1807</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Member of a jury before whom two cases against William Nichols were tried in Kenton Circuit Court in Kenton County, Kentucky, in 1861.</p>
+        <p>Covington, Kenton county, Kentucky, master stone cutter. Ohio native. Married to Hannah Bond. Father of Henry Bond, Matilda Bond, William Bond, John Bond, Hiram Bond. Master Stone Cutter in Kenton County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1449.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington Ward 6, p. 836.
 </bibl></ab>
     </back>
 </text>
