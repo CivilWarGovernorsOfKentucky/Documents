@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,11 @@
                 <person xml:id="N00010456">
                     <persName>
                       Eli P. Metcalfe
-                        (Kentucky, soldier)
+                        (Cincinnati, Hamilton County, Ohio, stone quarry owner and soldier)
                     </persName>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
+                        <event type="death"  when="1890"  cert="medium" ><ab>c1890</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,8 +56,18 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky, soldier. Served in the 10th Kentucky Volunteer Cavalry (U.S.A.).</p>
+        <p>Cincinnati, Hamilton County, Ohio, farmer and soldier. Kentucky native. Married to Fannie C. Metcalfe. Father of Rhodale Metcalfe, Fannie Metcalfe, Even Metcalfe, Allen Metcalfe. Farmer in Hamilton County in 1860. Served as corporal in the 10th Kentucky Cavalry (U.S.A.) from August 11, 1862, to September 17, 1863. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Hamilton County, Millcreek Township, p. 821.
+
+<hi rend="italic">Organization Index to Pension Files of Veterans Who Served Between 1861 and 1900, compiled 1949-1949, documenting the period 1861-1942</hi>, NARA RG 15, Microfilm Series T289, Roll <hi rend="italic">pub57</hi>synthroll435_.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 258.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Name (Birth-Death),&quot; Memorial #78997361, http://www.findagrave.com/memorial/78997361 (accessed March 4, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
