@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005460">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005447">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Thompson</title>
+        <title level="a" type="main">Milton Justus</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
@@ -11,10 +11,6 @@
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Emily D. Moses</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -45,11 +41,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00005460">
+                <person xml:id="N00005447">
                     <persName>
-                      John Thompson
-                        (Mason County, Kentucky, resident)
+                      Milton Justus
+                        (Mason County, Kentucky, blacksmith)
                     </persName>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +55,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Sarah Bartley.</p>
+        <p>Mason County, Kentucky, blacksmith. Ohio native. Blacksmith in Mason County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0036.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Lower District, p. 12.
 </bibl></ab>
     </back>
 </text>

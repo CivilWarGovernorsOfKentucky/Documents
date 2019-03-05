@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005460">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010454">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Thompson</title>
+        <title level="a" type="main">W. Sewall</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Jesse Nasta</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Emily D. Moses</name>
-          </respStmt>
+          </respStmt>        
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -45,11 +37,12 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00005460">
+                <person xml:id="N00010454">
                     <persName>
-                      John Thompson
-                        (Mason County, Kentucky, resident)
+                      W. Sewall
+                        (Colonel, mustering and disbursing officer)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +50,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Sarah Bartley.</p>
+        <p>Mentioned as colonel, mustering and disbursing officer for the United States Army.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0036.
+        <ab><bibl>KYR-0002-222-0018.
 </bibl></ab>
     </back>
 </text>

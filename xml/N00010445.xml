@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005460">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010445">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Thompson</title>
+        <title level="a" type="main">John P. Parker</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Jesse Nasta</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Emily D. Moses</name>
-          </respStmt>
+          </respStmt>        
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -45,11 +37,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00005460">
+                <person xml:id="N00010445">
                     <persName>
-                      John Thompson
-                        (Mason County, Kentucky, resident)
+                      John P. Parker
+                        (Brown County, Ohio, moulder and laborer)
                     </persName>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
+                        <trait type="race" subtype="Mulatto"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +51,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Sarah Bartley.</p>
+        <p>Brown County, Ohio, moulder and laborer. Alabama native. Married to Maranda Parker. Father of John P. Parker, H. G. Parker, Charles C. Parker, Horatio W. Parker, Hortenth Parker. Laborer in Brown County in 1850. Moulder in Brown County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0036.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Brown County, District No. 12 Ripley Township, p. 86.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Brown County, Ripley, p. 421.
 </bibl></ab>
     </back>
 </text>

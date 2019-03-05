@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005460">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010442">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Thompson</title>
+        <title level="a" type="main">Benjamin C. Smith</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Jesse Nasta</name>
+            <name>Sarah Haywood</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Emily D. Moses</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -45,11 +41,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00005460">
+                <person xml:id="N00010442">
                     <persName>
-                      John Thompson
-                        (Mason County, Kentucky, resident)
+                      Benjamin C. Smith
+                        (Brown County, Ohio, farmer)
                     </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <event type="death"  when="1873-05-14"  ><ab>1873-05-14</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +56,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Sarah Bartley.</p>
+        <p>Brown County, Ohio, farmer. Ohio native. Married to Sarah Keechter Smith in Brown County on May 19, 1851. Father of James Theo Smith, Sarah A. Smith, Hannah E. Smith, Benjamin C. Smith, Frank Smith. Farmer in Brown County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0036.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Brown County, Green, p. 285.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Brown County, Green, p. 28.
+
+<hi rend="italic">Ohio, County Marriage Records</hi>, Various Ohio County Courthouses, Brown County Marriages, Film #000384274, p. 219.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Benj C. Smith (Birth-May 14, 1873),&quot; Memorial #123456703, http://www.findagrave.com/memorial/123456703 (accessed February 28, 2019).
 </bibl></ab>
     </back>
 </text>

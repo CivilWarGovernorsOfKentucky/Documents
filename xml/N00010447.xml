@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005460">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010447">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Thompson</title>
+        <title level="a" type="main">Calvin Ford</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Jesse Nasta</name>
+            <name>Sarah Haywood</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Emily D. Moses</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -45,11 +41,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00005460">
+                <person xml:id="N00010447">
                     <persName>
-                      John Thompson
-                        (Mason County, Kentucky, resident)
+                      Calvin Ford
+                        (Henry County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1817-04-30"  ><ab>1817-04-30</ab></event>
+                        <event type="death"  when="1866-08-21"  ><ab>1866-08-21</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Sarah Bartley.</p>
+        <p>Henry County, Kentucky, farmer. Kentucky native. Married to Eliza Jane Ford. Father of Bettie Ford, Samuel H. Ford, Annah L. Ford, William O. Ford, Mary W. Ford. Farmer in Henry County in 1850. Farmer in Henry County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0036.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henry County, District 8.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henry County, District 1, p. 327.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Calvin Ford (April 30, 1817-August 21, 1866),&quot; Memorial #28937108, http://www.findagrave.com/memorial/28937108 (accessed February 28, 2019).
 </bibl></ab>
     </back>
 </text>

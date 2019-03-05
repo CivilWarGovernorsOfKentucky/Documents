@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005460">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005457">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Thompson</title>
+        <title level="a" type="main">John Fennel</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
@@ -11,10 +11,6 @@
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Emily D. Moses</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -45,11 +41,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00005460">
+                <person xml:id="N00005457">
                     <persName>
-                      John Thompson
-                        (Mason County, Kentucky, resident)
+                      John Fennel
+                        (Brown County, Ohio, laborer)
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +55,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Sarah Bartley.</p>
+        <p>Brown County, Ohio, laborer. Ohio native. Married to Martha Stalcup Fennel. Father of Eliza J. Fennel, Clarinda Fennel, William M. Fennel, Charles Fennel, Mary Mae Fennel. Laborer in Brown County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0036.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Brown County, Ripley, p. 59-60.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Brown County, Ripley Union Township, p. 342.
+
+<hi rend="italic">Ohio, County Marriage Records</hi>, Various Ohio County Courthouses, Brown County Marriages, Film #000364719, p. 320, (accessed via ancestry.com).
 </bibl></ab>
     </back>
 </text>

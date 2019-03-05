@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005460">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010440">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Thompson</title>
+        <title level="a" type="main">Chambers T. Shaw</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Jesse Nasta</name>
+            <name>Sarah Haywood</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Emily D. Moses</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -45,11 +41,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00005460">
+                <person xml:id="N00010440">
                     <persName>
-                      John Thompson
-                        (Mason County, Kentucky, resident)
+                      Chambers T. Shaw
+                        (Brown County, Ohio, cooper)
                     </persName>
+                        <event type="birth"  when="1836"  ><ab>1836</ab></event>
+                        <event type="death"  when="1915"  ><ab>1915</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +56,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Sarah Bartley.</p>
+        <p>Brown County, Ohio, cooper. Ohio native. Son of Sylvester Shaw and Elizabeth Shaw. Married to Mary E. Berry Shaw in Brown County on June 13, 1856. Father of Belle. Shaw, William S. Shaw, Thomas Shaw. Cooper in Brown County in 1860. Cooper in Brown County in 1870.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0036.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Brown County, District No. 12, Russelville, Byrd Township, p. 19.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Brown County, Ripley, p. 46.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Brown County, The Village of Russellville Jefferson Township, p. 26.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Name (Birth-Death),&quot; Memorial #11845137, http://www.findagrave.com/memorial/11845137 (accessed February 28, 2019).
+
+<hi rend="italic">Ohio, County Marriage Records</hi>, Various Ohio County Courthouses, Brown County Marriages, Film #000384274, p. 196.
 </bibl></ab>
     </back>
 </text>

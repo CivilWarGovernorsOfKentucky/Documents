@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005460">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005454">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Thompson</title>
+        <title level="a" type="main">James S. Harding</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
@@ -11,10 +11,6 @@
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Emily D. Moses</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -45,11 +41,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00005460">
+                <person xml:id="N00005454">
                     <persName>
-                      John Thompson
-                        (Mason County, Kentucky, resident)
+                      James S. Harding
+                        (Brown County, Ohio, stone mason)
                     </persName>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +55,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Sarah Bartley.</p>
+        <p>Brown County, Ohio, stone mason. Virginia native. Married to Lavinia Frazier Harding in Brown County on November 24, 1835. Father of Alvira Hardin, Mary Hardin, Hester Hardin, Catherin Hardin, George W. Harding, Isabella Harding, Elizabeth Harding, Laura Harding. Stone mason in Brown County in 1850. Stone mason in Brown County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0036.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Brown County, District No. 12 Byrd Township, p. 117.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Brown County, Ripley, p. 421.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Brown County, Union Township, p. 76. 
+
+<hi rend="italic">Ohio, County Marriage Records</hi> (1744-1993), Various Ohio County Courthouses, Brown County Marriages, Film #000384273, p. 15.
 </bibl></ab>
     </back>
 </text>

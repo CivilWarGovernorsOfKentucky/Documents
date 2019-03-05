@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005460">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00010449">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Thompson</title>
+        <title level="a" type="main">Louisville and Cincinnati United States Mail Line Co.</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Jesse Nasta</name>
+            <name>Sarah Haywood</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Emily D. Moses</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -32,36 +28,34 @@
     <sourceDesc><ab>Born Digital</ab></sourceDesc>
 </fileDesc>
 
-      <encodingDesc>
-        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
-          </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <profileDesc>
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
             <textClass>
-            <keywords>
-                <term type="type">Person</term>
-            </keywords>
-        </textClass>
-        <particDesc>
-                <person xml:id="N00005460">
-                    <persName>
-                      John Thompson
-                        (Mason County, Kentucky, resident)
-                    </persName>
-                      <trait type="gender" subtype="M"/>
-                </person> 
-        </particDesc>    
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00010449">
+                    <orgName>Louisville and Cincinnati United States Mail Line Co.</orgName>
+                </org>
+            </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Sarah Bartley.</p>
+        <p>Steamship transport line in Louisville, Kentucky. Operated in 1862. Partner: Zachariah Madison Sherley.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0036.
+        <ab><bibl>&quot;Sherley, Zachariah Madison &#39;Zachary&#39;&quot; in The Encyclopedia of Louisville, John E. Kleber, ed. (Lexington: University Press of Kentucky, 2001), 814.
+
+KYR-0002-222-0014.
 </bibl></ab>
     </back>
 </text>
