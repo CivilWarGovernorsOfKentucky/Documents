@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Catherin Nichols</title>
+        <title level="a" type="main">Catherine Nichols</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,12 @@
         <particDesc>
                 <person xml:id="N00010487">
                     <persName>
-                      Catherin Nichols
-                        ()
+                      Catherine Nichols
+                        (Covington, Kenton County, Kentucky, resident)
                     </persName>
-                      <trait type="gender" subtype="M"/>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
         </profileDesc>
