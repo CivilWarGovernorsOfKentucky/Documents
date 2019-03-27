@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010483">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010488">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John H. Kemper</title>
+        <title level="a" type="main">Seth Williams</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Melissa DeVelvis</name>
+            <name>Sarah Haywood</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Emily D. Moses</name>
+            <name>Sarah Haywood</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,11 +41,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00010483">
+                <person xml:id="N00010488">
                     <persName>
-                      John H. Kemper
-                        (Floyd County, Kentucky, coal mine owner.)
+                      Seth Williams
+                        (Covington, Kenton County, Kentucky, boiler rolling mill worker)
                     </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="death"  when="1894"  cert="medium" ><ab>c1894</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,12 +56,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Floyd County, Kentucky, coal mine owner. Cincinnati, Ohio native. Acquired a mortgage near Abbott Creek in Floyd County from James A. Walls on July 2, 1856. Coal Mine owner in Floyd County in 1860. Landlord in Floyd County in 1861. Accused of falsely charging Elizabeth Palmer of adultery in Floyd County on January 12, 1861.</p>
+        <p>Covington, Kenton County, Kentucky, boiler rolling mill worker. Native of Trevethin, Monmouthsire, Wales. Son of Walter Williams and Mary Williams. Married to Sarah Williams. Father of Mary F. Williams, Eliza Williams, Margaret H. Williams, Benjamin Williams, Lilly Williams, Roger Williams. Iron boiler in Breconshire, Llanelly, Wales, in 1851. Boiler rolling mill worker in Covington in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>Henry P. Scalf, <hi rend="italic">Kentucky&#39;s Last Frontier</hi>  3rd ed. (Johnson City, TN: The Overmountain Press, 2000), 199.<lb/>
-KYR-0001-020-0500
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, County, City/District, p. X
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, County, City/District, p. X
+
+<hi rend="italic">Census Returns of England and Wales</hi> (1851), Wales, Llanelly, Breconshire, Aberbaidan, Clydach, 31.
+
+<hi rend="italic">Fraternal Order Death Notices</hi>, Kansas Historical Society, (accessed via http://www.kshs.org/p/fraternal-order-death-notices/10988 on March 26, 2019).
 </bibl></ab>
     </back>
 </text>
