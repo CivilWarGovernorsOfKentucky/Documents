@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0069"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,18 +72,17 @@
  <text>
   <body>
    <p>1<hi rend="sup">st</hi> dispatch of this date
-<lb/>Union City Tenn
-<lb/><date when="1861-06-02">June 2<hi rend="sup">nd</hi> 1861</date>
-<lb/>To Gov<hi rend="sup">r</hi> Magoffin</p>
-<p>Sir, Since My dispatch of <date when="1861-05-31">31<hi rend="underline"><hi rend="sup">st</hi></hi></date> &amp; My private note of the <date when="1861-06-01">1<hi rend="underline"><hi rend="sup">st</hi></hi></date> I determined to Visit Camp Union, at Union City, which is on the line of rail road from Columbus to Mobile, distant from the former place about 25 Miles</p>
-<p>I have just had an intervew with Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Cheatham Commanding who has given Me the most satisfactory assurances, that no inrode upon the sovereignty of Kentucky Shall be Made as you will see from his note of ths date ^a copy of which is^ enclosed herewith</p>
+<lb/><placeName ref="cwgk:P00000899">Union City Tenn</placeName><lb/><date when="1861-06-02">June 2<hi rend="sup">nd</hi> 1861</date>
+<lb/>To Gov<hi rend="sup">r</hi> <persName ref="cwgk:N00000258">Magoffin</persName></p>
+<p>Sir, Since My dispatch of <date when="1861-05-31">31<hi rend="underline"><hi rend="sup">st</hi></hi></date> &amp; My private note of the <date when="1861-06-01">1<hi rend="underline"><hi rend="sup">st</hi></hi></date> I determined to Visit Camp Union, at Union City, which is on the line of rail road from <placeName ref="cwgk:P00004819">Columbus</placeName> to<placeName ref="cwgk:P00004820"> Mobile</placeName>, distant from the former place about 25 Miles</p>
+<p>I have just had an intervew with Gen<hi rend="underline"><hi rend="sup">l</hi></hi> <persName ref="cwgk:N00004761">Cheatham</persName> Commanding who has given Me the most satisfactory assurances, that no inrode upon the sovereignty of<placeName ref="cwgk:P001800"> Kentucky</placeName> Shall be Made as you will see from his note of ths date ^a copy of which is^ enclosed herewith</p>
 <p>I am now happy to inform you that all danger of interfearance from the Confederate States with<pb/>
 <lb/>our affairs, (if there ever was any, which I do not beleive,) is set finally at rest</p>
 <p>I am happy also to inform you, that there are no Men at Columbus, and there has been none;-- the effort of which I apprised you, to throw a disorganized force of 3 or 4.<hi rend="sup">00</hi> men has been a failure, and I am assured that all the force at the Command of the Commander in chief &amp; his officer<hi rend="sup">s</hi> will be exerted to prevent it, as it has been heretofore</p>
-<p>I shall await instructions from you by <hi rend="str">Capt</hi>Lf Cobb</p>
+<p>I shall await instructions from you by <hi rend="str">Capt</hi>Lf <persName ref="cwgk:N00004821">Cobb</persName></p>
 <p>I have the honor to be your
 <lb/>Excellencies obt Servt
-<lb/>Jno M Johnson</p>
+<lb/><persName ref="cwgk:N00003952">Jno M Johnson</persName></p>
   </body>
  </text>
 </TEI>
