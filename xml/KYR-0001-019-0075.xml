@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0075"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Paducah Kentucky
-<lb/><date when="1861-06-05">June 5<hi rend="sup">th</hi> 1861</date>
+   <p><placeName ref="cwgk:P00001227">Paducah Kentucky</placeName><lb/><date when="1861-06-05">June 5<hi rend="sup">th</hi> 1861</date>
 <lb/>To His Excellency
-<lb/>B Maggofin Governor of Kentucky
-<lb/>sir</p>
-<p>I have the honor to enclose herewith the reply of Hon John A Gardner Confidential agent of His Excellency the Governor of Tennessee for the Western divission of the state, to my letter of the <date when="1861-05-28">28<hi rend="sup">th</hi></date> Int, a copy of which I enclosed by Capt Cobb</p>
-<p>After My dispatches from Union City Tennessee by Capt Cobb, dated <date when="1861-06-02">June 2<hi rend="underline"><hi rend="sup">nd</hi></hi></date> I visited Columbus Ky in Company with Col Tilghman &amp; Judge Bigger to have a conference with prominent Citizens in regard to Col Austins plan for fortifying the place, I showed ^them^ your instructions to me, and also assured them, that the State of Tennessee had given me a pledge that neither guns, Munitions of War, or Men from that State Would be allowed to go to Columbus for the purpose indicated, as it Would be a Violation of your Excellencies proclaimation as the line of policy which Ky had determined to assume -- awaiting your further instructions, I have the honor to be &amp;C</p>
-<p>Jno M Johnson</p>
+<lb/><persName ref="cwgk:N00000258">B Maggofin</persName> Governor of Kentucky<lb/>sir</p>
+<p>I have the honor to enclose herewith the reply of Hon <persName ref="cwgk:N00003328">John A Gardner</persName> Confidential agent of His Excellency the<persName ref="cwgk:N00001929"> Governor of Tennessee</persName> for the Western divission of the state, to my letter of the <date when="1861-05-28">28<hi rend="sup">th</hi></date> Int, a copy of which I enclosed by Capt<persName ref="cwgk:N00004821"> Cobb</persName></p>
+<p>After My dispatches from <placeName ref="cwgk:P00000899">Union City Tennessee</placeName> by Capt Cobb, dated <date when="1861-06-02">June 2<hi rend="underline"><hi rend="sup">nd</hi></hi></date> I visited <placeName ref="cwgk:P00000893">Columbus Ky</placeName> in Company with Col<persName ref="cwgk:N00001266"> Tilghman </persName>&amp; Judge <persName ref="cwgk:N00002047">Bigger </persName>to have a conference with prominent Citizens in regard to Col <persName ref="cwgk:N00004794">Austins</persName> plan for fortifying the place, I showed ^them^ your instructions to me, and also assured them, that the State of Tennessee had given me a pledge that neither guns, Munitions of War, or Men from that State Would be allowed to go to Columbus for the purpose indicated, as it Would be a Violation of your Excellencies proclaimation as the line of policy which Ky had determined to assume -- awaiting your further instructions, I have the honor to be &amp;C</p>
+<p><persName ref="cwgk:N00003952">Jno M Johnson</persName></p>
   </body>
  </text>
 </TEI>
