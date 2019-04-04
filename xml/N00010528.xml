@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010528">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">W. F. MARVIN</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010528">
+                    <persName>
+                      W. F. MARVIN
+                        (Boyle County, Danville, Kentucky, writer, poet and shoemaker)
+                    </persName>
+                        <event type="death"  when="1879-07-12"  ><ab>1879-07-12</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Boyle County, Danville, Kentucky, writer, poet, and shoemaker. Native of England. Married to Charlotte Ash Marvin in Saint Mary, Nottingham, England on August 11, 1825. Served in Second Kentucky Infantry as a private during Mexican-American War. Shoemaker in Danville, Boyle County, Kentucky in 1850. Known for writing poem “The Battle of Monterey” which was published in Danville, Kentucky in 1851. Shoemaker in Danville, Boyle County, Kentucky in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Boyle County, Danville, p. 710. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boyle County, Danville, p. 909. <hi rend="italic">Compiled Service Records of Volunteer Soldiers Who Served During the Mexican war</hi>, NARA RG 94, Microfilm Series M616, Roll 0023, (Accessed via fold3.com). &quot;Kentucky Advocate, 1925-03-20,&quot; <hi rend="italic">Newspapers.com</hi>, https://www.newspapers.com/clip/5021551/william<hi rend="italic">f</hi>marvin/ (accessed April 4, 2019). William F. Marvin, <hi rend="italic">The Battle of Monterey and Other Poems</hi> (Danville, Kentucky: A.S. M’Grorty, 1851), 13-67. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
