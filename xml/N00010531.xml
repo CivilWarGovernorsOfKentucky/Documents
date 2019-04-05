@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010531">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Washington </title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010531">
+                    <persName>
+                      George Washington 
+                        (Fairfax County, Virginia, President and Commander and Chief of the Continental Army)
+                    </persName>
+                        <event type="birth"  when="1732-02-22"  ><ab>1732-02-22</ab></event>
+                        <event type="death"  when="1779-07-12"  ><ab>1779-07-12</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Fairfax County, Virginia, Commander and Chief of the Continental Army and first President of the United States. Virginia native. Son of Augustine Washington and Mary Call Washington. Married Martha Dandridge Custis Washington on January 6, 1759 at the Custis house on the Pamunkey River. Surveyor in Culpeper County, Colony of Virginia in 1749. Served as District Adjutant of Virginia Militia with a rank of Major in 1752. Appointed Lieutenant Colonel and second-in-command of Virginia Regiment. Commander of Virginia Regiment in 1755, which Washington commanded throughout the Seven Years’ War and defended an area of 350 miles. Member of the House of Burgesses in 1758. Elected Commander-in-Chief of the Continental Army in 1775, which he served throughout the American Revolution. Known for successfully crossing the Delaware River on December 26, 1776 and defeating a Hessian outpost in Trenton, New Jersey. Washington followed that with a victory in Princeton, New Jersey on January 3, 1776. Trapped British General Charles Cornwallis at Yorktown, Virginia, who surrendered on October 19, 1781, effectively ending the American Revolution. President at Constitutional Convention in 1787. Elected President of the United States April 30, 1789. At the time of his death in Mount Vernon, Virginia on December 14, 1799, Washington’s estate owned 317 enslaved persons.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Henry Wiencek, &quot;George Washington (1732-1799)&quot; in <hi rend="italic">Encyclopedia of Virginia</hi>, Brendon Wolfe, ed., https://www.encyclopediavirginia.org/George<hi rend="italic">Washington</hi>1732-1799#start<hi rend="italic">entry  (Accessed on April 5, 2019). John E. Ferling, _The First of Men: A Life of George Washington</hi> (Knoxville: University of Tennessee Press, 1988), 31-60.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
