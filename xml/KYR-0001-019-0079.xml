@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0079"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,11 +72,10 @@
  <text>
   <body>
    <p>Cincinnati, <date when="1861-06-11">June 11, 1861</date>.
-<lb/>Gov. B. Magoffin</p>
-<p>I have received information that Tennessee troops are under orders to occupy Island Number one, six miles below Cairo. In accordance with my understanding with Genl. Buckner, I call upon you to prevent this step. Do you regard the Islands <hi rend="str">o</hi>in the Mississippi river above the Tennessee line as within your jurisdiction, and if so, what ones?</p>
+<lb/>Gov. <persName ref="cwgk:N00000258">B. Magoffin</persName></p>
+<p>I have received information that <placeName ref="cwgk:P001001">Tennessee</placeName> troops are under orders to occupy Island Number one, six miles below <placeName ref="cwgk:P00004801">Cairo</placeName>. In accordance with my understanding with Genl. <persName ref="cwgk:N00002592">Buckner</persName>, I call upon you to prevent this step. Do you regard the Islands <hi rend="str">o</hi>in the <geogName ref="cwgk:G000003">Mississippi river</geogName> above the <placeName ref="cwgk:P001001">Tennessee</placeName> line as within your jurisdiction, and if so, what ones?</p>
 <p>Respectfully
-<lb/>G. B. McClellan
-<lb/>Adj. Genl. U. S. A.<figure type="hr"/></p>
+<lb/><persName ref="cwgk:N00006215">G. B. McClellan</persName><lb/>Adj. Genl. U. S. A.<figure type="hr"/></p>
 <p>Frankfort, Ky. <date when="1861-06-11">June 11, 1861</date>.
 <lb/>Gen. <hi rend="str"><unclear/></hi>G. B. McClellan, Cincinnati, Ohio</p>
 <p>Gen Buckner has gone to Paducah and Columbus -- has orders to carry out his understanding with you -- am investigating the question of jurisdiction over the Islands to which you allude -- will answer further, probably tomorrow</p>
