@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010543">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Winfield Scott</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010543">
+                    <persName>
+                      Winfield Scott
+                        (New York City, New York, Commanding general United States Army)
+                    </persName>
+                        <event type="birth"  when="1786-06-13"  ><ab>1786-06-13</ab></event>
+                        <event type="death"  when="1866-05-29"  ><ab>1866-05-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>New York City, New York, commanding general United States Army. Virginia native. Son of Ann Mason Scott and William Scott. Married Maria Mayo Scott on March 11, 1817. Father of Maria Mayo Scott, John Scott, Virginia Scott, Edward Winfield Scott, Cornelia Winfield Scott, Adeline Camilla Scott, and Marcela Scott. Studied law at the College of William &amp; Mary. Commissioned as Captain of light infantry in 1808. Promoted to Lieutenant Colonel during the War of 1812 in which he was involved in the Battle of Queenston Heights in Ontario, Canada. Leadership skills helped him to receive a brevet promotion to Major General in 1814. Wrote <hi rend="italic">General Regulations for The Army; or Military Institutes</hi> in 1821. Despite an unsuccessful campaign during Second Seminole War (1835-1842), he received full promotion to Major General and commanding general of the United States Army in 1841. During Mexica-American War, Scott successfully captured Veracruz in March 1847 after leading an amphibious assault. Lost the Whig Party nomination for President of the United States in 1848 and 1852. Promoted to Brevet Lieutenant General on March 7, 1855. During the American Civil War, Scott asked then-United States Colonel Robert E. Lee to assume command of the Union Army, but Lee turned it down. Scott devised the Anaconda Plan which aimed to exploit the weaknesses of the Confederate States. </p>
+
+    </body>
+    <back>
+        <ab><bibl>Eighth Manuscript Census of the United States_ (1860), Population Schedules, New York City, New York, New York County, p. 448. <hi rend="italic">Find A Grave</hi>, &quot;Winfield Scott (June 13, 1786 to May 29, 1866,&quot; Memorial #938<lb/>
+, https://www.findagrave.com/memorial/938 (accessed April 8, 2019). Thomas G. Clemons, &quot;Winfield Scott (1786-1866)&quot; in <hi rend="italic">Encyclopedia of Virginia</hi>, Brendon Wolfe, ed., https://www.encyclopediavirginia.org/Scott<hi rend="italic">Winfield</hi>1786-1866  (Accessed on April 7, 2019).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
