@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006215">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Brinton McClellan</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006215">
+                    <persName>
+                      George Brinton McClellan
+                        (Orange County, New York, Union General)
+                    </persName>
+                        <event type="birth"  when="1826-12-03"  ><ab>1826-12-03</ab></event>
+                        <event type="death"  when="1885-10-29"  ><ab>1885-10-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Orange County, New York, soldier. Philadelphia, Pennsylvania native. Married to Mary Ellen Marcy McClellan on Mary 22, 1860 in New York City, New York. Father of Mary McClellan and George Brinton McClellan. Graduate of The United States Military Academy at West Point in 1846. Commissioned as brevet second lieutenant in the United States Army Corps of Engineers. Served in the Mexican-American War as a brevetted first lieutenant. Resigned his commission on January 16, 1857. Served as chief engineer and vice president of the Illinois Central Railroad. Served as president of the Ohio Mississippi Railroad In 1860. Commissioned as the Ohio militia major general of volunteers on April 23, 1861. Served as commander of the Department of the Ohio in May of 1861 as Major General of the regular army. In November 1, 1861 he was promoted to general-in-chief. He commanded the army in the Peninsula Campaign and the Maryland Campaign, culminating in the battle of Antietam. Removed from command on November 5, 1862. Nominated as the Democratic candidate for President in 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1850), Population Schedules, New York, Orange County, Cornwall, p. 360.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, New York, Orange County, 21st District Ward 21, p. 692B.
+
+<hi rend="italic">Find A Grave</hi>, &quot;George B. McClellan (December 03, 1826-October 29, 1885),&quot; Memorial #2765, http://www.findagrave.com/memorial/2765 (accessed April 09, 2019).
+
+Ezra J. Warner, <hi rend="italic">Generals in Blue: Lives of the Union Commanders</hi> (Baton Rouge: Louisiana State University Press, 1964), 290-292; 
+
+Stephen W. Sears, <hi rend="italic">George B. McClellan: The Young Napoleon</hi>, (New York: Da Caop Press, 1999) p. 63.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
