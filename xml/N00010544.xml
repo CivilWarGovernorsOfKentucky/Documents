@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010544">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Benjamin H. Helm</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010544">
+                    <persName>
+                      Benjamin H. Helm
+                        (Louisville, Jefferson County, Kentucky, attorney, brigadier general (C.S.A).)
+                    </persName>
+                        <event type="birth"  when="1831-06-02"  ><ab>1831-06-02</ab></event>
+                        <event type="death"  when="1863-05-29"  ><ab>1863-05-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Jefferson County, Kentucky, attorney, and brigadier general (C.S.A). Kentucky native. Son of John L. Helm and Lucinda Barbour Hardin Helm. Married Emile P. Todd Helm on March 28, 1856 in Franklin County, Kentucky. Father of Katherine Helm, Elodie Todd Helm, and Benjamin Hardin Helm. Attended Elizabethtown Seminary c.1846. Attended Kentucky Military Institute. Graduated The United States Military Academy in 1851. Brevetted second lieutenant in the Second Regular United States cavalry. Served at Fort Lincoln in Texas. Resigned from his post and graduated from the University of Louisville Department of Law in the spring of 1853. Attended Harvard Law School in Cambridge, Massachusetts. Practiced law with Martin H. Cofer and John L. Helm in Elizabethtown, Kentucky. Commonwealth Attorney for Third District, Jefferson County, Kentucky between 1856 and 1858. Practiced law in Louisville, Kentucky with Horatio W. Bruce between 1858 and 1861. Appointed assistant inspector-general of the Kentucky State Guard in 1860. Served as Colonel of the First Kentucky Cavalry Regiment (C.S.A.) between October 19, 1861 and March 14, 1862. Promoted to Brigadier General of the Third Brigade following the Battle of Shiloh in April 1862. Commanded Eastern District, Department of the Gulf, in September 1862. Appointed Commander of First Kentucky Brigade of the Army of Tennessee, in the Department of the West on January 31, 1863. Died at the Battle of Chickamauga in Chickamauga, Georgia on September 20, 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Jefferson County, Kentucky p. 345. <hi rend="italic">Find A Grave</hi>, &quot;Benjamin Hardin Helm (June 2, 1831 to May 29, 1863,&quot; Memorial #8925, https://www.findagrave.com/memorial/8925 (accessed April 9, 2019). <hi rend="italic">Kentucky Marriage Records</hi>, Franklin County Courthouse, Frankfort, Kentucky, Franklin County Marriages, Film #994027. National Archives and Records Administration (NARA), U.S. Military and Naval Academies, Cadet Records and Applications, 1800-1908, Washington, D.C.; Series Number: M2037. Kentucky General Assembly, Kentucky Public Documents, vol. 2<hi rend="italic">, “Auditor of Public Accounts, Fiscal Year Ending October 10, 1857” (Frankfort, Kentucky: A.G. Hodges, Public Printer, 1857), 285 and 309. Edwin Porter Thompson, History of the First Kentucky Brigade (Cincinnati, Ohio: Caxton Publishing House, 1868), 338-345.</hi>John L. Kleber ed., The Kentucky Encyclopedia (Lexington, Kentucky: University Press of Kentucky, 1992), 421.<hi rend="italic">Spencer E. Tucker ed., American Civil War: The Definitive Encyclopedia and Document Collection (Santa Barbara, California: ABC-CLIO, 2013), 898.</hi>Stephen Berry, <hi rend="italic">House of Abraham: Lincoln and the Todds, a Family Divided By War</hi>(New York, New York: Houghton Mifflin Harcourt Publishing Company, 2009). 
+</bibl></ab>
+    </back>
+</text>
+</TEI>

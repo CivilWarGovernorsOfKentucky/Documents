@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0149"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,71 +71,56 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hartford Ohio county Ky,
-<lb/><date when="1863-10-23">Oct 23<hi rend="sup">rd</hi> 1863.</date>
-<lb/>To his Excellency Thomas E. Bramlett
-<lb/>govenor of Kentucky</p>
-<p>Your petitioners would respectfully represent that at the last term of the Ohio circuit court James A Thomas a judgment was rendered against. James A Thomas and Peter Thomas for sixty dollars each under an indictment for keeping a tipling house in the town of Hartford, The house was kept by said James, &amp; Peter Thomas was only a small boy who was attending to business for his Uncle James -- The circumstances are these. at the commencement of this war we had no one in this town who <hi rend="str">would</hi> sold liquor by the small with the exception of a secesh tavern keeper and we Union men were resolved not to purchase of him, we therefore called upon M<hi rend="sup">r</hi> Thomas to open a liquor establishment, which he did, and did sell it by the small, which we consider was necessary under the circumstances, he <hi rend="str">considered</hi> continued to sell until <hi rend="str">a</hi> loyal tavern keepers opened bars for the purpose, and then he discontinued &amp; has sold none since by the small. Now we do believe this is a proper case for executive clemency, and we ask you to remit the fine as far as you can and you will confer a great favor upon us who <hi rend="str">was</hi><pb/>
+   <p><placeName ref="cwgk:P001000">Hartford</placeName> <placeName ref="cwgk:P00002417">Ohio county</placeName> <placeName ref="cwgk:P001800">Ky</placeName>,<lb/><date when="1863-10-23">Oct 23<hi rend="sup">rd</hi> 1863.</date>
+<lb/>To his Excellency <persName ref="cwgk:N001000">Thomas E. Bramlett</persName><lb/>govenor of Kentucky</p>
+<p>Your petitioners would respectfully represent that at the last term of the <orgName ref="cwgk:O00000484">Ohio circuit court</orgName> James A Thomas a judgment was rendered against. <persName ref="cwgk:N00010097">James A Thomas</persName> and Peter Thomas for sixty dollars each under an indictment for keeping a tipling house in the town of Hartford, The house was kept by said James, &amp; <persName ref="cwgk:N00010096">Peter Thomas</persName> was only a small boy who was attending to business for his Uncle James -- The circumstances are these. at the commencement of this war we had no one in this town who <hi rend="str">would</hi> sold liquor by the small with the exception of a secesh tavern keeper and we Union men were resolved not to purchase of him, we therefore called upon M<hi rend="sup">r</hi> Thomas to open a liquor establishment, which he did, and did sell it by the small, which we consider was necessary under the circumstances, he <hi rend="str">considered</hi> continued to sell until <hi rend="str">a</hi> loyal tavern keepers opened bars for the purpose, and then he discontinued &amp; has sold none since by the small. Now we do believe this is a proper case for executive clemency, and we ask you to remit the fine as far as you can and you will confer a great favor upon us who <hi rend="str">was</hi><pb/>
 <lb/>were the cause of the opening of said establishment</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>C W Stevens
-<lb/>R T Bell
-<lb/>Robert Row
-<lb/>Jonas Durham
-<lb/>M P M<hi rend="sup">c</hi>Dowell
-<lb/>G S Hamilton
-<lb/>Moses Baer.
-<lb/>Alfred Stogner
-<lb/>John Raly
-<lb/>Griffin Patterson
-<lb/>Alexander Stogner
-<lb/>C J Lawton who do not drink but think it was a necessity at that particular time
-<lb/>J T Hill
-<lb/>S L Baird
-<lb/>Leut A. P. Hudson of 12 Ky Cavl
-<lb/>E R Murrell
-<lb/>H. R Cook
-<lb/>I. S. Ford
-<lb/>H, E, Carling
-<lb/>S Manzry
-<lb/>Thomas Handly
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Rosenberg
-<lb/>Simon Levi
-<lb/>Q C Shanks
-<lb/>Henry Small
-<lb/>Wm, H. Potts
-<lb/>Henry. <unclear>Arments.</unclear>
-<lb/>Louis. <unclear>Arments.</unclear>
-<lb/>A. B. Baird Post Master
-<lb/><cb n="2"/>J, J, Harrison
-<lb/>John P Tracy
-<lb/>E. A. Maddox
-<lb/>W<hi rend="sup">m</hi> Hardwick
-<lb/>Alf -- Nall
-<lb/>John T Austin
-<lb/>Philip Felix
-<lb/>Henry T Stevens
-<lb/>Granville Crawford
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Graves
-<lb/>R, N, Hood
-<lb/>J L Woodward
-<lb/>F G Nall
-<lb/>D S Hill Presiding Judge Ohio Cty Court
-<lb/>F Sullenger
-<lb/>W, B, Lawton
-<lb/>T J Kerby
-<lb/>A. B, Gratz
-<lb/>Lea Davis
-<lb/>James Gibson
-<lb/>L R Carson
-<lb/>D, A, Miller
-<lb/>J B Stevens
-<lb/>W H Miller Rep Ohio Co
-<lb/>D. A. Miller Jr
-<lb/>A. L, Morton clerk Ohio Circuit Court
-<lb/>W. H. Davidson D. C.
-<lb/>Jas B Bennett Marshal of Oho County
-<lb/>Robbert Moseley
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bryant</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00010102">C W Stevens
+</persName><lb/><persName ref="cwgk:N00010103">R T Bell
+</persName><lb/><persName ref="cwgk:N00010104">Robert Row
+</persName><lb/><persName ref="cwgk:N00010117">Jonas Durham
+</persName><lb/><persName ref="cwgk:N00010105">M P M<hi rend="sup">c</hi>Dowell</persName>
+<lb/><persName ref="cwgk:N00010112">G S Hamilton
+</persName><lb/><persName ref="cwgk:N00002805">Moses Baer.
+</persName><lb/><persName ref="cwgk:N00001004">Alfred Stogner</persName>
+<lb/><persName ref="cwgk:N00001006">John Raly</persName><lb/><persName ref="cwgk:N00001008">Griffin Patterson
+</persName><lb/><persName ref="cwgk:N00001010">Alexander Stogner</persName>
+<lb/><persName ref="cwgk:N00001012">C J Lawton</persName> who do not drink but think it was a necessity at that particular time<lb/><persName ref="cwgk:N00001016">J T Hill
+</persName><lb/><persName ref="cwgk:N00001017">S L Baird</persName>
+<lb/>Leut <persName ref="cwgk:N00001019">A. P. Hudson</persName> of 12 Ky Cavl<lb/><persName ref="cwgk:N00001022">E R Murrell
+</persName><lb/><persName ref="cwgk:N00001024">H. R Cook</persName>
+ <lb/><persName ref="cwgk:N00001026">J. S. Ford</persName>
+<lb/><persName ref="cwgk:N00001028">H. E. Carling
+</persName><lb/><persName ref="cwgk:N00001030">S Manzry
+</persName><lb/><persName ref="cwgk:N00001032">Thomas Handly
+</persName><lb/><persName ref="cwgk:N00001687"><hi rend="underline"><hi rend="sup">m</hi></hi> Rosenberg</persName>
+<lb/><persName ref="cwgk:N00001689">Simon Levi
+</persName><lb/><persName ref="cwgk:N00001690">Q C Shanks</persName>
+<lb/><persName ref="cwgk:N00001692">Henry Small
+</persName><lb/><persName ref="cwgk:N00001693">Wm. H. Potts
+</persName><lb/><persName ref="cwgk:N00001695">Henry. Armendt.</persName>
+ <lb/><persName ref="cwgk:N00001697">Louis. Armendt.</persName>
+<lb/><persName ref="cwgk:N00002026">A. B. Baird</persName> Post Master<lb/><cb n="2"/><persName ref="cwgk:N00008711">J, J, Harrison
+</persName><lb/><persName ref="cwgk:N00010108">John P Tracy
+</persName><lb/><persName ref="cwgk:N00010109">E. A. Maddox
+</persName><lb/><persName ref="cwgk:N00010110">W<hi rend="sup">m</hi> Hardwick</persName>
+<lb/><persName ref="cwgk:N00010114">Alf -- Nall
+</persName><lb/><persName ref="cwgk:N00010111">John T Austin
+</persName><lb/>P<persName ref="cwgk:N00001003">hilip Felix
+</persName><lb/><persName ref="cwgk:N00001005">Henry T Stevens</persName><lb/><persName ref="cwgk:N00001007">Granville Crawford
+</persName><lb/><persName ref="cwgk:N00001009">W<hi rend="underline"><hi rend="sup">m</hi></hi> Graves</persName>
+<lb/><persName ref="cwgk:N00001011">R. N. Hood</persName><lb/><persName ref="cwgk:N00008643">J L Woodward
+</persName><lb/><persName ref="cwgk:N00001014">F G Nall</persName>
+<lb/><persName ref="cwgk:N00001015">D S Hill </persName>Presiding Judge Ohio Cty Court<lb/><persName ref="cwgk:N00001018">F Sullenger
+</persName><lb/><persName ref="cwgk:N00001020">W. B. Lawton</persName><lb/><persName ref="cwgk:N00001021">T J Kerby
+</persName><lb/><persName ref="cwgk:N00001023">A. B. Gratz
+</persName><lb/><persName ref="cwgk:N00001025">Lea Davis
+</persName><lb/><persName ref="cwgk:N00001027">James Gibson</persName><lb/><persName ref="cwgk:N00001029">L R Carson</persName>
+<lb/><persName ref="cwgk:N00010078">D. A. Miller</persName><lb/><persName ref="cwgk:N00001686">J B Stevens
+</persName><lb/><persName ref="cwgk:N00001688">W H Miller Rep Ohio Co
+</persName><lb/><persName ref="cwgk:N00001691">A. L, Morton clerk Ohio Circuit Court</persName>
+<lb/><persName ref="cwgk:N00001694">W. H. Davidson</persName> D. C.<lb/><persName ref="cwgk:N00001696">Jas B Bennett</persName> Marshal of Oho County<lb/><persName ref="cwgk:N00001698">Robbert Moseley
+</persName><lb/><persName ref="cwgk:N00001699">W<hi rend="underline"><hi rend="sup">m</hi></hi> Bryant</persName></p>
   </body>
  </text>
 </TEI>

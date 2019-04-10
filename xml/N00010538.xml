@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010538">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Scott Ketchum</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010538">
+                    <persName>
+                      William Scott Ketchum
+                        (Washington, District of Columbia, Major General (U.S.A) )
+                    </persName>
+                        <event type="birth"  when="1813-06-07"  ><ab>1813-06-07</ab></event>
+                        <event type="death"  when="1871-06-28"  ><ab>1871-06-28</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Washington, District of Columbia, Major General (U.S.A). Fairfield County, Connecticut native. Son of Daniel Ketchum. Married Ann McMullin Ketchum in Leon District, Florida, on 04 August 1840. Father of Charles Leavenworth Ketchum. Married Rebecca White Ketchum on 25 February 1846. Father of James D. Ketchum. Graduate of U.S. Military Academy in 1834. Served during the Second Seminole War in the 6th Infantry as Captain from 1835 to 1842. Served in the 6th Infantry as Captain during the 1857 Cheyenne Expedition. Employed Maggie Rouen in San Diego, California in 1860. Served in 4th Infantry as Captain and Lieutenant Colonel (U.S.A.) from 1860 to 1861. Served in U.S. Volunteers as Brigadier General, Colonel, and Brevet Major-General from 1862 to 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;William Scott Ketchum (1813-1871),&quot; Memorial #6060, https://www.findagrave.com/memorial/6060/william-scott-ketchum (accessed April 7, 2019).<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, California, San Diego, San Diego, p. 766.<lb/>
+<hi rend="italic">Marriage Records. Florida Marriages</hi>Various Florida County Courthouses and State Archive, Tallahassee, Florida, Leon County Marriages, 1841.<lb/>
+John Fiske and James Grant Wilson, eds.,<hi rend="italic">Appletons&#39; Cyclopaedia of American Biography</hi> (New York: D. Appleton and Company, c1886), p. 528.<lb/>
+William Chalfant, <hi rend="italic">Cheyennes and Horse Soldiers: The 1857 Expedition of Solomon&#39;s Fork</hi> (Norman: University of Oklahoma Press, 2002), pp. 121, 246.
+</bibl></ab>
+    </back>
+</text>
+</TEI>

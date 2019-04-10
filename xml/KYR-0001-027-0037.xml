@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0037"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Christina Adkins</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Columbus Ohio <date when="1862-09-07">Sep 7, 1862</date>
-<lb/>Hon J, F. Robinson</p>
-<p>My Bro. J. R, Smith recvd. a commission for 2nd Lieutenancy in 32d Reg<hi rend="sup">t</hi>--Ky V,--^for recruiting--^ <hi rend="str">a</hi>At the Battle of Cynthiana, on <date when="1862-07-17">17th of July last</date> he was taken prisoner, &amp; at The time was acting adjt to my battalion, and paroled by Morgan as a Lieutenant -- </p>
-<p>He stopped recruiting <hi rend="str"><unclear/></hi>believing it to be a violation of his parole, after having recruited 14 men for 32<hi rend="underline"><hi rend="sup">nd</hi></hi> &amp; over <hi rend="str">2</hi>30 for 7th Cavly prior to his having recd -- commission for recruiting -- My Bro. is here for exchange -- he has done a great deal for the cause, fought well at Cynthiana-- He and my family are exiles &amp; beggers-- and I ask that his commission be confirmed by your -- when exchanged he will immediately report to you in Ky -- I am here by adj Gel. Thomas order, awaiting my exchange, which I think is being<pb/>
-<lb/>favored -- Please answer my request &amp; direct to me -- at Camp Chase. Ohio-- ^Major^ Comdg 2nd Regt. of P, P, -- </p>
-<p>W. O. Smith</p>
+   <p><placeName ref="cwgk:P00004819">Columbus Ohio</placeName> <date when="1862-09-07">Sep 7, 1862</date>
+<lb/>Hon <persName ref="cwgk:N001004">J, F. Robinson</persName></p>
+   <p>My Bro. <persName ref="cwgk:N00010156">J. R, Smith</persName> recvd. a commission for 2nd Lieutenancy in <orgName ref="cwgk:O00006231">32d Reg<hi rend="sup">t</hi>--Ky V</orgName>,--^for recruiting--^ <hi rend="str">a</hi>At the Battle of <placeName ref="cwgk:P00005772">Cynthiana</placeName>, on <date when="1862-07-17">17th of July last</date> he was taken prisoner, &amp; at The time was acting adjt to my battalion, and paroled by <persName ref="cwgk:N00004777">Morgan</persName> as a Lieutenant -- </p>
+   <p>He stopped recruiting <hi rend="str"><unclear/></hi>believing it to be a violation of his parole, after having recruited 14 men for 32<hi rend="underline"><hi rend="sup">nd</hi></hi> &amp; over <hi rend="str">2</hi>30 for <orgName ref="cwgk:O00006342">7th Cavly</orgName> prior to his having recd -- commission for recruiting -- My Bro. is here for exchange -- he has done a great deal for the cause, fought well at Cynthiana-- He and my family are exiles &amp; beggers-- and I ask that his commission be confirmed by your -- when exchanged he will immediately report to you in <placeName ref="cwgk:P001800">Ky</placeName> -- I am here by adj Gel. <persName ref="cwgk:N00005245">Thomas</persName> order, awaiting my exchange, which I think is being<pb/>
+<lb/>favored -- Please answer my request &amp; direct to me -- at <orgName ref="cwgk:O00009501">Camp Chase</orgName>. Ohio-- ^Major^ Comdg <orgName ref="cwgk:O00010155">2nd Regt. of P, P,</orgName> -- </p>
+<p><persName ref="cwgk:N00010029">W. O. Smith</persName></p>
 <p>W. O. Smith</p>
   </body>
  </text>

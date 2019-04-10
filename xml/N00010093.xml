@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">D. A. Miller Jr</title>
+        <title level="a" type="main">David A. Miller, Jr. </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,27 @@
         <particDesc>
                 <person xml:id="N00010093">
                     <persName>
-                      D. A. Miller Jr
-                        ()
+                      David A. Miller, Jr. 
+                        (Ohio County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1839-02-27"  ><ab>1839-02-27</ab></event>
+                        <event type="death"  when="1887-01-04"  ><ab>1887-01-04</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Hartford, Ohio County, Kentucky, farmer. Kentucky native. Son of David A. Miller, Sr. and Mariah Miller. Farmer in Hartford, Ohio County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ohio County, Hartford, p. 8.
+
+<hi rend="italic">Find A Grave</hi>, &quot;David A. Miller, Jr. (February 27, 1839-January 4, 1887),&quot; Memorial #24924815, http://www.findagrave.com/memorial/24924815(accessed January 16, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>

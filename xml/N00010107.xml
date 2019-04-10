@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010107">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Lorenzo Dow Owen</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010107">
+                    <persName>
+                      Lorenzo Dow Owen
+                        (Henry County merchant and sheriff)
+                    </persName>
+                        <event type="birth"  when="1827-08-09"  ><ab>1827-08-09</ab></event>
+                        <event type="death"  when="1892-10-01"  ><ab>1892-10-01</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Henry County, Kentucky, merchant and sheriff. Kentucky native. Married to Sarah A. Owen. Father of Linden A. Owen. Appointed U.S. Postmaster in Lockport, Kentucky, on May 25, 1828. Merchant in Henry County in 1860. Sheriff of Henry County in 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henry County, Subdivision 1, p. 308. 
+
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Henry County, Lockport, p. 128B.
+
+_Annual Report of the Auditor of Public Accounts for the State of Kentucky, for the Fiscal Year Ending October 10, 1861 (Frankfort: Yeomen Office, 1862), 120. 
+
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, vol. 28, p. 96 (accessed via Ancestry.com).
+
+<hi rend="italic">Find A Grave</hi>, &quot;Lorenzo Dow Owen (1827-1892),&quot; Memorial # 90820326, https://www.findagrave.com/memorial/90820326/ (accessed January 14, 2019).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

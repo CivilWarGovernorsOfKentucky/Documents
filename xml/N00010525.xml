@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010525">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Benjamin Groomes</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010525">
+                    <persName>
+                      Benjamin Groomes
+                        (Nashville, Davidson County, Tennessee, cabinet maker)
+                    </persName>
+                        <event type="death"  when="1876-10-21"  ><ab>1876-10-21</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Nashville, Davidson County, Tennessee, cabinet maker. Virginia native. Married to Mary Parrish Groomes in Nashville on December 11, 1838. Father of Catherine Grooms, Thomas Randle Grooms, Benjamin Franklin Groomes, Sarah E. “Sally” Groomes, and Richard “Dick” Groomes. Cabinet maker in Nashville in 1850. Cabinet maker in Nashville 1860. Partner with James Cavert in Groomes, Cavert &amp; CO, Furniture in Nashville in 1860. Owned one enslaved person in Davidson County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Davidson County, Nashville, p. 75. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Davidson County, Nashville, p. 434. <hi rend="italic">Tennessee Marriage Records</hi>, Davidson County, Nashville,1838-1864, p.8. <hi rend="italic">Tennessee City Death Records</hi>, 1872-1923, Davidson County, Nashville, p. 55. <hi rend="italic">Nashville City and Business Directory for 1860-1861</hi>, vol.  V., (Nashville, TN: L. P. Williams &amp; CO., Publishers and Proprietors, 1860), pp. 142, 182, 199. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>

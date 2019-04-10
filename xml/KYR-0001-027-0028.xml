@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0028"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Galt House, Louisville,
-<lb/><date when="1862-08-28">August 28, 1862.</date>
+   <p><orgName ref="cwgk:O00002784">Galt House</orgName>, <placeName ref="cwgk:P00000337">Louisville</placeName>,<lb/><date when="1862-08-28">August 28, 1862.</date>
 <lb/>Sir,</p>
 <p>I have the honor to inclose a copy of the advertisement to British subjects which I propose to insert in the Louisville papers.</p>
 <p>Upon reflection in the remarks which you made with regard to the character of the evidence of nationality, it <unclear>I trust the</unclear> that it might be possible to suggest a form of certificate which would be more satisfactory than an<pb/>
-<lb/>affidavit before a Notary Public. On inquiry I found that the machinery of the County Courts &amp; Courts of Record appeared to supply precisely what I required. that certificates obtained from these Courts upon proof would be satisfactory evidence, &amp; would obviate the necessity of a second examination before the exempting officer. I have therefore suggested applications to these Courts; I hope, Sir,<pb/>
+<lb/>affidavit before a Notary Public. On inquiry I found that the machinery of the <orgName ref="cwgk:O001000">County Courts</orgName> &amp; Courts of Record appeared to supply precisely what I required. that certificates obtained from these Courts upon proof would be satisfactory evidence, &amp; would obviate the necessity of a second examination before the exempting officer. I have therefore suggested applications to these Courts; I hope, Sir,<pb/>
 <lb/>that this recommendation will meet with your approval.</p>
 <p>With the exception of this point, and the additional paragraph respecting persons who have "declared intention," the notice is identical with the draft which I had the honour of submitting to you.</p>
 <p>With renewed thanks for your courtesy and friendly expressions</p>
 <p>I have the honor to be, Sir,
 <lb/>Your most obedient Servant,
-<lb/><hi rend="underline">H. Percy Anderson</hi></p>
+<lb/><persName ref="cwgk:N00009334">H. Percy Anderson</persName></p>
   </body>
  </text>
 </TEI>

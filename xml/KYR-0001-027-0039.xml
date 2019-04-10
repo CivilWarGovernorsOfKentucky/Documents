@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0039"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Louise Jones</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,13 @@
  <text>
   <body>
    <p><date when="1862-09-18">Sept the 18th 1862</date></p>
-<p>To the honor of Gov Boil we wish to inform your honor of the conduct and treatment of the so called 3 months men of Oldham CO Ky about 25 men in No with R. J. Sparks as there Captain came to us &amp; have taken one horse saddle &amp; bridle from J. R. Hampton &amp; also 2 fine mars from W. T. Casaday,, as he ^Sparks^ says under the order of Col Hunt of Lagrange of Ky and as we believe in direct oposition to your own proclimation if you doo not approve of s<hi rend="str">i</hi>utch conduct and treatment you will pleas order the s<hi rend="sup">d</hi> property to be returned to s<hi rend="sup">d</hi> owners immediately;</p>
+   <p>To the honor of <persName ref="cwgk:N00000523">Gov Boil</persName> we wish to inform your honor of the conduct and treatment of the so called <orgName ref="cwgk:O00010433">3 months men</orgName> of <placeName ref="cwgk:P00002077">Oldham CO Ky</placeName> about 25 men in No with <persName ref="cwgk:N00009767">R. J. Sparks</persName> as there Captain came to us &amp; have taken one horse saddle &amp; bridle from <persName ref="cwgk:N00009770">J. R. Hampton</persName> &amp; also 2 fine mars from <persName ref="cwgk:N00009771">W. T. Casaday</persName>,, as he ^Sparks^ says under the order of <persName ref="cwgk:N00009798">Col Hunt</persName> of <placeName ref="cwgk:P00002643">Lagrange of Ky</placeName> and as we believe in direct oposition to your own proclimation if you doo not approve of s<hi rend="str">i</hi>utch conduct and treatment you will pleas order the s<hi rend="sup">d</hi> property to be returned to s<hi rend="sup">d</hi> owners immediately;</p>
 <p>Yours Respectfuly
 <lb/>J. R. Hampton
 <lb/>W. T. Casaday<pb/></p>
-<p>Hdqrs Louisville <date when="1862-09-19">Sept 19/62</date>
-<lb/>Respectfully refd to Adjt Genl Finnell
-<lb/>By order etc
-<lb/>H C Semple a a a g</p>
+<p>Hdqrs <placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1862-09-19">Sept 19/62</date>
+<lb/>Respectfully refd to Adjt Genl <persName ref="cwgk:N00000228">Finnell</persName><lb/>By order etc
+<lb/><persName ref="cwgk:N00009796">H C Semple</persName> a a a g</p>
   </body>
  </text>
 </TEI>

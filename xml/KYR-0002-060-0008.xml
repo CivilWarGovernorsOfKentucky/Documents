@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0008"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brianna Kirk</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,20 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bardstown Ky
-<lb/><date when="1864-06-08">June 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
+   <p><placeName ref="cwgk:P00004617">Bardstown</placeName> <placeName ref="cwgk:P001800">Ky</placeName><lb/><date when="1864-06-08">June 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
 <lb/>His Excellency
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlette
-<lb/>Gov<hi rend="sup">nr</hi> State Ky,
-<lb/>Govenor.</p>
-<p>I have the honor to enclose a letter from Col Wolford.</p>
+    <lb/><persName ref="cwgk:N001000">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlette</persName>
+<lb/>Gov<hi rend="sup">nr</hi> State <placeName ref="cwgk:P001800">Ky</placeName>,<lb/>Govenor.</p>
+<p>I have the honor to enclose a letter from <persName ref="cwgk:N00005137">Col Wolford</persName>.</p>
 <p>I saw him on Monday, and he was pleased to say, that he would be glad if you would at once issue my commission</p>
-<p>He requested me to say to you, 'that it would be necessary to have a mustering officer at Lebanon by the <date when="1864-08-19">19<hi rend="sup">th</hi> inst</date> -- as the Companies would be on the ground by that time.</p>
+<p>He requested me to say to you, 'that it would be necessary to have a mustering officer at <placeName ref="cwgk:P00002553">Lebanon</placeName> by the <date when="1864-08-19">19<hi rend="sup">th</hi> inst</date> -- as the Companies would be on the ground by that time.</p>
 <p>He is confident that he will have more than enough to fill his Regiment.</p>
 <p>I have the honor to be your most obt servt.
-<lb/>Al. D. Hynes.</p>
+<lb/><persName ref="cwgk:N00009423">Al. D. Hynes</persName>.</p>
 <p>A. D Hynes Adj<hi rend="underline"><hi rend="sup">t</hi></hi>
-<lb/>1 Reg<hi rend="underline"><hi rend="sup">t</hi></hi> Capitol Guard
+ <lb/><orgName ref="cwgk:O00009331">1 Reg<hi rend="underline"><hi rend="sup">t</hi></hi> Capitol Guard</orgName>
 <lb/><date when="1864-05-15">May 15. 1864</date><pb/></p>
 <p>Bardstown Ky
 <lb/><date when="1864-06-08">June 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>

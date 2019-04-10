@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,9 @@
                 <person xml:id="N00003087">
                     <persName>
                       John W. Chandler
-                        (Lebanon (marion co) merchant)
+                        (Lebanon, Marion County, Kentucky, merchant)
                     </persName>
-                        <event type="birth"  when="1806"  ><ab>1806</ab></event>
+                        <event type="birth"  when="1806"  cert="medium" ><ab>c1806</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Lebanon, Kentucky, merchant. Kentucky native. Married to Elizabeth C. Chandler.</p>
+        <p>Lebanon, Marion County, Kentucky, merchant. Kentucky native. Married to Elizabeth C. Bevin Chandler. Father of Benjamin R. Chandler, Lewis M. Chandler, Elizabeth L. Chandler, Ann J. Chandler, John E. Chandler, Fannie Chandler, Edward Chandler, Nannie Chandler. Merchant in Marion County in 1850. Employed J. R. Knott, Albert J. Jenkins in 1850. Merchant in Marion County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon District 2, p. 107.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, p. 679.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon, p. 107.
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Marion County Births, p. 5.
 </bibl></ab>
     </back>
 </text>

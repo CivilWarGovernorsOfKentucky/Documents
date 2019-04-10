@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00010513">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Executive Department, Tennessee</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00010513">
+                    <orgName>Executive Department, Tennessee</orgName>
+                        <event type="begun"  when="1796"  ><ab>1796</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Office of the Governor, in which the constitution of Tennessee vests the executive power of the state. </p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;Tennessee Constitution, 1796, Article 2, Section 1&quot; <hi rend="italic">Tennessee Founding and Landmark Documents</hi>, https://cdm15138.contentdm.oclc.org/digital/collection/tfd/id/388 (Accessed April 1, 2019).  &quot;The Constitution of the State of Tennessee&quot; <hi rend="italic">Prepared by the Office of the Chief of Clerk of the Senate Revised November 4, 2014</hi>, http://www.capitol.tn.gov/about/docs/tn-constitution.pdf (Accessed April 1, 2019). Connie L. Lester, &quot;Tennessee Governor&#39;s Office&quot; in<hi rend="italic">The Tennessee Encyclopedia of History and Culture</hi>, Carroll Van West and Connie L. Lester, eds., http://Tennesseeencyclopedia.net/entries/Tennessee-governors-office/ (Accessed April 1, 2019). 
+</bibl></ab>
+    </back>
+</text>
+</TEI>

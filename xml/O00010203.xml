@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00010203">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Russellville Committee on Safety</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Christina Adkins</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00010203">
+                    <orgName>Russellville Committee on Safety</orgName>
+                        <event type="begun"  when="1861"  cert="medium" ><ab>c1861</ab></event>
+                        <event type="ended"  when="1862"  cert="medium" ><ab>c1862</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Committee of citizens organized in Russellville, Kentucky, during the Confederate occupation c1861. Members: Edward Stevenson, James McCallen, John B. Peyton, [Unknown] Evans, and William Clark. </p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0001-029-0065.
+
+KYR-0001-027-0038.
+
+M. B. Morton and J. B. Peyton to J. J. Crittenden, 10 July 1862, Case Files of Investigations by Levi C. Turner and Lafayette C. Baker, 1861-1865, NARA RG 94, Microfilm Series M797, Roll 0018, Case File #550, accessed via Fold3.com.
+
+Edward Stevenson to Joseph Holt, July 1862, Case Files of Investigations by Levi C. Turner and Lafayette C. Baker, 1861-1865, NARA RG 94, Microfilm Series M797, Roll 0018, Case File #550, accessed via Fold3.com.
+
+Christina Adkins, “’More Dangerous than Open Enemies’: Political Detentions in the Civil War Part Three,” Civil War Governors of Kentucky Digital Documentary Edition, http://civilwargovernors.org/political-detentions-part-three (accessed February 2, 2019). 
+</bibl></ab>
+    </back>
+</text>
+</TEI>

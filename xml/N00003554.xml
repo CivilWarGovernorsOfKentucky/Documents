@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. Richeson</title>
+        <title level="a" type="main">John W. Richeson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00003554">
                     <persName>
-                      J. Richeson
-                        (Taylor County )
+                      John W. Richeson
+                        (Taylor County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of George A. Garrett to Beriah Magoffin in Taylor County, Kentucky, on November 4, 1861. </p>
+        <p>Taylor County, Kentucky, farmer. Kentucky native. Married to Harriet N. Smith Richeson on February 14, 1856. Father of Nella Richeson, E. F. Richeson, H. J. Richeson. Farmer in Taylor County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1536.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Taylor County, Division 2, p. 645.
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Taylor County Marriages, p. 5.
+
+KYR-0001-020-1536.
 </bibl></ab>
     </back>
 </text>

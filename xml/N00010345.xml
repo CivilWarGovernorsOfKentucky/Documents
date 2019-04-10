@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010345">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">W. H. Stockdell</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010345">
+                    <persName>
+                      W. H. Stockdell
+                        (Scott County, Kentucky, wagon maker. )
+                    </persName>
+                        <event type="birth"  when="1832-11-09"  ><ab>1832-11-09</ab></event>
+                        <event type="death"  when="1908-01-20"  ><ab>1908-01-20</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Scott County, Kentucky, wagon maker. Kentucky native. Married to Maria J. Stockdell. Father of William F. Stockdell, Sarah H. Stockdell, and Maria A. Stockdell. Wagon Maker in Scott County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, District No 1, p. 956.
+
+<hi rend="italic">Find A Grave</hi>, &quot;W. H. Stockdell(November 9, 1832-January 20, 1908),&quot; Memorial #113863779, http://www.findagrave.com/memorial/113863779 (accessed February 15, 2019).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

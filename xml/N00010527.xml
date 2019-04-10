@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010527">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edward H. East</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010527">
+                    <persName>
+                      Edward H. East
+                        (Nashville, Davidson County, Tennessee, attorney and politician )
+                    </persName>
+                        <event type="birth"  when="1830-10-01"  ><ab>1830-10-01</ab></event>
+                        <event type="death"  when="1904-11-12"  ><ab>1904-11-12</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Nashville, Davidson County, Tennessee, attorney and politician. Nashville, Tennessee native. Son of Edward Hyde East and Cecilia Buchanan East. Graduate of Washington Institute in Nashville, Tennessee in 1850. Attended the Law School of Cumberland University from 1850-1853. Graduated from the Law School of Cumberland University in 1854. Partner with George G. Bradford in Bradford &amp; East; Attorneys at Law in 1860. Appointed Secretary of State of Tennessee from 1862 to 1865. Governor of Tennessee (interregnum) from March 4, 1865 to April 5, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Davidson County, Nashville, p. 455. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Nashville, Davidson County, p. 380. <hi rend="italic">Find A Grave</hi>, &quot;Edward Hyde East (October 1, 1830-November 12, 1904),&quot; Memorial #8005195<lb/><lb/>
+, https://www.findagrave.com/memorial/8005195 (accessed March 31, 2019).<lb/>
+ <hi rend="italic">Nashville City and Business Directory for 1860-1861</hi>, vol. V., (Nashville, TN: L. P. Williams &amp; CO., Publishers and Proprietors, 1860), p. 239. James Welch Patton, <hi rend="italic">Unionism and Reconstruction in Tennessee, 1860-1869</hi>(Chapel Hill, NC: University of North Carolina Press, 1934), 34,84,89. William S. Speer, <hi rend="italic">Sketches of Prominent Tennesseans, Containing Biographies and Records of Many of the Families Who Have Attained Prominence in Tennessee</hi>(Nashville, TN: A.B. Tavel, 1888), 196-199. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>

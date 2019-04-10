@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010122">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Alfred Attersall</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010122">
+                    <persName>
+                      William Alfred Attersall
+                        (Winchester, Clark County, Kentucky, lieutenant)
+                    </persName>
+                        <event type="birth"  when="1841"  ><ab>1841</ab></event>
+                        <event type="death"  when="1908"  ><ab>1908</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Winchester, Clark County, Kentucky, lieutenant. Native of Marylebone, Middlesex, England. Son of Thomas Attersall and Dinah Attersall. Married to Charlotte Boro Attersall in Louisville, Jefferson County, Kentucky, on February 22, 1865. Served in the 20th Kentucky Infantry (U.S.A.) from 1862 to 1865. Promoted from corporal to 2nd sergeant on December 16, 1862. Promoted to 2nd lieutenant on March 1, 1863. Commissioned as 1st lieutenant on June 28, 1864, but never mustered as such. Provost marshal from June 1864 to August 1864. On duty at military prison in Louisville, Kentucky, in December 1864. Mustered out on January 17, 1865, in Louisville, Kentucky. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 36, 906.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Name (Birth-Death),&quot; Memorial #47352700, http://www.findagrave.com/memorial/47352700 (accessed January 18, 2019).
+
+<hi rend="italic">England &amp; Wales, Civil Registration Birth Index, 1837-1915</hi>, Registration year 1841, Registration Quarter Jan-Feb-Mar, (London, England: General Register Office), p. 159.
+
+<hi rend="italic">Census Returns of England and Wales, 1851.</hi>, (Kew, Surrey, England: The National Archives of the UK (TNA): Public Record Office (PRO), 1851.), Class: HO107, Piece: 1490, Folio: 286, Page: 50, GSU roll: 87817-87818.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, County, City/District, p. 13.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 398.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film 000819620.
+</bibl></ab>
+    </back>
+</text>
+</TEI>

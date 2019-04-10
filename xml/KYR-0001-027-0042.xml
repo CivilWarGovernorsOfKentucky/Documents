@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0042"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Christina Adkins</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1862-09-15">Sep 15, 1862</date>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1862-09-15">Sep 15, 1862</date>
 <lb/>To His Ex<hi rend="sup">y</hi>
-<lb/>J F Robinson Gov<hi rend="sup">r</hi> of Ky
+<lb/><persName ref="cwgk:N001004">J F Robinson</persName> Gov<hi rend="sup">r</hi> of Ky
 <lb/>Dear Sir</p>
-<p>In pursuance of what I conceive to be the duty of any loyal man at a time like this. to <hi rend="str">keep</hi> lay before the proper authorities any information which may be of public interest I respectfully beg to inform you that Isaac Everett, who is recruiting a company in or near this city is &amp; has been a violent secessionist that twice he went to the southern part of the state for the purpose of joining <hi rend="str">m</hi>Morgan &amp; <hi rend="str">on</hi> <hi rend="str">his</hi> <hi rend="str">last</hi> was brought back by his relations, At the last attempt he was brought back on Saturday<pb/>
-<lb/>night &amp; on Monday morning had a recruiting commission, For the truth of this you can refer to the father of the young man Isaac Everett Sr, I can produce proper evidence if necessary,</p>
-<p>I have reason to believe that an application will be made to commission Turner Anderson of Mead C<hi rend="underline"><hi rend="sup">o</hi></hi> Ky in the 17<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Mr T- A, is &amp; has been a secessionist from the beginning I know it is impossible for the appointing power to know of the standing of any applicant &amp; conceive it to be the duty of any loyal man to give proper information in regard to applicants who are unworthy of trust.</p>
-<p>I am Dep Marshal of the L Chancery Court &amp; am ready to stand to the information<pb/>
-<lb/>I give at any time &amp; place required. I refer you to Hon J Speed, N Wolf, B Ballard &amp; the Union men of the city generally</p>
+<p>In pursuance of what I conceive to be the duty of any loyal man at a time like this. to <hi rend="str">keep</hi> lay before the proper authorities any information which may be of public interest I respectfully beg to inform you that <persName ref="cwgk:N00009714">Isaac Everett</persName>, who is recruiting a company in or near this city is &amp; has been a violent secessionist that twice he went to the southern part of the state for the purpose of joining <hi rend="str">m</hi><persName ref="cwgk:N00004777">Morgan</persName> &amp; <hi rend="str">on</hi> <hi rend="str">his</hi> <hi rend="str">last</hi> was brought back by his relations, At the last attempt he was brought back on Saturday<pb/>
+<lb/>night &amp; on Monday morning had a recruiting commission, For the truth of this you can refer to the father of the young man <persName ref="cwgk:N00009714">Isaac Everett</persName> Sr, I can produce proper evidence if necessary,</p>
+   <p>I have reason to believe that an application will be made to commission <persName ref="cwgk:N00009743">Turner Anderson</persName> of <placeName ref="cwgk:P001822">Mead C<hi rend="underline"><hi rend="sup">o</hi></hi></placeName> Ky in the <orgName ref="cwgk:O00002664">17<hi rend="underline"><hi rend="sup">th</hi></hi> Ky</orgName> Mr T- A, is &amp; has been a secessionist from the beginning I know it is impossible for the appointing power to know of the standing of any applicant &amp; conceive it to be the duty of any loyal man to give proper information in regard to applicants who are unworthy of trust.</p>
+<p>I am Dep Marshal of the <orgName ref="cwgk:O00000730">L Chancery Court</orgName> &amp; am ready to stand to the information<pb/>
+<lb/>I give at any time &amp; place required. I refer you to <persName ref="cwgk:N00000205">Hon J Speed</persName>, <persName ref="cwgk:N00000219">N Wolf</persName>, <persName ref="cwgk:N00000334">B Ballard</persName> &amp; the Union men of the city generally</p>
 <p>Very Respectfully
-<lb/>N, B. Gantt,<pb/></p>
+ <lb/><persName ref="cwgk:N00009713">N, B. Gantt</persName>,<pb/></p>
 <p>N B. Gantt</p>
   </body>
  </text>

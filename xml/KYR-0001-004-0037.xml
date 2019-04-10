@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0037"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,19 +72,19 @@
  <text>
   <body>
    <p>Mason Circuit Court.
-<lb/>The Commonwealth of Kentucky
-<lb/>Against &#125; Indictment
+<lb/>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky
+</orgName><lb/>Against } Indictment
 <lb/>William. M. Bartley</p>
-<p>The Grand Jury of Mason County, in the name, and by the authority of the Commonwealth of Kentucky, accuse William. M. Bartley of the crime of Grand Larceny. committed as follows; The said William. M. Bartley on the <gap/> day of <date when="1863-06">June 1863.</date> at the county aforesaid feloniously took and carried away one coat &amp; one pocket book the personal property of R. W. Watkins of the value of more than four Dollars. against the peace and dignity of the Commonwealth of Kentucky.</p>
-<p>Geo. M Thomas
-<lb/>Attorney for the Commonwealth.</p>
-<p>The following verdict was rendered herein, towit: "We the jury find the defendant guilty and fix his punishment at one years confiement in the Penitentiary, and we recommend to the Govenor to pardon him before the close of his term. We do this in view of the circumstances disclosed on the trial.</p>
-<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bickley. Foreman.</p>
+<p>The Grand Jury of <placeName ref="cwgk:P00000446">Mason County</placeName>, in the name, and by the authority of the Commonwealth of Kentucky, accuse William. M. Bartley of the crime of Grand Larceny. committed as follows; The said William. M. Bartley on the <gap/> day of <date when="1863-06">June 1863.</date> at the county aforesaid feloniously took and carried away one coat &amp; one pocket book the personal property of <persName ref="cwgk:N00005472">R. W. Watkins</persName> of the value of more than four Dollars. against the peace and dignity of the Commonwealth of Kentucky.</p>
+<p><persName ref="cwgk:N00002380">Geo. M Thomas
+</persName><lb/>Attorney for the Commonwealth.</p>
+<p>The following verdict was rendered herein, towit: "We the jury find the defendant guilty and fix his punishment at one years confiement in the <orgName ref="cwgk:O00000266">Penitentiary</orgName>, and we recommend to the Govenor to pardon him before the close of his term. We do this in view of the circumstances disclosed on the trial.</p>
+   <p><persName ref="cwgk:N00005465">W<hi rend="underline"><hi rend="sup">m</hi></hi> Bickley</persName>. Foreman.</p>
 <p>A copy attest
-<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> M. Duke Jr Clerk 
-<lb/>Mason Circuit Court.<pb/></p>
+ <lb/><persName ref="cwgk:N00002672">Jn<hi rend="underline"><hi rend="sup">o</hi></hi> M. Duke Jr</persName> Clerk 
+ <lb/><orgName ref="cwgk:O00000426">Mason Circuit Court</orgName>.<pb/></p>
 <p>The Comlth of Kentucky
-<lb/>vs &#125; Indictment for Grand Larceny
+<lb/>vs } Indictment for Grand Larceny
 <lb/>William. M. Bartley,
 <lb/>Copy Examined.</p>
   </body>

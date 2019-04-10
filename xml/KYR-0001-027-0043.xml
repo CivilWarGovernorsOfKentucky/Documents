@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0043"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Christina Adkins</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky. <date when="1862-09-11">11 Sept 1862</date></p>
-<p>I certify on honor that Colin G. Gordon was acting as wagon master for the 28 Regiment Of Ky volunteers from the <date when="1862-01-03">3<hi rend="sup">d</hi> day of January 1862</date> until the <date when="1862-04-07">7<hi rend="sup">th</hi> day of April 1862</date>. That the services of Mr. Gordon were faithfully rendered for the Government He had raised for the Regiment forty Eight men paid as recruits by Ric<hi rend="sup">d</hi> Menifee, and upon the Consolidation of the Regiment he was thrown out &amp; his men were placed in other Companies.</p>
+   <p><placeName ref="cwgk:P00000337">Louisville Ky</placeName>. <date when="1862-09-11">11 Sept 1862</date></p>
+   <p>I certify on honor that <persName ref="cwgk:N00009747">Colin G. Gordon</persName> was acting as wagon master for the <orgName ref="cwgk:O00008814">28 Regiment Of Ky volunteers</orgName> from the <date when="1862-01-03">3<hi rend="sup">d</hi> day of January 1862</date> until the <date when="1862-04-07">7<hi rend="sup">th</hi> day of April 1862</date>. That the services of Mr. Gordon were faithfully rendered for the <orgName ref="cwgk:O00002945">Government</orgName> He had raised for the Regiment forty Eight men paid as recruits by <persName ref="cwgk:N00009748">Ric<hi rend="sup">d</hi> Menifee</persName>, and upon the Consolidation of the Regiment he was thrown out &amp; his men were placed in other Companies.</p>
 <p>Thus- believing that there was to be a wagon master for the regiment I promised to Mr. Gordon that appointment he and I both believing it had to be filled. Accordingly when the wagons were furnished he was placed in charge of them and the teams and he had a great trouble and much exposure with the unbroken mules in verry bad weather -- His services were valuable to the Regiment and were faithfully rendered. It was our impression that the salary was forty Dollars per month</p>
-<p>W. P. Boone
-<lb/>Lt. Col. Comdg 28 Ky vols</p>
+<p><persName ref="cwgk:N00009749">W. P. Boone
+</persName><lb/>Lt. Col. Comdg 28 Ky vols</p>
   </body>
  </text>
 </TEI>
