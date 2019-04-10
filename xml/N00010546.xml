@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010546">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Lucas W. Trafton</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010546">
+                    <persName>
+                      Lucas W. Trafton
+                        (Henderson County, Kentucky, county judge)
+                    </persName>
+                        <event type="birth"  when="1837-04-09"  ><ab>1837-04-09</ab></event>
+                        <event type="death"  when="1877-08-06"  ><ab>1877-08-06</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Henderson County, Kentucky, county judge. Indiana native. Son of William Trafton and America Butler Trafton. Married Helen Gibbs Trafton in Henderson County, Kentucky on November 25, 1865. Attended Wabash College c.1853 in Crawfordsville, Indiana. County judge in Henderson County, Kentucky in 1860. Owned two enslaved persons in Henderson County in 1860. Mustered in as private in the Tenth Kentucky Cavalry Regiment (C.S.A.) on August 23, 1862. Promoted to quartermaster of the Tenth Kentucky Cavalry Regiment (C.S.A.) on November 4, 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl>Eighth Manuscript Census of the United States_ (1860), Population Schedules, Kentucky, Henderson County, Division 1, p. 28. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Henderson County, p. 37.<hi rend="italic">Kentucky Marriage Records</hi>, Henderson County, Kentucky, Henderson County Marriages, Film 001944390, p.117. “Officers and Students in Wabash College,” in U.S., College Student Lists, 1763-1933 (accessed via ancestry.com)<hi rend="italic">Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65</hi>, vol. 2 (Frankfort: Legislature of Kentucky, 1915), 64. <hi rend="italic">Find A Grave</hi>, &quot;Lucas William Trafton (April 9, 1837 - August 6, 1877),&quot; Memorial #X80808876, https://www.findagrave.com/memorial/80808876 (accessed April 10, 2019). Edmund L. Starling, History of Henderson County, Kentucky (Henderson, Kentucky, 1887), 751-752 (accessed vis ancestry.com). 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
