@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0084"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Brandenburg
-<lb/><date when="1861-06-11">June 11 1861</date>
-<lb/>Gov. Magoffin Pres.
-<lb/>Military Board.
-<lb/>Dear Sir</p>
-<p>I have organised a Cavalry Company in this county who have been duly sworn in &amp; have in my possession the certificates &amp;c from the County Judge. all in due conformity to law. &amp; would immediately proceed to Frankfort for arms -- but from a late card published by your board learn thats certain forms &amp;c will be agreed upon &amp; forwarded to the Captains of the various companies or could be had on application. My Company is composed of the best &amp; most substantial men of our county- our late representative being one of the number. Can we get arms for a cavalry Company. if so I will come up immediately. our county is immediately on the border &amp; one of the most exposed &amp; has been threatened heretofore with invasion (during the Bell incitements). Being a brother of your friend Major Alexander of the U. S. Army, I particularly desire your aid in arming us at once. I have a bond duly executed with ample security &amp; if it is necessary for any other papers to be furnished by your board please send them to me at once.- an immediate ans. desired- (we want good arms.)</p>
+   <p><placeName ref="cwgk:P001809">Brandenburg
+</placeName><lb/><date when="1861-06-11">June 11 1861</date>
+<lb/><persName ref="cwgk:N00000258">Gov. Magoffin </persName>Pres.<lb/><orgName ref="cwgk:O00006066">Military Board</orgName>.<lb/>Dear Sir</p>
+<p>I have organised a Cavalry Company in this county who have been duly sworn in &amp; have in my possession the certificates &amp;c from the County Judge. all in due conformity to law. &amp; would immediately proceed to<placeName ref="cwgk:P00000308"> Frankfort</placeName> for arms -- but from a late card published by your board learn thats certain forms &amp;c will be agreed upon &amp; forwarded to the Captains of the various companies or could be had on application. My Company is composed of the best &amp; most substantial men of our county- our late representative being one of the number. Can we get arms for a cavalry <orgName ref="cwgk:O00005136">Company</orgName>. if so I will come up immediately. our county is immediately on the border &amp; one of the most exposed &amp; has been threatened heretofore with invasion (during the Bell incitements). Being a brother of your friend Major <persName ref="cwgk:N00006487">Alexander</persName> of the <orgName ref="cwgk:O00001186">U. S. Army</orgName>, I particularly desire your aid in arming us at once. I have a bond duly executed with ample security &amp; if it is necessary for any other papers to be furnished by your board please send them to me at once.- an immediate ans. desired- (we want good arms.)</p>
 <p>Yrs Respty
-<lb/>A J. Alexander<pb/></p>
+<lb/><persName ref="cwgk:N00005792">A J. Alexander</persName><pb/></p>
 <p>A. J. Alexander
 <lb/>Arms -- </p>
   </body>
