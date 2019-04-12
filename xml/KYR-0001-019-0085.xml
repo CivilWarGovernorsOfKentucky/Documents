@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0085"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,13 +69,13 @@
   <body>
    <p>Paducah Ky
 <lb/><date when="1861-06-12">June 12<hi rend="sup">th</hi> 1861</date>.
-<lb/>To Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Magoffin
-<lb/>Dear Sir</p>
-<p>Enclosed find a note addressed by Me to Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Prentiss Commanding forces at Cairo on the subject of the invasion of Ky by Federal troops, to which he has not thought proper to reply</p>
-<p>I also enclose My letter of instructions, as I am informed by Col Monroe, that My services ar not further needed -- </p>
+<lb/>To Gov<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N00000258">Magoffin
+</persName><lb/>Dear Sir</p>
+<p>Enclosed find a note addressed by Me to Gen<hi rend="underline"><hi rend="sup">l</hi></hi> <persName ref="cwgk:N00004804">Prentiss</persName> Commanding forces at <placeName ref="cwgk:P00004801">Cairo</placeName> on the subject of the invasion of <placeName ref="cwgk:P001800">Ky</placeName> by Federal troops, to which he has not thought proper to reply</p>
+<p>I also enclose My letter of instructions, as I am informed by <persName ref="cwgk:N00002581">Col Monroe</persName>, that My services ar not further needed -- </p>
 <p>I will just say; that you need a prudent Man here all the time, to post you as to all the facts &amp; things that are happening- as well as to make these people Keep the peace untill after the election If Something of the kind is not done we will have trouble at once -- I doubt the policy of relying exclusively upon the Military</p>
 <p>I have the honor to be &amp;c.
-<lb/>Jno M Johnson<pb/></p>
+<lb/><persName ref="cwgk:N00003952">Jno M Johnson</persName><pb/></p>
 <p>D<hi rend="sup">r</hi> Johnson-</p>
   </body>
  </text>
