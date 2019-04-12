@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006708">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">R.A. Wise</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006708">
+                    <persName>
+                      R.A. Wise
+                        (Bullitt County farmer and justice of the peace)
+                    </persName>
+                        <event type="birth"  when="1820-10-03"  ><ab>1820-10-03</ab></event>
+                        <event type="death"  when="1869-10-15"  ><ab>1869-10-15</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Bullitt County, Kentucky, farmer and justice of the peace. Kentucky native. Married to Mary Kate T. Snapp Wise in Jefferson County on February 20, 1857. Step-father of Cora K. Snapp. Father of S.R. Wise. Farmer in Bullitt County in 1860. Employed J.W. Hoglanin Bullitt County in 1860. Justice of the peace in Bullitt County in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Bullitt County, District 3, p. 804.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000482708, p. 231.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Richard A. Wise (October 3, 1820-October 15, 1869),&quot; Memorial #28826225, http://www.findagrave.com/memorial/28826225 (accessed April 12, 2019).
+
+KYR-0001-004-0095.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
