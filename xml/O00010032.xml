@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Kentucky Central Rail Road Company</title>
+        <title level="a" type="main">Kentucky Central Railway</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
@@ -42,18 +46,22 @@
             </textClass>
             <particDesc>
                 <org xml:id="O00010032">
-                    <orgName>Kentucky Central Rail Road Company</orgName>
+                    <orgName>Kentucky Central Railway</orgName>
+                        <event type="begun"  when="1856"  ><ab>1856</ab></event>
+                        <event type="ended"  when="1881"  ><ab>1881</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Railroad company active in Kentucky. Reimbursed by the state of Kentucky for services rendered in 1862. Secretary: A. H. Ransom.</p>
+        <p>Railroad company active in Kentucky. Created by joining the Covington &amp; Lexington Railroad and the Lexington &amp; Danville Railroad by the Kentucky General Assembly in March 1856. Reimbursed by the state of Kentucky for services rendered in 1862. Secretary: A. H. Ransom.</p>
 
     </body>
     <back>
         <ab><bibl>KYR-0002-222-0009
+
+Paul A. Tenkotte, &quot;Kentucky Central Railway&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 491-492.
 </bibl></ab>
     </back>
 </text>
