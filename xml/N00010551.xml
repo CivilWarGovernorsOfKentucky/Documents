@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010551">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main"> Thomas H. Hunt</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010551">
+                    <persName>
+                       Thomas H. Hunt
+                        (Louisville, Jefferson County, Kentucky, Rope &amp; Bag Factory Owner, CSA Colonel )
+                    </persName>
+                        <event type="birth"  when="1815-01-02"  ><ab>1815-01-02</ab></event>
+                        <event type="death"  when="1884-05-06"  ><ab>1884-05-06</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Jefferson County, Kentucky, rope &amp; bag factory owner and soldier. Kentucky native. Married to Mary Hunt. Father of Alex T. Hunt, Anna F. Hunt, Edward Hunt, and Henrietta Hunt. Rope &amp; Factory Owner in Louisville in 1860. Served as Colonel in the 9th Kentucky Infantry (C.S.A.) from October 1, 1861 to April 22, 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 4, p. 64. 
+
+<hi rend="italic">Find A Grave</hi>, &quot;Thomas H. Hunt (January 02, 1815- May 06, 1884),&quot; Memorial #6266777, http://www.findagrave.com/memorial/6266777 (accessed April x, 2019).
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65</hi>, vol. 1 (Frankfort: Legislature of Kentucky, 1915), 410-411.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65</hi>, vol. 2 (Frankfort: Legislature of Kentucky, 1915), 262-263
+</bibl></ab>
+    </back>
+</text>
+</TEI>
