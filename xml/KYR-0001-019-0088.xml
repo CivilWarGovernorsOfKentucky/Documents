@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0088"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excelency ^the^ Govenor Magoffin</p>
-<p>I herewith Sind you the permit of the County Judge of Campbell County for the Flag Spring home guards to obtain arms please attend to this as soon as convenant that the guards may be furnished with arms we are located on the Ohio River in the uper end of Campbell Co our location and Suroundin elements across the River render it important for us to be armed If it is in your power to furnish arms Send by the way of <hi rend="str">Covington &amp; Lexing</hi> Lexington ^on^ Rail Road to Butler Station care of J M <hi rend="str">Ja</hi> Jolly Covington &amp; Lexington Rail Road if the arm can be furnished please notify J M Jolly Flagspring Ky</p>
+   <p>To his excelency ^the^ Govenor<persName ref="cwgk:N00000258"> Magoffin</persName></p>
+<p>I herewith Sind you the permit of the <persName ref="cwgk:N00004739">County Judge</persName> of <placeName ref="cwgk:P00001874">Campbell County</placeName> for the Flag Spring<orgName ref="cwgk:O00000902"> home guards</orgName> to obtain arms please attend to this as soon as convenant that the guards may be furnished with arms we are located on the <geogName ref="cwgk:G001825">Ohio River</geogName> in the uper end of Campbell Co our location and Suroundin elements across the River render it important for us to be armed If it is in your power to furnish arms Send by the way of <hi rend="str">Covington &amp; Lexing</hi> Lexington ^on^ Rail Road to Butler Station care of J M <hi rend="str">Ja</hi> Jolly <orgName ref="cwgk:O00010032">Covington &amp; Lexington Rail Road</orgName> if the arm can be furnished please notify J M Jolly Flagspring Ky</p>
 <p><hi rend="underline">J M Jolly</hi> / <hi rend="underline">Captain</hi> <hi rend="underline">Guards</hi>
 <lb/><date when="1861-06-14">June 14'1861</date></p>
   </body>
