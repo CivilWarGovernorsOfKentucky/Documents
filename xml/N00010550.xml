@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010550">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Saraphine B. Pentecost</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010550">
+                    <persName>
+                      Saraphine B. Pentecost
+                        (Saraphine Pentecost. Mount Vernon, Posey, Indiana, resident. )
+                    </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="F"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Saraphine Pentecost. Mount Vernon, Posey, Indiana, resident. Kentucky native. Married Scarbrough Pentecost in Posey County, Indiana on September 19, 1854. Married William Hutchinson in Posey County, Indiana on December 16, 1862. Resident in Lynn Township, Posey County, Indiana in 1850. Owned one enslaved person in Henderson County, Kentucky in 1860. Resident in Mount Vernon, Posey County, Indiana in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl>Seventh Manuscript Census of the United States_ (1850), Population Schedules, Indiana, Posey County, Lynn Township, p. 226.<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Posey County, Mount Vernon, p. 676. Twelfth Manuscript Census of the United States_ (1900), Population Schedules, Illinois, Franklin County, Benton Township, p. 72-65.<hi rend="italic">Indiana, Select Marriages Index, 1748-1993</hi>, Posey, Indiana, United States, Indiana, Marriages, Film #549431, v. 3, p. 462.<hi rend="italic">Indiana, Select Marriages Index, 1748-1993</hi>, Posey, Indiana, United States, Indiana, Marriages, Film #549431, v.4, pg. 537. Edmund L. Starling, History of Henderson County, Kentucky (Henderson, Kentucky, 1887), 561 (accessed via google books).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
