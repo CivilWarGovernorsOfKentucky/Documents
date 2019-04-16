@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0089"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,10 +72,10 @@
  <text>
   <body>
    <p><hi rend="underline">Private</hi>
-<lb/>Louisville <date when="1861-06-15">June 15' 1861</date>
+<lb/><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-06-15">June 15' 1861</date>
 <lb/>My Dear Sir</p>
-<p>There are 198 muskets of a lot sent to me by Doctor Blackburn when he was in Mississippi that ought to be retained in the State if possible and I don't see why they should get into the hands of the Union party -- They are first rate guns and in fine order- Smooth bore but heavy barrels and suitable for rifling -- When they arrived supposing them to belong to the State I collected of Mr Brannin about &#36;160 to pay freight &amp;c -- The Doctor wants to turn part of them over to a company going South and I have told him he must get your order for them which is not treating him very cleverly as all the State is out on them is the &#36;160 above named -- He of course is entitled to the guns provided he returns the &#36;160, under Gov. Pettis of Mississippi meant them as a present to the State- about that you may know -- </p>
-<p>Yours truly Tho H Hunt<pb/></p>
+<p>There are 198 muskets of a lot sent to me by Doctor <persName ref="cwgk:N00002591">Blackburn</persName> when he was in <placeName ref="cwgk:P00000918">Mississippi </placeName>that ought to be retained in the State if possible and I don't see why they should get into the hands of the <orgName ref="cwgk:O00001186">Union party</orgName> -- They are first rate guns and in fine order- Smooth bore but heavy barrels and suitable for rifling -- When they arrived supposing them to belong to the State I collected of <persName ref="cwgk:N00000403">Mr Brannin</persName> about $160 to pay freight &amp;c -- The Doctor wants to turn part of them over to a company going South and I have told him he must get your order for them which is not treating him very cleverly as all the State is out on them is the $160 above named -- He of course is entitled to the guns provided he returns the $160, under Gov.<persName ref="cwgk:N00006279"> Pettis</persName> of <placeName ref="cwgk:P00000918">Mississippi </placeName>meant them as a present to the State- about that you may know -- </p>
+<p>Yours truly<persName ref="cwgk:N00010551"> Tho H Hunt</persName><pb/></p>
 <p>Tho H. Hunt</p>
   </body>
  </text>
