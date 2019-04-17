@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0093"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -69,17 +77,16 @@
 <lb/><hi rend="str">Headquarters Ky. State Guard,</hi>
 <lb/><hi rend="str">SPECIAL ORDER</hi>,
 <lb/><hi rend="str">No.<gap/>
-<lb/></hi>Louisville, <date when="1861-06-25">25 June, 1861</date>.
+<lb/></hi><placeName ref="cwgk:P00000337">Louisville</placeName>, <date when="1861-06-25">25 June, 1861</date>.
 <lb/>Sir,</p>
-<p>Under your instructions, we this morning called upon Mr. Charles B, Cotton, Collector of the Port of Louisville, and asked him to state precisely the nature of Mr. W. P. Mellen's official authority. He informed us that Mr. Mellen was the agent of the General Government with authority over the shipments by water between Cairo and Pittsburgh, and that his (Mellen's) consent would be necessary to a safe transit of goods down the Ohio river, We then called upon Mr. Mellen at the Galt House and delivered to him your note of this date, requesting him to give a written answer. This he declined to do. We called his attention to the fact that you were as an officer of the State <hi rend="str">Guard</hi>seeking official information, of great importance to the State, from him as an officer of the General Government, and that in such cases information is almost invariably given in an official writing and ought always to be so given when desired, With a remarkable disregard of the ordinary rules of courtesy and of official intercourse, he persisted in his refusal to sign any thing which, as he said might be used against him. We assured him you did not <hi rend="str">desire</hi> ^wish^ to use his answer against him, but <hi rend="str">only as</hi> ^desired^ an official Statement by which to shape your own action. He referred us to Mr. Cotton, the Collector of this Port, and asked us to correspond with him. We told him that Mr. Cotton had already freely given his consent to the shipment we desired to make, showed him Mr. Cotton's permit, which had previously been shown to him by Mr Simmons, and told him that Mr. Cotton had informed us<pb/>
-<lb/>that the permit would probably not be respected unless it was approved by him (Mellen), He told us we could ship from this Port under Mr. Cotton's permit, but that the articles would, in all probability, be stopped at Evansville and at Cairo, and not allowed to proceed unless the Collectors of those ports were satisfied. He also told us that he supposed his consent would be sufficient to secure the safe transit of the articles to Columbus, but that he had heard suspicious reports about the State Guard, that it was well known that Gov, Magoffin was suspected, and that he was therefore unwilling to take any action in relation to the matter. We assured him that the articles we wished to ship would not be carried out of the State, that they were for the sole use of Kentucky troops acting under the laws of Kentucky on Kentucky soil. He said it made no difference to him whose troops they were or how they were acting, if he suspected them, he would not consent to any thing being shipped to them, no matter whether it was a paper of needles, a hogshead of meat or Camp Kettles. His whole conversation was cunning and evasive -- at times he denied that his authority was superior to that of the Collector -- but from it we believe that if the articles are shipped by water they will not be permitted to reach Columbus, not withstanding the permit of the Collector of this Port, We think there will be more danger of their loss if shipped by the river than if sent by rail through Tennessee, and so we report.</p>
+<p>Under your instructions, we this morning called upon Mr. <persName ref="cwgk:N00000787">Charles B. Cotton</persName>, Collector of the Port of Louisville, and asked him to state precisely the nature of Mr. <persName ref="cwgk:N00002563">W. P. Mellen</persName>'s official authority. He informed us that Mr. Mellen was the agent of the <orgName ref="cwgk:O00002945">General Government</orgName> with authority over the shipments by water between <placeName ref="cwgk:P00004801">Cairo</placeName> and <placeName ref="cwgk:P001033">Pittsburgh</placeName>, and that his (Mellen's) consent would be necessary to a safe transit of goods down the <geogName ref="cwgk:G001825">Ohio river</geogName>, We then called upon Mr. Mellen at the<orgName ref="cwgk:O00002784"> Galt House</orgName> and delivered to him your note of this date, requesting him to give a written answer. This he declined to do. We called his attention to the fact that you were as an officer of the State <hi rend="str">Guard</hi>seeking official information, of great importance to the State, from him as an officer of the <orgName ref="cwgk:O00002945">General Government</orgName>, and that in such cases information is almost invariably given in an official writing and ought always to be so given when desired, With a remarkable disregard of the ordinary rules of courtesy and of official intercourse, he persisted in his refusal to sign any thing which, as he said might be used against him. We assured him you did not <hi rend="str">desire</hi> ^wish^ to use his answer against him, but <hi rend="str">only as</hi> ^desired^ an official Statement by which to shape your own action. He referred us to Mr. Cotton, the Collector of this Port, and asked us to correspond with him. We told him that Mr. Cotton had already freely given his consent to the shipment we desired to make, showed him Mr. Cotton's permit, which had previously been shown to him by <persName ref="cwgk:N00006544">Mr Simmons</persName>, and told him that Mr. Cotton had informed us<pb/>
+<lb/>that the permit would probably not be respected unless it was approved by him (Mellen), He told us we could ship from this Port under Mr. Cotton's permit, but that the articles would, in all probability, be stopped at <placeName ref="cwgk:P00000393">Evansville</placeName> and at <placeName ref="cwgk:P00004801">Cairo</placeName>, and not allowed to proceed unless the Collectors of those ports were satisfied. He also told us that he supposed his consent would be sufficient to secure the safe transit of the articles to <placeName ref="cwgk:P00000893">Columbus</placeName>, but that he had heard suspicious reports about the <orgName ref="cwgk:O00000303">State Guard,</orgName> that it was well known that <persName ref="cwgk:N00000258">Gov. Magoffin</persName> was suspected, and that he was therefore unwilling to take any action in relation to the matter. We assured him that the articles we wished to ship would not be carried out of the State, that they were for the sole use of Kentucky troops acting under the laws of Kentucky on <orgName ref="cwgk:O001025">Kentucky</orgName> soil. He said it made no difference to him whose troops they were or how they were acting, if he suspected them, he would not consent to any thing being shipped to them, no matter whether it was a paper of needles, a hogshead of meat or Camp Kettles. His whole conversation was cunning and evasive -- at times he denied that his authority was superior to that of the Collector -- but from it we believe that if the articles are shipped by water they will not be permitted to reach <placeName ref="cwgk:P00000893">Columbus</placeName>, not withstanding the permit of the Collector of this Port, We think there will be more danger of their loss if shipped by the river than if sent by rail through <placeName ref="cwgk:P001001">Tennessee</placeName>, and so we report.</p>
 <p>We are sir<pb/>
 <lb/>Very Respectfully
 <lb/>Your Obt. Servts.
-<lb/>(Signed) Ch. F. Johnson
-<lb/>Lt. Col. &amp; aid de camp
-<lb/>Alex. Casseday
-<lb/>Major &amp; Asst. Adj. Gen.</p>
+<lb/>(Signed) <persName ref="cwgk:N00006543">Ch. F. Johnson
+</persName><lb/>Lt. Col. &amp; aid de camp
+<lb/><persName ref="cwgk:N00006542">Alex. Casseday</persName><lb/>Major &amp; Asst. Adj. Gen.</p>
 <p>To Maj. Gen. S. B. Buckner
 <lb/>Inspecter General</p>
   </body>
