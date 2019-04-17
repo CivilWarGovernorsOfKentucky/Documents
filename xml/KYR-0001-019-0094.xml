@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0094"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,14 +73,13 @@
   <body>
    <p><note place="header">2
 <lb/>Col. Lyons to Surveyor Cotton</note>
-<lb/>Louisville <date when="1861-06-25">June 25/61</date>
-<lb/>C. B. Cotton Esq
-<lb/>Collector
+<lb/><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-06-25">June 25/61</date>
+<lb/><persName ref="cwgk:N00000787">C. B. Cotton</persName> Esq<lb/>Collector
 <lb/>Dr, Sir</p>
-<p>I am instructed by General Buckner to send to Columbus, Ky, for the use of the Ky State Guard, thirty tents and cooking utensils for One hundred and fifty men. Will you be kind enough to give me a permit to send them by water or rail.</p>
+<p>I am instructed by General <persName ref="cwgk:N00002592">Buckner</persName> to send to<placeName ref="cwgk:P00000893"> Columbus, Ky</placeName>, for the use of the <orgName ref="cwgk:O00000303">Ky State Guard</orgName>, thirty tents and cooking utensils for One hundred and fifty men. Will you be kind enough to give me a permit to send them by water or rail.</p>
 <p>Respy
-<lb/>(Signed) Henry J. Lyons
-<lb/>Asst. Quarter Master Genl.</p>
+<lb/>(Signed) <persName ref="cwgk:N00006547">Henry J. Lyons
+</persName><lb/>Asst. Quarter Master Genl.</p>
 <p>(seal)
 <lb/><figure type="seal"><ab>Chas. B. Cotton
 <lb/>Att'y at Law
