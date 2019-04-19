@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006721">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006928">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">B.H. Crist</title>
+        <title level="a" type="main">John Strother Boyd</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Jesse Nasta</name>
+            <name>Tyler Campbell</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Tyler Campbell</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,12 +45,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006721">
+                <person xml:id="N00006928">
                     <persName>
-                      B.H. Crist
-                        (Bullitt County farmer)
+                      John Strother Boyd
+                        (Harrison County, Kentucky, attorney)
                     </persName>
-                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <event type="birth"  when="1824-07-05"  ><ab>1824-07-05</ab></event>
+                        <event type="death"  when="1888-08-05"  ><ab>1888-08-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +60,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Bullitt County, Kentucky, farmer. Kentucky native. Married to W. S. Crist. Father of john R. Crist, W.H. Crist. Farmer in Bullitt County in 1860.</p>
+        <p>Harrison County, Kentucky, attorney. Son of Joseph Boyd and Alice Withers Boyd. Married to Clementina Boyd. Attended Center College in Danville, Kentucky. Graduated from Transylvania University&#39;s school of law in Lexington, Kentucky, in 1844. Attorney in Harrison County in 1850. Owned seven enslaved persons in Harrison County in 1850. Clerk of the Harrison County Circuit Court in from 1856 to 1862. Owned nine enslaved persons in Harrison County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Bullitt County, District 3, p. 799.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Harrison County, District 1, p. 59A.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Harrison County, District 1, p. 336.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrison County, Cynthiana, p. 584.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrison County, Cynthiana, p. 123A.
+
+&quot;Judge Boyd Dead,&quot; <hi rend="italic">Harrison County Courier</hi>, August 11, 1888, p. 3 (accessed via http://usgenwebsites.org/KYHarrison/HarrisonCourier1888-89.htm).
 </bibl></ab>
     </back>
 </text>

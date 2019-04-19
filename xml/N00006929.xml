@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006721">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006929">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">B.H. Crist</title>
+        <title level="a" type="main">William Walter Cleary</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Jesse Nasta</name>
+            <name>Tyler Campbell</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Tyler Campbell</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,12 +45,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006721">
+                <person xml:id="N00006929">
                     <persName>
-                      B.H. Crist
-                        (Bullitt County farmer)
+                      William Walter Cleary
+                        (Harrison County, Kentucky, attorney, representative, and diplomat)
                     </persName>
-                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <event type="birth"  when="1831-09-13"  ><ab>1831-09-13</ab></event>
+                        <event type="death"  when="1897-03-16"  ><ab>1897-03-16</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Bullitt County, Kentucky, farmer. Kentucky native. Married to W. S. Crist. Father of john R. Crist, W.H. Crist. Farmer in Bullitt County in 1860.</p>
+        <p>Harrison County, Kentucky, attorney, representative, and diplomat. Son of John R. Cleary and Mary Ann Connell Cleary. Married to Ann Wherritt in Harrison County in 1852. Father of Walter W. Cleary, Sallie Morrison Cleary, Edwin Cleary, William Steele Cleary, Jacob Cleary. Graduated from Transylvania University school of law in 1849. Attorney in Cynthiana, Harrison County, in 1852. Attorney at Harrison County Court from 1856 to 1860. Represented Harrison County in the Kentucky General Assembly from 1859 to 1861. Served in Confederate States Army (C.S.A.). United States diplomat to the Bermudas and Canada until 1865. Served as secretary in legation for Confederate states in Canada in partnership with [Unknown] Thompson and C.C. Clay.  </p>
 
     </body>
     <back>
-        <ab><bibl>Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Bullitt County, District 3, p. 799.
+        <ab><bibl>E. Polk Johnson, <hi rend="italic">A History of Kentucky and Kentuckians: The Leaders and Representative Men in Commerce, Industry and Modern Activities</hi>, Vol. II (New York: The Lewis Publishing Company, 1912), 681. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrison, Cynthiana, p. 575. 
 </bibl></ab>
     </back>
 </text>
