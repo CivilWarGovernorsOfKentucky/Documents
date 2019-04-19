@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0110"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office of the Quartermaster-General,
-<lb/>Frankfort, Ky., <date when="1861-07-01">Ju<hi rend="str">ne</hi>ly 1, 1861</date>.
-<lb/>Capt J. W. Cardwell;
-<lb/>Dear Sir:</p>
+   <p><orgName ref="cwgk:O00000389">Office of the Quartermaster-General</orgName>,<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, Ky., <date when="1861-07-01">Ju<hi rend="str">ne</hi>ly 1, 1861</date>.
+<lb/>Capt<persName ref="cwgk:N00003203"> J. W. Cardwell</persName>;<lb/>Dear Sir:</p>
 <p>I received three jugs of lead marked your address to my care, and as I have had no orders from proper authority to make cartridges for companies, can not do so, the lead is here subject to your order</p>
 <p>Very respectfullly
 <lb/>M. D. West
