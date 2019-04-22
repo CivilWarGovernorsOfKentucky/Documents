@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0097"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,15 +72,13 @@
  <text>
   <body>
    <p>Office of Secretary of State,
-<lb/>Frankfort, <date when="1861-06-25">June 25, 1861.</date>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1861-06-25">June 25, 1861.</date>
 <lb/>To His Excellency
-<lb/>Abraham Llincoln
-<lb/>President of the United states
-<lb/>Washington D. C.
-<lb/>Dear Sir:
+<lb/><persName ref="cwgk:N001760">Abraham Llincoln</persName><lb/>President of the United states
+<lb/><placeName ref="cwgk:P00001134">Washington D. C.</placeName><lb/>Dear Sir:
 <lb/>Sir</p>
-<p>I have the honor hereby to accredit Genl S. B Buckner Inspector General of the Ky state Guard to communicate with you in my behalf touching subjects of public importance, the nature of which he will explain</p>
-<p>Gen Buckner is well advised and fully authorized to represent to you the condition of public sentiment in this state and to communicate the attitude assumed by the people and authorities of Ky I have the honor to ask for him that confidence and consideration to which as the Agent of the Executive of this state, with plenary authority he may be entitled.</p>
+<p>I have the honor hereby to accredit Genl <persName ref="cwgk:N00002592">S. B Buckner</persName> Inspector General of the Ky state Guard to communicate with you in my behalf touching subjects of public importance, the nature of which he will explain</p>
+<p>Gen Buckner is well advised and fully authorized to represent to you the condition of public sentiment in this state and to communicate the attitude assumed by the people and authorities of <placeName ref="cwgk:P001800">Ky</placeName> I have the honor to ask for him that confidence and consideration to which as the Agent of the Executive of this state, with plenary authority he may be entitled.</p>
 <p>Very Res
 <lb/>Yr obdt. Servt.</p>
   </body>
