@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006931">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles Wickliffe</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006931">
+                    <persName>
+                      Charles Wickliffe
+                        (Nelson County, Kentucky, attorney and soldier, killed at Shiloh)
+                    </persName>
+                        <event type="birth"  when="1819-05-06"  ><ab>1819-05-06</ab></event>
+                        <event type="death"  when="1862-04-17"  ><ab>1862-04-17</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Nelson County, Kentucky, attorney and soldier. Bardstown, Nelson County, Kentucky, native. Nephew of Kentucky&#39;s 14th Governor Charles A. Wickliffe. Attorney in Ballard County in 1850. Attorney in Ballard County in 1860. Served in the 7th Regiment Kentucky Mounted Infantry (C.S.A.) as colonel. Died from wounds received at the Battle of Shiloh on April 17, 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0066.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, Blandville, p. 277B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Tharps, p. 680.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Charles Wickliffe (May 6,1819-April 17, 1862),&quot; Memorial #65594472, https://www.findagrave.com/memorial/65594472 (accessed June 9, 2017).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
