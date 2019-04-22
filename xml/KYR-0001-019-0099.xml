@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0099"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,19 +73,17 @@
   <body>
    <p><note place="header">1
 <lb/>Gen. Buckner to the Adjutant General</note>
-<lb/>Headquarters Ky. State Guard,
-<lb/>Louisville, <date when="1861-06-25">June 25<hi rend="underline"><hi rend="sup">th</hi></hi>, 1861.</date>
+<lb/>Headquarters Ky. <orgName ref="cwgk:O00000303">State Guard</orgName>,<lb/><placeName ref="cwgk:P00000337">Louisville</placeName>, <date when="1861-06-25">June 25<hi rend="underline"><hi rend="sup">th</hi></hi>, 1861.</date>
 <lb/>Sir:</p>
-<p>In carrying out the instructions of the Commander-in-chief, in reference to furnishing the troops <hi rend="str">ha</hi>called out in the Southwestern part of the State <hi rend="str">for</hi> to enforce our obligations to the General government, with the necessary camp equipage, I have met with an unexpected obstruction in <hi rend="str">the</hi> ^an^ agent of the U. States. The action of this official, if official he can be called, is of so arbitrary and extraordinay a character that I conceive it my duty to report it for the information of the Commander-in-chief.</p>
-<p>The enclosed papers will explain all that I know of the singular <hi rend="str">system</hi> action of Mr. Mellon, who, as well as I can understand, claims <hi rend="str">to direct</hi> the right, under the authority of the President, to forbid the State of Kentucky from executing her laws, even when she is thereby discharging her duty to the General Government.</p>
+<p>In carrying out the instructions of the <persName ref="cwgk:N001760">Commander-in-chief</persName>, in reference to furnishing the troops <hi rend="str">ha</hi>called out in the Southwestern part of the State <hi rend="str">for</hi> to enforce our obligations to the <orgName ref="cwgk:O00002945">General government,</orgName> with the necessary camp equipage, I have met with an unexpected obstruction in <hi rend="str">the</hi> ^an^ agent of the U. States. The action of this official, if official he can be called, is of so arbitrary and extraordinay a character that I conceive it my duty to report it for the information of the <persName ref="cwgk:N001760">Commander-in-chief</persName>.</p>
+<p>The enclosed papers will explain all that I know of the singular <hi rend="str">system</hi> action of <persName ref="cwgk:N00002563">Mr. Mellon</persName>, who, as well as I can understand, claims <hi rend="str">to direct</hi> the right, under the authority of the President, to forbid the State of <placeName ref="cwgk:P001800">Kentucky</placeName> from executing her laws, even when she is thereby discharging her duty to the General Government.</p>
 <p>I am, sir, Very respectfully, 
 <lb/>Your Obt. Svt.
 <lb/>S. B. Buckner.
 <lb/>Inspector General.</p>
 <p>To
-<lb/>Gen. Scott Brown
-<lb/>Adjt Gen. of Ky,
-<lb/>Frankfort.</p>
+<lb/>Gen. <persName ref="cwgk:N00000390">Scott Brown</persName><lb/>Adjt Gen. of Ky,
+<lb/><placeName ref="cwgk:P00000308">Frankfort.</placeName></p>
   </body>
  </text>
 </TEI>
