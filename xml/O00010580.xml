@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00010580">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">35th Regiment Massachusetts Volunteer Infantry (U.S.A)</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00010580">
+                    <orgName>35th Regiment Massachusetts Volunteer Infantry (U.S.A)</orgName>
+                        <event type="begun"  when="1862-08-28"  ><ab>1862-08-28</ab></event>
+                        <event type="ended"  when="1865-06-09"  ><ab>1865-06-09</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Organized at Camp Stanton in Lynnfield, Massachusetts. Mustered in on August 28, 1862 and mustered out on June 9, 1865. Commanding officer(s): Colonel Edward A. Wild, Lieutenant Colonel Sumner Carruth, Major Sidney Willard, Major Nathaniel Wales, Major Henry W. Hudson, and Captain Clifton A. Blanchard. </p>
+
+    </body>
+    <back>
+        <ab><bibl>Frederick H. Dyer, <hi rend="italic">A Compendium of the War of the Rebellion, Volume 1</hi> (Des Moines: The Dyer Publishing Company, 1908), 1261. ._Massachusetts Soldiers, Sailors, and Marines in the Civil War, Compiled and Published by the Adjutant General in Accordance with Chapter 475, Acts of 1899 and Chapter 64, Resolves of 1930, vol. 3. (Norwood, MA: Norwood Press, 1932), 645-647.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
