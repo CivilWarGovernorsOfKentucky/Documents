@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010579">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William S. King</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010579">
+                    <persName>
+                      William S. King
+                        (Roxbury, Norfolk County, auctioneer and Captain (U.S.A))
+                    </persName>
+                        <event type="birth"  when="1818-10-06"  ><ab>1818-10-06</ab></event>
+                        <event type="death"  when="1882-06-29"  ><ab>1882-06-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Roxbury, Norfolk County, Massachusetts, auctioneer and Captain (U.S.A). New York native. Married Ellen Grinnel King in Providence County, Rhode Island on May 6, 1845. Father of George G. King, Margaret V. King, Helen W. King, and William S. King. Farmer in North Providence, Rhode Island in 1850. Secretary of United States Agricultural Society in 1856. Co-editor of Journal of the United States Agricultural Society in 1856. Auctioneer in Roxbury, Norfolk County, Massachusetts in 1860. Employed Mary S. Farrell in Roxbury, Massachusetts in 1860. Served in Thirty-Fifth Regiment Massachusetts Volunteer Infantry (U.S.A) as Captain from August 4, 1862 until September 17, 1862 when he was wounded at the Battle of Antietam. Re-commissioned in the Thirty-Fifth Massachusetts as a Major on December 15, 1862. Commissioned as a Lieutenant Colonel April 25, 1863. Assigned as Colonel to the Massachusetts Fourth Heavy Artillery. Brevet promotion to Brigadier General of volunteers on March 12, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi>(1850), Population Schedules, Rhode Island, Providence County, North Providence, p. 656.<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Massachusetts, Norfolk County, Roxbury, p. 673.<hi rend="italic">Find A Grave</hi>,&quot;William S. King (October 6, 1818-June 29, 1882),&quot; Memorial #154890138, https://www.findagrave.com/memorial/121810870/william-sterling-king (accessed April 22, 2019).<hi rend="italic">James Newell Arnold,</hi>Rhode Island Vital Extracts, 1636-1850, Providence County: Births, Marriage, Deaths_ vol 2. (Providence, RI: Narragonsett Historical Publishing Company, 1891-1912), 84. Francis B. Heitman, Historical Register &amp; Dictionary of the United States Army, from its organization, September 29, 1789, to March 2, 1903 (Washington, D.C: Government Printing Office, 1903), 600._Massachusetts Soldiers, Sailors, and Marines in the Civil War, Compiled and Published by the Adjutant General in Accordance with Chapter 475, Acts of 1899 and Chapter 64, Resolves of 1930, vol. 3. (Norwood, MA: Norwood Press, 1932), 705. _Journal of the United States Agricultural Society, for 1856, William S. King ed. Vol 3. (Boston, MA: Bazin and Chandler, 1856).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
