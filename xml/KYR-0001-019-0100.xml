@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0100"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -67,18 +75,17 @@
 <lb/>Gen. Buckner to Federal Agent Mellen</note>
 <lb/><hi rend="str">SPECIAL ORDER,</hi>
 <lb/><hi rend="str">No. <gap/></hi>
-<lb/>Headquarters Ky. State Guard,
-<lb/>Louisville, <date when="1861-06-25">June 25, 1861.</date>
+<lb/>Headquarters <orgName ref="cwgk:O00000303">Ky. State Guard</orgName>,<lb/><placeName ref="cwgk:P00000337">Louisville</placeName>, <date when="1861-06-25">June 25, 1861.</date>
 <lb/>Sir</p>
-<p>I understand that the Collector of the port of Louisville has represented that you are the general agent of the U. S. Government at this port, exercising a supervisory control over all shipments by water from Louisville, I further understand that on the application of the Quartermaster of the State troops, for a permit to ship necessary equipments for the State forces at Columbus, Ky., you refused your sanction, even after the Collector of the port had given his.</p>
-<p>Am I to understand from this, that you claim the right to prevent the State of Kentucky from exercising the clear right of furnishing her own Militia with what is necessary for their Equipment, and that you assume, as an agent of the U. S. Government, to supervise and veto the official acts of the constituted authorities of Kentucky, acting in accordance with existing laws?</p>
+<p>I understand that the Collector of the port of Louisville has represented that you are the general agent of the <orgName ref="cwgk:O00002945">U. S. Government</orgName> at this port, exercising a supervisory control over all shipments by water from Louisville, I further understand that on the application of the <orgName ref="cwgk:O00000389">Quartermaster</orgName> of the State troops, for a permit to ship necessary equipments for the State forces at <placeName ref="cwgk:P001014">Columbus, Ky.</placeName>, you refused your sanction, even after the Collector of the port had given his.</p>
+<p>Am I to understand from this, that you claim the right to prevent the <orgName ref="cwgk:O001025">State of Kentucky</orgName> from exercising the clear right of furnishing her own Militia with what is necessary for their Equipment, and that you assume, as an agent of the U. S. Government, to supervise and veto the official acts of the constituted authorities of Kentucky, acting in accordance with existing laws?</p>
 <p>I am sir,
 <lb/>very respectfully
 <lb/>Your ob't Servt
-<lb/>(Signed) S, B, Buckner
-<lb/>Insp. Gen. of Ky</p>
+<lb/>(Signed) <persName ref="cwgk:N00002592">S. B, Buckner
+</persName><lb/>Insp. Gen. of Ky</p>
 <p>To
-<lb/>Mr. W. P. Mellen</p>
+<lb/>Mr. <persName ref="cwgk:N00002563">W. P. Mellen</persName></p>
   </body>
  </text>
 </TEI>
