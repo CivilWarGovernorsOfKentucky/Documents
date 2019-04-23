@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0101"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,17 +70,15 @@
  </teiHeader>
  <text>
   <body>
-   <p><note place="header">1
-<lb/><hi rend="underline">Mr. Fowler to Gov. Magoffin</hi></note>
-<lb/><hi rend="underline">St. Bt. Dunbar</hi>, <date when="1861-06-30">June 30/61</date>
-<lb/>Gov <hi rend="underline">Magoffin</hi>,
-<lb/>Frankfort.
-<lb/><hi rend="underline">D</hi><hi rend="underline"><hi rend="sup">r</hi></hi><hi rend="underline"> Sir</hi>:</p>
-<p>Enclosed find ^copy^ letter of instructions to the Capt of My SBt "Dunbar" the regular Mail packet between Paducah &amp; Evansville from the Surveyor of Customs "A L Robinson" at Evansville You will see Kentucky is placed by him on same footing as the Seceded states</p>
+   <p>Mr. Fowler to Gov. 
+<persName ref="cwgk:N00000258">Magoffin</persName><lb/><hi rend="underline">St. Bt. Dunbar</hi>, <date when="1861-06-30">June 30/61</date>
+<lb/>Gov ,
+<persName ref="cwgk:N00000258">Magoffin</persName><lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>.<lb/><hi rend="underline">D</hi><hi rend="underline"><hi rend="sup">r</hi></hi><hi rend="underline"> Sir</hi>:</p>
+<p>Enclosed find ^copy^ letter of instructions to the Capt of My SBt "Dunbar" the regular Mail packet between <placeName ref="cwgk:P00001227">Paducah</placeName> &amp; <placeName ref="cwgk:P00000393">Evansville</placeName> from the Surveyor of Customs "<persName ref="cwgk:N00006818">A L Robinson</persName>" at <placeName ref="cwgk:P00000393">Evansville</placeName> You will see <placeName ref="cwgk:P001800">Kentucky</placeName> is placed by him on same footing as the Seceded states</p>
 <p>I appeal to you as a citizen of your state to protect me in Constitutional privileges due the citizens of Kentucky <hi rend="underline">as</hi> <hi rend="underline">long</hi> <hi rend="underline">as</hi> <hi rend="underline">she</hi> <hi rend="underline">remains</hi> <hi rend="underline">in</hi> <hi rend="underline">the</hi> <hi rend="underline">union</hi></p>
 <p>Please investigate &amp; write me at Paducah Ky</p>
 <p>Resply Yours
-<lb/><hi rend="underline">D. G. Fowler</hi></p>
+<lb/><persName ref="cwgk:N00006817">D. G. Fowler</persName></p>
   </body>
  </text>
 </TEI>
