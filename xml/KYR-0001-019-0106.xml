@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0106"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,71 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort <date when="1861-07-18">July 18 61.</date>
-<lb/>S Black
-<lb/>To Telegraph Office
-<lb/><table rend="rules">
-<row>
-	<cell> </cell>
-	<cell> </cell>
-	<cell> </cell>
-	<cell>Dr</cell>
-</row>
-<row>
-	<cell>Feby</cell>
-	<cell><date when="1861-02-06">6</date></cell>
-	<cell>Dispatch to Geotown</cell>
-	<cell>30</cell>
-</row>
-<row>
-	<cell> </cell>
-	<cell> </cell>
-	<cell>" from "</cell>
-	<cell>30</cell>
-</row>
-<row>
-	<cell>"</cell>
-	<cell><date when="1861-02-18">18</date></cell>
-	<cell>" To Kellogg Lou</cell>
-	<cell>45</cell>
-</row>
-<row>
-	<cell>"</cell>
-	<cell><date when="1861-02-25">25</date></cell>
-	<cell>" " " "</cell>
-	<cell>35</cell>
-</row>
-<row>
-	<cell>Mch</cell>
-	<cell><date when="1861-03-06">6</date></cell>
-	<cell>" " Stevens Lex</cell>
-	<cell>40</cell>
-</row>
-<row>
-	<cell>"</cell>
-	<cell><date when="1861-03-08">8</date></cell>
-	<cell>" " &amp; from <hi rend="str">Lex</hi>Madison</cell>
-	<cell>80</cell>
-</row>
-<row>
-	<cell> </cell>
-	<cell><date when="1861-03-30">30</date></cell>
-	<cell>" from <unclear>Safe</unclear> L</cell>
-	<cell>35</cell>
-</row>
-<row>
-	<cell>" </cell>
-	<cell><date when="1861-03-31">31</date></cell>
-	<cell>" to &amp; from Cincinnati</cell>
-	<cell><hi rend="underline">90</hi></cell>
-</row>
-<row>
-	<cell> </cell>
-	<cell> </cell>
-	<cell> </cell>
-	<cell>385</cell>
-</row>
-</table></p>
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1861-07-18">July 18 61.</date>
+<lb/><persName ref="cwgk:N00001626">S Black
+</persName><lb/>To Telegraph Office
+<lb/>	" to &amp; from<placeName ref="cwgk:P00001208"> Cincinnati</placeName></p>
   </body>
  </text>
 </TEI>
