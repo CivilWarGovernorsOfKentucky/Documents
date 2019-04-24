@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0113"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Paducah Gov. Magoffin Frankfort Ky</p>
-<p>at Cario yesterday. Col Oglesby the Commander had released our Citizens before my arrival says he did not intend to violate Kentucky Neutrality &amp; will not without orders some times send squad of men over to Kentucky shore to reconnoitre for his own protection. Will not release Steamer Terry says she is ^a^ lawful prize she is owned in Kentucky &amp; Mississippi was a trader from paducah up Tennessee river into the confedarte states Col oglesby &amp; other officers treated me very courteously</p>
-<p>Jono. M. Johnson</p>
+   <p><placeName ref="cwgk:P00001227">Paducah </placeName>Gov. <persName ref="cwgk:N00000258">Magoffin</persName> <placeName ref="cwgk:P00000308">Frankfort Ky</placeName></p>
+<p>at Cario yesterday. Col <persName ref="cwgk:N00006923">Oglesby</persName> the Commander had released our Citizens before my arrival says he did not intend to violate Kentucky Neutrality &amp; will not without orders some times send squad of men over to Kentucky shore to reconnoitre for his own protection. Will not release Steamer Terry says she is ^a^ lawful prize she is owned in <orgName ref="cwgk:O001025">Kentucky</orgName> &amp; <placeName ref="cwgk:P00000918">Mississippi </placeName>was a trader from paducah up <geogName ref="cwgk:G00000917">Tennessee river</geogName> into the confedarte states Col oglesby &amp; other officers treated me very courteously</p>
+<p><persName ref="cwgk:N00003952">Jono. M. Johnson</persName></p>
 <p>243
 <lb/>81F 243 + <hi rend="underline">577 C</hi>ol
 <lb/>8.20<pb/></p>
