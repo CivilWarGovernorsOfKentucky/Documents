@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0122"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort Ky
-<lb/><date when="1861-08-22">Aug 22<hi rend="sup">nd</hi> 1861</date> -- 
-<lb/>D<hi rend="sup">r</hi> J. M. Johnson &amp; Judge Campbell
-<lb/>Paducah Ky -- </p>
-<p><hi rend="str">F</hi>I will do all in my power to protect the lives property &amp; peace of our people. Report as <hi rend="str">dire</hi> requested in my dispatch of the morning, after conference with Commander at Cairo, and include Seizure of Steamer Terry -- </p>
-<p>B. Magoffin -- </p>
+   <p><placeName ref="cwgk:P00000308">Frankfort Ky
+</placeName><lb/><date when="1861-08-22">Aug 22<hi rend="sup">nd</hi> 1861</date> -- 
+<lb/>D<hi rend="sup">r</hi> <persName ref="cwgk:N00003952">J. M. Johnson </persName>&amp; Judge <persName ref="cwgk:N00004808">Campbell</persName><lb/>Paducah Ky -- </p>
+<p><hi rend="str">F</hi>I will do all in my power to protect the lives property &amp; peace of our people. Report as <hi rend="str">dire</hi> requested in my dispatch of the morning, after conference with Commander at <placeName ref="cwgk:P00004801">Cairo</placeName>, and include Seizure of Steamer Terry -- </p>
+<p><persName ref="cwgk:N00000258">B. Magoffin</persName> -- </p>
 <p>66
 <lb/>38. F. 66 &amp; <hi rend="underline">324</hi> pd
 <lb/>390</p>
