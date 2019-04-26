@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,10 +68,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office Military Comandant,
-<lb/>Lexington, Ky., <date when="1864-02-21">February 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date>.
-<lb/>To His Excellency, Thomas E. Bramlette
-<lb/>Governor of Kentucky.
+   <p><orgName ref="cwgk:O00000741">Office Military Comandant</orgName>,<lb/><placeName ref="cwgk:P001002">Lexington</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>., <date when="1864-02-21">February 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date>.
+<lb/>To His Excellency, <persName ref="cwgk:N001000">Thomas E. Bramlette
+</persName><lb/>Governor of Kentucky.
 <lb/>Governor:</p>
 <p>In view of the frequent applications made at this office, by the destitute families of volunteers in Kentucky regiments, for relief which the Federal Military Commanders have no authority to provide; and in asmuch as this destitution is caused by the neglect of soldiers to transmit much, -- or, in most cases <hi rend="underline">any</hi> part, -- of their pay to their families for their support; I venture to suggest to Your Excellency, that enquiry be made whether the allotment system; whereby each soldier devotes a stated portion of his pay for the support of those dependent upon him, is carried out in the various regiments; or that such other action may be had, to prevent this needless pauperism and distress, as to Your Excellency may seem meet and proper.</p>
 <p>I am, Governor, very respectfully,
