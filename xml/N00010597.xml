@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010597">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Joseph Holt</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010597">
+                    <persName>
+                      Joseph Holt
+                        (Washington, District of Columbia, Judge Advocate General (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1807-01-06"  ><ab>1807-01-06</ab></event>
+                        <event type="death"  when="1894-08-01"  ><ab>1894-08-01</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Washington, District of Columbia, Judge Advocate General (U.S.A.). Breckenridge County, Kentucky, native. Son of John Washington Holt and Eleanor Stephens Holt. Married to Mary Harrison Holt. Married to Margaret Wickliffe Holt in Nelson, Kentucky on April 2, 1850. Attended St. Joseph&#39;s College and Centre College. Attorney in 1831. Attorney for Jefferson County Circuit in 1833. U.S. Commissioner of Patents from 1857 to 1859. U.S. Postmaster General from 1859 to 1860. Employed Jane Clark as a cook and Alfred Simmes as a hostler in Washington, D.C. in 1860. Secretary of War under President James Buchanan from December 1860 to March 1861. Appointed Judge Advocate General of the United States Army on September 3, 1862 until his retirement in 1875. Became head of the Bureau of Military Justice at its establishment in 1864, and promoted to brigadier general. Chief prosecutor in the Lincoln Assassination Trials in May 1865. Prosecutor in the Henry Wirz Trial for war crimes at Andersonville Prison in August 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules,Washington, District of Columbia, Washington Ward 4, p. 560.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Nelson County Marriages, Film 000481488.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Joseph Holt (1807-1894),&quot; Memorial #5894187, http://www.findagrave.com/memorial/5894187 (accessed April 29, 2019).<lb/>
+Francis Drake,<hi rend="italic">Dictionary of American Biography</hi>,  (Boston: Houghton, Osgood and Company, 1879), 446-447.<lb/>
+United States Army, <hi rend="italic">The Army Lawyer: A History of the Judge Advocate General&#39;s Corps, 1775-1975</hi>, (Washington: U.S. Government Printing Office, 1975), 52-53.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
