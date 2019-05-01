@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0077"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  <text>
   <body>
    <p>To His Excellency
-<lb/>Governor Bramlette.</p>
-<p>On the <date when="1863-09-29">29<hi rend="underline"><hi rend="sup">th</hi></hi> Sept 1863</date>, there was placed in my hands, to be laid before you the application of <gap/> Sherrill of the City of Louisville for the remission of a fine imposed upon him by the Presiding Judge of Lincoln county for a violation of the License law. These papers have been lost or mislaid, and cannot be found, after diligent search. The papers so lost were as follows: -- </p>
+<lb/><persName ref="cwgk:N001000">Governor Bramlette</persName>.</p>
+<p>On the <date when="1863-09-29">29<hi rend="underline"><hi rend="sup">th</hi></hi> Sept 1863</date>, there was placed in my hands, to be laid before you the application of <gap/> <persName ref="cwgk:N00006605">Sherrill</persName> of the City of <placeName ref="cwgk:P00000337">Louisville</placeName> for the remission of a fine imposed upon him by the Presiding Judge of <placeName ref="cwgk:P00005395">Lincoln county</placeName> for a violation of the License law. These papers have been lost or mislaid, and cannot be found, after diligent search. The papers so lost were as follows: -- </p>
 <p>1. The statement and affidavit of said Sherrill setting forth substantially the following facts. He was a member of the firm of <gap/> Sherrill &amp; Co doing business as com<hi rend="underline"><hi rend="sup">n</hi></hi> merchants and Jobbers in Tobacco, cigars &amp;c. There was connected with said house, one James T, Vanarsdale, who obtained goods therefrom with <hi rend="str">with I</hi> which to peddle, Vanarsdale receiving one half of the profits. Vanarsdale under regular license obtained from the Mercer County Court started out with a wagon load of goods so furnished, and after passing through some ten or twelve counties, was suddenly taken sick at his fathers house, with a small portion of the goods unsold, and leaving Lincoln, Boyle and Garrard Counties, which he had in previous trips visited,<pb/>
 <lb/>yet to be supplied- He had regular customers in those counties, and it was necessary to retain the custom of said business that his trips should be regular- Vanarsdale being dangerously ill, the petitioner was written to to take his place and fill out the trip- Accordingly at great sacrifice, Sherrill abandoned his business in Louisville, went to see V, took charge of the Wagon, and with V's license, proceeded, and when he got to Stanford was, to his surprise arrested on the charge of peddling without license- He know nothing of the law, and believed, that inasmuch as he was acting for V. the one license would be sufficient. As soon however as the law was explained to him, he deposited the amount of the fine one hundred dollars with Judge Bailey, the Presiding Judge -- who as well as the officer arresting him, declined to receive any fees, being satisfied that Sherrill did not intentionally violate the law. The statement and affidavit further set forth that Vanarsdale was a poor man, with a wife and children, depending solely upon this peddling enterprise for a support, and that Van=<pb/>
 <lb/>arsdale was to have <hi rend="underline">all the profits of this</hi> trip- That Sherrill acted in the matter alone for Vanarsdale's benefit, with no hope or expectation of remuneration for himself-</p>
@@ -88,7 +96,7 @@
 <p>Remit the fine and hand to James Harlan
 <lb/><date when="1863-10-01">Oct 1<hi rend="sup">st</hi> 1863</date></p>
 <p>Sherrill
-<lb/>&#36;100 -- </p>
+<lb/>$100 -- </p>
   </body>
  </text>
 </TEI>
