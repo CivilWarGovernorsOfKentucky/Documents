@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0075"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Harrodsburg Ky
-<lb/><date when="1863-09-28">Sept 28, 1863</date>
-<lb/>J &amp; J M Harlan
-<lb/>Dear Sirs</p>
-<p>This introduces you to M W Sherrill of Louisville who has been so unfortunate as to be fined for using the license of his agent who was sick in peddling. He askes your aid in percuring relief I trust you can do something for him. I authorize you to uss my name to his petition to the Governor</p>
+   <p><placeName ref="cwgk:P00000555">Harrodsburg Ky</placeName><lb/><date when="1863-09-28">Sept 28, 1863</date>
+<lb/><persName ref="cwgk:N00000761">J</persName> &amp; <persName ref="cwgk:N00002635">J M Harlan
+</persName><lb/>Dear Sirs</p>
+<p>This introduces you to <persName ref="cwgk:N00006605">M W Sherrill </persName>of <placeName ref="cwgk:P00000337">Louisville</placeName> who has been so unfortunate as to be fined for using the license of his agent who was sick in peddling. He askes your aid in percuring relief I trust you can do something for him. I authorize you to uss my name to his petition to the Governor</p>
 <p>Respectfully
-<lb/>O S Poston<pb/></p>
+<lb/><persName ref="cwgk:N00006609">O S Poston</persName><pb/></p>
 <p>J &amp; J M Harlan
 <lb/>Frankfort
 <lb/>Ky</p>
