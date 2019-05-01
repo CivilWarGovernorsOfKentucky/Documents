@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0076"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort <date when="1863-09-29">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 29. 1863</date>
-<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Tho. E. Bramlette
-<lb/>Dear Sir</p>
-<p>I meet here at the Hotel Mason W. Sherrill formerly of Campbellsville Ky. now of Louisville, who has an application before you for remission of a fine.</p>
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1863-09-29">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 29. 1863</date>
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N001000">Tho. E. Bramlette
+</persName><lb/>Dear Sir</p>
+<p>I meet here at the Hotel <persName ref="cwgk:N00006605">Mason W. Sherrill</persName> formerly of <placeName ref="cwgk:P00000507">Campbellsville Ky</placeName>. now of<placeName ref="cwgk:P00000337"> Louisville</placeName>, who has an application before you for remission of a fine.</p>
 <p>I have known M<hi rend="underline"><hi rend="sup">r</hi></hi> Sherrill for many years and always esteemed him as a respectable man never having heard any thing to his discredit.</p>
 <p>I do not believe that M<hi rend="underline"><hi rend="sup">r</hi></hi> Sherrill would have violated the law, for which he was fined, if he had known it to be a violation of law, or that it was wrong.</p>
 <p>Very Respy.
