@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00010603">
                     <placeName>
                         <location>
+                              <geo>36.9659 -89.1565</geo>
                             <settlement>Birds Point, Missouri</settlement>
                         </location>
                     </placeName>
@@ -48,5 +53,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Town in Mississippi County, Missouri. Located across from Cairo, Illinois, at the confluence of the Mississippi River and Ohio River.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">The State Historical Society of Missouri</hi>, Mississippi County Collections, &quot;Nelson, Alfred N., Letter, 1861, (R0311)&quot;, https://shsmo.org/manuscripts/descriptions/desc-counties/desc-mississippi.html (accessed May 2, 1019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
