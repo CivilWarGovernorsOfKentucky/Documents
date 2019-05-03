@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010610">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James C. Wetmore</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010610">
+                    <persName>
+                      James C. Wetmore
+                        (Columbus, Franklin County, Ohio, merchant and Ohio state military agent)
+                    </persName>
+                        <event type="birth"  when="1813-05-01"  ><ab>1813-05-01</ab></event>
+                        <event type="death"  when="1895-08-13"  ><ab>1895-08-13</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Columbus, Franklin County, Ohio, merchant and Ohio state military agent. New York native. Son of Oliver Wetmore and Sarah Brewster Wetmore. Married Catherine Mary De Hart Chetwood Wetmore in Elizabethtown, New Jersey on May 31, 1851. Father of John C. Wetmore. Member of the New York Stock exchange from 1850 to 1856. Merchant in Columbus, Ohio in 1860. Appointed State Military Agent for Ohio 1861 to 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl>: <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Franklin County, Columbus, p. 90. New York, Marriage Newspaper Extracts, 1801-1880 (Baber Collection), Marriages taken from the “Brooklyn Eagle,” (accessed via ancestry.com). Richard F. Miller ed., States at War, Volume 5, A Reference Guide for Ohio in the Civil War (Lebanon, NH: University Press of New England, 2015), 411.  “The Ogden Family in America: Elizabethtown Branch and their English Ancestry: John Ogden, the Pil,” North America, Family Histories, 1500-2000, (Provo, UT, USA: Ancestry.com Operations, Inc., 2016), 259 (accessed via ancestry.com). James Carnahan Wetmore, The Wetmore Family of America and Its Collateral Branches with Genealogical, Biographical, and Historical Notices (Albany, NY: Munsell &amp; Rowland, 1861), 314 (accessed via Google Books). “Obituary Record, James C. Wetmore,” New York Times, August 14, 1895. James C. Wetmore, Report of James C. Wetmore, Ohio state military agent, to the governor of Ohio (Washington D.C: Philip &amp; Solomons, 1865), 3-9 (accessed via HaitiTrust). 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
