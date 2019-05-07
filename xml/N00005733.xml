@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005733">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George N. Brown</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005733">
+                    <persName>
+                      George N. Brown
+                        (Boyd County, Kentucky, attorney and state legislature. )
+                    </persName>
+                        <event type="birth"  when="1822-09-22"  ><ab>1822-09-22</ab></event>
+                        <event type="death"  when="1901-03-10"  ><ab>1901-03-10</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Boyd County, Kentucky, attorney and state representative. Huntington, Cabell County, Virginia native. Son of Richard Brown and Frances Haney Brown. Married to Maria J. Poage Brown in 1857. Graduated Augusta College in Augusta, Kentucky. Admitted to the Kentucky bar in 1844. Elected to the Lower House of the Kentucky legislature in 1849, representing Floyd, Pike, and Johnson counties. Elected as a Whig. Became a Democrat in 1855. Practiced law in Pikeville, Kentucky until 1860. Attorney in Catlettsburg, Boyd County, Kentucky in June 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">The Biographical Encyclopaedia of Kentucky of the Dead and Living Men of the Nineteenth Century, Volume 1</hi> (Cincinnati, OH: J.M. Armstrong &amp; Company, 1878), 334-35.
+
+Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Boyd County, Catlettsburg post office, p. 123. 
+
+&quot;George Martin Brown&quot; [grandson of George N. Brown], in <hi rend="italic">Official Congressional Directory</hi> (1919), 33.
+
+National Archives and Records Administration (NARA); Washington, D.C.; <hi rend="italic">Consolidated Lists of Civil War Draft Registration Records (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865); Record Group: 110, Records of the Provost Marshal General&#39;s Bureau (Civil War); Collection Name: Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records)</hi>; NAI: 4213514; Archive Volume Number: 3 of 3, Boyd County, Kentucky, p. 9.
+
+<hi rend="italic">Find A Grave</hi>, &quot;George N. Brown (September 22, 1822- March 03, 2010),&quot; Memorial #175296317, http://www.findagrave.com/memorial/175296317 (accessed May 07, 2019).
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994035, Henderson County Marriages, p. 1140.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
