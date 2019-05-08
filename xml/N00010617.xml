@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010617">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James A. Hardie</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010617">
+                    <persName>
+                      James A. Hardie
+                        (Clarke County, Washington, Adjutant General and Inspector General (U.S.A))
+                    </persName>
+                        <event type="birth"  when="1823-05-23"  ><ab>1823-05-23</ab></event>
+                        <event type="death"  when="1876-12-14"  ><ab>1876-12-14</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Clarke County, Washington Barracks, Adjutant General and Inspector General (U.S.A). New York native. Married Margaret Hunter Hardie in St. Louis, Missouri on March 8, 1851. Father of Frank Hardie, Margaret Hardie, Joseph Hardie, and Autha Hardie. Attended Western Collegiate Institute in Pittsburgh, Pennsylvania c.1835. Attended the Poughkeepsie Collegiate School in New York c.1837. Graduated from the United States Military Academy in West Point, New York in 1843. Served as Major of First New York Volunteers in San Francisco, California during Mexican War between 1846 and 1848. First Lieutenant United States Artillery in Jefferson Barracks, St. Louis, Missouri in 1850. Promoted to Captain in 1857. Captain in United States Army in Clarke County, Washington in 1860. Appointed Adjutant General of Department of Oregon (U.S.A.) in 1861. Served as Lieutenant Colonel and Aide-de-camp to General George B. McClellan in 1862. Appointed Major and Assistant Adjutant General in regular service (U.S.A.) in February 1863. Promoted to Colonel and Inspector General in March 1864. Brevet promotion of Brigadier and Major General of United States Army in March 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Missouri, St. Louis County, Jefferson Barracks, p. 534.<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Washington, Clarke County, Military garrison, p. 107. <hi rend="italic">Find A Grave</hi>, &quot;James Allen Hardie (May 5, 1823- December 14, 1876),&quot; Memorial #5894471, https://www.findagrave.com/memorial/5894471 (accessed May 3, 2019)._Missouri Marriage Records – Microfilm (1805-2002), Missouri State Archives, St. Louis Marriages, p. 302.Ezra J. Warner, Generals in Blue: Lives of the Union Commanders (Baton Rouge: Louisiana State University Press, 2002), 204-205. David A. Clary and Joseph W. A. Whitehorne, The Inspectors General of the United States Army, 1777-1903 (Washington D.C.: Office of the Inspector General and Center of Military History, 1987), 209-210, 283-284.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
