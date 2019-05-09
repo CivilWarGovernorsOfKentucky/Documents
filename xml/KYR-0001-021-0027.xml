@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,12 +68,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Henderson <date when="1861-04-04">April 4 1861.</date>
-<lb/>Dear Grant</p>
-<p>I have written to the Gov<hi rend="sup">r</hi> to-day informing him of the murder of D<hi rend="sup">r</hi> Norwood &amp; requesting him to offer a reward. &amp;c. I wish you would see him as soon as you recieve this &amp; try to induce him to offer as large a reward as he things consistent with circumstances and his duty &amp; then inform me. I desire this, because if the reward is large and specified (which is not accurately done in the hand bill enclosed) many persons on this &amp; the other side of the river will be induced to search for <hi rend="str">him</hi>the ^murderer^</p>
-<p>No news, Remember me to <unclear>com'r Kitty</unclear> &amp; believe me</p>
+   <p><placeName ref="cwgk:P001815">Henderson</placeName> <date when="1861-04-04">April 4 1861.</date>
+<lb/>Dear <persName ref="cwgk:N00000466">Grant</persName></p>
+<p>I have written to the <persName ref="cwgk:N00000258">Gov</persName><hi rend="sup">r</hi> to-day informing him of the murder of D<hi rend="sup">r</hi> Norwood &amp; requesting him to offer a reward. &amp;c. I wish you would see him as soon as you recieve this &amp; try to induce him to offer as large a reward as he things consistent with circumstances and his duty &amp; then inform me. I desire this, because if the reward is large and specified (which is not accurately done in the hand bill enclosed) many persons on this &amp; the other side of the river will be induced to search for <hi rend="str">him</hi>the ^murderer^</p>
+<p>No news, Remember me to com'r  &amp; believe me<persName ref="cwgk:N00010549">Kitty</persName></p>
 <p>Yours truly
-<lb/>Ro T. Glass</p>
+<lb/><persName ref="cwgk:N00010548">Ro T. Glass</persName></p>
   </body>
  </text>
 </TEI>
