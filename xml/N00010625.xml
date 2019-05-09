@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Robert Richardson</title>
+        <title level="a" type="main">Robert Carter Richardson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00010625">
                     <persName>
-                      Robert Richardson
-                        ()
+                      Robert Carter Richardson
+                        (Covington, Kenton County, Kentucky, attorney)
                     </persName>
+                        <event type="birth"  when="1826-05-18"  ><ab>1826-05-18</ab></event>
+                        <event type="death"  when="1896-06-28"  ><ab>1896-06-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +56,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Covington, Kenton County, Kentucky, attorney. Kentucky native. Married to Louisa Richardson. Father of Carter Richardson. Attorney in Covington in 1860.</p>
+        <p>Covington, Kenton County, Kentucky, attorney. Louisville, Kentucky, native. Son of Samuel Q. Richardson and Mary H. Harrison Richardson. Married to Mary Louise Harris Richardson. Father of Carter Richardson. Graduate of Transylvania University in 1846. Graduate of Transylvania School of Law in 1848. Attorney in Covington from 1850 to 1896. Member of the House of Representatives of the Commonwealth of Kentucky from Kenton County from 1855 to 1859. Superintendent of public instructions from 1869 to 1863. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, County, Covington Ward 7, p. 908.
+
+<hi rend="italic">Kentucky Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Kenton County Deaths, p. 326.
+
+H. Levin, <hi rend="italic">The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 727-728.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
