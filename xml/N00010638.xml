@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">William Woodcock</title>
+        <title level="a" type="main">William H. Woodcock</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J Thompson</name>
@@ -43,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00010638">
                     <persName>
-                      William Woodcock
-                        ()
+                      William H. Woodcock
+                        (Pulaski County, Kentucky soldier)
                     </persName>
+                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,8 +55,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Pulaski County, Kentucky soldier. Kentucky native. quartermaster of the 43rd Regiment Kentucky Volunteer Regiment in Frankfort, and subsequently, for the 32nd Kentucky Volunteer Infantry Regiment from November 26, 1862 until his resignation on June 3, 1863. </p>
+        <p>Pulaski County, Kentucky, cabinetmaker and soldier. Kentucky native. Son of Sarah Woodcock. Cabinetmaker in 1850. Served as quartermaster for the 43rd Regiment Kentucky Volunteer Regiment in Frankfort, and subsequently, for the 32nd Kentucky Volunteer Infantry Regiment from November 26, 1862 until his resignation on June 3, 1863. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 302.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Pulaski County, p. 7
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Pulaski County, p. 4
+</bibl></ab>
+    </back>
 </text>
 </TEI>
