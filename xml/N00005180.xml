@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
           <respStmt>
@@ -48,8 +52,11 @@
                 <person xml:id="N00005180">
                     <persName>
                       David Schroeder
-                        (Louisville, Kentucky, resident)
+                        (Louisville, Kentucky, butcher)
                     </persName>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
+                        <event type="death"  when="1866-04-27"  ><ab>1866-04-27</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +64,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, resident. Resident in Louisville in c1864. </p>
+        <p>Louisville, Kentucky, butcher. Germany native. Married to Augusta Fust on July 18, 1858 in Louisville, Kentucky. Father of John Schroeder. Accused of stealing a cow in Louisville, Kentucky in 1861. Found guilty of stabbing with intent to kill along with son John in Jefferson County, Kentucky on September 7, 1863. Fined by the commonwealth of Kentucky for failing to insure William Salzman would be present in court in 1864. Butcher in Louisville, Kentucky in 1866. Died by gunshot wound in Louisville, Kentucky on April 27, 1866.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0003. KYR-0001-004-1332.
+        <ab><bibl>KYR-0001-005-0003. KYR-0001-004-1332.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film 000819608.<lb/>
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, KDLA, Roll 7007126, X County Deaths, p. 19.
 </bibl></ab>
     </back>
 </text>
