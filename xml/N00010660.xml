@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010660">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Sylvester Isaacs</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010660">
+                    <persName>
+                      Sylvester Isaacs
+                        (Booneville, Kentucky, farmer, captain (U.S.A.). )
+                    </persName>
+                        <event type="birth"  when="1831-05-13"  ><ab>1831-05-13</ab></event>
+                        <event type="death"  when="1916-02-29"  ><ab>1916-02-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Booneville, Kentucky, farmer, captain (U.S.A.). Owsley COunty, Kentucky native. Son of Elijah Isaacs and Sarah Bowman.  Married to Martha Brewer Isaacs in Owsley County, Kentucky on June 2, 1853. Father of Sarah Isaacs Hall, James B. Isaacs, Mary Isaacs Mainous, Preston Isaacs, Orvil Isaacs. Farm laborer in Owsley County, Kentucky in 1850. Farmer in Owsley County, Kentucky in 1860. Served in 14th Kentucky Volunteer Cavalry as first lieutenant in August 4, 1862 and captain on April 21, 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Owsley, p. 295A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owsley, p. 327.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Owsley, Travellers Rest, p. 346A
+
+<hi rend="italic">Find A Grave</hi>, &quot;Sylvester Isaacs (1831-1916),&quot; Memorial #16126380, http://www.findagrave.com/memorial/16126380 (accessed May 21, 2019).
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 929.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 130.
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Owsley County Marriages, p. 2.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
