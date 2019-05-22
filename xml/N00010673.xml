@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010673">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry E. Shawhan</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010673">
+                    <persName>
+                      Henry E. Shawhan
+                        (Harrison County, Kentucky, farmer)
+                    </persName>
+                        <event type="birth"  when="1805-11-20"  ><ab>1805-11-20</ab></event>
+                        <event type="death"  when="1882-03-04"  ><ab>1882-03-04</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Harrison County, Kentucky, farmer. Kentucky native. Son of Joseph Ewalt Shawhan. Married Sarah Culp Shawhan in Pike County, Missouri on October 19, 1859. Father of Joseph W Shawhan, Hubbard W. Shawhan, Sarah E. Shawhan, Sarah M. Shawhan, Margaret R. Shawhan, Cynthia A. Shawhan, and Ann E. Shawhan. Married to Sarah Pugh “Sallie” Cantrill Shawhan in Harrison County, Kentucky c. 1850. Married Sarah Culp Shahan in Pike County, Missouri on October 19, 1859. Farmer in Harrison County, Kentucky in 1850. Owned twenty-one enslaved persons in Harrison County, Kentucky in 1850. Farmer in Harrison County, Kentucky in 1860. Owned eighteen enslaved persons in Harrison County, Kentucky in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Harrison County, District 2, p. 332. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrison County, District 2, p. 508. <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Harrison County, p. 414. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Harrison County, p. 112<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1914), KDLA, Roll #994027-99058, Harrison County Marriages, p. 131-132. _Missouri Birth, Marriage and Death Records – Microfilm (1825-1865), Missouri State Archives, Missouri Marriage Records Pike County Marriages, p. 288. _Find A Grave</hi>, &quot;Henry Ewalt Shawhan (November 20, 1805-March 4, 1882),&quot; Memorial #19877702, https://www.findagrave.com/memorial/19877702 (accessed May 16, 2019). <hi rend="italic">Find A Grave</hi>, &quot;Sarah Pugh “Sallie” Cantrill Shawhan (December 28, 1807-November 18, 1857),&quot; Memorial #138207165, https://www.findagrave.com/memorial/138207165/sarah-pugh-shawhan. (accessed May 16, 2019). <hi rend="italic">Find A Grave</hi>, &quot;Julie Sarah “Sallie” Ravenscroft Shawhan (December 1825-February 23, 1879),&quot; Memorial #138151721, https://www.findagrave.com/memorial/138151721/julia-sarah-shawhan (accessed May 16, 2019). KYR-0001-009-0065.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
