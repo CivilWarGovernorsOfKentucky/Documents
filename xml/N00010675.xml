@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010675">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James F. Miller</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010675">
+                    <persName>
+                      James F. Miller
+                        (New Orleans, Louisiana, political and military officer (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>New Orleans, Louisiana, political and military leader (U.S.A.). Maine native. Son of Nathaniel J. Miller and Mary Miller. Graduated from Bowdoin College in Brunswick, Maine in 1856. Attorney in Portland, Cumberland County, Maine in 1860. Appointed Lieutenant Colonel to Maine Governor c.1860. Appointed acting Secretary of State under military Governor George F. Shepley (U.S.A.) in Louisiana c.1862. Mayor of New Orleans, Louisiana from February 1, 1863 to February 3, 1864. Assistant Adjutant General of Department of Virginia and North Carolina (U.S.A.) under Benjamin Butler until July 16. 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Maine, Cumberland County, Portland, p. 380. E.D. Friedrichs, “James F. Miller (1863-1864),” part of “Mayors of New Orleans, 1803-1936,” Works Projects Administration, New Orleans City Hall Archives, online version, http://nutrias.org/~nopl/info/louinfo/admins/miller.htm. “Miller, James F.,” Dictionary of Louisiana Biography, Louisiana Historical Association, online version,  https://www.lahistory.org/resources/dictionary-louisiana-biography/dictionary-louisiana-biography-m/. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
