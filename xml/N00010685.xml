@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010685">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry Clay Howard</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010685">
+                    <persName>
+                      Henry Clay Howard
+                        (Ghent, Carroll County, Kentucky, farmer. Indiana native.)
+                    </persName>
+                        <event type="birth"  when="1839-12-16"  ><ab>1839-12-16</ab></event>
+                        <event type="death"  when="1912-05-13"  ><ab>1912-05-13</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Ghent, Carroll County, Kentucky, farmer. Indiana native. Son of Samuel Howard and Louisa Howard, born in 1839. Married to Sallie Howard. Father of Elizabeth Howard and Eonisa Howard. Farmer in Carroll County. Clerk in Carroll County Circuit Court, 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi>(1850), Population Schedules, Kentucky, District 1, Carroll County,  p. 164b.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi>(1860), Population Schedules, Kentucky, Carroll County, Ghent, p. 15.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ghent, Carroll County, p. 2. 
+
+<hi rend="italic">Find A Grave</hi>, &quot;H. Clay Howard (1839-1912),&quot; Memorial# 22773755, https://www.findagrave.com/memorial/22773755/h-clay-howard (accessed May 23, 2019).
+
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016143, Carroll County Deaths, File 12024.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
