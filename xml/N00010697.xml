@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010697">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William L. Yancey</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010697">
+                    <persName>
+                      William L. Yancey
+                        (Montgomery, Alabama, attorney and “fire-eater”)
+                    </persName>
+                        <event type="birth"  when="1814-08-10"  ><ab>1814-08-10</ab></event>
+                        <event type="death"  when="1863-07-27"  ><ab>1863-07-27</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Montgomery, Alabama, attorney and “fire-eater.” Georgia native. Son of Caroline Bird Yancey and Benjamin Cudworth Yancey. Married Sarah Caroline Earle in Greenville, South Carolina in c.1835. Father of Benjamin C. Yancey, George E. Yancey, Mary Elizabeth Yancey, Ella Bird Yancey, William E. Yancey, Dalton H. Yancey, and Goodloe H. Yancey. Educated at Yates Polytechnic Institute in Chittenango, New York; Bennington Academy in Vermont; and Lenox Academy in Massachusetts c.1820-1830. Attended Williams College in Williamstown, Massachusetts from 1831 to 1832. Editor of Greenville Mountaineer in Greenville, South Carolina c.1833. Editor of Cahaba Democrat in Cahaba, Alabama c.1839. Passed Alabama state bar c.1843. Member of United States House of Representatives from Alabama’s 3rd District from December 2, 1844 to September 1, 1846. Law partner with John Elmore in Montgomery, Alabama c.1847. Helped organized Southern Rights Party in Montgomery, Alabama in 1850. Instrumental in Alabama’s push for secession from the United States between 1858 and 1861. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Alabama, Montgomery County, Montgomery, p. 268.<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Alabama, Montgomery County, District 1, p. 188. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Alabama, Montgomery County, District 1, p. 267. <hi rend="italic">Find A Grave</hi>, &quot;William Lowndes Yancey (August 10, 1814- July 27, 1863),&quot; Memorial #7419650, https://www.findagrave.com/memorial/7419650 (May 23, 2019). U.S., College Student Lists, 1763-1924 (1831), Catalogue of the Officers and Students Williams College, 1831-1832, Worcester, Massachusetts: American Antiquarian Society (accessed via ancestry.com), pg. 4. Ralph Draughon, &quot;William Lowndes Yancey&quot; in <hi rend="italic">Encyclopedia of Alabama</hi>, Claire Wilson and Christopher Maloney, eds., http://www.encyclopediaofalabama.org/article/h-2064 (Accessed on May 23, 2019). Eric H. Walther, _William Lowndes Yancey: The Coming of the Civil War Walther (Chapel Hill: University of North Carolina Press, 2006), 61-68, 91-95, 150-154.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
