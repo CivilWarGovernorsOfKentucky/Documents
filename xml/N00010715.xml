@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010715">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Friedrich Bertsch</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010715">
+                    <persName>
+                      Friedrich Bertsch
+                        (Cincinnati, Ohio, lithographer and lieutenant (U.S.A.) )
+                    </persName>
+                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
+                        <event type="death"  when="1904-08-13"  ><ab>1904-08-13</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Cincinnati, Ohio, lithographer and lieutenant (U.S.A.). Native of Germany. Married Margaret Bertsch. Father of Max Bertsch and Helena Bertsch. Lithographer in Cincinnati, Ohio in 1860. Enlisted in Company A Ninth Ohio Volunteer Infantry (U.S.A.) as a sergeant in April 22, 1861. Served in Company B of the Ninth Ohio Volunteer Infantry as Second Lieutenant from May 27, 1861 to February 7, 1862. Promoted to First Lieutenant of Company B of the Ninth Ohio Volunteer Infantry from February 7, 1862 to September 20, 1863. Served as the commander of Company B from September 20, 1863 to June 7, 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Hamilton County, Cincinnati, p. 70. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Hamilton County, Cincinnati, p. 531. Ohio, Soldiers Grave Registration Cards, 1804-1958, Ohio History Connection, Columbus, Ohio, Cincinnati Crematory (accessed via fold3.com). Report of the Adjutant General of the State of Kentucky_, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 180. Constantin Grebner,”We Were The Ninth:” A History of the Ninth Regiment, Ohio Volunteer Infantry, April 17, 1861, to June 7, 1864”, trans. Frederic Trautmann, (Kent, OH: The Kent State University Press, 1987), 19, 207. Paul Yandle, “Ohio History,” review A German Hurrah! Civil War Letters of Friedrich Bertsch and Wilhelm Stangel, 9th Ohio Infantry, by Joseph R. Reinhart, Project Muse, 2012, http://muse.jhu.edu/article/477268. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
