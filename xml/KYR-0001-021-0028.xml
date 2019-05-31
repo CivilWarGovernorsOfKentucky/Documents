@@ -16,7 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,14 +64,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Henderson Ky. <date when="1861-04-04">April 4 1861.</date>
+   <p><placeName ref="cwgk:P001815">Henderson Ky</placeName>. <date when="1861-04-04">April 4 1861.</date>
 <lb/>His Excellency Gov<hi rend="sup">r</hi> Magoffin
-<lb/>Frankfort Ky.
-<lb/>Dr Sir</p>
-<p>On Monday evening last Dr W A. Norwood, one of our most prominent &amp; respected citizens, was murdered by a runaway slave belonging to Mrs Pentecost of this county. The facts are briefly these -- Norwood discovered him in his stable loft &amp; ordered him to come down. He refused, Norwood sent to the house for his gun -- While the messenger was still absent. the negro fired from the loft. shooting him through the heart &amp; then made his escape. It is feared that he has gone to Indiana (where the stepfather of his mistress lives &amp; who harbored him for four months last year while runaway) and the citizens here believe that it will require a large reward to ensure his apprehension. They have therefore requested me to inform your excellency of these facts and to ask of your immediate action upon them</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName>.<lb/>Dr Sir</p>
+<p>On Monday evening last <persName ref="cwgk:N00010545">Dr W A. Norwood</persName>, one of our most prominent &amp; respected citizens, was murdered by a <persName ref="cwgk:N00010547">runaway slave</persName> belonging to <persName ref="cwgk:N00010550">Mrs Pentecost</persName> of this county. The facts are briefly these -- Norwood discovered him in his stable loft &amp; ordered him to come down. He refused, Norwood sent to the house for his gun -- While the messenger was still absent. the negro fired from the loft. shooting him through the heart &amp; then made his escape. It is feared that he has gone to <placeName ref="cwgk:P001818">Indiana</placeName> (where the stepfather of his mistress lives &amp; who harbored him for four months last year while runaway) and the citizens here believe that it will require a large reward to ensure his apprehension. They have therefore requested me to inform your excellency of these facts and to ask of your immediate action upon them</p>
 <p>Very Respectfully
 <lb/>Your obd<hi rend="sup">t</hi> servant
-<lb/>Ro T. Glass</p>
+<lb/><persName ref="cwgk:N00010548">Ro T. Glass</persName></p>
   </body>
  </text>
 </TEI>
