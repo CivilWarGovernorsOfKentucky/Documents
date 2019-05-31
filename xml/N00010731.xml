@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010731">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry Frederick Kalfus </title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010731">
+                    <persName>
+                      Henry Frederick Kalfus 
+                        (Bullitt County, Kentucky, physician, major (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1832-04-14"  ><ab>1832-04-14</ab></event>
+                        <event type="death"  when="1890-10-26"  ><ab>1890-10-26</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Bullitt County, Kentucky, physician, major (U.S.A.). Shepherdsville, Kentucky native. Son of Henry F. Kalfus and Matilda Kalfus. Married to Elizabeth Virginia Birkhead Kalfus in Bullitt County, Kentucky on June 7, 1854. Father of Annie F., Joseph L., and Lillie Kalfus. Graduate of Hanover College in 1852. Graduate of Kentucky School of Medicine in 1860. Student in Bullitt County, Kentucky in 1850. Physician in Bullitt County, Kentucky in 1860. Served as captain in 15th Kentucky Volunteer Infantry from 1861 to October 9, 1862. Promoted to major by Colonel Curran Pope on October 9, 1862. Dishonorably dismissed March 1, 1863. Unsuccessfully ran for Kentucky state treasurer as a Democrat in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;Henry Frederick Kalfus (1832-1890),&quot; Memorial #22631231, http://www.findagrave.com/memorial/22631231(accessed May 31, 2019).<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bullitt, p. 209B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bullitt, District 3, p. 824.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 894-895.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, X County Marriages, Film #000482690, p 132-133.<lb/>
+<hi rend="italic">The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 495.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
