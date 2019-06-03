@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Charles Welsko</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -44,6 +48,7 @@
                     </persName>
                         <event type="birth"  when="1839"  cert="medium" ><ab>c1839</ab></event>
                         <event type="death"  when="1877-11-11"  ><ab>1877-11-11</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
