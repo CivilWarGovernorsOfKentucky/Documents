@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007395">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James  B. McPherson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Tyler Campbell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007395">
+                    <persName>
+                      James  B. McPherson
+                        (Union General )
+                    </persName>
+                        <event type="birth"  when="1828-11-14"  ><ab>1828-11-14</ab></event>
+                        <event type="death"  when="1864-07-22"  ><ab>1864-07-22</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Sandusky County, Ohio, native. Graduate of West Point  in 1849. Commissioned to the Corps of Engineers in 1849. Instructor of practical engineering at the U.S. Military Academy at West Point in 1849. Served as aide-de-camp, brigadier general, major generalin the U.S. Army from 1849 to 1864. Aide-de-camp to Major General H. W. Halleck in Missouri. Chief engineer to Ulysses S. Grant in the Tennessee campaign in February 1862. Brigadier general of of volunteers.  promoted to major general of volunteers. After the fall of Vicksburg in 1863, McPherson was promoted to Brigadier General. in March 1864, he was put in charge of the Army of the Tennessee under General William T. Sherman in his campaign to Atlanta. While in this role, McPherson was shot and killed by a Confederate guerrilla on July 22, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Jeff Wallenfeldt, ed., <hi rend="italic">The American Civil War and Reconstruction: People, Politics, and Power</hi> (New York: Britannica Educational Publishing, 2010), 144.
+
+<hi rend="italic">Find A Grave</hi>, &quot;James Birdseye McPherson (November 14, 1828 - July 22, 1864),&quot; Memorial #4423, acom (accessed June 22, 2017).
+
+Margaret E. Wagner, Gary W. Gallagher, and Paul Finkelman, eds., <hi rend="italic">The Library of Congress Civil War Desk Reference</hi> (New York: Grad Central Press, 2002), 416 - 417.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
