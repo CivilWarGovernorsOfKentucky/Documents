@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-143-0014"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,10 +72,9 @@
  <text>
   <body>
    <p><note place="header">28</note>
-<lb/>Louisville Ky
-<lb/><date when="1862-08-15">August 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
-<lb/>Jno. W. Finnell</p>
-<p>There is immediate necessity for all the troops I can get. I prefer them without draft and for three years-- Hobson can raise one regiment in ten days at Bowling Green, is the regiment at Glasgow three years infantry, I tell you it is no time for Legislatures to consider petition for such a man as Genl Desha-- I know of what I speak let such such matters <hi rend="str"><unclear/></hi>stand, look to the salvation of the state from desolation &amp; ruin</p>
+<lb/><placeName ref="cwgk:P00000337">Louisville Ky</placeName><lb/><date when="1862-08-15">August 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/><persName ref="cwgk:N00000228">Jno. W. Finnell</persName></p>
+<p>There is immediate necessity for all the troops I can get. I prefer them without draft and for three years-- <persName ref="cwgk:N00008871">Hobson</persName> can raise one regiment in ten days at <placeName ref="cwgk:P00000560">Bowling Green</placeName>, is the regiment at <placeName ref="cwgk:P00000336">Glasgow</placeName> three years infantry, I tell you it is no time for Legislatures to consider petition for such a man as <persName ref="cwgk:N00010030">Genl Desha</persName>-- I know of what I speak let such such matters <hi rend="str"><unclear/></hi>stand, look to the salvation of the state from desolation &amp; ruin</p>
 <p>J. T-- Boyle</p>
   </body>
  </text>
