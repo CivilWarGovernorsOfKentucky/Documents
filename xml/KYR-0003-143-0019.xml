@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-143-0019"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,11 +72,10 @@
  <text>
   <body>
    <p><note place="header">38</note></p>
-<p>Washington D. C
-<lb/><date when="1862-08-23">Aug 23<hi rend="underline"><hi rend="sup">d </hi></hi>186<hi rend="str">3</hi>2</date>
-<lb/>Gov Robinson</p>
+<p><placeName ref="cwgk:P00001134">Washington D. C</placeName><lb/><date when="1862-08-23">Aug 23<hi rend="underline"><hi rend="sup">d </hi></hi>186<hi rend="str">3</hi>2</date>
+<lb/><persName ref="cwgk:N001004">Gov Robinson</persName></p>
 <p>M<hi rend="sup">r</hi> Shalers Battery will be accepted, if Completed within seven days from this date</p>
-<p>Edwin M Stanton</p>
+<p><persName ref="cwgk:N00002647">Edwin M Stanton</persName></p>
   </body>
  </text>
 </TEI>
