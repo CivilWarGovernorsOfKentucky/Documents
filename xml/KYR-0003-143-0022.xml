@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-143-0022"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,15 +72,13 @@
  <text>
   <body>
    <p><note place="header">40</note></p>
-<p>Cincinnatti Ohio
-<lb/><date when="1862-08-30">Aug 30<hi rend="sup">th</hi> 1862</date>
-<lb/>Gen Jno W. Finnell</p>
-<p>Have instructed Genl Nelson to send a regiment or more if required from Lexington to Frankfort on Call of Governor, my information makes Morgan about 1200 or 1500 without Cannon, make requisitions for arms for Ky quota to Louisville. Secretary of War has received his<pb/>
+<p><placeName ref="cwgk:P00001208">Cincinnatti Ohio</placeName><lb/><date when="1862-08-30">Aug 30<hi rend="sup">th</hi> 1862</date>
+<lb/><persName ref="cwgk:N00000228">Gen Jno W. Finnell</persName></p>
+<p>Have instructed <persName ref="cwgk:N00008225">Genl Nelson</persName> to send a regiment or more if required from <placeName ref="cwgk:P001002">Lexington</placeName> to <placeName ref="cwgk:P00000308">Frankfort</placeName> on Call of <persName ref="cwgk:N001004">Governor</persName>, my information makes <persName ref="cwgk:N00009384">Morgan</persName> about 1200 or 1500 without Cannon, make requisitions for arms for <orgName ref="cwgk:O001025">Ky</orgName> quota to <placeName ref="cwgk:P00000337">Louisville</placeName>. <persName ref="cwgk:N00002647">Secretary of War</persName> has received his<pb/>
 <lb/><note place="header">41</note>
 <lb/>order and allowed mine to stand</p>
-<p>H. G. Wright
-<lb/>Major Genl</p>
-<p></p>
+<p><persName ref="cwgk:N00006168">H. G. Wright</persName><lb/>Major Genl</p>
+<p/>
   </body>
  </text>
 </TEI>
