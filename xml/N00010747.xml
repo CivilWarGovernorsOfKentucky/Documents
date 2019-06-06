@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010747">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John W. Brookover</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010747">
+                    <persName>
+                      John W. Brookover
+                        (Huntington, Brown County, Ohio, farmer and soldier.)
+                    </persName>
+                        <event type="birth"  when="1828-11-15"  ><ab>1828-11-15</ab></event>
+                        <event type="death"  when="1884-09-19"  ><ab>1884-09-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Huntington, Brown County, Ohio, farmer and soldier in the 5th Kansas Cavalry, U.S.A. Brown County, Ohio native. Son of Richard Brookover and Isabell Brookover. Husband of Amanda Brookover. Father of David B. Brookover, Richard Brookover, Mary E. Brookover, James C. Brookover, Samuel Brookover, and John F. Brookover. Farmer in Brown County, Ohio in 1850. Farmer in Brown County, Ohio in 1860. Farmer in Brown County, Ohio in 1870. Served in the 5th Kansas Cavalry, U.S.A. as a private and a sergeant from 1861 to 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Brown County, District No. 12, Huntington Township, p. 100B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Brown County, Huntington Township, p. 289A.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, County, Huntington Township, p. 94A-B.
+
+<hi rend="italic">Find A Grave</hi>, &quot;John Brookover (1828-1884),&quot; Memorial #9978596, http://www.findagrave.com/memorial/9978596 (accessed June 6, 2019).
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kansas</hi>, NARA RG 94, Microfilm Series M542, Roll 0001.
+
+<hi rend="italic">Organization Index to Pension Files of Veterans Who Served Between 1861 and 1900</hi>, NARA RG 15, Microfilm Series T289, Roll 204.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
