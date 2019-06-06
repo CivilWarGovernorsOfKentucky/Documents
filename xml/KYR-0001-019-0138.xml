@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0138"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Monticello <date when="1861-09-12">Sept 12/61</date>
-<lb/>Gov<hi rend="sup">r</hi> Maggoffin</p>
+   <p><placeName ref="cwgk:P00005470">Monticello</placeName> <date when="1861-09-12">Sept 12/61</date>
+<lb/>Gov<hi rend="sup">r</hi> <persName ref="cwgk:N00000258">Maggoffin</persName></p>
 <p>Sir I in obedience to your proclimation I collected some forty two or three of the muskets ^in this Co^ blonging to the State of Ky &amp; placed them in one of the rooms of the Court House which was pronounced Safe by the County atty</p>
 <p>But last night the Lock was Broke <hi rend="str">open</hi> &amp; the Bayonetts &amp; locks taken off the Gunss they now lay in the room a worthless pile</p>
-<p>By yesterdays mail one of the So called Union men received a letter for our Representative John S Vanwinkle Stating war was <hi rend="underline">Inevitable</hi> on the reception of this letter in the Evening there was great Caucusing among the Union Shriekers which was transferd to the Masonic Hall and continued late Say after Midnight in the mien time one of the Officers of Camp Robinson arrived here He Says about nine Oclock (I Know that it was later) &amp; this morning the Guns is found in the Condition above described I know as well as I Know anything I did not see they Stole the Locks &amp; Bayonetts last night</p>
+<p>By yesterdays mail one of the So called Union men received a letter for our Representative John S Vanwinkle Stating war was <hi rend="underline">Inevitable</hi> on the reception of this letter in the Evening there was great Caucusing among the Union Shriekers which was transferd to the Masonic Hall and continued late Say after Midnight in the mien time one of the Officers of<orgName ref="cwgk:O00009781"> Camp Robinson</orgName> arrived here He Says about nine Oclock (I Know that it was later) &amp; this morning the Guns is found in the Condition above described I know as well as I Know anything I did not see they Stole the Locks &amp; Bayonetts last night</p>
 <p>Yours &amp;c
-<lb/>G W Mills P J W C C<pb/></p>
+<lb/><persName ref="cwgk:N00007096">G W Mills</persName> P J W C C<pb/></p>
 <p>Arms in Monticello -- </p>
   </body>
  </text>
