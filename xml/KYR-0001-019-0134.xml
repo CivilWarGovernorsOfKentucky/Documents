@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0134"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort Ky <date when="1861">1861</date>
-<lb/>E. W. Crittenden Dr
-<lb/>To, Telegraph Office
-<lb/><table rend="rules">
-<row>
-	<cell><date when="1861-08-27">Aug 27</date></cell>
-	<cell>Dispatch to Washington City</cell>
-	<cell>300</cell>
-</row>
-<row>
-	<cell/>
-	<cell>Reced Payment</cell>
-	<cell/>
-</row>
-</table></p>
+   <p><placeName ref="cwgk:P00000308">Frankfort Ky</placeName> <date when="1861">1861</date>
+<lb/><persName ref="cwgk:N00007029">E. W. Crittenden </persName>Dr<lb/>To, Telegraph Office
+<lb/>	Dispatch to <placeName ref="cwgk:P00001134">Washington City</placeName></p>
   </body>
  </text>
 </TEI>
