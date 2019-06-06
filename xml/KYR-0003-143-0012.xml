@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-143-0012"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,13 +72,10 @@
  <text>
   <body>
    <p><note place="header">19</note>
-<lb/>Washington D.C.
-<lb/><date when="1862">15<hi rend="sup">th</hi> 1862</date>
-<lb/>Gov Magoffin
-<lb/>of Ky -- </p>
-<p>The returns from many of the states being found imperfect &amp; some changes having been made since the last returns-- will you please send to this department, a full &amp; accurate statement of all the troops from your state which are now in the service of the General Goverment together with a separate list of all not mustered in the service &amp; all used as home Guards &amp;c &amp;c Keep each arm of the service distinct &amp; exhibit the total of each with the grand total-- the object of this is to arrive on the entire number of men armed &amp; employed in the Military service in any capacity in order to provide adequate appropriations for payment &amp; supplies &amp; it is highly desirable that your statement should be sent with no delay Please acknowledge receipt-- immediately</p>
-<p>Edwin Stanton
-<lb/>Secy War</p>
+<lb/><placeName ref="cwgk:P00001134">Washington D.C.</placeName><lb/><date when="1862">15<hi rend="sup">th</hi> 1862</date>
+<lb/><persName ref="cwgk:N00000258">Gov Magoffin</persName><lb/>of <orgName ref="cwgk:O001025">Ky</orgName> -- </p>
+<p>The returns from many of the states being found imperfect &amp; some changes having been made since the last returns-- will you please send to this <orgName ref="cwgk:O00005118">department</orgName>, a full &amp; accurate statement of all the troops from your state which are now in the service of the General Goverment together with a separate list of all not mustered in the service &amp; all used as home Guards &amp;c &amp;c Keep each arm of the service distinct &amp; exhibit the total of each with the grand total-- the object of this is to arrive on the entire number of men armed &amp; employed in the Military service in any capacity in order to provide adequate appropriations for payment &amp; supplies &amp; it is highly desirable that your statement should be sent with no delay Please acknowledge receipt-- immediately</p>
+<p><persName ref="cwgk:N00002647">Edwin Stanton</persName><lb/>Secy War</p>
   </body>
  </text>
 </TEI>
