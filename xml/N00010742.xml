@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010742">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Irvine P. Shackelford</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010742">
+                    <persName>
+                      Irvine P. Shackelford
+                        (Montgomery County, Missouri, blacksmith.)
+                    </persName>
+                        <event type="birth"  when="1837-01-09"  ><ab>1837-01-09</ab></event>
+                        <event type="death"  when="1910-10-28"  ><ab>1910-10-28</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Warren County, Missouri, blacksmith. Missouri native. Son of Zachariah and Jane Shackelford.<lb/>
+Married to Amanda Malvine Grimware Shackelford in Warren County, Missouri on February 18, 1859. Father of Caroline and Leonidous Shackelford. Warren County, Missouri resident in 1850. Blacksmith in Montgomery County, Missouri in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Missouri, Warren, District 99, p. 47A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Missouri, Montgomery, Loutre, p. 474.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Montgomery, Loutre, p. 63A.<lb/>
+<hi rend="italic">Marriage records, Warren County, Missouri</hi>, ed. Howard W. Woodruff, Book B (Kansas City, Mo: 1969) (accessed via ancestry.com).<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Irvine P. Shackelford (1837-1910),&quot; Memorial #90913062, http://www.findagrave.com/memorial/90913062 (accessed June 5, 2019).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
