@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-143-0011"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,12 +72,10 @@
  <text>
   <body>
    <p><note place="header">13</note>
-<lb/>Washington D.C.
-<lb/><date when="1862-06-09">June 9<hi rend="sup">th</hi> 1862</date>
-<lb/>Gov Magoffin</p>
-<p>The Secretary of War desires to know immediately the state of your enlistments when will your regiments be ready when will they be ready to March to Annapolis!</p>
-<p>L. Thomas
-<lb/>Adjt General</p>
+<lb/><placeName ref="cwgk:P00001134">Washington D.C.</placeName><lb/><date when="1862-06-09">June 9<hi rend="sup">th</hi> 1862</date>
+<lb/><persName ref="cwgk:N00000258">Gov Magoffin</persName></p>
+<p>The <persName ref="cwgk:N00002647">Secretary of War</persName> desires to know immediately the state of your enlistments when will your regiments be ready when will they be ready to March to <placeName ref="cwgk:P00010028">Annapolis</placeName>!</p>
+<p><persName ref="cwgk:N00005245">L. Thomas</persName><lb/>Adjt General</p>
   </body>
  </text>
 </TEI>
