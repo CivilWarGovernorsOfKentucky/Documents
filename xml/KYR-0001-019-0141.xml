@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0141"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort Ky <date when="1861-10-08">Oct 8<hi rend="sup">th</hi> 1861</date>
+   <p><placeName ref="cwgk:P00000308">Frankfort Ky</placeName> <date when="1861-10-08">Oct 8<hi rend="sup">th</hi> 1861</date>
 <lb/>To His Excellency Gov M<hi rend="sup">c</hi>Goffin
 <lb/>Sir</p>
 <p>I beg leave to enclose the oath taken by me as Paymaster Genl of Ky and notify of my acceptance of the office</p>
-<p>I beg also to request that you will direct a written notification of my appointment &amp; acceptance to be made to the Military Board of Kentucky</p>
+<p>I beg also to request that you will direct a written notification of my appointment &amp; acceptance to be made to the<orgName ref="cwgk:O00006066"> Military Board of Kentucky</orgName></p>
 <p>This I believe is the usual Course in Military proceedings that the appointing power notifies of his appointments</p>
 <p>Resply
-<lb/><hi rend="underline">Th N Lindsey</hi><pb/></p>
+<lb/><persName ref="cwgk:N00002539">Th N Lindsey</persName><pb/></p>
 <p>T. N. Lindsey
 <lb/>Oath as Pay Master Genl
 <lb/>Filed <date when="1861-10-10">Oct 10. 1861</date></p>
