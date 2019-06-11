@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-143-0023"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,12 +72,10 @@
  <text>
   <body>
    <p><note place="header">41</note></p>
-<p>Washington D. C
-<lb/><date when="1862-08-30">Aug 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
-<lb/>Gov Robinson
-<lb/>Dear Sir</p>
-<p>The twelve months recruits of Ky will be allowed the twenty five dollars Bounty and advance pay &amp; instruction will be given the disbursing officer accordingly, yielding to the peculiar exigenices in your state I shall also authorize ordinance stores to be issued on requisitions of state authorities by Capt Edson but request that care be taken to avoid double issues, also to see that the arms issued are properly disposed of, the disposition of this department is to afford you every possible aid</p>
-<p>E. M. Stanton</p>
+<p><placeName ref="cwgk:P00001134">Washington D. C</placeName><lb/><date when="1862-08-30">Aug 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/><persName ref="cwgk:N001004">Gov Robinson</persName><lb/>Dear Sir</p>
+<p>The twelve months recruits of <placeName ref="cwgk:P001800">Ky</placeName> will be allowed the twenty five dollars Bounty and advance pay &amp; instruction will be given the disbursing officer accordingly, yielding to the peculiar exigenices in your state I shall also authorize ordinance stores to be issued on requisitions of state authorities by <persName ref="cwgk:N00010092">Capt Edson</persName> but request that care be taken to avoid double issues, also to see that the arms issued are properly disposed of, the disposition of this department is to afford you every possible aid</p>
+<p><persName ref="cwgk:N00002647">E. M. Stanton</persName></p>
   </body>
  </text>
 </TEI>
