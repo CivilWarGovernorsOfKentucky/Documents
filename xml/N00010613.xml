@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Melissa DeVelvis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00010613">
                     <persName>
                        Ezekiel Wilty
-                        (Edmonson County, Kentucky, resident.)
+                        (Edmonson County, Kentucky, resident and soldier.)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +54,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Edmonson County, Kentucky, resident. Private in Third Kentucy Veteran Volunteer Cavalry from February 9, 1862 to March 1862. Deserted in March 1862 in Elizabethtown, Kentucky. Resident of Edmonson County, Kentucky in 1864.</p>
+        <p>Edmonson County, Kentucky, resident and soldier. Private in Third Kentucy Veteran Volunteer Cavalry from February 9, 1862 to March 1862. Deserted in March 1862 in Elizabethtown, Kentucky. Resident of Edmonson County, Kentucky in 1864.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 446.
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 446.<lb/>
+KYR-0001-004-0996
 </bibl></ab>
     </back>
 </text>
