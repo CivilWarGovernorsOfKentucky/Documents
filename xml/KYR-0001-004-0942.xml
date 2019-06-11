@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -59,32 +67,21 @@
  </teiHeader>
  <text>
   <body>
-   <p><figure type="postmark"><ab>WASHINGTON D C
-<lb/><date when="1864-08-22">AUG
-<lb/>22
-<lb/>'64</date>
-<lb/>FREE</ab></figure></p>
-<p>War Department,
-<lb/>OFFICIAL BUSINESS.
-<lb/>Nathan Rice
-<lb/>Atg Chief Clerk.</p>
-<p><figure type="postmark"><ab>LOUISVILLE
-<lb/><date when="1864-08-26">AUG
-<lb/>26
-<lb/>'64</date>
-<lb/>KY</ab></figure><figure type="postmark"/></p>
+   <p><placeName ref="cwgk:P00001134">WASHINGTON D C</placeName></p>
+<p><orgName ref="cwgk:O00005118">War Department,</orgName><lb/>OFFICIAL BUSINESS.
+<lb/><persName ref="cwgk:N00010609">Nathan Rice</persName><lb/>Atg Chief Clerk.</p>
+<p><placeName ref="cwgk:P001800">KY</placeName><figure type="postmark"/></p>
 <p><hi rend="underline">For'd</hi>
-<lb/>Frankfort</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName></p>
 <p>His Excellency
-<lb/>Thomas E. Bramlette.
-<lb/>Governor of Kentucky
-<lb/><hi rend="str">Louisville Ky</hi></p>
+<lb/><persName ref="cwgk:N001000">Thomas E. Bramlette.
+</persName><lb/>Governor<orgName ref="cwgk:O001025"> of Kentucky</orgName><lb/><hi rend="str">Louisville Ky</hi></p>
 <p><date when="1864-05">May term 1864</date>
-<lb/>Jefferson Circuit<pb/></p>
+<lb/><orgName ref="cwgk:O001000">Jefferson Circuit</orgName><pb/></p>
 <p>Jefferson Cir Ct
 <lb/>vs
-<lb/>W<hi rend="sup">m</hi> Buffum</p>
-<p>Although I greatly doubt the propriety of pardoning this man believing that he is not as innocent as his friends want but in deference to the wishes of the Secty of War U. S. &amp;c -- a pardon is granted</p>
+<lb/>W<hi rend="sup">m</hi> <persName ref="cwgk:N00010604">Buffum</persName></p>
+<p>Although I greatly doubt the propriety of pardoning this man believing that he is not as innocent as his friends want but in deference to the wishes of the <persName ref="cwgk:N00002647">Secty of War</persName> U. S. &amp;c -- a pardon is granted</p>
 <p>Tho E Bramlette
 <lb/><date when="1864-08-26">26<hi rend="sup">th</hi> day Aug/64</date></p>
   </body>
