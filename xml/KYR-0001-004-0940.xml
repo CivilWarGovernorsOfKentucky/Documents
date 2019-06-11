@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,17 +68,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>War Department
-<lb/>Washington City,
-<lb/><date when="1864-08-24">August 20<hi rend="sup">th</hi> 186<hi rend="str">2</hi>4</date>
-<lb/>Sir:</p>
-<p>I have the honor to inclose copies of papers on file in this Department, in the case of Lieutenant William Buffum now in prison in Kentucky under a conviction of robbery. I am directed by the Secretary of War to invite your Excellency's particular attention to the remarks of the Judge Advocate General, which are included among these papers, and to request that you will direct the pardon and release of M<hi rend="sup">r</hi> Buffum if upon examination of the case, you are convinced that his previous character and services entitle him to such clemency</p>
+   <p><orgName ref="cwgk:O00005118">War Department</orgName><lb/><placeName ref="cwgk:P00001134">Washington City,
+</placeName><lb/><date when="1864-08-24">August 20<hi rend="sup">th</hi> 186<hi rend="str">2</hi>4</date>
+<lb/><persName ref="cwgk:N001000">Sir:</persName></p>
+<p>I have the honor to inclose copies of papers on file in this Department, in the case of <persName ref="cwgk:N00010604">Lieutenant William Buffum</persName> now in prison in Kentucky under a conviction of robbery. I am directed by the <persName ref="cwgk:N00002647">Secretary of War</persName> to invite your Excellency's particular attention to the remarks of the Judge Advocate <persName ref="cwgk:N00010597">General,</persName> which are included among these papers, and to request that you will direct the pardon and release of M<hi rend="sup">r</hi> Buffum if upon examination of the case, you are convinced that his previous character and services entitle him to such clemency</p>
 <p>I am, Sir, with great respect,
 <lb/>Your Obedient Servant
-<lb/>C. A. Dana.
-<lb/>Assist Secretary of War</p>
+<lb/><persName ref="cwgk:N00010607">C. A. Dana.
+</persName><lb/>Assist Secretary of War</p>
 <p>His Excellency Tho<hi rend="sup">s</hi> E. Bramlette
-<lb/>Governor of Kentucky</p>
+<lb/><orgName ref="cwgk:O001025">Governor of Kentucky</orgName></p>
   </body>
  </text>
 </TEI>
