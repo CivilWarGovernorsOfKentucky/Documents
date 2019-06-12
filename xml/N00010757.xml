@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010757">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles R. Griffith</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010757">
+                    <persName>
+                      Charles R. Griffith
+                        (Louisville, Jefferson County, Kentucky, clerk and treasurer )
+                    </persName>
+                        <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
+                        <event type="death"  when="1873-06-27"  ><ab>1873-06-27</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, clerk and treasurer of railroad company. Native of England. Married to Elizabeth Griffith c1850. Father of William Griffith, Cara Griffin, Mary Griffin, Ellen Griffin, and Jesse Griffin. Grocer in Louisville, Kentucky in 1850. Clerk in Louisville, Kentucky in 1860. Owned two enslaved persons in Louisville, Kentucky in 1860. Chief Clerk of Louisville and Nashville Railroad Company in 1861. Treasurer of Louisville and Nashville Railroad Company in 1863. General Book Keeper of Passengers and Freight and Receiving Agent for the Louisville and Nashville Railroad Company in 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, p. 649. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, p. 379.<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Jefferson County, Louisville, p. 282. Josiah J. Burgess, ed., <hi rend="italic">Burgess’ Railway Directory for 1861; Containing A Correct List of All the Officers and Directors of the Railroads in the United States and Canadas, Together With Their Financial Condition</hi> (New York, NY: Wilbur &amp; Hastings, 1861), 127, 128. Annual Report of the President and Directors of the Louisville and Nashville R.R. Company, Commenting on the First of July, 1863, and Ending on the Thirtieth of June, 1864 (Louisville, KY: Hanna &amp; Co., Printers, 1864), 9. _Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910), KDLA, Roll #994027-994058, Jefferson County Deaths, p. 283. KYR-0002-222-0044.
+</bibl></ab>
+    </back>
+</text>
+</TEI>

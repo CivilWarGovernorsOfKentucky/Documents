@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,17 +68,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>War Department
-<lb/>Bureau of Military Justice
-<lb/>Washington D. C. <date when="1864-07-13">July 13<hi rend="sup">th</hi> 1864</date>
+   <p><orgName ref="cwgk:O00005118">War Department
+</orgName><lb/><orgName ref="cwgk:O00010605">Bureau of Military Justice
+</orgName><lb/><placeName ref="cwgk:P00001134">Washington D. C.</placeName> <date when="1864-07-13">July 13<hi rend="sup">th</hi> 1864</date>
 <lb/>Dear Sir,</p>
-<p>I am instructed by the Secretary of War, to request that you will be so kind, as to state the circumstances of the theft of which late Lieut Buffum Ohio Vols is said to have been convicted in your court.</p>
+<p>I am instructed by the <persName ref="cwgk:N00002647">Secretary of War</persName>, to request that you will be so kind, as to state the circumstances of the theft of which late <persName ref="cwgk:N00010604">Lieut Buffum</persName> <orgName ref="cwgk:O00010596">Ohio Vols</orgName> is said to have been convicted in your court.</p>
 <p>This young man rendered valuable services to the government at an early period of the rebellion, in consideration of which, should the nature of his offense warrant it, it is deemed but proper that executive clemency should be invoked in his behalf.</p>
 <p>In connection with a statement of the more salient points of the crime, you will please mention any matter of mitigation, should such have been disclosed on the trial, or he otherwise known to you.</p>
 <p>Very respectfully
 <lb/>Your Obedient Servant
-<lb/>(signed) J. Holt
-<lb/>Judge Advocate Genl.</p>
+<lb/>(signed) <persName ref="cwgk:N00010597">J. Holt
+</persName><lb/><orgName ref="cwgk:O00010606">Judge Advocate Genl.</orgName></p>
   </body>
  </text>
 </TEI>

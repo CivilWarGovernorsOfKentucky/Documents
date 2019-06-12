@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0343"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,20 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>The affiant, J. D, Elliott, says the foregoing Statements of J. M. Brown &amp; John A. Mackay he believes to be true -- affiant was the County Court Clerk at the time refered to and rembers the facts -- </p>
+   <p>The affiant, <persName ref="cwgk:N00010590">J. D, Elliott</persName>, says the foregoing Statements of <persName ref="cwgk:N00010593">J. M. Brown</persName> &amp; <persName ref="cwgk:N00010594">John A. Mackay</persName> he believes to be true -- affiant was the County Court Clerk at the time refered to and rembers the facts -- </p>
 <p><hi rend="underline">J. D. Elliott</hi></p>
 <p>Subscirbed &amp; sworn to before me by J, D, Elliott this <date when="1863-12-30">30<hi rend="sup">th</hi> day December 1863</date></p>
-<p>E. E. M<hi rend="sup">c</hi>Kay
+   <p><persName ref="cwgk:N00002416">E. E. M<hi rend="sup">c</hi>Kay</persName>
 <lb/>Notary Pub Nelson Co.</p>
-<p><figure type="seal"><ab>E. E. M<hi rend="underline"><hi rend="sup">c</hi></hi>KAY
-<lb/>NOTARY PUBLIC
-<lb/>NELSON COUNTY, KY.</ab></figure></p>
+<p><placeName ref="cwgk:P001012">NELSON COUNTY</placeName>, <placeName ref="cwgk:P001800">KY</placeName>.</p>
 <p><stamp type="revenue"/><note place="stamp"><date when="1863-12-30">Dec 30<hi rend="sup">st.</hi> 1863</date>
 <lb/>J. <unclear>D. E.</unclear></note><pb/></p>
 <p>Nelson County</p>
 <p>Commonwealth
-<lb/>vs &#125; Application to Governor to remit fine of &#36;25
-<lb/>Brown &amp; MacKay<figure type="hr"/></p>
+<lb/>vs } Application to <persName ref="cwgk:N001000">Governor</persName> to remit fine of $25<lb/>Brown &amp; MacKay<figure type="hr"/></p>
 <p>Refused
 <lb/>T E Bramlette</p>
   </body>
