@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0139"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>St. Louis Mo -- 
-<lb/><date when="1861-12-21">Decr 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1861</date> -- 
+   <p><placeName ref="cwgk:P00003268">St. Louis Mo</placeName> -- <lb/><date when="1861-12-21">Decr 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1861</date> -- 
 <lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> H. Leas
 <lb/>Company "C" Engineers
 <lb/>Sir</p>
-<p>Your favor of the <date when="1861-12-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> has just come to hand, and in answer to your request, I can state most cheerfully, that during the time you were on duty with me in Boston Harbor I was favorably impressed with your Activity and intelligence displayed in drilling and disciplining the men enlisted in the Company and hope that your services<pb/>
+<p>Your favor of the <date when="1861-12-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> has just come to hand, and in answer to your request, I can state most cheerfully, that during the time you were on duty with me in <placeName ref="cwgk:P00000524">Boston</placeName> Harbor I was favorably impressed with your Activity and intelligence displayed in drilling and disciplining the men enlisted in the Company and hope that your services<pb/>
 <lb/>will be fully appreciated by the proper authority</p>
 <p>Very Respectfully
 <lb/>Your obt. Servt.
