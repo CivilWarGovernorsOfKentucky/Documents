@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-143-0018"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,10 +72,9 @@
  <text>
   <body>
    <p><note place="header">34</note>
-<lb/>Louisville Ky
-<lb/>Gen J. W. Finnell</p>
-<p>Hamilton &amp; Ferguson with their Bands about two hundred to two hundred and fifty are at Somerset-- Jacobs arms and Horses leave here to day I want them as soon as possible. I repeat again Col A. G. Hobson should be allowed to go on with his regiment. Col Sewell is only Mustering Officer. Metcalfe informed me his regiment was full without Halisey</p>
-<p>J T Boyle</p>
+<lb/><placeName ref="cwgk:P00000337">Louisville Ky</placeName><lb/><persName ref="cwgk:N00000228">Gen J. W. Finnell</persName></p>
+<p><persName ref="cwgk:N00009496">Hamilton</persName> &amp; <persName ref="cwgk:N00008752">Ferguson</persName> with their Bands about two hundred to two hundred and fifty are at <placeName ref="cwgk:P00001061">Somerset</placeName>-- <persName ref="cwgk:N00000240">Jacobs</persName> arms and Horses leave here to day I want them as soon as possible. I repeat again <persName ref="cwgk:N00010075">Col A. G. Hobson</persName> should be allowed to go on with his regiment. <persName ref="cwgk:N00009402">Col Sewell</persName> is only Mustering Officer. <persName ref="cwgk:N00009382">Metcalfe</persName> informed me his regiment was full without <persName ref="cwgk:N00010073">Halisey</persName></p>
+<p><persName ref="cwgk:N00000523">J T Boyle</persName></p>
   </body>
  </text>
 </TEI>
