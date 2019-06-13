@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010772">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles D. Hillman</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010772">
+                    <persName>
+                      Charles D. Hillman
+                        (Caldwell County, Kentucky, surgeon dentist and second lieutenant (U.S.A.))
+                    </persName>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Caldwell County, Kentucky, surgeon dentist and soldier (U.S.A.). Native of Prussia. Married to Amelia Hillman c1860. Father of Fannie Hillman and Corrina Hillman. Mustered into United States service on July 29, 1862. Received two months service as Second Lieutenant in Eighth Kentucky Volunteer Cavalry as recruiting officer in August 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 117. W. Rucker et al. to Beriah Magoffin,  n.d., Office of the Governor, Beriah Magoffin: Governor&#39;s Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862,  MG22-85 to MG22-88,  Kentucky Department for Libraries and Archives,  Frankfort,  KY.  Accessed via the Civil War Governors of Kentucky Digital Documentary Edition, discovery.civilwargovernors.org/document/KYR-0001-020-1494, (accessed June 10, 2019). KYR-0002-222-0046. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
