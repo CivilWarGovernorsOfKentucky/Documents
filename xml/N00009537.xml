@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Mr. Haggerty</title>
+        <title level="a" type="main">S. A. Hagarty</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Brianna Kirk</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00009537">
                     <persName>
-                      Mr. Haggerty
-                        (Boone County)
+                      S. A. Hagarty
+                        (Boone County, KY attorney)
                     </persName>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in the Allen Wilhoit and Lucinda Wilhoit deposition on September 10, 1861, in Boone County, Kentucky. </p>
+        <p>Boone County, Kentucky, attorney and toll road keeper. Kentucky native. Married to Catharine H. Hagarty. Attorney in Florence, Kentucky, in 1860. Toll road keeper of the Florence Pike in 1865.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1443
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boone County, Florence, p. 251
+
+<hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 17, Boone County, Kentucky, 1865, (Accessed via ancestry.com June 17, 2019).
 </bibl></ab>
     </back>
 </text>
