@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010789">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Frederick Steele</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010789">
+                    <persName>
+                      Frederick Steele
+                        (U.S. Army soldier.)
+                    </persName>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>U.S. Army soldier. Delhi, New York, native. Graduated from the U.S. Military Academy at West Point, New York, in 1843. Served as brevetted second lieutenant in the Mexican-American War. Promoted to brevet captain. Served as the Adjutant of the Second Regiment of Infantry. Promoted to Captain of the Second Regiment of Infantry in Februray, 1855. Promoted to Major of the 11th Regiment of U.S. Infantry. Served as Colonel of the Eighth Regiment of Iowa Volunteer Infantry from September 23, 1861 to February 6, 1862. Promoted to Brigadier General of Volunteers on February 6, 1862. Promoted to Major General of Volunteers on November 29, 1862. Commander of the Department of Arkansas from January 4, 1864 to December 22, 1864.</p>
+
+<p>FINISH</p>
+
+    </body>
+    <back>
+        <ab><bibl>Frank J. Welcher, <hi rend="italic">The Union Army, 1861—1865: Organization and Operations, vol. 2, The Western Theatre</hi> (Bloomington: Indiana University Press, 1993), 4, 7-11, 13-15.
+
+https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&amp;d=DAC18680114.2.19&amp;e=-------en--20--1--txt-txIN--------1
+</bibl></ab>
+    </back>
+</text>
+</TEI>
