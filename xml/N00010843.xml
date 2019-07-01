@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. Tomlinson</title>
+        <title level="a" type="main">Ralph Tomlinson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00010843">
                     <persName>
-                      R. Tomlinson
-                        (Pendleton County)
+                      Ralph Tomlinson
+                        (Pendleton County, Kentucky, clerk)
                     </persName>
                         <event type="birth"  when="1808"  cert="medium" ><ab>c1808</ab></event>
+                        <event type="death"  when="1877-10-29"  ><ab>1877-10-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,11 +56,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Pendleton County, Kentucky, resident. Native of England. Married to Rachel Tomlinson. Father of E. R. Tomlinson, R. J. Tomlinson, and Ed. R. Tomlinson. Signed a petition on behalf of Polly Southgate in Pendleton County, Kentucky, on April 28, 1865.  </p>
+        <p>Pendleton County, Kentucky, clerk. Native of England. Son of Thomas and E. Tomlinson. Married to Rachel Tomlinson. Father of Elizabeth R. Tomlinson, Rachel J. Tomlinson, Raphel J. Tomlinson, Edward R. Tomlinson, and Mary A. Tomlinson. Merchant in Pendleton County in 1850. Clerk in Pendleton County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Pendleton County, Falmouth, p. 7
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pendleton County, Falmouth, p. 435
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Pendleton County, First District, p. 350A.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Pendleton County, Falmouth, p. 408.
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994052, Owsley, Pendleton, Perry, Pike, County.
 </bibl></ab>
     </back>
 </text>
