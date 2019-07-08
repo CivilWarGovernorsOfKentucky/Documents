@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -43,6 +47,7 @@
                         (Pendleton County, merchant.)
                     </persName>
                         <event type="birth"  when="1804"  cert="medium" ><ab>c1804</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -50,11 +55,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Pendleton County, Kentucky, merchant and tavern keeper in 1860. Kentucky native. Signed a petition on behalf of Polly Southgate, April 28, 1865.   </p>
+        <p>Pendleton County, Kentucky, merchant and tavern keeper. Kentucky native. Married to Malinda O Holton Lightfoot in Pendleton County, Kentucky, on June 10, 1830. Father of Laura Lightfoot and C. D. Lightfoot. Merchant and tavern keeper in Pendleton County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pendleton County, Falmouth, p. 1. 
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pendleton County, Falmouth, p. 429. 
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky,  Pendleton County, Falmouth, p. 405B.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Pendleton County Marriages, Film 000272804.
 </bibl></ab>
     </back>
 </text>
