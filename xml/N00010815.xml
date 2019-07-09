@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,10 @@
                 <person xml:id="N00010815">
                     <persName>
                       Henry N. Newman
-                        (Pendleton County, merchant)
+                        (Pendleton County, Kentucky, merchant)
                     </persName>
-                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <event type="birth"  when="1823"  ><ab>1823</ab></event>
+                        <event type="death"  when="1895"  ><ab>1895</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,15 +56,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Pendleton County, Kentucky, merchant. Kentucky native. Married to Catharine Magill on January 11, 1859. Postmaster of Falmouth, Kentucky in 1865. Signed a petition on behalf of Polly Southgate on April 28, 1865.  </p>
+        <p>Pendleton County, Kentucky, merchant. Kenton County, Kentucky, native. Married to Catharine Magill Newman on January 11, 1859. Father of John M. Newman. Merchant in Pendleton County in 1860. Postmaster of Falmouth, Kentucky in 1865. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pendleton County, Falmouth, p. 2
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pendleton County, Falmouth, p. 430.
 
-<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Pendleton County Marriages, Film 000272800, p. 130
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Pendleton County Marriages, Film 000272800, p. 13.
 
-<hi rend="italic">U.S., Register of Officers and Agents, Civil, Military, and Naval, in the Service of the United States, on the Thirtieth September, 1865</hi>(Washington: Government Printing Office, 1866), 118
+<hi rend="italic">U.S., Register of Officers and Agents, Civil, Military, and Naval, in the Service of the United States, on the Thirtieth September, 1865</hi>(Washington: Government Printing Office, 1866), 118.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Henry N. Newman (1823-1895),&quot; Memorial #74953425, http://www.findagrave.com/memorial/74953425 (accessed July 9, 2019).
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Pendleton County County Marriages, p. 275-6.
 </bibl></ab>
     </back>
 </text>
