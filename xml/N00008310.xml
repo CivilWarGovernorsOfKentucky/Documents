@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008310">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Frederick Armor</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008310">
+                    <persName>
+                      George Frederick Armor
+                        (Baltimore, Maryland, Post QM in Frankfort and RQM 2nd Maryland (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1820"  ><ab>1820</ab></event>
+                        <event type="death"  when="1897"  ><ab>1897</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Baltimore, Maryland, merchant and soldier. Maryland native. Married to Emily A.D. Armor. Father of Emily A.D. Armor and Charles G. Armor. Merchant in Baltimore, Maryland in 1850. Served as first lieutenant and regiment quarter master in the 2nd Maryland Volunteer Infantry (U.S.A.) from July 9, 1861 to discharge on January 5, 1865. Posted quartermaster at Frankfort, Kentucky from January to October 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Compiled military service records of volunteer Union soldiers belonging to units organized for service from the State of Maryland</hi>, NARA RG 94, Mircofilm Series M384, Roll 076.
+
+<hi rend="italic">Find A Grave</hi>, &quot;George Frederick Armor (1820-1897),&quot; Memorial #116569391 http://www.findagrave.com/memorial/116569391 (accessed July 10, 2019).
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Maryland, Baltimore, Baltimore Ward 16, p. 174A.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
