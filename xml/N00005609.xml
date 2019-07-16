@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005609">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Oliver P. Herndon</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005609">
+                    <persName>
+                      Oliver P. Herndon
+                        (Clear Creek, Knox County, Kentucky, physician )
+                    </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Clear Creek, Knox County, Kentucky, physician. Kentucky native. Son of Benjamin F. Herndon and Theodosia Herndon. Married Kizera Vance Herndon in Washington County, Tennessee on March 2, 1846. Father of Richardson Herndon, William Herndon, Benjamin Herndon, Jane Herndon, Thomas Herndon, Carolina Herndon, and Alexander Herndon. Farmer in Harlan County, Kentucky in 1850. Physician in Clear Creek, Knox County, Kentucky in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Harlan County, District 1, p. 83. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Knox County, Clear Creek, p. 153. <hi rend="italic">Tennessee Marriage Records – Microfilm (1780-2002)</hi>, TSLA, Washington County Marriages, p. 132. M. Secrist, Knox County, Kentucky History Revealed Through Biographical and Genealogical Sketches of its Ancestors (Published by author, 2012).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

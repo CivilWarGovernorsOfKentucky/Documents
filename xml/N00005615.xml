@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005615">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John H. Davis</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005615">
+                    <persName>
+                      John H. Davis
+                        (Poplar Creek, Knox County, Kentucky, resident)
+                    </persName>
+                        <event type="birth"  when="1838-11-15"  ><ab>1838-11-15</ab></event>
+                        <event type="death"  when="1919-05-19"  ><ab>1919-05-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Poplar Creek, Knox County, Kentucky, resident. Kentucky native. Son of Robert M. Davis and Catharine Davis. Married Martha Mays Davis in Knox County, Kentucky on December 27, 1859. Resident in Calloway County, Missouri in 1850. Resident in Knox County, Kentucky in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, County, City/District, p. 434. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Knox County, Poplar Creek, p. 101. <hi rend="italic">Find A Grave</hi>, &quot;John H. Davis (November 15, 1838-May 19, 1919),&quot; Memorial #15414180, https://www.findagrave.com/memorial/15414180 (accessed July 2, 2019). <hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-004058, Knox County Marriages, p. 208.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
