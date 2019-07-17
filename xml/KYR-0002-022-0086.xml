@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0086"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brianna Kirk</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -66,9 +74,7 @@
    <p>Head Quarters Cmd V<hi rend="underline"><hi rend="sup">a
 <lb/></hi></hi>Camp Pierpoint <date when="1862-12-22">Dec 22<hi rend="sup">th</hi> 1862</date>
 <lb/>H,, E,,
-<lb/>Govenor Robinson
-<lb/>Frankfort Kentucky
-<lb/>Sir</p>
+<lb/><persName ref="cwgk:N001004">Govenor Robinson</persName><lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> <placeName ref="cwgk:P001800">Kentucky</placeName><lb/>Sir</p>
 <p>I would have waighted on you in person but it would require some dayes to procure a leave of absence, owing to the condition of the companies there commanders are anctiously waighting to here as to my sucksess</p>
 <p>The bareer of this will present the mater- in its true light if it meets with your approval in twenty dayes I can have six hundrid effective men in the field</p>
 <p>I am your Most Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Sv<hi rend="underline"><hi rend="sup">t
