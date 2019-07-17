@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,9 @@
                 <person xml:id="N00010871">
                     <persName>
                       James Bobbit
-                        (Jefferson County, laborer)
+                        (Louisville, Kentucky, laborer)
                     </persName>
-                        <event type="birth"  when="1825"  ><ab>1825</ab></event>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,11 +55,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Jefferson County, Kentucky, laborer. Kentucky Native. Married to Eliza Bobbit. Father of James Bobbit, Erasmus Bobbit, Lucy Jane Bobbit, Henry Bobbit, and Mary Bobbit. Laborer in Louisville, Kentucky in 1860.  </p>
+        <p>Louisville, Kentucky, laborer. Kentucky Native. Married to Eliza Bobbit. Father of James Bobbit, Erasmus Bobbit, Lucy Jane Bobbit, Henry Bobbit, and Mary Bobbit. Laborer in Louisville, Kentucky in 1860.  </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, City of Louisville, p. 56
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, City of Louisville, p. 264.
 </bibl></ab>
     </back>
 </text>
