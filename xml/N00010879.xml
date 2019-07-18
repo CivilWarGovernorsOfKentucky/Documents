@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       John Downing, Jr.
                         (Jefferson County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1818"  cert="medium" ><ab>c1818</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Jefferson County, Kentucky, resident. Married to Harriet Hurst, September 27, 1842. </p>
+        <p>Louisville, Kentucky, resident. Maryland, native. Married to Harriet Hurst Downing in Jefferson County on September 27, 1842. Father of Louisa Downing, Anna Downing, John Downing, Adele Downing, Sallie K. Downing, Amelia M. Downing, William H. Downing, Kate L. Downing, and Ella B. Downing. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000482707, p. 121
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, District 3 of Louisville, p. 332A
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, 6th Ward of Louisville, p. 387.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, 8th Ward of Louisville, p. 143B
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000482707, p. 12.
 </bibl></ab>
     </back>
 </text>
