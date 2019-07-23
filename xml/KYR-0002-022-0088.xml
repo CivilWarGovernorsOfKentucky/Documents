@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0088"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,21 +72,19 @@
  <text>
   <body>
    <p><date when="1865-08-20">August 20 1865</date>
-<lb/>Louisa Kentucky
-<lb/>Tho<hi rend="sup">s</hi> E Bramlett
+<lb/><placeName ref="cwgk:P00000553">Louisa Kentucky</placeName><lb/>Tho<hi rend="sup">s</hi> E Bramlett
 <lb/>Gov,, of Ky
-<lb/>Frankfort
-<lb/>Honored Sir</p>
-<p>According to a Resolution of the last past Ledgislature of Ky. To pay the cCounties of Lawrence &amp; Boyd for 35 days service under a call from you that we was not paid for,, If so, You will confer a favor upon us -- by sending a Paymaster &amp; Mustering officers at once, or, let us send our Pay Master out to Frankfort and get pay. Rolls &amp; Mustering Rolls. An answer to the above would relieve me of much annoyance. I wrote to the Insp,, Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of Ky,, (M<hi rend="sup">r</hi> Hays) and he has Intreated our inquires with silent contempt so far.</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName><lb/>Honored Sir</p>
+<p>According to a Resolution of the last past <orgName ref="cwgk:O00000923">Ledgislature of Ky</orgName>. To pay the cCounties of <placeName ref="cwgk:P00000552">Lawrence</placeName> &amp; <placeName ref="cwgk:P00001174">Boyd</placeName> for 35 days service under a call from you that we was not paid for,, If so, You will confer a favor upon us -- by sending a Paymaster &amp; Mustering officers at once, or, let us send our Pay Master out to Frankfort and get pay. Rolls &amp; Mustering Rolls. An answer to the above would relieve me of much annoyance. I wrote to the Insp,, Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of Ky,, (M<hi rend="sup">r</hi> Hays) and he has Intreated our inquires with silent contempt so far.</p>
 <p>I trust I have the honor to remain your humble servant</p>
-<p>Tho<hi rend="sup">s</hi> M<hi rend="sup">c</hi>Kinster Ex,, Col,, 68, Regt E, M,<pb/></p>
+<p>Tho<hi rend="sup">s</hi> M<hi rend="sup">c</hi>Kinster Ex,, Col,, <orgName ref="cwgk:O00009683">68, Regt E, M,</orgName><pb/></p>
 <p>Louisa Ky
 <lb/><date when="1865-08-20">Aug 20 1865</date><figure type="hr"/>
 <lb/>M<hi rend="sup">c</hi>Kinster Thomas
 <lb/>Ex Col 68 Regt E, M,<figure type="hr"/>
 <lb/>To the Gov<figure type="hr"/></p>
 <p>Desires information in regard to the act passed by the Legislature for the benefit of the E. M. of the Counties of Lawrence &amp; Boyd, says send pay master &amp; Mustering officer at once, or let us send our pay master to Frankfort &amp; get the pay rolls &amp; mustering rolls Has written to Insp Gen, Hays but he treated our inquires with silent contempt<figure type="hr"/></p>
-<p>Recd A G O <date when="1865-08-28">Aug 28 1865</date></p>
+<p>Recd <orgName ref="cwgk:O00000388">A G O</orgName> <date when="1865-08-28">Aug 28 1865</date></p>
   </body>
  </text>
 </TEI>
