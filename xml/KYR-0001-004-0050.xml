@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0050"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,13 +70,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>James M. Harper
-<lb/>Sheriff Caldwell County
-<lb/>Revenue <date when="1862">1862</date></p>
+   <p><persName ref="cwgk:N00006272">James M. Harper
+</persName><lb/>Sheriff <placeName ref="cwgk:P00002472">Caldwell County</placeName><lb/>Revenue <date when="1862">1862</date></p>
 <p><table rend="rules">
 <row>
 	<cell>Judgment for Principle</cell>
-	<cell>&#36;3269.70</cell>
+	<cell>$3269.70</cell>
 </row>
 <row>
 	<cell>" " Damages</cell>
@@ -81,11 +88,10 @@
 </table></p>
 <p>Paid in full except Damages
 <lb/><date when="1863-09-24">Sept 24<hi rend="sup">th</hi> 1863 -- </date></p>
-<p>Attest Grant Green Aud
-<lb/><hi rend="underline">By C. Bailey Asst</hi><pb/></p>
+<p>Attest <persName ref="cwgk:N00000466">Grant Green</persName> Aud<lb/>By <persName ref="cwgk:N00002894">C. Bailey</persName> Asst<pb/></p>
 <p>Remit the damages
 <lb/><date when="1863-09-24">Sept 24<hi rend="sup">th</hi> 1863</date>
-<lb/>Tho E Bramlette</p>
+<lb/><persName ref="cwgk:N001000">Tho E Bramlette</persName></p>
 <p>Franklin Ct Court
 <lb/>J. M. Harper
 <lb/>Shff
