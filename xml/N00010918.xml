@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,7 @@
                       James H. Jeffries
                         (Clark County, clerk)
                     </persName>
-                        <event type="birth"  when="1833-35"  cert="medium" ><ab>c1833-35</ab></event>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,8 +55,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Clark County, Kentucky, clerk. Kentucky native. Married to Mary F. Ramsey Jeffries in September 1862. Father of Maddie Jeffries and Samuel Jeffries. Clerk in Clark County in 1860.</p>
+        <p>Clark County, Kentucky, clerk. Kentucky native. Married to Mary F. Ramsey Jeffries in Winchester, Clark County, Kentucky on September 27, 1862. Father of Maddie Jeffries and Samuel Jeffries. Clerk in Clark County in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clark County, Winchester, p. 873.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Clark County, Winchester, p. 131B.<lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Clark County, Winchester, p. 459A..<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Clark County Marriages, Film #001943687, p.56.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
