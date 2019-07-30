@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">George M. Huggins</title>
+        <title level="a" type="main">George M. Huggans</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
@@ -43,10 +47,11 @@
         <particDesc>
                 <person xml:id="N00006365">
                     <persName>
-                      George M. Huggins
-                        (Lyon County physician)
+                      George M. Huggans
+                        (Lyon County, Kentucky, physician)
                     </persName>
-                        <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
+                        <event type="birth"  when="1815-07-04"  ><ab>1815-07-04</ab></event>
+                        <event type="death"  when="1866-05-21"  ><ab>1866-05-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Lyon County, Kentucky, physician. Virginia native. Married to Sarah Huggins. Father of Mary J Huggins, Orpha M Huggins, George T Huggins, and Lilliam Y Huggins. Physician in Lyon County in 1860. </p>
+        <p>Lyon County, Kentucky, physician. Virginia, native. Married to Sarah Winton Huggans. Father of Mary J Huggans, Orpha M Huggans, George T Huggans, and Lilliam Y Huggans. Physician in Lyon County in 1860. </p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 767.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Name (Birth-Death),&quot; Memorial #124567557, http://www.findagrave.com/memorial/124567557 (accessed July 30, 2019).
 </bibl></ab>
     </back>
 </text>
