@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00010933">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John B. Lindsey</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00010933">
+                    <persName>
+                      John B. Lindsey
+                        (Versailles, Woodford County, Kentucky, farmer)
+                    </persName>
+                        <event type="birth"  when="1837-07-04"  ><ab>1837-07-04</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Versailles, Woodford County, Kentucky, farmer. Kentucky native. Son of Thomas N. Lindsey and Isabella P. Lindsey. Married Hellen Maria Talbot Lindsey in Franklin County, Kentucky on January 18, 1859. Attended Kentucky Military Institute. Resident in Franklin County, Kentucky in 1850. Moved to Texas in 1856. Farmer in Versailles, Kentucky in 1860. Enrolled for military duty in Seventh District of Woodford County, Kentucky on July 1, 1863 (U.S.A). Assisted in organizing Kentucky state militia between May 1864 and October 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 103. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Woodford County, Versailles, p. 451. <hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Rolls #994027-994058<lb/>
+, Franklin County Marriages, p. 98. <hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Woodford County, KY, July 1863, p. 11, (Accessed via ancestry.com). KYR-0002-222-0075. H. Levin, The Lawyers and Lawmakers of Kentucky (Chicago: The Lewis Publishing Company, 1897), 126.&quot;Daniel Weisiger Lindsey&quot; in the Civil War Governors of Kentucky Digital Documentary Edition, discovery.civilwargovernors.org/document/N00000873, (accessed August 5, 2019). KYR-0002-222-0075. KYR-0002-222-0076. KYR-0002-222-0086. KYR-0002-222-0087.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
