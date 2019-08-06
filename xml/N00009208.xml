@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,7 @@
                       Andrew McConnell January
                         (Mason County Merchant)
                     </persName>
-                        <event type="birth"  when="1794"  ><ab>1794</ab></event>
+                        <event type="birth"  when="1794"  cert="medium" ><ab>c1794</ab></event>
                         <event type="death"  when="1877"  ><ab>1877</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -52,13 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mason County, Kentucky, merchant. Kentucky native. Married to Sarah January. Father of Robert G. January, Emma January, Horace January. Merchant in Mason County in 1860. Owned two enslaved persons in 1860.</p>
+        <p>Mason County, Kentucky, merchant. Kentucky native. Son of Ephraim January and Sarah McConnell January. Married to Sarah January. Father of Robert G. January, Emma January, Horace January. Merchant in Mason County in 1860. Owned two enslaved persons in 1860.</p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Maysville, p.321. 
 
 <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mason County, Maysville, p.3.
+
+Marquis Boultinghouse, <hi rend="italic">Silversmiths, Jewelers, Watch &amp; Clock Makers of Kentucky, 1785-1900</hi>, (Lexington, 1980), 165-9.
 </bibl></ab>
     </back>
 </text>
