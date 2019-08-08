@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       J. C. Dean
                         (Mercer County )
                     </persName>
+                        <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +55,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition to Thomas Bramlette on behalf of John Patterson in Mercer county, November 14, 1864. </p>
+        <p>Mercer County, Kentucky, farmer. Married Hannah Godfrey. Farmer in Mercer County in 1860. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, p. 548
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mercer County Marriages, Film #000191864, p. 381
+</bibl></ab>
+    </back>
 </text>
 </TEI>
