@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,10 +44,9 @@
                 <person xml:id="N00009211">
                     <persName>
                       John Lambert
-                        (Kenton County Farmer)
+                        (Kenton County, Kentucky, Farmer)
                     </persName>
-                        <event type="birth"  when="1812"  ><ab>1812</ab></event>
-                        <event type="death"  when="unknown "  ><ab>unknown </ab></event>
+                        <event type="birth"  when="1812"  cert="medium" ><ab>c1812</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -52,11 +55,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kenton Count, Kentucky, farmer. Native of Ireland. Married to Mary Lambert. Father of John B. Lambert, Mary A. Lambert, Orrin S. Lambert, Sarah J. Lambert, Helen Lambert, Kate Lambert, Lucy Lambert, Laura Lambert, Derrie A. Lambert, Wyatt Lambert. Farmer in Kenton County in 1860.</p>
+        <p>Kenton County, Kentucky, sexton and farmer. Native of Ireland. Married to Mary Lambert. Father of John B. Lambert, Mary A. Lambert, Orrin S. Lambert, Sarah J. Lambert, Frances Lambert, Helen Lambert, Kate Lambert, Lucy Lambert, Laura Lambert, Derrie A. Lambert, Wyatt Lambert, and Carrie Lambert. Sexton in Covinington, Kentucky in 1850. Farmer in Kenton County in 1860. Employed Francis Walker in Kenton County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, District 1, 488. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Kenton County, Covington 6th Ward, 317A and B. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, District 1, 488. 
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Kenton County, Coker Precinct, 297A. 
 </bibl></ab>
     </back>
 </text>
