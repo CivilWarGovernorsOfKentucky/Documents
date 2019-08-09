@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00009755">
                     <persName>
                       John W. Whitt
-                        (Soldier in Big Sandy River valley)
+                        (Wayne County, West Virginia, farmer and merchant)
                     </persName>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition with commanders of militia companies in the Big Sandy River valley on December 18, 1862.</p>
+        <p>Wayne County, West Virginia, farmer and merchant. Virginia native. Married to Rachel Whitt. Father of Thomas Whitt, Jesse Whitt, Polly Whitt, and John W. Whitt. Commander of a militia regiment in the Big Sandy River Valley on December 18, 1862.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-022-0092
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Virginia, Wayne County, District 66, p. 264B
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Virginia, Wayne County, pp. 834-835.
+
+KYR-0002-022-0092
 </bibl></ab>
     </back>
 </text>

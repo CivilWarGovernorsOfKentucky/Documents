@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">David Batrim</title>
+        <title level="a" type="main">David Bartrim</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00009752">
                     <persName>
-                      David Batrim
+                      David Bartrim
                         (Soldier in Big Sandy River valley)
                     </persName>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,21 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition with commanders of militia companies in the Big Sandy River valley on December 18, 1862.</p>
+        <p>Wayne County, West Virginia, farmer and soldier. Virginia native. Son of William Bartrum and Laurana Bartrum. Married to Eliza Jane Ratcliff Bartrim. Father of Wayne Bartrim and John B. Bartrim. Resident of Wayne County, Virginia, in 1850. Farmer in Wayne County, Virginia, in 1860. Signed petition and identified as one of a group of commanders of militia companies in the Big Sandy River Valley on December 18, 1862.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-022-0092
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Virginia, Wayne County, Butler District 66, p. 270B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Virginia, Wayne County, p. 823
+
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, West Virginia, Wayne County, p.359D
+
+<hi rend="italic">Twelfth Manuscript Census of the United States</hi> (1900), Population Schedules, West Virginia, Wayne County, District 0109, p. 14
+
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Wayne County, WV, Volume 1 of 2, p. 8, (p. 19 of microfilm; Accessed via ancestry.com on August 6, 2019).
+
+KYR-0002-022-0092
 </bibl></ab>
     </back>
 </text>

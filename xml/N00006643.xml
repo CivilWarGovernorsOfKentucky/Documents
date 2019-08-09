@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006643">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Hugh M. Stitt</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006643">
+                    <persName>
+                      Hugh M. Stitt
+                        (Nicholas County, Kentucky, hotel keeper and post master.)
+                    </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Nicholas County, Kentucky, hotel keeper and post master. Kentucky native. Married to Cinderella Fisher Still in Nicholas County, Kentucky on October 21, 1858. Father of Lizzie Lee Stitt. Laborer in Nicholas County, Kentucky in 1850. Postmaster in Carlisle, Kentucky in 1860. Co-owner of tavern and hotel Nicholas House in Nicholas County, Kentucky in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Nicholas County, Town of Carlisle, District 1, p. 5.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Nicholas, District 2, p. 405B.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Nicholas, Carlisle, p. 277A.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Nicholas County Marriages, Film #000252410
+
+National Archives and Records Administration (NARA); Washington, D.C.; <hi rend="italic">Consolidated Lists of Civil War Draft Registration Records (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865); Record Group: 110, Records of the Provost Marshal General&#39;s Bureau (Civil War); Collection Name: Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records)</hi>; NAI: 4213514; Archive Volume Number: 2 of 2, Nicholas County, Kentucky, p. 13.
+</bibl></ab>
+    </back>
+</text>
+</TEI>

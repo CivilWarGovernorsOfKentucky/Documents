@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-143-0034"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,11 +72,11 @@
  <text>
   <body>
    <p><note place="header">60</note></p>
-<p>Washington D. C
-<lb/><date when="1862-11-16">Nov 16<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
-<lb/>Gov Robinson</p>
-<p>The Secretary of War directs me to say he will receive the volunteers mentioned in your telegram of yesterday by companies or regiments as fast as properly organized</p>
-<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Scott Ketchum
+<p><placeName ref="cwgk:P00001134">Washington D. C
+</placeName><lb/><date when="1862-11-16">Nov 16<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/><persName ref="cwgk:N001004">Gov Robinson</persName></p>
+<p>The <persName ref="cwgk:N00002647">Secretary of War</persName> directs me to say he will receive the volunteers mentioned in your telegram of yesterday by companies or regiments as fast as properly organized</p>
+   <p><persName ref="cwgk:N00010538">W<hi rend="underline"><hi rend="sup">m</hi></hi> Scott Ketchum</persName>
 <lb/>Brig Genl</p>
   </body>
  </text>

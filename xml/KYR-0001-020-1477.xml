@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1477"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,21 +70,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>We the undercined Jurors, Petition His Honor B Maggofein Gov -- of Kentuck in caus of James W Dugan Defendent (vis) commonwealth of Kentucky. And say <hi rend="str">that</hi> to His Honor that we the undercined say that the fine of Eightteen Dollars aught to be Remited This <date when="1861-10-08">8<hi rend="sup">th</hi> day Oct 1861</date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>T. Roberts
-<lb/>E. Jeffaries
-<lb/>R Kendall
-<lb/>W. H. Shively
-<lb/>John Swindley
-<lb/>P Jamsein
-<lb/>D. Heybach
-<lb/>James Hollis
-<lb/><cb n="2"/>J. H. Shively D S for
-<lb/>J. W. Davis S J C
-<lb/>J. G Balee
-<lb/>G C Smoot<milestone unit="column" n="1"/><pb/></p>
-<p>Jefferson Co J. P. 
-<lb/>&#36;18
+   <p>We the undercined Jurors, Petition <persName ref="cwgk:N00000258">His Honor B Maggofein</persName> Gov -- of <orgName ref="cwgk:O001025">Kentuck</orgName> in caus of <persName ref="cwgk:N00009162">James W Dugan</persName> Defendent (vis) commonwealth of <orgName ref="cwgk:O001025">Kentuck</orgName>y. And say <hi rend="str">that</hi> to His Honor that we the undercined say that the fine of Eightteen Dollars aught to be Remited This <date when="1861-10-08">8<hi rend="sup">th</hi> day Oct 1861</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00009163">T. Roberts
+</persName><lb/><persName ref="cwgk:N00009164">E. Jeffaries
+</persName><lb/>R Kendall
+<lb/><persName ref="cwgk:N00009166">W. H. Shively</persName><lb/><persName ref="cwgk:N00009167">John Swindley</persName><lb/><persName ref="cwgk:N00009168">P Jamsein</persName><lb/>D. Heybach
+<lb/><persName ref="cwgk:N00009170">James Hollis</persName><lb/><cb n="2"/><persName ref="cwgk:N00009171">J. H. Shively</persName> D S for<lb/><persName ref="cwgk:N00009172">J. W. Davis</persName> S J C<lb/>J. G Balee
+<lb/><persName ref="cwgk:N00009174">G C Smoot</persName><milestone unit="column" n="1"/><pb/></p>
+<p><orgName ref="cwgk:O001839">Jefferson Co</orgName> J. P. <lb/>$18
 <lb/>J W. Dugan
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-26">Oct. 26 1861</date></p>
 <p>Respite 12 mo B. M</p>

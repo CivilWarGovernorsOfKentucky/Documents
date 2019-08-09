@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0091"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head Quarters Ceredo Virginia
-<lb/>Camp Pierpoint <date when="1862-10-28">October 28<hi rend="sup">th</hi> 1862</date>
+   <p>Head Quarters <placeName ref="cwgk:P00009706">Ceredo Virginia</placeName><lb/>Camp Pierpoint <date when="1862-10-28">October 28<hi rend="sup">th</hi> 1862</date>
 <lb/>H,, E,,
-<lb/>Govrnor Robinson
-<lb/>Dear Sir</p>
-<p>We do respectively ask the promotion of Lieutenant James. D.. M<hi rend="underline"><hi rend="sup">c</hi></hi>Bride-- to the Majorship of the 39. K Y,, Regt V<hi rend="sup">ol</hi> Infty</p>
-<p>Lieut M<hi rend="underline"><hi rend="sup">c</hi></hi>Bride has been in service since the commenciment of the war. in the three months He saw active service in the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ohio Regt at Viena and Bulls Run. After the disbanding of the Regt He went into service under Rosencrans in Virginia this summers campaign He has been prompt to duty and was in battles fought by Freemont and Siegle while under Siegle he was detailed for good Services-- as an officer in the Sharp Shooters</p>
-<p>Generals Siegle Schenck and Milroy. Strongly recommends him for the Majorship of a Regiment they say that he is well drilled. His Morrels, and character are excellent He is active. Energetic<hi rend="str">l</hi>. Intelligent. Brave and Determined give him the apointment and He will be an honer to the Services of his country</p>
+<lb/><persName ref="cwgk:N001004">Govrnor Robinson</persName><lb/>Dear Sir</p>
+   <p>We do respectively ask the promotion of <persName ref="cwgk:N00009700"> Lieutenant James. D.. M<hi rend="underline"><hi rend="sup">c</hi></hi>Bride</persName>-- to the Majorship of the <orgName ref="cwgk:O00009707">39. K Y,, Regt V<hi rend="sup">ol</hi> Infty</orgName></p>
+   <p>Lieut M<hi rend="underline"><hi rend="sup">c</hi></hi>Bride has been in service since the commenciment of the war. in the three months He saw active service in the <orgName ref="cwgk:O00009708">1<hi rend="underline"><hi rend="sup">st</hi></hi> Ohio Regt</orgName> at <placeName ref="cwgk:P00009711">Viena</placeName> and <placeName ref="cwgk:P00008177">Bulls Run</placeName>. After the disbanding of the Regt He went into service under <persName ref="cwgk:N00009712">Rosencrans</persName> in <placeName ref="cwgk:P001037">Virginia</placeName> this summers campaign He has been prompt to duty and was in battles fought by <persName ref="cwgk:N00009710">Freemont</persName> and Siegle while under <persName ref="cwgk:N00008498">Siegle</persName> he was detailed for good Services-- as an officer in the Sharp Shooters</p>
+<p>Generals Siegle <persName ref="cwgk:N00008500">Schenck</persName> and <persName ref="cwgk:N00008499">Milroy</persName>. Strongly recommends him for the Majorship of a Regiment they say that he is well drilled. His Morrels, and character are excellent He is active. Energetic<hi rend="str">l</hi>. Intelligent. Brave and Determined give him the apointment and He will be an honer to the Services of his country</p>
 <p>Lieut M<hi rend="underline"><hi rend="sup">c</hi></hi>Bride is one of the best Officers in my Regiment on all our forced marches He acted with energy to keep his men from stragling he is popular and will do his duty whare evr he may be placed</p>
 <p>Your Most Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
-<lb/>John L Zeigler
-<lb/>Col,, Comd 5<hi rend="sup">th</hi> Regt V<hi rend="underline"><hi rend="sup">a</hi></hi> V<hi rend="sup">ol</hi> Infty</p>
+ <lb/><persName ref="cwgk:N00009709">John L Zeigler</persName><lb/>Col,, Comd <orgName ref="cwgk:O00008509">5<hi rend="sup">th</hi> Regt V<hi rend="underline"><hi rend="sup">a</hi></hi> V<hi rend="sup">ol</hi> Infty</orgName></p>
   </body>
  </text>
 </TEI>

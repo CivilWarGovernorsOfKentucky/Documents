@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-143-0035"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,14 +72,13 @@
  <text>
   <body>
    <p><note place="header">60</note></p>
-<p>Washington D. C
-<lb/><date when="1862-08-24">August 24<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
-<lb/>Adjt Gen Ky
-<lb/>Frankfort Ky</p>
-<p>The following has been received from the Secretary of War</p>
-<p>"Ordered that all persons heretofore authorized by this department to raise troops for the United States service in Kentucky are directed to report to Gov Robinson and hereafter, all recruiting in that state will be under his supervision and direction</p>
-<p>Thomas M Vincent
-<lb/>AAG</p>
+<p><placeName ref="cwgk:P00001134">Washington D. C</placeName><lb/><date when="1862-08-24">August 24<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/><persName ref="cwgk:N00000228">Adjt Gen Ky
+</persName><lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName></p>
+<p>The following has been received from the <persName ref="cwgk:N00002647">Secretary of War</persName></p>
+<p>"Ordered that all persons heretofore authorized by this department to raise troops for the <orgName ref="cwgk:O00001186">United States service</orgName> in Kentucky are directed to report to <persName ref="cwgk:N001004">Gov Robinson</persName> and hereafter, all recruiting in that state will be under his supervision and direction</p>
+<p><persName ref="cwgk:N00005761">Thomas M Vincent
+</persName><lb/>AAG</p>
 <p>Official copy
 <lb/>T. M Vincent
 <lb/>A.A.G</p>

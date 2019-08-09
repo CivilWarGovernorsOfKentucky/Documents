@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0092"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Peach orchard Kentucky
-<lb/><date when="1862-12-18">December 18<hi rend="sup">th</hi> 1862</date>
+   <p><placeName ref="cwgk:P00009721">Peach orchard Kentucky</placeName><lb/><date when="1862-12-18">December 18<hi rend="sup">th</hi> 1862</date>
 <lb/>H,, E,,
-<lb/>Govenor Robinson
-<lb/>Dear Sir</p>
-<p>We the undrrsigned are Commanders of Companies of Home Guards who are anctious to form ourselves into a Battallion of Cavaldry to do duty in the Sandy valley and the border counties</p>
-<p>We are unanimus to a man that Lieutenant Ja<hi rend="underline"><hi rend="sup">s</hi></hi> D M<hi rend="underline"><hi rend="sup">c</hi></hi>Bride now on officer in the Fifth Regiment V<hi rend="sup">a--</hi> V<hi rend="sup">ol</hi> Infantry shall be our commander and amediately take steps to organise <hi rend="str"><unclear/></hi>the Battallion if this meets with your approveal</p>
+<lb/><persName ref="cwgk:N001004">Govenor Robinson</persName><lb/>Dear Sir</p>
+<p>We the undrrsigned are Commanders of Companies of Home Guards who are anctious to form ourselves into a Battallion of Cavaldry to do duty in the <geogName ref="cwgk:G00009737">Sandy valley</geogName> and the border counties</p>
+   <p>We are unanimus to a man that <persName ref="cwgk:N00009700">Lieutenant Ja<hi rend="underline"><hi rend="sup">s</hi></hi> D M<hi rend="underline"><hi rend="sup">c</hi></hi>Bride</persName> now on officer in the <orgName ref="cwgk:O00008509">Fifth Regiment V<hi rend="sup">a--</hi> V<hi rend="sup">ol</hi> Infantry</orgName> shall be our commander and amediately take steps to organise <hi rend="str"><unclear/></hi>the Battallion if this meets with your approveal</p>
 <p>We are Your Most Obt Sv<hi rend="underline"><hi rend="sup">ts</hi></hi>
-<lb/>Calvin Fuller
-<lb/>George W Murry
-<lb/>Ira G Copley
-<lb/>Marlin Maynard
-<lb/>David Batrim
-<lb/>John. W. Whitt
-<lb/>Z,, Calwell</p>
+<lb/><persName ref="cwgk:N00009724">Calvin Fuller</persName><lb/><persName ref="cwgk:N00009753">George W Murry</persName><lb/><persName ref="cwgk:N00009725">Ira G Copley</persName><lb/><persName ref="cwgk:N00009754">Marlin Maynard</persName><lb/><persName ref="cwgk:N00009752">David Batrim</persName><lb/><persName ref="cwgk:N00009755">John. W. Whitt</persName><lb/><persName ref="cwgk:N00009756">Z,, Calwell</persName></p>
   </body>
  </text>
 </TEI>
