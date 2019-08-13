@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -43,6 +47,7 @@
                         (Mercer County farmer, constable)
                     </persName>
                         <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
+                        <event type="death"  when="1899"  ><ab>1899</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,5 +59,13 @@
         <p>Mercer County, Kentucky, farmer and constable. Kentucky native. Married to Margrett Graves. Father of Joseph M. Graves, Jacob H. Graves, Mary E. Graves, Nancy J. Graves, William Y. Graves, and Hannah H. Graves. Farmer in Mercer County in 1860. Constable in Mercer County in 1863.  </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, p. 588
+
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Mercer County, KY, June-July 1863, p. 29, (Accessed via ancestry.com).
+
+<hi rend="italic">Kentucky County, District and Probate Courts</hi> Mercer County, Will Books, 1865-1916 (1899), p. 118-119. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
