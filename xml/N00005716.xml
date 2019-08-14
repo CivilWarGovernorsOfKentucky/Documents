@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Melissa DeVelvis</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,9 @@
                 <person xml:id="N00005716">
                     <persName>
                       B.F. Gross
-                        (Paducah, Kentucky, resident.)
+                        (Paducah, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Paducah, Kentucky, resident. Resident of Paducah, Kentucky in 1861.</p>
+        <p>Paducah, Kentucky, farmer. Tennessee native. Married to D.C. Gross. Father of Cynthia Gross, Cornelius Gross. Farmer in Paducah in 1860. Employed William F. Caning in Paducah in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0043
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McCracken County, Paducah District 1, p. 955.
 </bibl></ab>
     </back>
 </text>
