@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1488"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,27 +70,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Governor of Kentucky</p>
-<p>We the undersigned citizens of Scott county respectfully request <hi rend="str">that</hi> your excellency to remit a fine of Fifty Dollars inflicted on Alexander Straus in Powell county for- peddling in said county without license
-<lb/> 
-<lb/>W, S. Darnaby
-<lb/>J. T. Pratt
-<lb/>J C Applegate
-<lb/>Jo. Hawkins
-<lb/>J. M Rankins
-<lb/>Samuell
-<lb/>Ja<hi rend="sup">s</hi> M Shepard 
-<lb/>William Johnson
-<lb/><hi rend="underline">J. G. Morrison
-<lb/></hi>Ed <unclear>Sweets</unclear>
-<lb/>George W Offutt
-<lb/>James Y Kelly
-<lb/>A. Duvall
-<lb/>B C Glass
-<lb/>T J <hi rend="underline">Adams
-<lb/></hi>J. F. Gasner<pb/></p>
-<p>Powell C<hi rend="str">ir</hi>O. Ct
-<lb/>&#36;50 &#125; Peddling
+   <p>To <persName ref="cwgk:N00000258">the Governor</persName> of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>We the undersigned citizens of <placeName ref="cwgk:P001030">Scott county</placeName> respectfully request <hi rend="str">that</hi> your excellency to remit a fine of Fifty Dollars inflicted on <persName ref="cwgk:N00009180">Alexander Straus</persName> in <placeName ref="cwgk:P00001937">Powell county</placeName> for- peddling in said county without license<lb/> 
+<lb/><persName ref="cwgk:N00009181">W. S. Darnaby</persName><lb/><persName ref="cwgk:N00009182">J. T. Pratt</persName><lb/><persName ref="cwgk:N00009183">J C Applegate</persName><lb/><persName ref="cwgk:N00009184">Jo. Hawkins</persName><lb/><persName ref="cwgk:N00009185">J. M Rankins</persName>
+<lb/><persName ref="cwgk:N00009186">Samuell</persName><lb/><persName ref="cwgk:N00009187">Ja<hi rend="sup">s</hi> M Shepard</persName>
+<lb/><persName ref="cwgk:N00009188">William Johnson</persName><lb/><persName ref="cwgk:N00005217">J. G. Morrison</persName><persName ref="cwgk:N00009189">Ed Sweets</persName>
+<lb/><persName ref="cwgk:N00009190">George W Offutt</persName><lb/><persName ref="cwgk:N00009192">James Y Kelly</persName><lb/><persName ref="cwgk:N00008230">A. Duvall</persName><lb/><persName ref="cwgk:N00009194">B C Glass</persName><lb/><persName ref="cwgk:N00009195">T J <hi rend="underline">Adams</hi></persName>
+<lb/><persName ref="cwgk:N00009196">J. F. Gasner</persName><pb/></p>
+<p><orgName ref="cwgk:O00000491">Powell C<hi rend="str">ir</hi>O. Ct</orgName>
+<lb/>$50 } Peddling
 <lb/>Alex Straus
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-07">Octo. 7. 1861</date><figure type="hr"/></p>
 <p>Remitted 

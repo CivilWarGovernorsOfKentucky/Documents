@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0031"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -66,8 +74,8 @@
    <p>5<hi rend="str">1</hi>6
 <lb/><hi rend="underline">20</hi>
 <lb/>1120
-<lb/>The State of Kentucky
-<lb/>To John Steele Dr</p>
+<lb/>The State of <placeName ref="cwgk:P001800">Kentucky
+</placeName><lb/>To <persName ref="cwgk:N00010739">John Steele</persName> Dr</p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1862">1862,</date></cell>
@@ -78,7 +86,7 @@
 <row>
 	<cell><date when="1862-12-17">Decr 17,</date></cell>
 	<cell>To 20 Bushels Corn at 50<hi rend="sup">c</hi> per Bushel</cell>
-	<cell>&#36;10,</cell>
+	<cell>$10,</cell>
 	<cell>00</cell>
 </row>
 <row>
@@ -90,7 +98,7 @@
 <row>
 	<cell/>
 	<cell/>
-	<cell>&#36;21,</cell>
+	<cell>$21,</cell>
 	<cell>00</cell>
 </row>
 </table></p>
@@ -119,19 +127,19 @@
 <row>
 	<cell><date when="1862-12-17">Decr 17,</date></cell>
 	<cell>To 20 Bushels Corn at 50<hi rend="sup">c</hi> per Bushel,</cell>
-	<cell>&#36;10,</cell>
+	<cell>$10,</cell>
 	<cell>00</cell>
 </row>
 <row>
 	<cell/>
 	<cell>" 1600 Pounds Hay</cell>
-	<cell><hi rend="underline">&#36;11,</hi></cell>
+	<cell><hi rend="underline">$11,</hi></cell>
 	<cell><hi rend="underline">00</hi></cell>
 </row>
 <row>
 	<cell/>
 	<cell/>
-	<cell>&#36;21,</cell>
+	<cell>$21,</cell>
 	<cell>00</cell>
 </row>
 </table></p>
@@ -151,7 +159,7 @@
 <p><hi rend="str">31</hi>No. 33
 <lb/>No. 71 Abst A</p>
 <p><hi rend="underline">John Steele</hi>
-<lb/>&#36;<hi rend="underline">21.00</hi>
+<lb/>$<hi rend="underline">21.00</hi>
 <lb/>Paid <date when="1863-03-20">March 20. 1863</date><figure type="hr"/></p>
 <p>forage
 <lb/>allowed <date when="1863-08-08">Aug 8 1863</date>

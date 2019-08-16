@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. Botkin</title>
+        <title level="a" type="main">John Botkin</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Christina Adkins</name>
@@ -43,9 +47,10 @@
         <particDesc>
                 <person xml:id="N00009296">
                     <persName>
-                      J. Botkin
-                        (Louisville, Kentucky, petitioner)
+                      John Botkin
+                        (Louisville, Kentucky, laborer)
                     </persName>
+                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +58,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, petitioner. Signed a petition on behalf of H. Berlin in Louisville in 1860.</p>
+        <p>Louisville, Jefferson County, laborer. Ireland native. Laborer in Jefferson County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1423.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 1, p. 216.
 </bibl></ab>
     </back>
 </text>

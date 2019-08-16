@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Biers</title>
+        <title level="a" type="main">John Veirs</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00009760">
                     <persName>
-                      John Biers
-                        (Logan County)
+                      John Veirs
+                        (Logan County, KY, farmer and postmaster)
                     </persName>
+                        <event type="birth"  when="1807-12-11"  ><ab>1807-12-11</ab></event>
+                        <event type="death"  when="1871-07-08"  ><ab>1871-07-08</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in letter from Churchwill H. Blakey from Logan County, Kentucky on June 21, 1861.</p>
+        <p>Logan County, Kentucky, farmer and postmaster. Maryland native. Married to E. Veirs. Married to Catharine C Eubank Veirs in Logan County on February 7, 1848. Father of William Veirs, Henry Veirs, and Catharine Veirs. Farmer in Logan County in 1850. Farmer in Logan County in 1860. Owned sixteen enslaved persons in 1860. Postmaster of Black Lick post office, Auburn, Logan County, from June 5, 1861 to May 13, 1862. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-022-0100
+        <ab><bibl><hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Logan County Marriages, 1818-1919, Film #002134965, p. 1167 of microfilm.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Logan County, District 1, p. 423
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Logan County, District 1, pp. 20-21 of microfilm (377B and 378A stamped)
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Logan County, Auburn Corporation, p. 332A.
+
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971.</hi> NARA Microfilm Publication, M841, Records of the Post Office Department, NARA RG 28, Vol. 28, p. 378 of microfilm.
 </bibl></ab>
     </back>
 </text>
