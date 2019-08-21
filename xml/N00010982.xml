@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">David B. Denton</title>
+        <title level="a" type="main">David Barrow Denton</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
@@ -43,14 +43,21 @@
         <particDesc>
                 <person xml:id="N00010982">
                     <persName>
-                      David B. Denton
-                        ()
+                      David Barrow Denton
+                        (Barren County, jailer)
                     </persName>
+                        <event type="birth"  when="1811-11-02"  ><ab>1811-11-02</ab></event>
+                        <event type="death"  when="1876-06-04"  ><ab>1876-06-04</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Barren County, Kentucky, jailer. Kentucky native. Married to Elizabeth Denton. Father of Boon Denton, Mary Denton, William Denton, and Minnie L. Denton. Resident in Barren County in 1850. Jailer in Barren County in 1860. Owned one enslaved person in Barren County in 1860.</p>
+
+    </body>
 </text>
 </TEI>
