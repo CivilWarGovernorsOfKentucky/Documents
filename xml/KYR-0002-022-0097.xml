@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0097"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,26 +71,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>War Department,
-<lb/>Washington City,
-<lb/><date when="1864-05-19">May 19<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864</date>
+   <p><orgName ref="cwgk:O00005118">War Department</orgName>,<lb/><placeName ref="cwgk:P00001134">Washington City</placeName>,<lb/><date when="1864-05-19">May 19<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864</date>
 <lb/>His Excellency
-<lb/>Thomas E. Bramlette.
-<lb/>Governor of Kentucky.
+<lb/><persName ref="cwgk:N001000">Thomas E. Bramlette</persName>.<lb/>Governor of Kentucky.
 <lb/>Louisville.
 <lb/>Kentucky.
 <lb/>Sir:</p>
-<p>I am instructed by the Secretary of War to acknowledge the receipt of your Excellency's communication of the <date when="1864-04-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> ultimo,</date> asking if any arrangements can be made for the payment, by the United States, of the 68<hi rend="underline"><hi rend="sup">th</hi></hi> Regiment Enrolled Militia of Kentucky, called out in <date when="--04">April last</date> by Colonel Gallup, Commanding the District of East Kentucky, for the purpose of protecting his depots and lines of communication, when threatened by the rebels; and, in reply, to state, that the Paymaster General has been ordered to pay these troops for the time they were actually in service.</p>
+<p>I am instructed by the <persName ref="cwgk:N00002647">Secretary of War</persName> to acknowledge the receipt of your Excellency's communication of the <date when="1864-04-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> ultimo,</date> asking if any arrangements can be made for the payment, by the <orgName ref="cwgk:O00002945">United States</orgName>, of the 68<hi rend="underline"><hi rend="sup">th</hi></hi> Regiment Enrolled Militia of Kentucky, called out in <date when="--04">April last</date> by <persName ref="cwgk:N00008673">Colonel Gallup</persName>, Commanding the District of East Kentucky, for the purpose of protecting his depots and lines of communication, when threatened by the rebels; and, in reply, to state, that the <persName ref="cwgk:N00010027">Paymaster General</persName> has been ordered to pay these troops for the time they were actually in service.</p>
 <p>Very Respectfully,
 <lb/>(over)<pb/>
 <lb/>Your Obedient Servant.
-<lb/>Louis H Pelouze
-<lb/>Ass't. Adj't. Gen'l.<pb/></p>
+<lb/><persName ref="cwgk:N00009745">Louis H Pelouze</persName><lb/>Ass't. Adj't. Gen'l.<pb/></p>
 <p>War Department
 <lb/>Washington City
 <lb/><date when="1864-05-19">May 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/></p>
 <p>Louis H. Pelouze A. A. G. is instructed by Secty War to acknowledge receipt of the Gov's communciation of the <date when="1864-04-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> ultimo</date> and to state that the PayMaster Gen<hi rend="underline"><hi rend="sup">l</hi></hi> has been instructed to pay the 68<hi rend="underline"><hi rend="sup">th</hi></hi> Regt Ky E. M. for the time they were actually in service.<figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> I. G. O. <date when="1864-05-24">May 24<hi rend="sup">th</hi> 1864</date>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000920">I. G. O.</orgName> <date when="1864-05-24">May 24<hi rend="sup">th</hi> 1864</date>
 <lb/>Letter from War Dept relative to pay of 68<hi rend="underline">'</hi> Enrolled Militia.</p>
   </body>
  </text>
