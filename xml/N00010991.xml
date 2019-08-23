@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,24 @@
                       Absalom Smith
                         ()
                     </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Marshall County, Kentucky, farmer. Kentucky native. Married to Eliza J. Smith. Father of Mary W. Smith, Jno L. Smith, Parmelia L. Smith, and Silus D. Smith. Farmer in Marshall County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marshall County, p. 484A
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, p. 894
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marshall County, p. 228A
+</bibl></ab>
+    </back>
 </text>
 </TEI>
