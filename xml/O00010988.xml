@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,17 @@
             <particDesc>
                 <org xml:id="O00010988">
                     <orgName>United States Army Medical Department</orgName>
+                        <event type="begun"  when="1775"  cert="medium" ><ab>c1775</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl>George Washington Adams, <hi rend="italic">Doctors in Blue: The Medical History of the Union Army in the Civil War</hi> (Baton Rouge: Louisiana State University Press, 1980).
+
+Mary C. Gillett, <hi rend="italic">The Army Medical Department: 1818-1865</hi> (Washington, DC: U.S. Government Printing Office, 1987).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
