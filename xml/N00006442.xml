@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">A. K. Lindsey</title>
+        <title level="a" type="main">Allen K. Lindsey</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
@@ -43,21 +47,25 @@
         <particDesc>
                 <person xml:id="N00006442">
                     <persName>
-                      A. K. Lindsey
+                      Allen K. Lindsey
                         (Marshall County)
                     </persName>
-                      <trait type="gender" subtype="U"/>
+                        <event type="birth"  when="1832"  cert="medium" ><ab>c1832</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of James H. Marshall in Marshall County, Kentucky, in 1863.</p>
+        <p>Marshall County, Kentucky, farmer. Tennessee native. Married to Mary V. McDermott. Farmer in Marshall County in 1850. Resident of Marshall County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0013.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marshall County, p. 473B
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Calloway County Marriages, p. 4.
 </bibl></ab>
     </back>
 </text>
