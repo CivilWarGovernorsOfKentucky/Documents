@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00005616">
                     <persName>
                       James R. Helton
-                        (Barbourville, Knox County, Kentucky, farmer)
+                        (Barbourville, Kentucky, farmer)
                     </persName>
                         <event type="birth"  when="1801"  cert="medium" ><ab>c1801</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Barbourville, Knox County, Kentucky, farmer. Tennessee native. Married to Francis Helton. Father of John Helton, Levina Helton, Mary Helton, James Helton, Pleasant Helton, Francis Helton, Henry Helton, and Fanna Helton.</p>
+        <p>Barbourville, Knox County, Kentucky, farmer. Tennessee native. Married to Francis Helton. Father of Malinda Helton, Nancy Helton, John Helton, Lavina Helton, Mary J. Helton, James Helton, Pleasant J. Helton, Louisa Francis Helton, Henry Helton, Fanna Helton. Farmer in Knox County in 1850. Farmer in Knox County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Knox County, p. 736. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Knox County, Barbourville, p. 70.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Knox County, p. 373B. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Knox County, Barbourville, p. 70.
 </bibl></ab>
     </back>
 </text>
