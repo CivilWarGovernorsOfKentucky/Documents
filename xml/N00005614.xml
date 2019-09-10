@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. Herndon</title>
+        <title level="a" type="main">Richardson Herndon</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
@@ -47,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00005614">
                     <persName>
-                      R. Herndon
+                      Richardson Herndon
                         (Knox County, Kentucky)
                     </persName>
+                        <event type="birth"  when="1846"  cert="medium" ><ab>c1846</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signature appears in document.</p>
+        <p>Knox County, Kentucky, resident. Kentucky native. Son of Oliver Herndon and Keziah Herndon. Resident in Harlan County in 1850. Resident in Knox County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0040. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Harlan County, District 1, p. 41B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Knox County, Clear Creek, p. 153.
 </bibl></ab>
     </back>
 </text>
