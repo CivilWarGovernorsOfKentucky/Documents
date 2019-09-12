@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011014">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert McKee</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00011014">
+                    <persName>
+                      Robert McKee
+                        (Provisional Government Secy of State and news editor)
+                    </persName>
+                        <event type="birth"  when="1830"  ><ab>1830</ab></event>
+                        <event type="death"  when="1909"  ><ab>1909</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, newspaper editor and Provisional Government Secretary of State. Fleming County, Kentucky native. Married to Emily Reed McKee in Mason County, Kentucky on August 15, 1855. Father of Charles and Belle McKee. Editor and owner of the Maysville <hi rend="italic">Express</hi> 1857 to 1859. Editor of the <hi rend="italic">Louisville Daily Courier</hi> 1859 to 1861. Secretary at the Russellville Convention in November 1861. Elected Secretary of State of the Confederate Provisional Congress of Kentucky in 1861. Indicted for treason by Kentucky Unionists and moved to Dallas County, Kentucky in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson, Louisville Ward 2, p. 454.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mason County Marriages, Film #000281846, p. 39.
+
+Thomas M Owen, <hi rend="italic">History of Alabama and Dictionary of Alabama Biography</hi> Vol. IV (Chicago: S.J. Clarke &amp; Co, 1921), p. 1120.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
