@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Orson Tribble</title>
+        <title level="a" type="main">Orson Martin Tribble</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00009816">
                     <persName>
-                      Orson Tribble
-                        (Richmond)
+                      Orson Martin Tribble
+                        (Madison County, KY, farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1828-05-24"  ><ab>1828-05-24</ab></event>
+                        <event type="death"  when="1910-11-16"  ><ab>1910-11-16</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,20 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed letter to Governor Beriah Magoffin on March 11, 1861 stating intention to serve in a militia company from Richmond, Kentucky.</p>
+        <p>Madison County, Kentucky, farmer and soldier. Madison County native. Married to Nancy M. Bush Tribble in Madison County on November 22, 1859. Father of Jennie Tribble, William Tribble, John Tribble, and Charles Tribble. Farmer in Madison County in 1860. Signed letter to Governor Beriah Magoffin on March 11, 1861 stating intention to serve in a militia company from Richmond, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-022-0114
+        <ab><bibl><hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, X County Marriages, Film #000183317, p. 171 and Film # 000183302, p. 213.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Madison County, Division 1, pp. 313-14
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, County, Elliston District, p. 90B
+
+<hi rend="italic">Find A Grave</hi>, &quot;Orson Martin “O.M.” Tribble (1828-1910),&quot; Memorial #115304199, http://www.findagrave.com/memorial/115304199 (accessed September 13, 2019).<lb/>
+115304199
+
+KYR-0002-022-0114
 </bibl></ab>
     </back>
 </text>
