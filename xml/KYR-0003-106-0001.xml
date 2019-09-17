@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-106-0001"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -44,7 +52,7 @@
       <settlement>Frankfort</settlement>
       <repository>Kentucky Historical Society</repository>
       <collection>W.F. Marvin Address</collection>
-      <idno></idno>
+      <idno/>
      </msIdentifier>
     </msDesc>
    </sourceDesc>
@@ -62,10 +70,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>ADDRESS OF THE FIRST KENTUCKY REGIMENT
-<lb/> -- ON THE -- 
-<lb/>Presentation of a Flag to Col. Bramlette,
-<lb/>By the Ladies of Lexington.<figure type="hr"/></p>
+   <p>ADDRESS OF THE <orgName ref="cwgk:O00010542">FIRST KENTUCKY REGIMENT</orgName><lb/> -- ON THE -- 
+<lb/>Presentation of a Flag to <persName ref="cwgk:N001000">Col. Bramlette</persName>,<lb/>By the <orgName ref="cwgk:O00010537">Ladies of Lexington</orgName>.<figure type="hr"/></p>
 <p>By W. F. MARVIN.<figure type="hr"/></p>
 <p>Thou lov'd cherished Banner by beauty enrolled,
 <lb/>And baring thy bosom of azure and gold;
@@ -91,8 +97,7 @@
 <lb/>We will treasure each shred and defend it with life,
 <lb/>Though shorn of its beauty, to <hi rend="italic">your </hi>beauty true,
 <lb/>We will fight for its honor, our county, and YOU.</p>
-<p>With BRAMLETTE, and SCOTT, and MCKEE, and a Host
-<lb/>Of Leaders as brave as the bravest can boast,
+<p>With BRAMLETTE, and <persName ref="cwgk:N00010543">SCOTT</persName>, and <persName ref="cwgk:N00000827">MCKEE</persName>, and a Host<lb/>Of Leaders as brave as the bravest can boast,
 <lb/>We will follow our Banner with love and with pride,
 <lb/>And return it with honor, or die by its side.</p>
   </body>
