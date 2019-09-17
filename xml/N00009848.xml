@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">James Cornelison</title>
+        <title level="a" type="main">James T. Cornelison</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00009848">
                     <persName>
-                      James Cornelison
+                      James T. Cornelison
                         (Richmond)
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <event type="death"  when="1868-02"  ><ab>1868-02</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed letter to Governor Beriah Magoffin on March 11, 1861 stating intention to serve in a militia company from Richmond, Kentucky.</p>
+        <p>SMadison County, Kentucky, farmer. Married to Tabitha Johnson Cornelison in Madison County on May 16, 1844. Father of Mary A. Cornelison and James E. Cornelison. Farmer in Madison County in 1860. Signed letter to Governor Beriah Magoffin on March 11, 1861 stating intention to serve in a militia company from Richmond, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-022-0114
+        <ab><bibl><hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Madison County Marriages, 1786-1877, Film # 000183302, p. 248
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Madison County, District 1, p. 330.
+
+KYR-0002-022-0114
+
+_ Kentucky, Wills and Probate Records, 1774-1989_, Kentucky County, District, and Probate Courts, Madison County Administrator Bonds, 1830-1869; Vol 19-20, 1970-1975 (Accessed through ancestry.com on September 17, 2019), p. 723 of microfilm.
 </bibl></ab>
     </back>
 </text>
