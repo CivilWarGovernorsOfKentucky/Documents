@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00009833">
                     <persName>
                       Isaac Rhodus
-                        (Richmond)
+                        (Madison County and Estill County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1808"  cert="medium" ><ab>c1808</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed letter to Governor Beriah Magoffin on March 11, 1861 stating intention to serve in a militia company from Richmond, Kentucky.</p>
+        <p>Madison County and Estill County, Kentucky, farmer. North Carolina native. Married Patsy Todd in Madison County on March 10, 1831. Father of Lucinda J. Rhodus, Albert Rhodus, Sally A. Rhodus, Thomas Rhodus, James Rhodus, William Rhodus, Louisa Rhodus, Martha F. Rhodus, and Cassandre Rhodus. Married Lucy Turpin in Madison County on June 10, 1862. Farmer in Estill County in 1850. Signed letter to Governor Beriah Magoffin on March 11, 1861 stating intention to serve in a militia company from Richmond, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-022-0114
+        <ab><bibl><hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Madison County Marriages, Film # 000183317, p. 443
+
+<hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Kentucky, Madison County, Eastern Division, p. 250.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Estill County, pp. 62B-63A
+
+KYR-0002-022-0114
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, X County Marriages, Film #  000183302, pp. 112 and 306
 </bibl></ab>
     </back>
 </text>
