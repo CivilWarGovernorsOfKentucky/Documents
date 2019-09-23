@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00009410">
                     <persName>
                       Isaac N. Cardwell
-                        (Booneville, KY, attorney)
+                        (Booneville, Owsley, Kentucky, attorney)
                     </persName>
                         <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
                         <trait type="race" subtype="White"/>
@@ -51,8 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Booneville, Kentucky, attorney. Kentucky native. Married to Joanah Cardwell. Father of Florence Cardwell. Attorney in Booneville in 1860.</p>
+        <p>Booneville, Owsley, Kentucky, attorney. Kentucky native. Married to Joanah Cardwell. Father of Florence Cardwell. Attorney in Booneville in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owsley County, Boonville, p. 341.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
