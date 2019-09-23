@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">William H. Shook</title>
+        <title level="a" type="main">William H. Schake</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
@@ -43,9 +47,10 @@
         <particDesc>
                 <person xml:id="N00009437">
                     <persName>
-                      William H. Shook
+                      William H. Schake
                         (Kentucky, soldier)
                     </persName>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky, soldier. Served in the North Cumberland Battalion in the Kentucky State Militia as major from December 1, 1864 to August 28, 1865.</p>
+        <p>Boonville, Warwick County, Indiana, day laborer and soldier. Native of Germany. Married to Sophiah Schake. Father of John Schake. Day laborer in Boonville in 1860. Served in the North Cumberland Battalion in the Kentucky State Militia as major from December 1, 1864 to August 28, 1865.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 776 and 958.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Warrick County, Boonville, p. 870
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 776 and 958.
+
+KYR-0002-060-0022
 </bibl></ab>
     </back>
 </text>
