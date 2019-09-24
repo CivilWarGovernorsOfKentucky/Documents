@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main"> [unknown] Unsell</title>
+        <title level="a" type="main">Elizabeth Unsell</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Tyler Campbell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Peter R. Thomas Jr.</name>
@@ -43,9 +47,10 @@
         <particDesc>
                 <person xml:id="N00006993">
                     <persName>
-                       [unknown] Unsell
-                        (Blandville, Ballard County, Kentucky, resident)
+                      Elizabeth Unsell
+                        (Blandville, Ballard Co, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -54,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in correspondence between Charles Wickliffe and Beriah Magoffin.</p>
+        <p>Blandville, Kentucky resident. Kentucky native. Daughter of David Unsell and Eilzabeth Unsell. Married to Daniel Unsell. Mother of Henry Unsell, Joseph Unsell, Lucinda Unsell. Resident in Ballard County, Kentucky, in 1850. Resident in Blandville in 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-019-0115
+        <ab><bibl>KYR-0001-019-0115.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 295A.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, Blandville, p. 412B.
 </bibl></ab>
     </back>
 </text>
