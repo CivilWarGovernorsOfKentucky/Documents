@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J H Butler</title>
+        <title level="a" type="main">Isaac H. Butler</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,26 @@
         <particDesc>
                 <person xml:id="N00011044">
                     <persName>
-                      J H Butler
+                      Isaac H. Butler
                         ()
                     </persName>
+                        <event type="birth"  when="1810"  cert="medium" ><ab>c1810</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Louisville, Jefferson County, Kentucky, butcher. Kentucky native. Father of Martha and Menda Butler. Butcher in Louisville in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, p. 251
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County p. 16B
+</bibl></ab>
+    </back>
 </text>
 </TEI>
