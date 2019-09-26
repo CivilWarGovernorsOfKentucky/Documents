@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,22 @@
                       Logan Edwards
                         ()
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Louisville, Jefferson County, Kentucky, resident. Kentucky native. Married Sally Rickerson on April 4, 1864 in Jefferson County.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Jefferson County, p. 137B
+
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, KDLA, Roll #7007130, Jefferson County Deaths, p. 512
+</bibl></ab>
+    </back>
 </text>
 </TEI>
