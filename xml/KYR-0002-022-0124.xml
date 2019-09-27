@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0124"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,17 +72,15 @@
  <text>
   <body>
    <p>Nevada Mercer Co
-<lb/>Ky <date when="1861-07-02">2 July 1861</date>
-<lb/>P Swegert Esq
-<lb/>Secty Arms. destributing Com
-<lb/>Sir</p>
+<lb/><placeName ref="cwgk:P001800">Ky</placeName> <date when="1861-07-02">2 July 1861</date>
+<lb/><persName ref="cwgk:N00002747">P Swegert Esq
+</persName><lb/>Secty <orgName ref="cwgk:O00006066">Arms. destributing Com</orgName><lb/>Sir</p>
 <p>I have organized a Company in this County under the late act of the Legeslature and wish to apply for arms.</p>
 <p>Will thank you on rect of this to Send me the forms. &amp; bond by Mail at this place</p>
 <p>Very Respy
-<lb/>C H May<pb/></p>
+<lb/><persName ref="cwgk:N00004088">C H May</persName><pb/></p>
 <p>C. S. May
-<lb/>Home Guards
-<lb/>Mercer Coun^t^y</p>
+<lb/><orgName ref="cwgk:O00009856">Home Guards</orgName><lb/>Mercer Coun^t^y</p>
 <p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <unclear>yours</unclear> <date when="1861-07-03">3<hi rend="sup">d</hi> July 1861.</date></p>
   </body>
  </text>
