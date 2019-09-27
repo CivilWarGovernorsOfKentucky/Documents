@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0125"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Harrodsburg <date when="1861-06-04">4' June '61</date>
+   <p><placeName ref="cwgk:P00000555">Harrodsburg</placeName> <date when="1861-06-04">4' June '61</date>
 <lb/>Gov<hi rend="sup">r</hi> Magoffin
 <lb/>D Sir,</p>
-<p>We have formed a Home Guard for our town under the late law on that subject, our officers are good &amp; true men, and I think we are entitled to arms, we are in that portion of the state where slavery exists to a considerable extent, and we wish to be armed, please give attention to this for us and see that we get good arms</p>
+<p>We have formed a <orgName ref="cwgk:O00009856">Home Guard</orgName> for our town under the late law on that subject, our officers are good &amp; true men, and I think we are entitled to arms, we are in that portion of the state where slavery exists to a considerable extent, and we wish to be armed, please give attention to this for us and see that we get good arms</p>
 <p>Truly yr friends'
-<lb/>W A Hooe
-<lb/>Chr Chinn</p>
-<p>P, S, This will be handed you by Capt Cardwell our captain<pb/></p>
+<lb/><persName ref="cwgk:N00003207">W A Hooe</persName><lb/><persName ref="cwgk:N00001866">Chr Chinn</persName></p>
+<p>P, S, This will be handed you by <persName ref="cwgk:N00003203">Capt Cardwell</persName> our captain<pb/></p>
 <p>Home Guard
-<lb/>Mercer Co
-<lb/>Capt Cardwell</p>
+<lb/><placeName ref="cwgk:P00000556">Mercer Co</placeName><lb/>Capt Cardwell</p>
   </body>
  </text>
 </TEI>
