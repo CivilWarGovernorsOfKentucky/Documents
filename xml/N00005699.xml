@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005699">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Stephen W Bates</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Samuel T. Whittaker</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005699">
+                    <persName>
+                      Stephen W Bates
+                        (Clay County Doctor)
+                    </persName>
+                        <event type="birth"  when="1808"  cert="medium" ><ab>c1808</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Clay County, Kentucky, physician. Kentucky native. Married to Sarah Hogan Bates. Father of Elizabeth Bates, Lucy Bates, Alicia Bates, Thomas Bates, Ellen Bates, Sally Bates, William Bates, and  Mary Bates. Physician in Clay County in 1850. Owned seven enslaved persons in Clay County in 1850. Physician in Clay County in 1860. Owned five enslaved persons in Clay County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl>Eighth Manuscript Census of the United States (1860), Population Schedule, Kentucky, Clay County, page 5.
+
+Eighth Manuscript Census of the United States (1860), Slave Schedule, Kentucky, Clay County, page 1.
+
+Ninth Manuscript Census of the United States (1870), Population Schedule, Kentucky, Clay County, Precinct 1, page 62.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
