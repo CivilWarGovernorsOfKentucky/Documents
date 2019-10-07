@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00009822">
                     <persName>
                       Joseph Roberts
-                        (Richmond)
+                        (Madison County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1841"  cert="medium" ><ab>c1841</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed letter to Governor Beriah Magoffin on March 11, 1861 stating intention to serve in a militia company from Richmond, Kentucky.</p>
+        <p>Madison County, Kentucky, resident. Son of Shadrach Roberts and Nancy Park Roberts. Resident in Madison County in 1850. Signed a letter to Governor Beriah Magoffin on March 11, 1861 stating intention to serve in a militia company from Richmond, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-022-0114
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Madison County, District 3, p. 298B
+
+KYR-0002-022-0114
 </bibl></ab>
     </back>
 </text>
