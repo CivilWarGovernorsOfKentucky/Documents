@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00009845">
                     <persName>
                       Michael O&#39;Brien
-                        (Richmond)
+                        (Richmond, KY, letter signer)
                     </persName>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +54,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed letter to Governor Beriah Magoffin on March 11, 1861 stating intention to serve in a militia company from Richmond, Kentucky.</p>
+        <p>Native of Ireland. Signed a letter to Governor Beriah Magoffin on March 11, 1861 stating intention to serve in a militia company from Richmond, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-022-0114
+        <ab><bibl><hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Rockcastle County, 94th District, p. 325B
+
+KYR-0002-022-0114
 </bibl></ab>
     </back>
 </text>
