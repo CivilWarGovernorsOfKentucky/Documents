@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. I. Burnett</title>
+        <title level="a" type="main">William J. Barnett</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,19 @@
         <particDesc>
                 <person xml:id="N00011052">
                     <persName>
-                      W. I. Burnett
-                        ()
+                      William J. Barnett
+                        (officer, 4th KY cavalry )
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Served as a first lieutenant and captain in the 4th Kentucky Cavalry (U.S.) from December 1862 to January 1865. </p>
+
+    </body>
 </text>
 </TEI>
