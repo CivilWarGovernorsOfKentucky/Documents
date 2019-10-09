@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,9 @@
                 <person xml:id="N00009843">
                     <persName>
                       John Hill
-                        (Richmond, soldier)
+                        (Richmond, KY, soldier)
                     </persName>
+                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
                         <event type="death"  when="1864-02-19"  ><ab>1864-02-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -55,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Richmond, Kentucky, soldier. Served in the 11th Kentucky Volunteer Cavalry Regiment (C.S.A.) as private and sergeant from September 10, 1862 to February 19, 1864.</p>
+        <p>Richmond, Kentucky, soldier. Served in the 11th Kentucky Volunteer Cavalry Regiment (C.S.A.) as private and sergeant from September 10, 1862 to February 19, 1864. Captured near Buffington Island, Ohio, on July 19, 1863. Prisoner of war at Camp Morton, Indiana, from July 23, 1863, to August 1863. Prisoner of war at Camp Douglas, Illinois, from August 1863 to February 19, 1864. Died of smallpox while in Camp Douglas.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 60.
+        <ab><bibl>218A.
+
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 60.
 </bibl></ab>
     </back>
 </text>
