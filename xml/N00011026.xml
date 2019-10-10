@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Wm Kitterman</title>
+        <title level="a" type="main">William Kitterman</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00011026">
                     <persName>
-                      Wm Kitterman
-                        (Jefferson County )
+                      William Kitterman
+                        (Floyd County, Indiana, laborer )
                     </persName>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,12 +55,10 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a Jefferson County, Kentucky petition to Thomas Bramlette on behalf of Thomas Figg, dated December 10, 1864. </p>
+        <p>New Albany, Floyd County, Indiana, laborer. Indiana native. Married to Martha Kitterman. Father of Lawrence E. Kitterman. Laborer in New Albany in 1860.  </p>
+
+<p>Signed a Jefferson County, Kentucky petition to Thomas Bramlette on behalf of Thomas Figg, dated December 10, 1864. </p>
 
     </body>
-    <back>
-        <ab><bibl>KYR-0001-004-1369
-</bibl></ab>
-    </back>
 </text>
 </TEI>
