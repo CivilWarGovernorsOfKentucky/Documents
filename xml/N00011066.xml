@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00011066">
                     <persName>
                       Cornelius Donovan
-                        (Mercer County, farmer, Sr. )
+                        (Mercer County, farmer, elder. )
                     </persName>
                         <event type="birth"  when="1800"  cert="medium" ><ab>c1800</ab></event>
                         <trait type="race" subtype="White"/>
@@ -51,8 +55,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mercer County, Kentucky, farmer. Virginia native. Father of Cornelius Donovan. Farmer in Mercer County in 1860.  </p>
+        <p>Mercer County, Kentucky, farmer. Virginia native. Married Martha Watts Donovan in 1826. Father of David Donovan, Ellevwen Donovan, Thomas Donovan, Jane Donovan, and Martha Donovan. Farmer in Mercer County in 1850 and 1860.  </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, p. 343B
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, p. 607
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mercer County Marriages, Film #000191850, p. 262
+</bibl></ab>
+    </back>
 </text>
 </TEI>
