@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C. C. Harvey</title>
+        <title level="a" type="main">Calvin C. Harvey</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,23 @@
         <particDesc>
                 <person xml:id="N00011091">
                     <persName>
-                      C. C. Harvey
-                        ()
+                      Calvin C. Harvey
+                        (Metcalfe County, KY, farmer )
                     </persName>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Metcalfe County, Kentucky, farmer. Kentucky native. Married to Nancy J. Harvey. Father of Prentice W. Haney, James B. Harvey, and Sanford S. Harvey. Farmer in Metcalfe County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Metcalfe County, p. 944
+</bibl></ab>
+    </back>
 </text>
 </TEI>
