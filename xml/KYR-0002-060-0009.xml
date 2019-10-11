@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0009"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brianna Kirk</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Commonwealth of Kentucky,
-<lb/>EXECUTIVE DEPARTMENT,
-<lb/>Frankfort, <date when="1864-07-20">July 20 1864.</date>
-<lb/>Genl Lindsey:</p>
-<p>Would it not be better to give Dctor Mulholland the 1<hi rend="sup">st</hi> &amp; Doct Simpson 2<hi rend="sup">nd</hi> Surgeon's Com's? -- If you think so -- so order it. -- </p>
-<p>Tho E Bramlette<pb/></p>
+   <p><orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>,<lb/>EXECUTIVE DEPARTMENT,
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1864-07-20">July 20 1864.</date>
+<lb/><persName ref="cwgk:N00000873">Genl Lindsey</persName>:</p>
+<p>Would it not be better to give <persName ref="cwgk:N00009603">Dctor Mulholland</persName> the 1<hi rend="sup">st</hi> &amp; <persName ref="cwgk:N00009633">Doct Simpson</persName> 2<hi rend="sup">nd</hi> Surgeon's Com's? -- If you think so -- so order it. -- </p>
+<p><persName ref="cwgk:N001000">Tho E Bramlette</persName><pb/></p>
 <p>Executive Department.
 <lb/>Frankfort Kentucky.
 <lb/><date when="1864-07-20">July 20 -- 1864</date>.<figure type="hr"/>
 <lb/>Gov. Bramlette.<figure type="hr"/></p>
 <p>Recommending Drs. Mulholland for Surg. and Simpson for Ast. Surg. of Reg. Capt. Guards -- <figure type="hr"/></p>
 <p>Commissions ordered as suggested <date when="1864-07-20">July 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/></p>
-<p>Rec. I. G. O. <date when="1864-07-20">July 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
+<p>Rec. <orgName ref="cwgk:O00000920">I. G. O.</orgName> <date when="1864-07-20">July 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
   </body>
  </text>
 </TEI>
