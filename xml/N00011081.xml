@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">M, B, Wallace</title>
+        <title level="a" type="main">Mortimer B. Wallace</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
@@ -43,14 +43,29 @@
         <particDesc>
                 <person xml:id="N00011081">
                     <persName>
-                      M, B, Wallace
-                        ()
+                      Mortimer B. Wallace
+                        (Metcalfe County, KY, farmer )
                     </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <event type="death"  when="1914-07-29"  ><ab>1914-07-29</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Metcalfe County, Kentucky, farmer. Kentucky native. Married to Eliza Jane Wallace. Father of Mary B. Wallace, Bettie Wallace, Henry G. Wallace, and McClellan Wallace, and Mary J. Wallace. Farmer in Metcalfe County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Adair County, p. 130
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, GCounty, p. 244B
+
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016166, Metcalfe County Deaths, File #19219.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
