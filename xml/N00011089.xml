@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">S. J. Walker</title>
+        <title level="a" type="main">Sanders J. Walker</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,27 @@
         <particDesc>
                 <person xml:id="N00011089">
                     <persName>
-                      S. J. Walker
-                        ()
+                      Sanders J. Walker
+                        (Metcalfe County, KY, farmer )
                     </persName>
+                        <event type="birth"  when="1844-06-26"  ><ab>1844-06-26</ab></event>
+                        <event type="death"  when="1915-03-12"  ><ab>1915-03-12</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Barren County, Kentucky, resident. Kentucky native. Son of St. Clair Walker and Martha Walker. Resident of Barren County in 1850. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;Sanders Walker (June 26, 1844-March 12, 1915),&quot; Memorial #27433460, http://www.findagrave.com/memorial/27433460 (accessed October 14, 2019).
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Metcalfe County, p. 492A
+</bibl></ab>
+    </back>
 </text>
 </TEI>
