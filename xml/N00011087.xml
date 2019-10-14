@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J W Ball</title>
+        <title level="a" type="main">James W. Ball</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,8 +43,8 @@
         <particDesc>
                 <person xml:id="N00011087">
                     <persName>
-                      J W Ball
-                        ()
+                      James W. Ball
+                        (Metcalfe County, KY, farmer )
                     </persName>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -48,5 +52,9 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;Name (Birth-Death),&quot; Memorial #XXXXXXXX, http://www.findagrave.com/memorial/XXXXXXXX (accessed January X, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
