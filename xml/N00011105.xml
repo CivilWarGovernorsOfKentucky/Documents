@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,22 @@
                 <person xml:id="N00011105">
                     <persName>
                       W. A. Byrne
-                        ()
+                        (Logan County, Ky, prov govt)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Reported as member of the convention of the provisional government held at Russellville, Kentucky, in November 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0004-033-0001.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
