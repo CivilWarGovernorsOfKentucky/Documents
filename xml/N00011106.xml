@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">morton</title>
+        <title level="a" type="main">W.B. Morton Jr.</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,23 @@
         <particDesc>
                 <person xml:id="N00011106">
                     <persName>
-                      morton
-                        ()
+                      W.B. Morton Jr.
+                        (Logan Co, Ky, prov govt)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Reported as member of the convention of the provisional government held at Russellville, Kentucky, in November 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0004-033-0001.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
