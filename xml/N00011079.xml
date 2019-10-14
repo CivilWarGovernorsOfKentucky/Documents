@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. T. Franklin</title>
+        <title level="a" type="main">Roger T. Franklin</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,24 @@
         <particDesc>
                 <person xml:id="N00011079">
                     <persName>
-                      R. T. Franklin
-                        ()
+                      Roger T. Franklin
+                        (Metcalfe County, KY, farmer )
                     </persName>
+                        <event type="birth"  when="1810"  cert="medium" ><ab>c1810</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Metcalfe County, Kentucky, farmer. Virginia native. Married to Milley T. Franklin. Father of John W. Franklin, Sarah E. Franklin, Mary T. Franklin, Susan Franklin, Richard G. Franklin, and William B. Franklin. Farmer in Barren County in 1850. Farmer in Metcalfe County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Metcalfe County, p. 478A
+</bibl></ab>
+    </back>
 </text>
 </TEI>
