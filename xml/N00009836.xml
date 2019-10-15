@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Emmett Harris</title>
+        <title level="a" type="main">Robert Emmet Harris</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00009836">
                     <persName>
-                      Emmett Harris
-                        (Richmond)
+                      Robert Emmet Harris
+                        (Madison County, KY, farm laborer)
                     </persName>
+                        <event type="birth"  when="1840-12-24"  ><ab>1840-12-24</ab></event>
+                        <event type="death"  when="1900-12-05"  ><ab>1900-12-05</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,23 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed letter to Governor Beriah Magoffin on March 11, 1861 stating intention to serve in a militia company from Richmond, Kentucky.</p>
+        <p>Madison County, Kentucky, farm laborer. Kentucky native. Son of John M. Harris and Sally A. Harris. Farm laborer in Madison County in 1850. Household owned three enslaved persons in Madison County in 1850. Farm laborer in Madison County in 1860.  Household owned three enslaved persons in Madison County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-022-0114
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Madison County,District 1, p. 208A
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Madison County,Richmond, p. 2
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Madison County, Western Subdivision No. 2, p. 253
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Madison County,Richmond, p. 475 (p. 5 of microfilm).
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Madison County, Richmond, p. 251B
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Madison County Marriages, Film #000183302 , p. 273 of microfilm
+
+<hi rend="italic">Find A Grave</hi>, &quot;Robert Emmet Harris (1840-1900),&quot; Memorial #59760909, https://www.findagrave.com/memorial/59760909/robert-emmet-harris, (accessed October 14, 2019).
 </bibl></ab>
     </back>
 </text>
