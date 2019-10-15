@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. D. Newman</title>
+        <title level="a" type="main">William O. Newman</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,32 @@
         <particDesc>
                 <person xml:id="N00011077">
                     <persName>
-                      W. D. Newman
-                        ()
+                      William O. Newman
+                        (Metcalfe County, KY, merchant)
                     </persName>
+                        <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Metcalfe County, Kentucky, merchant. Virginia native. Postmaster in Barren County in 1842. Owned three enslaved persons in Barren County in 1850. Merchant in Barren County in 1850. Postmaster in Barren County in 1857. Owned five enslaved persons in Metcalfe County in 1860. Merchant in Metcalfe County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Barren County, p. 428A
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Metcalfe County, p. 955
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Barren County, p. 207
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Metcalfe County, p. 66B
+
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, p. 110, (accessed via Ancestry.com).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
