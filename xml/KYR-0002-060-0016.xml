@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0016"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>HEAD-QUARTERS KENT'Y STATE GUARD,
-<lb/>Inspector General's Office,
-<lb/>Frankfort, Ky., <date when="1864-06-17">June 17<hi rend="sup">th</hi> 1864</date>.</p>
-<p>Authority is hereby given to Capts Sanford Goins and Albert Bayless to raise a company of Eighty-=three (83) men to be used as a Battery in the State Guard service. -- </p>
-<p>D, W, Lindsey
-<lb/>Ins. Gen<hi rend="sup">l</hi> of Ky</p>
+   <p>HEAD-QUARTERS <orgName ref="cwgk:O00000902">KENT'Y STATE GUARD</orgName>,<lb/><orgName ref="cwgk:O00000920">Inspector General's Office</orgName>,<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>., <date when="1864-06-17">June 17<hi rend="sup">th</hi> 1864</date>.</p>
+<p>Authority is hereby given to Capts <persName ref="cwgk:N00009355">Sanford Goins</persName> and <persName ref="cwgk:N00009391">Albert Bayless</persName> to raise a company of Eighty-=three (83) men to be used as a Battery in the State Guard service. -- </p>
+<p><persName ref="cwgk:N00000873">D, W, Lindsey</persName><lb/>Ins. Gen<hi rend="sup">l</hi> of Ky</p>
 <p>Approved
-<lb/>Tho E Bramlette
-<lb/>Govr</p>
+<lb/><persName ref="cwgk:N001000">Tho E Bramlette</persName><lb/>Govr</p>
 <p>It is agreed that if Capts Goins and Bayless raise Forty-two (42) men -- the number required by the State Guard Law. the Company will be mustered into the State Guard Service, and it will be allowed a corresponding number of officers- say a Capt and Lieut. -- </p>
 <p>D, W, Lindsey
 <lb/>Ins. Gen<hi rend="sup">l</hi> of Ky<pb/></p>
@@ -84,7 +88,7 @@
 <lb/>Mattingly B.
 <lb/>1 Lt.<figure type="hr"/></p>
 <p>Issue com<hi rend="underline"><hi rend="sup">s</hi></hi> as Capt to S. Goins to date from 1<hi rend="sup">s</hi> Enlistment. To Mattingly as 1<hi rend="sup">s</hi> Lt to date from date of 42<hi rend="sup">d</hi> Enlistment.</p>
-<p><hi rend="underline">Boyle</hi></p>
+<p><persName ref="cwgk:N00000879">Boyle</persName></p>
 <p>Coms iss<hi rend="sup">d</hi> &amp; del<hi rend="sup">d</hi>
 <lb/><date when="1864-07-29"><hi rend="underline">July 29. 1864</hi></date></p>
   </body>
