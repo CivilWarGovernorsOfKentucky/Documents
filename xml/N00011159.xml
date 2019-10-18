@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J J Fleming</title>
+        <title level="a" type="main">Joshua J. Fleming</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,31 @@
         <particDesc>
                 <person xml:id="N00011159">
                     <persName>
-                      J J Fleming
-                        ()
+                      Joshua J. Fleming
+                        (Bath County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1815-12-26"  ><ab>1815-12-26</ab></event>
+                        <event type="death"  when="1894-06-17"  ><ab>1894-06-17</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Bath County, Kentucky, farmer. Kentucky native. Married Nancy Lackett Fleming in May 1839 in Bath County. Farmer in Bath County in 1860.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath County, p. 56B
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bath County, p. 23
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Bath County Marriages, Film #000273004, p. 301
+
+<hi rend="italic">Find A Grave</hi>, &quot;J. J. Fleming (1815-1894),&quot; Memorial #94283020, http://www.findagrave.com/memorial/94283020 (accessed October 18, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
