@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Ben Wick Spalding</title>
+        <title level="a" type="main">Benedict Spalding</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Brianna Kirk</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00009946">
                     <persName>
-                      Ben Wick Spalding
-                        ()
+                      Benedict Spalding
+                        (Marion County, Kentucky, blacksmith and farme)
                     </persName>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in a letter from Paul J. Rattigan to Governor Thomas E. Bramlette on September 14, 1864, in Montgomery County, Kentucky.</p>
+        <p>Marion County, Kentucky, blacksmith and farmer. Married to Caroline Spalding. Father of Mary Spalding, Ben F.  Spalding, Samuel Spalding, Ann E. Spalding. Blacksmith in Marion County in 1850. Farmer in Marion County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-022-0118
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, District 1, p. 335A
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, District 2, p. 649.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, New Market, p. 137A
+
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Marion County, Raywick, p. 145A
 </bibl></ab>
     </back>
 </text>
