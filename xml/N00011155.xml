@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,27 @@
                 <person xml:id="N00011155">
                     <persName>
                       James Dawson
-                        ()
+                        (Bath County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Bath County, Kentucky, farmer. Kentucky native. Married Elizabeth Goodpasture Dawson in July 1835 in Bath County. Father of Mary Dawson, Prudence Dawson, Cynthia A. Dawson, Jefferson Dawson, Artemisia Dawson, Charles Dawson, and William Dawson. Farmer in Bath County in 1850 and 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath County, p. 87B
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bath County, p. 80
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Bath County Marriages, Film #000273004, p. 539
+</bibl></ab>
+    </back>
 </text>
 </TEI>
