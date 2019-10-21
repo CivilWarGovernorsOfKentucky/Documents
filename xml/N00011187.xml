@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">L. W. Garth</title>
+        <title level="a" type="main">Lewis W. Garth</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,32 @@
         <particDesc>
                 <person xml:id="N00011187">
                     <persName>
-                      L. W. Garth
-                        ()
+                      Lewis W. Garth
+                        (Todd Co, Ky, farmer and prov govt)
                     </persName>
+                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Todd County, Kentucky, farmer and provisional government convention member. Virginia native. Married to Lucy T. Cross Garth in Todd County, Kentucky, on November 28, 1846. Father of Elizabeth Garth, William T. Garth, Hortense M. Garth, Kate D. Garth. Owned five enslaved persons in Todd County in 1850. Farmer in Todd County in 1860. Owned fifty-seven enslaved persons in Todd County in 1860. Member of the convention of the provision government held at Russellville in November 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Todd County, District 1.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Todd County, p. 752-753.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Todd County, p. 361B-362A.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Todd County, Trenton, p. 466B.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Todd County Marriages, Film #000367186.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
