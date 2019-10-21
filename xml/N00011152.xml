@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Jos T Swetmane</title>
+        <title level="a" type="main">Joseph Thomas Swetman</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,27 @@
         <particDesc>
                 <person xml:id="N00011152">
                     <persName>
-                      Jos T Swetmane
+                      Joseph Thomas Swetman
                         ()
                     </persName>
+                        <event type="birth"  when="1800-01-02"  ><ab>1800-01-02</ab></event>
+                        <event type="death"  when="1886-09-27"  ><ab>1886-09-27</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Bath County, Kentucky, farmer and soldier. Virginia native. Married to Mary Swetman. Father of Elizabeth A. Swetman, M. A. Swetman, John J. Y. Swetman, William W. Swetman, Ann E. Swetman, Mary M. Swetman, Charlotte J. Swetman, Nancy L. Swetman, and Sarah F Swetman. Appointed Lieutenant Colonel of the 65th Regiment of Kentucky Militia in 1839. Farmer in Bath County in 1850. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath County, p. 77B
+
+<hi rend="italic">Find A Grave</hi>, &quot;Jos T. Swetman (1800-1886),&quot; Memorial #68470094, http://www.findagrave.com/memorial/68470094 (accessed October 21, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
