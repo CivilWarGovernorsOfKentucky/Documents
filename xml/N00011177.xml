@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. Richmond</title>
+        <title level="a" type="main">Johon Richmond</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,26 @@
         <particDesc>
                 <person xml:id="N00011177">
                     <persName>
-                      J. Richmond
-                        ()
+                      Johon Richmond
+                        (Todd Co, Ky, farmer and prov govt)
                     </persName>
+                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Todd County, Kentucky, farmer and provisional government convention member. Tennessee native. Married to Sarah Richmond. Father of L.J. Richmond, N.A.Richmond, T.B. Richmond. Farmer in Todd County, Kentucky, in 1860. Member of the convention of the provisional government held at Russellville in 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Todd County, p. 808.
+
+KYR-0004-033-0001.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
