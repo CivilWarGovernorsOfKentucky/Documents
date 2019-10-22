@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C H Cartmill</title>
+        <title level="a" type="main">Charles H. Cartmill</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,21 @@
         <particDesc>
                 <person xml:id="N00011143">
                     <persName>
-                      C H Cartmill
+                      Charles H. Cartmill
                         ()
                     </persName>
+                        <event type="birth"  when="1810-11-16"  ><ab>1810-11-16</ab></event>
+                        <event type="death"  when="1876-06-12"  ><ab>1876-06-12</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;Charles H. Cartmill (1810-1876),&quot; Memorial #94283003, http://www.findagrave.com/memorial/94283003 (accessed October 22, 2019).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
