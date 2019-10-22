@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0021"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,34 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Headquarters Kentucky Volunteers,
-<lb/>Adjutant=General's Office,
-<lb/>Frankfort, <date when="1865-09-06">Sep 6, 1865</date>.
+   <p>Headquarters <orgName ref="cwgk:O00000870">Kentucky Volunteers</orgName>,<lb/><orgName ref="cwgk:O00000388">Adjutant=General's Office</orgName>,<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1865-09-06">Sep 6, 1865</date>.
 <lb/>Special Orders
 <lb/>No 76</p>
-<p>Lt H L Keesee of Co B North <unclear/> <unclear/>ion will be mustered out as 1<hi rend="sup">s</hi> Lt to date the 19 of m<unclear/> to complete his record.</p>
-<p>And whereas there is an incomplete muster of the following named officers on file in this office, made by Maj C. W. Quiggins Special Mustering officer for the State, Lt C Haydon State Mustering officer is hereby directed to muster them in, in their respective grades, as of the date set opposite their names</p>
+<p><persName ref="cwgk:N00009429">Lt H L Keesee</persName> of Co B North <unclear/> <unclear/>ion will be mustered out as 1<hi rend="sup">s</hi> Lt to date the 19 of m<unclear/> to complete his record.</p>
+<p>And whereas there is an incomplete muster of the following named officers on file in this office, made by <persName ref="cwgk:N00009430">Maj C. W. Quiggins</persName> Special Mustering officer for the State, <persName ref="cwgk:N00000871">Lt C Haydon</persName> <orgName ref="cwgk:O001025">State</orgName> Mustering officer is hereby directed to muster them in, in their respective grades, as of the date set opposite their names</p>
 <p>It appearing from proper information that they have performed the duties as such, by proper authority from the dates mentioned. viz
-<lb/><table rend="rules">
-<row>
-	<cell>H. L. Keesee</cell>
-	<cell>Capt Co B</cell>
-	<cell>to date <date when="1865-03-20">20 March 1865</date></cell>
-</row>
-<row>
-	<cell>Douglas Imes</cell>
-	<cell>1<hi rend="sup">st</hi> Lt (Vice K pro)</cell>
-	<cell><date when="1865-03-20">" 20 " "</date></cell>
-</row>
-<row>
-	<cell>Jno L. Lamb</cell>
-	<cell>2<hi rend="sup">nd</hi> Lt</cell>
-	<cell><date when="1865-03-20">" 20 " "</date></cell>
-</row>
-</table></p>
-<p>By order of the Govenor
-<lb/>D. W. Lindsey
-<lb/>adj Genl of Ky</p>
+<lb/>	<persName ref="cwgk:N00009432">Jno L. Lamb</persName></p>
+<p>By order of the <persName ref="cwgk:N001000">Govenor</persName><lb/><persName ref="cwgk:N00000873">D. W. Lindsey</persName><lb/>adj Genl of Ky</p>
   </body>
  </text>
 </TEI>
