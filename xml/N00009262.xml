@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. C. Sneed</title>
+        <title level="a" type="main">William C. Sneed</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00009262">
                     <persName>
-                      W. C. Sneed
-                        (Franklin County Physician)
+                      William C. Sneed
+                        (Franklin County, Kentucky, physician)
                     </persName>
-                        <event type="birth"  when="1813"  ><ab>1813</ab></event>
+                        <event type="birth"  when="1812"  ><ab>1812</ab></event>
+                        <event type="death"  when="1862-11-20"  ><ab>1862-11-20</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,11 +56,21 @@
     </teiHeader>
     <text>
     <body>
-        <p>Franklin County, Kentucky, physician. Kentucky native. Married to Sarah H. Sneed. Father of Anne E. Sneed, John L. Sneed, Russell Sneed, Sarah H. Sneed. Physician in Franklin County in 1860.</p>
+        <p>Franklin County, Kentucky, physician. Kentucky native. Married to Sarah H. Sneed. Father of Anne E. Sneed, John L. Sneed, Russell Sneed, Sarah H. Sneed, and William C. Sneed. Physician in Franklin County in 1850. Owned five enslaved persons in Franklin County in 1850. Physician in Franklin County in 1860. Owned seven enslaved persons in Franklin County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 259.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Franklin County, District 1, p. 127B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Franklin County, District 1, p. 860.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 259.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Franklin County, Frankfort, p. 491B.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 34B.
+
+<hi rend="italic">Find A Grave</hi>, &quot;William Clark Sneed (1812-1862),&quot; Memorial #63969571, http://www.findagrave.com/memorial/63969571 (accessed October 23, 2019).
 </bibl></ab>
     </back>
 </text>
