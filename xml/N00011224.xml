@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J.W. Chiles</title>
+        <title level="a" type="main">James W. Chiles</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00011224">
                     <persName>
-                      J.W. Chiles
+                      James W. Chiles
                         (Todd Co, Ky, farmer and prov govt)
                     </persName>
-                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <event type="birth"  when="1843-02-22"  ><ab>1843-02-22</ab></event>
+                        <event type="death"  when="1923-07-14"  ><ab>1923-07-14</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,11 +56,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Todd County, Kentucky, farmer and provisional government convention member. Kentucky native. Son of F.N. Chiles and S.E. Chiles. Farmer in Todd County, Kentucky, in 1860. Member of the convention of the provisional government held at Russellville in November 1861.</p>
+        <p>Todd County, Kentucky, farmer and provisional government convention member. Kentucky native. Son of F.N. Chiles and S.E. Chiles. Married to Clemmie C. Chiles. Farmer in Todd County, Kentucky, in 1860. Member of the convention of the provisional government held at Russellville in November 1861.</p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Todd County, p. 762.
+
+KYR-0004-033-0001.
 </bibl></ab>
     </back>
 </text>
