@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,25 @@
                       W.T. Owsley
                         (Ballard Co, Ky, prov govt)
                     </persName>
+                        <event type="birth"  when="1844"  cert="medium" ><ab>c1844</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Ballard County, Kentucky, physician and provisional government convention member. Kentucky native. Married to Emma L. Owsley, Bettie L. Owsley, Mary C. Owsley, Margarette A. Owsley, Jennie Owsley, William J. Owsley, Florence M. Owsley. Physician in Lovelaceville, Kentucky, in 1860. Member of the convention of the provisional government held at Russellville in November 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Lovelaceville, p. 706.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, McCracken County, Precinct 6, p. 84B.
+
+KYR-0004-033-0001.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
