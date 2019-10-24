@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-101-0005"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -44,7 +52,7 @@
       <settlement>Frankfort</settlement>
       <repository>Kentucky Historical Society</repository>
       <collection>Charles W. Quiggins papers</collection>
-      <idno></idno>
+      <idno/>
      </msIdentifier>
     </msDesc>
    </sourceDesc>
@@ -64,29 +72,27 @@
  <text>
   <body>
    <p>IN THE NAME AND BY THE AUTHORITY OF
-<lb/>The Commonwealth of Kentucky,
-<lb/><figure type="seal"><ab>KENTUCKY
+<lb/>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>,<lb/><figure type="seal"><ab>KENTUCKY
 <lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure>
-<lb/>THOMAS E. BRAMLETTE,
-<lb/>GOVERNOR OF SAID COMMONWEALTH.
+<lb/><persName ref="cwgk:N001000">THOMAS E. BRAMLETTE</persName>,<lb/>GOVERNOR OF SAID COMMONWEALTH.
 <lb/>To all whom these Presents shall come, Greeting:</p>
-<p>Know Ye, That Charles W. Quiggens having been duly appointed to the office of Major 1<hi rend="underline"><hi rend="sup">st</hi></hi> Battalion In the Capitol Guard Regiment of Kentucky State troops organized under the Acts of the General Assembly of the Commonwealth:</p>
+<p>Know Ye, That <persName ref="cwgk:N00009430">Charles W. Quiggens</persName> having been duly appointed to the office of Major 1<hi rend="underline"><hi rend="sup">st</hi></hi> Battalion In the <orgName ref="cwgk:O00009331">Capitol Guard Regiment</orgName> of <orgName ref="cwgk:O00000916">Kentucky State troops</orgName> organized under the Acts of the <orgName ref="cwgk:O00000923">General Assembly of the Commonwealth</orgName>:</p>
 <p>NOW KNOW YOU, That, by the powers vested in me by the Constitution and Laws of said State, and reposing special trust and confidence in your patriotism, valor, fidelity, and ability, I do, by these presents Commission you as Major as aforesaid, for the term <hi rend="str">prescribed by law</hi> of six months unless sooner discharged, upon condition that you take the oath indorsed hereon, within ten days from receipt hereof, sending a certificate thereof to General Headquarters; and I do hereby authorize and require you to discharge, all and singular, the duties and services appertaining to your said office, agreeably to law and general regulations, and to obey such orders and instructions as you shall, from time to time, receive from your superior officers.</p>
 <p><figure type="seal"><ab>SEAL OF KENTUCKY
 <lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
-<p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the State of Kentucky to be affixed, at Frankfort, the <date when="1864-07-20">twentieth day of July, in the year of our Lord one thousand eight hundred and sixty=four</date> and in the seventy=third year of the Commonwealth.</p>
+<p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the State of Kentucky to be affixed, at<placeName ref="cwgk:P00000308"> Frankfort</placeName>, the <date when="1864-07-20">twentieth day of July, in the year of our Lord one thousand eight hundred and sixty=four</date> and in the seventy=third year of the Commonwealth.</p>
 <p>Thos E Bramlette</p>
 <p>BY THE GOVERNOR:
-<lb/>E. L. VanWinkle, Secretary of State</p>
-<p>By Jas R Page
-<lb/>Asst Secty</p>
-<p>Commonwealth Office -- WM. E. HUGHES, State Printer.<pb/></p>
+<lb/><persName ref="cwgk:N001777">E. L. VanWinkle</persName>, Secretary of State</p>
+<p>By <persName ref="cwgk:N001778">Jas R Page
+</persName><lb/>Asst Secty</p>
+<p>Commonwealth Office -- <persName ref="cwgk:N00002718">WM. E. HUGHES</persName>, State Printer.<pb/></p>
 <p>OATH.<figure type="hr"/></p>
 <p>I do solemnly swear, that I will support the Constitution of the United States and the Constitution of this State, and be faithful and true to the Commonwealth of Kentucky, so long as I continue a citizen thereof, and that I will faithfully execute, to the best of my abilities, the office of Major 1<hi rend="underline"><hi rend="sup">'</hi></hi> Battalion according to law; and I do further solemnly swear, that since the adoption of the present Constitution, I being a citizen of this State, have not fought a duel with deadly weapons, within this State nor out of it, with a citizen of this State; nor have I sent or accepted a challenge to fight a duel with deadly weapons, with a citizen of this State; nor have I acted as second in carrying a challenge, or aided or assisted any person thus offending -- so help me God.</p>
 <p>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> W. Quiggins</p>
 <p>Subscribed and sworn before me, a <hi rend="str">Justice of the Peace</hi> Notary Public for Franklin County, Kentucky, this <date when="1864-07-20">20" day of July, 1864</date>.</p>
 <p>Cha<hi rend="sup">s</hi> Haydon
-<lb/><hi rend="str">Justice of the Peace</hi> Notary Public for Franklin County</p>
+<lb/><hi rend="str">Justice of the Peace</hi> Notary Public for <placeName ref="cwgk:P001019">Franklin County</placeName></p>
 <p>This is to certify that I have this day mustered Cha<hi rend="sup">s</hi> W. Quiggens as Major. to take effect from date of his commission <date when="1864-07-20">July 20. 1864</date>.</p>
 <p><hi rend="underline">Cha</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> Haydon</hi>
 <lb/><hi rend="underline">Mustering Officer</hi></p>
