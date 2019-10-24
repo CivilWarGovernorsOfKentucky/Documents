@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-101-0011"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -44,7 +52,7 @@
       <settlement>Frankfort</settlement>
       <repository>Kentucky Historical Society</repository>
       <collection>Charles W. Quiggins papers</collection>
-      <idno></idno>
+      <idno/>
      </msIdentifier>
     </msDesc>
    </sourceDesc>
@@ -63,18 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Headquarters Kentucky Volunteers,
-<lb/>Adjutant=General's Office,
-<lb/>Frankfort, <date when="1865-03-27">March 27<hi rend="underline"><hi rend="sup">th</hi></hi>, 1865</date>.
-<lb/>MajC. W. Quiggens
-<lb/>Capitol Guards
-<lb/>Frankfort Ky
-<lb/>Maj.</p>
-<p>I have the honor to inform you, that the "Court of Inquiry", appointed by Genl Orders No 5, Adjt Genls Office dated <date when="1865-03-25">March 25<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>, will meet at Inspr Genls Office this day at 2-O-clock P,M,</p>
+   <p>Headquarters <orgName ref="cwgk:O00000870">Kentucky Volunteers</orgName>,<lb/><orgName ref="cwgk:O00000388">Adjutant=General's Office</orgName>,<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1865-03-27">March 27<hi rend="underline"><hi rend="sup">th</hi></hi>, 1865</date>.
+<lb/><persName ref="cwgk:N00009430">MajC. W. Quiggens</persName><lb/><orgName ref="cwgk:O00009331">Capitol Guards</orgName><lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> <placeName ref="cwgk:P001800">Ky
+</placeName><lb/>Maj.</p>
+<p>I have the honor to inform you, that the "Court of Inquiry", appointed by Genl Orders No 5, Adjt Genls Office dated <date when="1865-03-25">March 25<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>, will meet at <orgName ref="cwgk:O00000920">Inspr Genls Office</orgName> this day at 2-O-clock P,M,</p>
 <p>Very Respectfully
 <lb/>Your Obdt Servt
-<lb/>C. J, Clarke
-<lb/>Lieut &amp; A, D, C,
+<lb/><persName ref="cwgk:N00009340">C. J, Clarke</persName><lb/>Lieut &amp; A, D, C,
 <lb/>Judge A &amp; Recd<pb/></p>
 <p><date when="1865-03-27">March 27<hi rend="underline"><hi rend="sup">th</hi></hi> 165</date></p>
   </body>
