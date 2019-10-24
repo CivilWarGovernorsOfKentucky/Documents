@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0049"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p><date when="1863-09-12">Louisville Sep. 12. 1863</date>
-<lb/>Gov. Bramblette
-<lb/>Sir,</p>
+   <p>
+<placeName ref="cwgk:P00000337">Louisville</placeName> Sep. 12. 1863<lb/><persName ref="cwgk:N001000">Gov. Bramblette</persName><lb/>Sir,</p>
 <p>This will introduce to you my brother D<hi rend="underline"><hi rend="sup">r</hi></hi> Jacob &amp; James Cornell who will bring you a petition and hope you will give it a favorable consideration.</p>
 <p>respectfully,
 <lb/>Richard T. Jacob</p>
