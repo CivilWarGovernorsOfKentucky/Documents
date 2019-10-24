@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0118"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brianna Kirk</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,27 +71,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>M<hi rend="sup">t</hi> Sterling Ky. <date when="1864-09-14">14" Sep' 1864</date>
+   <p>M<hi rend="sup">t</hi> Sterling <placeName ref="cwgk:P001800">Ky</placeName>. <date when="1864-09-14">14" Sep' 1864</date>
 <lb/>To
 <lb/>His Excellency
 <lb/>Tho<hi rend="sup">s</hi>, E. Bramlette,
-<lb/>Frankfort. Ky
-<lb/>Sir</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>. <placeName ref="cwgk:P001800">Ky</placeName><lb/>Sir</p>
 <p>I beg to inform your Excellency that I believe I can raize a Company of Men for Train and Railroad protection: or, any other duty subject to your Excellency's order-- but-- unattached to any Regment-- if you will Commission me to do so,</p>
-<p>I beg most respectfully to refer your Excellency to the following citizens of Lebanon Ky.</p>
-<p>Messrs. L, A. Spaulding, Wick Ben -- Spaulding, Len Edlin, and William Brickin,</p>
+<p>I beg most respectfully to refer your Excellency to the following citizens of <placeName ref="cwgk:P00002553">Lebanon</placeName> Ky.</p>
+<p>Messrs. <persName ref="cwgk:N00009945">L, A. Spaulding</persName>, Wick Ben -- Spaulding, <persName ref="cwgk:N00009947">Len Edlin</persName>, and <persName ref="cwgk:N00009949">William Brickin</persName>,</p>
 <p>Most respectfully
 <lb/>Your Excellency's
 <lb/>Humble Servant
-<lb/>Paul. J. Rattigan<pb/></p>
-<p>Ky State Guard
-<lb/>Mt. Sterling Ky
+<lb/><persName ref="cwgk:N00009948">Paul. J. Rattigan</persName><pb/></p>
+<p><orgName ref="cwgk:O00000303">Ky State Guard</orgName><lb/>Mt. Sterling Ky
 <lb/><date when="1864-09-14">Septr 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
 <lb/>Rattigan Paul. J.<figure type="hr"/>
 <lb/>To the Gov. and referred</p>
 <p>Asking authority to raise a Company for train or R. R. duty or any other. subject to the Govrnors order; but does not want to be attached to a Regt. Refers to divers gentlemen of Lebanon Ky.<figure type="hr"/></p>
 <p>ansd pag 83 Ltr BK B<figure type="hr"/></p>
-<p>R. I G O. <date when="1864-09-16">Septr 16-- 1864</date></p>
+<p>R. <orgName ref="cwgk:O00000920">I G O</orgName>. <date when="1864-09-16">Septr 16-- 1864</date></p>
   </body>
  </text>
 </TEI>
