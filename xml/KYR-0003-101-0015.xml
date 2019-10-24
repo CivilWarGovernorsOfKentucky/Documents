@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-101-0015"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -44,7 +52,7 @@
       <settlement>Frankfort</settlement>
       <repository>Kentucky Historical Society</repository>
       <collection>Charles W. Quiggins papers</collection>
-      <idno></idno>
+      <idno/>
      </msIdentifier>
     </msDesc>
    </sourceDesc>
@@ -63,16 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Headquarters Kentucky Volunteers,
-<lb/>ADJUTANT-GENERAL'S OFFICE,
-<lb/>Frankfort, <date when="1865-04-07">April 7, 1865</date>.
+   <p>Headquarters <orgName ref="cwgk:O00000870">Kentucky Volunteers</orgName>,<lb/><orgName ref="cwgk:O00000388">ADJUTANT-GENERAL'S OFFICE</orgName>,<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1865-04-07">April 7, 1865</date>.
 <lb/>GENERAL ORDERS
 <lb/>No. 10.</p>
-<p>I. At a Military Court-Martial, which convened at Frankfort, Ky., on the <date when="1865-04-05">5th April, 1865</date>, pursuant to General Orders No. 9, dated Headquarters Kentucky Volunteers, Adjutant-General's Office, Frankfort, Ky., <date when="1865-04-05">April 5th, 1865</date>, and of which Major Charles W. Quiggins, First Kegiment Kentucky State forces, is President, were arraigned and tried -- </p>
-<p>I. Private ISHAM EDWARDS, Casey County State Guard.</p>
+<p>I. At a Military Court-Martial, which convened at Frankfort, Ky., on the <date when="1865-04-05">5th April, 1865</date>, pursuant to General Orders No. 9, dated Headquarters Kentucky Volunteers, Adjutant-General's Office, Frankfort, Ky., <date when="1865-04-05">April 5th, 1865</date>, and of which Major <persName ref="cwgk:N00009430">Charles W. Quiggins</persName>, <orgName ref="cwgk:O00009331">First Kegiment Kentucky State forces</orgName>, is President, were arraigned and tried -- </p>
+<p>I. Private <persName ref="cwgk:N00010993">ISHAM EDWARDS</persName>, <orgName ref="cwgk:O00010992">Casey County State Guard.</orgName></p>
 <p>CHARGE.
 <lb/>"<hi rend="italic">Absence without leave.</hi>"
-<lb/><hi rend="italic">Specification</hi>. -- In this: that said ISHAM EDWARDS, private Casey County State Guard Company, having been duly enlisted into the service of the State of Kentucky, did, on or about the <date when="1865-03-11">11th day of March, 1865</date>, absent himself from his command without proper authority, and did remain away until arrested on the <date when="1865-04-01">1st day of April, 1865</date>, by Lieut. Wm. Rains.</p>
+<lb/><hi rend="italic">Specification</hi>. -- In this: that said ISHAM EDWARDS, private <placeName ref="cwgk:P00004352">Casey County</placeName> State Guard Company, having been duly enlisted into the service of the State of Kentucky, did, on or about the <date when="1865-03-11">11th day of March, 1865</date>, absent himself from his command without proper authority, and did remain away until arrested on the <date when="1865-04-01">1st day of April, 1865</date>, by Lieut. <persName ref="cwgk:N00011004">Wm. Rains</persName>.</p>
 <p>To which charge and specification the prisoner, private ISHAM EDWARDS, Casey County State Guard, plead "<hi rend="italic">Guilty.</hi>"</p>
 <p>FINDING.</p>
 <p>The Court having maturely considered the evidence adduced, finds the prisoner, private ISHAM EDWARDS, Casey County State Guard, as follows: 
@@ -107,7 +113,7 @@
 <p>III. Corporal WESLEY W. HARR, Casey County State Guard.</p>
 <p>CHARGE.</p>
 <p>"<hi rend="italic">Conduct prejudicial to good order and military discipline.</hi>"
-<lb/><hi rend="italic">Specification</hi> 1. -- That Corporal WESLEY W. HARR did, on the night of <date when="1865-03-24">March 24th, 1865</date>, accept a hire to do another man's duty, violating the 47th and 48th Articles, Army Regulations.</p>
+<lb/><hi rend="italic">Specification</hi> 1. -- That Corporal <persName ref="cwgk:N00011006">WESLEY W. HARR</persName> did, on the night of <date when="1865-03-24">March 24th, 1865</date>, accept a hire to do another man's duty, violating the 47th and 48th Articles, Army Regulations.</p>
 <p><hi rend="italic">Specification</hi> 2. -- That the said Corporal WESLEY W. HARR did state that he had served three years, and had always done as he pleased, and he would be d -- -- d if he did not intend to continue to do so.</p>
 <p>To which charges and specifications the prisoner, Corporal WESLEY W. HARR, plead as follows, viz:</p>
 <p><hi rend="italic">Specification</hi> 1, CHARGE 1, "Not Guilty."
@@ -122,10 +128,9 @@
 <lb/>SENTENCE.</p>
 <p>And the Court does therefore sentence him, Corporal WESLEY W. HARR, of the Casey County State Guard, to be reduced to the ranks, and to forfeit one month's pay and allowances.</p>
 <p>Finding and sentence in case of Corporal WESLEY W. HARR, Casey County State Guard, approved and confirmed. The commanding officer of the Casey County State Guard is hereby directed to make the proper charges on the rolls of his company against said Corporal WESLEY W. HARR in conformity with the sentence.</p>
-<p>By order of the Governor.</p>
+<p>By order of the <persName ref="cwgk:N001000">Governor</persName>.</p>
 <p>Official:
-<lb/>D. W. LINDSEY,
-<lb/><hi rend="italic">Adjutant General of Kentucky.</hi></p>
+<lb/><persName ref="cwgk:N00000873">D. W. LINDSEY</persName>,<lb/><hi rend="italic">Adjutant General of Kentucky.</hi></p>
   </body>
  </text>
 </TEI>
