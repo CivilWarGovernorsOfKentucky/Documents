@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0027"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brianna Kirk</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky <date when="1865-02-13">Feb. 13th 1865.</date>
-<lb/>Honorable Thomas E Bramlette
-<lb/>Governour of Kentucky,
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1865-02-13">Feb. 13th 1865.</date>
+<lb/>Honorable <persName ref="cwgk:N001000">Thomas E Bramlette</persName><lb/>Governour of Kentucky,
 <lb/>Sir</p>
-<p>I have been in Gen. Roussaus Brigade some two years and I thought I would send a few lines to you and ask you for a Commission as a Capt or a Leutenant in the State Service if I had a Commission I think in a very short time I could have a Company ready for service</p>
+<p>I have been in <persName ref="cwgk:N00002299">Gen. Roussaus</persName> Brigade some two years and I thought I would send a few lines to you and ask you for a Commission as a Capt or a Leutenant in the State Service if I had a Commission I think in a very short time I could have a Company ready for service</p>
 <p>Yours with honor
 <lb/>Respectfully
-<lb/>F B Russell<pb/></p>
+<lb/><persName ref="cwgk:N00009460">F B Russell</persName><pb/></p>
 <p><hi rend="underline">State forces</hi></p>
 <p>Louisville Ky
 <lb/><date when="1865-02-13">Feby, 13" 1865</date><figure type="hr"/>
@@ -86,7 +93,7 @@
 <lb/>D, W, Lindsey
 <lb/>I &amp; A. G. Ky</p>
 <p>issued <date when="1865-02-17">Feby 17<hi rend="underline"><hi rend="sup">th</hi></hi> 65</date><figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-02-14">14 Feby 1865</date></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O.</orgName> Ky <date when="1865-02-14">14 Feby 1865</date></p>
   </body>
  </text>
 </TEI>
