@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,10 @@
                 <person xml:id="N00011331">
                     <persName>
                       James A. McBrayer
-                        (Anderson County clerk and prov govt)
+                        (Anderson County clerk, farmer, and prov govt)
                     </persName>
-                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
+                        <event type="birth"  when="1828-03-01"  ><ab>1828-03-01</ab></event>
+                        <event type="death"  when="1908-12-12"  ><ab>1908-12-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +55,9 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Anderson County, Kentucky, clerk, farmer, and provisional government convention member. Kentucky native. Married to Martha J. McBrayer. Father of Enfield McBrayer, Harvey S. McBrayer, Jennie A. McBrayer, Lucien B. McBrayer, Elbridge D. McBrayer, and Susie L. McBrayer. Clerk in Anderson County in 1850. Farmer in Anderson County in 1860. Member of the convention of the provisional government held at Russellville in November 1861. Farmer in Anderson County in 1863.</p>
+
+    </body>
 </text>
 </TEI>
