@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0051"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Thomas E. Bramlette Governor of the Commonwealth of Kentucky -- </p>
-<p>The undersigned your Petitioners would state that he was indicted at the late Term of the City Court of Louisville on a charge of permitting and suffering Gaming in his house Whereby money was lost and won. Knowing the fact that men had gambled in his house and although he had not sanctioned the practice, yet he had not <hi rend="underline">prevented</hi> it, he determined to make no resistance to the Indictment, but <hi rend="underline">confessed</hi> and was Fined in the statutory fine of Two Hundred Dollars -- costs of <unclear>course</unclear> -- </p>
+   <p>To His Excellency <persName ref="cwgk:N001000">Thomas E. Bramlette</persName> Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> -- </p>
+<p>The undersigned your Petitioners would state that he was indicted at the late Term of the <orgName ref="cwgk:O001838">City Court of Louisville</orgName> on a charge of permitting and suffering Gaming in his house Whereby money was lost and won. Knowing the fact that men had gambled in his house and although he had not sanctioned the practice, yet he had not <hi rend="underline">prevented</hi> it, he determined to make no resistance to the Indictment, but <hi rend="underline">confessed</hi> and was Fined in the statutory fine of Two Hundred Dollars -- costs of <unclear>course</unclear> -- </p>
 <p>He would most respectfully and truly represent that he is a young man And has just commenced business And that persons much older than himself, for their own amusement, profit or gratification made Free with his house And played games of Cards in it; And that he young and inexperienced felt a delicacy in stopping the games and <hi rend="underline">ordering</hi> the gentlemen to desist. Therefore he thinks that he in a measure was imposed upon. He will however know better in future and dispense with all false delicacy on the subject -- He will not be laid liable again to such Indictments.<pb/>
 <lb/>He states that he is poor, just commenced business, scarcely twenty one years of age, not making much money. And that the payment of this heavy fine would be onerous upon him -- He therefore asks your Excellency to <hi rend="underline">remit</hi> the same, and prays that the same be fully and entirely remitted And as in duty bound will ever pray &amp;c</p>
 <p><hi rend="underline">James. H. Cornell</hi><pb/></p>
-<p>We the undersigned personally acquainted with James H. Cornell the petitioner would most respectfully request your Excellency to pardon him and remit the fine -- </p>
+<p>We the undersigned personally acquainted with <persName ref="cwgk:N00005735">James H. Cornell</persName> the petitioner would most respectfully request your Excellency to pardon him and remit the fine -- </p>
 <p>Hon. Thomas E. Bramlette
 <lb/>Governors</p>
 <p>I recommend Mr James H Cornell to the clemency of the executive for two reasons; first his youth and inexperience &amp; secondly for his manly confession</p>
@@ -94,9 +102,9 @@
 <p>Louisville City Court
 <lb/>vs
 <lb/>J. H. Cornell
-<lb/>&#36;200 -- </p>
+<lb/>$200 -- </p>
 <p>Remit all except costs and fees of Atty
-<lb/><date when ="1863-09-24">Sept 24<hi rend="sup">th</hi> 1863</date></p>
+<lb/><date when="1863-09-24">Sept 24<hi rend="sup">th</hi> 1863</date></p>
 <p>Tho E Bramlette</p>
   </body>
  </text>
