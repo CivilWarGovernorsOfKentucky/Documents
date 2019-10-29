@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,7 @@
                       H. L. Jones
                         (McCracken County, KY, prov govt conv member, attorney)
                     </persName>
-                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +54,16 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>McCracken County, KY, attorney. <lb/>
+Member of the convention of the provisional government held at Russellville in November 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky,  McCracken County, District 1, p. 142
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McCracken County, Paducah, p. 928
+</bibl></ab>
+    </back>
 </text>
 </TEI>
