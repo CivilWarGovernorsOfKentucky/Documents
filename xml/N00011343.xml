@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,32 @@
                 <person xml:id="N00011343">
                     <persName>
                       Giles L. Cobb
-                        ()
+                        (Lyon County merchant, soldier, and prov govt)
                     </persName>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
+                        <event type="death"  when="1867-10-04"  ><ab>1867-10-04</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lyon County, District 1, p. 221B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Crittenden County, District No. 1, p. 347
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 764.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Lyon County, Eddyville, p. 416A.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Giles L Cobb (1822-1867),&quot; Memorial #128609689, http://www.findagrave.com/memorial/128609689 (accessed October 29, 2019).
+
+<hi rend="italic">Find A Grave</hi>, &quot;G L Cobb (1823-1867),&quot; Memorial #68834046, http://www.findagrave.com/memorial/68834046 (accessed October 29, 2019).
+
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0125.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
