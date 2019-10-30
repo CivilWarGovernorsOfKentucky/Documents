@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. H. Arnett</title>
+        <title level="a" type="main">John H. Arnett</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,21 @@
         <particDesc>
                 <person xml:id="N00011348">
                     <persName>
-                      J. H. Arnett
-                        ()
+                      John H. Arnett
+                        (Woodford County )
                     </persName>
+                        <event type="birth"  when="1835"  ><ab>1835</ab></event>
+                        <event type="death"  when="1918-08-09"  ><ab>1918-08-09</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Woodford County, Kentucky, farmer, soldier, and provisional government convention member. Troy, Woodford County, Kentucky, native. Son of William Arnett and Sarah White Arnett. <lb/>
+Member of the convention of the provisional government held at Russellville in November 1861.</p>
+
+    </body>
 </text>
 </TEI>
