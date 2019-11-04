@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Brianna Kirk</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       G. Robertson
                         (person)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,8 +54,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Appears in a November 4, 1862, letter between Samuel D. McCullough and James F. Robinson in Fayette County, Kentucky.</p>
+        <p>Appears in a November 4, 1862, letter between Samuel D. McCullough and James F. Robinson on behalf of James W. Wallis in Fayette County, Kentucky.</p>
 
     </body>
+    <back>
+        <ab><bibl>KYR-0002-225-0021
+</bibl></ab>
+    </back>
 </text>
 </TEI>
