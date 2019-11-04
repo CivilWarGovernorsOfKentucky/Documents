@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">M. B. Clarke</title>
+        <title level="a" type="main">William B. Clark</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00011364">
                     <persName>
-                      M. B. Clarke
+                      William B. Clark
                         (Simpson County, Ky, prov govt com rep)
                     </persName>
+                        <event type="birth"  when="1812"  cert="medium" ><ab>c1812</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +55,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Member of the convention of the provisional government held at Russellville in November 1861.</p>
+        <p>Simpson County, Kentucky, member of the provisional government convention. Virginia native. Married to Eliza B. Clark. Resident of Simpson County in 1850. Member of the convention of the provisional government held at Russellville in November 1861.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Simpson County, City/District, p. 69B.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Simpson County, District 150, p. 17B.
+
+KYR-0004-033-0001.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
