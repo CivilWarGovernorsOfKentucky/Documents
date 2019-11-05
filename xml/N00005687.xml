@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. M. Allen</title>
+        <title level="a" type="main">William M. Allen</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Anthony P. Curtis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00005687">
                     <persName>
-                      W. M. Allen
-                        (Lieutenant colonel of the Jefferson County Militia)
+                      William M. Allen
+                        (Jefferson County, Kentucky, physician)
                     </persName>
+                        <event type="birth"  when="1829"  ><ab>1829</ab></event>
+                        <event type="death"  when="1919"  ><ab>1919</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,12 +60,25 @@
     </teiHeader>
     <text>
     <body>
-        <p>Lieutenant colonel in the Jefferson County Kentucky Militia in 1864.</p>
+        <p>Jefferson County, Kentucky, physician. Kentucky native. Son of William Allen and Eliza L. Allen. Married to Frances L. Estes Allen in Jefferson County on October 31, 1850. Father of Wendell Allen, Estes Allen, William Allen, and Lillie Allen. Physician in Spencer County in 1850. Household owned seven enslaved persons in Spencer County, Kentucky, in 1850. Physician in Jefferson County in 1860. Household owned six enslaved persons in Jefferson County in 1860. Mentioned as a lieutenant colonel in the Jefferson County Kentucky Militia in 1864.</p>
 
     </body>
     <back>
-        <ab><bibl>&quot;To the Citizens and Militia of Jefferson County,&quot; <hi rend="italic">Louisville Daily Journal</hi> (Louisville, Ky.), December 19, 1864.<lb/>
-KYR-0002-022-0064.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Spencer County, District 2, p. 110B. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, District 2, p. 974.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, County, Jeffersontown, p. 352B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Spencer County, District 2, p. 31.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, County, City/District, p. 239A.
+
+&quot;To the Citizens and Militia of Jefferson County,&quot; <hi rend="italic">Louisville Daily Journal</hi> (Louisville, Ky.), December 19, 1864.
+
+<hi rend="italic">Find A Grave</hi>, &quot;William M. Allen (1829-1919),&quot; Memorial #92553080, http://www.findagrave.com/memorial/92553080 (accessed November 5, 2019).
+
+KYR-0002-022-0062
 </bibl></ab>
     </back>
 </text>
