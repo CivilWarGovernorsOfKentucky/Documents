@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Captain Winston’s Company (C.S.A.)</title>
+        <title level="a" type="main">Winston’s Scouts (C.S.A.)</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -42,18 +46,22 @@
             </textClass>
             <particDesc>
                 <org xml:id="O00003858">
-                    <orgName>Captain Winston’s Company (C.S.A.)</orgName>
+                    <orgName>Winston’s Scouts (C.S.A.)</orgName>
+                        <event type="begun"  when="1861"  ><ab>1861</ab></event>
+                        <event type="ended"  when="1865"  ><ab>1865</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>A Confederate military unit in Caldwell County, Kentucky, in 1861.</p>
+        <p>A Confederate military unit in western Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0538; KYR-0001-029-0539.
+        <ab><bibl>KYR-0001-029-0538.
+
+KYR-0001-029-0539.
 </bibl></ab>
     </back>
 </text>
