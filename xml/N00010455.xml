@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. T. Lokey</title>
+        <title level="a" type="main">Joseph T. Lokey</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00010455">
                     <persName>
-                      J. T. Lokey
-                        (Kentucky, resident)
+                      Joseph T. Lokey
+                        (Brown County, Ohio, harness maker )
                     </persName>
+                        <event type="birth"  when="1839"  cert="medium" ><ab>c1839</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Received payment for transport services to the 10th Kentucky Volunteer Cavalry in September 1863.</p>
+        <p>Brown County, Ohio, harness maker. Ohio native. Harness maker in Brown County, Ohio in 1863. Served in the 10th Kentucky Volunteer Cavalry.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-222-0018.
+        <ab><bibl><hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Brown County, OH, August 1863, p. 173, (Accessed via ancestry.com).
 </bibl></ab>
     </back>
 </text>
