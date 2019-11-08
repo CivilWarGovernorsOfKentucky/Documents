@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">22nd Kentucky Volunteer Infantry Regiment (U.S.A.)nfantry</title>
+        <title level="a" type="main">22nd Kentucky Infantry Regiment (U.S.A.)</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -38,11 +42,21 @@
             </textClass>
             <particDesc>
                 <org xml:id="O00011396">
-                    <orgName>22nd Kentucky Volunteer Infantry Regiment (U.S.A.)nfantry</orgName>
+                    <orgName>22nd Kentucky Infantry Regiment (U.S.A.)</orgName>
+                        <event type="begun"  when="1862-01-20"  ><ab>1862-01-20</ab></event>
+                        <event type="ended"  when="1865-01-20"  ><ab>1865-01-20</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Camp Swigert, Greenup County, Kentucky. Mustered in on January 10, 1862, and mustered out on January 20, 1865. Commander(s): Colonel Daniel W. Lindsey, Colonel George W. Monroe. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 96-128.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
