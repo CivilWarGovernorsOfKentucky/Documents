@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. S. Todd</title>
+        <title level="a" type="main">J.S. Todd</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00010778">
                     <persName>
-                      J. S. Todd
-                        (Colonel (U.S.A.))
+                      J.S. Todd
+                        (Kentucky, colonel (U.S.A.))
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +54,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Soldier (U.S.A.). Colonel of the 44th Kentucky Infantry Regiment, which failed to complete organization, on February 11, 1863. </p>
+        <p>Kentucky, soldier. Colonel of the 44th Kentucky Infantry Regiment (U.S.A.), which failed to complete organization, on February 11, 1863. </p>
 
     </body>
     <back>
-        <ab><bibl>Frederick H. Dyer, A Compendium of the War of the Rebellion: Compiled and Arranged from Official Records of the Federal and Confederate Armies Reports of the Adjutant Generals of the Several States, The Army Registers and Other Reliable Documents and Sources, vol. 1 (Des Moines: The Dyer Publishing Company, 1908), 1211. KYR-0002-222-0048. 
+        <ab><bibl>Frederick H. Dyer, <hi rend="italic">A Compendium of the War of the Rebellion: Compiled and Arranged from Official Records of the Federal and Confederate Armies Reports of the Adjutant Generals of the Several States, The Army Registers and Other Reliable Documents and Sources</hi>, vol. 1 (Des Moines: The Dyer Publishing Company, 1908), 1211. <lb/>
+KYR-0002-222-0048. 
 </bibl></ab>
     </back>
 </text>
