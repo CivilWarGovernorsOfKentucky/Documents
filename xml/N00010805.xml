@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,10 @@
                 <person xml:id="N00010805">
                     <persName>
                       Daniel S. Parker
-                        (Captain and Adjutant General (U.S.A.))
+                        (Ky, captain and adj gen (U.S.A.))
                     </persName>
                         <event type="death"  when="1914-02-09"  ><ab>1914-02-09</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -50,11 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Soldier. Served in Eighth Kentucky Volunteer Cavalry (U.S.A.) as Captain from September 8, 1862 to December 6, 1862. Served in Thirteenth Kentucky Volunteer Cavalry (U.S.A.) as Adjutant General from September 1, 1863 to January 10, 1865.</p>
+        <p>Kentucky, soldier. Served in 8th Kentucky Volunteer Cavalry (U.S.A.) as major and captain from September 8, 1862, to December 6, 1862. Served in 13th Kentucky Volunteer Cavalry (U.S.A.) as adjutant general from December 23, 1863, to December 10, 1865.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 226 &amp; 352. <hi rend="italic">Organization Index to Pension Files of Veterans Who Served Between 1861 and 1900</hi>, NARA RG 15, Catalog ID 258825, Roll 438.
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 226, 352. 
+
+<hi rend="italic">Organization Index to Pension Files of Veterans Who Served Between 1861 and 1900</hi>, NARA RG 15, Catalog ID 258825, Roll 438.
 </bibl></ab>
     </back>
 </text>
