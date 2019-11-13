@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00011400">
                     <persName>
                       W. W. Thompson
-                        (Hart County, KY prov govt conv rep)
+                        (Hart County, KY, farmer and prov govt conv rep)
                     </persName>
+                        <event type="birth"  when="1814-11-15"  ><ab>1814-11-15</ab></event>
+                        <event type="death"  when="1862-07"  ><ab>1862-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,29 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Hart County, Kentucky, farmer. Kentucky native. Married to Sarilda Magdalene Parrish Thompson in Barren County on November 14, 1847. Father of Flemming T. Thompson, William Henry Thompson, and Mary Victoria Thompson. Farmer in Barren County in 1840. Owned one enslaved person in Barren County in 1840. Farmer in Hart County in 1850. Owned six enslaved persons in Hart County in 1850. Employed Edmond Murray in 1850. Farmer in Hart County in 1860. Owned twenty enslaved persons in Hart County in 1860. Member of the convention of the provisional government held at Russellville in November 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Kentucky, Barren County, East of Barren, p. 118.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hart County, p. 263A.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Hart County, p. 16 of microfilm.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hart County, District1, p. 721.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, County, City/District, p. X.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Barren County Marriages, Film #000209756, p. 428.
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Rolls #994027-994058, Hart County Births, 1854, p. 5. 
+
+<hi rend="italic">Find A Grave</hi>, &quot;W W Thompson (1814-1862),&quot; Memorial 135764530, https://www.findagrave.com/memorial/135764530  (accessed November 13, 2019).
+
+KYR-0004-033-0001.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
