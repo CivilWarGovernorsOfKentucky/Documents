@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00011059">
                     <persName>
                       Hiram L. Coldiron
-                        (resident)
+                        (Johnson and Harlan County KY farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1841"  cert="medium" ><ab>c1841</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Received payment for helping United States Army recruit between July 26, 1863 until February 1, 1865. </p>
+        <p>Johnson County, Kentucky, farmer. Kentucky native. Married to Rebecca Coldiron. Father of Arminta Coldiron and Clarissa J. Coldiron. Resident of Harlan County in 1850. Farmer in Johnson County in 1860.  </p>
+
+<p>Received payment for helping United States Army recruit between July 26, 1863 until February 1, 1865. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-222-0104.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Harlan County, p. 33A
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 280
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Elliott County, p. 454A
+
+KYR-0002-222-0104.
 </bibl></ab>
     </back>
 </text>
