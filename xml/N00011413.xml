@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011413">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Andrew Harrison Ward</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00011413">
+                    <persName>
+                      Andrew Harrison Ward
+                        (Cynthiana, Kentucky, Representative and attorney.)
+                    </persName>
+                        <event type="birth"  when="1815-01-03"  ><ab>1815-01-03</ab></event>
+                        <event type="death"  when="1904-04-16"  ><ab>1904-04-16</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Cynthiana, Kentucky, Representative and attorney. Cynthiana, Kentucky native. Married to Ellen V. Moore Ward in Harrison, Kentucky in September 1846. Father of Mollie Ward Gaddy. Married to Elizabeth Ware Ward in Harrison County on December 31, 1857.  Son of Andrew Ward and Elizabeth Headington Ward. Attended Transylvania University in Lexington, Kentucky. Began law practice in Cyntiana, Kentucky in 1844. City attorney of Cynthiana in 1860. Served in the Kentucky House of Representatives from 1863 to 1865. Representative of Kentucky&#39;s Sixth District in the U.S. House of Representatives from 1866 to 1867.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Biographical Cyclopedia of the Commonwealth of Kentucky</hi> (Chicago: John Gresham Company, 1896) p. 29-30. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
