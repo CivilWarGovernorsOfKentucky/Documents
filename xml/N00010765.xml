@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00010765">
                     <persName>
                       Thomas C. Kyle
-                        (railroad agent)
+                        (Kentucky, railroad agent)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +54,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Railroad agent. Signature appears on receipt from state of Kentucky to Louisville &amp; Lexington and Frankfort &amp; Lexington Railroads. </p>
+        <p>Kentucky, railroad agent. Native of Ireland. Railroad hand in Larue County, Kentucky, in 1860. Agent for the Louisville &amp; Frankfort and Lexington &amp; Frankfort Railroad Companies in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-222-0047
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Larue County, p. 219.
+
+KYR-0002-222-0047.
 </bibl></ab>
     </back>
 </text>
