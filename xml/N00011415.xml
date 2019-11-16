@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011415">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Samuel R. Mott</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00011415">
+                    <persName>
+                      Samuel R. Mott
+                        (Auglaize County, Ohio, attorney and colonel (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1818-01-26"  ><ab>1818-01-26</ab></event>
+                        <event type="death"  when="1896-01-15"  ><ab>1896-01-15</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Auglaize County, Ohio, attorney and soldier. Knox County, Ohio native. Son of Gideon Mott and Anne Newell Mott. Married to Caroline Kepner Mott in Auglaize, Kentucky in 1843. Father of John Mott, Thomas Mott, Walter Mott, Mary Mott, Charles W Mott, and Benjamin Mott. Prosecuting attorney in Mercer County, Kentucky in 1846. Prosecuting attorney in Auglaize County, Ohio in 1848. Served as a Democrat in the Ohio Legislature in 1848. Served as colonel of 118th Regiment of the Ohio Volunteer Infantry (U.S.A.) from October 5, 1862 to his resignation on February 10, 1864. Continued as an attorney in Auglaize after the war.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Official Roster of the Soldiers of the State of Ohio in the War of Rebellion, 1861-1866, Vol. VIII</hi> (Cincinnati: The Ohio Valley Press, 1888), 217.<lb/>
+C. W. Williamson, <hi rend="italic">History of western Ohio and Auglaize County</hi> (Columbus, OH: W.M. Linn &amp; Sons, 1905), p. 682-684.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Auglaize, Saint Marys, p. 506B.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
