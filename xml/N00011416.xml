@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011416">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Chester Fairbank</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00011416">
+                    <persName>
+                      Chester Fairbank
+                        (Allegany, New York, farmer.)
+                    </persName>
+                        <event type="birth"  when="1788-11-11"  ><ab>1788-11-11</ab></event>
+                        <event type="death"  when="1849-07-07"  ><ab>1849-07-07</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>New Hampshire native. Married to Betsey Abbott in Stockbridge, Vermont on January 1, 1810. Father of Daniel Fairbank, Eliza Wakefield, Julia Baxter, Calvin Fairbank, Danforth Fairbank, Almond Fairbank, Jane Wilbur, Polly Reed, Harriet Wakefield, and Lydia Davie. Served in the War of 1812 from 1812 to 1814. Farmer in Wyoming County, New York, in 1815. Died of cholera in Kentucky, when petitioning the governor for the release of his son, abolitionist Rev. Calvin Fairbank.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Lorenzo Sayles Fairbanks, <hi rend="italic">Geneaology of the Fairbanks Family in America, 1633-1897</hi> (Boston: American Printing and Engraving Company, 1897), p. 241-3.<lb/>
+https://www.findagrave.com/memorial/<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Chester Fairbank (1788-1849)),&quot; Memorial #22659401, http://www.findagrave.com/memorial/22659401 (accessed November 15, 2019).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
