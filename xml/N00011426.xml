@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Dr J. Wheeler</title>
+        <title level="a" type="main">James Wheeler</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00011426">
                     <persName>
-                      Dr J. Wheeler
-                        (Christian County, KY, prov govt conv rep )
+                      James Wheeler
+                        (Christian County, KY, physician, farmer, and prov govt conv rep )
                     </persName>
+                        <event type="birth"  when="1811-04-11"  ><ab>1811-04-11</ab></event>
+                        <event type="death"  when="1886-03-22"  ><ab>1886-03-22</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +56,23 @@
     </teiHeader>
     <text>
     <body>
-        <p>Christian County, Kentucky, Member of the convention of the provisional government held at Russellville in November 1861.</p>
+        <p>Christian County, Kentucky, physician and farmer. Native of England. Married to Elizabeth S. Wheeler. Father of William G. Wheeler, Mary S. Wheeler, James J. Wheeler, Elizabeth S. Wheeler, Sarah E. Wheeler, Susan K. Wheeler,  Virginia E. Wheeler,  John Wheeler, Laura Wheeler, Joel W. Wheeler, Charles K. Wheeler, and Emma Wheeler. Physician and farmer in Christian County in 1850. Owned fifteen enslaved persons in Christian County in 1850. Physician and farmer in Christian County in 1860. Owned thirty-five enslaved persons in Christian County in 1860. Member of the convention of the provisional government held at Russellville in November 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0004-033-0001.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Christian County, District 2, p. 365B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Christian County, District 2, p. 10 of microfilm.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, p. 707.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Christian County, p..
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Christian County, District 4, p. 442B.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Dr James Wheeler (1811-1886),&quot; Memorial 89943946, https://www.findagrave.com/memorial/89943946  (accessed November 19, 2019).
+
+KYR-0004-033-0001.
 </bibl></ab>
     </back>
 </text>
