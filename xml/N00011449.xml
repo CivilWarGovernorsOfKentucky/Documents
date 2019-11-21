@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011449">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Reuben C. Linn</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>James Bartek</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00011449">
+                    <persName>
+                      Reuben C. Linn
+                        (Calloway County, KY, farmer and prov govt)
+                    </persName>
+                        <event type="birth"  when="1818-02-16"  ><ab>1818-02-16</ab></event>
+                        <event type="death"  when="1891-03-04"  ><ab>1891-03-04</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Calloway County, Kentucky, farmer. Kentucky native. Married N. D. Linn. Married Mary Hart Linn in Calloway County on May 3, 1858. Father of Virinda J. Linn, James E. Linn, Alice B. Linn, Liburn Linn, B. B. Linn, Mary E. Linn, Ward Linn, William C. Linn, and Nancy A. Lynn. Farmer in Calloway County in 1850. Member of the convention of the provisional government held at Russellville in November 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Calloway County, p. 482B
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Calloway County, p. 207
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Calloway County, p. 70B
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Calloway County Marriages, p. 12.
+
+KYR-0004-033-0001.
+
+<hi rend="italic">Find A Grave</hi>, &quot;R. C. Linn (1818-1821),&quot; Memorial #25172640, http://www.findagrave.com/memorial/25172640 (accessed November 21, 2019).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
