@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       William Hampton Gardner
                         (Calloway County, KY, farmer and prov govt conv rep  )
                     </persName>
+                        <event type="birth"  when="1804-11-28"  ><ab>1804-11-28</ab></event>
+                        <event type="death"  when="1902-07-20"  ><ab>1902-07-20</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,25 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Calloway County, Kentucky, farmer. North Carolina native. Married to Frances Miller Gardner in Calloway County on August 16, 1827. Father of Frances N. Gardner, Martha E. Gardner, John D. S. Gardner, Mary F. M. Gardner, Jane Eliza Gardner, H. Clay Gardner, and George A. Gardner. Resident in Calloway County in 1830. Farmer in Calloway County in 1850. Owned two enslaved persons in Calloway County in 1850. Farmer in Calloway County in 1860. Member of the convention of the provisional government held at Russellville in November 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Fifth Manuscript Census of the United States</hi> (1830), Population Schedules, Kentucky, Calloway County, pp. 3-4 of microfilm.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Calloway County, District 2, p. 444B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Calloway County, District 2, pp. 5-6 of microfilm.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Calloway County, p. 194.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Calloway County Marriages, Film #001942719, p. 344 of microfilm.
+
+<hi rend="italic">Find A Grave</hi>, &quot;William Hampton Gardner (1804-1902),&quot; Memorial 13676590, https://www.findagrave.com/memorial/21605534/william-hampton-gardner (accessed November 22, 2019).
+
+KYR-0004-033-0001.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
