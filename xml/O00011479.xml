@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00011479">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">1st Kentucky Regiment of volunteers</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00011479">
+                    <orgName>1st Kentucky Regiment of volunteers</orgName>
+                        <event type="begun"  when="1861-08"  ><ab>1861-08</ab></event>
+                        <event type="ended"  when="1862-05-13"  ><ab>1862-05-13</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Military organization (C.S.A.). Organized August 1861 from the merger between 1st Battalion of Kentucky Infantry commanded by Lieutenant Colonel Blanton Duncan, and a battalion commanded by Lieutenant Colonel Thomas H. Taylor. Mustered out May 13, 1862. Commander: Thomas H. Taylor.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65, vol. 1 (Frankfort: Legislature of Kentucky, 1915), 2 &amp; 34-35.<lb/>
+(accessed: November 26, 2019, https://archive.org/details/reportofadjutan00kent/page/2).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
