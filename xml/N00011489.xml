@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00011489">
                     <persName>
                       George Washington Adair
-                        ()
+                        (Nicholas County, KY, dentist)
                     </persName>
+                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,17 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Nicholas County, Kentucky, dentist. Kentucky native. Son of Richard Adair and Mary Adair. Married to Mary H. Adair. Resident in Nicholas County in 1850. Dentist in Nicholas County in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Nicholas County, p. 412A
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Nicholas County, p. 277B
+
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Nicholas County, KY, July 1863, p. 6, (Accessed via ancestry.com).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
