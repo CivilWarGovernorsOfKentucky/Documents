@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,8 @@
                       John M. Dallas
                         (Nicholas County, KY, saddler)
                     </persName>
-                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
+                        <event type="birth"  when="1820-09-27"  ><ab>1820-09-27</ab></event>
+                        <event type="death"  when="1875-04-09"  ><ab>1875-04-09</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,11 +56,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Nicholas County, Kentucky, saddler. Kentucky native. Married to Cintha Dallas. Father of Alonzo Dallas, Marion Dallas, John Dallas, Charles Dallas, Franklin Dallas, and Elizabeth Dallas. </p>
+        <p>Nicholas County, Kentucky, saddler. Kentucky native. Married Cynthia Gardner Dallas on January 20, 1846 in Nicholas County. Father of Alonzo Dallas, Marion Dallas, John Dallas, Charles Dallas, Franklin Dallas, and Elizabeth Dallas. Owned one enslaved person in Nicholas County in 1860. Saddler in Nicholas County in 1860. </p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nicholas County, p. 275
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Nicholas County, p. 137A
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Nicholas County Marriages, Film #000252392, p. 83
+
+<hi rend="italic">Find A Grave</hi>, &quot;John M. Dallas (1820-1875),&quot; Memorial #116383950, http://www.findagrave.com/memorial/116383950 (accessed November 27, 2019).
 </bibl></ab>
     </back>
 </text>
