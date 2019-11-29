@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       Thomas Kennedy
                         (Nicholas County, KY, attorney)
                     </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +55,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Nicholas County, Kentucky, attorney. Kentucky native. </p>
+        <p>Nicholas County, Kentucky, attorney. Kentucky native. Attorney in Nicholas County in 1860 and 1863. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nicholas County, p. 279
+
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Nicholas County, KY, July 1863, p. 21, (Accessed via ancestry.com).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
