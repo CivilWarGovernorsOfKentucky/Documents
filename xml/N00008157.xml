@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Melissa DeVelvis</name>
           </respStmt>
           <respStmt>
@@ -52,10 +56,11 @@
                 <person xml:id="N00008157">
                     <persName>
                       George W. Thompson
-                        (Kenton Co store owner)
+                        (Kenton Co, Ky, store owner)
                     </persName>
                         <event type="birth"  when="1824-10-02"  ><ab>1824-10-02</ab></event>
                         <event type="death"  when="1902-09-12"  ><ab>1902-09-12</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -63,11 +68,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kenton County, Kentucky, merchant. Indiana native. Kenton County, Kentucky, store owner. Married to Sarah Thompson. Father of James Thompson. Fined for selling alcohol to an enslaved person in 1861. Fined for serving liquor to a minor in Covington, Kentucky in 1862.</p>
+        <p>Kenton County, Kentucky, store owner. Indiana native. Married to Sarah Thompson. Father of James Thompson. Fined for selling alcohol to an enslaved person in 1861. Fined for serving liquor to a minor in Covington, Kentucky, in 1862.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1491. KYR-0001-004-2166.<lb/>
+        <ab><bibl>KYR-0001-020-1491. <lb/>
+KYR-0001-004-2166.<lb/>
 <hi rend="italic">Find A Grave</hi>, &quot;George Washington Thompson (1824-1902),&quot; Memorial #90471559, http://www.findagrave.com/memorial/90471559 (accessed November 16, 2019).<lb/>
 <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Kenton, Covington Ward 4, p.236B.
 </bibl></ab>
