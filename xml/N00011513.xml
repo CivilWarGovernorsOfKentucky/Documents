@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,8 @@
                       Thomas Basye
                         (Oldham County, KY, hotel keeper)
                     </persName>
-                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
+                        <event type="birth"  when="1816-09-10"  ><ab>1816-09-10</ab></event>
+                        <event type="death"  when="1915-03-25"  ><ab>1915-03-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,11 +56,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Oldham County, Kentucky, hotel keeper. Virginia native. Married to Patsy Basye. Father of Sophia Basye and Lucy Basye. Hotel keeper in Oldham County in 1860.   </p>
+        <p>Oldham County, Kentucky, farmer and hotel keeper. Virginia native. Married Frances Patsy Hitt Basye in January 1848 in Oldham County. Father of Sophia Basye and Lucy Basye. Owned two enslaved persons in Oldham County in 1850. Farmer in Oldham County in 1850. Hotel keeper in Oldham County in 1860.   </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Oldham County, City/District, p. 841
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Oldham County, p. 164B
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Oldham County, p. 841
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Oldham County, p. 382
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Oldham County Marriages, Film #000482448, p.
+
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016173, Oldham County Deaths, File #8098
 </bibl></ab>
     </back>
 </text>
