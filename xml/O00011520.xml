@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,20 @@
             <particDesc>
                 <org xml:id="O00011520">
                     <orgName>5th Kentucky Volunteer Infantry Regiment (U.S.A.)</orgName>
+                        <event type="begun"  when="1861-09-09"  ><ab>1861-09-09</ab></event>
+                        <event type="ended"  when="1864-09-14"  ><ab>1864-09-14</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Camp Joe Holt, Indiana. Mustered in on September 9, 1861 and mustered out in Louisville, Kentucky on September 14, 1864. Veterans transferred to the 2nd Kentucky Veteran Cavalry. Commanding officers(s): Lovell H. Rousseau, Harvey M. Buckley, and William W. Berry.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 717.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
