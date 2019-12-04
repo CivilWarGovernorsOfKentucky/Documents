@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00011499">
                     <placeName>
                         <location>
+                              <geo>38.184 -83.4327</geo>
                             <settlement>Morehead, Kentucky</settlement>
                         </location>
                     </placeName>
@@ -52,5 +57,9 @@
         <p>Seat of Rowan County, Kentucky. </p>
 
     </body>
+    <back>
+        <ab><bibl>Robert M. Rennick, <hi rend="italic">Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 1984), 202.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
