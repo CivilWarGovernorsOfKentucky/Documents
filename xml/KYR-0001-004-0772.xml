@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,22 +68,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort. <date when="1864-04-14">Apl. 14/64</date>
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName>. <date when="1864-04-14">Apl. 14/64</date>
 <lb/>Dear Sir.</p>
-<p>I have learned, with some surprise recently, that a minister of the gospel named Fairbanks is still confined in the penitentiary, upon the charge of stealing a negro in Ky. He has been there for many years, having first been convicted in Fayette, for the same offence, in which Miss Webster was sentenced. He was afterwards pardoned on the earnest intercession of his father, who lost his life in our midst, with cholera. He was again sent from Louisville on a similar charge some ten or twelve years ago, &amp; has<pb/>
+<p>I have learned, with some surprise recently, that a minister of the gospel named Fairbanks is still confined in the penitentiary, upon the charge of stealing a negro in Ky. He has been there for many years, having first been convicted in <placeName ref="cwgk:P001031">Fayette</placeName>, for the same offence, in which <persName ref="cwgk:N00011417">Miss Webster</persName> was sentenced. He was afterwards pardoned on the earnest intercession of his <persName ref="cwgk:N00011416">father</persName>, who lost his life in our midst, with cholera. He was again sent from <placeName ref="cwgk:P00000337">Louisville</placeName> on a similar charge some ten or twelve years ago, &amp; has<pb/>
 <lb/>several years yet to suffer unless pardoned.</p>
-<p>Now while high officials of the U. S. Government with the sanitation of the president or by his orders, are doing the same thing or much worse, under the tyrants state plea of "Military necessity," - without entertaining any such conscientious opinions as influenced Fairbanks. I think it a most cruel farce to keep him in penal confiement, &amp; hope you will pardon him.</p>
+<p>Now while high officials of the <orgName ref="cwgk:O00002945">U. S. Government</orgName> with the sanitation of the president or by his orders, are doing the same thing or much worse, under the tyrants state plea of "Military necessity," - without entertaining any such conscientious opinions as influenced Fairbanks. I think it a most cruel farce to keep him in penal confiement, &amp; hope you will pardon him.</p>
 <p>Very truly
 <lb/>Yr f<hi rend="underline"><hi rend="sup">d</hi></hi> &amp;c.
-<lb/>Leslie Combs</p>
-<p>To the Governor of Kentucky.<pb/></p>
-<p>Jefferson Cir Ct
-<lb/>vs
-<lb/>Calvin Fairbanks
-<lb/><date when="1864-04-15">15<hi rend="sup">th</hi> Apl 1864</date></p>
+<lb/><persName ref="cwgk:N00000881">Leslie Combs</persName></p>
+<p>To the <persName ref="cwgk:N001000">Governor</persName> of Kentucky.<pb/></p>
+<p><orgName ref="cwgk:O001000">Jefferson Cir Ct</orgName><lb/>vs
+<lb/><persName ref="cwgk:N00000267">Calvin Fairbanks</persName><lb/><date when="1864-04-15">15<hi rend="sup">th</hi> Apl 1864</date></p>
 <p>Pardoned <hi rend="str">for <unclear/></hi> ordered on the score of humanity. the mans health being extremely critical</p>
-<p>Richard T Jacob
-<lb/>Lt. &amp; Act. Gov</p>
+<p><persName ref="cwgk:N00000240">Richard T Jacob</persName><lb/>Lt. &amp; Act. Gov</p>
   </body>
  </text>
 </TEI>
