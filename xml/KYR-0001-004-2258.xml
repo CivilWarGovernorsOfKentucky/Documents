@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,18 +68,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort <date when="1865-08-22">August 22<hi rend="sup">nd</hi> 1865</date>
-<lb/>Hon Thomas E. Bramlette
-<lb/>Governor of Ky
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1865-08-22">August 22<hi rend="sup">nd</hi> 1865</date>
+<lb/>Hon <persName ref="cwgk:N001000">Thomas E. Bramlette</persName><lb/>Governor of Ky
 <lb/>Sir</p>
-<p>We respectfully reccommend to you, the release from confinement ^of^ A. Seaton, a prisoner in the Kentucky Penitentiary. He has been confined to the hospital for five months past, sinking from a chronic disease of consumptive character. His relatives have expressed a willingness and ability to take care of him.</p>
+<p>We respectfully reccommend to you, the release from confinement ^of^ <persName ref="cwgk:N00011421">A. Seaton</persName>, a prisoner in the <orgName ref="cwgk:O00000266">Kentucky Penitentiary</orgName>. He has been confined to the hospital for five months past, sinking from a chronic disease of consumptive character. His relatives have expressed a willingness and ability to take care of him.</p>
 <p>In cases like the above, where the ends of justice can no longer be subserved by retaining the prisoner, and he can be well provided for outside, and his impaired physical condition being an impediment in the way of further transgression, we consider the liberation a benefit to the institution as well as humanity to the unfortunate inmate.</p>
 <p>Very Respectfully
-<lb/>J. M. Mills
-<lb/>John S. Hays } Inspectors Ky Penitentiary</p>
+<lb/><persName ref="cwgk:N00005126">J. M. Mills</persName><lb/><persName ref="cwgk:N00005127">John S. Hays</persName> } Inspectors Ky Penitentiary</p>
 <p>I concur in the above recommendation</p>
-<p>J. L. Phythian
-<lb/>Physician to the Ky Penitentiary</p>
+<p><persName ref="cwgk:N00004530">J. L. Phythian</persName><lb/>Physician to the Ky Penitentiary</p>
   </body>
  </text>
 </TEI>
