@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00008637">
                     <persName>
                       Thomas E. Henderson
-                        (Trigg County)
+                        (Trigg County, KY, farmer)
                     </persName>
                         <event type="birth"  when="1826"  ><ab>1826</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Trigg County, Kentucky, farmer. Shelby County, Tennessee native. Son of Bennett Henderson and Catherine Henderson. Enlisted in Company M, 3rd Kentucky Volunteer Cavalry on August 14, 1863 at Cadiz, Kentucky, and discharged on December 24, 1863. Recommended Captain of a home guard company for Caldwell and Trigg counties on December 24, 1863.</p>
+        <p>Trigg County, Kentucky, farmer. Shelby County, Tennessee native. Son of Bennett Henderson and Catherine Henderson. Farmer in Trigg County in 1850. Served in the 3rd Kentucky Volunteer Cavalry Regiment as a private from August 14, 1863 to December 24, 1863.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District One. <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0029 and Roll 0474.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District 1, 317B. 
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0029 and Roll 0474.
 </bibl></ab>
     </back>
 </text>
