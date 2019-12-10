@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Peter Zanane</title>
+        <title level="a" type="main">Peter Zanone</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00011531">
                     <persName>
-                      Peter Zanane
-                        ()
+                      Peter Zanone
+                        (Jefferson County confectioner)
                     </persName>
+                        <event type="birth"  when="1812"  ><ab>1812</ab></event>
+                        <event type="death"  when="1877"  ><ab>1877</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
