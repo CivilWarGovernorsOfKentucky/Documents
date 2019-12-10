@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00008629">
                     <persName>
                       C. D. Bradley
-                        (Trigg County)
+                        (Trigg County, KY, attorney)
                     </persName>
+                        <event type="birth"  when="1802"  cert="medium" ><ab>c1802</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Cadiz, Kentucky, Lawyer. Virginia native. Lawyer in Trigg County in 1850. Owned two enslaved persons in 1850. Lawyer in Cadiz in 1860. Owned one enslaved person in 1860.</p>
+        <p>Cadiz, Trigg County, Kentucky, attorney. Virginia native. Married to Mary J. Bradley. Father of William G. Bradley, Daniel H. Bradley, and Anna Bradley. Owned two enslaved persons in 1850. Attorney in Trigg County in 1850. Owned one enslaved person in Cadiz in 1860. Attorney in Cadiz in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District One. <hi rend="italic">Seventh Manuscript Census of the United States</hi>(1850). Slave Schedules, Kentucky, Trigg County, District One. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Trigg County, Cadiz, p. 188. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Trigg County, Cadiz, p. 41.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District 1. 
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi>(1850). Slave Schedules, Kentucky, Trigg County, District 1. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Trigg County, Cadiz, p. 188. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Trigg County, Cadiz, p. 41.
 </bibl></ab>
     </back>
 </text>
