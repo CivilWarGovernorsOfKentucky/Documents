@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>
     </titleStmt>
@@ -44,10 +48,11 @@
                 <person xml:id="N00002475">
                     <persName>
                       John Newt Turner
-                        (Princeton, Ky)
+                        (Caldwell County, KY, merchant and judge)
                     </persName>
                         <event type="birth"  when="1819-06-24"  ><ab>1819-06-24</ab></event>
                         <event type="death"  when="1889-03-17"  ><ab>1889-03-17</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -55,11 +60,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Princeton, Caldwell County, Kentucky, merchant and county judge. Married to Mary Jane Turner. Father of Eunice Turner and Mary Turner. Merchant in Caldwell County in 1850. Owned two enslaved persons in 1850. County Judge in Princeton in 1860.</p>
+        <p>Princeton, Caldwell County, Kentucky, merchant and county judge. Kentucky native. Married to Mary Jane Turner. Father of Eunice Turner and Mary Turner. Owned two enslaved persons in Caldwell County in 1850. Merchant in Caldwell County in 1850. County Judge in Princeton in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States (1850)</hi>, Population Schedules, Kentucky, Caldwell County, District Two. <hi rend="italic">Seventh Manuscript Census of the United States (1850)</hi>, Slave Schedules, Kentucky, Caldwell County, District Two. <hi rend="italic">Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Caldwell County, Princeton, p. 108. Find a Grave, “John N Turner (1819-1889),” Memorial #18481142, https://www.findagrave.com/memorial/18481142# (accessed May 15, 2018).
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States (1850)</hi>, Population Schedules, Kentucky, Caldwell County, District 2, 345A.  
+
+<hi rend="italic">Seventh Manuscript Census of the United States (1850)</hi>, Slave Schedules, Kentucky, Caldwell County, District 2, p. 779.  
+
+<hi rend="italic">Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Caldwell County, Princeton, p. 112. 
+
+<hi rend="italic">Find A Grave</hi>, “John N. Turner (1819-1889),” Memorial #18481142, https://www.findagrave.com/memorial/18481142 (accessed May 15, 2018).
 </bibl></ab>
     </back>
 </text>
