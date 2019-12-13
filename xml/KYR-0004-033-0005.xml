@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0004-033-0005"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,12 +73,10 @@
   <body>
    <p><note place="header">14</note></p>
 <p>Council Chamber
-<lb/>Bowling Green Ky
-<lb/>Friday <date when="1861-11-22">Novr. 22<hi rend="underline"><hi rend="sup">nd</hi></hi> 1861</date></p>
-<p>The Council met pursuant to adjournment and there being no quorum it was ordered that the Council adjourn until tomorrow morning at 10 O'Clock</p>
+<lb/><placeName ref="cwgk:P00000560">Bowling Green Ky</placeName><lb/>Friday <date when="1861-11-22">Novr. 22<hi rend="underline"><hi rend="sup">nd</hi></hi> 1861</date></p>
+<p>The Council met pursuant to adjournment and there being no quorum it was ordered that the <orgName ref="cwgk:O00011019">Council</orgName> adjourn until tomorrow morning at 10 O'Clock</p>
 <p>Attest
-<lb/>T. L. Burnett
-<lb/>Secretary Pro.Tem</p>
+<lb/><persName ref="cwgk:N00000838">T. L. Burnett</persName><lb/>Secretary Pro.Tem</p>
   </body>
  </text>
 </TEI>
