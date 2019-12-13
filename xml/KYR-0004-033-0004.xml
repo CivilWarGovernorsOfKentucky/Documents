@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0004-033-0004"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,48 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p><note place="header">13</note><hi rend="underline">
-<lb/>Journal 
-<lb/>of the 
-<lb/>Council of the Provisional Government 
-<lb/>of the 
-<lb/>State of Kentucky</hi></p>
-<p>Be it remembered that on the <date when="1861-11-21">twenty first day of November A. D. One Thousand Eight hundred and sixty one</date> at the Chamber of the Hon<hi rend="sup">l.</hi> George W. Johnson Governor of the Provisional Government of the State of Kentucky in the City of Bowling Green and county of Warren, pursuant to the provisions of a Convention by the people, begun at Russellville on Monday <date when="1861-11-18">18<hi rend="sup">th</hi> November 1861</date>, the Governor and Council met, for the purpose of organizing said government.</p>
+   <p><note place="header">13</note><orgName ref="cwgk:O00011019">Council</orgName> of the <orgName ref="cwgk:O00003448">Provisional Government</orgName> </p>
+<p>Be it remembered that on the <date when="1861-11-21">twenty first day of November A. D. One Thousand Eight hundred and sixty one</date> at the Chamber of the Hon<hi rend="sup">l.</hi><persName ref="cwgk:N001002"> George W. Johnson</persName> Governor of the Provisional Government of the State of Kentucky in the City of<placeName ref="cwgk:P00000560"> Bowling Green</placeName> and county of <placeName ref="cwgk:P001020">Warren</placeName>, pursuant to the provisions of a Convention by the people, begun at <placeName ref="cwgk:P00002479">Russellville</placeName> on Monday <date when="1861-11-18">18<hi rend="sup">th</hi> November 1861</date>, the Governor and Council met, for the purpose of organizing said government.</p>
 <p>The following members having taken the oath prescribed by the Constitution appeared and took their seats in the Council</p>
-<p><table rend="rules">
-<row>
-	<cell>From the 2<hi rend="sup">nd</hi> Congressional District</cell>
-	<cell>Hon<hi rend="sup">l</hi> Jno. W. Crockett of</cell>
-</row>
-<row>
-	<cell>From the 3<hi rend="sup">rd</hi> Congressional District</cell>
-	<cell>Hon<hi rend="sup">l.</hi> James P. Bates</cell>
-</row>
-<row>
-	<cell>From the 5<hi rend="sup">th</hi> Congressional District </cell>
-	<cell>Hon<hi rend="sup">l.</hi> Phil. B. Thompson</cell>
-</row>
-<row>
-	<cell>From the 6<hi rend="sup">th</hi> Congressional District</cell>
-	<cell>Hon<hi rend="sup">l</hi> Joseph B. Burnside</cell>
-</row>
-<row>
-	<cell>From the 7th Congressional District</cell>
-	<cell>Hon<hi rend="sup">l.</hi> H. W. Bruce</cell>
-</row>
-<row>
-	<cell>From the 8<hi rend="sup">th</hi> Congressional District</cell>
-	<cell>Hon<hi rend="sup">l.</hi> E. M. Bruce</cell>
-</row>
-</table></p>
-<p>On motion of the Hon<hi rend="underline"><hi rend="sup">l</hi></hi> H. W Bruce, Hon<hi rend="sup">l.</hi> Jno. W. Crockett was unanimously elected President pro. tem- of the Council</p>
+<p>	Honl. <persName ref="cwgk:N00000843">H. W. Bruce</persName></p>
+<p>On motion of the Hon<hi rend="underline"><hi rend="sup">l</hi></hi> H. W Bruce, Hon<hi rend="sup">l.</hi> <persName ref="cwgk:N00000833">Jno. W. Crockett </persName>was unanimously elected President pro. tem- of the Council</p>
 <p>On motion T. L. Burnett was appointed Clerk pro. tem.</p>
-<p>The following resolution was offered by the Hon<hi rend="sup">l</hi>. Phil. B. Thompson viz: "<hi rend="underline">Resolved</hi> that the proceedings of this Council shall be governed by the rules of the late House of Representatives of Kentucky."</p>
+<p>The following resolution was offered by the Hon<hi rend="sup">l</hi>. <persName ref="cwgk:N00000853">Phil. B. Thompson</persName> viz: "<hi rend="underline">Resolved</hi> that the proceedings of this Council shall be governed by the rules of the late House of Representatives of Kentucky."</p>
 <p>Which was unanimously adopted.</p>
 <p>Hon<hi rend="sup">l.</hi> P. B. Thompson moved the following resolution viz.</p>
 <p>"<hi rend="underline">Resolved</hi> that the Council now proceed to the election of a President."</p>
 <p>Which was adopted.</p>
-<p>The Council thereupon proceeded to the election of a President, which resulted in the unanimous choice of the Hon<hi rend="sup">l.</hi> Willis B. Machen, Hon<hi rend="sup">l.</hi> E. M. Bruce moved that messrs Thompson and H. W. Bruce be appointed a committee to inform His Excellency the Governor of the Provisional Government of the State of Kentucky that the Council was now organized and ready to receive any communication by way of message he may think proper to make which was adopted.<pb/>
+<p>The Council thereupon proceeded to the election of a President, which resulted in the unanimous choice of the Hon<hi rend="sup">l.</hi> Willis B. Machen, Hon<hi rend="sup">l.</hi> <persName ref="cwgk:N00000846">E. M. Bruce</persName> moved that messrs Thompson and H. W. Bruce be appointed a committee to inform His Excellency the Governor of the Provisional Government of the State of Kentucky that the Council was now organized and ready to receive any communication by way of message he may think proper to make which was adopted.<pb/>
 <lb/><note place="header">14</note></p>
 <p>Messrs H. W Bruce and Thompson the Committee appointed to wait on the Governor reported that they had performed the duty assigned them, and was informed by His Excellency the Governor that he would in a few days communicate with the<hi rend="str">y</hi> Council in writing</p>
 <p>A special message was received from the Governor as follows viz
