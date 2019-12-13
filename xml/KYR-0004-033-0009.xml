@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0004-033-0009"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,10 +73,9 @@
   <body>
    <p><note place="header">17</note></p>
 <p>Council Chamber
-<lb/>Bowling Green Ky
-<lb/>Tuesday <date when="1861-11-26">November 26.<hi rend="sup">th</hi> 1861</date></p>
-<p>The Council met pursuant to adjournment -- </p>
-<p>Hon<hi rend="sup">l</hi>. W. B. Machen President in the Chair<figure type="hr"/></p>
+<lb/><placeName ref="cwgk:P00000560">Bowling Green Ky</placeName><lb/>Tuesday <date when="1861-11-26">November 26.<hi rend="sup">th</hi> 1861</date></p>
+<p>The <orgName ref="cwgk:O00011019">Council</orgName> met pursuant to adjournment -- </p>
+<p>Hon<hi rend="sup">l</hi>.<persName ref="cwgk:N00000832"> W. B. Machen</persName> President in the Chair<figure type="hr"/></p>
 <p>A. Frank Brown Clerk of the Council elect, <hi rend="str">and</hi> having been duly qualified as required by law entered upon the discharge of the duties of said office.<figure type="hr"/></p>
 <p>A communication from G. Malcom was received and read and on motion it was refered to the committee on Military affairs<figure type="hr"/></p>
 <p>The Committees to whom was refered a bill to fix the salaries of certain Officers- reported the same-</p>
