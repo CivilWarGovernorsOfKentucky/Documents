@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>James Bartek</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -59,8 +67,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>Felix Mion was fined twelve months ago in three cases -- for selling liquor to slaves, one case thirty five dollars -- one twenty five dollars &amp; one Fifty dollars -- The two first he has paid -- The last he wants the Governor to remit -- I was counsel for Mion, and although the proof was against him, yet it was plain that he was ignorant of the law upon the Subject -- He is a foreigner, can only speak part of our language -- had but recently come to the Country -- He is quiet, peaceable &amp; poor man with a wife, and two small children, &amp; his wifes mother to support -- and is industrious &amp; honest -- To remit the fine would in my Judgt be a proper exercise of Executive Clemency.</p>
-<p>J. B. Husbands</p>
+   <p><persName ref="cwgk:N00011498">Felix Mion</persName> was fined twelve months ago in three cases -- for selling liquor to slaves, one case thirty five dollars -- one twenty five dollars &amp; one Fifty dollars -- The two first he has paid -- The last he wants the <persName ref="cwgk:N00000258">Governor</persName> to remit -- I was counsel for Mion, and although the proof was against him, yet it was plain that he was ignorant of the law upon the Subject -- He is a foreigner, can only speak part of our language -- had but recently come to the Country -- He is quiet, peaceable &amp; poor man with a wife, and two small children, &amp; his wifes mother to support -- and is industrious &amp; honest -- To remit the fine would in my Judgt be a proper exercise of Executive Clemency.</p>
+<p><persName ref="cwgk:N00004022">J. B. Husbands</persName></p>
 <p><date when="1861-01-12">Jany 12. 1861</date><pb/></p>
 <p>M<hi rend="sup">c</hi>Cracken 
 <lb/>E &amp; C Ct
@@ -69,9 +77,7 @@
 <lb/>Remission Iss<hi rend="sup">d</hi>
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-01-30">Jany 30 1861</date></p>
 <p>Hon
-<lb/>J. M. Johnson
-<lb/>Paducah
-<lb/>Ky</p>
+<lb/><persName ref="cwgk:N00003952">J. M. Johnson</persName><lb/><placeName ref="cwgk:P00001227">Paducah</placeName><lb/><placeName ref="cwgk:P001800">Ky</placeName></p>
   </body>
  </text>
 </TEI>

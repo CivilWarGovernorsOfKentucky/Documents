@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main"> John Burton Thompson Jr.</title>
+        <title level="a" type="main">John Burton Thompson Jr.</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Melissa DeVelvis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,10 @@
         <particDesc>
                 <person xml:id="N00011226">
                     <persName>
-                       John Burton Thompson Jr.
+                      John Burton Thompson Jr.
                         (Harrodsburg, Kentucky, Provis Govt page)
                     </persName>
-                        <event type="birth"  when="1845"  ><ab>1845</ab></event>
+                        <event type="birth"  when="1845"  cert="medium" ><ab>c1845</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,11 +55,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Harrodsburg, Kentucky, Provisional Government page. Kentucky native. Son of Philip Burton Thompson Senior and Martha Thompson. Resident of Mercer County, Kentucky in 1850.  Resident of Harrodsburg, Kentucky in 1860. Elected sergeant at arms, door keeper, and page of the Provisional Government of Kentucky in November 1861.</p>
+        <p>Harrodsburg, Kentucky, provisional government page. Kentucky native. Son of Philip B. Thompson and Martha Thompson. Resident of Mercer County, Kentucky in 1850. Resident of Harrodsburg, Kentucky in 1860. Elected sergeant at arms, door keeper, and page of the Provisional Government of Kentucky in November 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0004-033-0009<lb/>
+        <ab><bibl>KYR-0004-033-0009.<lb/>
 <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer, District 1, 247A.<lb/>
 <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer, Harrodsburg, 686.
 </bibl></ab>
