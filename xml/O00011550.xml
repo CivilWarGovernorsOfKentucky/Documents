@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,11 +43,21 @@
             <particDesc>
                 <org xml:id="O00011550">
                     <orgName>Kentucky University</orgName>
-                        <event type="begun"  when="1865-02"  ><ab>1865-02</ab></event>
+                        <event type="begun"  when="1858-01-15"  ><ab>1858-01-15</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lexington, Kentucky, educational institution founded by John Bryan Bowman and chartered by the General Assembly of the Commonwealth of Kentucky. First housed in the former Bacon College building in Harrodsburg, from 1858 to 1864. Building destroyed by fire on February 16, 1864. Consolidation of Kentucky University and Transylvania University on February 28, 1865, created the Agricultural and Mechanical College of Kentucky, but the name of Kentucky University was retained until 1908. </p>
+
+    </body>
+    <back>
+        <ab><bibl>Cone, Carl B. <hi rend="italic">The University of Kentucky : A Pictorial History</hi>. Lexington, Ky.: University Press of Kentucky, 1989, 3.
+
+&quot;Kentucky University &quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 515.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
