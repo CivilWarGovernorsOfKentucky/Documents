@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Wesley Pirtle</title>
+        <title level="a" type="main">John Pirtle</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Carl Creason</name>
@@ -43,16 +47,27 @@
         <particDesc>
                 <person xml:id="N00011372">
                     <persName>
-                      John Wesley Pirtle
-                        ()
+                      John Pirtle
+                        (Graves County, KY, prov govt)
                     </persName>
-                        <event type="birth"  when="1834-04-04"  ><ab>1834-04-04</ab></event>
-                        <event type="death"  when="1893-04-22"  ><ab>1893-04-22</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Graves County, Kentucky, resident. Member of the convention of the provisional government held at Russellville in November 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, County, City/District, p. X
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, County, City/District, p. X
+
+KYR-0004-033-0001.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
