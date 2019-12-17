@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011608">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Lewis Triplett</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00011608">
+                    <persName>
+                      Lewis Triplett
+                        (Columbia, Kentucky, weapons manufacturer.)
+                    </persName>
+                        <event type="birth"  when="1822"  ><ab>1822</ab></event>
+                        <event type="death"  when="1902"  ><ab>1902</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Columbia, Kentucky, weapons manufacturer. Kentucky native. Married to Francis A. Murrel Triplett in Adair County, Kentucky on November 29, 1844. Father of Eugene Triplett, John F. Triplett, Laura Triplett, James Triplett, Mattie Triplett, Nannie Triplett, and Minney Triplett.. Saddler in Adair County, Kentucky in 1850. Dentist in Adair County in 1860. Received U.S. Patent Number 45,361 for the Triplett &amp; Scott repeater carbine on December 6, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Executive Documents Printed by Order of The House of Representatives during the Second Session of the Thirty-Eighth Congress, 1864-65</hi>, vol. 10-11 (Washington: Government Printing Office, 1865), p. 961.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Adair County Marriages, Film #000469187.<lb/>
+Year: 1850; Census Place: District 1, Adair, Kentucky; Roll: M432<hi rend="italic">190; Page: 26B; Image: 58<lb/>
+Year: 1860; Census Place: District 1, Adair, Kentucky; Roll: M653</hi>353; Page: 131; Family History Library Film: 803353<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Lewis Triplett (1822-1902),&quot; Memorial #89233558, http://www.findagrave.com/memorial/89233558 (accessed December 17, 2019).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
