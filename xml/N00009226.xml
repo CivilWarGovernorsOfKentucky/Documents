@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Carl Creason</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00009226">
                     <persName>
                       Alonzo Carlan
-                        (Jefferson County, Kentucky, petitioner)
+                        (Oldham County, Ky, mechanic)
                     </persName>
+                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, petitioner. Signed a petition on behalf of H. Berlin in Louisville in 1860. </p>
+        <p>Oldham County, Kentucky, mechanic. Virginia native. Married to Sarah Carlan. Father of Mary Carlan, Nancy Carlan, William Oxam Carlan, Eleanor Carlan, Leet Carlan. Mechanic in Oldham County, Kentucky, in 1850.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1423
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Oldham County, Division 1, p. 141A.
 </bibl></ab>
     </back>
 </text>
