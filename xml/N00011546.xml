@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John S. McGrew</title>
+        <title level="a" type="main">John Strayer McGrew</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
@@ -43,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00011546">
                     <persName>
-                      John S. McGrew
+                      John Strayer McGrew
                         (Surgeon US Volunteers)
                     </persName>
+                        <event type="birth"  when="1823-12-23"  ><ab>1823-12-23</ab></event>
+                        <event type="death"  when="1911-11-17"  ><ab>1911-11-17</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -53,5 +55,21 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Cincinnati, Ohio, physician. Ohio native. Married to Mary A. Cobb McGrew in Hamilton County, Ohio, on April 9, 1851. Father of Lewis C. McGrew. Physician in Cincinnati in 1850. Physician in Cincinnati in 1860. Employed Mary Early as a servant in Cincinnati in 1860. Served in the 83rd Regiment of the Ohio Infantry as assistant surgeon and surgeon and brevet lieutenant colonel from July 26, 1864, to November 3, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules,Ohio, Hamilton County, Sycamore, p. 376B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Hamilton County, Cincinnati Ward 15, p. 355.
+
+<hi rend="italic">Find A Grave</hi>, &quot;John Strayer McGrew (1823-1911),&quot; Memorial 106444105, https://www.findagrave.com/memorial/106444105  (accessed December 17, 2019).
+
+_Marriage Records. Ohio Marriages. Various Ohio County Courthouses. Hamilton County, 1841-1875, Film #000344464, p. 92.
+
+U. S. Department of War, Official Army Registers, 1798-1969, 1866, Adjutant General’s Office, Washington, D. C., August 1, 1866, p. 140.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
