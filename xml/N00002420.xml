@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Fred A. Frische</title>
+        <title level="a" type="main">Frederick A. Frische</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Courtney Buchkoski</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00002420">
                     <persName>
-                      Fred A. Frische
-                        (Jefferson County)
+                      Frederick A. Frische
+                        (Jefferson County, Kentucky, notary public)
                     </persName>
+                        <event type="birth"  when="1839"  cert="medium" ><ab>c1839</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Commissioned a notary public in Jefferson County, Kentucky, on February 5, 1861.</p>
+        <p>Jefferson County, Kentucky, clerk and notary public. Kentucky native. Son of Frederick Frische and Elizabeth Frische. Clerk in Jefferson County in 1860. Notary Public in Jefferson County in 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-017-0062.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, 1st Ward, p. 150.
+
+KYR-0001-004-1373
+
+KYR-0001-017-0062
 </bibl></ab>
     </back>
 </text>
