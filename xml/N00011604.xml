@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00011604">
                     <persName>
                       Joseph Highnight
-                        ()
+                        (Perry County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <event type="death"  when="1910"  cert="medium" ><ab>c1910</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,21 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Perry County, Kentucky, farmer. Kentucky native. Married to Nancy Highnight. Father of William Highnight, Jas Highnight, Joseph Highnight, Polly Highnight, and Nancy Highnight. Farmer in Perry County in 1850. Farmer in Perry County in 1860. Served in the 14th Kentucky Volunteer Cavalry (U.S.A.) as a private from October 1863 to March 1864.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Perry County, District 1, p. 406A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Perry County, District 1, p. 779.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 385.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Jos. Highnight (X-X),&quot; Memorial #6037655, http://www.findagrave.com/memorial/6037655 (accessed December 17, 2019).
+
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Application #938054, Certificate #716834. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
