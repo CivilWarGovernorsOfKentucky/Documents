@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. H. McGarrey</title>
+        <title level="a" type="main">John William McGarvey</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00011579">
                     <persName>
-                      J. H. McGarrey
-                        (Curator of Kentucky Univ)
+                      John William McGarvey
+                        (Fayette Co, KY, minister, professor, &amp; curator of Kentucky Univ)
                     </persName>
+                        <event type="birth"  when="1829-03-01"  ><ab>1829-03-01</ab></event>
+                        <event type="death"  when="1911-10-06"  ><ab>1911-10-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,8 +55,30 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Fayette County, Kentucky, minister, professor and curator. Hopkinsville, Kentucky, native. On of John McGarvey and Sallie Ann Thompson McGarvey. Married to Mary Otwayanna Frances Hix McGarvey in Fayette, Missouri, on March 23, 1853. Father of Loulie McGarvey, J. W. McGarvey, Jr., Ellen “Nellie” McGarvey, Thompson McGarvey, and Sarah McGarvey. Graduated from Bethany College in 1850. Taught at a male school in Fayette, Missouri from 1850 to 1851. Ordained in the Christian ministry in 1851. Minister in Missouri from 1851 to 1862. Professor of theology at The College of the Bible, Kentucky University. Member of the board of curators of Kentucky University.</p>
+
+    </body>
     <back>
-        <ab><bibl>KYR-0001-009-0038.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Missouri, Howard County, p. 213B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Missouri, Lafayette County, Dover, p. 456.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, District 1, p. 1A.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Otwayanna Frances McGarvey (1834-1911),&quot; Memorial 14440418, https://www.findagrave.com/memorial/14440418  (accessed December 19, 2019).
+
+<hi rend="italic">Find A Grave</hi>, &quot;John William McGarvey (1829-1911),&quot; Memorial 64529122, https://www.findagrave.com/memorial/64529122/otwayanna-frances-mcgarvey  (accessed December 19, 2019).
+
+Moore, W. T. (editor), <hi rend="italic">Living Pulpit of the Christian Church</hi>. Cincinnati: R. W. Carroll &amp; Co., Publishers, 1871, pp. 325-26. As quoted on Harp, Scott, “John William McGarvey,” <hi rend="italic">History of the Restoration Movement</hi>, https://www.therestorationmovement.com/_states/kentucky/mcgarvey,jw.htm,  (accessed December 19, 2019).
+
+John Fiske and James Grant Wilson, ed., <hi rend="italic">Appleton&#39;s Cyclopædia of American Biography</hi>, vol. IV, (New York: Appleton, 1889), 116.
+
+<hi rend="italic">Missouri Marriage Records</hi>. Jefferson City, MO: Missouri State Archives. Howard County, 1816-1860, p. 202, p. 383 of microfilm.
+
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016137: All Counties, Fayette County Deaths, File #25411, p. 2218 of microfilm.
+
+KYR-0001-009-0038.
 </bibl></ab>
     </back>
 </text>
