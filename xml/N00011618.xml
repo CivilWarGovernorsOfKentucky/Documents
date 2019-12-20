@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011618">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Garrard</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00011618">
+                    <persName>
+                      James Garrard
+                        (Kentucky governor)
+                    </persName>
+                        <event type="birth"  when="1749-01-14"  ><ab>1749-01-14</ab></event>
+                        <event type="death"  when="1822-01-19"  ><ab>1822-01-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kentucky governor. Virginia Native. Son of William Garrard and Mary Naughty Garrard. Married to Elizabeth Montjoy Garrard in 1765. Father of Theophilius Toulmin Garrard, John Mountjoy Garrard, Margaret Garrard, Elizabeth Garrard Brooks, Ann Elinor Garrard Hawkins, Daniel Garrard, Maria Garrard Dudley, and James Garrard Junior. Served as colonel in the Revolutionary War. Moved to  Bourbon County, Kentucky in 1783. Farmer, lumber mill owner, and Baptist preacher in Bourbon County, Kentucky in the 1780s. A Jeffersonian Republican.Governor of Kentucky from 1796 to 1804. </p>
+
+    </body>
+    <back>
+        <ab><bibl>Lowell H. Harrison, &quot;Garrard, James&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 363-4.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;James Garrard (1749-1822),&quot; Memorial #18123008, https://www.findagrave.com/memorial/18123008/james-garrard (accessed December 20, 2019).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
