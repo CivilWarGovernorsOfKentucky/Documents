@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011614">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Judah Philip Benjamin</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00011614">
+                    <persName>
+                      Judah Philip Benjamin
+                        (CSA Cabinet Member)
+                    </persName>
+                        <event type="birth"  when="1811-08-06"  ><ab>1811-08-06</ab></event>
+                        <event type="death"  when="1884-05-06"  ><ab>1884-05-06</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisiana, Confederate Secretary of War, State, and Attorney General. Native of the West Indies.Married to Natalie Benjamin. Father of Ann L. Benjamin. Admitted to the bar in New Orleans, Louisiana in 1833. U.S. Senator from Louisiana from 1852 to 1861. First attorney general of the Confederacy from February 25, 1861 until he became the Secretary of War in September 1861. Appointed Secretary of State of the Confederacy from March 1862 until the end of the Civil War. Moved to England in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;Judah Philip Benjamin,&quot; <hi rend="italic">National Parks Service</hi>, November 10, 2018, https://www.nps.gov/people/judah-philip-benjamin.htm (accessed December 19, 2019).<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Louisiana, Orleans, New Orleans Ward 1, p. 153.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
