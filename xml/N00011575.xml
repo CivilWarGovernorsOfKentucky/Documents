@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. M. Bishop.</title>
+        <title level="a" type="main">Richard Moore Bishop</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,17 +43,36 @@
         <particDesc>
                 <person xml:id="N00011575">
                     <persName>
-                      R. M. Bishop.
-                        (Curator of Kentucky Univ)
+                      Richard Moore Bishop
+                        (Cincinnati, Ohio, merchant, politician, and university curator)
                     </persName>
+                        <event type="birth"  when="1812-11-04"  ><ab>1812-11-04</ab></event>
+                        <event type="death"  when="1893-03-02"  ><ab>1893-03-02</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Cincinnati, Ohio, merchant, politician, and university curator. Fleming County, Kentucky, native. Married to Mary Threlkeld Bishop. Father of William Bishop, Ellen Bishop, Mary Amanda Bishop, Jacob C. Bishop, Richard H. Bishop, James F. Bishop, Anna Bishop, and Carrie Bishop. Clerk in store from 1830. Partnership in pork shipping business with his brother from 1838. Established a wholesale grocery business known as Bishop, Wells and Company in 1848. Merchant in Cincinnati in 1850. Elected to the Cincinnati city council in 1857. Mayor of Cincinnati from 1859 to 1861. Employed Johanna Mockler, Johanna Mahar, Mary Shaha, and Joseph Sturm as domestic servants in 1860. Returned to wholesale grocery business in 1861. Member of the board of curators of Kentucky University in 1865.</p>
+
+    </body>
     <back>
-        <ab><bibl>KYR-0001-009-0038.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Hamilton County, Cincinnati Ward 5, p. 414B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Hamilton County, Cincinnati Ward 15, p. 422.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Hamilton County, Cincinnati Ward 15, p. 394B-395A.
+
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Ohio, Hamilton County, Cincinnati East Half Ward 15, p. 128B.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Richard Moore Bishop (1812-1905),&quot; Memorial 5071, https://www.findagrave.com/memorial/5071  (accessed December 23, 2019).
+
+“Richard M. Bishop,” Ohio History Connection, <hi rend="italic">Ohio History Central</hi>, https://ohiohistorycentral.org/w/Richard<hi rend="italic">M.</hi>Bishop (accessed December 23, 2019).
+
+KYR-0001-009-0038.
 </bibl></ab>
     </back>
 </text>
