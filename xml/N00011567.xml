@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">D. H. Thompson.</title>
+        <title level="a" type="main">David Williams Thompson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00011567">
                     <persName>
-                      D. H. Thompson.
-                        (Curator of Kentucky Univ)
+                      David Williams Thompson
+                        (Mercer County, KY, farmer and curator of Kentucky Univ)
                     </persName>
+                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
+                        <event type="death"  when="1865"  cert="medium" ><ab>c1865</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,8 +55,24 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Mercer County, Kentucky, farmer. Kentucky native. Son of Foster Thompson and Polly Williams Thompson. Married to Sarah M. Withers Thompson. Father of Susan “Sue” H. Thompson, Camillus Daviess Thompson, William Thompson, Lucy A. Thompson, and David W. Thompson.  Farmer in Mercer County in 1840. Owned nine enslaved persons in Mercer County in 1840. Farmer in Mercer County in 1850. Employed John Tobin, Samuel Scott, and James Crutchfield as farmers in Mercer County in 1850. Owned sixteen enslaved persons in Mercer County in 1850. Farmer in Mercer County in 1860. Owned eighteen enslaved persons in Mercer County in 1860. Owned a store with merchandise in 1865. Member of the board of curators of Kentucky University in 1865.</p>
+
+    </body>
     <back>
-        <ab><bibl>KYR-0001-009-0038.
+        <ab><bibl><hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Kentucky,  Mercer County, p. 194.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky,  Mercer County, District 1, p. 254B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky,  Mercer County, District 1, p. 849, p. 8 of microfilm.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, p. 764.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mercer County, p. 56D, p. 17 of microfilm.
+
+_ Kentucky, Wills and Probate Records, 1774-1989_, Kentucky County, District, and Probate Courts, Mercer County Administrator Bonds, 1865-1916, (Accessed through ancestry.com on December 26, 2019), p. 30 of microfilm.
+
+KYR-0001-009-0038.
 </bibl></ab>
     </back>
 </text>
