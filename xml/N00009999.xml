@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Th. McWassan</title>
+        <title level="a" type="main">Th. McMahan</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00009999">
                     <persName>
-                      Th. McWassan
+                      Th. McMahan
                         (Louisville, Kentucky)
                     </persName>
+                        <event type="birth"  when="1846"  cert="medium" ><ab>c1846</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +54,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Nicholas Simon in Louisville, Kentucky on February 25, 1865.</p>
+        <p>Louisville, Jefferson County, Kentucky, resident. Native of Ireland. Resident in Louisville in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-1373
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville 4th Ward, p. 507.
+
+KYR-0001-004-1373
 </bibl></ab>
     </back>
 </text>
