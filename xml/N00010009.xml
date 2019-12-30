@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>
     </titleStmt>
@@ -46,7 +50,9 @@
                       Leander Streber
                         (Louisville, Kentucky, priest)
                     </persName>
-                        <event type="birth"  when="1808"  cert="medium" ><ab>c1808</ab></event>
+                        <event type="birth"  when="1807"  ><ab>1807</ab></event>
+                        <event type="death"  when="1882"  ><ab>1882</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,17 +60,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, clergyman. Bavaria native. Roman Catholic clergyman in Louisville in 1850 and 1860. Affiliated with the Female Academy of the Ursulines in Louisville in 1860. Reverend at St. Martin’s Church in 1865.</p>
+        <p>Louisville, Jefferson County, Kentucky, priest. Native of Bavaria. Roman Catholic priest in Louisville in 1850. Roman Catholic priest in Louisville in 1860. Affiliated with the Female Academy of the Ursulines in Louisville in 1860. Priest at St. Martin’s Church in 1865.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 227A.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 358A.
 
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 1, p. 31.
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 1, p. 127.
 
 “Female Academy of the Ursulines in Louisville, Ky.,” <hi rend="italic">Louisville Daily Courier</hi>, September 10, 1860.
 
 <hi rend="italic">Edwards’ Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, business Firms, Etc., Etc., in the City of Louisville for 1865-66</hi> (Edwards, Greenough &amp; Deved, Publishers), p. 492.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Leander Streber (1807-1882),&quot; Memorial #93989053 , http://www.findagrave.com/memorial/93989053 (accessed December 30, 2019).
 </bibl></ab>
     </back>
 </text>
