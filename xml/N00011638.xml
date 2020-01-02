@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,20 @@
                       [Unknown] [Unknown]
                         ()
                     </persName>
-                      <trait type="gender" subtype="M"/>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="U"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Jefferson County, Kentucky, resident. Signed a petition on behalf of </p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0001-029-0618
+</bibl></ab>
+    </back>
 </text>
 </TEI>
