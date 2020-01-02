@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,8 @@
                       Joseph Wasson
                         (Fayette County, Kentucky, farmer and curator of Kentucky Univ)
                     </persName>
-                        <event type="birth"  when="1795"  ><ab>1795</ab></event>
+                        <event type="birth"  when="1795-10-23"  ><ab>1795-10-23</ab></event>
+                        <event type="death"  when="1878-10-11"  ><ab>1878-10-11</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,8 +56,26 @@
     </teiHeader>
     <text>
     <body>
-        <p>Fayette County, Kentucky, university curator. Pennsylvania native. Married to Sarah Hearnes Wasson. </p>
+        <p>Fayette County, Kentucky, university curator. Pennsylvania native. Married to Sarah E. Hearne Wasson. Father of Evalina Wasson, John M. Wasson, Joseph Wasson, Barton Wasson, and Sarah Wasson. Farmer in Fayette County in 1850. Owned five enslaved persons in Fayette County in 1850. Farmer in Fayette County in 1860. Owned eight enslaved persons in Fayette County in 1860. Member of the board of curators of Kentucky University in 1865.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fayette County, District 1, p. 150B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Fayette County, District 1, p. 19 of microfilm.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington, p. 426.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 452A (p. 3 of microfilm).
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, Lexington Ward 2, p. 214B.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Joseph Wasson (1795-1878),&quot; Memorial 96874232, https://www.findagrave.com/memorial/96874232/joseph-wasson (accessed January 2, 2020).
+
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016145: All Counties, Woodford County Deaths, File #18587 (John M. Wasson), p. 2091 of microfilm.
+
+KYR-0001-009-0038.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
