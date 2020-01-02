@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Edward N. Kinswan</title>
+        <title level="a" type="main">Edward N. Kirwan</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,19 @@
         <particDesc>
                 <person xml:id="N00011574">
                     <persName>
-                      Edward N. Kinswan
-                        ()
+                      Edward N. Kirwan
+                        (Jefferson County resident)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Jefferson County, Kentucky, resident. Signed a petition on behalf of Thomas Edrington in 1863.</p>
+
+    </body>
 </text>
 </TEI>
