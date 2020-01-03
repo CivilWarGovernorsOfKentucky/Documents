@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">F Gorin</title>
+        <title level="a" type="main">F. Gorin</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,8 +43,8 @@
         <particDesc>
                 <person xml:id="N00011644">
                     <persName>
-                      F Gorin
-                        ()
+                      F. Gorin
+                        (Jefferson County resident)
                     </persName>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -48,5 +52,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Jefferson County, Kentucky, resident. Signed a petition on behalf of Frank Yocum in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0001-004-0364
+</bibl></ab>
+    </back>
 </text>
 </TEI>
