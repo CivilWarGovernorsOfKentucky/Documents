@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>
     </titleStmt>
@@ -44,10 +48,11 @@
                 <person xml:id="N00008699">
                     <persName>
                       Phelps Paine
-                        (Warren County, Illinois)
+                        (Warren County, Illinois, soldier)
                     </persName>
                         <event type="birth"  when="1843"  cert="medium" ><ab>c1843</ab></event>
                         <event type="death"  when="1919-05-03"  ><ab>1919-05-03</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -55,11 +60,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Monmouth, Warren County, Illinois, soldier. Ohio native. Son of Elezear A. Paine and Charlotte Chapin. Served as Sergeant Major of the 9th Illinois Volunteer Regiment (U.S.A.) in 1861. Promoted to Captain and Assistant Adjutant General on March 11, 1863 for his father, Brigadier General Eleazer A. Paine’s command. Resigned from the army on January 11, 1865.</p>
+        <p>Monmouth, Warren County, Illinois, soldier. Ohio native. Son of Elezear A. Paine and Charlotte Chapin. Served in the 9th Illinois Volunteer Regiment (U.S.A.) as sergeant major in 1861. Served under Brigadier General Eleazer A. Paine as captain and assistant adjutant general from from March 11, 1863. Resigned from the army on January 11, 1865.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Illinois, Warren County. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, Warren County, Monmouth, p. 172. Thomas H. S. Hamersly, <hi rend="italic">Complete Regular Army Register of the United States: for One Hundred Years, (1779-1879)</hi> (Washington, D.C.: T. H. S. Hamersly, 1880), p. 81. “Deaths and Funerals,” <hi rend="italic">The Nebraska State Journal</hi>, May 5, 1919.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Illinois, Warren County. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, Warren County, Monmouth, p. 172. 
+
+Thomas H. S. Hamersly, <hi rend="italic">Complete Regular Army Register of the United States: for One Hundred Years, (1779-1879)</hi> (Washington, D.C.: T. H. S. Hamersly, 1880), p. 81. 
+
+“Deaths and Funerals,” <hi rend="italic">The Nebraska State Journal</hi>, 5 May 1919.
 </bibl></ab>
     </back>
 </text>
