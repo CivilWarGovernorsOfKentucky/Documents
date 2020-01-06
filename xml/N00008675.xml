@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">James Buford</title>
+        <title level="a" type="main">James Allen Buford</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Christina Adkins</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00008675">
                     <persName>
-                      James Buford
-                        (Mercer County)
+                      James Allen Buford
+                        (Garrard and Mercer County, KY, tavern keeper)
                     </persName>
+                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Resident of Mercer County, Kentucky. Mercer County resident in 1864. Wrote a letter to Governor Thomas Bramlette 1864 complaining of the character of John D. Hale and Harvey Burns, who had been recruiting for militia in Mercer County. </p>
+        <p>Lancaster, Garrard County, Kentucky, tavern keeper. Kentucky native. Married to Elizabeth Gates Buford. Father of Mary Frances Buford, Emma Buford, Betty Buford, James Buford, and M. V. Buford. Tavern keeper in Garrard County in 1860. Resident of Mercer County in 1864. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-225-0057.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Garrard County, Lancaster, p. 631.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jessamine County, Nicholasville, p. 674A.
+
+KYR-0002-225-0057.
+
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016221, Jessamine County Deaths, File #21410.
 </bibl></ab>
     </back>
 </text>
