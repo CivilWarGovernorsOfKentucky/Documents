@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0132"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,9 +72,9 @@
  <text>
   <body>
    <p><date when="1864-07-24">July, 24<hi rend="sup">th</hi>, 1864</date>
-<lb/>Callettsburg Ky</p>
-<p>Receved of J H Jacobs Recruting officer for the 6 months sum fore dollars &amp; thity five cents Bording soldirs &amp; self</p>
-<p>C, S, Guilkey</p>
+<lb/><placeName ref="cwgk:P00001173">Callettsburg</placeName> <placeName ref="cwgk:P001800">Ky</placeName></p>
+<p>Receved of <persName ref="cwgk:N00010451">J H Jacobs</persName> Recruting officer for the 6 months sum fore dollars &amp; thity five cents Bording soldirs &amp; self</p>
+<p><persName ref="cwgk:N00011188">C, S, Guilkey</persName></p>
   </body>
  </text>
 </TEI>
