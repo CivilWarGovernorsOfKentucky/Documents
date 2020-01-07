@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Thos. J. Daniel</title>
+        <title level="a" type="main">Thomas. J. Daniel</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,26 @@
         <particDesc>
                 <person xml:id="N00011663">
                     <persName>
-                      Thos. J. Daniel
-                        ()
+                      Thomas. J. Daniel
+                        (Campbell County farmer)
                     </persName>
+                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Campbell County, Kentucky, farmer. Kentucky native. Married to Sarah Daniel. Father of Agnes Daniel, Thomas Daniel, Euphrates Daniel, Lunetta U. Daniel, Ina J. Daniel, Orison L. Daniel, and William R. Daniel. Farmer in Campbell County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Campbell County, p. 775.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Campbell County, Gupsers Mill, p. 261A.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
