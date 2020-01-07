@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Carl Creason</name>
           </respStmt>
     </titleStmt>
@@ -44,7 +48,7 @@
                 <person xml:id="N00011591">
                     <persName>
                       William F. Bowen
-                        (Jefferson County printer)
+                        (Louisville, Kentucky, printer)
                     </persName>
                         <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
                         <trait type="race" subtype="White"/>
@@ -55,8 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Jefferson County, Kentucky, printer. Pennsylvania native. Married to Martha Bowen. Father of Henrietta Bowen and Zoyorida Bowen. Printer in Jefferson County in 1860.</p>
+        <p>Louisville, Jefferson County, Kentucky, printer. Pennsylvania native. Married to Martha Bowen. Father of Henrietta Bowen and Zoyorida Bowen. Printer in Jefferson County in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, 2nd Ward, p. 695.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
