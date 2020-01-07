@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,22 @@
                 <person xml:id="N00011657">
                     <persName>
                       J. H. Dorr
-                        ()
+                        (Campbell County farmer)
                     </persName>
+                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Campbell County, Kentucky, farmer. Ohio native. Married to Mary Darr. Father of Charles H. Darr, Eliza G. Darr, Emily Darr, and Juilatta Darr. Farmer in Campbell County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Campbell County, Jamestown, p. 651.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
