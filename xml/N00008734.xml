@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Isaiah Coulter</title>
+        <title level="a" type="main">Isaiah Coalter</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,12 @@
         <particDesc>
                 <person xml:id="N00008734">
                     <persName>
-                      Isaiah Coulter
-                        (guerrilla)
+                      Isaiah Coalter
+                        (Confederate guerrilla)
                     </persName>
-                        <event type="death"  when="1865"  cert="medium" ><ab>c1865</ab></event>
+                        <event type="birth"  when="1843-03-31"  ><ab>1843-03-31</ab></event>
+                        <event type="death"  when="1865-02-06"  ><ab>1865-02-06</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -50,11 +56,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in  KYR-0002-225-0060. </p>
+        <p>Anderson County, Kentucky, guerrilla. Kentucky native. Son of Rowan Coalter and Sabra H. Coalter. Resident of Anderson County in 1850. Guerrilla (C.S.A.) in Anderson and adjacent counties in 1864 and 1865.  </p>
 
     </body>
     <back>
-        <ab><bibl>Champ Clark, “Autobiography,” <hi rend="italic">Hearst’s</hi>, December 1917, p. 510.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Anderson County, p. 231B. 
+
+Champ Clark, “Autobiography,” <hi rend="italic">Hearst’s</hi>, December 1917, p. 510.
 
 KYR-0002-225-0060.
 </bibl></ab>
