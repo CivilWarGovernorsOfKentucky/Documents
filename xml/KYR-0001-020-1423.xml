@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1423"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Christina Adkins</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,51 +71,32 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky <date when="1860-01-20">Jany 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date>
+   <p><placeName ref="cwgk:P00000337">Louisville Ky</placeName> <date when="1860-01-20">Jany 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date>
 <lb/>His Excellency,
-<lb/>B Magoffin Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Kentucky,</p>
-<p>The undersigned would represent that<hi rend="str">,</hi> at the <date when="1860-01">January Term 1860</date> of the City Court of Louisville, a fine of fifty Dollars &amp; cost was imposed upon him, upon an indictment Charging him, with Selling to a Slave, Whisky, Said slave belonging to one John M<hi rend="sup">c</hi>Gaugh, the indictment charges that the Same was sold to the slave on the <date when="1859-12-08">8<hi rend="sup">th</hi> of December 1859,</date></p>
+<lb/><persName ref="cwgk:N00000258">B Magoffin</persName> Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of <placeName ref="cwgk:P001800">Kentucky</placeName>,</p>
+<p>The undersigned would represent that<hi rend="str">,</hi> at the <date when="1860-01">January Term 1860</date> of the <orgName ref="cwgk:O001838">City Court of Louisville</orgName>, a fine of fifty Dollars &amp; cost was imposed upon him, upon an indictment Charging him, with Selling to a Slave, Whisky, Said slave belonging to one John M<hi rend="sup">c</hi>Gaugh, the indictment charges that the Same was sold to the slave on the <date when="1859-12-08">8<hi rend="sup">th</hi> of December 1859,</date></p>
 <p>Now your petitoner Solemly avers that the true facts of the Case and these, He says that he Keep<hi rend="underline"><hi rend="sup">s</hi></hi> a Tavern, near the Pork <hi rend="str">P</hi>house of A. S. White &amp; Co, at the head of Jefferson street in the City of Louisville Ky, and that said slave was hired by his owner to work at s<hi rend="underline"><hi rend="sup">d</hi></hi> pork house, and that on the day named in said in said indictment a white man came into the Tavern of the undersigned, with Said <hi rend="underline">slave</hi>, and represented that he was one of the managers of said pork house -- that the slave was in his Employ &amp; directed me to let him have a Dram of whiskey, I done So, never thinking but that the white man was authorized to Call for the Drink, I have lived in Louisville many years &amp; this is the first charge Ever brought -- against me, no man is more opposed to Violating the law than I am, and the negro never should have had the whiskey if I had not of believed the white man Controled him, In viw of all the facts of the case I trust your Excellency will remit said fine, </p>
 <p>Very Respectfully
-<lb/><hi rend="underline">H Berlin</hi><pb/></p>
+<lb/><persName ref="cwgk:N00009221">H Berlin</persName><pb/></p>
 <p>I was the attorney of H Berlin in the above Case, and am Satisfied Berlin,s Statement is true, I have Known Berlin many years, &amp; believe he is as peacable and as law abiding Citizen as we have in our City, and think his Case -- Demands Executive Clemency,</p>
-<p>W C Price Jr</p>
+<p><persName ref="cwgk:N00003029">W C Price Jr</persName></p>
 <p>We the undersigned neighbours of the above petitioner, H Berlin would state, that we believe his is a Case that Demands the Executive Clemency, and unite with him in asking your Excellency to remit Said fine, we are Satisfied that there is no more law abiding man in our city, &amp; we believe that the account he gives of the transaction to be strictly true,</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>E. Webster Cox
-<lb/>Geo. H. Long
-<lb/>Frederick E. Graer
-<lb/>Alonzo Z Carlan
-<lb/><unclear/> Bodell
-<lb/>J. S. Harlan
-<lb/>James B Guthrie
-<lb/>W<hi rend="sup">m</hi> Patterson
-<lb/>J. Botkin
-<lb/>W. S. Young
-<lb/>S. F. Harlan
-<lb/>George S. Langtree
-<lb/>James Stafford
-<lb/>William R. Parish
-<lb/><cb n="2"/>D S. Clark
-<lb/>Tho Prattson
-<lb/>Henry Hartman
-<lb/>F Holmes
-<lb/>G, W, Sprouse
-<lb/>W: Armbruster.
-<lb/>F. Jos. Steinhausar
-<lb/><hi rend="underline">John D Taggart</hi>
-<lb/>Edwd M. Clayland
-<lb/>L<unclear/> <unclear>Gorsch</unclear> T<unclear/> B<unclear/>
-<lb/>Henry Fischer
-<lb/><unclear>J</unclear> S<unclear/> B<unclear/>
-<lb/>W. H. Lyle
-<lb/>Henry Hall
-<lb/>S Harlan<milestone unit="column" n="1"/><pb/>
-<lb/>H Wages<pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00009223">E. Webster Cox</persName><lb/><persName ref="cwgk:N00009224">Geo. H. Long</persName><lb/><persName ref="cwgk:N00009225">Frederick E. Graer
+</persName><lb/><persName ref="cwgk:N00009226">Alonzo Z Carlan</persName><lb/><unclear/> Bodell
+<lb/><persName ref="cwgk:N00009276">J. S. Harlan</persName><lb/><persName ref="cwgk:N00009281">James B Guthrie
+</persName><lb/>W<hi rend="sup">m</hi> Patterson
+<lb/><persName ref="cwgk:N00009296">J. Botkin</persName><lb/><persName ref="cwgk:N00009297">W. S. Young
+</persName><lb/><persName ref="cwgk:N00009298">S. F. Harlan</persName><lb/><persName ref="cwgk:N00009299">George S. Langtree</persName><lb/><persName ref="cwgk:N00009300">James Stafford</persName><lb/><persName ref="cwgk:N00009301">William R. Parish</persName><lb/><cb n="2"/><persName ref="cwgk:N00009302">D S. Clark</persName><lb/><persName ref="cwgk:N00009303">Tho Prattson</persName><lb/><persName ref="cwgk:N00009304">Henry Hartman</persName><lb/><persName ref="cwgk:N00009308">F Holmes</persName><lb/><persName ref="cwgk:N00009309">G, W, Sprouse</persName><lb/><persName ref="cwgk:N00009312">W: Armbruster.
+</persName><lb/><persName ref="cwgk:N00009315">F. Jos. Steinhausar</persName><lb/>
+<persName ref="cwgk:N00009319">John D Taggart</persName><lb/><persName ref="cwgk:N00009320">Edwd M. Clayland</persName><lb/>L<unclear/> <unclear>Gorsch</unclear> T<unclear/> B<unclear/>
+<lb/><persName ref="cwgk:N00009325">Henry Fischer</persName><lb/><unclear>J</unclear> S<unclear/> B<unclear/>
+<lb/><persName ref="cwgk:N00009328">W. H. Lyle</persName><lb/><persName ref="cwgk:N00009322">Henry Hall</persName><lb/><persName ref="cwgk:N00009273">S Harlan</persName><milestone unit="column" n="1"/><pb/>
+<lb/><persName ref="cwgk:N00010952">H Wages</persName><pb/></p>
 <p>Louisville City Court</p>
 <p>Respite 12 mo
 <lb/>B, M.</p>
 <p>H Berlin
-<lb/>&#36;50 &#125; selling liquor to a slave
+<lb/>$50 } selling liquor to a slave
 <lb/>Iss<hi rend="sup">d</hi> <date when="1860-03-08">Mar 8. 1860</date>
 <lb/>Remission Iss<hi rend="sup">d </hi><date when="1860-09-10">Sept 10. 1861</date></p>
   </body>
