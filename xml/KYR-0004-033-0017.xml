@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0004-033-0017"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,10 +72,8 @@
  <text>
   <body>
    <p><note place="header">47</note></p>
-<p><hi rend="underline">Council Chamber Bowling Green Ky
-<lb/>Thursday</hi> <date when="1861-12-05"><hi rend="underline">December</hi> <hi rend="underline">5</hi><hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="underline">1861</hi></date></p>
-<p>The Council met pursuant to adjournment
-<lb/>W. B. Machen President in the chair<figure type="hr"/></p>
+<p>Council Chamber  <placeName ref="cwgk:P00000560">Bowling Green</placeName> Ky<date when="1861-12-05"><hi rend="underline">December</hi> <hi rend="underline">5</hi><hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="underline">1861</hi></date></p>
+<p>The <orgName ref="cwgk:O00011019">Council</orgName> met pursuant to adjournment<lb/><persName ref="cwgk:N00000832">W. B. Machen</persName> President in the chair<figure type="hr"/></p>
 <p><hi rend="underline">S. S. Scott</hi> member of the Council from the tenth Congressional district, appointed to fill the vacany occasioned by the resignation of George B. Hodge, appeared, and the President having administered to him the oath prescribed by law, took his seat<figure type="hr"/></p>
 <p><hi rend="underline">Mr Crockett</hi> from the Committee on the Judiciary reported a bill entitled "An authorizing the appointment of a commissioner to settle with the collecting Officers of this State" which was read a first time.
 <lb/>Ordered That said bill be read a second time
@@ -89,7 +95,7 @@
 <lb/>Bowling Green Ky
 <lb/><date when="1861-12-05">December 5<hi rend="sup">th</hi> 1861</date>
 <lb/>W. B. Machen Esq
-<lb/>President of the Council of the Provisional Government of the State of Kentucky Sir.</p>
+<lb/>President of the Council of the Provisional Government of the State of <placeName ref="cwgk:P001800">Kentucky</placeName> Sir.</p>
 <p>The Sheriff of this County after full conference with me, has concluded to offer no resistance to the will of the Provisional Government, and to comply with its demands of a settlement and payment over to our Treasurer of all monies, now in his hands, and wishes some one appointed to investigate his accounts, and thinks that the Provisional Government should make its demand of him in writing for his books &amp;<hi rend="sup">c</hi> He expressed great reluctance to assuming this position, but thought it due to his sureties.</p>
 <p>In view of this fact I nominate Lewis W. Potter of this county as Sheriff thereof</p>
 <p>George W. Johnson
@@ -111,21 +117,20 @@
 <p><hi rend="underline">Mr Crockett</hi> moved that the Council do now go into secret session -- and the question being taken thereon it was decided in the affirmative-
 <lb/>And then the Council went into secret Session.<figure type="hr"/></p>
 <p>Mr Crockett moved to reconsider the vote of yesterday by which the bill entitled "An act to enlarge the powers of the Commissioners to the Government of the Confederate States of America" was passed.<figure type="hr"/></p>
-<p><hi rend="underline">Mr Bates</hi> moved to lay the motion to reconsider on the table- and before the question was taken thereon leave was granted to withdraw the same.<figure type="hr"/></p>
+<p> moved to lay the motion to reconsider on the table- and before the question was taken thereon leave was granted to withdraw the same.<persName ref="cwgk:N00000852">Mr Bates</persName><figure type="hr"/></p>
 <p><hi rend="underline">Mr Crockett</hi> then moved the previous question on the motion to reconsider which was seconded.
 <lb/>And the vote being taken "shall the main question be now put" it was decided in the affirmative
 <lb/>The question was then taken upon the motion to reconsider and it was decided in the negative
 <lb/>The yeas and nays having been required thereon by Messrs Crockett and H. W. Bruce were as follows. viz:
 <lb/>Those who voted in the affirmative were messrs
 <lb/>J. P. Bates
-<lb/>E. M Bruce. 2
-<lb/>Those who voted in the negative were
+<lb/><persName ref="cwgk:N00000846">E. M Bruce</persName>. 2<lb/>Those who voted in the negative were
 <lb/><milestone unit="column" n="2"/><cb n="1"/>Mr President.
 <lb/>H. W. Bruce
 <lb/><cb n="2"/>J. W. Crockett
 <lb/>S. S Scott
-<lb/>J. P. Burnside 5.<milestone unit="column" n="1"/><figure type="hr"/></p>
-<p>Mr E. M. Bruce from the Committee on Banks reported a bill entitled "An act to regulate Banks" which was read a first time<pb/>
+<lb/><persName ref="cwgk:N00011020">J. P. Burnside</persName> 5.<milestone unit="column" n="1"/><figure type="hr"/></p>
+<p>Mr E. M. Bruce from the <orgName ref="cwgk:O00011356">Committee on Banks</orgName> reported a bill entitled "An act to regulate Banks" which was read a first time<pb/>
 <lb/><note place="header"><unclear>50</unclear></note>
 <lb/>Ordered that said bill be read a second time
 <lb/>On motion the rule of the Council constitutional provision and second <hi rend="str">and</hi> <hi rend="str">third</hi> readings of the bill were dispensed with -- 
@@ -133,17 +138,16 @@
 <lb/>And so the bill passed
 <lb/>Ordered that the title be as reported.</hi></p>
 <p><hi rend="underline">Mr <gap/> Bruce</hi> moved to fill up by inserting in the blank where it occurs the words "twenty five thousand" and the question being taken thereon it was decided in the affirmative.</p>
-<p><hi rend="underline">Mr <gap/> Moved</hi> further to strike out the words "Other than the citizens of Kentucky" and insert in lieue thereof the words "who are citizens of the non-slaveholding States of the Old United States of America" and the question being taken thereon it was decided in the affirmative.<figure type="hr"/></p>
+<p><hi rend="underline">Mr <gap/> Moved</hi> further to strike out the words "Other than the citizens of Kentucky" and insert in lieue thereof the words "who are citizens of the non-slaveholding States of the <placeName ref="cwgk:P001802">Old United States of America</placeName>" and the question being taken thereon it was decided in the affirmative.<figure type="hr"/></p>
 <p>Ordered that said bill as amended be engrossed and read a third time.
 <lb/>On motion the rule of the Council, Constitutional provision and third reading be dispensed with.
 <lb/>The question was then taken on the passage of the bill and it was decided in the affirmative, and so the bill passed.
 <lb/>Ordered that the title be as reported<figure type="hr"/></p>
-<p>The chairman of the Committee on enrollments reported that they had examined enrolled bill entitled
-<lb/>An act to regulate banks
+<p>The chairman of the <orgName ref="cwgk:O00011361">Committee on enrollments</orgName> reported that they had examined enrolled bill entitled<lb/>An act to regulate banks
 <lb/>And had found the same truly enrolled, and thereupon the President affixed his signature thereto</p>
 <p>And then the Council until tomorrow at 10 O'Clock A. M.</p>
 <p>Attest
-<lb/><hi rend="underline">A. Frank Brown</hi> Clerk</p>
+<lb/> Clerk<persName ref="cwgk:N00001858">A. Frank Brown</persName></p>
   </body>
  </text>
 </TEI>
