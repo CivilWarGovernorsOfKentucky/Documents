@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0004-033-0013"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,8 +73,7 @@
   <body>
    <p><note place="header">40</note></p>
 <p>Saturday <date when="1861-11-30">November 30<hi rend="sup">th</hi> 1861</date></p>
-<p>The Council met pursuant to adjournment.
-<lb/>W. B. Machen President in the chair<figure type="hr"/></p>
+<p>The <orgName ref="cwgk:O00011019">Council</orgName> met pursuant to adjournment.<lb/><persName ref="cwgk:N00000832">W. B. Machen</persName> President in the chair<figure type="hr"/></p>
 <p>Mr Thompson from the committee on Military affairs reported a bill entitled "an act to authorize the Governor to call out volunteers" Which was read a first time -- 
 <lb/>Ordered That said bill be read a second time
 <lb/>On Motion the rules of the Council constitutional provisions and second and third readings were dispensed with.
@@ -86,15 +93,15 @@
 <p>Very Respectfully
 <lb/>George W. Johnson
 <lb/>Pro. Governor<figure type="hr"/></p>
-<p>On Motion the nomination of John D. Morris as Bank Commissioner instead of Henry J. Lyon was unanimously confirmed.</p>
+<p>On Motion the nomination of<persName ref="cwgk:N00008127"> John D. Morris</persName> as Bank Commissioner instead of Henry J. Lyon was unanimously confirmed.</p>
 <p>Mr Crockett moved the following resolution. Towit</p>
 <p><hi rend="underline">Resolved</hi> By the Council of the Provisional Government of the State of Kentucky. That the President of this body be directed to inform H. Smith Esq or the person in charge of the Peoples Bank at this place, that this Government will take possession of the buildings of said Bank on monday next for the use of this Government.</p>
 <p>Which was unanimously adopted.<figure type="hr"/></p>
-<p>Mr Crockett from the committee on the Judiciary to who was recommitted the bill entitled "an act to amend the execution and distribution<hi rend="str">g</hi> laws of Kentucky" reported a bill with the same title as a substitute for the original bill and amendment 
+<p>Mr <persName ref="cwgk:N00000833">Crockett</persName> from the<orgName ref="cwgk:O00011358"> committee on the Judiciary </orgName>to who was recommitted the bill entitled "an act to amend the execution and distribution<hi rend="str">g</hi> laws of Kentucky" reported a bill with the same title as a substitute for the original bill and amendment 
 <lb/>Which was read- and placed in the orders of the day.</p>
 <p>And then the Council adjourned until Monday next at 10 O'Clock A. M.</p>
 <p>Attest
-<lb/>A. Frank Brown Clerk</p>
+<lb/><persName ref="cwgk:N00001858">A. Frank Brown</persName> Clerk</p>
   </body>
  </text>
 </TEI>
