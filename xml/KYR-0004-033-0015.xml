@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0004-033-0015"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,9 +73,9 @@
   <body>
    <p><note place="header">42</note></p>
 <p><hi rend="underline">Tuesday </hi><date when="1861-12-03"><hi rend="underline">December 3</hi><hi rend="underline"><hi rend="sup">rd</hi></hi><hi rend="underline"> 1861</hi></date></p>
-<p>The Council Met pursuant to adjournment, and there not being a quorum -- it was adjourned until tomorrow at 10 O'Clock A. M.</p>
+<p>The <orgName ref="cwgk:O00011019">Council </orgName>Met pursuant to adjournment, and there not being a quorum -- it was adjourned until tomorrow at 10 O'Clock A. M.</p>
 <p>Attest
-<lb/><hi rend="underline">A. Frank Brown Clerk.</hi></p>
+<lb/><persName ref="cwgk:N00001858">A. Frank Brown</persName> Clerk.</p>
   </body>
  </text>
 </TEI>
