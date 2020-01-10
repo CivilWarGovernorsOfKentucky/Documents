@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0064"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,13 +72,12 @@
  <text>
   <body>
    <p><figure type="seal"><ab>UNITED WE STAND DIVIDED WE FALL</ab></figure>
-<lb/>Commonwealth of Kentucky,
-<lb/>EXECUTIVE DEPARTMENT.
-<lb/><hi rend="str">Frankfort, Ky.,</hi> Lexington <date when="1864-10-20">Oct 20, 1864</date>.
-<lb/>Maj Genl. D W Lindsey:</p>
-<p>I learn that Co<hi rend="sup">l</hi> Graham has requested the revocation of Maj Morgans Com<hi rend="sup">s</hi>. -- Take no action till my return. -- For sufficient reasons Co<hi rend="sup">l</hi> Graham<hi rend="sup">s</hi> request must not be complied with; which I will expound on return</p>
+<lb/>Commonwealth of <placeName ref="cwgk:P001800">Kentucky</placeName>,<lb/>EXECUTIVE DEPARTMENT.
+<lb/><hi rend="str">Frankfort, Ky.,</hi> <placeName ref="cwgk:P001002">Lexington </placeName><date when="1864-10-20">Oct 20, 1864</date>.
+<lb/>Maj Genl. <persName ref="cwgk:N00000873">D W Lindsey</persName>:</p>
+<p>I learn that Co<hi rend="sup">l</hi> <persName ref="cwgk:N00011728">Graham</persName> has requested the revocation of Maj <persName ref="cwgk:N00010908">Morgans</persName> Com<hi rend="sup">s</hi>. -- Take no action till my return. -- For sufficient reasons Co<hi rend="sup">l</hi> <persName ref="cwgk:N00011728">Graham</persName><hi rend="sup">s</hi> request must not be complied with; which I will expound on return</p>
 <p>Yours truly
-<lb/>Tho E Bramlette<pb/></p>
+<lb/><persName ref="cwgk:N001000">Tho E Bramlette</persName><pb/></p>
 <p>Lexington Ky
 <lb/><date when="--10-20">Oct 20<hi rend="sup">th</hi></date> Ky<figure type="hr"/>
 <lb/>Bramlette Tho. E<figure type="hr"/></p>
