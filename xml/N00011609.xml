@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R.W. Bush</title>
+        <title level="a" type="main">R. W. Bush</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Melissa DeVelvis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00011609">
                     <persName>
-                      R.W. Bush
+                      R. W. Bush
                         (Louisville, Kentucky, commission merchant)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-222-0125
+        <ab><bibl>KYR-0002-222-0125.
 </bibl></ab>
     </back>
 </text>
