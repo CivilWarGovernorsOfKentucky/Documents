@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Olivia Rice</title>
+        <title level="a" type="main">Olivia Rice </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00011750">
                     <persName>
-                      Olivia Rice
-                        ()
+                      Olivia Rice 
+                        (Carter County resident (composite bio))
                     </persName>
-                      <trait type="gender" subtype="M"/>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
         </profileDesc>
