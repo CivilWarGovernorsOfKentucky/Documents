@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       George Hill
                         (Jefferson County, KY, flour dealer)
                     </persName>
+                        <event type="birth"  when="1818"  cert="medium" ><ab>c1818</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Jefferson County, Kentucky, grocer and flour dealer. </p>
+        <p>Jefferson County, Kentucky, grocer and flour dealer. Native of Germany. Married to Christianna Colbenbock Hill in Jefferson County on November 27, 1843. Father of Caroline Hill, Elizabeth Hill, John Hill, George Hill, and Mary A. Hill. Grocer in Louisville in 1860. Signed a petition as a flour dealer in May 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-017-0163.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, pp. 417-18.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000817885, p. 86.
+
+KYR-0001-017-0163.
 </bibl></ab>
     </back>
 </text>
