@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W.G. Timberlakes</title>
+        <title level="a" type="main">William Garrard Timberlake</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00011766">
                     <persName>
-                      W.G. Timberlakes
-                        (Flour inspector)
+                      William Garrard Timberlake
+                        (Jefferson Co, KY, flour inspector)
                     </persName>
+                        <event type="birth"  when="1809-08-19"  ><ab>1809-08-19</ab></event>
+                        <event type="death"  when="1885-07-19"  ><ab>1885-07-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +56,21 @@
     </teiHeader>
     <text>
     <body>
-        <p>Flour inspector. Flour inspector from 1858 to 1861.</p>
+        <p>Jefferson County, Kentucky, flour inspector. Bourbon County, Kentucky, native. Married to Isabella L. Morton Timberlake in Jefferson County on May 23, 1849. Merchant in Bourbon County in 1850. Flour inspector in Louisville from 1858 to 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-0170163.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bourbon County, District 1, p. 268A.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 9, p. 180B.
+
+<hi rend="italic">Find A Grave</hi>, &quot;William Garrard Timberlake (1809-1885),&quot; Memorial 88663681, https://www.findagrave.com/memorial/88663681  (accessed January 13, 2020).
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000482707, p. 214 of microfilm.
+
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, KDLA, Roll #7007127, Louisville Deaths 1879-1887, Books 5-6, p. 559 of microfilm.
+
+KYR-0001-017-0163.
 </bibl></ab>
     </back>
 </text>
