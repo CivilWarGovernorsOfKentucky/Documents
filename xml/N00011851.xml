@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C.L. Cambron</title>
+        <title level="a" type="main">C. Logan Cambron</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00011851">
                     <persName>
-                      C.L. Cambron
+                      C. Logan Cambron
                         (Union County, Kentucky, merchant)
                     </persName>
-                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
+                        <event type="birth"  when="1829-07-21"  ><ab>1829-07-21</ab></event>
+                        <event type="death"  when="1887-06-18"  ><ab>1887-06-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,8 +56,18 @@
     </teiHeader>
     <text>
     <body>
-        <p>Union County, Kentucky, merchant. Kentucky native. Merchant in Uniontown, Kentucky, in 1860.</p>
+        <p>Union County, Kentucky, merchant. Kentucky native. Son of R. Cambron and Mary Cambron. Farmer in Union County, Kentucky, in 1850. Merchant in Uniontown in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Union County, District 2, p. 505A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, Uniontown, p. 541.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Union County, Uniontown, p. 403B.
+
+<hi rend="italic">Find A Grave</hi>, &quot;C.L. Cambron (July 21, 1829-June 18, 1887),&quot; Memorial #11578706, http://www.findagrave.com/memorial/11578706 (accessed January 15, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
