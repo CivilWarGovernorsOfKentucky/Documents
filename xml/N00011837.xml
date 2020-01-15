@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. B. Hannaker</title>
+        <title level="a" type="main">John Bryant Honnaker</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Melissa DeVelvis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00011837">
                     <persName>
-                      J. B. Hannaker
+                      John Bryant Honnaker
                         (Shelby County, Kentucky, resident.)
                     </persName>
+                        <event type="birth"  when="1834"  ><ab>1834</ab></event>
+                        <event type="death"  when="1917-01-11"  ><ab>1917-01-11</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Shelby County, Kentucky, resident. Resident of Shelby County, Kentucky in March 1864.</p>
+        <p>Shelby County, Kentucky, resident. Kentucky native. Son of Isaac Honnaker and Elizabeth Honnaker. Married to Mary H. Armstrong in Shelby County, Kentucky on December 13, 1855.  Father of Francis M. Honnaker, Jene Honnaker, and Fanny Honnaker. Resident of Franklin County, Kentucky in 1850. Resident of Shelby County, Kentucky in 1864.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0563.
+        <ab><bibl>KYR-0001-004-0563.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Shelby County Marriages, Film #000259275.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Col. John Bryant Honnaker (1834-1917,&quot; Memorial #30897968, http://www.findagrave.com/memorial/30897968 (accessed January 14, 2020). <lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin, District 2, 85A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson, Louisville Ward 1, 68A.
 </bibl></ab>
     </back>
 </text>
