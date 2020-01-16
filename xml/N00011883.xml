@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,25 @@
                 <person xml:id="N00011883">
                     <persName>
                       Joseph M. Plummer
-                        ()
+                        (Carter County farmer)
                     </persName>
+                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Carter County, Kentucky, blacksmith. Kentucky native. Son of Joseph Plummer and Elizabeth Plummer. Married Sarah F. Shepherd Plummer in Carter County, Kentucky, on January 21, 1863. Blacksmith in Carter County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 674.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Carter County Marriages, Film #000344061, p. 108-109.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
