@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011899">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Richard Jackson Carr</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00011899">
+                    <persName>
+                      Richard Jackson Carr
+                        (Sumner County, Tennessee, physician)
+                    </persName>
+                        <event type="birth"  when="1826-02-26"  ><ab>1826-02-26</ab></event>
+                        <event type="death"  when="1899-02-12"  ><ab>1899-02-12</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Sumner County, Tennessee, physician. Tennessee native. Married Nancy Ann Marshall in Campbell, Tennessee on March 18, 1852. Father of Alonry W Carr, Adolphus Carr, and Allison Carr. Merchant in Anderson County, Tennessee in 1850. Physician in Sumner County, Tennessee in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Anderson County, p. 57.<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Sumner County, p. 112. <hi rend="italic">Tennessee Marriage Records, 1780-2002, Nashville, Tennessee, Cheatham County Marriages, p.112. _Find A Grave</hi>, &quot;Richard Jackson Carr (February 26, 1826-February 12, 1899),&quot; Memorial #20548728, https://www.findagrave.com/memorial/20548728 (accessed January 16, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
