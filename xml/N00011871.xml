@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,9 @@
                       Hiram Pope
                         ()
                     </persName>
+                        <event type="birth"  when="1840-03-23"  ><ab>1840-03-23</ab></event>
+                        <event type="death"  when="1912-08-04"  ><ab>1912-08-04</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
