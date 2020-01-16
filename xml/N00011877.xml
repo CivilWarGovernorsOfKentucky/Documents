@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,23 @@
                 <person xml:id="N00011877">
                     <persName>
                       James L. Hackett
-                        ()
+                        (Carter County farmer)
                     </persName>
+                        <event type="birth"  when="1812"  cert="medium" ><ab>c1812</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Carter County, Kentucky, farmer. Virginia native. Married to Martha Hackett. Father of Margaret Hackett, Temperance Hackett, Emiline Hackett, and John Hackett. Farmer in Carter County in 1850.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Carter County, District 2, p. 245A.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
