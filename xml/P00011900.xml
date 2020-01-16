@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00011900">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Union County</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Place</term>
+                </keywords>
+            </textClass>
+            <settingDesc>
+                <place xml:id="P00011900">
+                    <placeName>
+                        <location>
+                              <geo>36.3194 -83.8049</geo>
+                            <settlement>Union County</settlement>
+                        </location>
+                    </placeName>
+                </place> 
+            </settingDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Located in northwest Tennessee. County seat at Maynardville, Tennessee. </p>
+
+    </body>
+    <back>
+        <ab><bibl>Bonnie Heiskell Peters, &quot;Union County&quot; in The Tennessee Encyclopedia of History and Culture, version 2.0, https://tennesseeencyclopedia.net/entries/union-county/ (accessed January 16, 2020). <hi rend="italic">USGS: Earth Explorer</hi>, “Union County, Tennessee&quot; https://earthexplorer.usgs.gov/ (accessed on January 16, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
