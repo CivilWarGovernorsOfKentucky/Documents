@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. A. Bowen</title>
+        <title level="a" type="main">James A. Bowen</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Peter R. Thomas Jr.</name>
@@ -43,9 +47,12 @@
         <particDesc>
                 <person xml:id="N00011834">
                     <persName>
-                      J. A. Bowen
+                      James A. Bowen
                         (Kenton County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1813"  cert="medium" ><ab>c1813</ab></event>
+                        <event type="death"  when="1883-07-29"  ><ab>1883-07-29</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Juror in trial of the Commonwealth of Kentucky V. Daniel W. Clark in January 1861.</p>
+        <p>Covington, Kenton County, tobacconist. Kentucky native. Married to Sarah Bowen. Father of Octavia Bowen and Lizzie Bowen. Tobacconist in Covington in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-021-0014.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington Ward 2, p. 603.
+
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, KDLA, Roll #7011810, Kenton County Deaths, p. 391 (1226 of microfilm). 
 </bibl></ab>
     </back>
 </text>
