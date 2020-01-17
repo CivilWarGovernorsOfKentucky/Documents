@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>
     </titleStmt>
@@ -46,7 +50,8 @@
                       Willis Daniel
                         (Covington, Kenton County, Kentucky, master carpenter)
                     </persName>
-                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
+                        <event type="birth"  when="1815"  ><ab>1815</ab></event>
+                        <event type="death"  when="1890"  ><ab>1890</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Covington, Kenton County, Kentucky, carpenter. Kentucky native. Married to Maria Daniel. Father of Willis Daniel and Edwin Daniel. Master carpenter in Covington, Kentucky in 1860. Juror in trial of the Commonwealth of Kentucky V. Daniel W. Clark in January 1861.</p>
+        <p>Covington, Kenton County, Kentucky, carpenter. Kentucky native. Married to Maria Daniel. Father of Willis Daniel, Edwin Daniel, and Charles V. Daniel. Master carpenter in Covington, Kentucky in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington, p. 886. KYR-0001-021-0014.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington Ward 7, p. 886. 
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Kenton County, Covington Ward 6, p. 65A. 
+
+<hi rend="italic">Find A Grave</hi>, &quot;Willis H. Daniel (1815-1890),&quot; Memorial #84402364, http://www.findagrave.com/memorial/84402364 (accessed January 17, 2020).
 </bibl></ab>
     </back>
 </text>
