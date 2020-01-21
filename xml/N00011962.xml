@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,34 @@
                 <person xml:id="N00011962">
                     <persName>
                       Leonard Clements Jr.
-                        ()
+                        (Union Co, Ky, farmer)
                     </persName>
+                        <event type="birth"  when="1822-09-16"  ><ab>1822-09-16</ab></event>
+                        <event type="death"  when="1880-02-04"  ><ab>1880-02-04</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Union County, Kentucky, farmer. Kentucky native. Son of Leonard Clements and Susan Clements. Married to Elizabeth Boone Clements in Union County, Kentucky, on January 9, 1843. Father of Philip Clements, William Clements, Mary E. Clements, John A. Clements, Edward B. Clements, Fannie Clements. Farmer in Union County in 1850. Farmer in Union County in 1860. Employed James M. Shoemaker as a laborer in Union County in 1860. Farmer in Union County in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Union County, District 2, p. 496B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, p. 331.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Union County, Uniontown, p. 374A.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Union County Marriages, Film #000562197.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Leonard Clements (Sept. 16, 1822-Feb. 4, 1880),&quot; Memorial #8981270, http://www.findagrave.com/memorial/8981270 (accessed January 21, 2020).
+
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Union County, KY, August 1863, p. 4, (Accessed via ancestry.com).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
