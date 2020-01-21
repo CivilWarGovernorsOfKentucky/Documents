@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Wilson Horn</title>
+        <title level="a" type="main">Wilson H. Horn</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Peter R. Thomas Jr.</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00011830">
                     <persName>
-                      Wilson Horn
+                      Wilson H. Horn
                         (Kenton County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1844"  cert="medium" ><ab>c1844</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Witness in trial of the Commonwealth of Kentucky V. Daniel W. Clark in January 1861.</p>
+        <p>Covington, Kenton County, Kentucky resident. Ohio native. Son of Samuel Horn and Catherine Horn. Resident of Kenton County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-021-0014
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington Ward 7, p. 867. 
 </bibl></ab>
     </back>
 </text>
