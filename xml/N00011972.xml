@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,8 @@
                       John T. Brown
                         (Union County, KY, tanner)
                     </persName>
-                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
+                        <event type="birth"  when="1837-09-08"  ><ab>1837-09-08</ab></event>
+                        <event type="death"  when="1929-08-21"  ><ab>1929-08-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Union County, Kentucky, tinner. Indiana native. Tinner in Union County in 1860. </p>
+        <p>Union County, Kentucky, tinner. Indiana native. Son of James M. Brown and Susan Brown. Resident of Daviess County, Indiana in 1850. Tinner in Union County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, Uniontown, p. 544.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Daviess County, Barr Township, p. 162B. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, Uniontown, p. 544.
+
+<hi rend="italic">Indiana Death Certificates</hi>, Indiana Archives and Records Administration, Indianapolis, Indiana, Roll #10, Daviess County Deaths, File #25515.
 </bibl></ab>
     </back>
 </text>
