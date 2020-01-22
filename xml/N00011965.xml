@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Wm G. Counts</title>
+        <title level="a" type="main">William G. Counts</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00011965">
                     <persName>
-                      Wm G. Counts
-                        ()
+                      William G. Counts
+                        (Carter County farmer)
                     </persName>
+                        <event type="birth"  when="1821-04-24"  ><ab>1821-04-24</ab></event>
+                        <event type="death"  when="1919-03-29"  ><ab>1919-03-29</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
