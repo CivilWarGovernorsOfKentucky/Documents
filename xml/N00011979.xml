@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Philip Greenwell
                         (Union County, KY, resident)
                     </persName>
+                        <event type="birth"  when="1839-09-19"  ><ab>1839-09-19</ab></event>
+                        <event type="death"  when="1924-07-03"  ><ab>1924-07-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,13 +56,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Union County, Kentucky, resident. Kentucky native. Son of Mary Greenwell. Resident of Union County in 1850. Resident of Union County in 1860.  </p>
+        <p>Union County, Kentucky, resident. Kentucky native. Son of Mary Greenwell. Married Isabella Austin Green in Union County on October 29, 1861. Father of Mary T. Greenwell. Resident of Union County in 1850. Resident of Union County in 1860.  </p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Union County, District 2, p. 501B.
 
 <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, p. 341.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Union County, Wallers Precinct, p. 422A. 
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Union County Marriages, Film #000562205, p. 471.
 </bibl></ab>
     </back>
 </text>
