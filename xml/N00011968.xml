@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,23 @@
                 <person xml:id="N00011968">
                     <persName>
                       Aaron Newell
-                        ()
+                        (Carter County farmer)
                     </persName>
+                        <event type="birth"  when="1806"  cert="medium" ><ab>c1806</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Carter County, Kentucky, farmer. Virginia native. Married to Margaret Newell. Father of John Newell, Phebe Newell, William Newell, Porter Newell, and Elizabeth B. Newell. Farmer in Carter County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carter County, p. 257.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
