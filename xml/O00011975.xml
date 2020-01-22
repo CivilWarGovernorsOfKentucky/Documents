@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00011975">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Branch Bank of the Bank of Kentucky at Columbus</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00011975">
+                    <orgName>Branch Bank of the Bank of Kentucky at Columbus</orgName>
+                        <event type="begun"  when="1835"  ><ab>1835</ab></event>
+                        <event type="ended"  when="1865"  ><ab>1865</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Branch of the Second Bank of Kentucky located in Columbus, Kentucky. Overtaken by Confederate troops in October 1861. Officially dissolved in 1865. President(s): J.M. Moore. Cashier(s): William Owens, Jr.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Bernard Davis, &quot;Banking&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 46.<lb/>
+<hi rend="italic">The Merchants&#39; Bankers&#39; Almanac for 1861</hi> (New York: J. Smith Homans, Jr., Office of the Bankers&#39; Magazine, 1861), 28. <lb/>
+John S. Gillig, &quot;Bank of Kentucky&quot; in <hi rend="italic">The Encyclopedia of Louisville</hi> ed. John Kleber (Lexington: University Press of Kentucky, 2001), 63-64.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
