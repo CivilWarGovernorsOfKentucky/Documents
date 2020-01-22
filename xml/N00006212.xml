@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[unknown] Horthorn</title>
+        <title level="a" type="main">Mostison O. Hawthorne</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Tyler Campbell</name>
@@ -43,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00006212">
                     <persName>
-                      [unknown] Horthorn
-                        (Columbus, Kentucky, physician.)
+                      Mostison O. Hawthorne
+                        (Ballard County, Kentucky, physician.)
                     </persName>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +55,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Columbus, Kentucky, physician. Physician near Columbus, Kentucky in June 1861.</p>
+        <p>Ballard County, Kentucky, physician. Kentucky native. Son of William Hawthorn and Catherine Hawthorn. Married to Sarah Eveline Bodkin in Ballard County, Kentucky on December 10, 1857 Father of Charles Hawthorn and William Hawthorn. Physician in Ballard County, Kentucky in 1850. Physician in Ballard County, Kentucky in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-019-0078
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard, Blandville, p.277B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard, Picketts, p. 597.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard, District 5, p.439B.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Ballard County Marriages, Film #000216816.
 </bibl></ab>
     </back>
 </text>
