@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Joseph Morrill</title>
+        <title level="a" type="main">Joseph Merrill</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Carl Creason</name>
@@ -43,9 +47,12 @@
         <particDesc>
                 <person xml:id="N00011880">
                     <persName>
-                      Joseph Morrill
+                      Joseph Merrill
                         (Carter County resident)
                     </persName>
+                        <event type="birth"  when="1812-08-18"  ><ab>1812-08-18</ab></event>
+                        <event type="death"  when="1893-11-02"  ><ab>1893-11-02</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Married Martha Barter Morrill in Carter County, Kentucky, on February 2, 1852.</p>
+        <p>Ashland, Boyd County, Kentucky, laborer. Massachusetts native. Married to Martha Barter Merrill in Carter County, Kentucky, on February 2, 1852. Father of Margaret Merrill, Leander Merrill, Benjamin Merrill, and Elvira Merrill. Resident in Boston, Massachusetts in 1850. Laborer in Ashland in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Carter County Marriages, Film #001759301, p. 2-3.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Massachusetts, Suffolk County, Boston Ward 6, p. 355B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boyd County, Ashland, p. 838.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Carter County Marriages, Film #001759301, p. 2-3.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Name (Birth-Death),&quot; Memorial #37836660, http://www.findagrave.com/memorial/37836660 (accessed January 23, 2020).
 </bibl></ab>
     </back>
 </text>
