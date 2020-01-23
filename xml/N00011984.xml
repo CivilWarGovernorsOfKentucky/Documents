@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       William H. Clements
                         (Union County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1833-07-26"  ><ab>1833-07-26</ab></event>
+                        <event type="death"  when="1876-09-25"  ><ab>1876-09-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Union County, Kentucky, farmer. Kentucky native. Married Caroline Clements. Father of Mary C. Clements. Farmer in Union County in 1860. </p>
+        <p>Union County, Kentucky, farmer. Kentucky native. Married Caroline Francis Cambron Clements on February 10, 1857 in Union County. Father of Mary C. Clements. Farmer in Union County in 1860. </p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, p. 347.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Union County Marriages, Film #000562172, p. 295.
+
+<hi rend="italic">Find A Grave</hi>, &quot;W. H. Clements (1833-1876),&quot; Memorial #11604786, http://www.findagrave.com/memorial/11604786 (accessed January 23, 2020).
 </bibl></ab>
     </back>
 </text>
