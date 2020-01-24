@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00012014">
                     <persName>
                       Christopher Abel
-                        (Jefferson County, KY, flour dealer &amp; grocer)
+                        (Jefferson County, KY, grocer &amp; flour dealer &amp; grocer)
                     </persName>
+                        <event type="birth"  when="1829"  cert="medium" ><ab>c1829</ab></event>
+                        <event type="death"  when="1901-04-28"  ><ab>1901-04-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,21 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Jefferson County, Kentucky, retail grocer and flour dealer. Native of Prussia. Married to Mathilde Abel. Father of Mary Abel and Christopher Abel. Retail grocer in Louisville in 1859. Signed a petition as a flour dealer in May 1861 to appoint W. G. Timberlake as flour inspector. Merchant in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 5, p. 461A.
+
+Henry Tanner, ed., <hi rend="italic">The Louisville Directory and Business Advertiser for 1859-60</hi> (Louisville: Maxwell &amp; Co., 1859), 17 and 279.
+
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, 5th Congressional District, Jefferson County, Kentucky, June 1863, p. 20 (Accessed via ancestry.com on January 24, 2020).
+
+<hi rend="italic">Find A Grave</hi>, &quot;Christoph Abel (1828-1901),&quot; Memorial 122056721, https://www.findagrave.com/memorial/122056721  (accessed January 24, 2020).
+
+KYR-0001-017-0163. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
