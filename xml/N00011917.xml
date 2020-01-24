@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C. S. Counts</title>
+        <title level="a" type="main">Christopher S. Counts</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Carl Creason</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00011917">
                     <persName>
-                      C. S. Counts
-                        (Carter County resident)
+                      Christopher S. Counts
+                        (Carter County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,8 +59,20 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of S. H. Young of Carter County, Kentucky, in 1863.</p>
+        <p>Carter County, Kentucky, farmer and salt merchant. Virginia native. Married to Mary Ann Bishop Counts. Father of Martha J. Counts, Margaret E. Counts, Mary J. Counts, Phillip M. Counts, Eva Counts, George W. Counts, Sarah A. Counts, William J. Counts. Farmer in Carter County in 1850. Farmer in Carter County in 1860. Salt merchant in Carter County in 1863. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, County, City/District, p. 263B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carter County, p. 178. 
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Carter County, Precinct 5, p. 144A.
+
+<hi rend="italic">Records of the Internal Revenue Service</hi>, NARA RG 58, Microfilm Series 768, Roll 15, p. 191 of 754 on microfilm (accessed via Ancestry.com).  
+
+<hi rend="italic">Texas, Death Certificates, 1903-1982</hi>, Texas Department of State Health Services, Austin, Texas, p. 115 of 157 on microfilm (accessed via Ancestry.com). 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
