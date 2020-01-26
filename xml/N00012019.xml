@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00012019">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Burch Musselman</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00012019">
+                    <persName>
+                      Burch Musselman
+                        (Jefferson County, Kentucky, farmer and Provisional Government financial agents)
+                    </persName>
+                        <event type="birth"  when="1818"  cert="medium" ><ab>c1818</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, farmer and Provisional Government financial agent. Pennsylvania native. Father of Josephine Musselman, David Musselman, William Musselman, and Henry Musselman. Married to Mary A. Musselman c.1850. Married to Sarah V. Musselman c1860. Tobacconist in Louisville, Kentucky in 1850. Farmer in Jefferson County, Kentucky in 1860. Employed Thomas Esterly and George Greathouse in Jefferson County, Kentucky in 1850. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, p. 86.<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, District 2, p. 1050. Matthew C. Hulbert, “Grabbing Guns and Breaking Banks: The Short, Ambitious “Reign” of Kentucky’s Provisional Confederate Government,” Civil War Governors of Kentucky Digital Documentary Edition blog, March 9, 2016, accessed January 25, 2020, http://civilwargovernors.org/grabbing-guns-and-breaking-banks-the-short-ambitious-reign-of-kentuckys-provisional-confederate-government/. <lb/>
+KYR-0004-033-0030.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
