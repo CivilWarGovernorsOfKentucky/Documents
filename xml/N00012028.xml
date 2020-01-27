@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Samuel Harris
                         (Jefferson County, KY, flour dealer)
                     </persName>
+                        <event type="birth"  when="1825"  ><ab>1825</ab></event>
+                        <event type="death"  when="1914"  ><ab>1914</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,24 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Jefferson County, Kentucky, wholesale flour dealer. Native of Prussia. Immigrated to the U. S. in 1851. Married to Mary A. Harris. Father of Sabal Harris, Isaac Harris, Sarah Harris, Saul Harris and Lee S. Harris. Grocer in Louisville in 1860. Employed Mary Hoyt as a servant in Louisville in 1860. Signed a petition as a flour dealer in May 1861 to appoint W. G. Timberlake as flour inspector.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 6,  p. 287.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 5, p. 450B.
+
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Franklin County,Frankfort Enumeration District 70, p. 160B.
+
+<hi rend="italic">Twelfth Manuscript Census of the United States</hi> (1900), Population Schedules, Kentucky, Hamilton County,Cincinnati Ward 20, p. 4.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Samuel Harris (1825-1914),&quot; Memorial 66670780, https://www.findagrave.com/memorial/66670780  (accessed January 27, 2020).
+
+Henry Tanner, ed., <hi rend="italic">The Louisville Directory and Business Advertiser for 1859-60</hi> (Louisville: Maxwell &amp; Co., 1859), <lb/>
+KYR-0001-017-0163. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
