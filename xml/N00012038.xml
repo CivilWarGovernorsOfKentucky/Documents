@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Ignatius A. Spalding</title>
+        <title level="a" type="main">Ignatius A. Spalding, Jr.</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00012038">
                     <persName>
-                      Ignatius A. Spalding
-                        ()
+                      Ignatius A. Spalding, Jr.
+                        (Union County, KY, attorney and farmer)
                     </persName>
+                        <event type="birth"  when="1833-12-03"  ><ab>1833-12-03</ab></event>
+                        <event type="death"  when="1913-11-14"  ><ab>1913-11-14</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,21 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Union County, Kentucky, attorney and farmer. Kentucky native. Son of Ignatius A. Spalding, Sr. and Ann A. Spalding. Married to Susan A. Spalding. Father of Jack J. Spalding and Ann H. Spalding. Resident of Union County in 1850. Household owned twenty-five enslaved persons in Union Count in 1850. Attorney and farmer in Union County in 1860. Owned ten enslaved persons in Union County in 1860.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Union County, District 2, p. 513A-513B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Union County, District 2, p. 350-351.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, Morganfield, p. 532. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Union County, Morganfield, p. 416B.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Ignatius A. Spalding (1833-1913),&quot; Memorial #106107832, http://www.findagrave.com/memorial/106107832 (accessed January 27, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
