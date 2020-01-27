@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,11 @@
                 <person xml:id="N00012052">
                     <persName>
                       Abram Anglin
-                        ()
+                        (Carter County farmer)
                     </persName>
+                        <event type="birth"  when="1817-10-28"  ><ab>1817-10-28</ab></event>
+                        <event type="death"  when="1894-05-06"  ><ab>1894-05-06</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
