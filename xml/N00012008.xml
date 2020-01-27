@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W.J. Proctor</title>
+        <title level="a" type="main">William J. Proctor</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00012008">
                     <persName>
-                      W.J. Proctor
+                      William J. Proctor
                         (Union Co, Ky, merchant)
                     </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,8 +55,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Union County, Kentucky, merchant. Kentucky native. Married to Frances M. Proctor. Father of Ella Proctor.</p>
+        <p>Union County, Kentucky, merchant. Kentucky native. Son of G. Proctor and Margaret Proctor. Married to Frances M. Clements Proctor in Union County, Kentucky, on January 15, 1856. Father of Ella Proctor. Farmer in Union County in 1850. Merchant in Union County in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Union County, District 2, p. 499B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, Uniontown, p. 544.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Union County Marriages, Film #000562202.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
