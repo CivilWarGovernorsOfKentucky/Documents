@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,15 +44,20 @@
                 <person xml:id="N00012039">
                     <persName>
                       Henry Easterling
-                        ()
+                        (Carter County farmer)
                     </persName>
                         <event type="birth"  when="1822-07-11"  ><ab>1822-07-11</ab></event>
                         <event type="death"  when="1913-09-16"  ><ab>1913-09-16</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016157, Carter County Deaths, File #23799.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
