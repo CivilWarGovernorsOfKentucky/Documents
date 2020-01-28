@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       F. Linnemann
                         (Jefferson County, KY, flour dealer)
                     </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,19 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Jefferson County, Kentucky, grocer and flour dealer. Married to Mary Ann Krenenbaum in Jefferson County on September 12, 1848. Grocer in Louisville in 1861. Signed a petition as a flour dealer in May 1861 to appoint W. G. Timberlake as flour inspector.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Henry Tanner, ed., <hi rend="italic">The Louisville Directory and Business Advertiser for 1859-60</hi> (Louisville: Maxwell &amp; Co., 1861), 296. 
+
+<hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 10, Jefferson County, Kentucky, 1864, p. 161 (Accessed via ancestry.com on January 28, 2020).
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000818488, p. 295.
+
+KYR-0001-017-0163.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
