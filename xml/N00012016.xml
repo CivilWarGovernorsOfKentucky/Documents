@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       James Collings
                         (Jefferson County, KY, flour dealer &amp; grocer)
                     </persName>
+                        <event type="birth"  when="1814-06-25"  ><ab>1814-06-25</ab></event>
+                        <event type="death"  when="1870"  ><ab>1870</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Jefferson County, Kentucky, grocer, broker, and wholesale flour dealer. Kentucky native. Married to Letitia Beard Collings. Father of Emily Jane “Emma” Collings, Virginia A. “Jennie” Collings, Crittenden T. Collings, and Hardin Collings. Grocer in Louisville in 1850. Employed James R. Dowell as a grocer in 1850. Broker in Louisville in 1860. Signed a petition as a flour dealer in May 1861 to appoint W. G. Timberlake as flour inspector.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville District 2, pp. 200B-201A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 2, p. 469.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 4, p. 405B.
+
+Henry Tanner, ed., <hi rend="italic">The Louisville Directory and Business Advertiser for 1859-60</hi> (Louisville: Maxwell &amp; Co., 1859), 53.
+
+<hi rend="italic">Find A Grave</hi>, &quot;James Collings (1814-1870),&quot; Memorial155200415, https://www.findagrave.com/memorial/155200415  (accessed January 28, 2020).
+
+KYR-0001-017-0163. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
