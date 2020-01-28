@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0126"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Cincinnati, <date when="1864-07-11">July 11 1864</date>.
-<lb/>Mr J H Jacobs
-<lb/>To JAMES WATSON, DR.,</p>
+   <p><placeName ref="cwgk:P00001208">Cincinnati,</placeName> <date when="1864-07-11">July 11 1864</date>.
+<lb/>Mr <persName ref="cwgk:N00010451">J H Jacobs</persName><lb/>To <persName ref="cwgk:N00011610">JAMES WATSON</persName>, DR.,</p>
 <p>Prompt Payment is Expected.<figure type="hr"/>
-<lb/>Board, 1 3/4 days <hi rend="underline">&#36;400</hi>
+<lb/>Board, 1 3/4 days <hi rend="underline">$400</hi>
 <lb/>Fire,
 <lb/>Extra Meals,
 <lb/>Washing,
