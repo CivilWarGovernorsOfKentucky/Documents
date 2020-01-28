@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>
           <respStmt>
@@ -48,10 +52,10 @@
                 <person xml:id="N00004845">
                     <persName>
                       George Parker
-                        (Union County sheriff)
+                        (Union County, Kentucky, sheriff)
                     </persName>
-                        <event type="birth"  when="1807"  ><ab>1807</ab></event>
-                        <event type="death"  when="1871-03"  ><ab>1871-03</ab></event>
+                        <event type="birth"  when="1807"  cert="medium" ><ab>c1807</ab></event>
+                        <event type="death"  when="1871"  cert="medium" ><ab>c1871</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,11 +64,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Union County, Kentucky, sheriff. Maryland native. Union County resident in 1825. Married in 1828. Elected Sheriff of the Union County Court in 1854. Elected Sheriff of the Union County Court as a Know Nothing in 1856. Unsuccessful Know Nothing candidate for sheriff of the Union County court in 1858. Elected Sheriff of the Union County Court as a Unionist in 1862 and 1865.</p>
+        <p>Union County, Kentucky, farmer and sheriff. Maryland native. Married to Elizabeth Parker. Father of Mary Parker, S. C. Parker, and Martha A. Parker. Farmer in Union County in 1850. Owned seven enslaved persons in Union County in 1850. Elected Sheriff of the Union County Court in 1854. Unsuccessful Know Nothing candidate for sheriff of the Union County Court in 1856. Unsuccessful Know Nothing candidate for sheriff of the Union County court in 1858. Farmer in Union County in 1860. Owned ten enslaved persons in Union County in 1860. Elected Sheriff of the Union County Court as a Unionist in 1862. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">History of Union County, Kentucky</hi>, (Evansville, IN: Courier Co., Printers, Binders and Engravers, 1886), 84-88, 193. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Union County, District 2, p. 505B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Union County, District No. 2, p. 341.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, p. 325.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Union County, p. 400B.
+
+<hi rend="italic">History of Union County, Kentucky</hi>, (Evansville, IN: Courier Co., Printers, Binders and Engravers, 1886), 84-88, 193. 
 </bibl></ab>
     </back>
 </text>
