@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,19 @@
             <particDesc>
                 <org xml:id="O00012066">
                     <orgName>Steamboat H. M. Childs </orgName>
+                        <event type="begun"  when="1864"  ><ab>1864</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Steamboat of New Orleans. Constructed in Cincinnati in 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ship Registers and Enrollments of New Orleans, Louisiana</hi>, vol. 6, 1861-1870 (Louisiana State University, 1942), p. 126. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
