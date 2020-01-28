@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       John N. Wallingsford
                         (Fleming County, Kentucky, merchant and adjutant (U.S.A.))
                     </persName>
+                        <event type="birth"  when="1840-03-31"  ><ab>1840-03-31</ab></event>
+                        <event type="death"  when="1907-08-13"  ><ab>1907-08-13</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +56,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Fleming County, Kentucky, merchant and soldier. Kentucky native. Son of Hiram Wallingsford and Hannah Wallingsford. Resident in Mount Carmel, Fleming County, Kentucky in 1850. Merchant in Fleming County, Kentucky in 1860. Served in Tenth Kentucky Volunteer Cavalry (U.S.A.) from August 8, 1862 to September 17, 1863. Clerk for Steamboat H.M. Childs in 1865. </p>
+        <p>Fleming County, Kentucky, merchant and soldier. Kentucky native. Son of Hiram Wallingsford and Hannah Wallingsford. Resident in Mount Carmel, Fleming County, Kentucky in 1850. Merchant in Fleming County, Kentucky in 1860. Served in the Tenth Kentucky Volunteer Cavalry (U.S.A.) as adjutant from August 8, 1862 to September 17, 1863. Clerk for Steamboat H. M. Childs in 1865. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, Mount Carmel, p. 697. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 697. <hi rend="italic">Find A Grave</hi>, &quot;Name (March 31, 1840- August 13, 1907),&quot; Memorial #48386120, https://www.findagrave.com/memorial/48386120 (accessed September 25, 2019). <hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 250. KYR-0002-222-0103. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, Mount Carmel, p. 349A. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 630. 
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 250. 
+
+<hi rend="italic">Find A Grave</hi>, &quot;John N. Wallingford (1840- 1907),&quot; Memorial #48386120, https://www.findagrave.com/memorial/48386120 (accessed September 25, 2019).
+
+KYR-0002-222-0103. 
 </bibl></ab>
     </back>
 </text>
