@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Melissa DeVelvis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       Thomas K. Brown
                         (Kentucky, soldier (U.S.A.))
                     </persName>
+                        <event type="birth"  when="1845"  cert="medium" ><ab>c1845</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky, soldier. Served as a private in the Sandy Valley Battalion of the 1st Regiment Capital Guards (U.S.A.) from June 19, 1864 to March 11, 1865.</p>
+        <p>Johnson County and Lawrence County, Kentucky, farm hand and soldier. Son of Daniel G. Brown and Elizabeth Brown. Married Julina Davis Brown in Johnson County on July 3, 1865. Resident of Johnson County in 1850. Farm hand in Lawrence County in 1860. Served in the Sandy Valley Battalion of the 1st Regiment Capital Guards (U.S.A.) as a private from June 19, 1864 to March 11, 1865.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 774.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 81B. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lawrence County, p. 641. 
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Johnson County Marriages, Film #001912950, p. 79. 
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 774.
 </bibl></ab>
     </back>
 </text>
