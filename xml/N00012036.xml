@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C. Gaupin</title>
+        <title level="a" type="main">Charles Gaupin</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00012036">
                     <persName>
-                      C. Gaupin
-                        (Jefferson County, KY, flour dealer)
+                      Charles Gaupin
+                        (Jefferson County, KY, flour dealer &amp; grocer)
                     </persName>
+                        <event type="birth"  when="1820-03-04"  ><ab>1820-03-04</ab></event>
+                        <event type="death"  when="1894-02-01"  ><ab>1894-02-01</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,23 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Jefferson County, Kentucky, grocer and flour dealer. Native of France. Married to Mary Ann Humbert Gaupin in Jefferson County on September 21, 1846. Father of Edward Gaupin, Charles Gaupin, and Mary Louise Gaupin. Signed a petition as a flour dealer in May 1861 to appoint W. G. Timberlake as flour inspector. Grocer in Louisville in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Jefferson County, Louisville Enumeration District 146, p.331C.
+
+<hi rend="italic">Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</hi> (Louisville: Edwards, Greenough &amp; Deved, 1866), p. 315.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Charles Gaupin (1820-1914),&quot; Memorial 110523090, https://www.findagrave.com/memorial/110523090  (accessed January 29, 2020).
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000818480, p. 63.
+
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, KDLA, Roll #7007128, Louisville Deaths, books 7-8, p. 685 of microfilm.
+
+KYR-0001-017-0163.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
