@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">M. A. Walker</title>
+        <title level="a" type="main">Martin A. Walker</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00012037">
                     <persName>
-                      M. A. Walker
+                      Martin A. Walker
                         (Jefferson County, KY, flour dealer)
                     </persName>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,19 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Jefferson County, Kentucky, liquor merchant and flour dealer. Kentucky native. Married to M. E. Walker. Father of R. M. Walker. Liquor merchant in Louisville from 1859 to 1861. Employed C. O’Neal, J. H. Bard, and J. W. Sterrett as clerks in Louisville in 1860. Signed a petition as a flour dealer in May 1861 to appoint W. G. Timberlake as flour inspector.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 492.
+
+Henry Tanner, ed., <hi rend="italic">The Louisville Directory and Business Advertiser for 1859-60</hi> (Louisville: Maxwell &amp; Co., 1859), 238.
+
+Henry Tanner, ed., <hi rend="italic">The Louisville Directory and Business Advertiser for 1860-61</hi> (Louisville: Maxwell &amp; Co., 1861), 254
+
+KYR-0001-017-0163.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
