@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0073"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Falmouth Ky <date when="1864-03-03">March 3"/64</date>
-<lb/>Thos A, Theobald Esqr
-<lb/>Frankfort Ky
-<lb/>Dear Sir</p>
-<p>Please advise me at your earliest convenience whether the q. M, Genl has any funds on hand yet or not I have Some claims which I would like to get adjusted</p>
-<p>Have you got your Blanks yet from Cincinnati, and how does the agency business open up? I should be pleased to hear from you occasionally</p>
+   <p><placeName ref="cwgk:P00000550">Falmouth </placeName><placeName ref="cwgk:P001800">Ky</placeName> <date when="1864-03-03">March 3"/64</date>
+<lb/><persName ref="cwgk:N00010919">Thos A, Theobald</persName> Esqr<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> <placeName ref="cwgk:P001800">Ky</placeName><lb/>Dear Sir</p>
+<p>Please advise me at your earliest convenience whether the <persName ref="cwgk:N00000946">q. M, Genl</persName> has any funds on hand yet or not I have Some claims which I would like to get adjusted</p>
+<p>Have you got your Blanks yet from <placeName ref="cwgk:P00001208">Cincinnati</placeName>, and how does the agency business open up? I should be pleased to hear from you occasionally</p>
 <p>Yours Respectfully
 <lb/>Aus, <unclear/>, Burke
-<lb/>Genl Agent in Ky for H &amp; C
-<lb/>Washington D, C,</p>
+<lb/>Genl Agent in Ky for <orgName ref="cwgk:O00010935">H &amp; C
+</orgName><lb/><placeName ref="cwgk:P00001134">Washington D, C</placeName>,</p>
   </body>
  </text>
 </TEI>
