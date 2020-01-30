@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0068"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,7 +71,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>WESTERN UNION TELEGRAPH COMPANY.<figure type="hr"/>
+   <p><orgName ref="cwgk:O00007356">WESTERN UNION TELEGRAPH COMPANY.</orgName><figure type="hr"/>
 <lb/>No. 1.] Terms and Conditions on which this and all Messages are Received by these Companies Respectively.</p>
 <p>In order to guard against and correct as much as possible some of the errors arising from atmospheric and other causes appertaining to telegraph. every important message should be <hi rend="italic">repeated</hi>, by being sent back from the station at which it is to be received to the station from which it is originally sent. Half the usual price will be charged for repeating the message, and while this Company in good faith will endeavor to send messages correctly and promptly, it will not be responsible for our errors or delays in the transmission or delivery, nor for the non-delivery of <hi rend="italic">repeated</hi> <hi rend="italic">messages</hi>, beyond two hundred times the sum paid for sending the message, unless a special agreement for insurance be made in writing, and the amount of risk specified on this agreement, and paid at the time of sending the message. Nor will the Company be responsible for any error or delay in the transmission or delivery, or for the non-delivery, of <hi rend="italic">any unrepeated message</hi>, beyond the amount paid for sending the same, unless in like manner specially insured, and amount of risk stated hereon, and paid for at the time. No liability is assumed for errors in cipher or obscure messages; nor is any liability assumed by this Company for any error or negleet by any other Company over whose lines this message may be sent to reach its destination, and this Company is hereby made the agent of the sender of this message to forward it over the lines extending beyond those of this Company. No agent or employee is allowed to vary these terms, or make any other or verbal agreement, nor any promise as to the time of performance, and no one but a Superintendent is authorized to make a special agreement for insurance. These terms apply through the whole course of this message on all lines by which it may be transmitted.<figure type="hr"/></p>
 <p><date when="1864-08-02">August 2nd</date> 186<gap/>
@@ -80,7 +88,7 @@
 <lb/>Pro M. Gen<hi rend="underline"><hi rend="sup">l</hi></hi><figure type="hr"/>
 <lb/><hi rend="underline">Telegram</hi></p>
 <p>You are authorized to raise two regiments of Infantry. Recruiting to be governed by prescribed regulations. Instructions sent you by mail. The question as to reenlisting the Cavalry will be answered in a day or two. How can they be mounted?<figure type="hr"/></p>
-<p>Rec<hi rend="sup">d</hi> A G. O <date when="1864-08-02">2<hi rend="sup">d</hi> Aug 1864</date></p>
+<p>Rec<hi rend="sup">d</hi> <orgName ref="cwgk:O00000388">A G. O</orgName> <date when="1864-08-02">2<hi rend="sup">d</hi> Aug 1864</date></p>
   </body>
  </text>
 </TEI>
