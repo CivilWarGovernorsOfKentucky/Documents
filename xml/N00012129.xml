@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">B. F. Crawford</title>
+        <title level="a" type="main">Benjamin F. Crawford</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,19 @@
         <particDesc>
                 <person xml:id="N00012129">
                     <persName>
-                      B. F. Crawford
-                        ()
+                      Benjamin F. Crawford
+                        (Carter County merchant)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994030, Carter County Marriages, p. 909.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
