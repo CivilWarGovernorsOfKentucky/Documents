@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0070"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Covington <date when="1864-05-06">May 6<hi rend="sup">th</hi> 1864</date>
+   <p><placeName ref="cwgk:P00000936">Covington </placeName><date when="1864-05-06">May 6<hi rend="sup">th</hi> 1864</date>
 <lb/>Dear Tom</p>
-<p>I have just received your note in reply to mine to the Govenor and thank you for the kindess it indicates I should be happy to get a contract with the state and think I could make it advantageous to all parties -- I know the rage there has been for Cavalry arms, but have always thought the war ought to be won with muskets and bayonets Will you do me the kindness on receipt of this to let me know what is the description of arms you say you are now receiving? and the price paid for them?</p>
-<p>Gen Finnell is at home sick- He looks badly since his return from the South- He has much sickness in his family- among the children- I am informed Times are very dull here- Do not forget me in the matter of a contract if it should turn up -- and cant you do something to make it turn up -- I will not forget you Please let me hear from you -- </p>
+<p>I have just received your note in reply to mine to the <persName ref="cwgk:N001000">Govenor </persName>and thank you for the kindess it indicates I should be happy to get a contract with the state and think I could make it advantageous to all parties -- I know the rage there has been for Cavalry arms, but have always thought the war ought to be won with muskets and bayonets Will you do me the kindness on receipt of this to let me know what is the description of arms you say you are now receiving? and the price paid for them?</p>
+<p><persName ref="cwgk:N00000228">Gen Finnell</persName> is at home sick- He looks badly since his return from the South- He has much sickness in his family- among the children- I am informed Times are very dull here- Do not forget me in the matter of a contract if it should turn up -- and cant you do something to make it turn up -- I will not forget you Please let me hear from you -- </p>
 <p>Truly yours
-<lb/>R A Athey.<pb/></p>
+<lb/><persName ref="cwgk:N00006228">R A Athey</persName>.<pb/></p>
 <p><figure type="postmark"><listPlace><place><placeName>CO<unclear>VING</unclear>TON
 <lb/><date when="1864-05-06">MAY
 <lb/>6
 <lb/>'64</date>
 <lb/>KY</placeName></place></listPlace></figure>
 <lb/><stamp type="postage"/><figure type="postmark"/></p>
-<p>Capt. Tho A Theobald
-<lb/>Frankfort
-<lb/>Ky<pb/></p>
+<p><persName ref="cwgk:N00010919">Capt. Tho A Theobald
+</persName><lb/><placeName ref="cwgk:P00000308">Frankfort
+</placeName><lb/>Ky<pb/></p>
 <p><figure type="postmark"/></p>
   </body>
  </text>
