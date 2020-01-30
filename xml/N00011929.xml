@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John A. Morrison</title>
+        <title level="a" type="main">John A. B. Morrison</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00011929">
                     <persName>
-                      John A. Morrison
-                        (Major and Lieutenant Colonel (U.S.A.))
+                      John A. B. Morrison
+                        (Clinton Co, Ky, lieut col)
                     </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Soldier. Major in 13th Kentucky Volunteer Cavalry in September 1863. Served in 13th Kentucky Volunteer Cavalry (U.S.A.) as Lieutenant Colonel from December 23, 1863 to January 10, 1865. </p>
+        <p>Clinton County, Kentucky, soldier. Kentucky native. Son of Sandy Morrison and Charity Morrison. Married to Angeline Morrison. Father of Mary D. Morrison, James B. Morrison, and Elzira Morrison. Resident in Hancock County, Kentucky, in 1850. Farmer in Clinton County in 1860. Major in 13th Kentucky Volunteer Cavalry in September 1863. Served in 13th Kentucky Volunteer Cavalry (U.S.A.) as Lieutenant Colonel from December 23, 1863 to January 10, 1865. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 352. KYR-0002-222-0139.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hancock County, p. 302B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clinton County, p. 170.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 352. 
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 938.
 </bibl></ab>
     </back>
 </text>
