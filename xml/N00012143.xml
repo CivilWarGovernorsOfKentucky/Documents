@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00012143">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Lewis Lay</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00012143">
+                    <persName>
+                      Lewis Lay
+                        (Union County, Tennessee, farm hand and Private (U.S.A.).)
+                    </persName>
+                        <event type="birth"  when="1837-11-23"  ><ab>1837-11-23</ab></event>
+                        <event type="death"  when="1918-07-12"  ><ab>1918-07-12</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Union County, Tennessee, farm hand and soldier. Tennessee native. Son of William Lay and Sarah Lay. Resident in Grainger County, Tennessee in 1850. Farm hand in Union County, Tennessee in 1860. Mustered in as private] in the 1st Regiment Tennessee Volunteer Infantry (U.S.A.) on April 2, 1863. Juror in the State V. William B. Chapman in May 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Grainger County, District 13, p. 233.<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Union County, District 3, p. 434.<hi rend="italic">Find A Grave</hi>, &quot;L. C. Lay (November 23, 1837-July 12, 1918),&quot; Memorial #77086317, http://www.findagrave.com/memorial/77086317 (accessed January 30, 2020). <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Tennessee</hi>, NARA RG 94, Microfilm Series M395, Roll 0204. KYR-0001-021-0031.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
