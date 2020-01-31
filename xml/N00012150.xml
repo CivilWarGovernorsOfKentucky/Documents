@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00012150">
                     <persName>
                       William B. Chapman
-                        (resident)
+                        (Claiborne County, Tennessee, school teacher and soldier)
                     </persName>
+                        <event type="death"  when="1862-09-22"  ><ab>1862-09-22</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Accused of embezzlement in the spring of 1861.</p>
+        <p>Claiborne County, Tennessee, school teacher and soldier. Tennessee native. Married to Ann E. Chamberland Chapman in Knox County, Tennessee, on November 25, 1841. Father of Lucy B. Chapman, Mary E. Chapman, Minerva C. Chapman, James J. Chapman, and Sarah E. Chapman. Teacher in Claiborne County in 1850. School teacher in Claiborne County in 1860. Served in the 7th Kentucky Infantry Regiment (U.S.A.) from September 22, 1861 to September 22, 1862. Died in military service on September 22, 1862.  </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-021-0031.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Claiborne County, Subdivision 7, p. 272B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Claiborne, Subdivision 9, p. 340. 
+
+<hi rend="italic">Tennessee State Marriages, 1780-2002</hi>, Tennessee State Library and Archives, Nashville, TN,  Knox County, p. 73 of 1813 on microfilm (accessed via Ancestry.com). 
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 752.
 </bibl></ab>
     </back>
 </text>
