@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. T. Eastham</title>
+        <title level="a" type="main">James T. Eastham</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
@@ -47,9 +47,12 @@
         <particDesc>
                 <person xml:id="N00011749">
                     <persName>
-                      J. T. Eastham
-                        (Unknown, Carter County?)
+                      James T. Eastham
+                        (Boyd County farmer)
                     </persName>
+                        <event type="birth"  when="1818"  cert="medium" ><ab>c1818</ab></event>
+                        <event type="death"  when="1876-03-07"  ><ab>1876-03-07</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +60,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Listed in a February 1864 Franklin County, Kentucky affidavit from William Bowling to Thomas Bramlette regarding the disbursement of funds for Edward I. Wilson&#39;s regiment.</p>
+        <p>Boyd County, Kentucky, farmer. Kentucky native. Son of Christiana Eastham. Married to Hannah Eastham. Father of Mary G. Eastham, Medora Eastham, Irwin G. Eastham, and Miriam Eastham. Farmer in Greenup County in 1850. Farmer in Boyd County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-222-0065
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 2, p. 213B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boyd County, p. 730.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Boyd County, District 3, p. 39B.
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994028, Boyd County Deaths, p. 803 of microfilm. 
 </bibl></ab>
     </back>
 </text>
