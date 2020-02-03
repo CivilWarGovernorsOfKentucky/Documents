@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Marinas King</title>
+        <title level="a" type="main">Marinus King</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Charles Welsko</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00011751">
                     <persName>
-                      Marinas King
+                      Marinus King
                         (Greenup County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
+                        <event type="birth"  when="1835"  ><ab>1835</ab></event>
+                        <event type="death"  when="1907"  ><ab>1907</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,13 +56,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Greenup County, Kentucky, farmer. Pennsylvania native. Son of Ben King and Ann King. Farmer in Greenup County in 1860. </p>
+        <p>Greenup County, Kentucky, farmer. Pennsylvania native. Son of Ben King and Ann King. Farmer in Greenup County in 1860. Family owned one enslaved person in Greenup County in 1860. Farmer in Greenup County in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, East Little Sandy, p. 847-8.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, Sub-district 2, East Little Sandy, pp. 847-48.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Greenup County, p. 2 of microfilm.
 
 <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Carter County, Precinct 1, p. 84A.
+
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Kentucky, 9th Congressional District, Vol. 1 of 3, September 1863, p. , (Accessed via ancestry.com February 3, 2020).
+
+<hi rend="italic">Find A Grave</hi>, &quot;Marinus King (1835-1907),&quot; Memorial 97016311, https://www.findagrave.com/memorial/97016311  (accessed February 3, 2020).
 </bibl></ab>
     </back>
 </text>
