@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Olivia Rice </title>
+        <title level="a" type="main">Hanna Olevia Goble Rice </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Carl Creason</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00011750">
                     <persName>
-                      Olivia Rice 
+                      Hanna Olevia Goble Rice 
                         (Carter County resident (composite bio))
                     </persName>
+                        <event type="birth"  when="1838-02-22"  ><ab>1838-02-22</ab></event>
+                        <event type="death"  when="1902-07-03"  ><ab>1902-07-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -54,13 +60,21 @@
     </teiHeader>
     <text>
     <body>
-        <p>Carter County, Kentucky, resident. Kentucky native. Resident of Carter County in 1850. Resident of Carter County in 1860.</p>
+        <p>Carter County, Kentucky, housekeeper. Carter County, Kentucky, native. Daughter of Stephen M. Goble and Emily Goble. Married to Hiram A. Rice in Carter County on February 11, 1846. Mother of Eliza Ellen Rice, Elizabeth “Lizzie” Rice, Matilda Rice, and Thomas F. Rice. Student in Carter County in 1850. Housekeeper in Carter County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Carter County, District 2, p. 221B.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Carter County, District 2, p. 214A.
 
 <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carter County, p. 260.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Carter County, Precinct 1, p. 84A.
+
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Carter County, p. 499D..
+
+<hi rend="italic">Find A Grave</hi>, &quot;Hanna Olivia Goble Everman (1838-1902),&quot; Memorial 100555524, https://www.findagrave.com/memorial/100555524  (accessed January 31, 2020).
+
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Carter County Marriages, p. 7 of microfilm.
 </bibl></ab>
     </back>
 </text>
