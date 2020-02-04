@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0122"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Greenupsburg Greenup County Ky
-<lb/><date when="1865-03-29">March 29<hi rend="sup">th</hi>, 1865</date></p>
-<p>Dear sir after my compliments to you you will please find inclosed My recpt. against the state, some of my Recepts have bin lost, I was ordered from Lexington by Col Moore to Report with my men to him at catlettsburg <date when="1864-06-02">June 10<hi rend="sup">th</hi>, 1864</date> John Morgan had burnd the bridges on the sentril R. R. &amp; i had to Go by <hi rend="str">way</hi> road of Louisvill with my men</p>
-<p>My Expences at <unclear>Ridiser</unclear> &amp; Hanover at Frankfort was before I was commis<hi rend="underline"><hi rend="sup">d</hi></hi></p>
+   <p><placeName ref="cwgk:P00005803">Greenupsburg</placeName> <placeName ref="cwgk:P001759">Greenup County</placeName> <placeName ref="cwgk:P001800">Ky</placeName><lb/><date when="1865-03-29">March 29<hi rend="sup">th</hi>, 1865</date></p>
+<p>Dear sir after my compliments to you you will please find inclosed My recpt. against the state, some of my Recepts have bin lost, I was ordered from <placeName ref="cwgk:P001002">Lexington </placeName>by <persName ref="cwgk:N00000825">Col Moore</persName> to Report with my men to him at<placeName ref="cwgk:P00001173"> catlettsburg</placeName> <date when="1864-06-02">June 10<hi rend="sup">th</hi>, 1864</date> <persName ref="cwgk:N00004777">John Morgan </persName>had burnd the bridges on the<orgName ref="cwgk:O00010032"> sentril R. R. </orgName>&amp; i had to Go by <hi rend="str">way</hi> road of <placeName ref="cwgk:P00000337">Louisvill </placeName>with my men</p>
+<p>My Expences at  &amp; <placeName ref="cwgk:P001028">Hanover</placeName> at <placeName ref="cwgk:P00000308">Frankfor</placeName>t was before I was commis<orgName ref="cwgk:O00011393">Ridiser</orgName><hi rend="underline"><hi rend="sup">d</hi></hi></p>
 <p>if there should bee any outher Explanation nessry you will please notify me</p>
 <p>yours Respectfuly 
-<lb/>J, H, Jacobs</p>
-<p>Capt Chls Hadon
-<lb/>Frankfort,</p>
+<lb/><persName ref="cwgk:N00010451">J, H, Jacobs</persName></p>
+<p>Capt<persName ref="cwgk:N00000871"> Chls Hadon</persName><lb/>Frankfort,</p>
 <p>3.00
 <lb/>6 50
 <lb/>3 50
@@ -81,8 +87,8 @@
 <lb/>4 -- 
 <lb/>2 -- 
 <lb/><hi rend="underline">17.50</hi>
-<lb/>&#36;57.33</p>
-<p>N. B. if it should bee all right pay your self for your Truble &amp; send a check. I left a Recept with <hi rend="str">M</hi>Capt Sayers for 8,50 which he over looked before its in favor of James Stafford he will add it in with the rest</p>
+<lb/>$57.33</p>
+<p>N. B. if it should bee all right pay your self for your Truble &amp; send a check. I left a Recept with <hi rend="str">M</hi><persName ref="cwgk:N00006226">Capt Sayers</persName> for 8,50 which he over looked before its in favor of <persName ref="cwgk:N00009576">James Stafford</persName> he will add it in with the rest</p>
 <p>J, H, J</p>
   </body>
  </text>
