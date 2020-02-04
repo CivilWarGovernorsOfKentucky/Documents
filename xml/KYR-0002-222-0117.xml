@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0117"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,7 @@
  <text>
   <body>
    <p>NO. 12.<figure type="hr"/>
-<lb/>The State of Kentucky,
-<lb/>To Isaac W Scott, Dr.</p>
+<lb/>The <orgName ref="cwgk:O001025">State of Kentucky</orgName>,<lb/>To<persName ref="cwgk:N00008780"> Isaac W Scott</persName>, Dr.</p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1865">1865</date></cell>
@@ -81,7 +88,7 @@
 </row>
 <row>
 	<cell><date when="1865-01-31">Jany 31</date></cell>
-	<cell>For Salary as Surgeon General of Kentucky for one Month beginning <date when="1865-01-01">January 1. 1865</date> and ending <date when="1865-01-31">January 31 1865</date></cell>
+	<cell>For Salary as <orgName ref="cwgk:O00011391">Surgeon General of Kentucky</orgName> for one Month beginning <date when="1865-01-01">January 1. 1865</date> and ending <date when="1865-01-31">January 31 1865</date></cell>
 	<cell>150</cell>
 	<cell>00</cell>
 </row>
