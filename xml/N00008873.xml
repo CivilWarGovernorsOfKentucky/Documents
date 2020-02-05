@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Brianna Kirk</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,10 @@
                 <person xml:id="N00008873">
                     <persName>
                       James Burchett
-                        (Farmer, Clinton County)
+                        (Clinton County, KY, farmer)
                     </persName>
                         <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -50,11 +55,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Clinton County, Kentucky, farmer. Kentucky native. Married to Mary Burchett on April 2, 1854. Father of Permelia Burchett, James Burchett, Martha Burchett, Arlena Burchett, John Burchett, Nancy Burchett, and Emily Burchett. Laborer in Clinton County in 1850. Farmer in Clinton County in 1860.</p>
+        <p>Clinton County, Kentucky, farmer. Kentucky native. Married to Mary Burchett in Clinton County on April 2, 1854. Father of Permelia Burchett, James Burchett, Martha Burchett, Arlena Burchett, John Burchett, Nancy Burchett, and Emily Burchett. Laborer in Clinton County in 1850. Farmer in Clinton County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Clinton County, District No. 1, p. 161. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clinton County, p. 296. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Clinton County, District No. 3, p. 292.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Clinton County, District No. 1, p. 161. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clinton County, p. 296. 
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Clinton County, District No. 3, p. 292.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Clinton County Marriages, Film #94027-994058, p. 3. 
 </bibl></ab>
     </back>
 </text>
