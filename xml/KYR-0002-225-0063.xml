@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0063"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brianna Kirk</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Stanton <date when="1865-10-17">Oct 17. 1865</date>
-<lb/>Thos E. Bramlette Gov. of Ky.
-<lb/>Dear Sir</p>
-<p>We take the privelege of addressing afew lines, to you in regard to the recruiting a Company of Enrolled Militia for our County. It does Seem fit and proper to give this Country an oppurtunity of raising a Company for ^its^ defense <hi rend="str">of this</hi> There is no section in Ky where troops are needed more, than in this country-, Powell Co Situated as it is in the very midst of the Mountains, infested with rogues and geurrillas ever since the war Commenced -- Sent her sons to the field with out Stint, never suffered herself to be drafted -- should have some of the priveleges bestowed upon more fortunate counties -- I flatter myself having more than three years experience in the Federal Service as Capt. ^of the 24<hi rend="sup">th</hi> Vo<hi rend="str">fl</hi>- Inf-^ that I can render yet some service to my native state -- I have learned that an order has been issued to raise Companies in other Counties: If such be the fact I hope I will be advised of the fact and authority given me to recruit a Company &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
+   <p><placeName ref="cwgk:P00001940">Stanton</placeName> <date when="1865-10-17">Oct 17. 1865</date>
+<lb/><persName ref="cwgk:N001000">Thos E. Bramlette</persName> Gov. of <placeName ref="cwgk:P001800">Ky</placeName>.<lb/>Dear Sir</p>
+<p>We take the privelege of addressing afew lines, to you in regard to the recruiting a Company of Enrolled Militia for our <placeName ref="cwgk:P00001937">County</placeName>. It does Seem fit and proper to give this Country an oppurtunity of raising a Company for ^its^ defense <hi rend="str">of this</hi> There is no section in Ky where troops are needed more, than in this country-, Powell Co Situated as it is in the very midst of the Mountains, infested with rogues and geurrillas ever since the war Commenced -- Sent her sons to the field with out Stint, never suffered herself to be drafted -- should have some of the priveleges bestowed upon more fortunate counties -- I flatter myself having more than three years experience in the <orgName ref="cwgk:O00001186">Federal Service</orgName> as Capt. ^of the 24<hi rend="sup">th</hi> Vo<hi rend="str">fl</hi>- Inf-^ that I can render yet some service to my native state -- I have learned that an order has been issued to raise Companies in other Counties: If such be the fact I hope I will be advised of the fact and authority given me to recruit a Company &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
 <p>Yours Respectfully
-<lb/>Green V Hall<pb/></p>
+<lb/><persName ref="cwgk:N00006975">Green V Hall</persName><pb/></p>
 <p>Stanton, Powell county.
 <lb/><date when="1865-10-17">Oct. 17, 1865</date><figure type="hr"/>
 <lb/>Hall, Capt. Green V.
 <lb/>(To Govener.)<figure type="hr"/></p>
 <p>Desires to recruit a Co. of active militia in Powell county, as it is badly needed -- the county being situated in the mountains, and infested with rogues and guerillas.<figure type="hr"/></p>
 <p>Ans <date when="1865-10-26">Oct 26</date>. Let Bk B, p. 306<figure type="hr"/>
-<lb/>Rec. I. G. O. <date when="1865-10-24">Oct 24, '65</date>.</p>
+<lb/>Rec. <orgName ref="cwgk:O00000920">I. G. O.</orgName> <date when="1865-10-24">Oct 24, '65</date>.</p>
   </body>
  </text>
 </TEI>
