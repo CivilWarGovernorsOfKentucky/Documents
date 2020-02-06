@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0116"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,12 +72,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort <date when="1865-06-23">June 23<hi rend="underline"><hi rend="sup">rd</hi></hi> "65</date>
-<lb/>Governor</p>
-<p>The bearer Ned Jones, a freed man of colour, I have known well for many years and hesitate not in saying, he is as reliable, honest and correct as any freeman in our, or any other City- He informs me that he has presented a claim to your Excellency for damages done him by the Ky. Soldiers in burning the plank fencing and posts which enclosed his yard and garden- I saw the soldiers myself takeing the plank off the fence and cutting down the posts for firewood, and admonished them for it, without avail.</p>
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1865-06-23">June 23<hi rend="underline"><hi rend="sup">rd</hi></hi> "65</date>
+<lb/><persName ref="cwgk:N001000">Governor</persName></p>
+<p>The bearer <persName ref="cwgk:N00011423">Ned Jones</persName>, a freed man of colour, I have known well for many years and hesitate not in saying, he is as reliable, honest and correct as any freeman in our, or any other City- He informs me that he has presented a claim to your Excellency for damages done him by the Ky. Soldiers in burning the plank fencing and posts which enclosed his yard and garden- I saw the soldiers myself takeing the plank off the fence and cutting down the posts for firewood, and admonished them for it, without avail.</p>
 <p>I hope your Excellency will cause compensation to be made him on presenting proper vouchers for the same-</p>
 <p>Your Excellency mo. obt servt.
-<lb/>Z. Dudley<pb/></p>
+<lb/><persName ref="cwgk:N00011428">J. Dudley</persName><pb/></p>
 <p>867<pb/></p>
 <p>867
 <lb/>N<hi rend="underline"><hi rend="sup">o</hi></hi> 10<figure type="hr"/>

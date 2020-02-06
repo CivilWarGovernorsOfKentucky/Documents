@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0025"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,11 +70,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Maj Smith 7 Cavly.
-<lb/>Gray &amp; Todd</p>
+   <p><persName ref="cwgk:N00010029">Maj Smith</persName> <orgName ref="cwgk:O00006342">7 Cavly</orgName>.<lb/><orgName ref="cwgk:O00008331">Gray &amp; Todd</orgName></p>
 <p>Prepare rations (cooked) immediately for one hundred &amp; ten men for two days</p>
-<p>Jno W Finnell 
-<lb/>Adjt Genl Ky Vols</p>
+<p><persName ref="cwgk:N00000228">Jno W Finnell</persName> <lb/>Adjt Genl Ky Vols</p>
 <p><date when="1862-12-29">Dec 29. 1862</date>
 <lb/>2 Doz Tin cups</p>
 <p>420

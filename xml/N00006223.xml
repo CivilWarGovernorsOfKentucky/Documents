@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[unknown] Cook</title>
+        <title level="a" type="main">Lewis P. Cook</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Tyler Campbell</name>
@@ -43,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00006223">
                     <persName>
-                      [unknown] Cook
-                        (Columbus, Kentucky, resident)
+                      Lewis P. Cook
+                        (Ballard County, Kentucky, farmer.)
                     </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +55,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Columbus, Kentucky, resident. Resident of Columbus, Kentucky in 1861.</p>
+        <p>Ballard County, Kentucky, farmer. Tennessee native. Married to Mary E. Carney Cook. Father of John R. Cook, Reddick Cook, Jelina H. Cook, and William M. Cook. Farmer in Graves County, Kentucky in 1850. Resident of Ballard County, Kentucky in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-019-0078
+        <ab><bibl>KYR-0001-019-0078.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Graves, District 2, p. 380A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard, Picketts, p. 594.
 </bibl></ab>
     </back>
 </text>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00011810">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Supreme Court of the United States</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00011810">
+                    <orgName>Supreme Court of the United States</orgName>
+                        <event type="begun"  when="1787"  ><ab>1787</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Final court of appeals for the Constitution of the United States. Appellate body vested with the authority to act in cases arising under the Constitution, laws, or treaties of the United States; in controversies to which the United States is a party; in disputes between states or between citizens of different states; and in cases of admiralty and maritime jurisdiction. Created in 1787, formally established in 1789. At the beginning the Civil War, it contained nine justices, but increased to ten justices in 1863. Civil War-era Justices: John McLean (1830-1861); James M. Wayne (1835-1867); Roger Brooke Taney (1836-64); John Catron (1837-1865); Peter V. Daniel (1842-1860); Robert C. Grier (1846-1870); John Archibald Campbell (1853-1861); Nathan Clifford (1858-1881); Noah H. Swayne (1862-1881); Samuel Freeman Miller (1862-1890); David Davis (1862-1877); Stephen Johnson Field (1863-1897); Salmon P. Chase (1864-1873). Civil War era Chief Justice(s): Roger B. Taney (1836-1864), Salmon P. Chase (1864-1873).</p>
+
+    </body>
+    <back>
+        <ab><bibl>Brian P. Smentkowski, &quot;Supreme Court of the United States,&quot; <hi rend="italic">Encylopaedia Brittanica</hi>, (accessed online January 14, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

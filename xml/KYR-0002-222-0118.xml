@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0118"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,7 @@
  <text>
   <body>
    <p>No. 22.<figure type="hr"/>
-<lb/>THE STATE OF KENTUCKY,
-<lb/>To John B Lindsay D<hi rend="underline"><hi rend="sup">r</hi></hi></p>
+<lb/>THE <orgName ref="cwgk:O001025">STATE OF KENTUCKY</orgName>,<lb/>To <persName ref="cwgk:N00010933">John B Lindsay </persName>D<hi rend="underline"><hi rend="sup">r</hi></hi></p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1865">1865</date>.</cell>
@@ -75,7 +82,7 @@
 </row>
 <row>
 	<cell><date when="1865-01-31">January 31<hi rend="underline"><hi rend="sup">st</hi></hi></date></cell>
-	<cell>To Services Rendered as asssistant Pay Master for the State of Kentucky, @ &#36;100 per month, during the months of <date when="1864-12">December 1864</date> and <date when="1865-01">January 1865</date>.</cell>
+	<cell>To Services Rendered as asssistant Pay Master for the State of Kentucky, @ $100 per month, during the months of <date when="1864-12">December 1864</date> and <date when="1865-01">January 1865</date>.</cell>
 	<cell><hi rend="underline">200</hi></cell>
 	<cell><hi rend="underline">x</hi></cell>
 </row>
@@ -87,12 +94,12 @@
 </row>
 </table></p>
 <note place="left margin"><p>Approved, and the Q. M. Genl of Ky is ordered to pay Same out of Military fund.</p>
-<p>Tho E Bramlette 
+<p><persName ref="cwgk:N001000">Tho E Bramlette</persName>
 <lb/>Govr of Ky</p></note>
 <p>I Certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service. </p>
-<p>D. W. Lindsey
-<lb/>Insp &amp; Adjt <hi rend="str">Quarter-Master</hi> Gen. of Ky.</p>
-<p>Received at Frankfort, Kentucky, the <date when="1865-01-31">31 of Januy, 1865</date>, of S. G. SUDDARTH, Quarter-Master General of Kentucky Volunteers, the sum of Two hundred Dollars and <gap/> Cents, in full of the above account.
+<p><persName ref="cwgk:N00000873">D. W. Lindsey</persName>
+<lb/><orgName ref="cwgk:O00000920">Insp</orgName> &amp; <orgName ref="cwgk:O00000388">Adjt</orgName> <hi rend="str">Quarter-Master</hi> Gen. of Ky.</p>
+   <p>Received at <placeName ref="cwgk:P00000308">Frankfort</placeName>, Kentucky, the <date when="1865-01-31">31 of Januy, 1865</date>, of <persName ref="cwgk:N00000946">S. G. SUDDARTH</persName>, <orgName ref="cwgk:O00000389">Quarter-Master General of Kentucky Volunteers</orgName>, the sum of Two hundred Dollars and <gap/> Cents, in full of the above account.
 <lb/>(DUPLICATE.)</p>
 <p>John B Lindsay<pb/></p>
 <p>No. 22.<figure type="hr"/>

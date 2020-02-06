@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John J. Vannel</title>
+        <title level="a" type="main">John J. Vance</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Melissa DeVelvis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00011680">
                     <persName>
-                      John J. Vannel
-                        (Kentucky, soldier (U.S.A.))
+                      John J. Vance
+                        (Morgan County, KY, farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky, soldier. Listed on receipt for transport of the Sandy Valley Battalion of the Kentucky Capital Guards in 1864.</p>
+        <p>Morgan County, Kentucky, farmer and soldier. Married to Rhoda Vance. Father of William H. Vance, James W. Vance, Sarah J. Vance, Alexander Vance, Jacob Vance, Louisa Vance, Nancy Vance, George Vance, Almira Vance, and Mary E Vance. Served in the Sandy Valley Battalion of the 1st Regiment Capital Guards (U.S.A.) as a corporal from July 6, 1864 to March 11, 1865.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-222-0128
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 773.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Morgan County, Division 2, p. 398.
 </bibl></ab>
     </back>
 </text>

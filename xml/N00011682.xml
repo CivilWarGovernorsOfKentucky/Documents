@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Melissa DeVelvis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00011682">
                     <persName>
                       John S. Burgess
-                        (Kentucky, soldier (U.S.A.))
+                        (Johnson County, KY, soldier)
                     </persName>
+                        <event type="birth"  when="1843"  cert="medium" ><ab>c1843</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky, soldier. Served as sergeant in the Sandy Valley Battalion of the 1st Regiment Capital Guards (U.S.A.) from June 9, 1864 to March 11, 1865.</p>
+        <p>Johnson County, Kentucky, soldier. Resident of Johnson County in 1850. Resident of Johnson County in 1860. Served in the Sandy Valley Battalion of the 1st Regiment Capital Guards (U.S.A.) as sergeant from June 9, 1864 to March 11, 1865.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 774.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 120B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 222.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 774.
 </bibl></ab>
     </back>
 </text>

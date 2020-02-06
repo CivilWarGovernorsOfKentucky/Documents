@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011757">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas Johnson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00011757">
+                    <persName>
+                      Thomas Johnson
+                        (Indiana, resident and colonel (U.S.A.))
+                    </persName>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Indiana, resident and soldier. Indiana native. Served in 24th Indiana Volunteer Infantry Regiment (U.S.A.) as captain in August 1861. Assigned to 65th Indiana Volunteer Infantry Regiment (U.S.A.) as lieutenant colonel and colonel from August 16, 1862 to August 29, 1864. Discharged for disability. </p>
+
+    </body>
+    <back>
+        <ab><bibl>Frederick H. Dyer, <hi rend="italic">A Compendium of the War of the Rebellion</hi>, Volume 1 (Des Moines: The Dyer Publishing Company, 1908), 1143. 
+
+<hi rend="italic">Report of the Adjutant General of the State of Indiana: Indiana Kentucky Volunteers War 1861-65</hi>, vol. 2 (Indianapolis: W.R. Holloway, State Printer, 1865), 598. 
+
+“Thomas Johnson Civil War Memoir, 1880-1925,” Manuscript and Visual Collections Department, William Henry Smith Memorial Library, Indiana Historical Society, Indianapolis, Indiana.
+</bibl></ab>
+    </back>
+</text>
+</TEI>

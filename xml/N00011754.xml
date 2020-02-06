@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011754">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Watson Foster</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Peter R. Thomas Jr.</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00011754">
+                    <persName>
+                      John Watson Foster
+                        (Evansville, Indiana, attorney and colonel (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1836-03-02"  ><ab>1836-03-02</ab></event>
+                        <event type="death"  when="1917-11-15"  ><ab>1917-11-15</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Evansville, Indiana, attorney and soldier. Indiana native. Son of M.W Foster. Married to Mary P. Foster. Resident in Vanderburgh County, Indiana in 1850. Graduated from Indiana State University in 1855. Attended Harvard Law School. Attorney in Evansville, Indiana in 1860. Employed Louisa Lickmeyer in Evansville, Indiana in 1860. Served in the United States Army as a major in 1861. Served in 65th Indiana Volunteer Regiment (U.S.A.) as colonel from August 24, 1862 to March 10, 1864. Resigned for health reasons. Served in the 136th Indiana Volunteer Regiment (U.S.A.)  as colonel from May 21, 1864 to August 29, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Vanderburgh County, Evansville, p. 386A. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Vanderburgh County, Pigeon War 4, p. 43-44. 
+
+Frederick H. Dyer, <hi rend="italic">A Compendium of the War of the Rebellion</hi>, Volume 1 (Des Moines: The Dyer Publishing Company, 1908), 534, 1143. 
+
+<hi rend="italic">Report of the Adjutant General of the State of Indiana: Indiana Volunteers War 1861-65</hi>, vol. 2 (Indianapolis: W.R. Holloway, State Printer, 1865), 598. 
+
+Office of the Historian, Foreign Service Institute, United States Department of the State, “Biographies of Secretary of the State: John Watson Foster (1836-1917),” https://history.state.gov/departmenthistory/people/foster-john-watson. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>

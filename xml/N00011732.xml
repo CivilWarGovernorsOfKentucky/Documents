@@ -8,6 +8,18 @@
             <resp n="created">Created by:</resp>
             <name>Charles Welsko</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +52,10 @@
                 <person xml:id="N00011732">
                     <persName>
                       William Bowling
-                        (Disbursing Officer, Kentucky)
+                        (Carter County, Kentucky, farmer &amp; attorney)
                     </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <event type="death"  when="1887"  cert="medium" ><ab>c1887</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +64,21 @@
     </teiHeader>
     <text>
     <body>
-        <p>The subject of an affidavit to Thomas Bramlette regarding the money left unaccounted for payment to Colonel Edward Wilson&#39;s regiment. </p>
+        <p>Carter County, Kentucky, farmer and attorney. Kentucky native. Son of Hannah Bowling. Married to Martha A. Bowling. Father of Elizabeth Bowling. Farmer in Carter County in 1850. Attorney in Carter County in 1860. Served as disbursing officer for a military regiment in Grayson, Kentucky, that failed to organize. Attorney in Carter County in 1864.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-222-0065
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Carter County, District 2, p. 223B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carter County, p. 178.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Carter County, Grayson, p. 98B. 
+
+<hi rend="italic">Find A Grave</hi>, &quot;William Bowling (1827-1887),&quot; Memorial 112802886, https://www.findagrave.com/memorial/112802886  (accessed January 30, 2020).
+
+KYR-0002-222-0065.
+
+KYR-0001-029-0179.
 </bibl></ab>
     </back>
 </text>

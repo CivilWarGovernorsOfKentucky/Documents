@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011761">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James A. Cartwright </title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Melissa DeVelvis</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00011761">
+                    <persName>
+                      James A. Cartwright 
+                        (Caldwell County, Kentucky, farmer)
+                    </persName>
+                        <event type="death"  when="1848"  cert="medium" ><ab>c1848</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Caldwell County, Kentucky, farmer. Married to Adeline Graves in Winchester, Kentucky in April 1817. Father of Mary Frances O&#39;Hara, Arabella Wall, Eliza Redd, Joseph Cartwright, Elizabeth E. Cartwright, Serena M. Cartwright, Lucian J. Cartwright, Elvira A. Cartwright, and Milton A. Cartwright. Married to Mary A. J. Cartwright in Hopkins County. Owned seven enslaved people in Caldwell County in 1830. Owned seventeen enslaved people in Caldwell County in 1840. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Fifth Manuscript Census of the United States</hi> (1830), Population Schedules, Kentucky, Caldwell, p. 140.
+
+<hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Kentucky, Caldwell, p. 46.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Clark County Marriages, Film #001943687, p. 724. 
+
+_ Kentucky, Wills and Probate Records, 1774-1989_, Kentucky County, District, and Probate Courts, Caldwell County Administration Bonds, 1830-1869; Vol 19-20, 1970-1975 (Accessed through ancestry.com on January 13, 2020), probate no. 111, 1848.
+</bibl></ab>
+    </back>
+</text>
+</TEI>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0075"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Samuel G. Suddarth, Receipt to John B. Lindsey</title>
+    <title level="a" type="main">Samuel G. Suddarth, Receipt to <persName ref="cwgk:N00010933">John B. Lindsey</persName></title>
     <title level="a" type="parallel">CWG13764</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -20,10 +20,18 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
-    <publisher>Kentucky Historical Society</publisher>
+    <publisher><placeName ref="cwgk:P001800">Kentucky</placeName> Historical Society</publisher>
     <pubPlace>Frankfort, Kentucky</pubPlace>
     <availability>
      <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
@@ -64,8 +72,8 @@
  <text>
   <body>
    <p>No. 22.<figure type="hr"/>
-<lb/>The State of Kentucky,
-<lb/>To John B. Lindsey Dr.</p>
+<lb/>The State of <placeName ref="cwgk:P001800">Kentucky</placeName>,
+<lb/>To <persName ref="cwgk:N00010933">John B. Lindsey</persName> Dr.</p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1864">1864</date>.</cell>
@@ -75,18 +83,18 @@
 </row>
 <row>
 	<cell><date when="1864-06-30">June 30<hi rend="underline"><hi rend="sup">th</hi></hi></date></cell>
-	<cell>To Services rendered in assisting in the organization of the Enrolled Militia of the state during the month of <date when="1864-06">June</date></cell>
-	<cell>&#36;83</cell>
+	<cell>To Services rendered in assisting in the organization of the Enrolled <orgName ref="cwgk:O00000916">Militia of the state</orgName> during the month of <date when="1864-06">June</date></cell>
+	<cell>$83</cell>
 	<cell>33</cell>
 </row>
 </table></p>
-<p>This claim is approved, and the Q. M. Genl is ordered to pay the same out of the Militia fund.</p>
-<p>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlette
+<p>This claim is approved, and the <persName ref="cwgk:N00000946">Q. M. Genl</persName> is ordered to pay the same out of the Militia fund.</p>
+<p><persName ref="cwgk:N001000">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlette</persName>
 <lb/>Gov<hi rend="sup">r</hi></p>
 <p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
-<p>D. W. Lindsey
+<p><persName ref="cwgk:N00000873">D. W. Lindsey</persName>
 <lb/>Insp -- <hi rend="str">Quarter-Master</hi> Gen. Ky.</p>
-<p>Received at Frankfort, Kentucky, the <date when="1864-06-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> of June, 1864,</date> of S. G. SUDDARTH, Quarter-Master General of Kentucky Volunteers, the sum of Eighty three Dollars and <gap/> Cents, in full of the above account.
+<p>Received at <placeName ref="cwgk:P00000308">Frankfort</placeName>, Kentucky, the <date when="1864-06-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> of June, 1864,</date> of S. G. SUDDARTH, Quarter-Master General of Kentucky Volunteers, the sum of Eighty three Dollars and <gap/> Cents, in full of the above account.
 <lb/>(DUPLICATE.)</p>
 <p>John B Lindsey<pb/></p>
 <p>No. 22.<figure type="hr"/>
@@ -102,7 +110,7 @@
 <row>
 	<cell><date when="1864-06-30">June 30<hi rend="underline"><hi rend="sup">th</hi></hi></date></cell>
 	<cell>To Services rendered in assisting in the organization of the Enrolled Militia of the state during the month of <date when="1864-06">June</date></cell>
-	<cell>&#36;83</cell>
+	<cell>$83</cell>
 	<cell>33</cell>
 </row>
 </table></p>

@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00010315">
                     <persName>
                       W. E. Arthur
-                        (Kenton County, Kentucky, resident)
+                        (Kenton County, Kentucky, attorney)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +54,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Henry Helman in Kenton County, Kentucky. Mentioned as commonwealth attorney in petition in Kenton County.</p>
+        <p>Kenton County, Kentucky, commonwealth attorney. Commonwealth attorney in Kenton County in 1861. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1486.
+        <ab><bibl>KYR-0001-021-0014.
+
+KYR-0001-020-1486.
 </bibl></ab>
     </back>
 </text>

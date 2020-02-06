@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Melissa DeVelvis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Hiram Justice
                         (Kentucky, soldier (U.S.A.))
                     </persName>
+                        <event type="birth"  when="1844"  ><ab>1844</ab></event>
+                        <event type="death"  when="1912"  ><ab>1912</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky, soldier. Served as a private in the Sandy Valley Battalion of the 1st Regiment Capital Guards (U.S.A.) from June 17, 1864 to desertion on August 28, 1864.</p>
+        <p>Carter County, Kentucky, farmhand and soldier. Virginia native. Son of Jaret and Jane Justice. Farm hand in Carter County in 1860. Served in the Sandy Valley Battalion of the 1st Regiment Capital Guards (U.S.A.) as a private from June 17, 1864 to August 28, 1864. Reported as deserted on August 28, 1864. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 774.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carter County, p. 316.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 774.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Hiram H. Justice (1844-1912),&quot; Memorial #59383467, http://www.findagrave.com/memorial/59383467 (accessed January 29, 2020).
 </bibl></ab>
     </back>
 </text>
