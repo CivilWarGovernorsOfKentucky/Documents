@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,22 @@
                 <person xml:id="N00011297">
                     <persName>
                       Abner Eversole
-                        ()
+                        (Kentucky soldier (U.S.A.) 14th KY Cav)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Kentucky soldier. Served in the 14th Kentucky Volunteer Cavalry (U.S.A.) as second lieutenant from February 13, 1863 to March 24, 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 389.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
