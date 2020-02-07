@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Anderson C,, Eversole</title>
+        <title level="a" type="main">Anderson C. Eversole</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,23 @@
         <particDesc>
                 <person xml:id="N00011301">
                     <persName>
-                      Anderson C,, Eversole
-                        ()
+                      Anderson C. Eversole
+                        (Perry County, KY, laborer and soldier )
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Perry County, Kentucky, laborer and soldier. Kentucky native. Son of Joseph Eversole and Sallie Bowling Eversole. Laborer in Perry County in 1860. Served in the 14th Kentucky Volunteer Cavalry (U.S.A.) as</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Perry County, District 1, p. 741.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
