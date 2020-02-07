@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Lloyd Brown</title>
+        <title level="a" type="main">Loyd Ray Brown</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00006598">
                     <persName>
-                      Lloyd Brown
-                        (Fulton County )
+                      Loyd Ray Brown
+                        (Fulton County, KY, resident )
                     </persName>
+                        <event type="birth"  when="1845"  cert="medium" ><ab>c1845</ab></event>
+                        <event type="death"  when="1921-11-28"  ><ab>1921-11-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in a petition to Thomas Bramlette.</p>
+        <p>Fulton County, Kentucky, resident. Kentucky native. Son of Shad Brown. Mentioned as charged with petit larceny in a petition to Thomas Bramlette in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0072
+        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;Loyd Ray Thurman Brown (1845-1921),&quot; Memorial 84194756, https://www.findagrave.com/memorial/84194756  (accessed February 7, 2020).
+
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7017469: All Counties, Fulton County Deaths, Death Certificates, 1921-1922, p. 811 of microfilm, File #806.
+
+KYR-0001-004-0072.
 </bibl></ab>
     </back>
 </text>
