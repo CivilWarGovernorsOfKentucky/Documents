@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C. J. Coker</title>
+        <title level="a" type="main">Elijah J. Coker</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
@@ -43,9 +47,10 @@
         <particDesc>
                 <person xml:id="N00006603">
                     <persName>
-                      C. J. Coker
-                        (Fulton County)
+                      Elijah J. Coker
+                        (Obion Co, TN, engineer &amp; Fulton County, KY)
                     </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +59,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition to Thomas Bramlette. </p>
+        <p>Obion County, Tennessee, engineer. Tennessee native. Son of Volentine Coker and Parthenia Coker. Married to Emma J. Chriswell Coker in Gibson County, Tennessee, on September 10, 1856. Father of William T. Coker. Resident of Wilson County, Tennessee, in 1850. Engineer in Obion County in 1860. Signed a petition to Thomas Bramlette in 1863. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0072
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Wilson County, pp. 480B-481A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Obion County, p. 98.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Tennessee, Gibson County, Rutherford Station, p. 378B.
+
+<hi rend="italic">Tennessee State Marriages, 1780-2002</hi>. Marriage Bonds, Loose Records Ar-Fl, 1854 - 1863. Nashville, TN: Tennessee State Library and Archives, p. 426 of microfilm.
+
+KYR-0001-004-0072
 </bibl></ab>
     </back>
 </text>
