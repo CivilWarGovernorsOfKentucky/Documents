@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006628">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00012184">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Maurice J. Dudley</title>
+        <title level="a" type="main">William G. Courtney</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Jesse Nasta</name>
+            <name>Carl Creason</name>
           </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>James Bartek</name>
-          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -41,13 +37,12 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006628">
+                <person xml:id="N00012184">
                     <persName>
-                      Maurice J. Dudley
-                        (Covington, KY, attorney)
+                      William G. Courtney
+                        (Harrison County farmhand)
                     </persName>
-                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
-                        <event type="death"  when="1888-09-26"  ><ab>1888-09-26</ab></event>
+                        <event type="birth"  when="1844"  cert="medium" ><ab>c1844</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,17 +50,5 @@
         </profileDesc>
     </teiHeader>
     <text>
-    <body>
-        <p>Covington, Kenton County, Kentucky, attorney. Kentucky native. Married to Elizabeth Dudley. Father of Stephen G. Dudley and John Dudley. Attorney in Kenton County in 1850. Attorney in Kenton County in 1860. </p>
-
-    </body>
-    <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Kenton County, Covington Ward 6, p. 319A.
-
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington, p. 528.
-
-<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, KDLA, Roll #7012974, Kenton County Deaths, p. 557.
-</bibl></ab>
-    </back>
 </text>
 </TEI>
