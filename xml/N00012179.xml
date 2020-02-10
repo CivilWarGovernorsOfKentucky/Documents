@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011410">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00012179">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Charles Green Land</title>
+        <title level="a" type="main">Richard J. Levi</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Melissa DeVelvis</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
             <name>Carl Creason</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Sarah Haywood</name>
-          </respStmt>
+          </respStmt>        
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -45,12 +37,12 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00011410">
+                <person xml:id="N00012179">
                     <persName>
-                      Charles Green Land
-                        (Cynthiana, Kentucky, mayor and clerk.)
+                      Richard J. Levi
+                        (Harrison County farmer)
                     </persName>
-                        <event type="birth"  when="1818"  ><ab>1818</ab></event>
+                        <event type="birth"  when="1839"  cert="medium" ><ab>c1839</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -58,17 +50,5 @@
         </profileDesc>
     </teiHeader>
     <text>
-    <body>
-        <p>Harrison County, Kentucky, mayor and clerk. Kentucky native. Married to Emily Swiney Land in Bath County, Kentucky, on January 29, 1849. Father of Mary C. Land, Anne Carrie Land, Julia R. Land, and Manville Land. Merchant in Bath County in 1850. Clerk in Cynthiana in 1860. Mayor of Cynthiana in 1864.</p>
-
-    </body>
-    <back>
-        <ab><bibl>KYR-0001-004-0388.<lb/>
-<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath, District 1, p. 100A.<lb/>
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrison, Cynthiana, p. 582.<lb/>
-<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Harrison, Cynthiana, p. 186B.<lb/>
-<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Bath County Marriages, Film #000273005.
-</bibl></ab>
-    </back>
 </text>
 </TEI>
