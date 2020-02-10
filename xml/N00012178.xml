@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,8 @@
                       Fleming Cummins
                         (Harrison County farmer)
                     </persName>
-                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
+                        <event type="birth"  when="1817-11-09"  ><ab>1817-11-09</ab></event>
+                        <event type="death"  when="1890-09-30"  ><ab>1890-09-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +55,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Harrison County, District 1, p. 100B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrison County, p. 680.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Fleming Cummins (1817-1890),&quot; Memorial #46611706, http://www.findagrave.com/memorial/46611706 (accessed February 10, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
