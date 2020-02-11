@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,10 +44,10 @@
                 <person xml:id="N00011693">
                     <persName>
                       Christopher L. Jones
-                        (Harrodsburg, Mercer County, Kentucky, physician)
+                        (Mercer Co, Kentucky, physician)
                     </persName>
-                        <event type="birth"  when="1800"  cert="medium" ><ab>c1800</ab></event>
-                        <event type="death"  when="1867-07-03"  ><ab>1867-07-03</ab></event>
+                        <event type="birth"  when="1800-01"  ><ab>1800-01</ab></event>
+                        <event type="death"  when="1867-07-09"  ><ab>1867-07-09</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -52,11 +56,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Harrodsburg, Mercer County, Kentucky, physician. Kentucky native. Married to Lucy B. Jones. Father of Augustus Jones. Physician in Mercer County, Kentucky in 1850. Physician in Harrodsburg, Kentucky in 1860. Owned ten enslaved people in 1860. </p>
+        <p>Mercer County, Kentucky, physician. Kentucky native. Married to Lucy B. Jones. Father of Augustus Jones. Physician in Mercer County, Kentucky, in 1850. Physician in Harrodsburg in 1860. Owned ten enslaved people in Harrodsburg in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, District 1, p. 553.<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 709. <hi rend="italic">Find A Grave</hi>, &quot;Christopher L. Jones (Death- July 3, 1867),&quot; Memorial #71173558, https://www.findagrave.com/memorial/71173558 (accessed December 28,2019). <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mercer County, Harrodsburg, p. 48. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, District 1, p. 277A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 709. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Christopher L. Jones (Death- July 3, 1867),&quot; Memorial #71173558, https://www.findagrave.com/memorial/71173558 (accessed December 28,2019). <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mercer County, Harrodsburg, p. 48A. 
 </bibl></ab>
     </back>
 </text>
