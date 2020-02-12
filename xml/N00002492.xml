@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>
           <respStmt>
@@ -48,8 +52,10 @@
                 <person xml:id="N00002492">
                     <persName>
                       N. H. Marks
-                        (Nelson County, Kentucky, resident)
+                        (Nelson County, Kentucky, gunsmith &amp; JP)
                     </persName>
+                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +63,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Wrote and signed petition on behalf of John C. Scifres in Nelson County in 1861. Served as a justice of the peace in Nelson County in 1861.</p>
+        <p>Nelson County, Kentucky, gunsmith. Kentucky native. Gunsmith in Nelson County in 1863. Wrote and signed petition on behalf of John C. Scifres in Nelson County in 1861. Served as a justice of the peace in Nelson County in 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-017-0080
+        <ab><bibl><hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Kentucky, 5th Congressional District, Vol. 3, July 1863, p. 457, (Accessed via ancestry.com on January 28, 2020).
+
+KYR-0001-017-0080.
 </bibl></ab>
     </back>
 </text>
