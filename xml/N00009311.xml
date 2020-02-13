@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,11 @@
                 <person xml:id="N00009311">
                     <persName>
                       William Glass
-                        (Todd County)
+                        (Todd County, KY, )
                     </persName>
+                        <event type="birth"  when="1826-03-15"  ><ab>1826-03-15</ab></event>
+                        <event type="death"  when="1879-04-24"  ><ab>1879-04-24</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Indicted for gaming in Todd County, Kentucky. Indictment filed on October 19, 1861.</p>
+        <p>Christian County, Kentucky, merchant. Kentucky native. Merchant in Christian County in 1850. Merchant in Christian County in 1860. Indicted for gaming in Todd County, Kentucky, in 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1448.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Christian County, District 1, p. 486A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, Hopkinsville, p. 670.
+
+<hi rend="italic">Find A Grave</hi>, &quot;William A. Glass (1826-1879),&quot; Memorial 88713906, https://www.findagrave.com/memorial/88713906 (accessed February 13, 2020).
+
+KYR-0001-020-1448.
 </bibl></ab>
     </back>
 </text>
