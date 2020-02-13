@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">William Hinkson</title>
+        <title level="a" type="main">William A. Hinkson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00012182">
                     <persName>
-                      William Hinkson
+                      William A. Hinkson
                         (Harrison County farmer)
                     </persName>
-                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
+                        <event type="birth"  when="1815-04-05"  ><ab>1815-04-05</ab></event>
+                        <event type="death"  when="1886-09-20"  ><ab>1886-09-20</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +55,11 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrison County, District 2, p. 455.
+
+<hi rend="italic">Find A Grave</hi>, &quot;William A Hinkson (1815-1886),&quot; Memorial #43076801, http://www.findagrave.com/memorial/43076801 (accessed February 13, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
