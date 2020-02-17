@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Frank</title>
+        <title level="a" type="main">Frank Johnson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -43,7 +47,7 @@
         <particDesc>
                 <person xml:id="N00008254">
                     <persName>
-                      Frank
+                      Frank Johnson
                         (Enslaved by George W. Johnson, in Scott County, Kentucky, in 1862.)
                     </persName>
                         <event type="birth"  when="1849"  cert="medium" ><ab>c1849</ab></event>
@@ -55,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Enslaved by George W. Johnson, in Scott County, Kentucky, in 1862.</p>
+        <p>Enslaved by George W. Johnson in Scott County, Kentucky in 1862.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0003-092-0150. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Scott County, District No. 1, p. 31-32.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Scott County, District No. 1, p. 31-32.
+
+KYR-0003-092-0150. 
 </bibl></ab>
     </back>
 </text>
