@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,25 @@
                 <person xml:id="N00012202">
                     <persName>
                       John Gallagher
-                        ()
+                        (Jefferson County watchman)
                     </persName>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, District 3, p. 306A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Ward 8, p. 565.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Owen County, Owenton, p. 257B.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, X County Marriages, Film #001943448, p. 36. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
