@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00012201">
                     <persName>
                       Simon Tufts
-                        (Owen County shoemaker)
+                        (Owen County farmer and shoemaker)
                     </persName>
                         <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
                         <trait type="race" subtype="White"/>
@@ -50,5 +54,15 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Owen County, Kentucky, farmer and shoemaker. Mississippi native. Father of Riddle Tufts. Farmer in Owen County in 1850. Shoemaker in Owen County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Owen County, District 2, p. 213A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owen County, District 1, p. 34.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
