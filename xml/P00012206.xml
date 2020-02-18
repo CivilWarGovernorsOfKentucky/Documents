@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00012206">
                     <placeName>
                         <location>
+                              <geo>35.6145 -88.8139</geo>
                             <settlement>Jackson, Tennessee</settlement>
                         </location>
                     </placeName>
@@ -48,5 +53,15 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Seat of Madison County, Tennessee. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">USGS: Earth Explorer</hi>, &quot;Jackson, Tennessee&quot; https://earthexplorer.usgs.gov/ (accessed on February 18, 2020).
+
+Larry L. Miller, <hi rend="italic">Tennessee Place Names</hi>, (Bloomington and Indianapolis: Indiana University Press), 108.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
