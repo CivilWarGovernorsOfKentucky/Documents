@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Geo. C. Roberts</title>
+        <title level="a" type="main">Georege C. Roberts</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,23 @@
         <particDesc>
                 <person xml:id="N00012208">
                     <persName>
-                      Geo. C. Roberts
+                      Georege C. Roberts
                         ()
                     </persName>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;George Roberts (1821-1879),&quot; Memorial #197340377, http://www.findagrave.com/memorial/197340377 (accessed February 18, 2020).
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, X County Marriages, Film #001943448, p. 52.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, X County Marriages, Film #000272774, p. 561.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
