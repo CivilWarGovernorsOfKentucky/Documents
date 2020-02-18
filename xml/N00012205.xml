@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. P. Bacon</title>
+        <title level="a" type="main">William Preston Bacon</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00012205">
                     <persName>
-                      W. P. Bacon
-                        ()
+                      William Preston Bacon
+                        (Owen County saddler)
                     </persName>
+                        <event type="birth"  when="1834-05-08"  ><ab>1834-05-08</ab></event>
+                        <event type="death"  when="1908-01-27"  ><ab>1908-01-27</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
