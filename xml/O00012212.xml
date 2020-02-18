@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00012212">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Steamboat St. Patrick</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>James Bartek</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00012212">
+                    <orgName>Steamboat St. Patrick</orgName>
+                        <event type="begun"  when="1861"  cert="medium" ><ab>c1861</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Steamboat of the &quot;Archer Line.&quot; Constructed c1861. Owner(s): Captain J. B. Archer. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Evansville (IN) Daily Journal</hi>, Volume 16, 5 December 1863, https://newspapers.library.in.gov/cgi-bin/indiana?a=d&amp;d=EVDJ18631205.1.4&amp;e=-------en-20--1--txt-txIN------- (accessed February 18, 2020). 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
