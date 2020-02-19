@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00012216">
                     <placeName>
                         <location>
+                              <geo>37.1423 -85.693</geo>
                             <settlement>Centre, Kentucky </settlement>
                         </location>
                     </placeName>
@@ -48,5 +53,15 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Town in Metcalfe County, Kentucky. </p>
+
+    </body>
+    <back>
+        <ab><bibl>Robert M. Rennick, <hi rend="italic">Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 1984), 54.
+
+<hi rend="italic">USGS: Earth Explorer</hi>, &quot;Centre, Kentucky,&quot; https://earthexplorer.usgs.gov (accessed on February 19, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
