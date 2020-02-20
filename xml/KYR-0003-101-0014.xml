@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,9 +68,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Headquarters Kentucky Volunteers,
-<lb/>Adjutant=General's Office,
-<lb/>Frankfort, <date when="1865-04-05">April 5<hi rend="sup">:</hi>, 1865</date>.</p>
+   <p>Headquarters <orgName ref="cwgk:O00000870">Kentucky Volunteers</orgName>,
+<lb/><orgName ref="cwgk:O00000388">Adjutant=General's Office</orgName>,
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1865-04-05">April 5<hi rend="sup">:</hi>, 1865</date>.</p>
 <p>General Orders
 <lb/>No. 9. }</p>
 <p>A Military Court Martial is hereby ordered to convene at the Inspector General's Office Frankfort Ky on this the <date when="1865-04-05">5<hi rend="sup">th</hi> day of April 1865</date>, or as soon thereafter as practicable, for the trial of such prisoners as may be brought before them.</p>
