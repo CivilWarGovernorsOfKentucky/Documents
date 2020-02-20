@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-101-0014"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -44,7 +52,7 @@
       <settlement>Frankfort</settlement>
       <repository>Kentucky Historical Society</repository>
       <collection>Charles W. Quiggins papers</collection>
-      <idno></idno>
+      <idno/>
      </msIdentifier>
     </msDesc>
    </sourceDesc>
@@ -63,22 +71,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>Headquarters Kentucky Volunteers,
-<lb/>Adjutant=General's Office,
-<lb/>Frankfort, <date when="1865-04-05">April 5<hi rend="sup">:</hi> 1865</date>.
+   <p>Headquarters <orgName ref="cwgk:O00000870">Kentucky Volunteers</orgName>,
+<lb/><orgName ref="cwgk:O00000388">Adjutant=General's Office</orgName>,
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1865-04-05">April 5<hi rend="sup">:</hi> 1865</date>.
 <lb/>General Orders
 <lb/>N<hi rend="sup">o.</hi> 9.</p>
-<p>A Military Court Martial is hereby. ordered to convene at the Inspector General's Office Frankfort, Ky on this the <date when="1865-04-05">5<hi rend="sup">: </hi>day of April 1865</date>, or as soon thereafter as practicable, for the trial of such prisoners as may be brought before them.</p>
+<p>A Military Court Martial is hereby. ordered to convene at the <orgName ref="cwgk:O00000920">Inspector General's Office</orgName> Frankfort, <placeName ref="cwgk:P001800">Ky</placeName> on this the <date when="1865-04-05">5<hi rend="sup">: </hi>day of April 1865</date>, or as soon thereafter as practicable, for the trial of such prisoners as may be brought before them.</p>
 <p>The following Officers are hereby detailed and will constitute said Court viz: -- </p>
-<p><hi rend="underline">Maj. C. W. Quiggens
-<lb/>Maj W. H. Hays
-<lb/>Lieut W. E. Cox</hi> <hi rend="underline">Judge Advocate</hi></p>
+<p><persName ref="cwgk:N00009430"><hi rend="underline">Maj. C. W. Quiggens
+</hi></persName><persName ref="cwgk:N00001581"><hi rend="underline"><lb/>Maj W. H. Hays</hi></persName><hi rend="underline">
+</hi><persName ref="cwgk:N00009339"><hi rend="underline"><lb/>Lieut W. E. Cox</hi></persName> <hi rend="underline">Judge Advocate</hi></p>
 <p>No other officers than those named can be assembled without manifest injury to the service.</p>
-<p>Said detail will also constitute a Commission to investigate and ascertain the correctness of certain claims laid against the State by all officers of the 30<hi rend="sup">:</hi> Ky Vol -- Inf<hi rend="sup">y</hi>. for services rendered the State previous to being mustered into the U. S. service, who will report their opinion as to same-</p>
+<p>Said detail will also constitute a Commission to investigate and ascertain the correctness of certain claims laid against the State by all officers of the 30<hi rend="sup">:</hi> Ky Vol -- Inf<hi rend="sup">y</hi>. for services rendered the State previous to being mustered into the <orgName ref="cwgk:O00001186">U. S. service</orgName>, who will report their opinion as to same-</p>
 <p>No other Officers than those named can be assembled for this Commission without manifest injury to the service. <hi rend="underline">Court will sit without regard to hours.</hi></p>
-<p>By order of the Governor
-<lb/>D, W, Lindsey
-<lb/>Adj' Gen<hi rend="sup">l</hi> Ky</p>
+<p>By order of the <persName ref="cwgk:N001000">Governor</persName>
+<lb/><persName ref="cwgk:N00000873">D, W, Lindsey
+</persName><lb/>Adj' Gen<hi rend="sup">l</hi> Ky</p>
 <p>Maj C W. Quiggens<pb/></p>
 <p><date when="1865-04-05">April 5<hi rend="underline"><hi rend="sup">th</hi></hi> /65,</date></p>
   </body>
