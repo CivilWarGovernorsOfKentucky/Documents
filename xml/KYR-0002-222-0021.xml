@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0021"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">James F. Robinson, Jr., Receipt to Hannah Hays</title>
+    <title>James F. Robinson, Jr., Receipt to <persName ref="cwgk:N00010457">Hannah Hays</persName></title>
     <title level="a" type="parallel">CWG13710</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,7 @@
  <text>
   <body>
    <p>No. 22.<figure type="hr"/>
-<lb/>The <hi rend="str">United States,</hi> State of Kentucky
-<lb/>To Hannah Hays Dr.</p>
+<lb/>The <hi rend="str">United States,</hi> <orgName ref="cwgk:O001025">StateState of Kentucky</orgName><lb/>To Hannah Hays Dr.</p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1861">1861</date></cell>
@@ -75,14 +82,14 @@
 </row>
 <row>
 	<cell><date when="1861-11-14">Nov 14</date></cell>
-	<cell>To 4 Barels Flour-- &#36;5<hi rend="sup">00</hi></cell>
+	<cell>To 4 Barels Flour-- $5<hi rend="sup">00</hi></cell>
 	<cell>20</cell>
 	<cell>00</cell>
 </row>
 <row>
 	<cell/>
 	<cell/>
-	<cell>&#36;20</cell>
+	<cell>$20</cell>
 	<cell>00</cell>
 </row>
 </table></p>
@@ -106,9 +113,9 @@
 <lb/>Paid <date when="1863-03-02">2<hi rend="sup">nd</hi> of <hi rend="str">Feb</hi>Mch 1863</date>
 <lb/>Home Gd
 <lb/>11</p>
-<p>N A Rapier
+<p><persName ref="cwgk:N00010459">N A Rapier</persName>
 <lb/>J198</p>
-<p> -- Rapier -- Larue</p>
+<p> -- Rapier -- <placeName ref="cwgk:P00001718">Larue</placeName></p>
   </body>
  </text>
 </TEI>
