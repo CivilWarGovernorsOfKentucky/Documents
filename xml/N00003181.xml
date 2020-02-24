@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Cyrus Lillard</title>
+        <title level="a" type="main">Silas Lillard</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00003181">
                     <persName>
-                      Cyrus Lillard
-                        (Beckinridge County)
+                      Silas Lillard
+                        (Beckinridge County, KY, laborer and farmer)
                     </persName>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Wrote an affidavit regarding Margolyes Tavern in Breckinridge County, Kentucky, on November 21, 1861.</p>
+        <p>Breckinridge County, Kentucky, laborer and farmer. Kentucky native. Son of Barnett Lillard and Elizabeth Lillard. Laborer in Breckinridge County in 1860. Farmer in Stephensport, Kentucky, in September 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1511.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, Cloverport, p. 549.
+
+<hi rend="italic">Twelfth Manuscript Census of the United States</hi> (1900), Population Schedules, Kentucky, Breckinridge County, Cloverport, Enumeration District: 0005, p. 8.
+
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Kentucky, 2nd Congressional District, Vol. 2 of 4, Breckinridge County, September 1863, p. 351, (Accessed via ancestry.com on February 18, 2020).
+
+KYR-0001-020-1511.
 </bibl></ab>
     </back>
 </text>
