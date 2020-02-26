@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Jos T. Roberts</title>
+        <title level="a" type="main">Joseph T. Roberts</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,28 @@
         <particDesc>
                 <person xml:id="N00012229">
                     <persName>
-                      Jos T. Roberts
+                      Joseph T. Roberts
                         ()
                     </persName>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Owen County, District 2, p. 223A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owen County, Owenton, p. 223.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Owen County, Owenton, p. 282B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Owen County, District 2, p. 431.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Owen County, District 2, p. 182A.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
