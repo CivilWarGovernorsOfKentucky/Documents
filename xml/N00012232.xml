@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">D A Evans</title>
+        <title level="a" type="main">D. A. Evans</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,22 @@
         <particDesc>
                 <person xml:id="N00012232">
                     <persName>
-                      D A Evans
-                        ()
+                      D. A. Evans
+                        (Unknown, Owen County)
                     </persName>
-                      <trait type="gender" subtype="M"/>
+                      <trait type="gender" subtype="U"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Singed a petition on behalf of James Sebree of Owen County.</p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0001-020-2140
+</bibl></ab>
+    </back>
 </text>
 </TEI>
