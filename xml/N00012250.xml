@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -43,7 +47,8 @@
                         ()
                     </persName>
                         <event type="birth"  when="1791"  ><ab>1791</ab></event>
-                      <trait type="gender" subtype="M"/>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
         </profileDesc>
