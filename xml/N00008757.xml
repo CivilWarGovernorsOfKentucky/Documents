@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[unknown] Gregory</title>
+        <title level="a" type="main">Thomas Jones Gregory</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Christina Adkins</name>
@@ -43,9 +47,12 @@
         <particDesc>
                 <person xml:id="N00008757">
                     <persName>
-                      [unknown] Gregory
-                        (western Kentucky soldier, possibly Thomas Jones Gregory, captain, Capital Guards, Paducah Battalion)
+                      Thomas Jones Gregory
+                        (Graves County, KY, soldier (U.S.A.))
                     </persName>
+                        <event type="birth"  when="1826-06-01"  ><ab>1826-06-01</ab></event>
+                        <event type="death"  when="1865-03-22"  ><ab>1865-03-22</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in KYR-0002-225-0076. </p>
+        <p>Graves County, Kentucky, soldier. Kentucky native. Served in the 20th Kentucky Volunteer Infantry Regiment (U.S.A.) as first lieutenant from January 6, 1862 to February 5, 1862. Served in the 1st Regiment Capital Guards, Paducah Battalion as captain from June 24, 1864 to February 12, 1865. Captain in a guerrilla hunting unit in March 1865. Killed by guerrillas in Hickman County in March 1865.  </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-225-0076. 
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 54, 765.
+
+Berry Craig, <hi rend="italic">Kentucky Confederates: Secession, Civil War, and the Jackson Purchase</hi> (Lexington: The University Press of Kentucky, 2014), 287-288. 
+
+<hi rend="italic">Find A Grave</hi>, &quot;Thomas Gregory (Birth-Death),&quot; Memorial #84019262, http://www.findagrave.com/memorial/84019262 (accessed March 2, 2020).
 </bibl></ab>
     </back>
 </text>
