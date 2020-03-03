@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[unknown] Vonderheider</title>
+        <title level="a" type="main">Anna Maria &quot;Mary&quot; Barth Vonderheide</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -43,9 +47,10 @@
         <particDesc>
                 <person xml:id="N00004841">
                     <persName>
-                      [unknown] Vonderheider
+                      Anna Maria &quot;Mary&quot; Barth Vonderheide
                         (Resident of Louisville, Kentucky)
                     </persName>
+                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -54,11 +59,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Resident of Louisville, Kentucky, in 1863. Married to Henry Vonderheider.</p>
+        <p>Dubois County, Indiana, housekeeper. Native of Prussia. Married to Henry Vonderheide in Louisville on May 3, 1859. Mother of Peter Vonderheide and Joseph Vonderheide. Housekeeper in Dubois County in 1860. Resident of Louisville, Kentucky, in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0550.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Dubois County, Bainbridge, p. 954.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Dubois County, Bainbridge, p. 21B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000819610, p. 396.<lb/>
+KYR-0001-029-0550.
 </bibl></ab>
     </back>
 </text>
