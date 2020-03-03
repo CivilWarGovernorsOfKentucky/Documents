@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0027"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +68,8 @@
  <text>
   <body>
    <p>NO. 12.<figure type="hr"/>
-<lb/>The State of Kentucky,
-<lb/>To William J. Moores Dr.</p>
+<lb/>The State of <placeName ref="cwgk:P001800">Kentucky</placeName>,
+<lb/>To <persName ref="cwgk:N00010721">William J. Moores</persName> Dr.</p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1863">1863.</date></cell>
@@ -81,13 +85,13 @@
 </row>
 </table></p>
 <p>Approved
-<lb/>By order of the Governor
-<lb/>Jno. W. Finnell
+<lb/>By order of the <persName ref="cwgk:N001004">Governor</persName>
+<lb/><persName ref="cwgk:N00000228">Jno. W. Finnell</persName>
 <lb/>Adjt Genl Ky vols</p>
 <p>Forty One Dollars &amp; Sixty <hi rend="str">cen</hi>six cents</p>
 <p>I certify that the above account is correct and just; and that the articles were furnished as stated; and that they were necessary for the public service.</p>
-<p>Jones A Crawford, Lut &amp; A Q M 2 &amp; 3 Batt 14 Ky Cavl</p>
-<p>Received at Frankfort on, the <date when="1863-03-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> of March, 1863</date>, of John W Finnell, <hi rend="str">Quarter-master</hi> Adjutant General Kentucky Volunteers, the sum of Forty one Dollars and sixty six Cents, in full of the above account.</p>
+<p><persName ref="cwgk:N00009970">Jones A Crawford</persName>, Lut &amp; A Q M 2 &amp; 3 Batt <orgName ref="cwgk:O00005976">14 Ky Cavl</orgName></p>
+<p>Received at <placeName ref="cwgk:P00000308">Frankfort</placeName> on, the <date when="1863-03-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> of March, 1863</date>, of John W Finnell, <hi rend="str">Quarter-master</hi> Adjutant General Kentucky Volunteers, the sum of Forty one Dollars and sixty six Cents, in full of the above account.</p>
 <p>(DUPLICATE.)</p>
 <p>W<hi rend="underline"><hi rend="sup">m</hi></hi> J Moores<pb/></p>
 <p>no. 39
@@ -95,7 +99,7 @@
 <p>NO. 12.<figure type="hr"/>
 <lb/>No. 65 ABSTRACT <hi rend="str">B</hi> A Qr. 186<gap/>
 <lb/>W<hi rend="sup">m</hi>. J. Moores
-<lb/>Dollars &#36;41<hi rend="sup">66</hi>/<hi rend="sub">100</hi>
+<lb/>Dollars $41<hi rend="sup">66</hi>/<hi rend="sub">100</hi>
 <lb/>Paid <date when="1863-08-08">Aug 8 1863</date></p>
 <p>Allowed <date when="1863-08-08">Aug 8 1863</date>
 <lb/><unclear/></p>
