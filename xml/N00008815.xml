@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Brianna Kirk</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00008815">
                     <persName>
                       John P. Grinstead
-                        (Captain, 9th KY Vol. Inf.)
+                        (Metcalfe County, KY, soldier)
                     </persName>
+                        <event type="birth"  when="1846-06-15"  ><ab>1846-06-15</ab></event>
+                        <event type="death"  when="1915-04-03"  ><ab>1915-04-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +56,20 @@
     </teiHeader>
     <text>
     <body>
-        <p>Captain of 9th Kentucky Volunteer Infantry Regiment (U.S.A.). Mustered in on September 15, 1864, and mustered out on December 15, 1864.</p>
+        <p>Metcalfe County, Kentucky, soldier. Kentucky native. Son of Phillip W Grinstead and<lb/>
+Angelina Grinstead. Resident of Barren County in 1850. Resident of Metcalfe County in 1860. Served in 9th Kentucky Volunteer Infantry Regiment (U.S.A.) as sergeant, second lieutenant, first lieutenant, and captain from November 25, 1861 to December 15, 1864.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 800.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, County, Division 2, p. 444A. 
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Metcalfe County, p. 398. 
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 796, 800.
+
+<hi rend="italic">Kansas Grand Army of the Republic Post Reports, 1880-1943</hi>, Topeka, Kansas: Kansas Historical Society, Post 57, Wellington, Sumner County, 1891, p. 78 of microfilm.
+
+<hi rend="italic">Find A Grave</hi>, &quot;John P. Grinstead (1846-1915),&quot; Memorial #26656943, http://www.findagrave.com/memorial/26656943 (accessed March 4, 2020).
 </bibl></ab>
     </back>
 </text>
