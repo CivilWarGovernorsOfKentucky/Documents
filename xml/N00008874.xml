@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00008874">
                     <persName>
                       James Lawson
-                        (Mercer County, soldier)
+                        (Mercer County, KY, soldier)
                     </persName>
+                        <event type="birth"  when="1845"  cert="medium" ><ab>c1845</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mercer County, Kentucky, soldier. Mustered as captain of the Mercer County State Guard on December 7, 1864 and deserted that unit on April 2, 1865.</p>
+        <p>Mercer County, Kentucky, soldier. Kentucky native. Son of John Lawson and Mary A. Lawson. Resident of Mercer County in 1850. Resident of Mercer County in 1860. Served in the Mercer County State Guard as from December 7, 1864 until April 2, 1865. Reported as deserted on April 2, 1865. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 797.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, District 2, p. 360B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, District 2, p. 582.
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 797.
 </bibl></ab>
     </back>
 </text>
