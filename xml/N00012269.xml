@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,28 @@
                 <person xml:id="N00012269">
                     <persName>
                       Squire Lochry
-                        ()
+                        (Louisville, Kentucky, plasterer)
                     </persName>
+                        <event type="birth"  when="1806-04-28"  ><ab>1806-04-28</ab></event>
+                        <event type="death"  when="1870-07-09"  ><ab>1870-07-09</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Louisville, Kentucky, plasterer.  Kentucky native.  Son of Jeremiah Lochery and Mary Kennedy Lochery.  Plasterer in Louisville, Kentucky, in 1850.  Owned six enslaved individuals in Louisville, Kentucky, in 1850.  Plasterer in Louisville, Kentucky, in 1860.  On Board of Directors of Southern Pond Draining Company in Louisville, Kentucky, in 1868.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville/Ward 7, p. 514.<lb/>
+ <hi rend="italic">Find A Grave</hi>, &quot;Squire Lochery (1806-1871),&quot; Memorial #75853672, http://www.findagrave.com/memorial/75853672 (accessed March 5, 2020).<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville/Ward 7, p. 347B.<lb/>
+ <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Jefferson County, Louisville/Ward 7, p. 864.<lb/>
+&quot;The Louisville Daily Courier, 1868-05-10,&quot;<hi rend="italic">Newspapers.com</hi>,   https://www.newspapers.com/image/119305975/?terms=squire%2Blochery (accessed March 5, 2020). 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
