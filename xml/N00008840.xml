@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00008840">
                     <persName>
                       James C. Guess
-                        (Caldwell County, soldier)
+                        (Caldwell County, KY, soldier)
                     </persName>
                         <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Caldwell County, Kentucky, soldier. Caldwell County native. Resident in Caldwell County in 1850. Served in the 20th Kentucky Volunteer Infantry Regiment (U.S.A.) from October 13, 1861. Promoted from 1st Sergeant to 2nd Lieutenant from January1862 and promoted to 1st Lieutenant from March 1862. Mustered out in January 1865.</p>
+        <p>Caldwell County, Kentucky, soldier. Kentucky native. Resident in Caldwell County in 1850. Served in the 20th Kentucky Volunteer Infantry Regiment (U.S.A.) as sergeant, first lieutenant, and second lieutenant from October 13, 1861 to January 17, 1865.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 613. <hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 48, 924. <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0330, 0490.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 306A. 
+
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 48, 924. 
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0330, 0490.
 </bibl></ab>
     </back>
 </text>
