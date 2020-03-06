@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,9 @@
                 <person xml:id="N00006618">
                     <persName>
                       John Mahoney
-                        (Henry County)
+                        (Henry County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1810"  cert="medium" ><ab>c1810</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Henry County, Kentucky, resident. Signed a petition to Thomas Bramlette on behalf of Greenberry Tingle, Jr. on September 8, 1863.</p>
+        <p>Henry County, Kentucky, farmer.  Kentucky native. Married to Melinda Mahoney. Father of Henry Mahoney, Sarah Jane Mahoney, and Elizabeth Mahoney. Farmer in Henry County in 1850.  Farmer in Henry County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0079
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henry County, District 1, pp. 411A &amp; B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henry County, Subdivision 1, p. 281.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Henry County, Drennons Ridge Precinct Subdivision 63, p. 273A.
 </bibl></ab>
     </back>
 </text>
