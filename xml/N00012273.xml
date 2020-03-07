@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J, B Whitman</title>
+        <title level="a" type="main">John B. Whitman</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00012273">
                     <persName>
-                      J, B Whitman
+                      John B. Whitman
                         (Louisville, Kentucky, real estate agent)
                     </persName>
                         <event type="birth"  when="1797"  cert="medium" ><ab>c1797</ab></event>
+                        <event type="death"  when="1868-07-25"  ><ab>1868-07-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +55,18 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Louisville, Kentucky, real estate agent.  Virginia native.  Father of Laura A. Whitman Wilson and Clara E. Whitman.  Real estate agent in Louisville, Kentucky, in 1860.  Owned nine enslaved individuals in 1860.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville/Ward 5, p. 132. <lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016189, Jefferson County Deaths, File #6466. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville/Ward 5, p. 133. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jefferson County, Louisville/Ward 5, p. 16. <lb/>
+&quot;Louisville, Kentucky, City Directory,1867&quot;<hi rend="italic">Ancestry.com. US City Directories, 1822-1995</hi>p. 424.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016189, X County Deaths, File #. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
