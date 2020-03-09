@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00008842">
                     <persName>
                       Addison H. Pierce
-                        (Caldwell County)
+                        (Lyon County, KY, farm laborer and soldier)
                     </persName>
                         <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Lyon County, Kentucky, laborer and soldier. Ohio native. Married to Serela Barrett on December 16, 1863. Farm laborer in Lyon County in 1860. Enlisted a private in the 15th Kentucky Volunteer Cavalry Regiment (U.S.A.) on August 14, 1862 and mustered out on October 29, 1863.</p>
+        <p>Lyon County, Kentucky, laborer and soldier. Ohio native. Son of Samuel Pierce and Elizath Pierce. Married to Serela Barrett in Lyon County on December 16, 1863. Farm laborer in Lyon County in 1860. Served in the 15th Kentucky Volunteer Cavalry Regiment (U.S.A.) as a private from August 14, 1862 to October 29, 1863.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon, p. 51. <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 135. <hi rend="italic">Marriage Records. Kentucky Marriages</hi> (Richmond, Kentucky: Madison County Courthouse), film 000321364.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon, p. 713.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Lyon County Marriages, Film #000321364, p. 257. 
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 135. 
 </bibl></ab>
     </back>
 </text>
