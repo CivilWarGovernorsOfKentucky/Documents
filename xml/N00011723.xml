@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Mother</title>
+        <title level="a" type="main">Nancy Morgan</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00011723">
                     <persName>
-                      Mother
-                        (resident)
+                      Nancy Morgan
+                        (Morgan Co, Ky, resident)
                     </persName>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
@@ -49,7 +55,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Resident. Married to Johnson Morgan. Mother of Harvey Morgan. Appears in a document sent to Beriah Magoffin that details the events leading up to the death of Harmon Lewis. Harvey Morgan killed Lewis.</p>
+        <p>Kentucky native. Married to Johnson Morgan. Mother of Emmeline Morgan, James Harvey Morgan, Elizabeth Morgan, John Morgan, Paris Morgan, Sarah Morgan, Margaret Morgan. Resident in Morgan County, Kentucky, in 1850.</p>
 
     </body>
     <back>
