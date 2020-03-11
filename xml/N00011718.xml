@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>
     </titleStmt>
@@ -47,7 +51,7 @@
                         (Morgan County, Kentucky, wheelwright)
                     </persName>
                         <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
-                        <event type="death"  when="1857"  cert="medium" ><ab>c1857</ab></event>
+                        <event type="death"  when="1857"  ><ab>1857</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,11 +60,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Morgan County, Kentucky, wheelwright. Virginia native. Married to Darcus Lewis. Father of Mary, Benjamin, James, and John. Wheelwright in Morgan County, Kentucky in 1850. Murdered by Harvey Morgan in Morgan County, Kentucky in November 1859.</p>
+        <p>Morgan County, Kentucky, wheelwright. Virginia native. Married to Darcus Lewis. Father of Mary Lewis, Benjamin Lewis, James Lewis, and John Lewis. Wheelwright in Morgan County, Kentucky, in 1850. Killed by James Harvey Morgan in Morgan County in 1857.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Morgan County, p. 318. KYR-0001-020-2242.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Morgan County, p. 318B. <lb/>
+KYR-0001-020-2242.
 </bibl></ab>
     </back>
 </text>
