@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Sister</title>
+        <title level="a" type="main">[Unknown] Morgan</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00011724">
                     <persName>
-                      Sister
-                        (resident)
+                      [Unknown] Morgan
+                        (Morgan Co, Ky, resident)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
@@ -49,11 +54,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Resident. Daughter of Johnson Morgan. Appears in a document sent to Beriah Magoffin that details the events leading up to the death of Harmon Lewis. Harvey Morgan killed Lewis.</p>
+        <p>Morgan County, Kentucky, resident. Daughter of Johnson Morgan and Nancy Morgan. Appears in a document sent to Beriah Magoffin that details the events leading up to the death of Harmon Lewis, killed by Harvey Morgan in Morgan County, Kentucky, in 1857.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-2242.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Morgan County, p. 148A.<lb/>
+KYR-0001-020-2242.
 </bibl></ab>
     </back>
 </text>
