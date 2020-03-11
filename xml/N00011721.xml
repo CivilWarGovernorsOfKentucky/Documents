@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00011721">
                     <persName>
                       Johnson Morgan
-                        (resident)
+                        (Morgan Co, Ky, farmer)
                     </persName>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Resident. Father of Harvey Morgan. Appears in a document sent to Beriah Magoffin that details the relationship between Harvey Morgan and Harmon Lewis. Harvey Morgan murdered Lewis.</p>
+        <p>Morgan County, Kentucky, farmer. Kentucky native. Married to Nancy Morgan. Father of James Harvey Morgan, Elizabeth Morgan, John Morgan, Paris Morgan, Sarah Morgan, and Margaret Morgan. Farmer in Morgan County, Kentucky, in 1850. Farmer in Morgan County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-2242.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Morgan County, p. 142A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Morgan County, District 2, p. 368.<lb/>
+KYR-0001-020-2242.
 </bibl></ab>
     </back>
 </text>
