@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       J. E. Vickery
                         (Wayne County, KY, farmer and deputy sheriff)
                     </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <event type="death"  when="1903"  cert="medium" ><ab>c1903</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,10 +55,18 @@
         </profileDesc>
     </teiHeader>
     <text>
-    <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Wayne County, p. 502
+    <body>
+        <p>Wayne County, Kentucky, laborer, farmer, and deputy sheriff. Married to Mary Vickery. Father of George F. Vickery, William F. Vickery, Thomas H. Vickery, Margaret A. Vickery, and Daniel W Vickery. Laborer in Wayne County in 1850. Farmer in Wayne County in 1860. Deputy sheriff in Wayne County in 1865. </p>
 
-Augusta Phillips Johnson, <hi rend="italic">A Century of Wayne County, Kentucky, 1800-1900</hi> (Louisville: The Standard Printing Co., 1939), 94. 
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Wayne County, Division 1, p. 313A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Wayne County, p. 502.
+
+Augusta Phillips Johnson, <hi rend="italic">A Century of Wayne County, Kentucky, 1800-1900</hi> (Louisville: The Standard Printing Co., 1939), 94.
+
+<hi rend="italic">Kentucky, Wills and Probate Records, 1774-1989</hi>, Kentucky County, District, and Probate Courts, Wayne County Administration Bonds, Vol 3-4, 1884-1908 (Accessed through ancestry.com on March 11, 2020), p. 264 of microfilm. 
 </bibl></ab>
     </back>
 </text>
