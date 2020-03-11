@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Harvey Morgan</title>
+        <title level="a" type="main">James Harvey Morgan</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,12 @@
         <particDesc>
                 <person xml:id="N00011717">
                     <persName>
-                      Harvey Morgan
-                        (resident)
+                      James Harvey Morgan
+                        (Morgan County, Ky, resident; Frankfort prisoner)
                     </persName>
-                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
+                        <event type="birth"  when="1837"  ><ab>1837</ab></event>
+                        <event type="death"  when="1929"  ><ab>1929</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -50,11 +56,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Resident. Son of Johnson Morgan. Convicted of manslaughter in Morgan County, Kentucky in November 1859.</p>
+        <p>Kentucky native. Son of Johnson Morgan and Nancy Morgan. Resident in Morgan County, Kentucky, in 1850. Convicted of manslaughter in Morgan County, Kentucky, in November 1859. Prisoner in the state penitentiary in Frankfort in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-2242.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Morgan County, p. 142A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 285.<lb/>
+KYR-0001-020-2242.
 </bibl></ab>
     </back>
 </text>
