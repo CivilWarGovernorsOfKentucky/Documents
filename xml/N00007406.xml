@@ -44,13 +44,24 @@
                 <person xml:id="N00007406">
                     <persName>
                       Frank Armstrong
-                        (stub, Woodford county)
+                        (Woodford County)
                     </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Woodford County, Kentucky, trainer. Native of England. Married to Lavinia A. Martin Armstrong in Woodford County on July 9, 1859. Father of John Armstrong and Jane Armstrong. Trainer in Woodford County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Woodford County, p. 876.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Woodford County Marriages, p. 15 of microfilm.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
