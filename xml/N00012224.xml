@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,24 @@
                 <person xml:id="N00012224">
                     <persName>
                       John Donovan
-                        ()
+                        (Owen County resident)
                     </persName>
+                        <event type="birth"  when="1812"  cert="medium" ><ab>c1812</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Owen County, Kentucky, resident. Native of Ireland. Signed a petition on behalf of James Sebree in Owen County.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Owen County, Owenton, p. 272B.
+
+<hi rend="italic">Find A Grave</hi>, &quot;John Donovan (1812-1889),&quot; Memorial #63322347, http://www.findagrave.com/memorial/63322347 (accessed March 13, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
