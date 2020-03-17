@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. F. Lewis</title>
+        <title level="a" type="main">W. T. Lewis</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00012271">
                     <persName>
-                      W. F. Lewis
-                        (Louisville, Kentucky, resident)
+                      W. T. Lewis
+                        (Louisville, Kentucky, salesman)
                     </persName>
+                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of William Scofield in Louisville, Kentucky, in November 1863.</p>
+        <p>Louisville, Kentucky, salesman. Indiana native. Married to Kate L. Hughes Lewis on December 10, 1862 in Louisville, Kentucky. Salesman in Louisville, Kentucky, in 1860. Appears in a November 2, 1863 Louisville, Kentucky note listing the names of the jurors who tried William Schofield (Bennett). </p>
 
     </body>
+    <back>
+        <ab><bibl>_PUT IN MASHBILL CITATION 1860 census, Louisville, Ward 6, page 254.<lb/>
+_PUT IN MARRIAGE RECORD DETAILS
+</bibl></ab>
+    </back>
 </text>
 </TEI>
