@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">William Still</title>
+        <title level="a" type="main">William J. Still</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James N. McAllister</name>
@@ -43,14 +43,27 @@
         <particDesc>
                 <person xml:id="N00007494">
                     <persName>
-                      William Still
-                        (Nicholas Co, stub)
+                      William J. Still
+                        (Nicholas Co, KY, hotel keeper)
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Nicholas County, Kentucky, hotel keeper. Nicholas County, Kentucky, native. Married to Mary Bradley Still in Harrison County on January 15, 1854. Father of J. Warren Still, Henry C. Still, Eliza Still, and Bettie Still. Keeper of the Nicholas House hotel in Carlisle, Nicholas County, in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nicholas County, Carlisle, p. 279.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Woodford County, Versailles, p. 531B and 532A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Rolls #994027-994058, Harrison County Marriages, p. 3. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Rolls #994027-994058, Nicholas County Births, p. 4. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
