@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. Wolfolk</title>
+        <title level="a" type="main">Richard Henry Woolfolk</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Kristen Bailey</name>
@@ -43,9 +47,12 @@
         <particDesc>
                 <person xml:id="N00012311">
                     <persName>
-                      R. Wolfolk
+                      Richard Henry Woolfolk
                         (Louisville, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1823-05-12"  ><ab>1823-05-12</ab></event>
+                        <event type="death"  when="1885-06-11"  ><ab>1885-06-11</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,8 +60,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, resident. Appears in a November 2, 1863 Louisville, Kentucky list of names of jurors who tried William Schofield (Bennett).  </p>
+        <p>Louisville, Kentucky, resident. Indiana native. Son of Samuel A. T. Woolfolk and Caroline Woolfolk. Married to Amanda Woolfolk in Paducah, Kentucky, on August 18, 1851. Father of Henry C. Woolfolk, Mary E. Woolfolk, Robert L. Woolfolk, Carrie Woolfolk, Lewis Woolfolk, Jennie Woolfolk, Mollie Woolfolk. Bookkeeper in Louisville in 1850. Furniture store keeper in Louisville in 1860. Juror on the trial of William Schofield (Bennett) in Louisville, Kentucky, on November 2, 1863. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville District 2, p. 151B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 5, p. 117.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 56B.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Richard H. Woolfolk (1823-1885),&quot; Memorial #90913693, http://www.findagrave.com/memorial/90913693  (accessed March 18, 2020).<lb/>
+“Capt. Woolfolk Dead,” <hi rend="italic">Courier-Journal</hi> (Louisville, Ky.), June 13, 1885, p. 3.<lb/>
+KYR-0001-004-0308.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
