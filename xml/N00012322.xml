@@ -44,13 +44,24 @@
                 <person xml:id="N00012322">
                     <persName>
                       Jinny Adams Wood
-                        ()
+                        (Pulaski County, Kentucky, resident)
                     </persName>
-                      <trait type="gender" subtype="M"/>
+                        <event type="birth"  when="1812"  cert="medium" ><ab>c1812</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Pulaski County, Kentucky, resident.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Pulaski County, Division 2, p.115A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Pulaski County Marriages, Film #000804052, p.154.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
