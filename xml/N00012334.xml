@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,19 @@
                 <person xml:id="N00012334">
                     <persName>
                       Daniel Campbell
-                        ()
+                        (Perry County laborer )
                     </persName>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Perry County, Kentucky, laborer and soldier. Kentucky native. Laborer in Perry County in 1860. Captain of Perry County militia in 1865.</p>
+
+    </body>
 </text>
 </TEI>
