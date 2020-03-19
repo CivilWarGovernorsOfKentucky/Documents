@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007483">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edmund C. Burden</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>James N. McAllister</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007483">
+                    <persName>
+                      Edmund C. Burden
+                        (Nicholas County, Kentucky, gunsmith)
+                    </persName>
+                        <event type="birth"  when="1826-07-20"  ><ab>1826-07-20</ab></event>
+                        <event type="death"  when="1912-02-28"  ><ab>1912-02-28</ab></event>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Nicholas County, Kentucky, gunsmith. Kentucy native. Married to Nancy Wells Burden in Nicholas County on October 17, 1849. Father of William C. Burden, Walter S. Burden, Cyntha Ann Burden, and Elizabeth Burden. Gunsmith in Nicholas County in 1850. Gunsmith in Nicholas County in 1860. Employed Andrew McDaniel as an apprentice gunsmith in Nicholas County in 1860. Employed William Wadkins as a day laborer in Nicholas County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Nicholas County, District 2, p. 393B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nicholas County, Carlisle, pp. 276-77.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Robertson County, Olivet, p. 449B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Nicholas County Marriages, 1800-1895, Film #000252392, p. 71.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Edmund Collins Burden (1826-1935),&quot; Memorial 5582226, https://www.findagrave.com/memorial/5582226/edwin-collins-burden  (accessed March 19, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
