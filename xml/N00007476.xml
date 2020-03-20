@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Michel Burns</title>
+        <title level="a" type="main">Michael B. Burns</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James N. McAllister</name>
@@ -43,15 +43,27 @@
         <particDesc>
                 <person xml:id="N00007476">
                     <persName>
-                      Michel Burns
-                        (Stub)
+                      Michael B. Burns
+                        (Fleming County, Kentucky, farmer and farm hand)
                     </persName>
+                        <event type="birth"  when="1836"  cert="medium" ><ab>c1836</ab></event>
                         <event type="death"  when="1861"  cert="medium" ><ab>c1861</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Fleming County, Kentucky, farmer and farm hand. Native of Ireland. Son of George Burns and Bridget Burns.Farmer in Fleming County in 1850. Farmhand in Fleming County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, District 1, p. 285A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 1, p. 759.<lb/>
+KYR-0001-020-1414.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
