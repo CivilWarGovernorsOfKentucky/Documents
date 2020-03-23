@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       Jonathan Young
                         (Nicholas County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
                         <trait type="race" subtype="Black"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>African American citizen convicted of stealing two cows in Nicholas County, Kentucky. He is mentioned a letter from David Bradshaw to Governor Bramlette asking for Young’s pardon. Bradshaw doubted the accusation that Young stole the cows. </p>
+        <p>Nicholas County, Kentucky, resident. Kentucky native. Married to Judy Young. Father of Louisa Young. Convicted of stealing two cows in Nicholas County, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-3230. 
+        <ab><bibl><hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Nicholas County, Precinct 5, p. 4.<lb/>
+KYR-0001-004-3230. 
 </bibl></ab>
     </back>
 </text>
