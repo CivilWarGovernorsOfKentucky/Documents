@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[unknown] Brown</title>
+        <title level="a" type="main">Mary J. Brown</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James N. McAllister</name>
@@ -43,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00007627">
                     <persName>
-                      [unknown] Brown
-                        (Jessamine County, KY, resident)
+                      Mary J. Brown
+                        (Jessamine County, KY, hotel keeper)
                     </persName>
+                        <event type="birth"  when="1810"  cert="medium" ><ab>c1810</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -53,5 +54,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Nicholasville, Jessamine County, Kentucky, hotel keeper. Kentucky native. Mother of Henrietta Brown, Virginia Brown, Margaret Brown, and Jefferson Brown. Hotel Keeper in Nicholasville in 1860.     </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jessamine County, Nicholasville, p. 116. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
