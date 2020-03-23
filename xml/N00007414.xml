@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>
     </titleStmt>
@@ -44,13 +48,26 @@
                 <person xml:id="N00007414">
                     <persName>
                       Thomas Mahoney
-                        (stub)
+                        (Frankfort, KY, soldier )
                     </persName>
+                        <event type="birth"  when="1833-02-15"  ><ab>1833-02-15</ab></event>
+                        <event type="death"  when="1884-03-31"  ><ab>1884-03-31</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Frankfort, Kentucky, soldier. Native of Ireland. Resident of Frankfort in 1860. Served in the 9th Kentucky Volunteer Cavalry Regiment (U.S.A.) as lieutenant from 1862. Served in the 30th Kentucky Volunteer Infantry Regiment (U.S.A) as major until 1865.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 146A. 
+
+<hi rend="italic">Find A Grave</hi>, &quot;Thomas Mahoney (1833-1884),&quot; Memorial #134348085, http://www.findagrave.com/memorial/134348085 (accessed March 23, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
