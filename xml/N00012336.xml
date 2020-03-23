@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. H. Burns</title>
+        <title level="a" type="main">William H. Burns</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00012336">
                     <persName>
-                      W. H. Burns
-                        (Judge maybe in Madison Co circuit court)
+                      William H. Burns
+                        (Morgan County, KY, judge )
                     </persName>
+                        <event type="birth"  when="1816-07-12"  ><ab>1816-07-12</ab></event>
+                        <event type="death"  when="1884-06-31"  ><ab>1884-06-31</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +56,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Judge in 1861. Called to try a case in Madison County, Kentucky.</p>
+        <p>Morgan County, Kentucky, judge. Virginia native. Married to Mary M. Burns. Father of Harrison, Wallace, Oliver, and Ann. Attorney in Morgan County in 1850. Owned nine enslaved persons in Morgan County in 1850. Judge in the 11th judicial district in 1860. Owned eleven enslaved persons in Morgan County in 1860. Judge in Kentucky in 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1429.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Morgan County, p. 174A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Morgan County, p. 2.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Morgan County, District 1, p. 554.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Morgan County, District 1, p. 90A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, County, City/District, p. X.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;William Harvey Burns (1816-1884),&quot; Memorial 70070054, https://www.findagrave.com/memorial/70070054/william-harvey-burns  (accessed March 23, 2020).KYR-0001-020-1429.
 </bibl></ab>
     </back>
 </text>
