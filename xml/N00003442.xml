@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[unknown] Young </title>
+        <title level="a" type="main">Mat Young </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00003442">
                     <persName>
-                      [unknown] Young 
-                        (Jessamine County)
+                      Mat Young 
+                        (Jessamine County, KY, physician)
                     </persName>
+                        <event type="birth"  when="1836"  cert="medium" ><ab>c1836</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in a petition from Grant Knight et al. to Beriah Magoffin from Jessamine County, Kentucky, on September 16, 1861. </p>
+        <p>Nicholasville, Jessamine County, Kentucky, physician. Kentucky native. Physician in Nicholasville in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1531.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jessamine County, Nicholasville, p. 124.
 </bibl></ab>
     </back>
 </text>
