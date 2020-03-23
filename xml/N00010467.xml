@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       William Barron
                         (Kenton County, Kentucky, resident. )
                     </persName>
+                        <event type="birth"  when="1832"  ><ab>1832</ab></event>
+                        <event type="death"  when="1910"  ><ab>1910</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +56,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Referenced as being stabbed by William Nichols in petition from E. T. Clarkson to Beriah Magoffin in Kenton County.</p>
+        <p>Kenton County, Kentucky, resident. Married to Jane Smith Barron in Covington on May 17, 1856.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1453
+        <ab><bibl><hi rend="italic">Covington, Kentucky, First Presbyterian Church Baptisms, Births, Marriages, Deaths 1841-1868</hi>, Presbyterian Historical Society; Philadelphia, Pennsylvania; U.S., Presbyterian Church Records, 1701-1907; Accession Number: VAULT BX9211 .K41011 F52 v.1, p. 112 of microfilm.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;William Barron (1832-1910),&quot; Memorial 10771013, https://www.findagrave.com/memorial/10771013  (accessed March 23, 2020).
 </bibl></ab>
     </back>
 </text>
