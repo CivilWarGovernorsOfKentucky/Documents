@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">S. G. Rogers</title>
+        <title level="a" type="main">Samuel G. Rogers</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,20 @@
         <particDesc>
                 <person xml:id="N00012335">
                     <persName>
-                      S. G. Rogers
+                      Samuel G. Rogers
                         ()
                     </persName>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Nicholas County, Kentucky, constable, farmer, and soldier. Fleming County, Kentucky, native. Son of Willis C. Rogers and Hepsey Rogers. Married to Drucilla Wright Rogers in Bourbon County, Kentucky, on November 7, 1853. Constable in </p>
+
+    </body>
 </text>
 </TEI>
