@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00012342">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Kentucky Conference of the Methodist Episcopal Church</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00012342">
+                    <orgName>Kentucky Conference of the Methodist Episcopal Church</orgName>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Regional conference of Methodist Episcopal ministers. Separated from the Methodist Episcopal Church to form the Methodist Episcopal Church, South at the General Conference of the Methodist Episcopal Church in Louisville, Kentucky, in 1844.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Lee A. Dew, &quot;Kentucky Wesleyan College&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 516.
+
+Charles Elliott, <hi rend="italic">History of the Great Secession from the Methodist Episcopal Church in the Year 1845: eventuating in the organization of the new church, entitled the &quot;Methodist Episcopal Church, South.&quot;</hi> (Swormstedt &amp; Poe, for the Methodist Episcopal Church, 1855), (accessed via archive.org).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
