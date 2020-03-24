@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,19 @@
                 <person xml:id="N00012341">
                     <persName>
                       William P. Ballard
-                        (Madison County soldier)
+                        (Madison County  resident and soldier)
                     </persName>
+                        <event type="birth"  when="1843"  cert="medium" ><ab>c1843</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Madison County, Kentucky, resident and soldier. Kentucky native. Son of Tebercus B. Ballard and Miranda Ballard. Stepson of Lee Ann Walker Ballard. Resident of Madison County in 1860. </p>
+
+    </body>
 </text>
 </TEI>
