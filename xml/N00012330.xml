@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J M Jones</title>
+        <title level="a" type="main">James M. Jones</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,25 @@
         <particDesc>
                 <person xml:id="N00012330">
                     <persName>
-                      J M Jones
-                        ()
+                      James M. Jones
+                        (Henry County, Kentucky, jailer)
                     </persName>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Henry County, Kentucky, merchant and jailer. Kentucky native. Married to Mary Ann Jones. Father to Mary E. Jones, Solomon Jones, Mary Jane Jones, and Henry Selina Jones. Merchant in Henry County, Kentucky in 1850. Jailer in New Castle, Kentucky, in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henry County, District 1, p. 425A. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henry County, New Castle, p. 248. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
