@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[Unknown] person</title>
+        <title level="a" type="main">[Unknown][Unknown]</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,8 +43,8 @@
         <particDesc>
                 <person xml:id="N00012326">
                     <persName>
-                      [Unknown] person
-                        ()
+                      [Unknown][Unknown]
+                        (Henry County, Kentucky, resident)
                     </persName>
                       <trait type="gender" subtype="U"/>
                 </person> 
@@ -48,5 +52,9 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Appears in a November 2, 1863 petition to Thomas E. Bramlette on behalf of Stephen Coleman. </p>
+
+    </body>
 </text>
 </TEI>
