@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[Unknown] McGill</title>
+        <title level="a" type="main">Benjamin Franklin McGill</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
@@ -43,9 +47,12 @@
         <particDesc>
                 <person xml:id="N00008059">
                     <persName>
-                      [Unknown] McGill
-                        (Foster, Bracken County, KY)
+                      Benjamin Franklin McGill
+                        (Bracken County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1835-01-19"  ><ab>1835-01-19</ab></event>
+                        <event type="death"  when="1923-11-17"  ><ab>1923-11-17</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Foster, Kentucky, resident in 1863. Rented a house from George S. Kimberly in Foster in 1863.</p>
+        <p>Foster, Bracken County, Kentucky, farmer. Kentucky native. Married to Sarah Eleanor Mullins in December 1857 in Pendleton County, Kentucky. Father of William S. McGill, Sallie B. McGill, and Charles F. McGill. Farmer in Bracken County in 1850. Farmer in Bracken County in 1860. Pendleton County resident in July 1863. Rented a room in George S. Kimberly&#39;s blacksmith shop and apartment building in Foster, Kentucky, from December 12, 1862 to February 15, 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0012.
+        <ab><bibl>KYR-0001-004-0012.<lb/>
+KYR-0001-004-0321.
 </bibl></ab>
     </back>
 </text>
