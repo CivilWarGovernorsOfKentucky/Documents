@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">L. B. Cox </title>
+        <title level="a" type="main">Leonard B. Cox </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,24 @@
         <particDesc>
                 <person xml:id="N00012346">
                     <persName>
-                      L. B. Cox 
-                        ()
+                      Leonard B. Cox 
+                        (Fleming County, Kentucky, attorney)
                     </persName>
+                        <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Fleming County, Kentucky, attorney. Virginia native. Married to Elenor Cox. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 615. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
