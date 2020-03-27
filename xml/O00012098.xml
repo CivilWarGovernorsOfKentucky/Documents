@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,17 +43,20 @@
             <particDesc>
                 <org xml:id="O00012098">
                     <orgName>United States Bureau of Immigration</orgName>
+                        <event type="begun"  when="1864-07-04"  ><ab>1864-07-04</ab></event>
+                        <event type="ended"  when="1868-03-30"  ><ab>1868-03-30</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Branch of the United States government that handled immigration issues and policies. Commissioner(s): Horace N. Congar.</p>
+        <p>Branch of the U.S. Department of State created to encourage immigration. Abolished on March 30, 1868. Commissioner(s): Horace N. Congar.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-003-0133.
+        <ab><bibl>&quot;Administrative Timeline of the Department of State,&quot; Office of the Historian, United States Department of State, https://history.state.gov/departmenthistory/timeline/1789-1899 (accessed March 27, 2020).<lb/>
+KYR-0001-003-0133.
 </bibl></ab>
     </back>
 </text>
