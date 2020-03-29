@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>AaronMPhillips</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00012361">
                     <persName>
                       Napoleon Bonaparte Thurmond
-                        ()
+                        (Crittenden County, Kentucky, stone mason)
                     </persName>
+                        <event type="birth"  when="1815"  ><ab>1815</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Crittenden County, Kentucky, stone mason. Kentucky native.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Crittenden County, District 2, p. 258A.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
