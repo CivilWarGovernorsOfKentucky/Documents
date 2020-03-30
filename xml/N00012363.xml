@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>AaronMPhillips</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,7 @@
                       Jesse Stevens
                         (Caldwell County, Kentucky, sheriff)
                     </persName>
-                        <event type="birth"  when="1802"  ><ab>1802</ab></event>
+                        <event type="birth"  when="1802-05-03"  ><ab>1802-05-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,5 +58,11 @@
         <p>Caldwell County, Kentucky, sheriff. Kentucky native. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 307A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, District 1, p. 63.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
