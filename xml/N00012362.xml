@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>AaronMPhillips</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,8 @@
                       Mary (Polly) Moore Thurmond
                         (Crittenden County, Kentucky, resident)
                     </persName>
-                        <event type="birth"  when="1783"  ><ab>1783</ab></event>
+                        <event type="birth"  when="1781"  ><ab>1781</ab></event>
+                        <event type="death"  when="1871"  ><ab>1871</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -54,5 +59,11 @@
         <p>Crittenden County, Kentucky, resident. Virginia native.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Crittenden County, District 2, p. 258A.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Crittenden County, District 2, p.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
