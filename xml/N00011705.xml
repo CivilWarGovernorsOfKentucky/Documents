@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,20 @@
                       William Mayer
                         ()
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Nashville, Tennessee, resident. Submitted an affidavit on behalf of William Kreppe in Franklin County, Kentucky on January 17, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0001-004-1459.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
