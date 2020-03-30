@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,23 @@
                 <person xml:id="N00011706">
                     <persName>
                       William Kreppe
-                        ()
+                        (Nashville, TN, carpenter and soldier)
                     </persName>
+                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Nashville, Tennessee, carpenter and soldier. Native of Württemberg, Germany. Immigrated to the United States in c1859. Carpenter in Nashville in 1861. Served in the 1st Tennessee Infantry Regiment (C.S.A.) as a private from May 8, 1861 to February 13, 1862. Imprisoned at the Kentucky State Penitentiary in 1865.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Tennessee</hi>, NARA RG 109, Microfilm Series M268, Roll 0103.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
