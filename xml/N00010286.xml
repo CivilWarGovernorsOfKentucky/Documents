@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. B. Landrum</title>
+        <title level="a" type="main">John B. Lendrum</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00010286">
                     <persName>
-                      J. B. Landrum
-                        (Kenton County, Kentucky, resident)
+                      John B. Lendrum
+                        (Kenton County, Kentucky,city clerk and bookkeeper)
                     </persName>
+                        <event type="birth"  when="1804"  ><ab>1804</ab></event>
+                        <event type="death"  when="1878"  ><ab>1878</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Henry Helman in Kenton County, Kentucky.</p>
+        <p>Kenton County, Kentucky, city clerk and bookkeeper. Virginia native. Married to Elizabeth Lendrum. Father of Thomas W. Lendrum, Harry S. Lendrum, and Lillie H. Lendrum. City clerk in Covington in 1850. Owned one enslaved person in Kenton County in 1850. Bookkeeper in Covington in 1860. Employed Jane Blackburn and Frank Garrish as servants in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1486.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Kenton County, Covington Ward 3, p. 256A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Kenton County, Covington , p. 2 of microfilm.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington Ward 1, p. 510.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Kenton County, Covington Ward 2, p. 359B.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;John Buckner Lendrum (1804-1878),&quot; Memorial 141255558, https://www.findagrave.com/memorial/141255558/john-buckner-lendrum  (accessed March 31, 2020).
 </bibl></ab>
     </back>
 </text>
