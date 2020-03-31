@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,23 @@
                 <person xml:id="N00012372">
                     <persName>
                       Harrison Ruark
-                        ()
+                        (Lewis County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1844"  cert="medium" ><ab>c1844</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lewis County, Kentucky resident. Kentucky native. Son of Daniel Ruark and Charity Ruark. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lewis County, p. 810. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
