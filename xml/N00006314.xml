@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Henry Healman </title>
+        <title level="a" type="main">Henry H. Hellmann </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,10 +47,11 @@
         <particDesc>
                 <person xml:id="N00006314">
                     <persName>
-                      Henry Healman 
-                        (Covington grocery merchant)
+                      Henry H. Hellmann 
+                        (Covington, KY, grocery merchant)
                     </persName>
-                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <event type="birth"  when="1830"  ><ab>1830</ab></event>
+                        <event type="death"  when="1916"  ><ab>1916</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Covington, Kentucky, grocery merchant. Native of Hanover. Grocery merchant in Covington in 1860. </p>
+        <p>Covington, Kentucky, grocery merchant. Native of Hanover. Married to Bernadina Hellmann in 1852. Father of Frank Hellmann. Grocery merchant in Covington in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 3, p. 131.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 3, p. 635.<lb/>
+<hi rend="italic">Thirteenth Manuscript Census of the United States</hi> (1910), Population Schedules, Kentucky, Kenton County, Covington Ward 5,, p. 9A.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Heinrich Hermann “Henry” Hellmann (1830-1916),&quot; Memorial 110637464, https://www.findagrave.com/memorial/110637464  (accessed March 31, 2020).
 </bibl></ab>
     </back>
 </text>
