@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[Unknown] Schofield (Bennett)</title>
+        <title level="a" type="main">[Unknown] Schofield</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Kristen Bailey</name>
@@ -43,9 +47,10 @@
         <particDesc>
                 <person xml:id="N00012324">
                     <persName>
-                      [Unknown] Schofield (Bennett)
+                      [Unknown] Schofield
                         (Louisville, Kentucky, resident)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
@@ -53,8 +58,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Appears in a February 23, 1865 Louisville, Kentucky, letter between L.A. Wood and Thomas E. Bramlette.</p>
+        <p>Mentioned as the mother of William Schofield (Bennett) in a letter from L.A. Wood to Thomas E. Bramlette in Louisville, Kentucky, on February 23, 1865.</p>
 
     </body>
+    <back>
+        <ab><bibl>KYR-0001-004-0310.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
