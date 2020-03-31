@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">H. C. Harris</title>
+        <title level="a" type="main">Henry Clay Harris</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Peter R. Thomas Jr.</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00011713">
                     <persName>
-                      H. C. Harris
+                      Henry Clay Harris
                         (Kenton County, Provisional Congress nominee (C.S.A))
                     </persName>
+                        <event type="birth"  when="1810"  ><ab>1810</ab></event>
+                        <event type="death"  when="1865"  ><ab>1865</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kenton County, Provisional Congress nominee (C.S.A). Kentucky native. Deputy nominee to Sixth U.S. Congressional District of the Provisional Congress of the Confederate States in December 1861.</p>
+        <p>Kenton County, Kentucky, attorney and Provisional Congress nominee (C.S.A). Kentucky native. Married to Rhoda H. Harris. Father of Laticia Harris, Louisa Harris, Helen Harris, Thomas Harris, and Bob Harris. Attorney in Kenton County in 1850. Deputy nominee to Sixth U.S. Congressional District of the Provisional Congress of the Confederate States in December 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0004-033-0025.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Kenton County, Covington Ward 4, p. 268A.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Henry Clay Harris (1810-1865),&quot; Memorial #96024034, http://www.findagrave.com/memorial/96024034 (accessed March 31, 2020).<lb/>
+KYR-0004-033-0025.
 </bibl></ab>
     </back>
 </text>
