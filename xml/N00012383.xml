@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,23 @@
                 <person xml:id="N00012383">
                     <persName>
                       James D Hardin
-                        ()
+                        (Mercer County, Kentucky, attorney)
                     </persName>
+                        <event type="birth"  when="1808"  cert="medium" ><ab>c1808</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Mercer County, Kentucky, attorney. Virginia native. Married to Susan H. Hardin. Father of Thomas H. Hardin, Benjamin Hardin, and Mary Hardin. Attorney in Mercer County, Kentucky in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 693. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
