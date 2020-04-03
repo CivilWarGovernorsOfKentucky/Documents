@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,11 @@
                 <person xml:id="N00010323">
                     <persName>
                       Anton Lindenschmidt
-                        (Kenton County, Kentucky, resident)
+                        (Kenton County, Kentucky, blacksmith)
                     </persName>
+                        <event type="birth"  when="1832"  ><ab>1832</ab></event>
+                        <event type="death"  when="1901"  ><ab>1901</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Henry Helman in Kenton County, Kentucky.</p>
+        <p>Kenton County, Kentucky, blacksmith. Native of Germany. Married to Emma Moeller Lindenschmidt. Father of Mary Lindenschmidt, Charley Lindenschmidt, and August E. Lindenschmidt. Blacksmith in Kenton County in 1863. Resident of Kenton County in 1855 and 1865.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1486.
+        <ab><bibl><hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Indiana, Switzerland County, Jefferson, p. 62D.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Kentucky, 6th Congressional District, Vol. 3, June and July 1863, p. 257, p. 96 of microfilm, (Accessed via ancestry.com on April 3, 2020).<lb/>
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, KDLA, Film 7019802: All Counties, certificate #124, p. 129 of microfilm.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #Film 7052122: Certificates 002501-005000, File #58-4557, p. 2170 of microfilm.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Anton Lindenschmidt (1832-1901),&quot; Memorial 180947022, https://www.findagrave.com/memorial/180947022  (accessed April 3, 2020).
 </bibl></ab>
     </back>
 </text>
