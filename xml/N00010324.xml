@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Vinny Horftmann</title>
+        <title level="a" type="main">Heinrich &quot;Henry&quot; William Hartmann</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00010324">
                     <persName>
-                      Vinny Horftmann
-                        (Kenton County, Kentucky, resident)
+                      Heinrich &quot;Henry&quot; William Hartmann
+                        (Kenton County, Kentucky, tailor)
                     </persName>
+                        <event type="birth"  when="1831-02-20"  ><ab>1831-02-20</ab></event>
+                        <event type="death"  when="1918-03-14"  ><ab>1918-03-14</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Henry Helman in Kenton County, Kentucky. </p>
+        <p>Kenton County, Kentucky, tailor. Native of Germany. Son of Gerhard Hartmann and [unknown] Kersting Hartmann. Married to Sophie Hartmann in Kenton County on July 28, 1865. Tailor in Kenton County in 1865. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1486.
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Kenton County, Covington Ward 9, p. 210A.<lb/>
+<hi rend="italic">Twelfth Manuscript Census of the United States</hi> (1900), Population Schedules, Kentucky, Kenton County, Covington Ward 5, Enumeration District: 0107, p. 6.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Kenton County Marriages, Film #001943299, p. 226.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #Film 7016204: All Counties: Kenton County, File #7919, p. 1134 of microfilm.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Heinrich Hartmann (1832-1918),&quot; Memorial 19098495, https://www.findagrave.com/memorial/19098495  (accessed April 3, 2020).
 </bibl></ab>
     </back>
 </text>
