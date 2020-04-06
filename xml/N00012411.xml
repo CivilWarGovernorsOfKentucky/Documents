@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>AaronMPhillips</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -43,6 +47,7 @@
                         (Jackson County, Kentucky, farmer)
                     </persName>
                         <event type="birth"  when="1816"  ><ab>1816</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -50,11 +55,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Jackson County, Kentucky, farmer. Tennessee native. Farmer in Jackson County in 1860.</p>
+        <p>Jackson County, Kentucky, farmer. Tennessee native. Married to Maria A. O&#39;Donnell on November 8, 1838, in Washington County, Tennessee. Farmer in Laurel County, Kentucky, in 1850. Farmer in Jackson County, Kentucky, in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jackson County, McKee, p. 917.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Laurel County, p. 39A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jackson County, McKee, p. 917.
+
+<hi rend="italic">Tennessee State Marriages</hi> (1780-2002), Nashville, Tennessee, Tennessee State Library and Archives, Washington County Marriages, Vol. 0, p. 123.
 </bibl></ab>
     </back>
 </text>
