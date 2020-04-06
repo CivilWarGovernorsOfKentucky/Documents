@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. G. Mathews</title>
+        <title level="a" type="main">Richard G. Mathews</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00010329">
                     <persName>
-                      R. G. Mathews
-                        (Kenton County, Kentucky, resident)
+                      Richard G. Mathews
+                        (Kenton County, Kentucky, lumber dealer)
                     </persName>
+                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Henry Helman in Kenton County, Kentucky.</p>
+        <p>Kenton County, Kentucky, lumber dealer. New York native. Married to Permelia Mathews. Father of Ella Mathews. Lumber dealer in Covington in 1860. Employed Ann Groger as a servant in 1860. Lumber dealer in Kenton County in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1486.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington Ward 5, p. 761.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Kenton County, Covington Ward 5, p. 143A.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Kentucky, 6th Congressional District, Vol. 3, June and July 1863, p. 150, p. 301 of microfilm, (Accessed via ancestry.com on April 3, 2020).
 </bibl></ab>
     </back>
 </text>
