@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,10 @@
                 <person xml:id="N00009287">
                     <persName>
                       James Robinson
-                        (Kenton County Farmer)
+                        (Kenton County, KY, farmer and soldier)
                     </persName>
                         <event type="birth"  when="1793"  ><ab>1793</ab></event>
+                        <event type="death"  when="1869-08"  ><ab>1869-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kenton County, Kentucky, farmer. Virginia native. Married to Charlotte Robinson. Father of Joseph Robinson. Farmer in Kenton County in 1860.</p>
+        <p>Kenton County, Kentucky, farmer and soldier. Lee County, Virginia, native. Married to Charlotte Robinson. Father of William Robinson, Jane Robinson, Sarah Robinson, Lucinda Robinson, and Joseph Robinson. Served in the U.S. Army artillery as a private from February 15, 1814, to February 15, 1819. Farmer in Kenton County in 1850. Farmer in Kenton County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, District 1, p. 377.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Kenton County, p. 159A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, District 1, p. 377.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Mortality Schedules, Kentucky, Kenton County, Western Reserve, p. 845.<lb/>
+<hi rend="italic">Register of Enlistments in the U.S. Army, 1798-1914</hi>, Records of the Adjutant General’s Office, 1780’s-1917, NARA RG 94; Microfilm series M233, p. 194, p. 493 of microfilm.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;James Robinson (1792-1869),&quot; Memorial 11090866, https://www.findagrave.com/memorial/11090866  (accessed April 7, 2020).
 </bibl></ab>
     </back>
 </text>
