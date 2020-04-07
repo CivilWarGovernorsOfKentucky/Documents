@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00012413">
                     <persName>
                       John M. Quinton
-                        ()
+                        (Mercer County, Kentucky, carpenter)
                     </persName>
+                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Served in Company F of the 19th Kentucky Infantry as Private from November 1, 1861 to August 9, 1862.</p>
+        <p>Mercer County, Kentucky, carpenter. Kentucky native. Married to Sarah Quinton. Carpenter in Mercer County, Kentucky in 1860. Served in Company F of the 19th Kentucky Infantry as Private from November 1, 1861 to August 9, 1862.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 398. 
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, p. 746. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 398. 
 </bibl></ab>
     </back>
 </text>
