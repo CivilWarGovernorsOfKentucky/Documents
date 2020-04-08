@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Wm H Wood</title>
+        <title level="a" type="main">William H. Wood</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Emily D. Moses</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00009294">
                     <persName>
-                      Wm H Wood
+                      William H. Wood
                         (Kenton County Resident)
                     </persName>
+                        <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
+                        <event type="death"  when="1880"  cert="medium" ><ab>c1880</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of George Hillman in Kenton County in 1860.</p>
+        <p>Kenton County, Kentucky, deputy sheriff. Virginia native. Married to Mary C. Gresham Wood. Father of Ashland Wood and Ann E. Wood. Carpenter in Kenton County in 1850. Employed Thomas S. Purcell as a carpenter in 1860. Deputy sheriff in Kenton County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1497
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Kenton County, Covington Ward 4, p. 276A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington Ward 4, p. 701.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Kenton County, Scotts Precinct, p. 299A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058: Kenton County Births, 1854, p. 15.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Film 7019164: All Counties, Kenton County, File #1669, p. 1674 of microfilm.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;William H. Wood (1815-1880),&quot; Memorial 191042766, https://www.findagrave.com/memorial/191042766  (accessed April 8, 2020).
 </bibl></ab>
     </back>
 </text>
