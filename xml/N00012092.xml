@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">L. Carrington</title>
+        <title level="a" type="main">Lafayette Carrington</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00012092">
                     <persName>
-                      L. Carrington
+                      Lafayette Carrington
                         (Georgia, Clerk )
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Clerk of the Georgia House of Representative c1861. </p>
+        <p>Baldwin County, Georgia, teacher and clerk. Georgia native. Married to Pauline V. Launay Carrington on December 7, 1853. Father of Jane E. Carrington, Frank Carrington, Pauline Carrington, Carrie Carrington, Emma Carrington, Paul M. Carrington, and Forest L. Carrington. Teacher in Hancock County, Georgia in 1850. Teacher in Baldwin County in 1860. Owned thirteen enslaved persons in Baldwin County in 1860. Clerk of the Georgia House of Representatives in 1861. </p>
 
     </body>
     <back>
-        <ab><bibl>Acts of the General Assembly of the State of Georgia Passed in Milledgeville at an Annual Session in November and December 1860 (Boughton, Nisbett, and Barns State Printers, 1861), 35. KYR-0004-033-0037. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Georgia, Hancock County, District 116, p. 38B. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Georgia, Baldwin County, Smith&#39;s District, p. 211.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Georgia, Baldwin County, Smith&#39;s District, p. 56B.<lb/>
+<hi rend="italic">Acts of the General Assembly of the State of Georgia Passed in Milledgeville at an Annual Session in November and December 1860</hi> (Boughton, Nisbett, and Barns State Printers, 1861), 35. <lb/>
+KYR-0004-033-0037. 
 </bibl></ab>
     </back>
 </text>
