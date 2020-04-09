@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00012071">
                     <persName>
                       James M. Lane
-                        (Simpson County, Kentucky, jailor  )
+                        (Simpson County, Kentucky, cabinet maker and farmer)
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Nominated Jailor in Simpson County, Kentucky by Provisional Government of Kentucky on December 29, 1861.</p>
+        <p>Simpson County, Kentucky, cabinet maker and farmer. Kentucky native. Married to Jane Heffington Lane. Father of Stephen Lane, Josephine Lane, Samuel Lane, and John Lane. Cabinet maker in Simpson County, Kentucky in 1850. Farmer in Dallas County, Texas in 1860. Nominated for jailor in Simpson County by the Provisional Government of Kentucky on December 29, 1861. Farmer in Simpson County in 1864. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0004-033-0038
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Simpson County, p. 18A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Texas, Dallas County, Precinct 1, p. 305. <lb/>
+<hi rend="italic">Texas Department of State Health Services. Texas Death Certificates (1903–1982)</hi>, Denton County Deaths, File #27564.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Simpson County, KY, February 1864, p. 94 (Accessed via ancestry.com). <lb/>
+KYR-0004-033-0038.
 </bibl></ab>
     </back>
 </text>
