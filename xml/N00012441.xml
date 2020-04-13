@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00012441">
                     <persName>
                       George W. Smith
-                        ()
+                        (Hardin County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1813"  cert="medium" ><ab>c1813</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Hardin County, Kentucky, farmer. Kentucky native. Married to Hannah Smith. Father of James Smith, David Smith, Elijah Smith, and J.R. Smith.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hardin County, District 2, p. 213. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
