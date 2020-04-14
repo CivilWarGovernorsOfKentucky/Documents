@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,9 @@
                 <person xml:id="N00011725">
                     <persName>
                       Alexander L. Davidson
-                        (resident)
+                        (Morgan County, KY, state senator)
                     </persName>
+                        <event type="birth"  when="1829"  cert="medium" ><ab>c1829</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Morgan County, Kentucky, senator. Virginia native. Married to Lucinda Davidson. Senator</p>
+        <p>Morgan County, Kentucky, state senator. Virginia native. Married to Lucinda Davidson. Member of the Senate of the Commonwealth of Kentucky in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-2242.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Morgan County, District 1, p. 554
 </bibl></ab>
     </back>
 </text>
