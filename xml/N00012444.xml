@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John W Barr</title>
+        <title level="a" type="main">John Watson Barr</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00012444">
                     <persName>
-                      John W Barr
+                      John Watson Barr
                         (Louisviille, Kentucky, attorney)
                     </persName>
-                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
+                        <event type="birth"  when="1827-12-17"  ><ab>1827-12-17</ab></event>
+                        <event type="death"  when="1907-12-31"  ><ab>1907-12-31</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,11 +56,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, attorney. Kentucky native. Attorney in Louisville, Jefferson County, Kentucky in 1860.</p>
+        <p>Louisville, Kentucky, attorney. Kentucky native. Married to Susan Preston Rogers Barr. Attorney in Louisville, Jefferson County, Kentucky in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 6, p. 353. 
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 6, p. 353. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Judge John Watson Barr (Dec. 17, 1826-Dec. 31, 1907),&quot; Memorial #6589279, http://www.findagrave.com/memorial/6589279 (accessed April 14, 2020). 
 </bibl></ab>
     </back>
 </text>
