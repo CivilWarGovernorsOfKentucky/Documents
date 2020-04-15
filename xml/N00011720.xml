@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[Unknown] Lacey</title>
+        <title level="a" type="main">Axey M. Lacey</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
@@ -43,9 +47,12 @@
         <particDesc>
                 <person xml:id="N00011720">
                     <persName>
-                      [Unknown] Lacey
-                        (Morgan Co, Ky, resident)
+                      Axey M. Lacey
+                        (Morgan Co, Ky, farmer)
                     </persName>
+                        <event type="birth"  when="1806-02-14"  ><ab>1806-02-14</ab></event>
+                        <event type="death"  when="1892-01-01"  ><ab>1892-01-01</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Appears in a document detailing events in the case of Harmon Lewis, killed, and James Harvey Morgan, convicted of manslaughter in Morgan County, Kentucky, in 1859.</p>
+        <p>Morgan County, Kentucky, farmer. Indiana native. Married to John Carson. Mother of George Lacy, Ellen Lacy, William Lacy, Phebe Lacy, Carline Lacy, Frances Lacy, Armstrong Lacy, and Jasper Lacy. Resident of Morgan County, Kentucky in 1850. Farmer in Morgan County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-2242.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Morgan County, p. 153A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Morgan County, Division 2, p. 362.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Axey M. Lacy (1806-1892),&quot; Memorial #12697289, http://www.findagrave.com/memorial/12697289 (accessed April 15, 2020).
 </bibl></ab>
     </back>
 </text>
