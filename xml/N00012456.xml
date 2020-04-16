@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>AaronMPhillips</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Lewis R. McMurtry
                         (Garrard County, Kentucky, merchant)
                     </persName>
+                        <event type="birth"  when="1813"  ><ab>1813</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,13 +55,21 @@
     </teiHeader>
     <text>
     <body>
-        <p>Garrard County, Kentucky, merchant. Kentucky native.</p>
+        <p>Garrard County, Kentucky, merchant. Kentucky native. Married to Amanda Reid McMurtry. Father of Reid Leslie McMurtry and Lewis Samuel McMurtry. Merchant in Mercer County, Kentucky, in 1850. Owned five enslaved persons in 1850. Merchant in Garrard County in 1860. Postmaster of Lancaster, Kentucky, from October 26, 1861 to February 10, 1869.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, County, City/District, p. X
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, District 1, p. 277A.
 
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, County, City/District, p. X
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Mercer County, District 1, p. 873.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Garrard County, Lancaster, p. 636.
+
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, KDLA, Roll #7017489, All County Deaths, p. 597.
+
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, KDLA, Roll #7017505, All County Deaths, p. 1962.
+
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, Roll 45, Kentucky, Casey - Grave Counties, p. 588 (accessed via Ancestry.com).
 </bibl></ab>
     </back>
 </text>
