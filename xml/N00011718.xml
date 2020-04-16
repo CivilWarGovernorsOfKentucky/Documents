@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Harmon Lewis</title>
+        <title level="a" type="main">[Unknown] Harmon</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
@@ -47,11 +51,11 @@
         <particDesc>
                 <person xml:id="N00011718">
                     <persName>
-                      Harmon Lewis
-                        (Morgan County, Kentucky, wheelwright)
+                      [Unknown] Harmon
+                        (Morgan County, KY, distiller)
                     </persName>
-                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
-                        <event type="death"  when="1857"  ><ab>1857</ab></event>
+                        <event type="birth"  when="1832"  cert="medium" ><ab>c1832</ab></event>
+                        <event type="death"  when="1857-03"  ><ab>1857-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,12 +64,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Morgan County, Kentucky, wheelwright. Virginia native. Married to Darcus Lewis. Father of Mary Lewis, Benjamin Lewis, James Lewis, and John Lewis. Wheelwright in Morgan County, Kentucky, in 1850. Killed by James Harvey Morgan in Morgan County in 1857.</p>
+        <p>Morgan County, Kentucky, distiller. Virginia native. Distiller in Morgan County, Kentucky, in 1857. Killed by James Harvey Morgan in Morgan County in 1857.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Morgan County, p. 318B. <lb/>
-KYR-0001-020-2242.
+        <ab><bibl>KYR-0001-020-2242.
 </bibl></ab>
     </back>
 </text>
