@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>AaronMPhillips</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,8 @@
                       John Owsley
                         (Garrard County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1792"  ><ab>1792</ab></event>
+                        <event type="birth"  when="1793"  ><ab>1793</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -50,8 +55,18 @@
     </teiHeader>
     <text>
     <body>
-        <p>Garrard County, Kentucky, farmer. Kentucky native. Married to Jane Shanks. Retired gentleman in Garrard County in 1860. Owned four enslaved persons in 1860.</p>
+        <p>Garrard County, Kentucky, farmer. Kentucky native. Married to Jane Shanks. Father of William Owsley. Farmer in Lincoln County, Kentucky, in 1850. Owned seventeen enslaved persons in 1850. Retired gentleman in Garrard County in 1860. Owned four enslaved persons in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lincoln County, District 2, p. 285B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Garrard County, Lancaster, p. 637.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Lincoln County, District 2, p. 237-239.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Garrard County, Lancaster, p. 2.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
