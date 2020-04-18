@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>AaronMPhillips</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00012462">
                     <persName>
                       John Watson
-                        (Garrard County, Kentucky, cabinetmaker and furniture dealer)
+                        (Garrard County, Kentucky, cabinet maker and furniture dealer)
                     </persName>
+                        <event type="birth"  when="1828"  ><ab>1828</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,8 +55,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Garrard County, Kentucky, cabinetmaker and furniture dealer. Ohio native.</p>
+        <p>Garrard County, Kentucky, cabinet maker and furniture dealer. Ohio native. Married to Mary Jane Barnes in Garrard County in 1862. Cabinet maker in Garrard County in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Garrard County, Lancaster, p. 638.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Garrard County Marriages, Film #001689805, p. 319.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
