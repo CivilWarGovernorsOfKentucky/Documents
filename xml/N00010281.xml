@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,11 @@
                 <person xml:id="N00010281">
                     <persName>
                       Leonard Troutman
-                        (Nelson Coutny; multiple candidates)
+                        (Nelson County, KY; multiple candidates)
                     </persName>
+                        <event type="birth"  when="1827-03-22"  ><ab>1827-03-22</ab></event>
+                        <event type="death"  when="1865-05-03"  ><ab>1865-05-03</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition to Beriah Magoffin in Nelson County in 1861. </p>
+        <p>Nelson County, Kentucky, farmer. Kentucky native. Son of John Troutman and Mary Hill Troutman. Married to Katherine “Katie” Nicholls Troutman in Nelson County on February 2, 1858. Preparatory student at Hanover College in Indiana in 1849. Farmer in Nelson County in 1850. Household owned twenty-six enslaved persons in Nelson County in 1850. Farmer in Nelson County in 1860. Owned three enslaved persons in Nelson County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1455.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Nelson County, District 1, p. 312B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Nelson County, District 1, p. 185, p. 20 of microfilm.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nelson County, District 2, p. 16.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Nelson County, District 2, p. 128A.<lb/>
+<hi rend="italic">Second Triennial Catalogue of Hanover College, Hanover, Indiana, for the Year 1849</hi>, E. F. Foster, Franklin Printing Rooms, 1849, p. 7.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Nelson County Marriages, Film #000481488, p. 125.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Leonard Troutman (1827-1865),&quot; Memorial 23005619, https://www.findagrave.com/memorial/23005619  (accessed April 20, 2020).
 </bibl></ab>
     </back>
 </text>
