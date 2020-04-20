@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Jams Caruther</title>
+        <title level="a" type="main">Samuel Carothers</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00010402">
                     <persName>
-                      Jams Caruther
+                      Samuel Carothers
                         (Nelson County)
                     </persName>
+                        <event type="birth"  when="1813-09-02"  ><ab>1813-09-02</ab></event>
+                        <event type="death"  when="1882-12-16"  ><ab>1882-12-16</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition to Beriah Magoffin in Nelson County in 1861. </p>
+        <p>Bullitt County, Kentucky, merchant. Pennsylvania native. Married to Elizabeth Hamilton Carothers in Bullitt County on December 3, 1841. Father of Alfred Carothers, Mary A. Carothers, and Irene Carothers. Bridge builder in Bullitt County in 1850. Merchant in Bullitt County in 1860. Employed Afred Carothers as a merchant clerk in Nelson County in 1860. Owned six enslaved persons in Bullitt County in 1860. Household owned an additional two enslaved persons in Bullitt County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1455.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bullitt County, p. 152A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bullitt County, Mount Washington District , p. 773.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Bullitt County, District 2, p. 198A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Nelson County Marriages, Film #000482690, p. 29.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Samuel Carothers (1813-1882),&quot; Memorial 140757203, https://www.findagrave.com/memorial/140757203  (accessed April 20, 2020).
 </bibl></ab>
     </back>
 </text>
