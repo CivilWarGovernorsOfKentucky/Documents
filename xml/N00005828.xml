@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John F Jones</title>
+        <title level="a" type="main">John F. Jones</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name></name>
@@ -43,10 +47,11 @@
         <particDesc>
                 <person xml:id="N00005828">
                     <persName>
-                      John F Jones
-                        (Greenup County, laborer)
+                      John F. Jones
+                        (Greenup County, KY, laborer)
                     </persName>
                         <event type="birth"  when="1836"  cert="medium" ><ab>c1836</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Greenup County, Kentucky, day laborer. Greenup County, Kentucky native. Married to Elizabeth J.  Thompson Jones. Father of Alice Mary Jones.</p>
+        <p>Greenup County, Kentucky, day laborer. Greenup County, Kentucky native. Married to Elizabeth J. Thompson Jones. Father of Alice Mary Jones. Day laborer in Greenup County, Kentucky in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 22; Kentucky Birth, Marriage, and Death Records, 1852-1964, Ancestry, Deaths, Greenup County, 1937.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 22.<lb/>
+Kentucky Birth, Marriage, and Death Records, 1852-1964, Ancestry, Deaths, Greenup County, 1937.
 </bibl></ab>
     </back>
 </text>
