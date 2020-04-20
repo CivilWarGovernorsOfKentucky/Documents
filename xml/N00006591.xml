@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00006591">
                     <persName>
                       Jesse Alexander
-                        (Greenup County farmer)
+                        (Greenup County, KY, farmer)
                     </persName>
                         <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Greenup County, Kentucky, farmer. North Carolina native. Married to Mildred Alexander. Father of Elizabeth Alexander, Vienna G. Alexander, Ella F. Alexander, and Luke A. Howlin.</p>
+        <p>Greenup County, Kentucky, laborer and farmer. North Carolina native. Son of Susan Alexander. Married to Mildred A. F. Alexander. Father of Elizabeth Alexander, Vienna G. Alexander, and Ella F. Alexander. Laborer in Greenup County, Kentucky in 1850. Farmer in Greenup County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, [State], Greenup County, p. 23-24; Kentucky Birth, Marriage, and Death Records, 1847-1911, Ancestry, Birth Records, Greenup County, 1852.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 228A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 725-726.
 </bibl></ab>
     </back>
 </text>
