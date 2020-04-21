@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Mrs. Osburn</title>
+        <title level="a" type="main">[Unkown] Osburn</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name></name>
@@ -43,9 +47,10 @@
         <particDesc>
                 <person xml:id="N00005822">
                     <persName>
-                      Mrs. Osburn
-                        ()
+                      [Unkown] Osburn
+                        (Greenup County, KY, resident)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
@@ -53,11 +58,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Gave testimony in the Commonwealth of Kentucky v. Arnold Snider.</p>
+        <p>Gave testimony in the case of the Commonwealth of Kentucky v. Arnold Snider in Greenup County, Kentucky in July 1862. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0012
+        <ab><bibl>KYR-0001-005-0012.
 </bibl></ab>
     </back>
 </text>
