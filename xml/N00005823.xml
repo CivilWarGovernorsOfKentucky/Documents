@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">George Truet</title>
+        <title level="a" type="main">George W. Truitt</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name></name>
@@ -43,9 +47,12 @@
         <particDesc>
                 <person xml:id="N00005823">
                     <persName>
-                      George Truet
-                        (Greenup County, Kentucky)
+                      George W. Truitt
+                        (Greenup County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1829-01-03"  ><ab>1829-01-03</ab></event>
+                        <event type="death"  when="1898-11-03"  ><ab>1898-11-03</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>In Greenup County, Kentucky in 1863.</p>
+        <p>Greenup County, Kentucky, farmer. Kentucky native. Married to Rebecca Truitt. Father of Mary E. Truitt, Clarissa Truitt, John S. Truitt, George W. Truitt, and James W. Truitt. Farmer in Greenup County, Kentucky in 1850. Farmer in Greenup County in 1860. Employed Joseph Gibson as a day laborer in Greenup County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0012
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 228A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 726.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Greenup County, Precinct 3, p. 78B.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;George W. Truitt (1829-1898),&quot; Memorial #7348743, http://www.findagrave.com/memorial/7348743 (accessed April 21, 2020).
 </bibl></ab>
     </back>
 </text>
