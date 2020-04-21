@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00005815">
                     <persName>
                       Daniel Callihan
-                        (Greenup County farmer)
+                        (Greenup County, KY, farmer)
                     </persName>
                         <event type="birth"  when="1818"  cert="medium" ><ab>c1818</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Greenup County, Kentucky, farmer. Greenup County native. Married to Eliza Jane Hensley Callihan. </p>
+        <p>Greenup County, Kentucky, farmer. Kentucky native. Married to Eliza Jane Hensley Callihan in Greenup County, Kentucky on December 26, 1853. Farmer in Greenup County in 1860.  </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, East Little Sandy, p. 21; <hi rend="italic">Kentucky, County Marriages, 1852-1914</hi>, Ancestry, Greenup County, 1853.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, East Little Sandy, p. 855.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Greenup County Marriages, p. 5.
 </bibl></ab>
     </back>
 </text>
