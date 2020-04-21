@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
     </titleStmt>
@@ -44,10 +48,11 @@
                 <person xml:id="N00005814">
                     <persName>
                       Robert Bayse
-                        (Greenup County farmer)
+                        (Greenup County, KY, farmer)
                     </persName>
-                        <event type="birth"  when="1810-12"  ><ab>1810-12</ab></event>
-                        <event type="death"  when="1864-11-10"  ><ab>1864-11-10</ab></event>
+                        <event type="birth"  when="1810"  cert="medium" ><ab>c1810</ab></event>
+                        <event type="death"  when="1864-11-09"  ><ab>1864-11-09</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -55,11 +60,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Greenup County, Kentucky, farmer. Virginia native. Married to Ester Bayse. Father of John Bayse, Mary E. Bayse, N. J. Bayse, E. A. Bayse, Rebecca Bayse, and Pauline Bayse.</p>
+        <p>Greenup County, Kentucky, farmer. Virginia native. Married to Ester Bayse. Father of John Bayse, Mary E. Bayse, N. J. Bayse, E. A. Bayse, Rebecca Bayse, and Pauline Bayse. Farmer in Greenup County, Kentucky in 1860. Employed George Shaffer as a day laborer in Greenup County in 1860. Served in the 40th Kentucky Volunteer Infantry (U.S.A.). Died in service of smallpox in Lexington, Kentucky on November 9, 1864. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, East Little Sandy, p. 26; <hi rend="italic">Find A Grave</hi>, &quot;Robert Bayse (1810-1864),&quot; Memorial #340887, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=340887 (accessed May, 26, 2017).
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, East Little Sandy, p. 860. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Robert Bayse (1810-1864),&quot; Memorial #340887, https://www.findagrave.com/memorial/340887 (accessed May, 26, 2017).
 </bibl></ab>
     </back>
 </text>
