@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J M Cardwell</title>
+        <title level="a" type="main">J.M. Cardwell</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,24 @@
         <particDesc>
                 <person xml:id="N00012471">
                     <persName>
-                      J M Cardwell
-                        ()
+                      J.M. Cardwell
+                        (Marion County, Kentucky, druggist)
                     </persName>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Marion County, Kentucky, druggist. Kentucky native. Married to Mary Cardwell. Father of Bettie T. Cardwell, Richard Cardwell, and Ellen Cardwell. Druggist in Marion County, Kentucky in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky,Marion  County, Lebanon, p. 548. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
