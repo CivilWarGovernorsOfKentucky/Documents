@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">D W Phillips</title>
+        <title level="a" type="main">David W Phillips</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,24 @@
         <particDesc>
                 <person xml:id="N00012473">
                     <persName>
-                      D W Phillips
-                        ()
+                      David W Phillips
+                        (Marion County, Kentucky, merchant)
                     </persName>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Marion County, Kentucky, merchant. Kentucky native. Merchant in Marion County, Kentucky in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon, p. 552. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
