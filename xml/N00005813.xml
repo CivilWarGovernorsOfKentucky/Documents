@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00005813">
                     <persName>
                       John Gray
-                        (Greenup County day laborer)
+                        (Greenup County, KY, day laborer)
                     </persName>
                         <event type="birth"  when="1839"  cert="medium" ><ab>c1839</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Greenup County, Kentucky, day laborer.</p>
+        <p>Greenup County, Kentucky, day laborer. Kentucky native. Son of Nancy Gray. Married to Emma J. Gray. Father of Sarah E. Gray. Day laborer in Greenup County, Kentucky in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 12.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 222A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 12.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Greenup County, Precinct 1, p. 8B.
 </bibl></ab>
     </back>
 </text>
