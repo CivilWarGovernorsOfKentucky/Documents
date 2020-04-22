@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,11 @@
                 <person xml:id="N00005812">
                     <persName>
                       James M. Puthuff
-                        (Greenup County juror)
+                        (Greenup County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1831"  ><ab>1831</ab></event>
+                        <event type="death"  when="1903"  ><ab>1903</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Served as juror in Greenup County, Kentucky, in Commonwealth of Kentucky v. Arnold Snider.</p>
+        <p>Greenup County, Kentucky, farmer. Kentucky native. Married to Elizabeth Puthuff. Father of Mary Puthuff, Jennie Puthuff, William Puthuff, Alice Puthuff, and Thomas Puthuff. Laborer in Greenup County, Kentucky in 1850. Farmer in Greenup County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0012
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 255A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, East Little Sandy, p. 854.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lawrence County, Hamilton, p. 334B.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;James M. Puthuff (1831-1903),&quot; Memorial #5737437, http://www.findagrave.com/memorial/5737437 (accessed April 22, 2020).
 </bibl></ab>
     </back>
 </text>
