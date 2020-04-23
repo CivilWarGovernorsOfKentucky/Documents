@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,10 +44,19 @@
                 <org xml:id="O00012482">
                     <orgName>2nd Indiana Cavalry </orgName>
                         <event type="begun"  when="1861-09-20"  ><ab>1861-09-20</ab></event>
+                        <event type="ended"  when="1865-07-12"  ><ab>1865-07-12</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Organized at Indianapolis, IN on September 20, 1861. Mustered out to Louisville, KY on December 15, 1861. Mustered out at Nashville, TN on July 12, 1865. Also known as the 41st Regiment Volunteers</p>
+
+    </body>
+    <back>
+        <ab><bibl>“2nd Regiment Cavalry (41st Regiment Volunteers)”_Union Regimental Histories http://www.civilwararchive.com/Unreghst/unincav.htm. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
