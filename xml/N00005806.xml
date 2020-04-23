@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00005806">
                     <persName>
                       Matthew Warnock
-                        (Greenup County juror)
+                        (Greenup County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1807"  cert="medium" ><ab>c1807</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Served as juror in Greenup County, Kentucky, in Commonwealth of Kentucky v. Arnold Snider.</p>
+        <p>Greenup County, Kentucky, farmer. Kentucky native. Married to Lydia Warnock. Father of Rebecca Warnock, Margarett Warnock, John W. Warnock, Basil Warnock, Charles W. Warnock, America C. Warnock, and Matthew S. Warnock. Farmer in Greenup County, Kentucky in 1860. Employed Elizabeth Clifton as a domestic servant in Greenup County in 1860.      </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0012
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 741.
 </bibl></ab>
     </back>
 </text>
