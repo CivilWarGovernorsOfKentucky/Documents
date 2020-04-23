@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">O. F. Mackoy</title>
+        <title level="a" type="main">Obediah F. McCoy</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name></name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00005808">
                     <persName>
-                      O. F. Mackoy
-                        ()
+                      Obediah F. McCoy
+                        (Greenup County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1807"  cert="medium" ><ab>c1807</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Served as juror in Greenup County, Kentucky, in Commonwealth of Kentucky v. Arnold Snider.</p>
+        <p>Greenup County, Kentucky, farmer. Kentucky native. Married to Judith Ann Knight McCoy in November 1832 in Mason County, Kentucky. Married to Casandra Chinn McCoy. Father of J. A. McCoy, Sarah McCoy, Ella McCoy, C. H. McCoy, James R. McCoy, and John McCoy. Ward of William P, King, Mary King and Thomas King. Farmer in Greenup County in 1850. Employed William Brown as a laborer in Greenup County in 1850. Owned three enslaved persons in Greenup County in 1850. Farmer in Greenup County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0012
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 226A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Greenup County, District 1, p. 248.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 807.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mason County Marriages, Film #000281842, p. 67.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Greenup County Births, p. 1.
 </bibl></ab>
     </back>
 </text>
