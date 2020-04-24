@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Institution for the Blind</title>
+        <title level="a" type="main">Kentucky Institution for the Education of the Blind</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -38,7 +42,8 @@
             </textClass>
             <particDesc>
                 <org xml:id="O00012488">
-                    <orgName>Institution for the Blind</orgName>
+                    <orgName>Kentucky Institution for the Education of the Blind</orgName>
+                        <event type="begun"  when="1839"  ><ab>1839</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
