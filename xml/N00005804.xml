@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Stephen Powell</name>
           </respStmt>
           <respStmt>
@@ -48,9 +52,11 @@
                 <person xml:id="N00005804">
                     <persName>
                       James Briggs 
-                        ()
+                        (Greenup County, KY, laborer)
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
                         <event type="death"  when="1862-07-04"  ><ab>1862-07-04</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,11 +64,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Killed by Arnold Snider in Greenup County, Kentucky on July 4, 1862.</p>
+        <p>Greenup County, Kentucky, laborer. Kentucky native. Laborer in Greenup County, Kentucky in 1850. Killed by Arnold Snider in Greenup County, Kentucky on July 4, 1862.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0012
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 202.<lb/>
+KYR-0001-005-0012.
 </bibl></ab>
     </back>
 </text>
