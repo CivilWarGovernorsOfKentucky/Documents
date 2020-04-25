@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,8 +46,8 @@
                       William Logan Porter
                         (Barren County, Kentucky printer and clerk)
                     </persName>
-                        <event type="birth"  when="1842"  cert="medium" ><ab>c1842</ab></event>
-                        <event type="death"  when="1937"  cert="medium" ><ab>c1937</ab></event>
+                        <event type="birth"  when="1842-07-11"  ><ab>1842-07-11</ab></event>
+                        <event type="death"  when="1937-08-17"  ><ab>1937-08-17</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,5 +55,9 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;William Logan Porter (Jul 11,1842-Aug 17, 1937),&quot; Memorial #76568099, http://www.findagrave.com/memorial/76568099 (accessed April 25, 2020). 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
