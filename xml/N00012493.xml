@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,22 @@
                 <person xml:id="N00012493">
                     <persName>
                       Marion Larrison
-                        ()
+                        (Indiana soldier)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Indiana soldier. Served in 2nd Regiment Indiana Cavalry (41st Volunteers) as private. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Application #371020, Certificate #264733.  
+</bibl></ab>
+    </back>
 </text>
 </TEI>
