@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00012496">
                     <placeName>
                         <location>
+                              <geo>36.3911 -86.1661</geo>
                             <settlement>Hartsville, Tennessee</settlement>
                         </location>
                     </placeName>
@@ -48,5 +53,14 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>County seat of Trousdale County, Tennessee. Founded in 1797 as Donaho&#39;s Mill. Located on the Cumberland River. Established as town by Tennessee Legislature in 1817.</p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;History of Trousdale County,&quot;<hi rend="italic">Trousdale County Tennessee</hi>https://www.trousdalecountytn.gov/visitors/history.php. <lb/>
+<hi rend="italic">USGS: Earth Explorer</hi>, &quot;Hartsville, Tennessee,&quot;  https://earthexplorer.usgs.gov    /(accessed on April 24, 2020). 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
