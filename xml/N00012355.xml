@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>AaronMPhillips</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,7 @@
                       Valentine Metzger
                         (Bracken County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1815"  ><ab>1815</ab></event>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
                         <event type="death"  when="1881-08-13"  ><ab>1881-08-13</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -52,8 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Bracken County, Kentucky, farmer. Native of Germany. Married to Christine Neabel. Father of Rosina Metzger, Angelina Metzger, Emma Metzger, and Valentine Metzger. Farmer in Foster, Kentucky, in 1860. Rented a room in George Kimberly&#39;s Bracken County blacksmith shop and apartment building from October 1, 1861 to January 1, 1862, and again from March 10 to December 12, 1862.</p>
+        <p>Bracken County, Kentucky, farmer. Native of Germany. Married to Christine Neabel Metzger. Father of Rosina Metzger, Angelina Metzger, Emma Metzger, Valentine Metzger, and John Metzger. Farmer in Bracken County, Kentucky, in 1860. Operated as a grocer in space rented from George Kimberly in Bracken County from October 1, 1861, to January 1, 1862, and March 10, 1862, to December 12, 1862.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, District 1, p. 243.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Bracken County, Foster, p. 357A.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Valentine Metzger (August 13, 1881),&quot; Memorial #32607778, http://www.findagrave.com/memorial/32607778 (accessed April 29, 2020).<lb/>
+KYR-0001-004-0321.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
