@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00012511">
                     <persName>
                       Amelia [unknown]
-                        (Barren County, Kentucky, former enslaved person)
+                        (Barren County, Kentucky, enslaved person)
                     </persName>
+                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
                         <trait type="race" subtype="Black"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -50,8 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Barren County, Kentucky, former enslaved person. Noted to have been formerly owned by James Bryan in Barren County, Kentucky in 1863.</p>
+        <p>Barren County, Kentucky, enslaved person. Owned by James Bryan in Barren County, Kentucky, in 1863.</p>
 
     </body>
+    <back>
+        <ab><bibl>KYR-0001-004-0338.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
