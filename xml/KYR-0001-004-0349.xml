@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0349"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,28 +67,28 @@
  </teiHeader>
  <text>
   <body>
-   <p>Henderson Ky. <date when="1863-12-18">Dec<hi rend="sup">r</hi> 18<hi rend="sup">th</hi> 1863</date>.
+   <p><placeName ref="cwgk:P001815">Henderson</placeName> <placeName ref="cwgk:P001800">Ky</placeName>. <date when="1863-12-18">Dec<hi rend="sup">r</hi> 18<hi rend="sup">th</hi> 1863</date>.
 <lb/>To
-<lb/>His Excellency Gov<hi rend="sup">r</hi> Bramlette
-<lb/>Frankfort Ky.
+<lb/>His Excellency <persName ref="cwgk:N001000">Gov<hi rend="sup">r</hi> Bramlette</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky.
 <lb/>Sir</p>
-<p>The undersigned would respectfully state, that under an indictment (for "standing a studHorse without license") in the Henderson Circuit court, he was upon yesterday, by a Jury of the county, fined the sum of Forty Dollars, The facts are briefly these -- The undersigned went to S<hi rend="sup">t</hi> Louis on business, and was detained there for some time by sickness &amp; did not return to Henderson for about eighteen days after his agent commenced to stand the Horse "Highlander". As soon as the undersigned returned. to wit on the <date when="1863-06-18">18<hi rend="sup">th</hi> June.</date> he procurred license -- The offense was committed on or about the <date when="1863-06-01">1<hi rend="sup">st</hi> June last</date>, He states that he had no intention to evade or violate the law, and pray that the executive clemency be interposed on his behalf</p>
+<p/>
 <p>Very Respectfully.
 <lb/>John <unclear>Taell</unclear></p>
 <p>The undersigned, members of the jury who found the verdict in the case of Com<hi rend="sup">th</hi> of Ky vs Taell would respectfully join in the prayer of the above petition</p>
 <p><hi rend="str"><unclear/></hi> <unclear>Morris</unclear> Griffin
-<lb/>A J Goode
-<lb/>A. J. Hecks
-<lb/>W H Sandefer
-<lb/>William duncan
-<lb/>C, T, Sandefer
-<lb/>F Weller
-<lb/>Wm Wells
-<lb/>W, G, Hopgood
-<lb/>Tilman Gibson</p>
+<lb/><persName ref="cwgk:N00012417">A J Goode</persName>
+<lb/><persName ref="cwgk:N00012418">A. J. Hecks</persName>
+<lb/><persName ref="cwgk:N00012419">W H Sandefer</persName>
+<lb/><persName ref="cwgk:N00012420">William duncan</persName>
+<lb/><persName ref="cwgk:N00012435">C, T, Sandefer</persName>
+<lb/><persName ref="cwgk:N00012436">F Weller</persName>
+<lb/><persName ref="cwgk:N00012437">Wm Wells</persName>
+<lb/><persName ref="cwgk:N00012427">W, G, Hopgood</persName>
+<lb/><persName ref="cwgk:N00012422">Tilman Gibson</persName></p>
 <p>(over)<pb/></p>
 <p>From all I have learned of the case refered to in the within petition I believe it entitled to the favorable consideration of the Executive</p>
-<p>W. P Fowler
+<p><persName ref="cwgk:N00006111">W. P Fowler</persName>
 <lb/>Judge<pb/></p>
 <p>Remit except fees &amp; costs
 <lb/>Tho E Bramlette</p>
