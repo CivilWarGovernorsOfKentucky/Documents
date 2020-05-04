@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J A Trumbo</title>
+        <title level="a" type="main">John A. Trumbo</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00012440">
                     <persName>
-                      J A Trumbo
+                      John A. Trumbo
                         (Bath County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1804"  cert="medium" ><ab>c1804</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +55,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Bath County, Kentucky, resident. Signed a petition on behalf of Phillip Williams in Bath County, Kentucky on December 3, 1860</p>
+        <p>Bath County, Kentucky, farmer. Kentucky native. Married Elizabeth Allen Trumbo in Woodford County, Kentucky on October 30, 1839. Father of Frances A. Trumbo, Susan S. Trumbo, Mary H. Trumbo, and John Trumbo. Farmer in Bath County, Kentucky in 1850. Owned four enslaved persons in Bath County in 1850. Farmer in Bath County in 1860. Owned two enslaved persons in Bath County in 1860. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath County, District 1, p. 116A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Bath County, District 1, p. 293.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bath County, p. 211.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Bath County, p. 82A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Bath County Marriages, Film #000252320, p. 22.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
