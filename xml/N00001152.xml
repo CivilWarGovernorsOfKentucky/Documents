@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John W Ritter</title>
+        <title level="a" type="main">John W. Ritter</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Courtney Buchkoski</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name></name>
@@ -43,10 +47,11 @@
         <particDesc>
                 <person xml:id="N00001152">
                     <persName>
-                      John W Ritter
-                        (Glasgow attorney)
+                      John W. Ritter
+                        (Barren Co, Ky, attorney)
                     </persName>
                         <event type="birth"  when="1805"  cert="medium" ><ab>c1805</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Glasgow, Kentucky, attorney. Kentucky native. Married to Amanda Ritter. Father of Josephine Ritter, John Ritter, Julia Ritter, and Bell Ritter.</p>
+        <p>Glasgow, Kentucky, attorney. Kentucky native. Married to Amanda M. McAchran Ritter in Shelby County, Kentucky, on May 16, 1839. Father of Sarah T. Ritter, Jane Ritter, Josephine Ritter, John Ritter, Julia Ritter, and Horace &quot;Bill&quot; Ritter. Attorney in Barren County in 1847. Attorney in Barrent County in 1850. Attorney in Barren County in 1860. Owned nine enslaved persons in Barren County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Barren, District 1, p. 77.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Barren County, Division 2, p. 492B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Barren, District 1, p. 821.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Barren, District 1.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Shelby County Marriages, Film #000259274, p. 746.<lb/>
+<hi rend="italic">The Kentucky State Register for the year 1847</hi> (Louisville, Kentucky: Morton &amp; Griswold, 1847), 46.
 </bibl></ab>
     </back>
 </text>
