@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. H. Sandefer</title>
+        <title level="a" type="main">William H. Sandafer</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00012419">
                     <persName>
-                      W. H. Sandefer
-                        (Henderson County, Kentucky, resident)
+                      William H. Sandafer
+                        (Henderson County, Kentucky, carpenter)
                     </persName>
+                        <event type="birth"  when="1813"  cert="medium" ><ab>c1813</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +55,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Henderson County, Kentucky, resident. Signed a petition on behalf of John Tuell in Henderson County, Kentucky dated December 18, 1863.</p>
+        <p>Henderson County, Kentucky, carpenter. Kentucky native. Married to Permilia Sandafer. Father of Algernon Sandafer, C. H. Sandafer, Eliza Sandafer, John T. Sandafer, Archibald D. Sandafer, L. Sandafer, M. C. Sandafer, Lewis W. Sandafer, William F. Sandafer, William Sandafer, Martha C. Sandafer, and D. C. Sandafer. Married to Sarah Sandafer. Carpenter in Henderson County, Kentucky in 1850. Owned one enslaved person in Henderson County in 1850. Carpenter in Henderson County in 1860. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henderson County, District 1, p. 276A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Henderson County, District 1, p. 479.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henderson County, Division 1, p. 14.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994038, Henderson County Deaths, p. 469.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
