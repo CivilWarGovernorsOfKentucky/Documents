@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. C. Price</title>
+        <title level="a" type="main">William C. Price</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00010299">
                     <persName>
-                      W. C. Price
-                        (Nelson County)
+                      William C. Price
+                        (Nelson County, Kentucky,)
                     </persName>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
+                        <event type="death"  when="1906"  cert="medium" ><ab>c1906</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition to Beriah Magoffin in Nelson County in 1861. </p>
+        <p>Nelson County, Kentucky, farmer. Kentucky native. Son of Elizabeth O’Neal Price and Joseph Price. Married to Missouri Holtshouser Price on November 27, 1849. Father of Mary Price, Joseph Price, George Price, Charles Price, Thomas Price. Resident of Nelson County in 1850. Farmer in Nelson County in 1860. Owned four enslaved persons in Nelson County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1455. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Nelson County, District 2, p. 357A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nelson County, District 1, p. 161.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Nelson County, District 1, p. 105B..<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Nelson County Marriages, 1844-1884, Film #000481508, p. 341.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Nelson County Marriages, 1783-1905, Film #000009669, p. 6.
 </bibl></ab>
     </back>
 </text>
