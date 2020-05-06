@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,10 @@
                 <person xml:id="N00012575">
                     <persName>
                       George A. Blenner
-                        ()
+                        (Louisville, Jefferson County, resident)
                     </persName>
                         <event type="birth"  when="1845"  cert="medium" ><ab>c1845</ab></event>
+                        <event type="death"  when="1901-06-22"  ><ab>1901-06-22</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +55,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 6, p. 233.
+
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Jefferson County, Louisville, p. 286A.
+
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, KDLA, Roll #7007129, Jefferson County Deaths, p. 105.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
