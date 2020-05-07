@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0079"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency the Governor of Kentucky.</p>
-<p>Your petitioner Greenberry Tingle Jr states that he was indicted in the Henry Circuit Court for stabbing and wounding Turner, a slave of James Boyer, in sudden heat and passion, without malice and not in self defense. And at the September Term <date when="1863">1863</date> with the permission of the attorney for the Com'th, he plead guilty and the jury assessed his fine at &#36;50 -- Peititioner was induced to take this course because he was aware that he had committed a technical violation of law, though, he acted under the circumstances, just as the majority of men would have done.</p>
+   <p>To his Excellency the Governor of <orgName><orgName ref="cwgk:O001025">Kentucky</orgName></orgName>.</p>
+<p>Your petitioner <persName ref="cwgk:N00006614">Greenberry Tingle Jr</persName> states that he was indicted in the <orgName ref="cwgk:O00000400">Henry Circuit Court</orgName> for stabbing and wounding <persName ref="cwgk:N00006612">Turner</persName>, a slave of <persName ref="cwgk:N00006613">James Boyer</persName>, in sudden heat and passion, without malice and not in self defense. And at the September Term <date when="1863">1863</date> with the permission of the attorney for the Com'th, he plead guilty and the jury assessed his fine at $50 -- Peititioner was induced to take this course because he was aware that he had committed a technical violation of law, though, he acted under the circumstances, just as the majority of men would have done.</p>
 <p>The facts in his case were these -- This slave stole petitioner's horse and <hi rend="str">an</hi> Endeavorrd to make way with it- Petitioner after missing his horse found it &amp; became thoroughly satisfied that the negro had stolen it &amp; his bridle. Petitioner &amp; his father tried to get the owner of the negro to correct him for his conduct but he failed to do So, and petitioner seeing the negro one day accosted him &amp; demanded the bridle which<pb/>
 <lb/>he had stolen- Some words occurred between them the negro used imprudent langugae <hi rend="str">between</hi> towards petitioner ^was generally known to be a very bad negro^ and threatened peition with his master when petitioner, in the excitement of the moment, cut him with his knife- the wound was not serious has not damaged the negro, and deft regrets that he ever used the <hi rend="str">negro</hi> knife on the negro -- </p>
 <p>Petitioner is a poor young man <hi rend="str">of</hi> 19 years of age, and can sustain &amp; prove a good character as a peaceable quiet boy who never had a difficulty before <hi rend="str">l</hi> in his life, &amp; never interferes with other people's business</p>
@@ -75,16 +83,16 @@
 <p>Jno. C. Monfort P J H c c</p>
 <p>The undesigned knows G. Tingle Jr &amp; the slave Turner wounded by him- Tingle is a quiet, peaceable, inoffensive young man, of excellent habits and <hi rend="str">of</hi> industrious and law abiding generally. And the <unclear><hi rend="str">ne</hi></unclear> negro<pb/>
 <lb/>is a bad dangerous slave who in one or two instances recently has acted in an outrageous manner. We ask that Tingle's fine be remitted.</p>
-<p>H C Gardner
-<lb/>Augustus Elston</p>
-<p>The undersigned testify to the general good character &amp; peaceable desposition of G. Tingle Jr- We are citizens of Henry County, and ask respectfully that his fine be remitted.</p>
+<p><persName ref="cwgk:N00006615">H C Gardner
+</persName><lb/><persName ref="cwgk:N00006616">Augustus Elston</persName></p>
+<p>The undersigned testify to the general good character &amp; peaceable desposition of G. Tingle Jr- We are citizens of <placeName ref="cwgk:P00000758">Henry County</placeName>, and ask respectfully that his fine be remitted.</p>
 <p>Samuel Jones
 <lb/>Berry Ellis
 <lb/>John Mahoney
 <lb/>David Fitzgerald
 <lb/>James Pearce Sr</p>
 <p>We unite in the prayer of the petitioner</p>
-<p>Tho. Rodman</p>
+<p><persName ref="cwgk:N00004733">Tho. Rodman</persName></p>
 <p>The recommendation of Saml Jones, whom I well know, induces me to sign petition</p>
 <p><hi rend="underline">Jno, C. Monfort</hi> P J H c c<pb/></p>
 <p>Henry Cir Ct
@@ -93,7 +101,7 @@
 <lb/>Remit all except costs and attys fees
 <lb/>Tho Bramlette</p>
 <p>G. Tingle Jr
-<lb/>&#36;50 -- </p>
+<lb/>$50 -- </p>
   </body>
  </text>
 </TEI>
