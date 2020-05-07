@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,25 @@
                 <person xml:id="N00012591">
                     <persName>
                       Michael Danson
-                        ()
+                        (Jefferson County, resident)
                     </persName>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Jefferson County, Kentucky, resident. Native of Ireland. Married to Catherine Danson. Father of Michael Danson, Hannah Danson, and Amelia Danson. Mason in Oswego County, New York, in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, New York, Oswego County, Oswego, Ward 4, p. 767.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 8, p. 72A.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
