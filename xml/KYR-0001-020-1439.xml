@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1439"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Covington Ky
-<lb/><date when="1861-09-07">Sep 7 1861</date>
-<lb/>Dear Gov. </p>
-<p>Enclosed I send you a petition asking the remission of a fine against J. G. Everett-- I had expected to present it in person but find that I will not be able to come to Frankfort until about the <date when="1861-09-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> of the month</date>-- The replevin bond is about due and it is of great importance to Everett to keep any execution from issuing against him at this time.</p>
+   <p><placeName ref="cwgk:P00000936">Covington <placeName ref="cwgk:P001800">Ky</placeName>
+</placeName><lb/><date when="1861-09-07">Sep 7 1861</date>
+<lb/>Dear <persName ref="cwgk:N00000258">Gov</persName>. </p>
+<p>Enclosed I send you a petition asking the remission of a fine against J. G. Everett-- I had expected to present it in person but find that I will not be able to come to <placeName ref="cwgk:P00000308">Frankfort </placeName>until about the <date when="1861-09-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> of the month</date>-- The replevin bond is about due and it is of great importance to Everett to keep any execution from issuing against him at this time.</p>
 <p>If you can do so, it would be a great relief to him to respite it until <date when="1862-01-01">Jan. 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1862</date>; and when I come up I will state his case fully-- As all executions are stayed until <date when="1862-03">March next</date>, I hope that you will be able to prevent any from issuing against him until the time named, and thus save cost &amp;c--</p>
 <p>Please have the respite, if one is granted, sent to me immediately--<pb/>
 <lb/>Your message has been quite favorably received here by all classes, so far as my observation extends--</p>
 <p>Truly Yours &amp;c
-<lb/>J G Carlisle</p>
+<lb/><persName ref="cwgk:N00002785">J G Carlisle</persName></p>
 <p>Hon B. Magoffin
-<lb/>Gov of Ky, Frankfort</p>
+<lb/>Gov of <orgName ref="cwgk:O001025">Ky</orgName>, Frankfort</p>
   </body>
  </text>
 </TEI>
