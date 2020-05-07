@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Nixon, Chatfield &amp; Woods,Manufacturers and Wholesale Paper Dealers</title>
+        <title level="a" type="main">Nixon, Chatfield &amp; Woods</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -38,12 +42,20 @@
             </textClass>
             <particDesc>
                 <org xml:id="O00012586">
-                    <orgName>Nixon, Chatfield &amp; Woods,Manufacturers and Wholesale Paper Dealers</orgName>
+                    <orgName>Nixon, Chatfield &amp; Woods</orgName>
                         <event type="ended"  when="1865-06-07"  ><ab>1865-06-07</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Cincinnati, Clark County, Ohio paper manufacturers. Members of the partnership were Thomas Nixon. Dissolved the partnership of the business by newspaper notice in Cincinnati, Ohio on June 7, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">The Cincinnati Enquirer</hi>(Cincinnati, OH), June 7, 1865, p. 2.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
