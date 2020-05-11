@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00009245">
                     <persName>
                       William Thomas
-                        (Anderson County)
+                        (Anderson County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Appeared as a juror on petition on behalf of James R. York in Anderson County, Kentucky on October 29, 1861.</p>
+        <p>Anderson County, Kentucky, farmer. Married to Elizabeth Herndon Thomas in Anderson County on December 24, 1835. Father of Presley Thomas, John Thomas, Chapman Thomas, Edmund Thomas, and Thompson Thomas. Farmer in Anderson County in 1850.Owned two enslaved persons in Anderson County in 1850. Farmer in Anderson County in 1860. Owned one enslaved person in Anderson County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1469
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Anderson County, p. 220A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Anderson County, p. 101.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, District , p. 436.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Anderson County, p. 28B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Anderson County Marriages 1831-1869, Film #001550673, p. 72.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;William Thomas (1814-unknown),&quot; Memorial 42697722, https://www.findagrave.com/memorial/42697722  (accessed May 8, 2020).
 </bibl></ab>
     </back>
 </text>
