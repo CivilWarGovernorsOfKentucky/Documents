@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Harison Webster</title>
+        <title level="a" type="main">Nathaniel Harison Webster</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00012634">
                     <persName>
-                      Harison Webster
+                      Nathaniel Harison Webster
                         (Grant County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1839"  cert="medium" ><ab>c1839</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Grant County, Kentucky, farmer. Kentucky native. Registered for the U.S. Civil War draft in Grant County, Kentucky in July 1863. Farmer in Grant County, Kentucky in 1863.</p>
+        <p>Grant County, Kentucky, farmer. Kentucky native. Son of Lindsay L. Webster and Mariah Webster. Registered for the U.S. Civil War draft in Grant County, Kentucky in July 1863. Farmer in Grant County, Kentucky in 1860. Farmer in Grant County, Kentucky in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s <lb/>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grant County, p. 897. <lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s <lb/>
 Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Grant County, KY, July 1863, p. 470, (Accessed via ancestry.com). 
 </bibl></ab>
     </back>
