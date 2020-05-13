@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,16 @@
                       Martin Corcoran
                         ()
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl>Henry Tanner, ed., <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 62, 96.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
