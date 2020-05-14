@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Louis B Bates</title>
+        <title level="a" type="main">Louis B. Bates</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Christina Adkins</name>
@@ -43,10 +47,12 @@
         <particDesc>
                 <person xml:id="N00009115">
                     <persName>
-                      Louis B Bates
+                      Louis B. Bates
                         (Jefferson County, Kentucky, physician)
                     </persName>
-                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
+                        <event type="death"  when="1882"  cert="medium" ><ab>c1882</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,13 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, physician. Kentucky native. Married to Sarah Bates. Physician in Louisville in 1861.  </p>
+        <p>Louisville, Kentucky, physician. Kentucky native. Son of H. G. Bates. Married to Sarah “Sally” Claxon  Bates in Owen County on October 20, 1836. Father of John Bates, H. Gurella Bates, Nancy Bates, and Mahaly E. Bates. Physician in Louisville in 1860.  Physician in Louisville in 1861.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 6, p. 600A.
-
-Henry Tanner, ed., <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville, Ky.: Directory Publication and Advertising Agency, 1861), 28.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 500.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 6, p. 600A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Owen County Marriages, Film #000272769, p. 226.<lb/>
+Henry Tanner, ed., <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville, Ky.: Directory Publication and Advertising Agency, 1861), 28.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Dr. Louis B. Bates (1817-1882),&quot; Memorial 53261595, https://www.findagrave.com/memorial/53261595  (accessed May 14, 2020).
 </bibl></ab>
     </back>
 </text>
