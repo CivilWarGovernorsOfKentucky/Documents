@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00012644">
                     <persName>
                       [unknown] Kearney
-                        (Louisville, Jefferson County)
+                        (Unknown (Louisville, Jefferson County))
                     </persName>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -49,5 +53,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Married to Bridget Kearney. Mentioned in a petition written by Bridget Kearney in Louisville. </p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0001-029-0164
+</bibl></ab>
+    </back>
 </text>
 </TEI>
