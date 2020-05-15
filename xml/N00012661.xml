@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00012661">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Richard Lee &quot;Leawit&quot; Cooper</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00012661">
+                    <persName>
+                      Richard Lee &quot;Leawit&quot; Cooper
+                        (Magoffin County, Kentucky, farmer)
+                    </persName>
+                        <event type="birth"  when="1825-05-06"  ><ab>1825-05-06</ab></event>
+                        <event type="death"  when="1911-03-16"  ><ab>1911-03-16</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Magoffin County, Kentucky, farmer. Kentucky native. Married to Catherine Salyer in Johnson County, Kentucky, on September 16, 1849. Father of Jefferson Cooper, Elizabeth Cooper, John F. Cooper, Thomas Cooper, Mary A. Cooper, William H. Cooper, and Newton Cooper. Farmer in Morgan County, Kentucky, in 1850. Farmer in Magoffin County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Morgan County, p. 163B.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Magoffin County, Licking Station, p. 77.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Magoffin County, Precinct 2, pp. 357A-357B.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, X County Marriages, Film #001912950, p. 119.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Richard Leander &quot;Lee&quot; Cooper (1825-1911),&quot; Memorial #54717194, http://www.findagrave.com/memorial/54717194 (accessed May 15, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
