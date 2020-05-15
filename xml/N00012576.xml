@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,8 @@
                 <person xml:id="N00012576">
                     <persName>
                       William McGuire
-                        (Louisville, Jefferson County, tailor)
+                        (Unknown (Jefferson County, composite bio))
                     </persName>
-                        <event type="birth"  when="1810"  cert="medium" ><ab>c1810</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +53,17 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Jefferson County, Kentucky, resident. Signed a petition on behalf of Bridget Kearney in Louisville.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 7, p. 395.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 12, p. 572B.
+
+Henry Tanner, ed., <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 162.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
