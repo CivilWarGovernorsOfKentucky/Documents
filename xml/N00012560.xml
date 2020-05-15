@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>AaronMPhillips</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,9 @@
                 <person xml:id="N00012560">
                     <persName>
                       Houston Jackman
-                        (Garrard County, Kentucky, doctor)
+                        (Garrard County, Kentucky, physician)
                     </persName>
-                        <event type="birth"  when="1817"  ><ab>1817</ab></event>
+                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,16 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Garrard County, Kentucky, doctor. Kentucky native. Married to Louisa West Jackman. Father of William Jackman, Mary Ann Jackman, Mattie Ann Jackman, Charley Jackman, and Marion Jackman. Physician in Garrard County in 1850. Residing in the household of Benjamin F. Duncan in 1850. Duncan owned seven enslaved persons in 1850. Doctor in Lancaster, Kentucky, in 1860.</p>
+        <p>Garrard County, Kentucky, physician. Kentucky native. Married to Louisa West Jackman. Father of William H. Jackman, Mary Ann Jackman, Mattie Ann Jackman, Charley Jackman, and Marion Jackman. Physician in Garrard County, Kentucky, in 1850. Physician in Lancaster in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Garrard County, Division 1, p. 263A.
-
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Garrard County, Lancaster, p. 2.
-
-<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Hayville, p. 5.
-
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Garrard County, Division 1, p. 263A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Garrard County, Lancaster, p. 2.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Hayville, p. 31A.<lb/>
 <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Garrard County, Division 1, p. 79.
 </bibl></ab>
     </back>
