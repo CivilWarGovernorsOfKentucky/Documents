@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Benjamin C. Frapnall </title>
+        <title level="a" type="main">Benjamin C. Trapnall </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00006576">
                     <persName>
-                      Benjamin C. Frapnall 
+                      Benjamin C. Trapnall 
                         (Resident of Mercer County, Kentucky,)
                     </persName>
+                        <event type="birth"  when="1818"  cert="medium" ><ab>c1818</ab></event>
+                        <event type="death"  when="1874-03-02"  ><ab>1874-03-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Resident of Mercer County, Kentucky, in 1863.</p>
+        <p>Harrodsburg, Mercer County, Kentucky, attorney. Kentucky native. Attorney in Mercer County, Kentucky in 1850. Owned one enslaved person in Harrodsburg in 1850. Attorney in Mercer County, Kentucky in 1860. Owned seven enslaved persons in Harrodsburg in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0552.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, District 2, p. 346B. <lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Mercer County, Harrodsburg District 2, p. 913<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 694.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mercer County, Harrodsburg, p. 47A. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Ben. C. Trapnall (1818-1874),&quot; Memorial #137664929, http://www.findagrave.com/memorial/137664929 (accessed May 20, 2020).
 </bibl></ab>
     </back>
 </text>
