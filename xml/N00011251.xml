@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">N. E. Arowood</title>
+        <title level="a" type="main">Nathan E. Arrowood</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,23 @@
         <particDesc>
                 <person xml:id="N00011251">
                     <persName>
-                      N. E. Arowood
-                        ()
+                      Nathan E. Arrowood
+                        (Kentucky soldier, 14th cav, USA)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Kentucky soldier. Served in the 14th Kentucky Volunteer Cavalry (U.S.A.) as a private from February 14, 1863 to March 24, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Report of the Adjutant General of the State of Kentucky_, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 388.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
