@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,25 @@
                 <person xml:id="N00011247">
                     <persName>
                       Albert Stamper
-                        ()
+                        (Kentucky soldier, 14th cav, USA)
                     </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="death"  when="1864-04-15"  ><ab>1864-04-15</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Kentucky soldier. Breathitt County, Kentucky native. Served in the 14th Kentucky Volunteer Cavalry (U.S.A.) as a private from March 13, 1863 to April 15, 1864. Died in service at Irvine, Kentucky on April 15, 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 389.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0132.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
