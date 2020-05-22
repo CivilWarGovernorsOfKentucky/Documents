@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">James Ross</title>
+        <title level="a" type="main">James Jackson Ross</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Lucas R. Somers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Lucas R. Somers</name>
@@ -43,10 +47,12 @@
         <particDesc>
                 <person xml:id="N00009876">
                     <persName>
-                      James Ross
+                      James Jackson Ross
                         (Mason County, Kentucky, printer)
                     </persName>
-                        <event type="birth"  when="1829"  cert="medium" ><ab>c1829</ab></event>
+                        <event type="birth"  when="1828-01-31"  ><ab>1828-01-31</ab></event>
+                        <event type="death"  when="1880-03-29"  ><ab>1880-03-29</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +60,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mason County, Kentucky, printer. Kentucky native. Printer in Mason County in 1860.</p>
+        <p>Mason County, Kentucky, printer. Kentucky native. Employed by publisher Thomas B. Stevenson as a printer with J. Carter Williams, Franklin Bayher, and Thomas A. Ross, in Mason County in 1850. Printer in Mason County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, East Maysville, District 2, p. 169.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, Maysville, p.31A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, East Maysville, District 2, p. 169.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Maysville Ward 4, p. 437A.<lb/>
+Edmund Janes Cleveland and Horace Gillette Cleveland, <hi rend="italic">The Genealogy of the Cleveland And Cleaveland Families: An Attempt to Trace, In Both the Male And Female Lines, the Posterity of Moses Cleveland ...</hi> (Hartford, CT: Printed for the subscribers by the Case, Lockwood &amp; Brainard Company, 1899), 1573.
 </bibl></ab>
     </back>
 </text>
