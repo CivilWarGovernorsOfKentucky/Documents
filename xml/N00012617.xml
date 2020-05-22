@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00012617">
                     <persName>
                       [Unknown][Unknown]
-                        (Louisville, Jefferson County, Kentucky, former resident)
+                        (Louisville, Jefferson County, Kentucky, resident)
                     </persName>
+                        <event type="death"  when="1863"  ><ab>1863</ab></event>
+                        <trait type="race" subtype="Black"/>
                       <trait type="gender" subtype="U"/>
                 </person> 
         </particDesc>    
@@ -53,8 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Jefferson County, Kentucky, former resident. Subjected to alleged graverobbing from the Potter&#39;s Field cemetery in Louisville, Jefferson County, Kentucky in December 1863, as recounted in the undated petition of Peter Viemer to Thomas Bramlette from Louisville.</p>
+        <p>Body subjected to grave robbing from the potter&#39;s field cemetery in Louisville, Kentucky, in December 1863.</p>
 
     </body>
+    <back>
+        <ab><bibl>KYR-0001-004-0379.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
