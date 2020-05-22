@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,20 @@
                       Preston Turner
                         ()
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Kentucky soldier. Served in the 14th Kentucky Volunteer Cavalry (U.S.A.) as a private from June 15, 1863 to March 6, 1864. Died in service at Camp Nelson, Kentucky on March 6, 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 389.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
