@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       William Knostman
                         (Catlettsburg, Boyd County, Kentucky, clerk)
                     </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Catlettsburg, Boyd County, Kentucky, clerk. Native of Germany. Married to Caroline Knostman. Clerk in Catlettsburg, Boyd County, Kentucky in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boyd County, Catlettsburg, p. 798. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
