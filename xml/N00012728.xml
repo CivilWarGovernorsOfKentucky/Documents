@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       Peter P. Baker
                         ()
                     </persName>
+                        <event type="birth"  when="1824-04-30"  ><ab>1824-04-30</ab></event>
+                        <event type="death"  when="1909-11-04"  ><ab>1909-11-04</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,19 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Caldwell County, Kentucky, farmer. Kentucky native. Married to Nancy E. Mansfield Baker in Caldwell County, Kentucky on March 23, 1846. Father of Mildred A. Baker, John J. Crittenden Baker, Robert B. Baker, and Orlander Baker. Married to Louisa Baker. Father of Edward Baker and Martha L. Baker. Farmer in Caldwell County in 1850. Owned one enslaved person in Caldwell Count in 1850. Farmer in Caldwell County in 1860. Employed Charles Newsome as a farm hand in Caldwell County in 1860. Owned enslaved persons in Caldwell County in 1860.   </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 2, p. 360A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Caldwell County, District 2, p. 783.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Fredonia, p. 162.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Caldwell County, Fredonia, p. 211A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Caldwell County, Fredonia, p. 430A-430B. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Caldwell County Marriages, Film #000851644, p. 307.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Peter Payne Baker (1824-1909),&quot; Memorial #157725583, http://www.findagrave.com/memorial/157725583 (accessed May 26, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
