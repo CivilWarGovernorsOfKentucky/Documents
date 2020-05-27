@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00012730">
                     <persName>
                       William H. Carter
-                        ()
+                        (Caldwell County, KY, laborer)
                     </persName>
+                        <event type="birth"  when="1833-11-03"  ><ab>1833-11-03</ab></event>
+                        <event type="death"  when="1920-05-06"  ><ab>1920-05-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,17 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Caldwell County, Kentucky, laborer and soldier. Kentucky native. Laborer in Caldwell County, Kentucky in 1850. Resident of Caldwell County in 1861. Served in the 3rd Kentucky Mounted Infantry Regiment (C.S.A.) as a third lieutenant and second lieutenant from July 10, 1861 to June 16, 1865. Captured at Hopkinsville, Kentucky on October 1, 1864. Prisoner of war at Louisville, Kentucky in November 1864. Prisoner of war at Johnson&#39;s Island, Ohio from November 15, 1864 to June 16, 1865. Released on oath on June 16, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 314B. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;W. H. Carter (1833-1920),&quot; Memorial #28247553, http://www.findagrave.com/memorial/28247553 (accessed May 27, 2020).<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65</hi>, vol. 1 (Frankfort: Legislature of Kentucky, 1915), 98.<lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0022.<lb/>
+KYR-0001-020-0007.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
