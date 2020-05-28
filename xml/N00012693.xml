@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>AaronMPhillips</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +46,7 @@
                       William Gardner
                         (Carroll County, Kentucky, hotel keeper)
                     </persName>
-                        <event type="birth"  when="1815"  ><ab>1815</ab></event>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,15 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Carroll County, Kentucky, hotel keeper. Virginia native. Married to Eliza Jane Gardner. Father of Wesley W. Gardner, John S. Gardner, Charles Gardner, Alice Gardner, Lilly Gardner, and Ella Gardner. Hotel keeper in Carrollton, Kentucky, in 1860. Owned three enslaved persons in 1860.</p>
+        <p>Carroll County, Kentucky, hotel keeper. Virginia native. Married to Eliza Jane Gardner. Father of Wesley W. Gardner, John S. Gardner, Charles N. Gardner, Alice Gardner, Lillian Gardner, and Ella Gardner. Hotel keeper in Carrollton, Kentucky, in 1860. Owned three enslaved persons in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carroll County, Carrollton, p. 1.
-
-<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Carroll County, Carrollton, p. 13.
-
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Carroll County, District 2, p. 1.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carroll County, Carrollton, p. 1.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Carroll County, Carrollton, p. 13A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Carroll County, District 2, p. 244A.
 </bibl></ab>
     </back>
 </text>
