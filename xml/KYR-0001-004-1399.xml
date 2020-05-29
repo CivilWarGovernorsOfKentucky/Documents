@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1399"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,13 +72,13 @@
  <text>
   <body>
    <p>To His Excellency
-    <lb/><persName ref="cwgk:N001000">Thomas E Bramlette</persName>
-<lb/>Governor of Ky.
+    <lb/><persName ref="cwgk:N001000"><persName ref="cwgk:N001000">Thomas E Bramlette</persName>
+</persName><lb/>Governor of Ky.
     <lb/><placeName ref="cwgk:P00004717">New Port Ky</placeName>
 <lb/><date when="1864-12-13">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 13. 1864</date>
 <lb/>Dear Sir</p>
-   <p>I have the honor of enclosing to you a petition<unclear><hi rend="str">er</hi></unclear> from <persName ref="cwgk:N00006452">Frederick Ampher</persName> praying a remission of fines assessed against him at the <date when="1864-05">May Term 1864</date> of the <orgName ref="cwgk:O00000361">Campbell Circuit Court</orgName> for selling liquor to minors</p>
-   <p>Altho. I am well aware of the good policy of the law alleged to be violated yet am satisfied that Ampher is innocent of these charges and if he had have had a fair trial would have proved himself so; This opportunity was denied him under the peculiar circumstances stated in the petition -- The jury and the attorney for the <orgName ref="cwgk:O001025">Comth</orgName> you will percieve have<pb/>
+   <p>I have the honor of enclosing to you a petition<unclear><hi rend="str">er</hi></unclear> from <persName ref="cwgk:N00006452">Frederick Ampher</persName> praying a remission of fines assessed against him at the <date when="1864-05">May Term 1864</date> of the <orgName ref="cwgk:O00000361"><orgName ref="cwgk:O00000361">Campbell Circuit Cour</orgName></orgName><orgName ref="cwgk:O00000361">t</orgName> for selling liquor to minors</p>
+   <p>Altho. I am well aware of the good policy of the law alleged to be violated yet am satisfied that Ampher is innocent of these charges and if he had have had a fair trial would have proved himself so; This opportunity was denied him under the peculiar circumstances stated in the petition -- The jury and the <persName ref="cwgk:N00005226">attorney for the <orgName ref="cwgk:O001025">Comth</orgName></persName> you will percieve have<pb/>
 <lb/>joined in the petition -- Hopeing that you will give the case <unclear/> your immediate &amp; favorable consideration I have Sir the honor to be</p>
    <p>Your Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi> <persName ref="cwgk:N00004720"><hi rend="underline">E. W. Hawkins</hi></persName></p>
   </body>
