@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">M. F. Jones</title>
+        <title level="a" type="main">Myrix J. Jones</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
@@ -43,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00012649">
                     <persName>
-                      M. F. Jones
+                      Myrix J. Jones
                         (Grant County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1839"  cert="medium" ><ab>c1839</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,8 +55,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Grant County, Kentucky resident.  Signed in support of a petition written by Thomas Iliff to Thomas E. Bramlette from Grant County, Kentucky on December 9, 1863.</p>
+        <p>Kentucky native. Son of Jonas Jones and Eveline Jones. Married to Mary Foree Jones in Grant County, Kentucky, on February 7, 1863. Father of Sophia Jones. Resident in Gallatin County in 1850. Carpenter in Gallatin County in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Gallatin County, p. 188A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Gallatin County, p. 626.<lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Gallatin County, Napoleon, p. 424B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Grant County Marriages, Film #001490815, p. 172.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
