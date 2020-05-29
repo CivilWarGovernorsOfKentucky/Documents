@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,19 @@
                 <person xml:id="N00012740">
                     <persName>
                       Mark Wallace
-                        ()
+                        (Kentucky soldier)
                     </persName>
+                        <event type="birth"  when="1842"  cert="medium" ><ab>c1842</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 435. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
