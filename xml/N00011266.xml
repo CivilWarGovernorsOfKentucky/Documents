@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Vand McIntosh</title>
+        <title level="a" type="main">Vandamon McIntosh</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,24 @@
         <particDesc>
                 <person xml:id="N00011266">
                     <persName>
-                      Vand McIntosh
-                        ()
+                      Vandamon McIntosh
+                        (Kentucky soldier, 14th KY cav, USA)
                     </persName>
+                        <event type="death"  when="1863-05-11"  ><ab>1863-05-11</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Kentucky soldier. Enrolled in the 14th Kentucky Volunteer Cavalry (U.S.A.) as a private on August 12, 1862. Died in service before official muster in Irvine, Kentucky on May 11, 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 389.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
