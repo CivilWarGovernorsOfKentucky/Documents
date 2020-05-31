@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00012748">
                     <persName>
                       Theron E. Hall
-                        (Worcester, Massachusetts, manufacturer and soldier)
+                        (Worcester County, Massachusetts, manufacturer and soldier)
                     </persName>
                         <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
                         <trait type="race" subtype="White"/>
@@ -50,5 +54,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Worcester County, Massachusetts manufacturer and soldier. Massachusetts native. Manufacturer in Worcester County, Massachusetts in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Massachusetts, Worcester County, Holden, p. 616. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
