@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,19 @@
             <particDesc>
                 <org xml:id="O00012751">
                     <orgName>Campbell County Jail </orgName>
+                        <event type="begun"  when="1796"  ><ab>1796</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Detention center in Campbell County, Kentucky. Building constructed in 1796. The prison building underwent renovations in 1799 and 1817. Located in Newport, Kentucky. Jailer(s): John Jones.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Campbell County Detention Center</hi> &quot;Facts &amp; History,&quot; Commonwealth of Kentucky, 2017, https://ccdc.ky.gov/about/Pages/history.aspx (accessed May 29, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
