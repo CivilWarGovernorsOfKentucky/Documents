@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,20 @@
                 <person xml:id="N00012749">
                     <persName>
                       James D. Lyon
-                        ()
+                        (Adair County, Kentucky, stock trader)
                     </persName>
+                        <event type="birth"  when="1834"  ><ab>1834</ab></event>
+                        <event type="death"  when="1882"  ><ab>1882</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Adair County, Kentucky, resident and stock trader. Kentucky native. Son of Robert Lyon and Catherine G. Lyon. Resident of Adair County in 1850. Stock trader in Adair County in 1863.</p>
+
+    </body>
 </text>
 </TEI>
