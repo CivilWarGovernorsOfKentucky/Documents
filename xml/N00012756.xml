@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,11 @@
                 <person xml:id="N00012756">
                     <persName>
                       Sydney S. Dunbar
-                        ()
+                        (Adair County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1808-03-08"  ><ab>1808-03-08</ab></event>
+                        <event type="death"  when="1889-03-14"  ><ab>1889-03-14</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
