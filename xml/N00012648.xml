@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">G. T McMilian</title>
+        <title level="a" type="main">Joseph T. McMilian</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00012648">
                     <persName>
-                      G. T McMilian
+                      Joseph T. McMilian
                         (Grant County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1846"  cert="medium" ><ab>c1846</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Grant County, Kentucky resident.  Signed in support of a petition written by Thomas Iliff to Thomas E. Bramlette from Grant County, Kentucky on December 9, 1863.</p>
+        <p>Grant County, Kentucky, resident. Kentucky native. Son of Abraham McMillian and Perlina McMilian. Resident in Grant County, Kentucky, in 1850.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Grant County, p. 317B.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
