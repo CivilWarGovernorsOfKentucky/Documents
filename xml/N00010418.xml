@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">E. T. Thompson</title>
+        <title level="a" type="main">Ebenezer J. Thompson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00010418">
                     <persName>
-                      E. T. Thompson
-                        (Mason County, Kentucky, resident)
+                      Ebenezer J. Thompson
+                        (Bracken County, Kentucky, farm laborer)
                     </persName>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of John Gallagher in Mason County on October 1, 1861.</p>
+        <p>Bracken County, Kentucky, farmer. Kentucky native. Son of Serepta Thompson. Married to Ursula B. Stiles Thompson in Mason County on December 18, 1861. Father of Ida Thompson. Farmer in Bracken County in 1860. Farmer in Bracken County in 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1496.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, Eastern District, p. 48.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Bracken County, Germantown, p. 362B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1914)</hi>, KDLA, Film  #994027-994058: Mason County Marriages, 1852-1914, p. 20 of microfilm.
 </bibl></ab>
     </back>
 </text>
