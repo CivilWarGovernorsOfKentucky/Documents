@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00012152">
                     <persName>
                       Martin Pendergrast
-                        (resident)
+                        (Louisville, Kentucky, convicted of manslaughter)
                     </persName>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in December 1864 petition to Thomas E. Bramlette that asked for Pendergrast’s pardon after being convicted of manslaughter.</p>
+        <p>Cook County, Illinois, laborer and soldier. Native of Ireland. Married to Ann Pendergast. Laborer in Cook County, Illinois, in 1860. Served in the 67th Illinois Infantry as a private.<lb/>
+Subject of a December 1864 petition to Thomas E. Bramlette requesting Pendergrast’s pardon on conviction of manslaughter.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-1390.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, Cook County, Chicago Ward 9, p. 198.<lb/>
+<hi rend="italic">Indexes to the Carded Records of Soldiers Who Served in Volunteer Organizations During the Civil War</hi>, NARA M539, RG 94, Roll 070.<lb/>
+KYR-0001-004-1390.
 </bibl></ab>
     </back>
 </text>
