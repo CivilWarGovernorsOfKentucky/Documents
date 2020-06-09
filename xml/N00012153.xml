@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00012153">
                     <persName>
                       Patrick Walsh
-                        (resident)
+                        (Louisville, Kentucky, resident, killed in 1863)
                     </persName>
+                        <event type="death"  when="1863"  ><ab>1863</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Killed in 1864. </p>
+        <p>Louisville, Kentucky, resident killed by Martin Pendergrast in 1863. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-1390.
+        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;Patrick Welch (unknown-1863),&quot; Memorial 52315253, https://www.findagrave.com/memorial/52315253/patrick-welch (accessed June 8, 2020).<lb/>
+KYR-0001-004-1390.
 </bibl></ab>
     </back>
 </text>
