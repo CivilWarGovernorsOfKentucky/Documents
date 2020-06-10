@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,24 @@
                 <person xml:id="N00011291">
                     <persName>
                       Alfred Marcum
-                        ()
+                        (Breathitt County, KY, farmer and blacksmith)
                     </persName>
+                        <event type="birth"  when="1803"  cert="medium" ><ab>c1803</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Breathitt County, Kentucky, farmer and blacksmith. North Carolina native. Married to Joanna Marcum. Father of Edward Marcum, Thomas Marcum, Mahala Marcum, Robert Marcum, Elizabeth Marcum, Daniel Marcum, Mary Marcum, and Jas B. Marcum. Farmer and blacksmith in Breathitt County, Kentucky in 1860. Owned one enslaved person in Breathitt County in 1860.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breathitt County, District 1, p. 341.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Breathitt County, District 1, p. 174B.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
