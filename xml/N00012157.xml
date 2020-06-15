@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">D. K. Stephens</title>
+        <title level="a" type="main">Daniel K. Stephens</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00012157">
                     <persName>
-                      D. K. Stephens
-                        (resident)
+                      Daniel K. Stephens
+                        (Louisville, KY, plasterer)
                     </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="death"  when="1884-12-21"  ><ab>1884-12-21</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Juror in murder trial of Martin Pendergrast. Signed petition in December 1864 asking for his pardon.</p>
+        <p>Louisville, Jefferson County, Kentucky, plasterer. Kentucky native. Married to Mary J. Martin Stephens in Jefferson County on May 27, 1860. Father of Alice Stephens and Anna Stephens. Plasterer in Louisville in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-1390.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 8, p. 693.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 12, p. 577A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, 1786-1878, Film #000819612, p. 47.<lb/>
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, KDLA, 7007127: Jefferson County, Books 5-6 (1879-1887), p. 100, p. 501 of microfilm.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Daniel K. Stephens (1834-1884),&quot; Memorial 152555800, https://www.findagrave.com/memorial/152555800 (accessed June 9, 2020).
 </bibl></ab>
     </back>
 </text>

@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>
     </titleStmt>
@@ -46,7 +50,8 @@
                       John Metcalfe
                         (Grant County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <event type="birth"  when="1826-07-01"  ><ab>1826-07-01</ab></event>
+                        <event type="death"  when="1896-05-11"  ><ab>1896-05-11</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,12 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Grant County, Kentucky, farmer. Kentucky native. Married to Letta Adams Metcalfe in Grant County, Kentucky on September 17, 1849. Father of Thomas L. Metcalfe and Margaret Metcalfe. Farmer in Grant County in 1860.</p>
+        <p>Grant County, Kentucky, farmer. Kentucky native. Married to Letta Adams Metcalfe in Grant County, Kentucky, on September 17, 1849. Father of Thomas L. Metcalfe and Margaret Metcalfe. Farmer in Grant County in 1860.</p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grant County, p. 941. <lb/>
-<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Grant County Marriages, Film #001490815, p. 55. 
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Grant County Marriages, Film #001490815, p. 55. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;John Metcalf (July 1, 1826-May 11, 1896),&quot; Memorial #46832612, http://www.findagrave.com/memorial/46832612 (accessed June 10, 2020).
 </bibl></ab>
     </back>
 </text>

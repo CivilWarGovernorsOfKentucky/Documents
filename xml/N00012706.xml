@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Parker C. Hardin</title>
+        <title level="a" type="main">Parker Calhoun Hardin</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
@@ -43,10 +43,12 @@
         <particDesc>
                 <person xml:id="N00012706">
                     <persName>
-                      Parker C. Hardin
+                      Parker Calhoun Hardin
                         (Adair County, Kentucky, attorney)
                     </persName>
-                        <event type="birth"  when="1802"  cert="medium" ><ab>c1802</ab></event>
+                        <event type="birth"  when="1800-10-23"  ><ab>1800-10-23</ab></event>
+                        <event type="death"  when="1876-12-30"  ><ab>1876-12-30</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,8 +56,22 @@
     </teiHeader>
     <text>
     <body>
-        <p>Adair County, Kentucky, attorney. Washington County, Kentucky, native. </p>
+        <p>Adair County, Kentucky, attorney. Washington County, Kentucky, native. Married to Caroline J. Hardin. Father of Charles A. Hardin, P. Watkins Hardin, Benjamin Lee Hardin, John M. Hardin, Mary C. Hardin, Ann E. Hardin, Julia L. Hardin, Sarah Hardin, and James C. Hardin. Attorney in Adair County in 1850. Owned fifteen enslaved persons in Adair County in 1850. Attorney in Adair County in 1860. Owned nineteen enslaved persons in Adair County in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Adair County, District 1, p. 1A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Adair County, Columbia, p. 95.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Adair County, Columbia, p. 51B.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Judge Parker Calhoun Hardin (1800-1876),&quot; Memorial #89279901, http://www.findagrave.com/memorial/8927990 (accessed June 13, 2020).
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Adair County, Division 1, p. 62.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Adair County, Columbia, Division 1, p. 7A.
+</bibl></ab>
+    </back>
 </text>
 </TEI>

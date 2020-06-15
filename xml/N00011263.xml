@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. H. Bowmans</title>
+        <title level="a" type="main">James H. Bowman</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
@@ -47,9 +51,10 @@
         <particDesc>
                 <person xml:id="N00011263">
                     <persName>
-                      J. H. Bowmans
-                        (Ballard Co, Ky, prov govt)
+                      James H. Bowman
+                        (Ballard County, Kentucky, merchant and provisional government member)
                     </persName>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -58,11 +63,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Reported as member of the convention of the provisional government held at Russellville, Kentucky, in November 1861.</p>
+        <p>Ballard County, Kentucky, merchant and provisional government member. Kentucky native. Married to Fannie Bowman. Father of Arthur Bowman and Curt Bowman. Merchant in Ballard County, Kentucky in 1860. Employed Andrew J. Smith as a merchant in Ballard County in 1860. Reported as member of the convention of the provisional government held at Russellville, Kentucky, in November 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0004-033-0001.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Lovelaceville, p. 716.<lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Ballard County, Lovelaceville, p. 391A.<lb/>
+KYR-0004-033-0001.
 </bibl></ab>
     </back>
 </text>
