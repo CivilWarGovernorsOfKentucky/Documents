@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,8 @@
                 <person xml:id="N00012885">
                     <persName>
                       Henderson Coffey
-                        (Wayne County, Kentucky, farm laborer)
+                        (Unknown (Wayne County, composite bio))
                     </persName>
-                        <event type="birth"  when="1844"  cert="medium" ><ab>c1844</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +53,16 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Wayne County, Kentucky, resident. Signed a petition on behalf of Frances N. Alexander in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Wayne County, p. 248, 326.
+
+KYR-0001-004-1910.<lb/>
+.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
