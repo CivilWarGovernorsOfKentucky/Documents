@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>
     </titleStmt>
@@ -46,7 +50,7 @@
                        Isaac Adams
                         (Kentucky soldier)
                     </persName>
-                        <event type="death"  when="1863-06"  cert="medium" ><ab>c1863-06</ab></event>
+                        <event type="death"  when="1863"  ><ab>1863</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,8 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky soldier. Served in the 45th Kentucky Infantry (U.S.A.) as an appointed recruiter. Noted to have been killed by Confederate forces in June 1863.</p>
+        <p>Kentucky, soldier. Served in the 45th Kentucky Infantry (U.S.A.) as a recruiter. Killed by Confederate forces in Eastern Kentucky in June 1863.</p>
 
     </body>
+    <back>
+        <ab><bibl>KYR-0002-009-0011.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
