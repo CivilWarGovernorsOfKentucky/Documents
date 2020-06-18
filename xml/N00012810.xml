@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">David Crisswell</title>
+        <title level="a" type="main">David Criswell</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00012810">
                     <persName>
-                      David Crisswell
+                      David Criswell
                         (Owen County, Kentucky, farmer.)
                     </persName>
                         <event type="birth"  when="1808"  cert="medium" ><ab>c1808</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
