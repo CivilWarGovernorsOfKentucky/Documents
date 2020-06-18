@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0023"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brianna Kirk</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Waynesburg <date when="1862-11-13">nov 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
-<lb/>To the Military Govner of the state of Ky
+   <p><placeName ref="cwgk:P00008533">Waynesburg</placeName> <date when="1862-11-13">nov 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/>To the <persName ref="cwgk:N001004">Military Govner</persName> of the <placeName ref="cwgk:P001800">state of Ky</placeName>
 <lb/>Dear Sir</p>
-<p>I want the permushion from you to make up a company of 60 men in the county of Lincoln and state of Kintucky my object is, to put down theeving tha are braeking in to stores, in this, place and Kneghbours, Houses, and stailing negroes, and in fact all Kind of depedatians, now i prpose to have these men <hi rend="str"><unclear/></hi>Augurinesed and we dont want to ta<hi rend="str">k</hi>x the Goverment with Horses <hi rend="str">wit</hi> We will ride our on when Nessesary but we would properly want Some guns and ammunition and i would Like for your Honor to in struct me what to do and how to manage the cause if you permit me to Rais said company if i rais said company <hi rend="str">if</hi> it will be of old men. and buoys and i can get them in 24 Hours please to me a mediately Respectfully your obidiant survant</p>
-<p>W. F Camden<pb/></p>
+<p>I want the permushion from you to make up a company of 60 men in the county of <placeName ref="cwgk:P00005395">Lincoln</placeName> and state of Kintucky my object is, to put down theeving tha are braeking in to stores, in this, place and Kneghbours, Houses, and stailing negroes, and in fact all Kind of depedatians, now i prpose to have these men <hi rend="str"><unclear/></hi>Augurinesed and we dont want to ta<hi rend="str">k</hi>x the Goverment with Horses <hi rend="str">wit</hi> We will ride our on when Nessesary but we would properly want Some guns and ammunition and i would Like for your Honor to in struct me what to do and how to manage the cause if you permit me to Rais said company if i rais said company <hi rend="str">if</hi> it will be of old men. and buoys and i can get them in 24 Hours please to me a mediately Respectfully your obidiant survant</p>
+<p><persName ref="cwgk:N00008534">W. F Camden</persName><pb/></p>
 <p>Waynesburg Ky,
 <lb/><date when="1862-11-13">Nov. 13/62</date><figure type="hr"/>
 <lb/>Camden. W. F.<figure type="hr"/></p>
