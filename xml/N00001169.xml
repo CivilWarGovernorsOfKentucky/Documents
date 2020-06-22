@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">B. Wilson</title>
+        <title level="a" type="main">Berry Wilson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Samuel T. Whittaker</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00001169">
                     <persName>
-                      B. Wilson
-                        (Grant County)
+                      Berry Wilson
+                        (Kenton County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1809"  cert="medium" ><ab>c1809</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of James R. Sechrest.</p>
+        <p>Kenton County, Kentucky, farmer. Virginia native. Married to Elizabeth H. Wilson. Father of John B. Wilson. Farmer in Kenton County, Kentucky in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-1351.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, District 1, p. 427. 
 </bibl></ab>
     </back>
 </text>
