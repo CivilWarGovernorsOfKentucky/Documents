@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0317"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,22 +70,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>Whereas a judgement was Rendered against Stephen Coleman in the Henry Circuit Court for &#36;60=Fined for keeping a tipling House, and it was, for another person, who had a Right to sell liquors, But said Coleman did not attend the Court, And he was therefore fine for his negligence in the case. He is a very poor man and his wife subject to Fits monthly. We the undersigned most Respectfully. Ask for you to Remit the aforesaid fine, This <date when="1863-11-02">2<hi rend="underline"><hi rend="sup">nd</hi></hi> day of November 1863</date>.</p>
-<p><hi rend="underline">J. P. Sparks</hi>
-<lb/>Geo. G. Humston CHCC
-<lb/>J. N. Oliver
-<lb/>Ham Ellis Dep<hi rend="sup">y</hi> Clk Co Ct
-<lb/>J M Jones J<unclear>ai</unclear>lor
-<lb/>J N Webb
-<lb/>Robt B Gray
+   <p>Whereas a judgement was Rendered against <persName ref="cwgk:N00012327">Stephen Coleman</persName> in the <orgName ref="cwgk:O00000400">Henry Circuit Court</orgName> for $60=Fined for keeping a tipling House, and it was, for another person, who had a Right to sell liquors, But said Coleman did not attend the Court, And he was therefore fine for his negligence in the case. He is a very poor man and his <persName ref="cwgk:N00012328">wife </persName>subject to Fits monthly. We the undersigned most Respectfully. Ask for you to Remit the aforesaid fine, This <date when="1863-11-02">2<hi rend="underline"><hi rend="sup">nd</hi></hi> day of November 1863</date>.</p>
+<p><persName ref="cwgk:N00000767"><hi rend="underline">J. P. Sparks</hi></persName>
+<lb/><persName ref="cwgk:N00004939">Geo. G. Humston</persName> CHCC
+<lb/><persName ref="cwgk:N00010100">J. N. Oliver</persName>
+<lb/><persName ref="cwgk:N00012329">Ham Ellis</persName> Dep<hi rend="sup">y</hi> Clk Co Ct
+<lb/><persName ref="cwgk:N00012330">J M Jones</persName> J<unclear>ai</unclear>lor
+<lb/><persName ref="cwgk:N00009810">J N Webb</persName>
+<lb/><persName ref="cwgk:N00004713">Robt B Gray</persName>
 <lb/>J. Owens<pb/></p>
 <p>Henry Cir Ct</p>
 <p>Petition -- for remission. Respite 12. months.
 <lb/><date when="1863-11-03">Nov 3<hi rend="sup">rd</hi> 1863</date></p>
-<p>Tho E Bramlette</p>
+<p><persName ref="cwgk:N001000">Tho E Bramlette</persName></p>
 <p>vs
 <lb/>Stephen Coleman
-<lb/>&#36;60 -- 
+<lb/>$60 -- 
 <lb/>Tipling</p>
   </body>
  </text>
