@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0331"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort. K.Y. <date when="1863-12-20">Decem 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
-<lb/>To his excelency governor Bramlette
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName>. <placeName ref="cwgk:P001800">K.Y.</placeName> <date when="1863-12-20">Decem 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
+<lb/>To his excelency governor <persName ref="cwgk:N001000">Bramlette</persName>
 <lb/>Dear Sir</p>
-<p>I have been confined here now verey near five years, and hope that you will take in to consideration my Case. I was sentenced for the term of ten years,, charged with burgulary,, thare is a petition ^in^ the Secratary<hi rend="underline"><hi rend="sup">s</hi></hi> office Sighe<hi rend="str">d</hi>nd by all the Keepers of this institution Some Six or Seven months,, and I hope my dear Sir that you will take my Case into Consideration and release me. I assure you that your Leniencey will not be missplaced, as it is my intention to lead a diferent life intirely from my past. if your excelency will Show clemency in my case. I have friends that will provide for me.. I am blind. and tharefore laouber under more disadvantage than is the lot of but few of mankind..</p>
+<p>I have been confined <orgName ref="cwgk:O00000266">here</orgName> now verey near five years, and hope that you will take in to consideration my Case. I was sentenced for the term of ten years,, charged with burgulary,, thare is a petition ^in^ the Secratary<hi rend="underline"><hi rend="sup">s</hi></hi> office Sighe<hi rend="str">d</hi>nd by all the Keepers of this institution Some Six or Seven months,, and I hope my dear Sir that you will take my Case into Consideration and release me. I assure you that your Leniencey will not be missplaced, as it is my intention to lead a diferent life intirely from my past. if your excelency will Show clemency in my case. I have friends that will provide for me.. I am blind. and tharefore laouber under more disadvantage than is the lot of but few of mankind..</p>
 <p>Hoping that you will not overlook this humble petition</p>
 <p>I Remain your verey humble Servant
-<lb/>Charles Sulivan<pb/></p>
-<p>Enquire of H I Todd</p>
+<lb/><persName ref="cwgk:N00012410">Charles Sulivan</persName><pb/></p>
+<p>Enquire of <persName ref="cwgk:N00000230">H I Todd</persName></p>
   </body>
  </text>
 </TEI>
