@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0322"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,22 +71,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>Crittenden Circuit Court
-<lb/>Commonwealth of Kentucky
+   <p><orgName ref="cwgk:O00000369">Crittenden Circuit Court</orgName>
+<lb/><orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>
 <lb/>against
-<lb/>Napoleon B Thurmond</p>
-<p>The Grand Jury of Crittenden County in the name and by the authority of the Commonwealth of Kentucky accuse Napoleon B Thurmond of the Crime of Murder Committed as follows towit The said Napoleon B Thurmond on the <date when="1863-11-09">9<hi rend="sup">th</hi> day of November 1863</date> in the County aforesaid did feloniously and with Malice aforethought kill and murder Malinda a female Slave the property of Philip Thurmond by shooting her with a pistol against the peace &amp; dignity of the Commonwealth of Kentucky</p>
-<p>Jno T Bunch
+<lb/><persName ref="cwgk:N00012361">Napoleon B Thurmond</persName></p>
+<p>The Grand Jury of <placeName ref="cwgk:P00006094">Crittenden County</placeName> in the name and by the authority of the Commonwealth of Kentucky accuse Napoleon B Thurmond of the Crime of Murder Committed as follows towit The said Napoleon B Thurmond on the <date when="1863-11-09">9<hi rend="sup">th</hi> day of November 1863</date> in the County aforesaid did feloniously and with Malice aforethought kill and murder <persName ref="cwgk:N00012395">Malinda</persName> a female Slave the property of <persName ref="cwgk:N00012359">Philip Thurmond</persName> by shooting her with a pistol against the peace &amp; dignity of the Commonwealth of Kentucky</p>
+<p><persName ref="cwgk:N00012398">Jno T Bunch</persName>
 <lb/>atty protem Comth</p>
 <p>Information by
 <lb/>Philip Thurmond
-<lb/>Polly N Thurmond
-<lb/>James S Thurmond not of the Grand Jury</p>
-<p>Summons Samuel &amp; Mrs Hannah Carrick who was not before the Jury for the Comth = a True bill James W Wilson foreman</p>
+<lb/><persName ref="cwgk:N00012362">Polly N Thurmond</persName>
+<lb/><persName ref="cwgk:N00012399">James S Thurmond</persName> not of the Grand Jury</p>
+<p>Summons <persName ref="cwgk:N00012403">Samuel</persName> &amp; Mrs <persName ref="cwgk:N00012402">Hannah Carrick</persName> who was not before the Jury for the Comth = a True bill <persName ref="cwgk:N00010582">James W Wilson</persName> foreman</p>
 <p>No Bail allowed on this indictment</p>
-<p>W P Fowler Judge</p>
+<p><persName ref="cwgk:N00006111">W P Fowler</persName> Judge</p>
 <p>Filed in open Court <date when="1863-11-11">Novr 11<hi rend="sup">th</hi> 1863</date>
-<lb/>J H Walker clk</p>
+<lb/><persName ref="cwgk:N00012404">J H Walker</persName> clk</p>
 <p>A Copy, Attest J H Walker C C C C</p>
   </body>
  </text>
