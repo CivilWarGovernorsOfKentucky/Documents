@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0346"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>KENTUCKY PENITENTIARY,
-<lb/>H. I. TODD, KEEPER AND LESSEE.<figure type="hr"/>
+   <p><orgName ref="cwgk:O00000266">KENTUCKY PENITENTIARY</orgName>,
+<lb/><persName ref="cwgk:N00000230">H. I. TODD</persName>, KEEPER AND LESSEE.<figure type="hr"/>
 <lb/>Office Kentucky Penitentiary,
-<lb/>Frankfort, <date when="1863-12-12">Dec. 12<hi rend="sup">th</hi>, 1863</date>.</p>
-<p>James Johnson, here for Counterfeiting, for two years from Campbell County <date when="1862-02">Feb term of court 1862</date>- time will Expire <date when="1862-02-28">Feb 28 1864</date></p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1863-12-12">Dec. 12<hi rend="sup">th</hi>, 1863</date>.</p>
+<p><persName ref="cwgk:N00006779">James Johnson</persName>, here for Counterfeiting, for two years from <placeName ref="cwgk:P00001874">Campbell County </placeName><date when="1862-02">Feb term of court 1862</date>- time will Expire <date when="1862-02-28">Feb 28 1864</date></p>
 <p>Johnson's Conduct Since he has Been here has Been good.</p>
-<p>E. Whitesides
+<p><persName ref="cwgk:N00002874">E. Whitesides</persName>
 <lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Assistant Keeper</p>
 <p>P S. H I Todd is in Louisville</p>
 <p>E. W.<pb/></p>
-<p>Campbell Cir Ct
+<p><orgName ref="cwgk:O00000361">Campbell Cir Ct</orgName>
 <lb/>vs
 <lb/>Jas Johnson
 <lb/>Counterfeiting
