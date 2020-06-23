@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0333"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Thomas Bramlette
-<lb/>Governor of the Commonwealth of Ky</p>
-<p>We the undersigned would most respectfully represent to your honor that at the <date when="1862-03">March Term of the Bath Circuit Court 1862</date> that Geo Hatton was fined in said court &#36;27-- and which fine Joseph Toy replevied We would state that the said George Hatton is in the Service of the United States in the 24<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Regiment In'fty, and has been in the service for more than 2 years,, We would petition your Excellency to remit said fine as Mr Toy is a poor hard working ^&amp; Loyal^ man and it would Go hard with him to pay it. we think that this case deserves executive Clemency, and should be interposed in behalf of our brave soldiers in the field -- </p>
+   <p>To his Excellency <persName ref="cwgk:N001000">Thomas Bramlette</persName>
+<lb/>Governor of the Commonwealth of <orgName ref="cwgk:O001025">Ky</orgName></p>
+<p>We the undersigned would most respectfully represent to your honor that at the <date when="1862-03">March Term of the </date><orgName ref="cwgk:O00000358"><date when="1862-03">Bath Circuit Court</date></orgName><date when="1862-03"> 1862</date> that <persName ref="cwgk:N00012365">Geo Hatton</persName> was fined in said court $27-- and which fine <persName ref="cwgk:N00012366">Joseph Toy</persName> replevied We would state that the said George Hatton is in the Service of the <orgName ref="cwgk:O00001186">United States</orgName> in the <orgName ref="cwgk:O00006977">24<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Regiment In'fty</orgName>, and has been in the service for more than 2 years,, We would petition your Excellency to remit said fine as Mr Toy is a poor hard working ^&amp; Loyal^ man and it would Go hard with him to pay it. we think that this case deserves executive Clemency, and should be interposed in behalf of our brave soldiers in the field -- </p>
 <p>All of which is respectfully submitted
-<lb/>Owingsville Ky <date when="1863-12-28">Dec 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>V. B. Young C. B. C. C
-<lb/>John E Rice
-<lb/>E. V. Brother Jury trustee. B Co
-<lb/>B D Lacy
-<lb/>Eli W, Fleming
-<lb/>F. Donaldson
-<lb/>W<hi rend="sup">m</hi> Richards
-<lb/>R, L, Tipton
-<lb/><cb n="2"/>J. H. Richard
-<lb/>J. J. Lightfoot<milestone unit="column" n="1"/><pb/></p>
+<lb/><placeName ref="cwgk:P00002306">Owingsville </placeName>Ky <date when="1863-12-28">Dec 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00003130">V. B. Young</persName> C. B. C. C
+<lb/><persName ref="cwgk:N00012367">John E Rice</persName>
+<lb/><persName ref="cwgk:N00012368">E. V. Brother</persName> Jury trustee. B Co
+<lb/><persName ref="cwgk:N00000476">B D Lacy</persName>
+<lb/><persName ref="cwgk:N00011156">Eli W, Fleming</persName>
+<lb/><persName ref="cwgk:N00011161">F. Donaldson</persName>
+<lb/><persName ref="cwgk:N00012369">W<hi rend="sup">m</hi> Richards</persName>
+<lb/><persName ref="cwgk:N00010477">R, L, Tipton</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00012370">J. H. Richard</persName>
+<lb/><persName ref="cwgk:N00009395">J. J. Lightfoot</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Respite 12 months
 <lb/>Tho E Bramlette</p>
   </body>
