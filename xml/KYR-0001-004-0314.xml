@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0314"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Madisonville Ky. <date when="1863-11-25">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 25<hi rend="sup">th</hi> 1863</date>
-<lb/>To his Excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlett Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of the Commonwealth of Kentucky</p>
-<p>The undersigned would respectfully represent unto your Excellency that at the present <date when="--11"><hi rend="str">May</hi> Nov<hi rend="sup">r</hi> term</date> of the Hopkins Circuit Court he Confessed Judgt upon an Indictment against "him in said Court for failing to obtain a copy of the table of Tavern Rates from the County Court Clerk and set up the same in the public room of his tavern house" He states that he was Indicted at the <date when="1863-05">May term of s<hi rend="underline"><hi rend="sup">d</hi></hi> Court 1863</date> That the civil law previous to that time in <date when="1861">1861</date> and <date when="1862">1862</date> had to a great extent been suspended a good portion of the time there was no clerk of s<hi rend="underline"><hi rend="sup">d</hi></hi> County Court He states however as a reason why he did not obtain said Tavern Rates and set them up, he did not know the law required it of a Tavern keeper, He did not intend to violate the law, <hi rend="str">hH</hi>aving been engaged in the business but a short time he was not posted. He prays your excellency to remit the fine, It being &#36;75.00 He says that he obtained the License required by the law and in all other respects<pb/>
+   <p><placeName ref="cwgk:P00002614">Madisonville</placeName> <placeName ref="cwgk:P001800">Ky</placeName>. <date when="1863-11-25">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 25<hi rend="sup">th</hi> 1863</date>
+<lb/>To his Excellency <persName ref="cwgk:N001000">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlett</persName> Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName></p>
+<p>The undersigned would respectfully represent unto your Excellency that at the present <date when="--11"><hi rend="str">May</hi> Nov<hi rend="sup">r</hi> term</date> of the <orgName ref="cwgk:O00000396"><placeName ref="cwgk:P00002615">Hopkins</placeName> Circuit Court</orgName> he Confessed Judgt upon an Indictment against "him in said Court for failing to obtain a copy of the table of Tavern Rates from the <orgName ref="cwgk:O00000632">County Court</orgName> Clerk and set up the same in the public room of his tavern house" He states that he was Indicted at the <date when="1863-05">May term of s<hi rend="underline"><hi rend="sup">d</hi></hi> Court 1863</date> That the civil law previous to that time in <date when="1861">1861</date> and <date when="1862">1862</date> had to a great extent been suspended a good portion of the time there was no clerk of s<hi rend="underline"><hi rend="sup">d</hi></hi> County Court He states however as a reason why he did not obtain said Tavern Rates and set them up, he did not know the law required it of a Tavern keeper, He did not intend to violate the law, <hi rend="str">hH</hi>aving been engaged in the business but a short time he was not posted. He prays your excellency to remit the fine, It being $75.00 He says that he obtained the License required by the law and in all other respects<pb/>
 <lb/>Complied with the law to the best of his knowledge &amp; ability</p>
-<p>James T Lawton</p>
+<p><persName ref="cwgk:N00012217">James T Lawton</persName></p>
 <p>The undersigned citizens of Madisonville &amp; Vicinity would state that Ja<hi rend="underline"><hi rend="sup">s</hi></hi> T Lawton is a quiet, sober law abiding citizen &amp; we would be pleased that his fine should be remitted</p>
-<p>J. B. Earle
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L. Gordon
-<lb/>O, Waddill
-<lb/><hi rend="underline">Geo, W, Noel</hi>
-<lb/>J M Compton
-<lb/>Dick Littlepage -- <pb/></p>
+<p><persName ref="cwgk:N00002671">J. B. Earle</persName>
+<lb/><persName ref="cwgk:N00002714">W<hi rend="underline"><hi rend="sup">m</hi></hi> L. Gordon</persName>
+<lb/><persName ref="cwgk:N00002624">O, Waddill</persName>
+<lb/><persName ref="cwgk:N00012307"><hi rend="underline">Geo, W, Noel</hi></persName>
+<lb/><persName ref="cwgk:N00002621">J M Compton</persName>
+<lb/><persName ref="cwgk:N00002667">Dick Littlepage</persName> -- <pb/></p>
 <p>Hopkins Cir Ct
 <lb/>vs
 <lb/>Jas T. Lawton
@@ -83,7 +91,7 @@
 <p>Tho E Bramlette
 <lb/>Govr</p>
 <p><date when="1864-01-15">15<hi rend="sup">th</hi> Jany /64</date>
-<lb/>&#36;75 -- </p>
+<lb/>$75 -- </p>
   </body>
  </text>
 </TEI>
