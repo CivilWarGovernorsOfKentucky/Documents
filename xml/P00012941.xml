@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00012941">
                     <placeName>
                         <location>
+                              <geo>38.1273 -85.4069</geo>
                             <settlement>Wilsonville, Kentucky </settlement>
                         </location>
                     </placeName>
@@ -48,5 +53,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Hamlet in Shelby/Spencer County, Kentucky.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">USGS: Earth Explorer</hi>, &quot;Wilsonville, Kentucky,&quot; https://earthexplorer.usgs.gov/ (accessed on June 24, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
