@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,23 @@
                 <person xml:id="N00012942">
                     <persName>
                       Jesse Mattingly
-                        ()
+                        (Clay County, Kentucky, farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Clay County, Kentucky farmer and soldier. Kentucky native. Married to Mollie Mattingly. Father of Joseph Mattingly, Nancy Mattingly, and Moses G. Mattingly. Farmer in Clay County, Kentucky in 1860.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clay County, p. 61. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
