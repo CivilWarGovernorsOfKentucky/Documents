@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00012944">
                     <persName>
                       John J. Miller
-                        ()
+                        (Boone County, Kentucky, farmer.)
                     </persName>
+                        <event type="birth"  when="1812"  cert="medium" ><ab>c1812</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,10 +55,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Married to Maria Miller.</p>
-
-<p>Farmer in Boone County in 1860.</p>
+        <p>Boone County, Kentucky, farmer. Kentucky native. Married to Maria Miller. Father of Sarah F. Miller, James W. Miller, John O. Miller, Margaret A. Miller, Martha Jane Miller, Archibald K. Miller, Thomas H. Miller, A. H. Clay Miller, M. L. A. Miller, Laura E. B. Miller, and Woodford R. Miller. Farmer in Boone County, Kentucky in 1850. Farmer in Boone County in 1860. Postmaster in Hamilton, Boone County from March 14, 1857 to April 17, 1858.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Boone County, District 2, p. 225A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boone County, Union, p. 389.<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, vol. 14, p. 206, (accessed via Ancestry.com).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
