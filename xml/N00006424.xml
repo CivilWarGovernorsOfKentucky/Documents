@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Thomas Gregory</title>
+        <title level="a" type="main">Thomas J. Gregory</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Charles Welsko</name>
@@ -51,9 +55,10 @@
         <particDesc>
                 <person xml:id="N00006424">
                     <persName>
-                      Thomas Gregory
-                        (Lyon County)
+                      Thomas J. Gregory
+                        (Lyon County, Ky, farmer)
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -62,12 +67,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Lyon County, Kentucky, farmer. Kentucky native. Married to Mary A. Gregory. Father of John B. Gregory, Margaret Gregory, Winifred J. Gregory, Nancy E. Gregory, William B. Gregory, and Giles W. Gregory. Farmer in Lyon County in 1860. </p>
+        <p>Lyon County, Kentucky, farmer. Kentucky native. Married to Mary A. Gregory. Father of John B. Gregory, Margaret Gregory, Winifred J. Gregory, Nancy E. Gregory, William B. Gregory, Giles W. Gregory, Joseph Gregory, and James Gregory. Farmer in Lyon County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, p. 680.
-
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, p. 680.<lb/>
 <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lyon County, p. 8A
 </bibl></ab>
     </back>
