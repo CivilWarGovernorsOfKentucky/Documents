@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       Isaac J. Black
                         (Kentucky soldier)
                     </persName>
+                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,14 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Knox County, Kentucky soldier. Kentucky native. Married to Mildred Black. Father of John Black, Meala Black, and David. Black. Served in the 49th Kentucky Infantry (U.S.A.) as Captain from. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Knox County, Payne, p. 69. <lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p.501. 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
