@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main"> 2nd Regiment Ohio Cavalry</title>
+        <title level="a" type="main">2nd Regiment Ohio Cavalry</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -38,7 +42,7 @@
             </textClass>
             <particDesc>
                 <org xml:id="O00012923">
-                    <orgName> 2nd Regiment Ohio Cavalry</orgName>
+                    <orgName>2nd Regiment Ohio Cavalry</orgName>
                         <event type="begun"  when="1861-08"  ><ab>1861-08</ab></event>
                         <event type="ended"  when="1865-10-12"  ><ab>1865-10-12</ab></event>
                 </org>
@@ -47,8 +51,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Military regiment of the Army of the Potomac. Organized at Cleveland and Camp Dennison, Ohio from August through October, 1861. </p>
+        <p>Military regiment of the Army of the Potomac. Cavalry regiment organized at Cleveland and Camp Dennison, Ohio from August through October, 1861. Mustered out at St. Louis, Missouri on October 12, 1865</p>
 
     </body>
+    <back>
+        <ab><bibl>Frederick H. Dyer<hi rend="italic">A Compendium of the War of the Rebellion:  Compiled and Arranged from Official Records of the Federal and Confederate Armies, Reports of the Adjutant Generals of the Several States the Army Registers, and other Reliable Documents and Sources</hi>, https://archive.org/details/08697590.3359.emory.edu/page/n1479/mode/2up?q=2nd+Ohio+Cavalry, pp. 1473-1474.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
