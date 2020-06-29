@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,8 @@
                 <person xml:id="N00012963">
                     <persName>
                       Gilson P. Dick
-                        (Wayne County, Kentucky, physician)
+                        (Unknown (Wayne County, composite bio))
                     </persName>
-                        <event type="birth"  when="1819"  cert="medium" ><ab>c1819</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +53,9 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Wayne County, Kentucky, resident. Signed a petition on behalf of Frances N. Alexander in 1865.</p>
+
+    </body>
 </text>
 </TEI>
