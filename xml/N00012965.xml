@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00012965">
                     <persName>
                       Joseph Coffey
-                        (Wayne County, Kentucky, soldier)
+                        (Unknown (Wayne County, composite bio))
                     </persName>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -49,5 +53,15 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Wayne County, Kentucky, resident. Signed a petition on behalf of Frances N. Alexander in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Wayne County, p. 251, 326.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0003.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
