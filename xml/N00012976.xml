@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">H. G. Marshall</title>
+        <title level="a" type="main">Henry G. Marshall</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00012976">
                     <persName>
-                      H. G. Marshall
+                      Henry G. Marshall
                         ()
                     </persName>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +55,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Cabinet maker in Nelson County in 1850.</p>
+        <p>Married to Elena Marshall. Father of Josephine Marshall, Eudora Marshall, and Thomas Marshall. Cabinet maker in Nelson County, Kentucky in 1850. Owned three enslaved persons in Nelson County in 1850. Cabinet maker in Nelson County in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Nelson County, District 1, p. 287B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Nelson County, District 1, p. 7.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nelson County, District 1, p. 254.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
