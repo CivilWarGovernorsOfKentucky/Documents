@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. C. Hagan</title>
+        <title level="a" type="main">Ralph Carter Hagan</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00012974">
                     <persName>
-                      R. C. Hagan
-                        ()
+                      Ralph Carter Hagan
+                        (Nelson County, Kentucky, farmer.)
                     </persName>
+                        <event type="birth"  when="1828-06-26"  ><ab>1828-06-26</ab></event>
+                        <event type="death"  when="1911-03-01"  ><ab>1911-03-01</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +56,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Farmer in Nelson County in 1863.</p>
+        <p>Kentucky native.<lb/>
+Married to Mary Hagan. Father of John Hagan and Joseph Hagan.<lb/>
+Farmer in Nelson County, Kentucky in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nelson County, District 1, p. 254.
+
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Nelson County, KY, August 1863, p. 199 (Accessed via ancestry.com).<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Ralph C. Hagan (26 Jun 1828-1 Mar 1911),&quot; Memorial #6074819, http://www.findagrave.com/memorial/6074819 (accessed June 30, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
