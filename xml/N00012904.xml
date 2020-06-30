@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +44,9 @@
                 <person xml:id="N00012904">
                     <persName>
                       John T. Wilhite
-                        (Wayne County, Kentucky, merchant)
+                        (Wayne County, Kentucky, trader and merchant)
                     </persName>
-                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,5 +54,9 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Wayne County, Kentucky, trader and merchant. Kentucky native. Married to Telitha C. Wilhite. Father of Marshall Wilhite, William Wilhite, and Barrett Wilhite. Trader in Wayne County in 1850. Merchant in Wayne County in 1860.</p>
+
+    </body>
 </text>
 </TEI>
