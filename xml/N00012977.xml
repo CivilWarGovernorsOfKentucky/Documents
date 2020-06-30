@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00012977">
                     <persName>
                       P. W. Wells
-                        ()
+                        (Nelson County, Kentucky, farmer.)
                     </persName>
+                        <event type="birth"  when="1842"  cert="medium" ><ab>c1842</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Nelson County, Kentucky, farmer. Kentucky native. Son of Elisha Wells and J. Ann Wells. Farmer in Nelson County, Kentucky in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nelson County, District 1, p. 261.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
