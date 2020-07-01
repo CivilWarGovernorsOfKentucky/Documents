@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">M B Mosley</title>
+        <title level="a" type="main">M. B. Mosley</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,23 @@
         <particDesc>
                 <person xml:id="N00011319">
                     <persName>
-                      M B Mosley
+                      M. B. Mosley
                         ()
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Estill County, Kentucky, merchant. Virginia native. Married to Emily Mosley. Father of Jno C. Mosley, Charles Mosley, Allice Mosley, William Mosley, Fannie Mosley, and Annie Mosley. Merchant in Estill County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Estill County, Irvine, p. 275.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
