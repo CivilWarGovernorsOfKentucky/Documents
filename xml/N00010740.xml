@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00010740">
                     <persName>
                       James Jesse
-                        (Frankfort, Kentucky)
+                        (Owsley County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1792"  cert="medium" ><ab>c1792</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed expenditure receipt confirming John Steele’s payment for provision of goods to the 14th Kentucky Cavalry on March 20, 1863.</p>
+        <p>Owsley County, Kentucky, farmer. Virginia native. Married to Elizabeth Jessee. Farmer in Owsley County, Kentucky in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-222-0031.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owsley County, p. 337.
 </bibl></ab>
     </back>
 </text>
