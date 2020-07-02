@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Samuel Dawison</title>
+        <title level="a" type="main">Samuel Dawson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
@@ -43,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00011198">
                     <persName>
-                      Samuel Dawison
-                        ()
+                      Samuel Dawson
+                        (Owsley County, KY, farm laborer)
                     </persName>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -53,5 +54,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Owsley County, Kentucky, farm laborer. Kentucky native. Employed by Eli Reynolds as a farm laborer in Owsley County, Kentucky in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owsley County, p. 347.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
