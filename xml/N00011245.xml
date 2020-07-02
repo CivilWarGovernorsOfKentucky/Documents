@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Mareyan Hensley</title>
+        <title level="a" type="main">Marion Hensley</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,24 @@
         <particDesc>
                 <person xml:id="N00011245">
                     <persName>
-                      Mareyan Hensley
-                        ()
+                      Marion Hensley
+                        (Kentucky soldier, 14th KY cav, USA)
                     </persName>
+                        <event type="birth"  when="1844"  cert="medium" ><ab>c1844</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Kentucky soldier. Mustered into service with the 14th Kentucky Volunteer Cavalry (U.S.A.) as a private on February 13, 1863. Reported as &quot;rejected for not being able-bodied.&quot;</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0130.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
