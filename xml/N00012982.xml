@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,25 @@
                 <person xml:id="N00012982">
                     <persName>
                       Stafford McKenna
-                        ()
+                        (Nelson County, Kentucky, grocer merchant.)
                     </persName>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
+                        <event type="death"  when="1890-06-04"  ><ab>1890-06-04</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Nelson County, Kentucky, grocer merchant. Native of Ireland. Grocer merchant in Nelson County, Kentucky in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nelson County, District 1, p. 255.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Stafford McKenna (Birth-Death),&quot; Memorial #44181062, http://www.findagrave.com/memorial/44181062 (accessed July 2, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
