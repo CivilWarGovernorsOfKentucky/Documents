@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,24 @@
                 <person xml:id="N00013002">
                     <persName>
                       Edward Swift Dunster
-                        ()
+                        (Massachusetts soldier and assistant surgeon general U.S. Army)
                     </persName>
+                        <event type="birth"  when="1834-09-02"  ><ab>1834-09-02</ab></event>
+                        <event type="death"  when="1888-05-03"  ><ab>1888-05-03</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Massachusetts soldier and assistant surgeon general U.S. Army. Maine native. Son of Samuel Dunster and Susan Down Dunster. Graduated from Harvard College in 1856 (BA) and 1859 (MA). Graduated from New York College of Medicine and Surgery in March 1859. Married to Rebecca Morgan Sprole Dunster on November 4, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;Edward Swift Dunster,&quot;<hi rend="italic">History of the University of Michigan</hi>pp. 249-250, viewed online athttp://umhistory.dc.umich.edu/history/Faculty<hi rend="italic">History/D/Dunster,</hi>Edward_Swift.html, on July 3, 2020.  
+</bibl></ab>
+    </back>
 </text>
 </TEI>
