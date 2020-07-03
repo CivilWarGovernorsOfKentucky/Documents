@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,7 +44,7 @@
                 <person xml:id="N00013001">
                     <persName>
                       William Alexander Hammond
-                        (soldier and Surgeon General of the U.S. Army)
+                        (Maryland soldier and Surgeon General of the U.S. Army)
                     </persName>
                         <event type="birth"  when="1828-08-28"  ><ab>1828-08-28</ab></event>
                         <event type="death"  when="1900-01-05"  ><ab>1900-01-05</ab></event>
@@ -51,5 +55,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Maryland soldier and Surgeon General of the United States Army. Maryland native. Married to Helen Nisbit Hammonds in 1849. Served in the U.S. Army as assistant surgeon from 1849 to 1860. Chair of the departments of anatomy and physiology at the University of Maryland in 1860. Served in the United State Army as Surgeon General from April 1862 to August 1864, when he was court-marshalled and dismissed from service.</p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;Noted Marylander Dead, Former Surgeon-General Hammond Suddenly Expires,&quot;<hi rend="italic">The Baltimore Sun</hi>(Baltimore, Maryland), January 6, 1900, p. 2.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
