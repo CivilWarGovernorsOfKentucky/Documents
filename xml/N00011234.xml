@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,23 @@
                 <person xml:id="N00011234">
                     <persName>
                       Daniel Flinchum
-                        ()
+                        (Breathitt County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Breathitt County, Kentucky, farmer. North Carolina native. Married to Elizabeth Flinchum. Father of William P. Flinchum, Abram Flinchum, Margarett Flinchum, Daniel Flinchum, Green B. Flinchum, and Franklin P. Flinchum. Farmer in Breathitt County, Kentucky in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breathitt County, District 1, p. 296.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
