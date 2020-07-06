@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013024">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Samuel Davis Sturgis</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013024">
+                    <persName>
+                      Samuel Davis Sturgis
+                        (Brigadier General and Chief of Cavalry for Department of Ohio​)
+                    </persName>
+                        <event type="birth"  when="1822-06-11"  ><ab>1822-06-11</ab></event>
+                        <event type="death"  when="1889-09-28"  ><ab>1889-09-28</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Brigadier General and Chief of Cavalry for the Department of Ohio​. Pennsylvania native. Married to Jerusha Wilcox. Father of Nina J. Sturgis, James G. Sturgis, Ella M. Sturgis, Mary T. Sturgis, and Samuel Davis Sturgis, Jr. Graduate of The United States Military Academy at West Point in 1846. Commissioned as a brevet second lieutenant in the United States Army Corps of Engineers. Served as a lieutenant of dragoons in the Mexican-American War. Promoted to first lieutenant and captain after the war. Selected as Major of the 1st​ Cavalry Regiment​ (U.S.A.) when the Civil War commenced. Promoted to Brigadier General on August 10, 1861. Later served as Chief of Cavalry for the Department of Ohio​ from December 13, 1863 to April 10, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kansas, Leavenworth County, Fort Leavenworth Reservation, p. 196A.
+
+Ezra J. Warner, <hi rend="italic">Generals in Blue: Lives of the Union Commanders</hi> (Baton Rouge: Louisiana State University Press, 1964), 486-487.
+
+John H. &amp; David J. Eicher, <hi rend="italic">Civil War High Commands</hi> (Stanford, CA: Stanford University Press, 2001), 863.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Samuel Davis Sturgis (1822-1889),&quot; Memorial #6522, http://www.findagrave.com/memorial/6522 (accessed July 6, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
