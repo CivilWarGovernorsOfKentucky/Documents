@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00003993">
                     <persName>
                       J. E. Alsop 
-                        (Scott County, Kentucky, magistrate)
+                        (Scott County, Kentucky, magistrate &amp; J.P.)
                     </persName>
-                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
+                        <event type="birth"  when="1817"  ><ab>1817</ab></event>
+                        <event type="death"  when="1896"  ><ab>1896</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Scott County, Kentucky, magistrate. Kentucky native. Married to Sarah A. Alsop. Father of Alex C. Alsop, Caroline S. Alsop, John Alsop, Thomas Alsop, and Letcher Alsop. Magistrate in Scott County in 1860. </p>
+        <p>Scott County, Kentucky, magistrate. Kentucky native. Married to Sarah A. Alsop. Father of Alex C. Alsop, Caroline S. Alsop, John Alsop, Thomas Alsop, and Letcher Alsop. Magistrate in Scott County in 1860. Justice of the peace in Scott County in 1861.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, District 1, p. 62.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, District 1, p. 940.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;James E. Alsop (1817-1896),&quot; Memorial 83096827, https://www.findagrave.com/memorial/83096827 (accessed July 6, 2020).<lb/>
+KYR-0001-020-1557.
 </bibl></ab>
     </back>
 </text>
