@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013023">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Coburn D. Outten</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013023">
+                    <persName>
+                      Coburn D. Outten
+                        (Mason County, Kentucky, tinner and soldier)
+                    </persName>
+                        <event type="birth"  when="1843"  ><ab>1843</ab></event>
+                        <event type="death"  when="1898"  ><ab>1898</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mason County, Kentucky, tinsmith and soldier. Kentucky native. Tinsmith in Maysville, Kentucky, in 1860. Enlisted in the 10th Kentucky Volunteer Cavalry Regiment (U.S.A.) in August 1, 1862. Mustered out of service on September 17, 1863. Enlisted as a private in the 45th Kentucky Volunteer Mounted Infantry Regiment (U.S.A.) on February 2, 1864. Discharged as 2nd Lt. on February 14, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Maysville, p. 350.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0438.
+
+<hi rend="italic">Special Schedules of the Eleventh Census (1890) Enumerating Union Veterans and Widows of Union Veterans of the Civil War</hi>, NARA RG 15, Microfilm Series M123, Kentucky, Mason County, Maysville, p. 8 /17 on microfilm (accessed via Ancestry.com).
+
+<hi rend="italic">Find A Grave</hi>, &quot;Coburn Dewees Outten, Sr (1843-1898),&quot; Memorial #36734971, http://www.findagrave.com/memorial/36734971 (accessed July 6, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
