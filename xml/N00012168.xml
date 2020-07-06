@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">H. B. Innes</title>
+        <title level="a" type="main">Harry B. Innes</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,12 @@
         <particDesc>
                 <person xml:id="N00012168">
                     <persName>
-                      H. B. Innes
+                      Harry B. Innes
                         (Franklin County, Kentucky, farmer )
                     </persName>
-                        <event type="birth"  when="1803"  cert="medium" ><ab>c1803</ab></event>
+                        <event type="birth"  when="1802-11-14"  ><ab>1802-11-14</ab></event>
+                        <event type="death"  when="1881-02-06"  ><ab>1881-02-06</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -50,11 +56,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Franklin County, Kentucky, farmer. Kentucky native. Father of Gabriel Innis, Robert Innis, Permelita Innis, Elizabeth Innis, Susan Innis, Ann M. Innis. Married to Susan E. Innis. Farmer in Franklin County, Kentucky in 1860. Juror in E.H. Parrish ET Al to Thomas E. Bramlette in December 1864.</p>
+        <p>Franklin County, Kentucky, farmer. Kentucky native. Father of Catherine Innes, Hugh Innes, Gabriel S. Innes, Robert Innes, Tabitha A. Innes, Penelope Innes, and Elizabeth Innes. Married to Susan E. Hudson Innis in Franklin County on November 9, 1856. Father of Susan Innes, Ann M. Innes, Eleanor Innes, Sallie Innes, and Margaret Innes .Farmer in Franklin County in 1850. Owned three enslaved persons in Franklin County in 1850. Farmer in Franklin County in 1860. Owned two enslaved persons in Franklin County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 216. KYR-0001-004-1385.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 26A. <lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Franklin County, District 1, p. 5 of 11 of microfilm. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 216. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Franklin County, District 1, p. 485A. <lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Franklin County, Forks of Elkhorn, Enumeration District: 073, p. 219D.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Film #994027-994058: Franklin County Marriages, 1852-1914, p. 10 of 29 of microfilm. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Harry Berowald Innes, Sr. (1802-1881),&quot; Memorial 135932361, https://www.findagrave.com/memorial/135932361 (accessed July 6, 2020).
 </bibl></ab>
     </back>
 </text>
