@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Christopher Ludwick</title>
+        <title level="a" type="main">Christopher C. Ludwick</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00012994">
                     <persName>
-                      Christopher Ludwick
-                        ()
+                      Christopher C. Ludwick
+                        (Nelson County, Kentucky, farmer.)
                     </persName>
+                        <event type="birth"  when="1813-01-27"  ><ab>1813-01-27</ab></event>
+                        <event type="death"  when="1893-09-05"  ><ab>1893-09-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,18 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Nelson County, Kentucky, farmer. Kentucky native. Married to Catherine Jewell Ludwick in Nelson County, Kentucky on February 10, 1840. Father of Henry Ludwick, Steven Ludwick, Ann Ludwick, M. M. Ludwick, Joseph Ludwick, Pitts Ludwick, and John Ludwick. Farmer in Nelson County in 1850. Owned three enslaved persons in Nelson County in 1850. Farmer in Nelson County in 1860. Owned three enslaved persons in Nelson County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Nelson County, District 1, p. 293B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Nelson County, District 1, p. 8.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nelson County, District 1, p. 212.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Nelson County, District 1, p. 116B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Nelson County Marriages, Film #000481507, p. 172 (accessed via ancestry.com).<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;C. Ludwick (27 Jan 1813-5 Sept 1893),&quot; Memorial #52294322, http://www.findagrave.com/memorial/52294322(accessed July 7, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
