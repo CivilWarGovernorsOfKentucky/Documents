@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,6 +44,7 @@
                 <place xml:id="P00013025">
                     <placeName>
                         <location>
+                              <geo>37.9337 -85.3836</geo>
                             <settlement>Fairfield, Kentucky</settlement>
                         </location>
                     </placeName>
@@ -52,5 +57,10 @@
         <p>Town in Nelson County, Kentucky.</p>
 
     </body>
+    <back>
+        <ab><bibl>Robert M. Rennick, <hi rend="italic">Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 1984), <lb/>
+<hi rend="italic">USGS: Earth Explorer</hi>, &quot;Fairfield, Kentucky,&quot; https://earthexplorer.usgs.gov/ (accessed on July 7, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
