@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00012988">
                     <persName>
                       J. J. Tichenor
-                        ()
+                        (Nelson County, Kentucky, farmer.)
                     </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Nelson County, Kentucky, farmer. Farmer in Nelson County, Kentucky in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Nelson County, KY, 1863, p. 489 (Accessed via ancestry.com).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
