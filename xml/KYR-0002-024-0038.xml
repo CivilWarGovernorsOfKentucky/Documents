@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0038"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,11 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p><note place="header">7<hi rend="sup">th</hi> 2</note>
-<lb/>Adjutant General's Office,
-<lb/>Washington, <date when="1865-10-18">October 18th, 1865.</date>
+   <p>Adjutant General's Office,
+<lb/><hi rend="italic">Washington,</hi> <date when="1865-10-18"><hi rend="italic">October 18th, 1865.</hi></date>
 <lb/>To His Excellency,
-<lb/>The Governor of Kentucky,
+<lb/>The Governor of 
+<lb/>Kentucky,
 <lb/>Sir:</p>
 <p>I have the honor to report, that the following named Officers of the Volunteer forces from the State of Kentucky, have been discharged at the dates and for the causes set opposite their respective names, viz:</p>
 <p><table rend="rules">
@@ -72,18 +75,18 @@
 	<cell>Capt.</cell>
 	<cell>W. W. Bacon,</cell>
 	<cell>7" Regiment</cell>
-	<cell><date when="1865-09-18">Sept. 18" 65</date>,</cell>
-	<cell>Resigned honorably,</cell>
+	<cell><date when="1865-09-18">Sept, 18" 65</date>,</cell>
+	<cell>Resigned honorably.</cell>
 </row>
 <row>
 	<cell>1 Lieut.</cell>
-	<cell>William T. Morrow,</cell>
+	<cell>William. T. Morrow,</cell>
 	<cell>28" "</cell>
 	<cell>" " "</cell>
 	<cell>" "</cell>
 </row>
 <row>
-	<cell>Ass't. Surg.</cell>
+	<cell>Ass't, Surg.</cell>
 	<cell>Ed. R. Palmer,</cell>
 	<cell>55" "</cell>
 	<cell><date when="1865-08-12">Aug 12" "</date></cell>
@@ -95,19 +98,19 @@
 <lb/>Your Obedient Servant,
 <lb/>Thomas M. Vincent
 <lb/>Assistant Adjutant General.<pb/></p>
-<p><note place="left margin">No 217</note>
+<p><note place="left margin">No. 217</note>
 <lb/>Adj. Genl Office
 <lb/>Washington
-<lb/><date when="1865-10-18">Oct 18 1865</date><figure type="hr"/>
-<lb/>Vincent Thomas M.
-<lb/>Asst Adj General<figure type="hr"/>
-<lb/><hi rend="underline">To the Gov</hi></p>
-<p>Report The following named officers discharged.
-<lb/>Capt W. W. Bacon 7 Ky <date when="1865-09-18">Sept. 18, 1865</date> Resigned.
-<lb/>1<hi rend="sup">st</hi> Lt W<hi rend="sup">m</hi> Morrow 28 Ky Resigned <date when="1865-09-18">Sep 18 1865</date>.
-<lb/>Asst Surg Ed R Palmer 53 Resigned <date when="1865-08-12">Aug 12 1865</date><figure type="hr"/>
-<lb/><hi rend="underline">Recorded</hi><figure type="hr"/>
-<lb/>Rec<hi rend="sup">d</hi> A G O <date when="1865-10-23">Oct 23 1865</date></p>
+<lb/><date when="1865-10-18">Oct 18 1865</date><figure type="hr"/></p>
+<p>Vincent Thomas M.
+<lb/>Asst Adj General<figure type="hr"/></p>
+<p><hi rend="underline">To the Gov</hi></p>
+<p>Report the following named officers discharged.</p>
+<p>Capt W. W. Bacon 7 Ky <date when="1865-09-18">Sept. 18, 1865</date> Resigned.
+<lb/>1<hi rend="sup">st</hi> Lt W<hi rend="sup">m</hi> T Morrow 28 Ky Resigned <date when="1865-09-18">sep 18 1865</date>.
+<lb/>Asst Surg Ed R Palmer 55 Resigned <date when="1865-08-12">Aug 12 1865</date><figure type="hr"/></p>
+<p><hi rend="underline">Recorded</hi><figure type="hr"/></p>
+<p>Rec<hi rend="sup">d</hi> A G O <date when="1865-10-23">Oct 23 1865</date></p>
   </body>
  </text>
 </TEI>
