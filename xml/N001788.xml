@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN001788">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D<%= entity.ref_id%>">
     <teiHeader>
-      <fileDesc>
-    <titleStmt>
-        <title level="a" type="main">James H. Bridgewater</title>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>James Bartek</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Charles Welsko</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Deborah J. Thompson</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Christina Adkins</name>
-          </respStmt>
-    </titleStmt>
-    <publicationStmt>
-        <publisher>Kentucky Historical Society</publisher>
-        <pubPlace>Frankfort, Kentucky</pubPlace>
-        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
-    </publicationStmt>
-    <seriesStmt>
-        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-        <respStmt>
-            <resp>Project Director</resp>
-            <name>Patrick A. Lewis</name>
-        </respStmt>
-    </seriesStmt>
-    <sourceDesc><ab>Born Digital</ab></sourceDesc>
-</fileDesc>
-
+      <%= render :partial => 'entities/tei_file_desc', :locals => { :entity => entity} %>
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
           <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
@@ -49,37 +15,30 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N001788">
+                <person xml:id="<%= entity.ref_id%>">
                     <persName>
-                      James H. Bridgewater
-                        (Lincoln County, Kentucky, laborer and soldier)
+                      <%= entity.name %>
+                      <% if entity.disambiguator %>
+                        (<%= entity.disambiguator %>)
+                      <% end %>
                     </persName>
-                        <event type="birth"  when="1835"  ><ab>1835</ab></event>
-                        <event type="death"  when="1867-07-18"  ><ab>1867-07-18</ab></event>
-                        <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M"/>
+                    <% unless entity.birth_date.blank? || entity.birth_date == "unknown"%>
+                        <event type="birth" <%= when_clause(entity.birth_date) %> <%= certainty_clause(entity.birth_date) %> ><ab><%= entity.birth_date %></ab></event>
+                    <% end %>
+                    <% unless entity.death_date.blank? || entity.death_date == "unknown"%>
+                        <event type="death" <%= when_clause(entity.death_date) %> <%= certainty_clause(entity.death_date) %> ><ab><%= entity.death_date %></ab></event>
+                    <% end %>
+                    <% if entity.race_descriptions.present? %>
+                      <% entity.race_descriptions.each do |race_description| %>
+                        <trait type="race" subtype="<%= race_description.race_description %>"/>
+                      <% end %>
+                    <% end %>
+                    <% unless entity.gender.blank? %>
+                      <trait type="gender" subtype="<%= Entity::Gender.tei_type(entity.gender) %>"/>
+                    <% end %>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
-    <text>
-    <body>
-        <p>Lincoln County, Kentucky, laborer and soldier. Virginia native. Married to Susan Dawes Bridgewater in Lincoln County in 1854. Father of Volney A. Bridgewater and Sarah H. Bridgewater. Laborer in Lincoln County in 1860. Served in the 3rd Kentucky Volunteer Infantry (U.S.A.) as a second lieutenant from October 8, 1861 to January 7, 1862. Chief of police in Stanford, Kentucky in 1863. Served in the Hall&#39;s Gap Battalion (U.S.A.) as a captain and major from June 1, 1864 to July 27, 1865. </p>
-
-    </body>
-    <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lincoln County, p. 168.
-
-<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Lincoln County Marriages, Film #001904131, p. 207 of microfilm 
-
-<hi rend="italic">Kentucky Birth Records – Microfilm (1847-1911)</hi>, KDLA, Rolls #994027-994058, Lincoln County Births, 1855, p. 3. 
-
-<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 610-11.
-
-<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1867), 192, 910, 958. 
-
-<hi rend="italic">Find A Grave</hi>, &quot;Maj James H. Bridgewater (1835-1867),&quot; Memorial # 82283058, https://www.findagrave.com/memorial/82283058 (accessed May 25, 2018). 
-</bibl></ab>
-    </back>
-</text>
+    <%= render :partial => 'entities/tei_text', :locals => { :entity => entity } %>
 </TEI>
