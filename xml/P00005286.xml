@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00005286">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D<%= entity.ref_id %>">
     <teiHeader>
-      <fileDesc>
-    <titleStmt>
-        <title level="a" type="main">Morgan County, Kentucky</title>
-          <respStmt>
-            <resp n="created">Created by:</resp>
-            <name>Stephen Powell</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>James Bartek</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Deborah J. Thompson</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Charles Welsko</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
-          </respStmt>
-    </titleStmt>
-    <publicationStmt>
-        <publisher>Kentucky Historical Society</publisher>
-        <pubPlace>Frankfort, Kentucky</pubPlace>
-        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
-    </publicationStmt>
-    <seriesStmt>
-        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-        <respStmt>
-            <resp>Project Director</resp>
-            <name>Patrick A. Lewis</name>
-        </respStmt>
-    </seriesStmt>
-    <sourceDesc><ab>Born Digital</ab></sourceDesc>
-</fileDesc>
-
+      <%= render :partial => 'entities/tei_file_desc', :locals => { :entity => entity } %>
         <encodingDesc>
             <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
                 <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
@@ -53,26 +15,18 @@
                 </keywords>
             </textClass>
             <settingDesc>
-                <place xml:id="P00005286">
+                <place xml:id="<%= entity.ref_id%>">
                     <placeName>
                         <location>
-                              <geo>37.9146 -83.2934</geo>
-                            <settlement>Morgan County, Kentucky</settlement>
+                            <% if entity.lat %>
+                              <geo><%= entity.lat %> <%= entity.long %></geo>
+                            <% end %>
+                            <settlement><%= entity.name %></settlement>
                         </location>
                     </placeName>
                 </place> 
             </settingDesc>    
         </profileDesc>
     </teiHeader>
-    <text>
-    <body>
-        <p>County in eastern Kentucky. Seat at West Liberty, Kentucky.</p>
-
-    </body>
-    <back>
-        <ab><bibl>Robert M. Rennick, <hi rend="italic">Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 1988), 202.<lb/>
-<hi rend="italic">USGS: Earth Explorer</hi>, &quot;Morgan County, Kentucky&quot; https://earthexplorer.usgs.gov/ (accessed on April 16, 2020).
-</bibl></ab>
-    </back>
-</text>
+    <%= render :partial => 'entities/tei_text', :locals => { :entity => entity } %>
 </TEI>
