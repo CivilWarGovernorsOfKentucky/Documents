@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011564">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D<%= entity.ref_id%>">
     <teiHeader>
-      <fileDesc>
-    <titleStmt>
-        <title level="a" type="main">Madison Conyers Johnson</title>
-          <respStmt>
-            <resp n="created">Created by:</resp>
-            <name>Deborah J. Thompson</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>James Bartek</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Deborah J. Thompson</name>
-          </respStmt>
-    </titleStmt>
-    <publicationStmt>
-        <publisher>Kentucky Historical Society</publisher>
-        <pubPlace>Frankfort, Kentucky</pubPlace>
-        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
-    </publicationStmt>
-    <seriesStmt>
-        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-        <respStmt>
-            <resp>Project Director</resp>
-            <name>Patrick A. Lewis</name>
-        </respStmt>
-    </seriesStmt>
-    <sourceDesc><ab>Born Digital</ab></sourceDesc>
-</fileDesc>
-
+      <%= render :partial => 'entities/tei_file_desc', :locals => { :entity => entity} %>
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
           <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
@@ -45,45 +15,30 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00011564">
+                <person xml:id="<%= entity.ref_id%>">
                     <persName>
-                      Madison Conyers Johnson
-                        (Fayette County, KY, attorney, bank director, professor, and chair of Transy U trustees)
+                      <%= entity.name %>
+                      <% if entity.disambiguator %>
+                        (<%= entity.disambiguator %>)
+                      <% end %>
                     </persName>
-                        <event type="birth"  when="1806-09-21"  ><ab>1806-09-21</ab></event>
-                        <event type="death"  when="1886-12-07"  ><ab>1886-12-07</ab></event>
-                        <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M"/>
+                    <% unless entity.birth_date.blank? || entity.birth_date == "unknown"%>
+                        <event type="birth" <%= when_clause(entity.birth_date) %> <%= certainty_clause(entity.birth_date) %> ><ab><%= entity.birth_date %></ab></event>
+                    <% end %>
+                    <% unless entity.death_date.blank? || entity.death_date == "unknown"%>
+                        <event type="death" <%= when_clause(entity.death_date) %> <%= certainty_clause(entity.death_date) %> ><ab><%= entity.death_date %></ab></event>
+                    <% end %>
+                    <% if entity.race_descriptions.present? %>
+                      <% entity.race_descriptions.each do |race_description| %>
+                        <trait type="race" subtype="<%= race_description.race_description %>"/>
+                      <% end %>
+                    <% end %>
+                    <% unless entity.gender.blank? %>
+                      <trait type="gender" subtype="<%= Entity::Gender.tei_type(entity.gender) %>"/>
+                    <% end %>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
-    <text>
-    <body>
-        <p>Fayette County, Kentucky, attorney, bank director and university trustee. Fayette County native. Son of Major William Johnson and Elizabeth Payne Johnson. Married to Sallie Ann Clay Johnson on December 23, 1828. Graduated from Transylvania University in 1823. Read law with Martin D. Hardin in Frankfort in 1824. Admitted to the Kentucky bar in 1825. Attorney in Fayette County from 1828 to at least 1865. Member of the Whig party. Owned seven enslaved persons in Fayette County in 1850. Elected to the legislature of the Commonwealth of Kentucky in 1853 and 1857. Member of the board of directors of the Northern Bank of Kentucky from 1837 and president since 1858. Owned thirteen enslaved persons in Fayette County in 1860. Chairman of the board of trustees of Transylvania University in 1865. President of the law department of Kentucky University in 1865.</p>
-
-    </body>
-    <back>
-        <ab><bibl><hi rend="italic">Seventh‌ ‌Manuscript‌ ‌Census‌ ‌of‌ ‌the‌ ‌United‌ ‌States</hi>‌ ‌(1850),‌ ‌Population‌ ‌Schedules,‌ ‌Kentucky,‌ ‌Fayette‌ ‌County,‌ ‌District‌ ‌1,‌ ‌p.‌ ‌145B.‌ ‌<lb/>
- ‌<lb/>
-<hi rend="italic">Seventh‌ ‌Manuscript‌ ‌Census‌ ‌of‌ ‌the‌ ‌United‌ ‌States</hi>‌ ‌(1850),‌ ‌Slave ‌Schedules,‌ ‌Kentucky,‌ ‌Fayette‌ ‌County,‌ ‌District‌ ‌1,‌ ‌p.‌ ‌13 of microfilm.‌ ‌<lb/>
- ‌<lb/>
-<hi rend="italic">Eighth‌ ‌Manuscript‌ ‌Census‌ ‌of‌ ‌the‌ ‌United‌ ‌States</hi>‌ ‌(1860),‌ ‌Population‌ ‌Schedules,‌ ‌Kentucky,‌ ‌Fayette‌ ‌County,‌ ‌Lexington,‌ ‌p.‌ ‌526.‌ ‌
-
-‌<hi rend="italic">Eighth‌ ‌Manuscript‌ ‌Census‌ ‌of‌ ‌the‌ ‌United‌ ‌States</hi>‌ ‌(1860),‌ ‌Slave ‌Schedules,‌ ‌Kentucky,‌ ‌Fayette‌ ‌County,‌ ‌Lexington Ward 1,‌ ‌p.‌ ‌450A (p. 2 of microfilm).‌ ‌<lb/>
- ‌<lb/>
-<hi rend="italic">Ninth‌ ‌Manuscript‌ ‌Census‌ ‌of‌ ‌the‌ ‌United‌ ‌States</hi>‌ ‌(1870),‌ ‌Population‌ ‌Schedules,‌ ‌Kentucky,‌ ‌<lb/>
-Fayette‌ ‌County,‌ ‌Lexington‌ ‌Ward‌ ‌1,‌ ‌p.‌ ‌194B.‌ ‌<lb/>
- ‌<lb/>
-<hi rend="italic">Find‌ ‌A‌ ‌Grave</hi>,‌ ‌&quot;Madison‌ ‌Conyers‌ ‌Johnson‌ ‌(1806-1886),&quot;‌ ‌Memorial‌ ‌‌82208004‌,‌ ‌<lb/>
-https://www.findagrave.com/memorial/82208004‌‌ (accessed‌ ‌December‌ ‌26,‌ ‌2019).‌ ‌<lb/>
- ‌<lb/>
-J.‌ ‌M.‌ ‌Armstrong,‌ ‌<hi rend="italic">The‌ ‌Biographical‌ ‌Encyclopædia‌ ‌of‌ ‌Kentucky‌ ‌of‌ ‌the‌ ‌Dead‌ ‌and‌ ‌Living‌</hi>,‌ ‌<lb/>
-(Cincinnati,‌ ‌Ohio,‌ ‌1878), ‌Volume‌ ‌1,‌ ‌pp.‌ ‌146-47.‌ 
-
-KYR-0001-009-0038.‌ ‌<lb/>
- ‌
-</bibl></ab>
-    </back>
-</text>
+    <%= render :partial => 'entities/tei_text', :locals => { :entity => entity } %>
 </TEI>
