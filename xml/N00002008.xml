@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002008">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D<%= entity.ref_id%>">
     <teiHeader>
-      <fileDesc>
-    <titleStmt>
-        <title level="a" type="main">Alexander Bell Patrick</title>
-          <respStmt>
-            <resp n="created">Created by:</resp>
-            <name>Courtney Buchkoski</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Deborah J. Thompson</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>James N. McAllister</name>
-          </respStmt>
-    </titleStmt>
-    <publicationStmt>
-        <publisher>Kentucky Historical Society</publisher>
-        <pubPlace>Frankfort, Kentucky</pubPlace>
-        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
-    </publicationStmt>
-    <seriesStmt>
-        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-        <respStmt>
-            <resp>Project Director</resp>
-            <name>Patrick A. Lewis</name>
-        </respStmt>
-    </seriesStmt>
-    <sourceDesc><ab>Born Digital</ab></sourceDesc>
-</fileDesc>
-
+      <%= render :partial => 'entities/tei_file_desc', :locals => { :entity => entity} %>
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
           <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
@@ -53,45 +15,30 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00002008">
+                <person xml:id="<%= entity.ref_id%>">
                     <persName>
-                      Alexander Bell Patrick
-                        (Breathitt Co &amp; Cir Ct Clerk, private CSA)
+                      <%= entity.name %>
+                      <% if entity.disambiguator %>
+                        (<%= entity.disambiguator %>)
+                      <% end %>
                     </persName>
-                        <event type="birth"  when="1818-12-17"  ><ab>1818-12-17</ab></event>
-                        <event type="death"  when="1881-05-23"  ><ab>1881-05-23</ab></event>
-                        <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M"/>
+                    <% unless entity.birth_date.blank? || entity.birth_date == "unknown"%>
+                        <event type="birth" <%= when_clause(entity.birth_date) %> <%= certainty_clause(entity.birth_date) %> ><ab><%= entity.birth_date %></ab></event>
+                    <% end %>
+                    <% unless entity.death_date.blank? || entity.death_date == "unknown"%>
+                        <event type="death" <%= when_clause(entity.death_date) %> <%= certainty_clause(entity.death_date) %> ><ab><%= entity.death_date %></ab></event>
+                    <% end %>
+                    <% if entity.race_descriptions.present? %>
+                      <% entity.race_descriptions.each do |race_description| %>
+                        <trait type="race" subtype="<%= race_description.race_description %>"/>
+                      <% end %>
+                    <% end %>
+                    <% unless entity.gender.blank? %>
+                      <trait type="gender" subtype="<%= Entity::Gender.tei_type(entity.gender) %>"/>
+                    <% end %>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
-    <text>
-    <body>
-        <p>Breathitt County, Kentucky, county and circuit clerk and soldier. Madison County, Kentucky, native. Married to Prudence Patrick. Father of Armina C. Patrick, Samuel H. Patrick, James C. Patrick, Amelia Belle Patrick, John M. E. Patrick, and George C. Patrick. Clerk of the Breathitt County Court in Breathitt County from c1850 to 1864. Clerk of the Breathitt Circuit Court in Breathitt County from c1850 to 1864. Owned one enslaved person in Breathitt County in 1850. Owned two enslaved persons in Breathitt County in 1860. Served in the 5th Kentucky Volunteer Infantry Regiment (C.S.A.) as a private from May 10, 1863 to June 30, 1863.</p>
-
-    </body>
-    <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breathitt County, District 1, p. 18B.
-
-<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Breathitt County, District 1, p. 656. 
-
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breathitt County, District No. 1, p. 388. 
-
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Breathitt County, District 1, p. 175, p. 3 of microfilm. 
-
-<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0111. 
-
-“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1861,” in 1862 Kentucky Documents, Legislative Document No. 1. (Frankfort, Ky.: Jno. B. Major, State Printer, 1862), 303-308.
-
-“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1862,” in 1863 Kentucky Documents, Legislative Document No. 24. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1863), 298-306. 
-
-“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1863,” in 1864 Kentucky Documents, Legislative Document No. 10. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1864), 301-306. 
-
-“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1864,” in 1865 Kentucky Documents, Legislative Document No. 1. (Frankfort, Ky.: George D. Prentice, State Printer, 1865), 9-12.
-
-<hi rend="italic">Find A Grave</hi>, &quot;Alexander Bell Patrick (1818-1881),&quot; Memorial #38781868, https://www.findagrave.com/memorial/38781868 (accessed September 18, 2017).
-</bibl></ab>
-    </back>
-</text>
+    <%= render :partial => 'entities/tei_text', :locals => { :entity => entity } %>
 </TEI>
