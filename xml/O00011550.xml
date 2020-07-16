@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00011550">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D<%= entity.ref_id%>">
     <teiHeader>
-      <fileDesc>
-    <titleStmt>
-        <title level="a" type="main">Kentucky University</title>
-          <respStmt>
-            <resp n="created">Created by:</resp>
-            <name>Deborah J. Thompson</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>James Bartek</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Deborah J. Thompson</name>
-          </respStmt>
-    </titleStmt>
-    <publicationStmt>
-        <publisher>Kentucky Historical Society</publisher>
-        <pubPlace>Frankfort, Kentucky</pubPlace>
-        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
-    </publicationStmt>
-    <seriesStmt>
-        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-        <respStmt>
-            <resp>Project Director</resp>
-            <name>Patrick A. Lewis</name>
-        </respStmt>
-    </seriesStmt>
-    <sourceDesc><ab>Born Digital</ab></sourceDesc>
-</fileDesc>
-
+      <%= render :partial => 'entities/tei_file_desc', :locals => { :entity => entity} %>
         <encodingDesc>
             <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
                 <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
@@ -45,27 +15,17 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="O00011550">
-                    <orgName>Kentucky University</orgName>
-                        <event type="begun"  when="1858-02-02"  ><ab>1858-02-02</ab></event>
-                        <event type="ended"  when="1908"  ><ab>1908</ab></event>
+                <org xml:id="<%= entity.ref_id%>">
+                    <orgName><%= entity.name %></orgName>
+                    <% unless entity.birth_date.blank? || entity.birth_date == "unknown"%>
+                        <event type="begun" <%= when_clause(entity.birth_date) %> <%= certainty_clause(entity.birth_date) %> ><ab><%= entity.birth_date %></ab></event>
+                    <% end %>
+                    <% unless entity.death_date.blank? || entity.death_date == "unknown"%>
+                        <event type="ended" <%= when_clause(entity.death_date) %> <%= certainty_clause(entity.death_date) %> ><ab><%= entity.death_date %></ab></event>
+                    <% end %>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
-    <text>
-    <body>
-        <p>Lexington, Kentucky, educational institution associated with the Christian Church (Disciples of Christ). Founded by John Bryan Bowman and chartered by the General Assembly of the Commonwealth of Kentucky, on January 15, 1858. First housed in the former Bacon College building in Harrodsburg from 1858 to 1864. Building destroyed by fire on February 16, 1864. Consolidation of Kentucky University and Transylvania University on February 28, 1865, included creating the Agricultural and Mechanical College of Kentucky as provided under the Morrill Act of 1862. Relocated to the Transylvania University campus in Lexington as a private, sectarian institution. Opened for classes here on October 1, 1866. The College of the Bible, which later became Lexington Theological Seminary, was created within Kentucky University from 1865 to 1873. The Commonwealth&#39;s legislature separated Kentucky University from the Agricultural and Mechanical College in 1878. Kentucky University essentially ceased to exist when the legislature conferred the title of &quot;State University&quot; on the A &amp; M College and the name &quot;Transylvania University&quot; was reclaimed by the private university to eliminate confusion between the two institutions in 1908.</p>
-
-    </body>
-    <back>
-        <ab><bibl>Carl B, Cone, <hi rend="italic">The University of Kentucky: A Pictorial History</hi>, (Lexington: University Press of Kentucky, 1989), 3.<lb/>
-&quot;Kentucky University &quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 515.<lb/>
-John D. Wright, Jr. and Eric H. Christianson, &quot;Transylvania University &quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 894-96.<lb/>
-Carl B. Cone, &quot;University of Kentucky&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 911-12.<lb/>
-James M. Owston, <hi rend="italic">The Early History of Transylvania University: An Archetype of Restoration Movement Institutions of Higher Education</hi>, Marshall University Graduate College, November 19, 1998, http://www.owston.com/papers/transylvania.pdf (accessed on December 26, 2019).<lb/>
-&quot;History,&quot; <hi rend="italic">University of Kentucky</hi>, https://www.uky.edu/uk150/history (accessed January 2, 2020).
-</bibl></ab>
-    </back>
-</text>
+    <%= render :partial => 'entities/tei_text', :locals => { :entity => entity } %>
 </TEI>
