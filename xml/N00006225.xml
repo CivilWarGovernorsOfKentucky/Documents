@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006225">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D<%= entity.ref_id%>">
     <teiHeader>
-      <fileDesc>
-    <titleStmt>
-        <title level="a" type="main">George H. Milliken</title>
-          <respStmt>
-            <resp n="created">Created by:</resp>
-            <name>Samuel T. Whittaker</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
-          </respStmt>
-    </titleStmt>
-    <publicationStmt>
-        <publisher>Kentucky Historical Society</publisher>
-        <pubPlace>Frankfort, Kentucky</pubPlace>
-        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
-    </publicationStmt>
-    <seriesStmt>
-        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-        <respStmt>
-            <resp>Project Director</resp>
-            <name>Patrick A. Lewis</name>
-        </respStmt>
-    </seriesStmt>
-    <sourceDesc><ab>Born Digital</ab></sourceDesc>
-</fileDesc>
-
+      <%= render :partial => 'entities/tei_file_desc', :locals => { :entity => entity} %>
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
           <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
@@ -41,32 +15,30 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006225">
+                <person xml:id="<%= entity.ref_id%>">
                     <persName>
-                      George H. Milliken
-                        (Simpson Couty/Circuit Clerk)
+                      <%= entity.name %>
+                      <% if entity.disambiguator %>
+                        (<%= entity.disambiguator %>)
+                      <% end %>
                     </persName>
-                        <event type="birth"  when="1808"  cert="medium" ><ab>c1808</ab></event>
-                        <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M"/>
+                    <% unless entity.birth_date.blank? || entity.birth_date == "unknown"%>
+                        <event type="birth" <%= when_clause(entity.birth_date) %> <%= certainty_clause(entity.birth_date) %> ><ab><%= entity.birth_date %></ab></event>
+                    <% end %>
+                    <% unless entity.death_date.blank? || entity.death_date == "unknown"%>
+                        <event type="death" <%= when_clause(entity.death_date) %> <%= certainty_clause(entity.death_date) %> ><ab><%= entity.death_date %></ab></event>
+                    <% end %>
+                    <% if entity.race_descriptions.present? %>
+                      <% entity.race_descriptions.each do |race_description| %>
+                        <trait type="race" subtype="<%= race_description.race_description %>"/>
+                      <% end %>
+                    <% end %>
+                    <% unless entity.gender.blank? %>
+                      <trait type="gender" subtype="<%= Entity::Gender.tei_type(entity.gender) %>"/>
+                    <% end %>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
-    <text>
-    <body>
-        <p>Simpson County, Kentucky, county and circuit court clerk. Simpson County native. Married to Sonora J. Vaughn Milliken. Father of Amos Milliken, Phoebe P Milliken, Adalade Milliken, Francis M Milliken, Eliza D. Milliken, and Emma Milliken. Clerk of the Simpson County Court in Simpson County from 1860 to 1865. Clerk of the Simpson Circuit Court in Simpson County from 1860 to 1861. </p>
-
-    </body>
-    <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Simpson County, Franklin, p. 142.<lb/>
-<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7029559, Simpson County Deaths, File #21821.<lb/>
-“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1861,” in 1862 Kentucky Documents, Legislative Document No. 1. (Frankfort, Ky.: Jno. B. Major, State Printer, 1862), 303-308.<lb/>
-“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1862,” in 1863 Kentucky Documents, Legislative Document No. 24. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1863), 298-306. <lb/>
-“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1863,” in 1864 Kentucky Documents, Legislative Document No. 10. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1864), 301-306. <lb/>
-“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1864,” in 1865 Kentucky Documents, Legislative Document No. 1. (Frankfort, Ky.: George D. Prentice, State Printer, 1865), 9-12.<lb/>
-“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1865,” in 1865/66 Kentucky Documents, Legislative Document No. 1. (Frankfort, Ky.: George D. Prentice, State Printer, 1866), 9-12. 
-</bibl></ab>
-    </back>
-</text>
+    <%= render :partial => 'entities/tei_text', :locals => { :entity => entity } %>
 </TEI>
