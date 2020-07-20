@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000778">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D<%= entity.ref_id%>">
     <teiHeader>
-      <fileDesc>
-    <titleStmt>
-        <title level="a" type="main">William Voltaire Loving</title>
-          <respStmt>
-            <resp n="created">Created by:</resp>
-            <name>Courtney Buchkoski</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>James Bartek</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name></name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Hannah M. O&#39;Daniel</name>
-          </respStmt>
-    </titleStmt>
-    <publicationStmt>
-        <publisher>Kentucky Historical Society</publisher>
-        <pubPlace>Frankfort, Kentucky</pubPlace>
-        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
-    </publicationStmt>
-    <seriesStmt>
-        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-        <respStmt>
-            <resp>Project Director</resp>
-            <name>Patrick A. Lewis</name>
-        </respStmt>
-    </seriesStmt>
-    <sourceDesc><ab>Born Digital</ab></sourceDesc>
-</fileDesc>
-
+      <%= render :partial => 'entities/tei_file_desc', :locals => { :entity => entity} %>
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
           <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
@@ -53,41 +15,30 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00000778">
+                <person xml:id="<%= entity.ref_id%>">
                     <persName>
-                      William Voltaire Loving
-                        (Bowling Green, KY, farmer, politician, attorney)
+                      <%= entity.name %>
+                      <% if entity.disambiguator %>
+                        (<%= entity.disambiguator %>)
+                      <% end %>
                     </persName>
-                        <event type="birth"  when="1803-03-22"  ><ab>1803-03-22</ab></event>
-                        <event type="death"  when="1888-09-08"  ><ab>1888-09-08</ab></event>
-                        <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M"/>
+                    <% unless entity.birth_date.blank? || entity.birth_date == "unknown"%>
+                        <event type="birth" <%= when_clause(entity.birth_date) %> <%= certainty_clause(entity.birth_date) %> ><ab><%= entity.birth_date %></ab></event>
+                    <% end %>
+                    <% unless entity.death_date.blank? || entity.death_date == "unknown"%>
+                        <event type="death" <%= when_clause(entity.death_date) %> <%= certainty_clause(entity.death_date) %> ><ab><%= entity.death_date %></ab></event>
+                    <% end %>
+                    <% if entity.race_descriptions.present? %>
+                      <% entity.race_descriptions.each do |race_description| %>
+                        <trait type="race" subtype="<%= race_description.race_description %>"/>
+                      <% end %>
+                    <% end %>
+                    <% unless entity.gender.blank? %>
+                      <trait type="gender" subtype="<%= Entity::Gender.tei_type(entity.gender) %>"/>
+                    <% end %>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
-    <text>
-    <body>
-        <p>Bowling Green, Warren County, Kentucky, attorney, farmer, and politician. Nelson County, Virginia native. Attended the University of Virginia. Married to Amanda M. Graham Loving in January 1829. Father of A. Q. Loving, Hector V. Loving, Willie Loving, John A. Loving, and Laura Loving. Admitted to the bar in 1829. Served in the House of Representatives of the Commonwealth of Kentucky in 1840. Served in the Senate of the Commonwealth of Kentucky from 1841 to 1844. Commonwealth&#39;s Attorney for the Sixth Judicial District from 1845 to 1849. Circuit Judge for the Sixth Judicial District from 1849 to 1850. Farmer in Warren County in 1850. Owned twenty-one enslaved persons in Warren County in 1850. Attorney in Bowling Green in 1860. Owned twenty-three enslaved persons in Warren County in 1860. </p>
-
-    </body>
-    <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Warren County, District 1, p. 36A. 
-
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Warren County, Bowling Green, District 1, p. 150. 
-
-<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Warren County, Bowling Green, p. 91.
-
-<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Warren County, District 1, p. 437.
-
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Warren County, District 1, p. 439B.
-
-M. Secrist, <hi rend="italic">Warren County, Kentucky: History Revealed Through Biographical and Genealogical Sketches of Its Ancestors</hi> (n.p.: Lulu Press, Inc, 2013).
-
-<hi rend="italic">The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi> (Cincinnati, OH: J. M. Armstrong and Company, 1878), p. 279. 
-
-<hi rend="italic">Find A Grave</hi>, &quot;William Voltaire Loving (1803-1888),&quot; Memorial #40270159, https://www.findagrave.com/memorial/40270159 (accessed June 29, 2017).
-</bibl></ab>
-    </back>
-</text>
+    <%= render :partial => 'entities/tei_text', :locals => { :entity => entity } %>
 </TEI>
