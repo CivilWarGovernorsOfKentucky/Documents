@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Joseph H .Wheeler</title>
+        <title level="a" type="main">Joseph T. Wheeler</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +47,10 @@
         <particDesc>
                 <person xml:id="N00012997">
                     <persName>
-                      Joseph H .Wheeler
+                      Joseph T. Wheeler
                         (Cincinnati, Ohio soldier)
                     </persName>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Cincinnati, Ohio soldier. Served in the 1st Kentucky Infantry (U.S.A.) as Captain from. </p>
+        <p>Cincinnati, Ohio soldier. Native of Canada. Married to Alice Wheeler. Father of William E. Wheeler and Samuel J. Wheeler. Farmer in Cincinnati, Ohio in 1860. Served in the 1st Kentucky Infantry (U.S.A.) as Captain from April 29, 1861 to June 15, 1862 when he deserted. Formal resignation from service on October 13, 1862 was accepted. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Hamilton County, Cincinnati Ward 14, p. 436.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 524. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 160. <lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Application #422,709.  
+</bibl></ab>
+    </back>
 </text>
 </TEI>
