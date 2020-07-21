@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0315"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +67,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Madisonville Ky. <date when="1863-11-26">Nov. 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
-<lb/>Frankfort Ky.
-<lb/>Gov -- Bramlett
+   <p><placeName ref="cwgk:P00002614">Madisonville </placeName>Ky. <date when="1863-11-26">Nov. 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky.
+<lb/>Gov -- <persName ref="cwgk:N001000">Bramlett</persName>
 <lb/>Dear Sir</p>
-<p>Jas. T. Lowton was fined at the present term of this court &#36;75. for a failure to post in his room as a Tavern Keeper the rates priced by the county court.</p>
+<p><persName ref="cwgk:N00012217">Jas. T. Lowton</persName> was fined at the present term of this court $75. for a failure to post in his room as a Tavern Keeper the rates priced by the <orgName ref="cwgk:O00000632">county court</orgName>.</p>
 <p>I know M<hi rend="sup">r</hi> Lowton to be an explanry, quiet, and law abdiding citizen and would not knowingly violate, or disregard any of the provisions of the penal statutes</p>
 <p>He made no defence and asks that his case may be emposed of under the circumstances according to the clemency of the laws. If his case is within the range of Executive power I should be pleased, and think the interest of the community would not be impaired, if the fine can be remitted</p>
 <p>Most respectfully
 <lb/>your obdt servt
-<lb/>W P Fowler</p>
+<lb/><persName ref="cwgk:N00006111">W P Fowler</persName></p>
 <p>I concur in the above
-<lb/>Jn<hi rend="sup">o</hi> Barret
-<lb/>Comlths atty -- </p>
+<lb/><persName ref="cwgk:N00006000">Jn<hi rend="sup">o</hi> Barret</persName>
+<lb/><orgName ref="cwgk:O001025">Comlth</orgName>s atty -- </p>
   </body>
  </text>
 </TEI>
