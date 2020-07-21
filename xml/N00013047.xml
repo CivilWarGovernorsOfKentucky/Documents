@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D<%= entity.ref_id%>">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013047">
     <teiHeader>
-      <%= render :partial => 'entities/tei_file_desc', :locals => { :entity => entity} %>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Henry French</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
           <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
@@ -15,30 +45,29 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="<%= entity.ref_id%>">
+                <person xml:id="N00013047">
                     <persName>
-                      <%= entity.name %>
-                      <% if entity.disambiguator %>
-                        (<%= entity.disambiguator %>)
-                      <% end %>
+                      William Henry French
+                        (Dawson, Texas, soldier)
                     </persName>
-                    <% unless entity.birth_date.blank? || entity.birth_date == "unknown"%>
-                        <event type="birth" <%= when_clause(entity.birth_date) %> <%= certainty_clause(entity.birth_date) %> ><ab><%= entity.birth_date %></ab></event>
-                    <% end %>
-                    <% unless entity.death_date.blank? || entity.death_date == "unknown"%>
-                        <event type="death" <%= when_clause(entity.death_date) %> <%= certainty_clause(entity.death_date) %> ><ab><%= entity.death_date %></ab></event>
-                    <% end %>
-                    <% if entity.race_descriptions.present? %>
-                      <% entity.race_descriptions.each do |race_description| %>
-                        <trait type="race" subtype="<%= race_description.race_description %>"/>
-                      <% end %>
-                    <% end %>
-                    <% unless entity.gender.blank? %>
-                      <trait type="gender" subtype="<%= Entity::Gender.tei_type(entity.gender) %>"/>
-                    <% end %>
+                        <event type="birth"  when="1815-01-13"  ><ab>1815-01-13</ab></event>
+                        <event type="death"  when="1881-05-20"  ><ab>1881-05-20</ab></event>
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
-    <%= render :partial => 'entities/tei_text', :locals => { :entity => entity } %>
+    <text>
+    <body>
+        <p>Dawson, Texas soldier. Maryland native. Married to Carolina French. Father of Frank French, William French, Anna French, Frederick French, and Ross French. Graduate of the U.S. Military Academy at West Point, New York on July 1, 1837. Served as Major in the U.S. Army in Dawson, Texas in 1860. Served in the 2nd Artillery (U.S.A.) as major from October 26, 1861 to February 8, 1864. Served in the 4th artillery (U.S.A.) as colonel from February 8, 1864 to July 2, 1877.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Texas, Dawson County, p. 390.<lb/>
+<hi rend="italic">Historical Register and Dictionary of the United States Army, from its Organization, September 29, 1789, to March 2, 1903</hi>viewed on Fold3, p. 437. <lb/>
+&quot;Death of General French,&quot;<hi rend="italic">National Republican</hi>(Washington, District of Columbia), May 21, 1881, p. 1.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;William Henry French (Jan 13, 1815-May 20, 1881),&quot; Memorial #5842136, http://www.findagrave.com/memorial/5842136 (accessed July 8, 2020). 
+</bibl></ab>
+    </back>
+</text>
 </TEI>
