@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D<%= entity.ref_id%>">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006331">
     <teiHeader>
-      <%= render :partial => 'entities/tei_file_desc', :locals => { :entity => entity} %>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Benjamin S. Newton</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
           <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
@@ -15,30 +49,30 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="<%= entity.ref_id%>">
+                <person xml:id="N00006331">
                     <persName>
-                      <%= entity.name %>
-                      <% if entity.disambiguator %>
-                        (<%= entity.disambiguator %>)
-                      <% end %>
+                      Benjamin S. Newton
+                        (Franklin County, Kentucky, farmer)
                     </persName>
-                    <% unless entity.birth_date.blank? || entity.birth_date == "unknown"%>
-                        <event type="birth" <%= when_clause(entity.birth_date) %> <%= certainty_clause(entity.birth_date) %> ><ab><%= entity.birth_date %></ab></event>
-                    <% end %>
-                    <% unless entity.death_date.blank? || entity.death_date == "unknown"%>
-                        <event type="death" <%= when_clause(entity.death_date) %> <%= certainty_clause(entity.death_date) %> ><ab><%= entity.death_date %></ab></event>
-                    <% end %>
-                    <% if entity.race_descriptions.present? %>
-                      <% entity.race_descriptions.each do |race_description| %>
-                        <trait type="race" subtype="<%= race_description.race_description %>"/>
-                      <% end %>
-                    <% end %>
-                    <% unless entity.gender.blank? %>
-                      <trait type="gender" subtype="<%= Entity::Gender.tei_type(entity.gender) %>"/>
-                    <% end %>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
-    <%= render :partial => 'entities/tei_text', :locals => { :entity => entity } %>
+    <text>
+    <body>
+        <p>Franklin County, Kentucky, farmer. Kentucky native. Married to Georgia Ann Church Newton. Father of Sarah C. Newton, William B. Newton, and James R. Newton. Married to Taletha Ann Newton in Franklin County on  May 12, 1853. Father of Joseph Newton, Jasper Newton, Charles P. Newton, and John A. Newton. Farmer in Franklin County in 1850. Farmer in Franklin County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 8A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 181.<lb/>
+ <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, Peaks Mill District, p. 196B. <lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Franklin County, Peaks Mill Precinct, p. 23.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Rolls #994027-994058, Franklin County Marriages, p. 2, p. 4 of 29 of microfilm. 
+</bibl></ab>
+    </back>
+</text>
 </TEI>
