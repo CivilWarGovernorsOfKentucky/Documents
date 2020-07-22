@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[Unknown] Wilson</title>
+        <title level="a" type="main">Elizabeth Akers Wilson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -47,9 +51,11 @@
         <particDesc>
                 <person xml:id="N00006302">
                     <persName>
-                      [Unknown] Wilson
-                        (Wayne Co, VA / WV)
+                      Elizabeth Akers Wilson
+                        (Wayne Co, VA / WV farmer)
                     </persName>
+                        <event type="birth"  when="1829"  cert="medium" ><ab>c1829</ab></event>
+                        <event type="death"  when="1923"  cert="medium" ><ab>c1923</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -58,11 +64,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Wayne County, Virginia and West Virginia resident. Married to James P. Wilson.</p>
+        <p>Wayne County, West Virginia, farmer. Wayne County, Virginia, native. Daughter of John Frasher and Mary Frasher. Married to John Akers. Mother of James W. Wilson, Lewis F. Wilson, Mary Jane Wilson, Burwell Wilson, John F. Wilson, Nathaniel Wilson, and Noah Wilson. Married to James P. Wilson in Wayne County, Virginia, on September 29, 1860. Resident of Wayne County in 1850. Farmer in Wayne County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-1316.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Virginia,  Wayne County, District 66, p. 267A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Virginia,  Wayne County, p. 815.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Lawrence, Decatur Township, p. 251B.<lb/>
+<hi rend="italic">Thirteenth Manuscript Census of the United States</hi> (1910), Population Schedules, West Virginia, Wayne County, Butler, Enumeration District 0181, p. 12.<lb/>
+&quot;West Virginia Marriages, 1780-1970.&quot; Database. FamilySearch. http://FamilySearch.org:19 March 2020. County clerks, West Virginia (accessed July 22, 2020).<lb/>
+&quot;West Virginia Will Books, 1756-1971,&quot; database with images, FamilySearch (https://familysearch.org/ark:/61903/3:1:9392-HRBP-V?cc=1909099&amp;wc=Q8BW-MWJ%3A179687701%2C179701401 : 23 October 2018), Wayne &gt; Will book, v. 001 1843-1852 &gt; image 205 of 260; citing Jackson County Clerk, West Virginia (accessed July 22, 2020).<lb/>
+KYR-0001-004-1316.
 </bibl></ab>
     </back>
 </text>
