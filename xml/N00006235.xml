@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006235">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles W. Milliken</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Samuel T. Whittaker</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006235">
+                    <persName>
+                      Charles W. Milliken
+                        (Simpson Co, KY, attorney)
+                    </persName>
+                        <event type="birth"  when="1827-08-15"  ><ab>1827-08-15</ab></event>
+                        <event type="death"  when="1915-10-16"  ><ab>1915-10-16</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Simpson County, Kentucky, attorney. Calloway County, Kentucky, native. Son of Jesse Milliken and Anne West Milliken. Married to Sally H. Milliken. Father of John H. Milliken. Graduated from Wirt College in Tennessee in 1849. Admitted to the Kentucky bar in 1850. County attorney of Simpson County from 1857 to 1862. Attorney in Simpson County in 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Simpson County, District 1, p. 149.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Simpson County, Franklin, p. 9A.<lb/>
+<hi rend="italic">Biographical Directory of the United States Congress</hi>, &quot;Milliken, Charles William (1827-1915),&quot; http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000768 (accessed May 17, 2017). <lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Kentucky, 3rd Congressional District, Simpson County, Vol. 3 of 3, February 1864, p. 106 of 176 of microfilm), (Accessed via ancestry.com on July 21,  2020).<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1965)</hi>, KDLA, Film 7016178: All Counties, 1915, File #25638, p. 2546 of 3313 of microfilm.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
