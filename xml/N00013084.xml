@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,25 @@
                 <person xml:id="N00013084">
                     <persName>
                       John S. Anderson
-                        ()
+                        (Bath County, Kentucky, soldier)
                     </persName>
+                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Bath County, Kentucky, soldier. Kentucky native. Son of Sanford Anderson and Susan Anderson. Served in the 10th Kentucky Cavalry Regiment (U.S.A.) as private from September 9, 1862, to September 17, 1863. Captured by Colonel R. S. Cluke (C.S.A.) at Mt. Sterling, Kentucky, on March 22, 1863. Paroled at Camp Dennison, Ohio, on May 11, 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath County, District 1, p. 66B.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 253.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0100.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
