@@ -44,8 +44,9 @@
                 <person xml:id="N00013089">
                     <persName>
                       Albert P. Henry
-                        (Kentucky soldier)
+                        (Kentucky soldier, 15th KY cavalry )
                     </persName>
+                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,8 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky soldier. Mentioned in a letter from James B. Gaines to Thomas E. Bramlette written from Smithland, Kentucky on September 22, 1863.</p>
+        <p>Kentucky soldier. Mustered into service as lieutenant colonel in the 15th Kentucky Volunteer Cavalry (U.S.A.) on March 5, 1863. Captured at Spring Creek, Tennessee on June 29, 1863. Exchanged in March 1864.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 393.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
