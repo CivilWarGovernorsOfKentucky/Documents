@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,13 +44,24 @@
                 <person xml:id="N00013095">
                     <persName>
                       Joseph Frisbee
-                        ()
+                        (Kentucky soldier)
                     </persName>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Kentucky soldier. Served in the 7th Kentucky Infantry (U.S.A.) as 4th Sergeant from to January 7, 1863. Served in the 7th Kentucky Infantry (U.S.A.) as 1st Sergeant from January 7, 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 212. <lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Application #262198, Certificate #511915.  
+</bibl></ab>
+    </back>
 </text>
 </TEI>
