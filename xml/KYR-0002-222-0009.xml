@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0009"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Covington <date when="1862-12">December 1862</date>
-<lb/>State of Kentucky
-<lb/>To Kentucky Central Rail Road Co Dr</p>
+   <p><placeName ref="cwgk:P00000936">Covington</placeName> <date when="1862-12">December 1862</date>
+<lb/>State of <orgName ref="cwgk:O001025">Kentucky</orgName>
+<lb/>To <orgName ref="cwgk:O00010032">Kentucky Central Rail Road Co</orgName> Dr</p>
 <p><table rend="rules">
 <row>
 	<cell>Voucher</cell>
 	<cell>For Transportation as follows
-<lb/>For 7<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry</cell>
+<lb/>For <orgName ref="cwgk:O00006342">7<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry</orgName></cell>
 	<cell>Men</cell>
 	<cell>Total Men</cell>
 	<cell>Distance</cell>
@@ -80,7 +88,7 @@
 </row>
 <row>
 	<cell>1</cell>
-	<cell>From Covington to Cynthiana</cell>
+	<cell>From Covington to <placeName ref="cwgk:P00005772">Cynthiana</placeName></cell>
 	<cell>1</cell>
 	<cell/>
 	<cell/>
@@ -180,7 +188,7 @@
 </row>
 <row>
 	<cell>11</cell>
-	<cell>" Demossville " Do</cell>
+	<cell>" <placeName ref="cwgk:P00010031">Demossville</placeName> " Do</cell>
 	<cell>17</cell>
 	<cell/>
 	<cell/>
@@ -200,7 +208,7 @@
 </row>
 <row>
 	<cell>13</cell>
-	<cell>" Falmouth " Do</cell>
+	<cell>" <placeName ref="cwgk:P00000550">Falmouth</placeName> " Do</cell>
 	<cell>2</cell>
 	<cell/>
 	<cell/>
@@ -230,7 +238,7 @@
 </row>
 <row>
 	<cell>16</cell>
-	<cell>" Berry " Covington</cell>
+	<cell>" <placeName ref="cwgk:P00005090">Berry</placeName> " Covington</cell>
 	<cell>2</cell>
 	<cell/>
 	<cell/>
@@ -410,7 +418,7 @@
 </row>
 <row>
 	<cell>34</cell>
-	<cell>" Do " Boyd</cell>
+	<cell>" Do " <placeName ref="cwgk:P00005105">Boyd</placeName></cell>
 	<cell/>
 	<cell>1</cell>
 	<cell>16</cell>
@@ -430,7 +438,7 @@
 </row>
 <row>
 	<cell>36</cell>
-	<cell>" Do " Lair</cell>
+	<cell>" Do " <placeName ref="cwgk:P00010034">Lair</placeName></cell>
 	<cell/>
 	<cell>1</cell>
 	<cell>4</cell>
@@ -440,7 +448,7 @@
 </row>
 <row>
 	<cell>37</cell>
-	<cell>" Do " Paris</cell>
+	<cell>" Do " <placeName ref="cwgk:P00000514">Paris</placeName></cell>
 	<cell/>
 	<cell>1</cell>
 	<cell>14</cell>
@@ -450,7 +458,7 @@
 </row>
 <row>
 	<cell>38</cell>
-	<cell>" Do " Lexington</cell>
+	<cell>" Do " <placeName ref="cwgk:P001002">Lexington</placeName></cell>
 	<cell>2</cell>
 	<cell/>
 	<cell/>
@@ -772,7 +780,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>For 10<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry</cell>
+	<cell>For <orgName ref="cwgk:O00000866">10<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry</orgName></cell>
 	<cell/>
 	<cell/>
 	<cell/>
@@ -832,7 +840,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>For 12<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry</cell>
+	<cell>For <orgName ref="cwgk:O00008591">12<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry</orgName></cell>
 	<cell/>
 	<cell/>
 	<cell/>
@@ -852,7 +860,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>For 14<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry</cell>
+	<cell>For <orgName ref="cwgk:O00005976">14<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry</orgName></cell>
 	<cell/>
 	<cell/>
 	<cell/>
@@ -1064,7 +1072,7 @@
 </row>
 <row>
 	<cell>90</cell>
-	<cell>" Do " Nicholasville</cell>
+	<cell>" Do " <placeName ref="cwgk:P00000278">Nicholasville</placeName></cell>
 	<cell/>
 	<cell>2</cell>
 	<cell>13</cell>
@@ -1120,21 +1128,21 @@
 	<cell/>
 	<cell>14.790</cell>
 	<cell>2 <hi rend="sup">6</hi>/<hi rend="sub">100</hi></cell>
-	<cell>&#36;304 67</cell>
+	<cell>$304 67</cell>
 </row>
 </table></p>
 <p>Approved 
-<lb/>By order of the Governor
-<lb/>Jno W. Finnell
+<lb/>By order of the <persName ref="cwgk:N001000">Governor</persName>
+<lb/><persName ref="cwgk:N00000228">Jno W. Finnell</persName>
 <lb/>Adj Genl Ky Vols</p>
-<p>Received at Frankfort Ky <date when="1863-09-23">Sept 23<hi rend="underline"><hi rend="sup">rd</hi></hi> 1863</date> of S G Suddarth Q<hi rend="sup">r</hi> M Genl of Kenty the Sum of Three Hundred and Four Dollars and Sixty Seven Cents in full of the above account.
-<lb/><hi rend="underline">&#36;304,,67</hi></p>
-<p>A H Ransom Sec
+<p>Received at <placeName ref="cwgk:P00000308">Frankfort <placeName ref="cwgk:P001800">Ky</placeName></placeName> <date when="1863-09-23">Sept 23<hi rend="underline"><hi rend="sup">rd</hi></hi> 1863</date> of <persName ref="cwgk:N00000946">S G Suddarth</persName> Q<hi rend="sup">r</hi> M Genl of Kenty the Sum of Three Hundred and Four Dollars and Sixty Seven Cents in full of the above account.
+<lb/><hi rend="underline">$304,,67</hi></p>
+<p><persName ref="cwgk:N00010033">A H Ransom</persName> Sec
 <lb/>Kentucky Central Rail Road Co</p>
 <p>(Triplicate)<pb/></p>
 <p>No 6 Abstrt U
 <lb/>Ky Central R R Co
-<lb/>&#36;304<hi rend="underline"><hi rend="sup">67</hi></hi>
+<lb/>$304<hi rend="underline"><hi rend="sup">67</hi></hi>
 <lb/>Paid <date when="1863-09-23">Sept 23 1863</date>
 <lb/>A G
 <lb/>Transportation</p>
