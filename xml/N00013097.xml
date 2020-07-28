@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00013097">
                     <persName>
                       William H. Jackson
-                        (Kentucky soldier)
+                        (Laurel County, Kentucky, blacksmith and soldier)
                     </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky soldier. Served in the 3rd Regiment Kentucky Infantry (U.S.A.) as Quartermaster from </p>
+        <p>Laurel County, Kentucky blacksmith and soldier. Kentucky native. Blacksmith in Laurel County, Kentucky in 1860. Served in the 3rd Regiment Kentucky Infantry (U.S.A.) as Quartermaster from February 1, 1862 to June 4, 1863. Served in the 7th Kentucky Infantry (U.S.A.) as 1st Lieutenant from June 4, 1863 to  </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 214. 
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Laurel County, London, p. 0.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 214. 
 </bibl></ab>
     </back>
 </text>
