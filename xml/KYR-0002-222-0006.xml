@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0006"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort <date when="1863-06-02">June 2nd 1863</date></p>
-<p>Genl Finnells Telegraph <unclear>apct</unclear></p>
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1863-06-02">June 2nd 1863</date></p>
+<p><persName ref="cwgk:N00000228">Genl Finnells</persName> Telegraph <unclear>apct</unclear></p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1863-05">May</date></cell>
@@ -74,13 +82,13 @@
 </row>
 <row>
 	<cell><date when="1863-05-01">1</date></cell>
-	<cell>Message to R Taylor Camp <unclear>Denissen</unclear></cell>
+	<cell>Message to <persName ref="cwgk:N00010040">R Taylor</persName> <placeName ref="cwgk:P00001873">Camp <unclear>Denissen</unclear></placeName></cell>
 	<cell>1</cell>
 	<cell>00</cell>
 </row>
 <row>
 	<cell><date when="1863-05-01">"</date></cell>
-	<cell>" " Wickliffe Lex</cell>
+	<cell>" " <persName ref="cwgk:N00000233">Wickliffe</persName> <placeName ref="cwgk:P001002">Lex</placeName></cell>
 	<cell/>
 	<cell>44</cell>
 </row>
@@ -92,13 +100,13 @@
 </row>
 <row>
 	<cell><date when="1863-05-03">3</date></cell>
-	<cell>" " Burnside Cin</cell>
+	<cell>" " Burnside <placeName ref="cwgk:P00001208">Cin</placeName></cell>
 	<cell>1</cell>
 	<cell>98</cell>
 </row>
 <row>
 	<cell><date when="1863-05-05">5</date></cell>
-	<cell>" " Stanton Wash</cell>
+	<cell>" " <persName ref="cwgk:N00002647">Stanton</persName> <placeName ref="cwgk:P00001134">Wash</placeName></cell>
 	<cell>2</cell>
 	<cell>20</cell>
 </row>
@@ -110,7 +118,7 @@
 </row>
 <row>
 	<cell><date when="1863-05-06">6</date></cell>
-	<cell>" " Rosencrans MBoro</cell>
+	<cell>" " <persName ref="cwgk:N00009712">Rosencrans</persName> <placeName ref="cwgk:P00010042">MBoro</placeName></cell>
 	<cell/>
 	<cell>87</cell>
 </row>
@@ -122,13 +130,13 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Todd fr Lexington</cell>
+	<cell>" " <persName ref="cwgk:N00010043">Todd</persName> fr Lexington</cell>
 	<cell/>
 	<cell>44</cell>
 </row>
 <row>
 	<cell/>
-	<cell>" " Boyle- Gov</cell>
+	<cell>" " <persName ref="cwgk:N00000879">Boyle</persName>- Gov</cell>
 	<cell/>
 	<cell>83</cell>
 </row>
@@ -140,37 +148,37 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Harlan fr Genl F</cell>
+	<cell>" " <persName ref="cwgk:N00002635">Harlan</persName> fr Genl F</cell>
 	<cell/>
 	<cell>60</cell>
 </row>
 <row>
 	<cell><date when="1863-05-07">7</date></cell>
-	<cell>" ' Canton Cov</cell>
+	<cell>" ' <placeName ref="cwgk:P00008636">Canton</placeName> <placeName ref="cwgk:P00000936">Cov</placeName></cell>
 	<cell/>
 	<cell>75</cell>
 </row>
 <row>
 	<cell><date when="1863-05-07">"</date></cell>
-	<cell>" " Robinson fr Genl</cell>
+	<cell>" " <persName ref="cwgk:N001004">Robinson</persName> fr Genl</cell>
 	<cell/>
 	<cell>78</cell>
 </row>
 <row>
 	<cell><date when="1863-05-07">"</date></cell>
-	<cell>" " Sullivan Nulle Tho S Page</cell>
+	<cell>" " <persName ref="cwgk:N00010045">Sullivan Nulle</persName> <persName ref="cwgk:N00004216">Tho S Page</persName></cell>
 	<cell/>
 	<cell>87</cell>
 </row>
 <row>
 	<cell><date when="1863-05-08">8</date></cell>
-	<cell>" " Mey MBoro</cell>
+	<cell>" " <persName ref="cwgk:N00010046">Mey</persName> MBoro</cell>
 	<cell>2</cell>
 	<cell>06</cell>
 </row>
 <row>
 	<cell><date when="1863-05-08">"</date></cell>
-	<cell>" " Grigsby fr Cov</cell>
+	<cell>" " <persName ref="cwgk:N00004947">Grigsby</persName> fr Cov</cell>
 	<cell/>
 	<cell>48</cell>
 </row>
@@ -182,13 +190,13 @@
 </row>
 <row>
 	<cell><date when="1863-05-13">13</date></cell>
-	<cell>" " Dougrty Cov</cell>
+	<cell>" " <persName ref="cwgk:N00010047">Dougrty</persName> Cov</cell>
 	<cell/>
 	<cell>69</cell>
 </row>
 <row>
 	<cell><date when="1863-05-13">"</date></cell>
-	<cell>" " Fry,, Washington City</cell>
+	<cell>" " <persName ref="cwgk:N00003045">Fry</persName>,, Washington City</cell>
 	<cell><hi rend="underline">1</hi></cell>
 	<cell>90 ^2154^</cell>
 </row>
@@ -206,13 +214,13 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Peay Louisville</cell>
+	<cell>" " <persName ref="cwgk:N00010048">Peay</persName> <placeName ref="cwgk:P00000337">Louisville</placeName></cell>
 	<cell/>
 	<cell>41</cell>
 </row>
 <row>
 	<cell/>
-	<cell>" " Smyser "</cell>
+	<cell>" " <persName ref="cwgk:N00010049">Smyser</persName> "</cell>
 	<cell/>
 	<cell>71</cell>
 </row>
@@ -230,7 +238,7 @@
 </row>
 <row>
 	<cell><date when="1863-05-18">18</date></cell>
-	<cell>" " Dunlap MB</cell>
+	<cell>" " <persName ref="cwgk:N00010050">Dunlap</persName> MB</cell>
 	<cell>1</cell>
 	<cell>11</cell>
 </row>
@@ -242,7 +250,7 @@
 </row>
 <row>
 	<cell><date when="1863-05-19">19</date></cell>
-	<cell>" ' <unclear>Mllury</unclear>. -- <unclear/> Page</cell>
+	<cell>" ' <unclear><persName ref="cwgk:N00008499">Mllury</persName></unclear>. -- <unclear/> Page</cell>
 	<cell/>
 	<cell>80</cell>
 </row>
@@ -254,13 +262,13 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Weir -- </cell>
+	<cell>" " <persName ref="cwgk:N00001733">Weir</persName> -- </cell>
 	<cell/>
 	<cell>35</cell>
 </row>
 <row>
 	<cell><date when="1863-05-20">" '</date></cell>
-	<cell>Farms</cell>
+	<cell><persName ref="cwgk:N00010051">Farms</persName></cell>
 	<cell>1</cell>
 	<cell>39</cell>
 </row>
@@ -291,7 +299,7 @@
 </table><pb/></p>
 <p>No 11 Abst
 <lb/>Telegraph Company
-<lb/>Dollars &#36;64. <hi rend="sup">16</hi>/<hi rend="sub">100</hi>
+<lb/>Dollars $64. <hi rend="sup">16</hi>/<hi rend="sub">100</hi>
 <lb/>Paid <date when="1863-06-07">June 7<hi rend="sup">th</hi> 1863</date><pb/></p>
 <p><table rend="rules">
 <row>
@@ -302,7 +310,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>" " Moore Lex</cell>
+	<cell>" " <persName ref="cwgk:N00010052">Moore</persName> Lex</cell>
 	<cell/>
 	<cell>82</cell>
 </row>
@@ -332,7 +340,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>" Chipley</cell>
+	<cell>" <persName ref="cwgk:N00010053">Chipley</persName></cell>
 	<cell>1</cell>
 	<cell>14 ^1719^</cell>
 </row>
@@ -362,7 +370,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>" Wilcox "</cell>
+	<cell>" <persName ref="cwgk:N00010041">Wilcox</persName> "</cell>
 	<cell/>
 	<cell>48</cell>
 </row>
@@ -380,13 +388,13 @@
 </row>
 <row>
 	<cell/>
-	<cell>" Bell "</cell>
+	<cell>" <persName ref="cwgk:N00010054">Bell</persName> "</cell>
 	<cell/>
 	<cell>87</cell>
 </row>
 <row>
 	<cell/>
-	<cell>" Burnside "</cell>
+	<cell>" <persName ref="cwgk:N00005702">Burnside</persName> "</cell>
 	<cell/>
 	<cell>83</cell>
 </row>
@@ -428,25 +436,25 @@
 </row>
 <row>
 	<cell><date when="1863-05-28">"</date></cell>
-	<cell>" Lincoln Washn</cell>
+	<cell>" <persName ref="cwgk:N001760">Lincoln</persName> Washn</cell>
 	<cell>2</cell>
 	<cell>80</cell>
 </row>
 <row>
 	<cell><date when="1863-05-28">"</date></cell>
-	<cell>" Adams "</cell>
+	<cell>" <persName ref="cwgk:N00010055">Adams</persName> "</cell>
 	<cell>2</cell>
 	<cell>00</cell>
 </row>
 <row>
 	<cell><date when="1863-05-28">"</date></cell>
-	<cell>" Athey Cov</cell>
+	<cell>" <persName ref="cwgk:N00006228">Athey</persName> Cov</cell>
 	<cell/>
 	<cell>45</cell>
 </row>
 <row>
 	<cell/>
-	<cell>" Tillson Lou</cell>
+	<cell>" <persName ref="cwgk:N00010056">Tillson</persName> Lou</cell>
 	<cell/>
 	<cell>45</cell>
 </row>
@@ -458,7 +466,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>" Tevis "</cell>
+	<cell>" <persName ref="cwgk:N00000232">Tevis</persName> "</cell>
 	<cell/>
 	<cell>49</cell>
 </row>
@@ -488,7 +496,7 @@
 </row>
 <row>
 	<cell/>
-	<cell>" Swope Falmouth</cell>
+	<cell>" <persName ref="cwgk:N00004275">Swope</persName> <placeName ref="cwgk:P00000550">Falmouth</placeName></cell>
 	<cell/>
 	<cell>94</cell>
 </row>
@@ -513,7 +521,7 @@
 </table><pb/></p>
 <p>No 11 Abst
 <lb/>Telegraph Company
-<lb/>Dollars &#36;64.<hi rend="sup">16</hi>/<hi rend="sub">100</hi>
+<lb/>Dollars $64.<hi rend="sup">16</hi>/<hi rend="sub">100</hi>
 <lb/>Paid <date when="1863-06-07">June 7<hi rend="sup">th</hi> 1863</date></p>
   </body>
  </text>
