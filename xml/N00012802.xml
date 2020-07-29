@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[unknown] Bartlet</title>
+        <title level="a" type="main">[Unknown] Bartlet</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00012802">
                     <persName>
-                      [unknown] Bartlet
-                        (Franklin County, Kentucky)
+                      [Unknown] Bartlet
+                        (Franklin County, Kentucky, resident)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +54,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in a petition from Lewis Cheek to Thomas Bramlette in 1863.</p>
+        <p>Mentioned as a resident in Frankfort, Kentucky in a petition from Lewis Cheek in Bourbon County, Kentucky, in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">KYR-0001-004-0302</hi>
+        <ab><bibl>KYR-0001-004-0302.
 </bibl></ab>
     </back>
 </text>
