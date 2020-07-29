@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,11 +46,17 @@
                       Thomas H. Wilson
                         (Kentucky soldier)
                     </persName>
+                        <event type="death"  when="1863-05-16"  ><ab>1863-05-16</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <back>
+        <ab><bibl><hi rend="italic">Case Files of Approved Pension Applications and Other Veterans of the Army and Navy Who Served Mainly in the Civil War and War with Spain, compiled 1861-1934</hi>NARA Catalog ID 300020, Roll WC132433-WC132462.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
