@@ -48,8 +48,9 @@
                 <person xml:id="N00013018">
                     <persName>
                       John Calhoon
-                        (Casey County, Kentucky resident)
+                        (Casey County, Kentucky, farm laborer)
                     </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -58,8 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Casey County, Kentucky resident. Mentioned in a letter written to Thomas E. Bramlette by Joseph Morehead from Louisville, Kentucky on July 2, 1865.</p>
+        <p>Casey County, Kentucky, farm laborer. Kentucky native. Son of William C. Calhoon and Sophia Calhoon. Resident of Casey County, Kentucky in 1850. Farm laborer in Pulaski County, Kentucky in 1860. </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Casey County, District 1, p. 333B. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pulaski County, District 2, p. 63.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
