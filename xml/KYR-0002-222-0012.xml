@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0012"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,8 @@
  <text>
   <body>
    <p>No. 22.<figure type="hr"/>
-<lb/>The State of Kentucky,
-<lb/>To -- W<hi rend="sup">m</hi> H Wagers Dr.</p>
+<lb/>The State of <orgName ref="cwgk:O001025">Kentucky</orgName>,
+<lb/>To -- <persName ref="cwgk:N00009971">W<hi rend="sup">m</hi> H Wagers</persName> Dr.</p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1862">1862</date>.</cell>
@@ -81,18 +89,18 @@
 </row>
 <row>
 	<cell/>
-	<cell>For use 2<hi rend="sup">d</hi> Battalion 14<hi rend="sup">th</hi> Regt Ky Cavalry.</cell>
+	<cell>For use 2<hi rend="sup">d</hi> Battalion <orgName ref="cwgk:O00005976">14<hi rend="sup">th</hi> Regt Ky Cavalry</orgName>.</cell>
 	<cell/>
 	<cell/>
 </row>
 </table></p>
-<p><note place="left margin">Approved 
-<lb/>By order of the Governor
-<lb/>Adjt Genl Ky Vols</note></p>
+<p><note>Approved 
+<lb/>By order of the <persName ref="cwgk:N001000">Governor</persName>
+<lb/>Adjt Genl <orgName ref="cwgk:O00000870">Ky Vols</orgName></note></p>
 <p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
-<p>Jones A Crawford</p>
+<p><persName ref="cwgk:N00009970">Jones A Crawford</persName></p>
 <p>Liut &amp; A Q M 2 &amp; 3 Batt 14 Ky Cav</p>
-<p>Received at Frankfort on, the <hi rend="str">20</hi><hi rend="underline"><hi rend="str"><hi rend="sup">th</hi></hi></hi><date when="1863-10-09">9<hi rend="sup">th</hi> of <hi rend="str">March</hi>Oct, 1863,</date> of John W Finnell Adjutant General, <hi rend="str">Quarter-master</hi> Kentucky Volunteers, the sum of Three Dollars and <gap/> Cents, in full of the above account.</p>
+<p>Received at <placeName ref="cwgk:P00000308">Frankfort</placeName> on, the <hi rend="str">20</hi><hi rend="underline"><hi rend="str"><hi rend="sup">th</hi></hi></hi><date when="1863-10-09">9<hi rend="sup">th</hi> of <hi rend="str">March</hi>Oct, 1863,</date> of <persName ref="cwgk:N00000228">John W Finnell</persName> Adjutant General, <hi rend="str">Quarter-master</hi> Kentucky Volunteers, the sum of Three Dollars and <gap/> Cents, in full of the above account.</p>
 <p>(DUPLICATE.)
 <lb/>William H Wager<pb/></p>
 <p>3.
@@ -105,7 +113,7 @@
 <p>Transportation</p>
 <p>J231</p>
 <p>3
-<lb/>Paid by S G S QMG</p>
+<lb/>Paid by <persName ref="cwgk:N00000946">S G S</persName> QMG</p>
   </body>
  </text>
 </TEI>
