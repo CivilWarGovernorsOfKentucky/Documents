@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00013160">
                     <persName>
                       Nathan Castle
-                        (Johnson County, Kentucky, resident)
+                        (Johnson County, Kentucky, farmer. Killed 1857.)
                     </persName>
+                        <event type="birth"  when="1800"  cert="medium" ><ab>c1800</ab></event>
+                        <event type="death"  when="1857"  ><ab>1857</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +56,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Johnson County, Kentucky, resident. Killed by Jonathan Ward. </p>
+        <p>JFloyd County, Kentucky, and Johnson County, farmer. Virginia native. Married to Sarah Castle. Father of Nancy Castle, James Castle, Elizabeth Castle, Judia Castle, and Jacob Castle. Resident of Floyd County in 1830. Farmer in Floyd County in 1840. Farmer in Johnson County in 1850. Killed by Jonathan Ward in 1857.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0362.
+        <ab><bibl>KYR-0001-004-0362.<lb/>
+KYR-0001-004-0363.
 </bibl></ab>
     </back>
 </text>
