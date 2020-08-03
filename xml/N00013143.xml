@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">V. Vanhoose</title>
+        <title level="a" type="main">Valentine Vanhoose</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00013143">
                     <persName>
-                      V. Vanhoose
+                      Valentine Vanhoose
                         (Johnson County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1798"  ><ab>1798</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer. Virginia native. Married to Jemima Vanhoose. Father of John Vanhoose, Mary Vanhoose, Julina Vanhoose, and Vashti Vanhoose. Farmer in Johnson County in 1850.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County,  p. 111B.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
