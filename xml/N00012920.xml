@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">A. T. Groun</title>
+        <title level="a" type="main">Andrew J. Grow</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Hailey Brangers</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00012920">
                     <persName>
-                      A. T. Groun
+                      Andrew J. Grow
                         (Owen County, Kentucky)
                     </persName>
+                        <event type="birth"  when="1842"  cert="medium" ><ab>c1842</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of George W. Suter in Owen County, Kentucky on November 14, 1863.</p>
+        <p>Shelby County, Kentucky, laborer. Kentucky native. Son of Joshua Grow and Ann Grow. Laborer in Shelby County, Kentucky, in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">KYR-0001-004-0318</hi>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Shelby County, District 2, p. 126.<lb/>
+KYR-0001-004-0318.
 </bibl></ab>
     </back>
 </text>
