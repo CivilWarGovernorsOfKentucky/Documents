@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0329"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Gov. of Ky</p>
-<p>Frank <unclear>Fenchur</unclear>, a good. &amp; Loyal Citizen of Ky was fined. at this <date when="--12"><hi rend="str">D</hi>December term</date> of the Bath Circuit &#36;60. for Keeping a Tippling House.</p>
-<p>He is an old man with a wife &amp; 4 Children and has no property whatever not Even a cow. or bed: Gov. as remit, the fine <date when="1863-12-11">Dc<hi rend="underline"><hi rend="sup">r</hi></hi> 11<hi rend="sup">th</hi> 1863</date>.
+   <p>To the <persName ref="cwgk:N001000">Gov. of Ky</persName></p>
+<p><persName ref="cwgk:N00012592">Frank <unclear>Fenchur</unclear></persName>, a good. &amp; Loyal Citizen of <placeName ref="cwgk:P001800">Ky</placeName> was fined. at this <date when="--12"><hi rend="str">D</hi>December term</date> of the <orgName ref="cwgk:O00000358">Bath Circuit</orgName> $60. for Keeping a Tippling House.</p>
+<p>He is an old man with a <persName ref="cwgk:N00012752">wife</persName> &amp; 4 Children and has no property whatever not Even a cow. or bed: Gov. as remit, the fine <date when="1863-12-11">Dc<hi rend="underline"><hi rend="sup">r</hi></hi> 11<hi rend="sup">th</hi> 1863</date>.
 <lb/><hi rend="str">F</hi></p>
-<p>W<hi rend="underline"><hi rend="sup">m</hi></hi>. Rogers -- Coroner of Bath County &amp; the only witness against
-<lb/>J M Nesbitt
-<lb/>Samuel Ewing
-<lb/>B D Lacy
-<lb/>J J Lightfoot
-<lb/>James Ragland
-<lb/><hi rend="underline">J. H. Richard
-<lb/></hi>W<hi rend="sup">m</hi> Richards</p>
+<p><persName ref="cwgk:N00012711">W<hi rend="underline"><hi rend="sup">m</hi></hi>. Rogers</persName> -- Coroner of <placeName ref="cwgk:P00000478">Bath County</placeName> &amp; the only witness against
+<lb/><persName ref="cwgk:N00007901">J M Nesbitt</persName>
+<lb/><persName ref="cwgk:N00012703">Samuel Ewing</persName>
+<lb/><persName ref="cwgk:N00000476">B D Lacy</persName>
+<lb/><persName ref="cwgk:N00009395">J J Lightfoot</persName>
+<lb/><persName ref="cwgk:N00012702">James Ragland</persName>
+<lb/><persName ref="cwgk:N00012370"><hi rend="underline">J. H. Richard</hi></persName><hi rend="underline">
+<lb/></hi><persName ref="cwgk:N00012369">W<hi rend="sup">m</hi> Richards</persName></p>
 <p><stamp type="postage"/><note place="stamp">X</note><pb/></p>
 <p>Bath County</p>
 <p>Refused
@@ -83,10 +91,10 @@
 <p>F Fenchur ^his X mark^</p>
 <p>Attest
 <lb/>J M Nesbitt</p>
-<p>Owingsville Ky
+<p><placeName ref="cwgk:P00002306">Owingsville Ky</placeName>
 <lb/><date when="1863-12-11">Decr 11<hi rend="sup">th</hi> 1863</date></p>
-<p>To his Excellency The Gov. of Ky
-<lb/>Frankfort,
+<p>To his Excellency The Gov. of <orgName ref="cwgk:O001025">Ky</orgName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>,
 <lb/>Ky</p>
   </body>
  </text>
