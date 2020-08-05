@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Peter Hiatt</title>
+        <title level="a" type="main">James Peter Hiatt</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,30 @@
         <particDesc>
                 <person xml:id="N00013189">
                     <persName>
-                      Peter Hiatt
-                        (Kentucky soldier)
+                      James Peter Hiatt
+                        (Rockcastle County, Kentucky, farmer and soldier)
                     </persName>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Rockcastle County, Kentucky farmer and soldier. Kentucky native. Married to Rebecca Hiatt. Father of Angeline Hiatt and James Hiatt. Farmer in Rockcastle County, Kentucky in 1860.  Served in the 4th Kentucky Infantry (U.S.A.) as Captain from October 9, 1861 to December 9, 1861. Served in the 12th Kentucky Infantry (U.S.A.) as Captain from May 23, 1863 to December 31, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh  Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Rockcastle County, Northern District, p. 210B. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, p. 574. <lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcastle County, District 1, p. 31A. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 183. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 256. <lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Application #480464, Certificate #311104.<lb/>
+  <hi rend="italic">Find A Grave</hi>, &quot;Capt. Peter James Hiatt (1824-unknown),&quot; Memorial #5997889, http://www.findagrave.com/memorial/5997889 (accessed August 5, 2020). 
+</bibl></ab>
+    </back>
 </text>
 </TEI>
