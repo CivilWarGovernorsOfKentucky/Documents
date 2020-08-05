@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013192">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Noah Johnson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013192">
+                    <persName>
+                      Noah Johnson
+                        (Bracken County, Kentucky, farm laborer and soldier)
+                    </persName>
+                        <event type="birth"  when="1835"  ><ab>1835</ab></event>
+                        <event type="death"  when="1920"  ><ab>1920</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Bracken County, Kentucky, farm laborer and soldier. Kentucky native. Son of Lewis Johnson and Hannah A. Johnson. Farm laborer in Brooksville, Bracken County, in 1860. Enlisted in the 40th Kentucky Infantry Regiment (U.S.A.) in Falmouth, Kentucky, on June 6, 1863. Appointed and commissioned as 2nd Lieutenant by Governor Thomas E. Bramlette on June 19, 1863. Resigned on February 6, 1864. Married to Sarah A. Hamilton in Bracken County on March 15, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, Brooksville, p. 217.
+
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Bracken County Marriages, Film #000344095, p. 3.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0433.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Noah Johnson (1835-1920),&quot; Memorial #59697683, http://www.findagrave.com/memorial/59697683 (accessed August 4, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
