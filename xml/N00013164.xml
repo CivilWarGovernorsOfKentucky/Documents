@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,8 @@
                       William Preston
                         (Johnson County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1823-12-20"  ><ab>1823-12-20</ab></event>
+                        <event type="death"  when="1896-01-12"  ><ab>1896-01-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +56,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Johnson County, Kentucky, resident. Signed a petition to Thomas E. Bramlette on behalf of Malinda Ward on December 30, 1863.</p>
+        <p>Johnson County, Kentucky, farmer. Kentucky native. Son of Moses “Coby” Preston, Sr., and Elizabeth Haney Preston. Married to Susan Preston. Father of Martha J. Preston, James H. Preston, Jefferson Preston, Sarah E. Preston, Martin Preston, Sanford Preston, Keenis F. Preston, Lavina Preston, Angelina Preston, and Trinvilla Preston. Farmer in Johnson County in 1850. Farmer in Johnson County in 1860. Farmer in Johnson County in 1863.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County,  p. 110A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County,  p. 210.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County, Toms Creek, p. 208B.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Kentucky, 9th Congressional District, Johnson County, Vol. 2 of 3, October 1863, p. 294, p. 87 of 212 of microfilm), (Accessed via ancestry.com on August 4,  2020).<lb/>
+<hi rend="italic">Find A Grave</hi>, “William Darby Preston (1823-1896),&quot; Memorial 40557161, https://www.findagrave.com/memorial/40557161 (accessed August 5, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
