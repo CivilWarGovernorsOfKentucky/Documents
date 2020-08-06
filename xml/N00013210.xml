@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,7 @@
                       William A. Bullitt
                         (Kentucky soldier)
                     </persName>
+                        <event type="birth"  when="1841"  cert="medium" ><ab>c1841</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,8 +55,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky soldier.</p>
+        <p>Kentucky soldier. Served in the 3rd Kentucky Infantry (U.S.A.) as 1st Lieutenant from September 9, 1862 to January 26, 1863. Served in the 3rd Kentucky Infantry (U.S.A.) as Major from January 27, 1863 to. Lieutenant Colonel from </p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 594. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 171. <lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Application #58,948, Certificate #38,723.  
+</bibl></ab>
+    </back>
 </text>
 </TEI>
