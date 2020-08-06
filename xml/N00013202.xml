@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,6 +46,9 @@
                       Henry P. Merrill
                         (Michigan soldier)
                     </persName>
+                        <event type="birth"  when="1839-03-10"  ><ab>1839-03-10</ab></event>
+                        <event type="death"  when="1891-11-17"  ><ab>1891-11-17</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Michigan soldier. Served in the 22nd Michigan Infantry (U.S.A.) as Private. Served in the 4th Kentucky Infantry (U.S.A.) as Captain from April 21, 1864 to. </p>
+        <p>Michigan soldier. Served in the 22nd Michigan Infantry (U.S.A.) as Private. Served in the 4th Kentucky Infantry (U.S.A.) as Captain from April 21, 1864 to. Taken prisoner of war from July 30, 1864 to. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 186. 
+        <ab><bibl><hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 186. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Henry P. Merrill (Mar 10, 1839-Nov 17, 1891),&quot; Memorial #78611842, http://www.findagrave.com/memorial/78611842 (accessed August 6, 2020). 
 </bibl></ab>
     </back>
 </text>
