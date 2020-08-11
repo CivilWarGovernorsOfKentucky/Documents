@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0102"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,7 +73,7 @@
   <body>
    <p>No. 22.<figure type="hr"/>
 <lb/>The State of Kentucky,
-<lb/>To_ J. H. Graham Opr Dr. </p>
+<lb/>To_ <persName ref="cwgk:N00009972">J. H. Graham</persName> Opr Dr. </p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1864">1864</date>.</cell>
@@ -86,13 +94,13 @@
 	<cell>00</cell>
 </row>
 </table></p>
-<p><note place="left margin">Approved
-<lb/>Tho E Bramlette
-<lb/>Govr</note></p>
+<p><note>Approved
+<lb/><persName ref="cwgk:N001000">Tho E Bramlette
+</persName><lb/>Govr</note></p>
 <p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
-<p>S. G. Suddarth
+<p><persName ref="cwgk:N00000946">S. G. Suddarth</persName>
 <lb/>Quarter-Master Gen. Ky. </p>
-<p>Received at Frankfort, Kentucky, the <date when="1864-06-03">3<hi rend="sup">d</hi> of June, 1864</date>, of S. G. SUDDARTH, Quarter-master General of Kentucky Volunteers, the sum of Thirty Dollars and <gap/> Cents, in full of the above account.
+<p>Received at <placeName ref="cwgk:P00000308">Frankfort</placeName>, <placeName ref="cwgk:P001800">Kentucky</placeName>, the <date when="1864-06-03">3<hi rend="sup">d</hi> of June, 1864</date>, of S. G. SUDDARTH, Quarter-master General of <orgName ref="cwgk:O00000870">Kentucky Volunteers</orgName>, the sum of Thirty Dollars and <gap/> Cents, in full of the above account.
 <lb/>(DUPLICATE.)</p>
 <p>J H Graham <hi rend="str">asst</hi>.<pb/></p>
 <p>464
