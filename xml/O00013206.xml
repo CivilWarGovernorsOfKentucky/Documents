@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main"> 22nd Michigan Volunteer Infantry</title>
+        <title level="a" type="main">22nd Michigan Volunteer Infantry Regiment (U.S.A.)</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Kristen Bailey</name>
@@ -42,19 +46,20 @@
             </textClass>
             <particDesc>
                 <org xml:id="O00013206">
-                    <orgName> 22nd Michigan Volunteer Infantry</orgName>
+                    <orgName>22nd Michigan Volunteer Infantry Regiment (U.S.A.)</orgName>
                         <event type="begun"  when="1862-08-29"  ><ab>1862-08-29</ab></event>
+                        <event type="ended"  when="1865-06-26"  ><ab>1865-06-26</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Michigan Infantry Regiment (U.S.A.). Mustered in at Pontiac, Michigan on August 29, 1862 under Moses Wisner, Colonel. Mustered out at Nashville, Tennessee on June 26, 1865. </p>
+        <p>Mustered in at Pontiac, Michigan on August 29, 1862. Mustered out at Nashville, Tennessee on June 26, 1865. Commander(s): Colonel Moses Wisner. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Record of Service of Michigan Volunteers in the Civil War, 1861-1865, Vol. 22</hi>,pp. 1, 15
+        <ab><bibl><hi rend="italic">Record of Service of Michigan Volunteers in the Civil War, 1861-1865, Vol. 22</hi>, pp. 1, 15.
 </bibl></ab>
     </back>
 </text>
