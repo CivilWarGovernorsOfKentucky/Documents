@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Joseph Kerby</title>
+        <title level="a" type="main">Joseph Kirby</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,7 +43,7 @@
         <particDesc>
                 <person xml:id="N00013228">
                     <persName>
-                      Joseph Kerby
+                      Joseph Kirby
                         (Kentucky soldier)
                     </persName>
                         <trait type="race" subtype="White"/>
@@ -49,5 +53,13 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Kentucky soldier. Served in the 11th Regiment of Kentucky Mounted Infantry (U.S.A.) as Private from October 11, 1863 to December 9, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 834.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
