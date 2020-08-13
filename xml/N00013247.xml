@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013247">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Hugh White Adams</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013247">
+                    <persName>
+                      Hugh White Adams
+                        ()
+                    </persName>
+                        <event type="birth"  when="1843-03-27"  ><ab>1843-03-27</ab></event>
+                        <event type="death"  when="1916-08-06"  ><ab>1916-08-06</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Knox County, Kentucky, merchant and soldier. Kentucky native. Son of George Madison Adams and Amelia White Adams. Nephew of John White, speaker of the United States House of Representatives from 1841 to 1848. Residing in Barbourville, Knox County, in 1850. Household owned ten enslaved persons in 1850. Clerk in Barbourville in 1860. Served in the 7th Kentucky Volunteer Infantry Regiment (U.S.A.) as 1st Lieutenant and Sergeant Major from September 22, 1861 to November 1, 1862. Promoted to Adjutant to regiment on November 1, 1862. Promoted to Major on February 16, 1863. Resigned on August 5, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Knox County, Barbourville, p. 396A.
+
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Knox County, Barbourville, p. 28.
+
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, Lexington Ward 4, p. 351B.
+
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Knox County, Barbourville, p. 1
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0209.
+
+&quot;The Mountain Advocate, 1916-08-18,&quot; <hi rend="italic">Kentucky Digital Newspaper Program</hi>, https://www.newspapers.com/image/71244343/ (accessed August 13, 2020).
+
+<hi rend="italic">Find A Grave</hi>, &quot;Maj Hugh White Adams (1843-1916),&quot; Memorial #15930453, http://www.findagrave.com/memorial/15930453 (accessed August 13, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
