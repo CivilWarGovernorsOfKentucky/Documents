@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,9 @@
                 <person xml:id="N00013249">
                     <persName>
                       James A. Simpson
-                        ()
+                        (Nelson County, Kentucky, apprentice carpenter)
                     </persName>
+                        <event type="birth"  when="1841"  cert="medium" ><ab>c1841</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,9 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky native. Son of Francis Simpson.<lb/>
-Apprentice carpenter in Nelson County, Kentucky, in 1860.</p>
+        <p>Nelson County, Kentucky, apprentice carpenter. Kentucky native. Son of Henry H Simpson and Frances Simpson. Apprentice carpenter in Nelson County, Kentucky, in 1860.</p>
 
     </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville District 2, p. 179B.<lb/>
+ <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nelson County, District 1, p. 255.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
