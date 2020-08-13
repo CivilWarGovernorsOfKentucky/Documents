@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +44,10 @@
                 <person xml:id="N00013154">
                     <persName>
                       John B Auxier
-                        (Johnson County, Kentucky, resident)
+                        (Johnson County, Kentucky, farmer, capt &amp; maj 39th KY Mt Inf)
                     </persName>
+                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
+                        <event type="death"  when="1890"  ><ab>1890</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +56,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Johnson County, Kentucky, resident. Signed a petition to Thomas E. Bramlette on behalf of Malinda Ward on December 30, 1863.</p>
+        <p>Johnson County, Kentucky, farmer and soldier. Kentucky native. Son of Samuel L. Auxier and Rebecca Phillips Auxier. Married to Angelina Auxier. Father of Henrietta Auxier, Benjamin F. Auxier, Rebecca Auxier, and Maria J. Auxier. Married to Mary A. Tilsley Grayson Auxier. Stepfather of John W. Grayson. Father of Sarah C. Auxier, Samuel B. Auxier, Alvin E. Auxier, and Henry J. Auxier. Farmer in Johnson County in 1850. Employed Thomas Auxier as a farmer in Johnson County in 1850. Owned one enslaved person in Johnson County in 1850. Farmer in Johnson County in 1860. Employed James Bae as a farmer in Johnson County in 1860. Served in the 39th Kentucky Mounted Infantry (U.S.A.) as a captain and major from November 18, 1862, to September 15, 1865.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0362.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County,  p. 118B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Johnson County,  p. 100, p. 1 of 1 of microfilm (accessed through Ancestry.com).<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County,  p. 174.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County,  Johns Creek, p. 161B-162A.<lb/>
+National Society of the Daughters of the American Revolution, Lineage Book, Washington, D.C. : NSDAR, 1891-1939, Vol 161: 1920, 186 (p. 188 of 351 of microfilm, accessed through ancestry.com).<lb/>
+<hi rend="italic">Find A Grave</hi>, “John Brown Auxier (1817-1890),&quot; Memorial 69127195, https://www.findagrave.com/memorial/69127195 (accessed August 12, 2020).
 </bibl></ab>
     </back>
 </text>
