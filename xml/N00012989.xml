@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. R. Bodine</title>
+        <title level="a" type="main">Joseph Bodine</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
@@ -43,14 +47,24 @@
         <particDesc>
                 <person xml:id="N00012989">
                     <persName>
-                      J. R. Bodine
-                        ()
+                      Joseph Bodine
+                        (Nelson County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1836"  cert="medium" ><ab>c1836</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Nelson County, Kentucky, farmer. Kentucky native. Son of Alf Bodine and Fannie Bodine. Farmer in Nelson County, Kentucky, in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nelson County, District 1, p. 258.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
