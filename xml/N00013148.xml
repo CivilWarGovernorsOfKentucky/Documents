@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C J Grim</title>
+        <title level="a" type="main">Charles Jefferson &quot;Jeff&quot; Grim</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00013148">
                     <persName>
-                      C J Grim
-                        (Johnson County, Kentucky, resident)
+                      Charles Jefferson &quot;Jeff&quot; Grim
+                        (Johnson County, Kentucky, farmer &amp; soldier CSA)
                     </persName>
+                        <event type="birth"  when="1837-03-22"  ><ab>1837-03-22</ab></event>
+                        <event type="death"  when="1914-11-22"  ><ab>1914-11-22</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +55,18 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer and soldier. Floyd County, Kentucky, native. Son of Charles J. Grim and Elizabeth Grim. Married to Sarah Ann Stambaugh Grim in Johnson County on July 21, 1859. Father of Samuel Grim and Charles J. Grim. Student in Johnson County in 1850. Farmer for father-in-law, Samuel Stambaugh, in Johnson County in 1860. Served in the 5th Kentucky Infantry (C.S.A.) as a private. Farmer in Johnson County in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County,  p. 110B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County,  p. 232.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County,  Hoods Fork, p. 149B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Film #994027-994058, Johnson County Marriages, 1852-1914,  pp. 201-02, p. 9 of 25 of microfilm. <lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Kentucky, 9th Congressional District, Johnson County, Vol. 1 of 3, October 1863, p. 146, p. 149 of 212 of microfilm), (Accessed via ancestry.com on August 13,  2020).<lb/>
+<hi rend="italic">Find A Grave</hi>, “Charles Jefferson “Jeff” Grim (1836-1914),&quot; Memorial 164982967, https://www.findagrave.com/memorial/164982967 (accessed August 13, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
