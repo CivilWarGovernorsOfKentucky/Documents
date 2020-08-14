@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. Miller</title>
+        <title level="a" type="main">James A. Miller</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00012949">
                     <persName>
-                      J. Miller
-                        (Boone County, Kentucky)
+                      James A. Miller
+                        (Boone County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of Vincent Ross in Boone County, Kentucky on November 28, 1863.</p>
+        <p>Boone County, Kentucky, farmer. Kentucky native. Married to Ann Miller. Father of Mary Elizabeth Miller McIntyre, Sally Ann Miller, John H. Miller, Thomas Jefferson Miller, Zachary T. Miller, Charles S. Miller, and Robert I. Miller. Farmer in Boone County, Kentucky, in 1850. Employed Thomas J. McHatten in Boone County in 1850. Farmer in Walton in 1860. Employed John H. Miller in Walton in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">KYR-0001-004-0319</hi>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Boone County, District 2, p. 201B..<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boone County, Walton, p. 455.
 </bibl></ab>
     </back>
 </text>
