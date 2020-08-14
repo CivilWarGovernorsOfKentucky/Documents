@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">M. B. Dixon</title>
+        <title level="a" type="main">Martin B. Dixon</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00013140">
                     <persName>
-                      M. B. Dixon
-                        (Johnson County, Kentucky, clerk)
+                      Martin B. Dixon
+                        (Johnson County, Kentucky, clerk, farmer, possible sgt 68th KY Inf)
                     </persName>
+                        <event type="birth"  when="1805"  cert="medium" ><ab>c1805</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,17 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer. Virginia native. Married to Ruth Ann Dixon. Father of Mary J. Dixon, Edda E. Dixon, John H. Dixon, Isaac B. Dixon, Richard S. Dixon, James M. Dixon, Robert Dixon, Araminta A. Dixon, Sarah B. Dixon, William F. Dixon. Farmer in Johnson County in 1850. Farmer in Johnson County in 1860. Coroner of Johnson County in 1862. Clerk of Johnson County in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County,  p. 84A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County,  p. 204.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County,  Paintsville, p. 177B.<lb/>
+“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1862,” in 1863 Kentucky Documents, Legislative Document No. 24. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1863), 304. <lb/>
+KYR-0001-004-0362.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
