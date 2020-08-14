@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0004-033-0008"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -68,17 +76,17 @@
   <body>
    <p><note place="header">15</note></p>
 <p>Council Chamber
-<lb/>Bowling Green Ky
+<lb/><placeName ref="cwgk:P00000560">Bowling Green</placeName> <placeName ref="cwgk:P001800">Ky</placeName>
 <lb/>Monday <date when="1861-11-25">Novr. 25.<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
-<p>The council met pursuant to adjournment
-<lb/>Hon<hi rend="sup">l</hi>. W. B. Machen President in the Chair<figure type="hr"/></p>
-<p>A communication was received from J. M. Johnson<figure type="hr"/></p>
+<p>The <orgName ref="cwgk:O00011019">council</orgName> met pursuant to adjournment
+<lb/>Hon<hi rend="sup">l</hi>. <persName ref="cwgk:N00000832">W. B. Machen</persName> President in the Chair<figure type="hr"/></p>
+<p>A communication was received from <persName ref="cwgk:N00003952">J. M. Johnson</persName><figure type="hr"/></p>
 <p>Mr Crockett moved the following resolution Towit:
-<lb/>"<hi rend="underline">Be it resolved</hi> that the following standing committees be appointed by the President to consist of three members each- a Committee on Banks, a Committee on Military, a Committee on Ways and means, a Committee on the Judiciary, a Committee on Finance and a Committee on Foreign Relations."
+<lb/>"<hi rend="underline">Be it resolved</hi> that the following standing committees be appointed by the President to consist of three members each- a Committee on Banks, a <orgName ref="cwgk:O00011355">Committee on Military</orgName>, a <orgName ref="cwgk:O00011359">Committee on Ways and mean</orgName>s, a Committee on the Judiciary, a <orgName ref="cwgk:O00011360">Committee on Finance</orgName> and a<orgName ref="cwgk:O00011357"> Committee on Foreign Relations</orgName>."
 <lb/>Which was unanimously adopted.<figure type="hr"/></p>
 <p>And then the Council adjourned. till 2 O'Clock P. M.</p>
 <p>Attest
-<lb/>T. L. Burnett
+<lb/><persName ref="cwgk:N00000838">T. L. Burnett</persName>
  <lb/>Sec.y Pro.tem.<figure type="hr"/></p>
 <p>Council Chamber
 <lb/>Bowling Green Ky.
@@ -88,13 +96,13 @@
 <p>The President constituted the following standing committees in pursuance of the resolution adopted by the Council viz.
 <lb/><table rend="rules">
 <row>
-	<cell>Committee on Banks-</cell>
-	<cell>E. M. Bruce</cell>
+	<cell><orgName ref="cwgk:O00011356">Committee on Banks</orgName>-</cell>
+	<cell><persName ref="cwgk:N00000846">E. M. Bruce</persName></cell>
 	<cell>Chairman</cell>
 </row>
 <row>
 	<cell>"</cell>
-	<cell>P. B. Thompson</cell>
+	<cell><persName ref="cwgk:N00000853">P. B. Thompson</persName></cell>
 	<cell/>
 </row>
 <row>
@@ -112,7 +120,7 @@
 </row>
 <row>
 	<cell>" " "</cell>
-	<cell>J. P. Bates</cell>
+	<cell><persName ref="cwgk:N00000852">J. P. Bates</persName></cell>
 	<cell/>
 </row>
 <row>
@@ -122,7 +130,7 @@
 </row>
 <row>
 	<cell>" " "</cell>
-	<cell>J. W. Moore</cell>
+	<cell><persName ref="cwgk:N00000847">J. W. Moore</persName></cell>
 	<cell/>
 </row>
 <row>
@@ -137,12 +145,12 @@
 </row>
 <row>
 	<cell>" " "</cell>
-	<cell>J. B. Burnside</cell>
+	<cell><persName ref="cwgk:N00011020">J. B. Burnside</persName></cell>
 	<cell/>
 </row>
 <row>
-	<cell><hi rend="underline">Committee on the Judiciary</hi></cell>
-	<cell>J. W. Crockett</cell>
+	<cell><hi><orgName ref="cwgk:O00011358">Committee on the Judiciary</orgName></hi></cell>
+	<cell><persName ref="cwgk:N00000833">J. W. Crockett</persName></cell>
 	<cell>Chairman</cell>
 </row>
 <row>
@@ -157,17 +165,17 @@
 </row>
 <row>
 	<cell><hi rend="underline">Committee on Foreign Relations</hi></cell>
-	<cell>H. W. Bruce</cell>
+	<cell><persName ref="cwgk:N00000843">H. W. Bruce</persName></cell>
 	<cell>Chairman</cell>
 </row>
 <row>
 	<cell>" " "</cell>
-	<cell>Geo. B. Hodge</cell>
+	<cell><persName ref="cwgk:N00000844">Geo. B. Hodge</persName></cell>
 	<cell/>
 </row>
 <row>
 	<cell>" " "</cell>
-	<cell>J. S. Chrisman</cell>
+	<cell><persName ref="cwgk:N00000837">J. S. Chrisman</persName></cell>
 	<cell/>
 </row>
 <row>
@@ -180,18 +188,18 @@
 <lb/><hi rend="underline">Resolved</hi> That a Committee of three be appointed to draft a law fixing the salaries of Auditor, Treasurer, Secretary of State and Clerk of the Council"
 <lb/>Which was adopted.<figure type="hr"/></p>
 <p>The President under said resolution appointed the following Committee Towit. J. W. Crockett Chairman, P. B. Thompson and H. W Bruce.<figure type="hr"/></p>
-<p>On motion the Council proceeded to the election of a clerk which resulted in the election of A. Frank Brown of Bourbon Co.<figure type="hr"/></p>
+<p>On motion the Council proceeded to the election of a clerk which resulted in the election of <persName ref="cwgk:N00001858">A. Frank Brown </persName>of <placeName ref="cwgk:P00000515">Bourbon Co</placeName>.<figure type="hr"/></p>
 <p>On motion of J. W. Crockett the Council went into Executive Session.<figure type="hr"/></p>
 <p>A message from the Governer by <gap/> was received and read as follows. Towit:</p>
 <p>Bowling Green Ky
 <lb/><date when="1861-11-25">Novr 25.<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
 <lb/>W. B. Machen Esq
-<lb/>President of the Council of the Provisional Government of the State of Kentucky
+<lb/>President of the Council of the Provisional Government of the <orgName ref="cwgk:O001025">State of Kentucky</orgName>
 <lb/>Sir</p>
-<p>I have the honor to nominate for the office of Auditor the Hon<hi rend="sup">l.</hi> Richard Hawes and hope the Council may concur in the appointment</p>
+<p>I have the honor to nominate for the office of Auditor the Hon<hi rend="sup">l.</hi> <persName ref="cwgk:N001001">Richard Hawes</persName> and hope the Council may concur in the appointment</p>
 <p>Very Respectfully
 <lb/>Your Obt Serv<hi rend="sup">t</hi>
-<lb/>George W Johnson<figure type="hr"/></p>
+<lb/><persName ref="cwgk:N001002">George W Johnson</persName><figure type="hr"/></p>
 <p>On motion of Mr Crockett the nomination of Hon<hi rend="sup">l</hi>. R. Hawes for Auditor was unanimously Confirmed<figure type="hr"/><pb/>
 <lb/><note place="header">17</note></p>
 <p>The council then resumed its general session</p>
