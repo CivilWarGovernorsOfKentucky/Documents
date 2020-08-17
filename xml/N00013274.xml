@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">William McKensie</title>
+        <title level="a" type="main">William McKenzie</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,28 @@
         <particDesc>
                 <person xml:id="N00013274">
                     <persName>
-                      William McKensie
+                      William McKenzie
                         (Johnson County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1829"  ><ab>1829</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer. Virginia native. Son of James McKenzie and Frances McKenzie. Married to Nancy J. Rice McKenzie in Johnson County on March 4, 1852. Father of Samuel McKenzie, Mary E McKenzie, G. N. McKenzie, John T. McKenzie, William W. McKenzie, and Elsie M. McKenzie. Worked with his father, James McKenzie, as a farmer in Johnson County in 1850. Farmer in Johnson County in 1860.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County,  p. 98A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County,  pp. 252-53.<lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Johnson County, Paintsville, Enumeration District: 043, p. 139D.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Johnson County Marriages, 1843-1875, Film #001912950, p. 128 of 239 of microfilm.<lb/>
+<hi rend="italic">Find A Grave</hi>, “William Jesse McKenzie (1830-1910),&quot; Memorial 136089083, https://www.findagrave.com/memorial/136089083/william-jesse-mckenzie (accessed August 17, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
