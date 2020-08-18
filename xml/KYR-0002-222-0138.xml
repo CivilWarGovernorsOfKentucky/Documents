@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0138"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>8<hi rend="underline"><hi rend="sup">th</hi></hi> Cav
-<lb/>Head Quarters U. S. Forces.
-<lb/>Lebanon Ky. <date when="1863-09-16">Sept 16<hi rend="sup">&#126;</hi> 1863</date>.
-<lb/>Gov T. E. Bramlette
-<lb/>Frankfort Ky.</p>
-<p>I send you enclosed Certificates of Election of officers and organization of four Companies Complete and ask that commissions be issued on them also for G. W. Sweeney as Major. and one for F. P. Bland as Q<hi rend="sup">r</hi>. Master I need the Qr. Master Very much. as I have to Recpt for every thing myself now. I have several other companies that are very nearly full but I wish to get this Bat<hi rend="str">i</hi>alion arms mounted &amp;C. as I have work for them to do and plenty of it</p>
-<p>Could you furnish me ordnance equipments Complete for four Hundred men I will have a full Company in today from Clinton and I learn from men from that part of the Country that guerillas are thick and they have to get their men out in squads. therefore it is very necesary that I should have them Equiped as soon as possible to get the other Companies out that are organizing.</p>
+   <p><orgName ref="cwgk:O00008608">8<hi rend="underline"><hi rend="sup">th</hi></hi> Cav</orgName>
+<lb/>Head Quarters <orgName ref="cwgk:O00001186">U. S. Forces</orgName>.
+<lb/><placeName ref="cwgk:P00002553">Lebanon</placeName> <placeName ref="cwgk:P001800">Ky</placeName>. <date when="1863-09-16">Sept 16<hi rend="sup">~</hi> 1863</date>.
+<lb/>Gov <persName ref="cwgk:N001000">T. E. Bramlette</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky.</p>
+<p>I send you enclosed Certificates of Election of officers and organization of four Companies Complete and ask that commissions be issued on them also for <persName ref="cwgk:N00005760">G. W. Sweeney</persName> as Major. and one for <persName ref="cwgk:N00011652">F. P. Bland</persName> as Q<hi rend="sup">r</hi>. Master I need the Qr. Master Very much. as I have to Recpt for every thing myself now. I have several other companies that are very nearly full but I wish to get this Bat<hi rend="str">i</hi>alion arms mounted &amp;C. as I have work for them to do and plenty of it</p>
+<p>Could you furnish me ordnance equipments Complete for four Hundred men I will have a full Company in today from <placeName ref="cwgk:P00006772">Clinton</placeName> and I learn from men from that part of the Country that guerillas are thick and they have to get their men out in squads. therefore it is very necesary that I should have them Equiped as soon as possible to get the other Companies out that are organizing.</p>
 <p>I have been Set back a great deal by not getting my old men Mustered out the Mustering officer is here<pb/>
 <lb/>and I hope to get them out in a Very few days. when I think I will have no trouble in filling up the Regiment in a Very Short time I would also like to have an Ast Surgeon comd. please write to me what is necessary for me to do to get the arms &amp;C.</p>
 <p>Yours, Very Resply
-<lb/>J W Weatherford
+<lb/><persName ref="cwgk:N00005327">J W Weatherford</persName>
 <lb/>Maj 8<hi rend="sup"> -- </hi>Ky Cav
 <lb/>Comd. Post</p>
   </body>
