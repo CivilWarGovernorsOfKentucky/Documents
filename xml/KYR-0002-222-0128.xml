@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0128"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,19 +72,17 @@
  <text>
   <body>
    <p>SATURDAY, <date when="1864-01-16">JANUARY 16, 1864</date>.</p>
-<p><hi rend="str">John S Burgess
-<lb/>Thos k Brown
-<lb/>George M Neall
-<lb/>Hiram Justice</hi>
-<lb/><hi rend="str">Hiram Lane</hi>
-<lb/><hi rend="str">Guy Bandy</hi>
-<lb/><hi rend="str">John Hughs</hi>
+<p><persName ref="cwgk:N00011682"><hi rend="str">John S Burgess</hi></persName><hi rend="str">
+</hi><persName ref="cwgk:N00011681"><hi rend="str"><lb/>Thos k Brown</hi></persName><hi rend="str"/>
+<lb/><hi><persName ref="cwgk:N00011673">Hiram Lane</persName></hi>
+<lb/><hi><persName ref="cwgk:N00011677">Guy Bandy</persName></hi>
+<lb/><hi><persName ref="cwgk:N00011678">John Hughs</persName></hi>
 <lb/><date when="1864-01-17"><hi rend="str">SUNDAY 17</hi></date>
-<lb/><hi rend="str">John Hacket</hi>
-<lb/><hi rend="str">Wahlen quilin</hi>
-<lb/><hi rend="str">Andrew quilin</hi>
-<lb/><hi rend="str">John j. vannel</hi><figure type="hr"/>
-<lb/><hi rend="str">Lt Humbough
+<lb/><persName ref="cwgk:N00011676"><hi rend="str">John Hacket</hi></persName>
+<lb/><persName ref="cwgk:N00011675"><hi rend="str">Wahlen quilin</hi></persName>
+<lb/><persName ref="cwgk:N00011674"><hi rend="str">Andrew quilin</hi></persName>
+<lb/><persName ref="cwgk:N00011680"><hi rend="str">John j. vannel</hi></persName><figure type="hr"/>
+<lb/><hi><persName ref="cwgk:N00011683">Lt Humbough</persName>
 <lb/><date when="1864-01-18">MONDAY 18</date>
 <lb/><table rend="rules">
 <row>
@@ -95,7 +101,7 @@
 	<cell>70</cell>
 </row>
 <row>
-	<cell>pasage Lexington &amp; Back</cell>
+	<cell>pasage <placeName ref="cwgk:P001002">Lexington</placeName> &amp; Back</cell>
 	<cell>2</cell>
 	<cell>30</cell>
 </row>
@@ -110,10 +116,10 @@
 	<cell>00</cell>
 </row>
 </table></hi><pb/>
-<lb/>Ky C., R. R.,
-<lb/>Covington <date when="1864-07-26">July 26 ^1864^</date></p>
-<p>Recevid of J H Jacobs two dollars fr his pasage to Lexington</p>
-<p>H H Wellman
+<lb/><orgName ref="cwgk:O00010032">Ky C., R. R.,</orgName>
+<lb/><placeName ref="cwgk:P00000936">Covington</placeName> <date when="1864-07-26">July 26 ^1864^</date></p>
+<p>Recevid of <persName ref="cwgk:N00010451">J H Jacobs </persName>two dollars fr his pasage to <placeName ref="cwgk:P001002">Lexington</placeName></p>
+<p><persName ref="cwgk:N00011671">H H Wellman</persName>
 <lb/>Cmd Ky Cen R R</p>
 <p>WEDNESDAY, <date when="1864-01-13">JANUARY 13, 1864</date>.</p>
 <p><date when="1864-01-14">THURSDAY 14</date></p>
