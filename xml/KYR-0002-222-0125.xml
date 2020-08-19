@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0125"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>M<hi rend="underline"><hi rend="sup">c</hi></hi>Ferran &amp; Menefee,
+   <p><orgName ref="cwgk:O00000265">M<hi rend="underline"><hi rend="sup">c</hi></hi>Ferran &amp; Menefee</orgName>,
 <lb/>Commission Merchants, Forwarders &amp; Cotton Factors.
-<lb/>Louisville, <date when="1865-07-08">July 8. 1865</date>
-<lb/>Col. W T Scott
+<lb/><placeName ref="cwgk:P00000337">Louisville</placeName>, <date when="1865-07-08">July 8. 1865</date>
+<lb/><persName ref="cwgk:N00002617">Col. W T Scott</persName>
 <lb/>Dear Will</p>
-<p>I drop you aline to say to you that Mr Triplet is here, he has signed the agreement between him and myself sent down here by you, he requist me to aske Gov- Bramlett to destroy or send to him the agreement which he sent to have filled up- he refuses to sell his remaining interest in the Gun, says he is perfectly willing to defray his proportion of the exspences of any Competent to go to Europe and dispose of it, to the interests of all concerned, he thinks it agood thing, and seems anxious that I should go, I told him frankly that my business was such that I could not leave without great sacrifice, &amp; if I did inerst be paid liberally for my time &amp; <hi rend="str">labor</hi>trouble, which he says he is willing to do, so we parted</p>
+<p>I drop you aline to say to you that <persName ref="cwgk:N00011608">Mr Triplet</persName> is here, he has signed the agreement between him and myself sent down here by you, he requist me to aske <persName ref="cwgk:N001000">Gov- Bramlett</persName> to destroy or send to him the agreement which he sent to have filled up- he refuses to sell his remaining interest in the Gun, says he is perfectly willing to defray his proportion of the exspences of any Competent to go to <placeName ref="cwgk:P00011480">Europe </placeName>and dispose of it, to the interests of all concerned, he thinks it agood thing, and seems anxious that I should go, I told him frankly that my business was such that I could not leave without great sacrifice, &amp; if I did inerst be paid liberally for my time &amp; <hi rend="str">labor</hi>trouble, which he says he is willing to do, so we parted</p>
 <p>Ever Yours
-<lb/><hi rend="underline">R W Bush</hi></p>
+<lb/><persName ref="cwgk:N00011609"><hi rend="underline">R W Bush</hi></persName></p>
   </body>
  </text>
 </TEI>
