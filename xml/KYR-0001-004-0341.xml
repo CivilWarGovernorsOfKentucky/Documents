@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0341"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Elizabethtown Ky
+   <p><placeName ref="cwgk:P00002906">Elizabethtown </placeName><placeName ref="cwgk:P001800">Ky</placeName>
 <lb/><date when="1863-12-31">December 31<hi rend="sup">st</hi> 1863</date>
-<lb/>Hon Tho<hi rend="sup">s</hi>. E. Bramlette;
+<lb/>Hon <persName ref="cwgk:N001000">Tho<hi rend="sup">s</hi>. E. Bramlette</persName>;
 <lb/>Govr of Kentucky.
 <lb/>Dear Sir:</p>
-<p>Some eight months since Wesley a Slave belonging to G. W. Smith, <hi rend="str"><unclear/></hi> accused of burning a barn and incarcerated in our County Jail to await Indictment and trial thereunder. The prejudice vs the boy was so great and so positively expressed and in <hi rend="str">a</hi> such a way as to prevent the holding the opposite opinion, that his Master believed him guilty and would not bail him. He has been twice tried. The first time, the Jury were dispersed by a raid of Guerrillas. The second time a verdict of 200 lashes was returned by the Jury. I desire a remission of part of the punishment say 50 or 100 lashes. The boy justly deserves this favor from Your Honor. The evidence vs him was purely circumstantial frequently conflicting upon Material points, and disclosed the complicity of white men in the crime. The evidence rested upon two setts of tracks -- the first at the burnt barn were almost invisible, the other, at his home, let his foot but he denied <hi rend="str"><unclear/></hi>those in the fields and acknowledged those in the garden- they are contiguous fields -- one of the witnesses swore they were in a line and the same Witness swore on the first trial they were not and would miss each other <unclear/> at either end then- Another swore virtually the same thing on the first trial and on the last they were <hi rend="underline">Zigzag</hi> -- These witnesses had evidently yielded some little though unconciously to ^the prejudice in^ themselves, to<pb/>
-<lb/>the neighborhood. I was the only Lawyer defending the poor negro. Govr Helm &amp; Hon C. G, Wintersmith fortified the prejudice of the neighborhood by their presence in the case and assisted the comlth. Their name and presence and counsel had unusual weight with the Jury -- This is but a slight and cursory but I hope sufficient view to give an idea of the Case and show to you it worthy an exercise of Your executive clemency.</p>
+<p>Some eight months since <persName ref="cwgk:N00012443">Wesley</persName> a Slave belonging to <persName ref="cwgk:N00012441">G. W. Smith</persName>, <hi rend="str"><unclear/></hi> accused of burning a barn and incarcerated in our <orgName ref="cwgk:O00012442">County Jail</orgName> to await Indictment and trial thereunder. The prejudice vs the boy was so great and so positively expressed and in <hi rend="str">a</hi> such a way as to prevent the holding the opposite opinion, that his Master believed him guilty and would not bail him. He has been twice tried. The first time, the Jury were dispersed by a raid of Guerrillas. The second time a verdict of 200 lashes was returned by the Jury. I desire a remission of part of the punishment say 50 or 100 lashes. The boy justly deserves this favor from Your Honor. The evidence vs him was purely circumstantial frequently conflicting upon Material points, and disclosed the complicity of white men in the crime. The evidence rested upon two setts of tracks -- the first at the burnt barn were almost invisible, the other, at his home, let his foot but he denied <hi rend="str"><unclear/></hi>those in the fields and acknowledged those in the garden- they are contiguous fields -- one of the witnesses swore they were in a line and the same Witness swore on the first trial they were not and would miss each other <unclear/> at either end then- Another swore virtually the same thing on the first trial and on the last they were <hi rend="underline">Zigzag</hi> -- These witnesses had evidently yielded some little though unconciously to ^the prejudice in^ themselves, to<pb/>
+<lb/>the neighborhood. I was the only Lawyer defending the poor negro.<persName ref="cwgk:N00000991"> Govr Helm</persName> &amp; Hon <persName ref="cwgk:N00007722">C. G, Wintersmith</persName> fortified the prejudice of the neighborhood by their presence in the case and assisted the comlth. Their name and presence and counsel had unusual weight with the Jury -- This is but a slight and cursory but I hope sufficient view to give an idea of the Case and show to you it worthy an exercise of Your executive clemency.</p>
 <p>I am with great Respect
 <lb/>Your obt Servant
-<lb/><hi rend="underline">Fontaine T. Fox Jr</hi></p>
-<p>Hardin County
+<lb/><persName ref="cwgk:N00002352"><hi rend="underline">Fontaine T. Fox Jr</hi></persName></p>
+<p><placeName ref="cwgk:P00001583">Hardin County</placeName>
 <lb/>Refused</p>
 <p>T E Bramlette</p>
   </body>
