@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0318"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,91 +70,91 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Tho E Bramlette
-<lb/>Governor of the State of Kentucky</p>
-<p>Your petitioners would represent that at the <date when="1860-05">May term 1860</date> of the Owen Circuit The Commonwealth of Kentucky obtained a Judgment against G W Suter under an indictment for "Suffering gaming on his premises" for the Sum of &#36;200<hi rend="underline"><hi rend="sup">00</hi></hi> and costs of the prosecution</p>
+   <p>To his Excellency <persName ref="cwgk:N001000">Tho E Bramlette</persName>
+<lb/>Governor of the State of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>Your petitioners would represent that at the <date when="1860-05">May term 1860</date> of the <orgName ref="cwgk:O00000483">Owen Circuit</orgName> The Commonwealth of Kentucky obtained a Judgment against <persName ref="cwgk:N00012896">G W Suter</persName> under an indictment for "Suffering gaming on his premises" for the Sum of $200<hi rend="underline"><hi rend="sup">00</hi></hi> and costs of the prosecution</p>
 <p>Said judgment has not yet been paid and a capias has been issued thereon under which said Suter is likely to be incarcerated in jail for nonpayment</p>
 <p>We are well acquainted with Mr Suter-- he is a man of limited means with a family dependent on him for a Support-- he is a good citizen and a quiet and law abiding man-- To Compel him to pay this fine would place him and his family in much trouble and we cheerfully say that we consider this a very fit subject for Executive clemency-- We therefore most respectfully ask that said fine may be remitted Given under our hands this <date when="1863-11-14">14<hi rend="sup">th</hi> day of November 1863</date></p>
-<p>J A Duncan<pb/></p>
-<p><milestone unit="column" n="2"/><cb n="1"/><unclear>Corwin</unclear> Claxan
-<lb/>John H. Lawler
-<lb/>W. P. Buen
-<lb/>J B M<hi rend="sup">c</hi>hatten
-<lb/>Joseph <unclear>Rinoele</unclear>
-<lb/>J W. BossEmiser
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> A. Berryman
-<lb/><hi rend="underline">Th N Lindsey</hi>
-<lb/>H, P, Montgomery
-<lb/>P. H. Smith
-<lb/>J M Brown
-<lb/>H C Hanks
-<lb/>W Lowrance
-<lb/>O. <unclear>Bram</unclear>
-<lb/>Jas Haydon
-<lb/>D, Conder.D.M.
-<lb/><hi rend="underline">G.. Garnett</hi>
-<lb/><hi rend="underline">Ed D Hogan</hi> D.C.O.C
-<lb/>G. S Low Master com<hi rend="sup">r</hi> Owen circuit court
-<lb/>J. D. Lellard atto of the court
-<lb/>A J Mason
-<lb/>Ben F. Sidebottom
+<p><persName ref="cwgk:N00003208">J A Duncan</persName><pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00012855"><unclear>Corwin</unclear> Claxan</persName>
+<lb/><persName ref="cwgk:N00012845">John H. Lawler</persName>
+<lb/><persName ref="cwgk:N00012918">W. P. Buen</persName>
+<lb/><persName ref="cwgk:N00012851">J B M<hi rend="sup">c</hi>hatten</persName>
+<lb/><persName ref="cwgk:N00012267">Joseph <unclear>Rinoele</unclear></persName>
+<lb/><persName ref="cwgk:N00012921">J W. BossEmiser</persName>
+<lb/><persName ref="cwgk:N00003212">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> A. Berryman</persName>
+<lb/><hi><persName ref="cwgk:N00002539">Th N Lindsey</persName></hi>
+<lb/><persName ref="cwgk:N00012891">H, P, Montgomery</persName>
+<lb/><persName ref="cwgk:N00012847">P. H. Smith</persName>
+<lb/><persName ref="cwgk:N00012984">J M Brown</persName>
+<lb/><persName ref="cwgk:N00012867">H C Hanks</persName>
+<lb/><persName ref="cwgk:N00012909">W Lowrance</persName>
+<lb/><persName ref="cwgk:N00012913">O. <unclear>Bram</unclear></persName>
+<lb/><persName ref="cwgk:N00012883">Jas Haydon</persName>
+<lb/><persName ref="cwgk:N00012905">D, Conder.D.M.</persName>
+<lb/><hi><persName ref="cwgk:N00012874">G.. Garnett</persName></hi>
+<lb/><persName ref="cwgk:N00012906"><hi rend="underline">Ed D Hogan</hi> D.C.O.C</persName>
+<lb/><persName ref="cwgk:N00012880">G. S Low Master com<hi rend="sup">r</hi> Owen circuit court</persName>
+<lb/><persName ref="cwgk:N00012849">J. D. Lellard atto of the court</persName>
+<lb/><persName ref="cwgk:N00012220">A J Mason</persName>
+<lb/><persName ref="cwgk:N00010681">Ben F. Sidebottom</persName>
 <lb/><unclear/> Todd Depty Sheriff Owen Co
-<lb/>T. W. Staiar
-<lb/>James H Parker Atty of the Court
-<lb/>P, H, Campbell
-<lb/>Issac Jacob
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Hikes
-<lb/>W<hi rend="sup">m</hi> L White
-<lb/>David Crisswell
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Long
-<lb/><cb n="2"/>Geo C Roberts
-<lb/>Jno Mason Brown
-<lb/>D H Hodges
-<lb/>Hiram Smoot
-<lb/>W H Sandford ck owen cir ct
-<lb/>L. Sandford <hi rend="underline">D. C</hi> <hi rend="underline">"</hi> <hi rend="underline">" "</hi>
-<lb/>A B Roberts
-<lb/>G. W. Craddock
-<lb/>A. T. Groun
-<lb/>J. S. Ford
-<lb/>W. Teal
-<lb/>J. T. Roberts
-<lb/>G T Ford
-<lb/>Dennis Sanders
-<lb/>H B Theobald
-<lb/>L Stout
-<lb/>J,, W Forde
-<lb/>B F. Thomas
-<lb/>James Haris.
-<lb/>A Cobb
-<lb/>John Webb<milestone unit="column" n="1"/><pb/>
-<lb/>R. J. Minish
-<lb/>Simeon Raines
-<lb/>G M Newman
-<lb/>Alfred Raisor
-<lb/>Will R Minish.
-<lb/>Daniel Criswell
-<lb/>Geo M Smither
-<lb/>I. M. Rains
-<lb/>Cash Claxon
-<lb/>C, G, Londerlack
-<lb/><hi rend="underline">J,, A,, Suties</hi>
-<lb/>J Y Sargent
-<lb/>T, Wininish
-<lb/>G, W, Cubbage
-<lb/>Jor Thomas
-<lb/>R D Kemper
-<lb/>Jas M Brown
-<lb/>R C Cubbage
-<lb/>T,, J,, Hardin
-<lb/>G. W. Hardin
-<lb/>W,, H,, Vaught
-<lb/>John,, G,, Malcomb
-<lb/>Robert Gandford<pb/></p>
+<lb/><persName ref="cwgk:N00012868">T. W. Staiar</persName>
+<lb/><persName ref="cwgk:N00012841">James H Parker Atty of the Court</persName>
+<lb/><persName ref="cwgk:N00012853">P, H, Campbell</persName>
+<lb/><persName ref="cwgk:N00012838">Issac Jacob</persName>
+<lb/><persName ref="cwgk:N00012922">W<hi rend="underline"><hi rend="sup">m</hi></hi> Hikes</persName>
+<lb/><persName ref="cwgk:N00012875">W<hi rend="sup">m</hi> L White</persName>
+<lb/><persName ref="cwgk:N00012810">David Crisswell</persName>
+<lb/><persName ref="cwgk:N00012831">W<hi rend="underline"><hi rend="sup">m</hi></hi> Long</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00012208">Geo C Roberts</persName>
+<lb/><persName ref="cwgk:N00000924">Jno Mason Brown</persName>
+<lb/><persName ref="cwgk:N00012869">D H Hodges</persName>
+<lb/><persName ref="cwgk:N00012893">Hiram Smoot</persName>
+<lb/><persName ref="cwgk:N00003211">W H Sandford ck owen cir ct</persName>
+<lb/><persName ref="cwgk:N00012210">L. Sandford <hi rend="underline">D. C</hi></persName> <hi rend="underline">"</hi> <hi rend="underline">" "</hi>
+<lb/><persName ref="cwgk:N00012881">A B Roberts</persName>
+<lb/><persName ref="cwgk:N00001597">G. W. Craddock</persName>
+<lb/><persName ref="cwgk:N00012920">A. T. Groun</persName>
+<lb/><persName ref="cwgk:N00012814">J. S. Ford</persName>
+<lb/><persName ref="cwgk:N00012230">W. Teal</persName>
+<lb/><persName ref="cwgk:N00012229">J. T. Roberts</persName>
+<lb/><persName ref="cwgk:N00012887">G T Ford</persName>
+<lb/><persName ref="cwgk:N00012882">Dennis Sanders</persName>
+<lb/><persName ref="cwgk:N00012876">H B Theobald</persName>
+<lb/><persName ref="cwgk:N00012199">L Stout</persName>
+<lb/><persName ref="cwgk:N00012536">J,, W Forde</persName>
+<lb/><persName ref="cwgk:N00012908">B F. Thomas</persName>
+<lb/><persName ref="cwgk:N00012200">James Haris</persName>.
+<lb/><persName ref="cwgk:N00012914">A Cobb</persName>
+<lb/><persName ref="cwgk:N00009177">John Webb</persName><milestone unit="column" n="1"/><pb/>
+<lb/><persName ref="cwgk:N00012878">R. J. Minish</persName>
+<lb/><persName ref="cwgk:N00012805">Simeon Raines</persName>
+<lb/><persName ref="cwgk:N00012907">G M Newman</persName>
+<lb/><persName ref="cwgk:N00012806">Alfred Raisor</persName>
+<lb/><persName ref="cwgk:N00012871">Will R Minish.</persName>
+<lb/><persName ref="cwgk:N00012811">Daniel Criswell</persName>
+<lb/><persName ref="cwgk:N00012832">Geo M Smither</persName>
+<lb/><persName ref="cwgk:N00012912">I. M. Rains</persName>
+<lb/><persName ref="cwgk:N00012833">Cash Claxon</persName>
+<lb/><persName ref="cwgk:N00012898">C, G, Londerlack</persName>
+<lb/><hi><persName ref="cwgk:N00012916">J,, A,, Suties</persName></hi>
+<lb/><persName ref="cwgk:N00012877">J Y Sargent</persName>
+<lb/><persName ref="cwgk:N00012919">T, Wininish</persName>
+<lb/><persName ref="cwgk:N00012870">G, W, Cubbage</persName>
+<lb/><persName ref="cwgk:N00012910">Jor Thomas</persName>
+<lb/><persName ref="cwgk:N00012812">R D Kemper</persName>
+<lb/><persName ref="cwgk:N00004775">Jas M Brown</persName>
+<lb/><persName ref="cwgk:N00012844">R C Cubbage</persName>
+<lb/><persName ref="cwgk:N00012852">T,, J,, Hardin</persName>
+<lb/><persName ref="cwgk:N00012836">G. W. Hardin</persName>
+<lb/><persName ref="cwgk:N00012900">W,, H,, Vaught</persName>
+<lb/><persName ref="cwgk:N00012854">John,, G,, Malcomb</persName>
+<lb/><persName ref="cwgk:N00012834">Robert Gandford</persName><pb/></p>
 <p>Owen Cir Ct
 <lb/>vs
 <lb/>G. W. Suter
-<lb/>&#36;200.</p>
+<lb/>$200.</p>
 <p>Prayer of Pet granted
 <lb/><hi rend="str">Rejected</hi>
 <lb/>Remit except fees &amp; costs
