@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0350"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,19 +70,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>To Thomas E Bramlett Govenor of the Commonwealth of Kentucky</p>
-<p>Your Petitioner Phillip Williams would most respectfully represent. that at the <date when="1858-03">March Term of the Bath Circuit Court 1858</date>.. the Commonwealth recovered two Judgments against your petitioner for &#36;20. each for gameing= Your petitioner would state that the "<hi rend="underline">Commonwealth</hi> <hi rend="underline">is</hi> <hi rend="underline">better</hi> able to <hi rend="underline">lose</hi> <hi rend="underline">that</hi> <hi rend="underline">amount</hi>, than he is to pay it, and he would state that he has long since quit betting, and he prays your excellency to remit said fines- and He will ever pray &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
-<p>V. B. Young C. B. C. C
-<lb/>B D Lacy
-<lb/>N, P. Reid.
-<lb/>John Miller
-<lb/>Robert Coulthard
-<lb/>B F Trumbo
-<lb/>George Cayle
-<lb/>Jos S Swetnam
-<lb/>J A Trumbo
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Fadeley
-<lb/>W F, Atkinson<pb/></p>
+   <p>To <persName ref="cwgk:N001000">Thomas E Bramlett</persName> Govenor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName></p>
+<p>Your Petitioner <persName ref="cwgk:N00012433">Phillip Williams</persName> would most respectfully represent. that at the <date when="1858-03">March Term of the </date><orgName ref="cwgk:O00000358"><date when="1858-03">Bath Circuit Court</date></orgName><date when="1858-03"> 1858</date>.. the Commonwealth recovered two Judgments against your petitioner for $20. each for gameing= Your petitioner would state that the "<hi rend="underline">Commonwealth</hi> <hi rend="underline">is</hi> <hi rend="underline">better</hi> able to <hi rend="underline">lose</hi> <hi rend="underline">that</hi> <hi rend="underline">amount</hi>, than he is to pay it, and he would state that he has long since quit betting, and he prays your excellency to remit said fines- and He will ever pray &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
+<p><persName ref="cwgk:N00003130">V. B. Young</persName> C. B. C. C
+<lb/><persName ref="cwgk:N00000476">B D Lacy</persName>
+<lb/><persName ref="cwgk:N00012439">N, P. Reid</persName>.
+<lb/><persName ref="cwgk:N00010471">John Miller</persName>
+<lb/><persName ref="cwgk:N00010472">Robert Coulthard</persName>
+<lb/><persName ref="cwgk:N00012431">B F Trumbo</persName>
+<lb/><persName ref="cwgk:N00010475">George Cayle</persName>
+<lb/><persName ref="cwgk:N00011152">Jos S Swetnam</persName>
+<lb/><persName ref="cwgk:N00012440">J A Trumbo</persName>
+<lb/><persName ref="cwgk:N00012432">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Fadeley</persName>
+<lb/><persName ref="cwgk:N00012434">W F, Atkinson</persName><pb/></p>
 <p>Bath Cir Court</p>
 <p>Remit except costs &amp; fees -- and hand to Judge Trumbo</p>
 <p>Tho E Bramlette</p>
@@ -82,7 +90,7 @@
 <lb/>P. Williams
 <lb/><date when="1863-12-03">3<hi rend="sup">d</hi> Dec 1863</date>
 <lb/>Gaming
-<lb/>&#36;20,</p>
+<lb/>$20,</p>
   </body>
  </text>
 </TEI>
