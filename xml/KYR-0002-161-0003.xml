@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-161-0003"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,14 +73,14 @@
   <body>
    <p><note place="header">6</note></p>
 <p><date when="1865-02-10">February 10<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>5</date>
-<lb/>Isaac A. Cardwell
-<lb/>Irvine, Ky.
+<lb/><persName ref="cwgk:N00009410">Isaac A. Cardwell</persName>
+<lb/><placeName ref="cwgk:P00005642">Irvine</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>.
 <lb/>Sir</p>
-<p>Yours addressed to M<hi rend="sup">r</hi> Van Winkle has been referred to this office for answer.</p>
+<p>Yours addressed to <persName ref="cwgk:N001777">M<hi rend="sup">r</hi> Van Winkle</persName> has been referred to this office for answer.</p>
 <p>In reply, would state that application should have been made, to be mustered as soon as the Commission was recieved, and when he was mustered should have made apparent, so as to have been mustered back.</p>
 <p>We have no control of the matter.</p>
 <p>Very Respectfully
-<lb/>D. W. Lindsey
+<lb/><persName ref="cwgk:N00000873">D. W. Lindsey</persName>
 <lb/>Insp &amp; Adjt Gen Ky</p>
   </body>
  </text>
