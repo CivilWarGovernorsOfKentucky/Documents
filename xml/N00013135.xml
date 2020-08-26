@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">T S Williams</title>
+        <title level="a" type="main">Thomas S. Williams</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00013135">
                     <persName>
-                      T S Williams
+                      Thomas S. Williams
                         (Johnson County, Kentucky, resident)
                     </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +54,16 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer. Johnson County, Kentucky, native. Married to Malissa Stafford Williams in Johnson County on July 15, 1856. Father of John D. Williams, Warwick Williams, and Milton Williams. Farmer in Johnson County in 1860. Farmer in Johnson County in 1863</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County,  p. 154.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County,  Hoods Fork, p. 143A-B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Film #994027-994058: Johnson County Marriages, p. 5 of 25 of microfilm.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Kentucky, 9th Congressional District, Johnson County, Vol. 2 of 3, October 1863, p. 408, p. 200 of 212 of microfilm), (Accessed via ancestry.com on August 20,  2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
