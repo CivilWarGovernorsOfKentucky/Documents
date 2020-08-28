@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0354"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,8 +70,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>I hereby State that for Several days Previous to the Setting of the last Circuit court. I did not Expect to be present at its Sitting, and Told Jerry Haner that I would not. be there as my business <hi rend="str">of</hi> was of Such a <hi rend="str">character</hi> charactor, that I did not think I could go but contrary to my expectation, I did go and was the only witness present, and all that I stated was that I Saw <hi rend="str">that</hi>the Boy Jack going from the house of said Haner with whiskey Given under my hand this <date when="1863-12-05">5<hi rend="sup">th</hi> day of Dec 1863</date></p>
-<p>M. V. Sinclair</p>
+   <p>I hereby State that for Several days Previous to the Setting of the last <orgName ref="cwgk:O00000576">Circuit court</orgName>. I did not Expect to be present at its Sitting, and Told <persName ref="cwgk:N00012425">Jerry Haner</persName> that I would not. be there as my business <hi rend="str">of</hi> was of Such a <hi rend="str">character</hi> charactor, that I did not think I could go but contrary to my expectation, I did go and was the only witness present, and all that I stated was that I Saw <hi rend="str">that</hi>the Boy <persName ref="cwgk:N00012426">Jack </persName>going from the house of said Haner with whiskey Given under my hand this <date when="1863-12-05">5<hi rend="sup">th</hi> day of Dec 1863</date></p>
+<p><persName ref="cwgk:N00012424">M. V. Sinclair</persName></p>
   </body>
  </text>
 </TEI>
