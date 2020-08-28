@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0352"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,39 +71,39 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excellency, Thomas E Bramlette, Governor of Kentucky.</p>
-<p>Your petitioner Isaac Sharrow would show unto your excellency that at the <date when="1856-08">August term of the Garrard Circuit Court 1856</date>. he was fined &#36;50. upon a charge of assault &amp; battery -- Now your petitioner states that he used no knives or deadly weapons, and if he could have attended the trial he could have shown that he was a peacemaker instead of a violator of the law; but your petitioners health was such that he could not attend the trial, and in this way was fined -- </p>
-<p>Your petitioner states that he will be Sixty five years old the <date when="--03-08">8<hi rend="sup">th</hi> day of March</date> next, and has a very sickly wife, most of the time in bed, and unable to aid him by way of making a living. That he has a home, but with his farm and all he can do, he is not able to gain a support; and if it were not for the help of his boys in the army, he could not make a support. That he has <hi rend="underline">Seven</hi> sons and grand-sons in the Union army, all of whom were reared by him. That he has <hi rend="underline">Thirty two</hi> close relations fighting for the Union- That <hi rend="underline">Three</hi> of his sons were in the battle of <hi rend="underline">Chickamauga</hi>, and he does not know whether they were killed or not.</p>
-<p>He hopes that all will be right, but if necessary, old as he is, he will go into the service sooner than this Government shall fail.</p>
+   <p>To his excellency, <persName ref="cwgk:N001000">Thomas E Bramlette</persName>, Governor of Kentucky.</p>
+<p>Your petitioner <persName ref="cwgk:N00012430">Isaac Sharrow</persName> would show unto your excellency that at the <date when="1856-08">August term of the </date><placeName ref="cwgk:P001011"><date when="1856-08">Garrard</date></placeName><date when="1856-08"> Circuit Court 1856</date>. he was fined $50. upon a charge of assault &amp; battery -- Now your petitioner states that he used no knives or deadly weapons, and if he could have attended the trial he could have shown that he was a peacemaker instead of a violator of the law; but your petitioners health was such that he could not attend the trial, and in this way was fined -- </p>
+<p>Your petitioner states that he will be Sixty five years old the <date when="--03-08">8<hi rend="sup">th</hi> day of March</date> next, and has a very sickly <persName ref="cwgk:N00013332">wife</persName>, most of the time in bed, and unable to aid him by way of making a living. That he has a home, but with his farm and all he can do, he is not able to gain a support; and if it were not for the help of his boys in the army, he could not make a support. That he has <hi rend="underline">Seven</hi> sons and grand-sons in the Union army, all of whom were reared by him. That he has <hi rend="underline">Thirty two</hi> close relations fighting for the Union- That <hi rend="underline">Three</hi> of his sons were in the battle of <placeName ref="cwgk:P00009726"><hi rend="underline">Chickamauga</hi></placeName>, and he does not know whether they were killed or not.</p>
+<p>He hopes that all will be right, but if necessary, old as he is, he will go into the service sooner than this <orgName ref="cwgk:O00002945">Government</orgName> shall fail.</p>
 <p>Your petitioner would respectfully ask your Excellency<pb/>
-<lb/>to remit this fine, as it would break him up to pay it, and the Commonwealth will not be injured by the remission of the same.</p>
+<lb/>to remit this fine, as it would break him up to pay it, and the <orgName ref="cwgk:O001025">Commonwealth</orgName> will not be injured by the remission of the same.</p>
 <p>Sworn to before me by Isaac Sharrow this <date when="1863-12-12">12<hi rend="sup">th</hi> day of December 1863</date>.</p>
 <p>Isaac ^his X mark^ Sharrow
-<lb/>W. D. Hopper clerk
-<lb/>Garrard Circuit Court</p>
+<lb/><persName ref="cwgk:N00012429">W. D. Hopper</persName> clerk
+<lb/><orgName ref="cwgk:O00000386">Garrard Circuit Court</orgName></p>
 <p>We whose names are here to annexed are acquainted with Isaac Sharrow, and have been for many years and take pleasure in signing his petition, and hope your Excellency will remit the fine -- </p>
 <p>I have no personal acquaintance with Isaac Sharrow but from the affidvit made &amp; sign his petition</p>
-<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">L. R M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Murtry</hi>
-<lb/>John Watson
-<lb/><cb n="2"/>John Owsley
-<lb/>R L Lusk
-<lb/>W C Bailey
-<lb/>W<hi rend="sup">m</hi> H. Kinnard
-<lb/>John J Huffman
-<lb/>Jas. A. Anderson County Atty
-<lb/>W H Wherritt clk G. C. C
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00012456"><hi rend="underline">L. R M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Murtry</hi></persName>
+<lb/><persName ref="cwgk:N00012462">John Watson</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00012461">John Owsley</persName>
+<lb/><persName ref="cwgk:N00012455">R L Lusk</persName>
+<lb/><persName ref="cwgk:N00012458">W C Bailey</persName>
+<lb/><persName ref="cwgk:N00012457">W<hi rend="sup">m</hi> H. Kinnard</persName>
+<lb/><persName ref="cwgk:N00012459">John J Huffman</persName>
+<lb/><persName ref="cwgk:N00012454">Jas. A. Anderson</persName> County Atty
+<lb/><persName ref="cwgk:N00012428">W H Wherritt</persName> clk G. C. C
 <lb/>W D Hopper clk. Gar. cir court<milestone unit="column" n="1"/></p>
 <p>I am not personally acquainted with Isaac Sharrow but from the affidavit made and statement of others most cherfully endorse the petition</p>
-<p>N. Sandifer <hi rend="underline">Judge</hi> <hi rend="underline">Garrard</hi> <hi rend="underline">Co</hi>.<pb/></p>
+<p><persName ref="cwgk:N00004743">N. Sandifer</persName> <hi rend="underline">Judge</hi> <hi rend="underline">Garrard</hi> <hi rend="underline">Co</hi>.<pb/></p>
 <p>Garrard Cir Ct
 <lb/>vs
 <lb/>Isaac Sharrow
-<lb/>&#36;50</p>
+<lb/>$50</p>
 <p>Remit all except fees &amp; costs &amp; let Mr VanWinkle do as he pleases</p>
 <p>Tho E Bramlette</p>
 <p><date when="1863-12-18">18<hi rend="sup">th</hi> Dec/63</date>
 <lb/>I release my part as atty of the comth</p>
-<p>E L VanWinkle</p>
+<p><persName ref="cwgk:N001777">E L VanWinkle</persName></p>
 <p>Assault</p>
   </body>
  </text>
