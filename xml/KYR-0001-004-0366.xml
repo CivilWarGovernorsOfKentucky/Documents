@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0366"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,13 +70,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>G. W. Doneghy
-<lb/>Sheriff Boyle County</p>
+   <p><persName ref="cwgk:N00012448">G. W. Doneghy</persName>
+<lb/>Sheriff <placeName ref="cwgk:P00002353">Boyle County</placeName></p>
 <p>Revenue <date when="1862">1862</date>
 <lb/><table rend="rules">
 <row>
 	<cell>Amt of Judgment for Principal</cell>
-	<cell>&#36;4.329.97</cell>
+	<cell>$4.329.97</cell>
 </row>
 <row>
 	<cell>" " D<hi rend="sup">o</hi> " Damages</cell>
@@ -77,16 +85,16 @@
 </table>
 <lb/>Paid in full except Damages 
 <lb/><date when="1863-12-16">Decr 16<hi rend="sup">th</hi> 1863</date></p>
-<p>Att C. Bailey 
+<p>Att<persName ref="cwgk:N00002894"> C. Bailey</persName> 
 <lb/><hi rend="underline">Asst Aud</hi><pb/></p>
-<p>Franklin Cir Ct
+<p><orgName ref="cwgk:O00000376">Franklin Cir Ct</orgName>
 <lb/>vs
 <lb/>G. W Doneghy
 <lb/>Remit damages
 <lb/>Tho E Bramlette
 <lb/>Shff
 <lb/>Damages
-<lb/>&#36;865.<hi rend="underline"><hi rend="sup">99</hi></hi>
+<lb/>$865.<hi rend="underline"><hi rend="sup">99</hi></hi>
 <lb/><date when="1863-12-22">22<hi rend="sup">d</hi> Dec/ 63</date></p>
   </body>
  </text>
