@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0306"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,13 +70,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Henry Lucas
-<lb/>Sheriff M<hi rend="sup">c</hi>Lean County &amp; Sureties
+   <p><persName ref="cwgk:N00013260">Henry Lucas</persName>
+<lb/>Sheriff <placeName ref="cwgk:P00005946">M<hi rend="sup">c</hi>Lean County</placeName> &amp; Sureties
 <lb/>Revenue <date when="1861">1861</date></p>
 <p><table rend="rules">
 <row>
 	<cell>Amt of Judgment for Principal</cell>
-	<cell>&#36;2.556.97</cell>
+	<cell>$2.556.97</cell>
 </row>
 <row>
 	<cell>" " " " Damages</cell>
@@ -77,18 +85,18 @@
 </table></p>
 <p>Paid in full except Damages <date when="1863-11-05">Novr 5<hi rend="sup">th</hi> 1863</date></p>
 <p>Attest
-<lb/>C. Bailey
+<lb/><persName ref="cwgk:N00002894">C. Bailey</persName>
 <lb/><hi rend="underline">Asst Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi><pb/></p>
-<p>M<hi rend="sup">c</hi>Lean Cir Ct
+<p><orgName ref="cwgk:O00000433">M<hi rend="sup">c</hi>Lean Cir Ct</orgName>
 <lb/>vs
 <lb/>H. Lucas Shff
 <lb/>Damages</p>
 <p>Remit Damages
-<lb/>Bramlette Go<hi rend="underline"><hi rend="sup">vr</hi></hi></p>
-<p>&#36;511.<hi rend="sup">39</hi>
+<lb/><persName ref="cwgk:N001000">Bramlette</persName> Go<hi rend="underline"><hi rend="sup">vr</hi></hi></p>
+<p>$511.<hi rend="sup">39</hi>
 <lb/>Remitted
 <lb/><date when="1863-11-05">5<hi rend="sup">th</hi> Nov/ 63</date></p>
-<p></p>
+<p/>
   </body>
  </text>
 </TEI>
