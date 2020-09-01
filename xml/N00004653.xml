@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. Bell</title>
+        <title level="a" type="main">Richard Bell</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +51,12 @@
         <particDesc>
                 <person xml:id="N00004653">
                     <persName>
-                      R. Bell
-                        (stub, trimble county)
+                      Richard Bell
+                        (Trimble County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1819"  ><ab>1819</ab></event>
+                        <event type="death"  when="1896"  ><ab>1896</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +64,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of Levi S. Baker in c1863.</p>
+        <p>Trimble County, Kentucky, farmer. Kentucky native. Married to Mary Jane Bell. Father of Bettie Bell. Farmer in Trimble County, Kentucky in 1860. Owned one enslaved person in Trimble County in 1860. Farmer in Trimble County in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0152.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trimble County, p. 222.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Trimble County, Providence, p. 249B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Trimble County, p. 395B.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Trimble County, KY, June and July 1863, p. 35 (Accessed via ancestry.com).<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Richard Bell (1819-1896),&quot; Memorial #22338455, http://www.findagrave.com/memorial/22338455 (accessed August 28, 2020).
 </bibl></ab>
     </back>
 </text>
