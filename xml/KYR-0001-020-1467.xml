@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1467"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,29 +70,39 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency B MaGoffin Governor of Kentucky Your Petitioners would respectfully represent that at the <hi rend="str">October</hi> <date when="1861-05">May Term of the Grant Circuit sourt 1861</date>. one Patrick Bannon was fined fifty Dollars for carrying concealed weapons: we think the assessment of s<hi rend="sup">d</hi> fine a great hardship upon Mr. Bannon He is a very quiet and Gentlemanly citizens, Sober &amp; discreet it is the first <hi rend="str">i</hi>offence of which he has even been charged in our county It will meet the universal approbation of the citizen of Grant should your Excellency remit so much of said fine as lies in your power to do.
+   <p>To <persName ref="cwgk:N00000258">His Excellency B MaGoffin</persName> Governor of <orgName ref="cwgk:O001025">Kentucky</orgName> Your Petitioners would respectfully represent that at the <hi rend="str">October</hi> <date when="1861-05">May Term of the Grant Circuit sourt 1861</date>. one <persName ref="cwgk:N00009160">Patrick Bannon</persName> was fined fifty Dollars for carrying concealed weapons: we think the assessment of s<hi rend="sup">d</hi> fine a great hardship upon Mr. Bannon He is a very quiet and Gentlemanly citizens, Sober &amp; discreet it is the first <hi rend="str">i</hi>offence of which he has even been charged in our county It will meet the universal approbation of the citizen of Grant should your Excellency remit so much of said fine as lies in your power to do.
 <lb/><date when="1861-10-29">Oct 29<hi rend="underline"><hi rend="sup">th</hi></hi> 18,61</date>.</p>
-<p>E F Nuttall
-<lb/>J, H, Webb
-<lb/>O. D, M<hi rend="underline"><hi rend="sup">c</hi></hi>Manama
+<p><persName ref="cwgk:N00003209">E F Nuttall</persName>
+<lb/><persName ref="cwgk:N00009177">J, H, Webb
+</persName><persName ref="cwgk:N00002678"><persName ref="cwgk:N00009177"><lb/>O. D, M<hi rend="underline"><hi rend="sup">c</hi></hi>Manama
 <lb/>W Smith clk G c c<hi rend="sup">t</hi>
 <lb/><hi rend="underline">J. O'Hara Jr</hi>
-<lb/>M Burnett
-<lb/>J. M. Callin
+<lb/><persName ref="cwgk:N00005169">M Burnett</persName>
+<lb/><persName ref="cwgk:N00001164">J. M. Callin</persName>
 <lb/>W, T, Simmons
-<lb/>T. M. Coombs
+<lb/><persName ref="cwgk:N00003491">T. M. Coombs</persName>
 <lb/>Squire Lucas s g C
 <lb/>E H Smith
-<lb/>O. P. Hogan
-<lb/>J. W. Collins
+<lb/><persName ref="cwgk:N00009198">O. P. Hogan</persName>
+<lb/><persName ref="cwgk:N00009193">J. W. Collins</persName>
 <lb/>Robt H O'Hara
-<lb/>John A Turner
-<lb/><hi rend="underline">P, U, Major</hi> <hi rend="underline">Com'th Atty</hi>
-<lb/>A Kendall<pb/></p>
+<lb/><persName ref="cwgk:N00009202">John A Turner</persName>
+<lb/><persName ref="cwgk:N00001172"><hi rend="underline">P, U, Major</hi> <hi rend="underline">Com'th Atty</hi>
+<lb/>A Kendall<pb/>P, U, Major Com'th Atty
+</persName><persName ref="cwgk:N00009178"><persName ref="cwgk:N00001172">A Kendall</persName></persName>O. D. McManama</persName></persName><persName ref="cwgk:N00009177"/><persName ref="cwgk:N00003495"><persName ref="cwgk:N00009177">W Smith</persName></persName><persName ref="cwgk:N00009177"> clk G c ct
+</persName><persName ref="cwgk:N00002602"><persName ref="cwgk:N00009177">W, T, Simmons
+T. M. Coombs
+Squire Lucas s g C
+W. T. Simmons</persName></persName><persName ref="cwgk:N00009177"/><persName ref="cwgk:N00009175"><persName ref="cwgk:N00009177">E H Smith</persName></persName><persName ref="cwgk:N00009177"/><persName ref="cwgk:N00006449"><persName ref="cwgk:N00009177">J. O'Hara Jr</persName></persName><persName ref="cwgk:N00009177">
+M Burnett
+J. M. Callin
+W, T, Simmons
+T. M. Coombs
+</persName><persName ref="cwgk:N00009176"><persName ref="cwgk:N00009177">Robt H O'Hara</persName></persName><persName ref="cwgk:N00009177"/><persName ref="cwgk:N00002596"><persName ref="cwgk:N00009177">Squire Lucas</persName></persName><persName ref="cwgk:N00009177"/></p>
 <p>Grant Cir. ct</p>
 <p>Remitted
 <lb/>B. M</p>
-<p>&#36;50. &#125; Weapons
+<p>$50. } Weapons
 <lb/>P. Bannen</p>
 <p>Iss<hi rend="sup">d</hi> <date when="1861-11-02">Nov. 2 1861</date></p>
   </body>
