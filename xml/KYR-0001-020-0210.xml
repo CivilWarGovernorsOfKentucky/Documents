@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,25 +68,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>Beriah Maggofin.
-<lb/>GOVERNOR OF THE COMMONWEATLH OF KENTUCKY,
+   <p><persName ref="cwgk:N00000258">Beriah Maggofin</persName>.
+<lb/>GOVERNOR OF THE <orgName ref="cwgk:O001025">COMMONWEATLH OF KENTUCKY</orgName>,
 <lb/>TO ALL WHO SHALL SEE THESE PRESENTS, GREETING:</p>
-<p>WHEREAS, judgment has been rendered by the Anderson Circuit Court for $100 against John Murray</p>
+<p>WHEREAS, judgment has been rendered by the <orgName ref="cwgk:O00000341">Anderson Circuit Court</orgName> for $100 against <persName ref="cwgk:N00010619">John Murray</persName></p>
 <p>AND WHEREAS, It appears from satisfactory evidence that the case of said John Murray presents strong considerations for the interposition and indulgence of the Executive:</p>
 <p>Now, Know Ye, That in consideration of the premises, and by virtue of the power vested in me by the Constitution, I have thought proper to REMIT, and do, by these presents, remit Said judgment except fees and costs and do hereby forever acquit, release, and discharge said John Murray from the same, enjoining all officers to respect this REMISSION, and govern themselves accordingly.</p>
-<p><figure type="seal"><ab>SEAL OF KENTUCKY
-<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
-<p>In Testimony Whereof, I have caused these letters to be made patent, and Seal of the Commonwealth to be hereunto affixed. Done at FRANKFORT, the <date when="1860-11-30">30<hi rend="sup">th</hi> day of Nov, in the year of our Lord one thousand eight hundred and Sixty</date>, and in the 69<hi rend="sup">th</hi> year of the Commonwealth.</p>
+<p><figure type="seal"><ab>SEAL OF </ab></figure><placeName ref="cwgk:P001800"><figure><placeName ref="cwgk:P001800">KENTUCKY
+</placeName></figure></placeName><figure type="seal"><lb/>UNITED WE STAND DIVIDED WE FALL</figure></p>
+<p>In Testimony Whereof, I have caused these letters to be made patent, and Seal of the Commonwealth to be hereunto affixed. Done at <placeName ref="cwgk:P00000308">FRANKFORT</placeName>, the <date when="1860-11-30">30<hi rend="sup">th</hi> day of Nov, in the year of our Lord one thousand eight hundred and Sixty</date>, and in the 69<hi rend="sup">th</hi> year of the Commonwealth.</p>
 <p>BY THE GOVERNOR:
 <lb/>B. Magoffin</p>
-<p>Tho B. Monroe Jr, <hi rend="italic">Secretary of State</hi>.
-<lb/>By Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Tate Asst: Secy:<figure type="hr"/>
-<lb/>"Yeoman" Office -- J. B. MAJOR, State Printer.<pb/></p>
+<p><persName ref="cwgk:N00002581">Tho B. Monroe Jr</persName>, <hi rend="italic">Secretary of State</hi>.
+<lb/>By <persName ref="cwgk:N00001223">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Tate</persName> Asst: Secy:<figure type="hr"/>
+<lb/>"Yeoman" Office -- <persName ref="cwgk:N00003956">J. B. MAJOR</persName>, State Printer.<pb/></p>
 <p>Court 
 <lb/>vs } Remit
 <lb/>Murray
 <lb/>Filed <date when="1861-12-05">Decr 5<hi rend="sup">th</hi> 1861</date>
-<lb/>Tho. H. Hankscan<figure type="hr"/>
+<lb/><persName ref="cwgk:N00010624">Tho. H. Hankscan</persName><figure type="hr"/>
 <lb/>Reissued <date when="--05-15">May 15</date></p>
   </body>
  </text>
