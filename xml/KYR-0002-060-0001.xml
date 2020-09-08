@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0001"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,35 +71,35 @@
  </teiHeader>
  <text>
   <body>
-   <p>STATE OF KENTUCKY.<figure type="hr"/>
-<lb/>Office of Quarter-Master General,
-<lb/>Frankfort, Ky., <date when="1865-03-13">March 13, 1865</date>.
+   <p><orgName ref="cwgk:O001025">STATE OF KENTUCKY.</orgName><figure type="hr"/>
+<lb/><orgName ref="cwgk:O00000389">Office of Quarter-Master General</orgName>,
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>., <date when="1865-03-13">March 13, 1865</date>.
 <lb/>To His Excellency
-<lb/>T. E Bramlette
+<lb/><persName ref="cwgk:N001000">T. E Bramlette</persName>
 <lb/>Governer of Ky.
 <lb/>Governer</p>
-<p>We have the honor to recommend the following named persons for appointment and commission on the Staff of the Commander in Chief of the "Kentucky National Legion," for Active service.
+<p>We have the honor to recommend the following named persons for appointment and commission on the Staff of the Commander in Chief of the "<orgName ref="cwgk:O00009343">Kentucky National Legion</orgName>," for Active service.
 <lb/><table rend="rules">
 <row>
-	<cell>1 Jno B. Tilford Jr.</cell>
+	<cell>1 <persName ref="cwgk:N00001147">Jno B. Tilford Jr.</persName></cell>
 	<cell>A. Adjt General</cell>
 	<cell> -- Rank -- Captain</cell>
 </row>
 <row>
-	<cell>1 Charles J. Clarke</cell>
+	<cell>1 <persName ref="cwgk:N00009340">Charles J. Clarke</persName></cell>
 	<cell>Aid de Camp -- </cell>
 	<cell>" 1st Lieut</cell>
 </row>
 <row>
-	<cell>1 W. E. Cox</cell>
+	<cell>1 <persName ref="cwgk:N00009339">W. E. Cox</persName></cell>
 	<cell>Aid-de-Camp.</cell>
 	<cell>1<hi rend="sup">t</hi> do</cell>
 </row>
 </table>
-<lb/>And that they be assigned to duty in the Office of the Adjutant General of Ky.
+<lb/>And that they be assigned to duty in the<orgName ref="cwgk:O00000388"> Office of the Adjutant General of Ky.</orgName>
 <lb/><table rend="rules">
 <row>
-	<cell>1. S. C. Sayres</cell>
+	<cell>1. <persName ref="cwgk:N00009338">S. C. Sayres</persName></cell>
 	<cell>A. Q. M</cell>
 	<cell> -- Rank -- Captain</cell>
 </row>
@@ -100,12 +108,12 @@
 <p>Also the following clerks, they having served one Year in the Military service of the State of Ky
 <lb/><table rend="rules">
 <row>
-	<cell>Wm Stewart.</cell>
-	<cell></cell>
+	<cell><persName ref="cwgk:N00009341">Wm Stewart.</persName></cell>
+	<cell/>
 	<cell>Clerk in Inspector Generals Office.</cell>
 </row>
 <row>
-	<cell>Charles Hayden</cell>
+	<cell><persName ref="cwgk:N00000871">Charles Hayden</persName></cell>
 	<cell>Mustering Officer,</cell>
 	<cell>Clerk in Adj<hi rend="sup">t</hi> Gen<hi rend="sup">ls</hi> Office</cell>
 </row>
@@ -116,11 +124,11 @@
 <row>
 	<cell>Appropriation in 16<hi rend="sup">th</hi> Sec of Mil. laws</cell>
 	<cell/>
-	<cell>&#36;5400 -- </cell>
+	<cell>$5400 -- </cell>
 </row>
 <row>
 	<cell>1 Clerk in Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Office</cell>
-	<cell>&#36;1200 -- </cell>
+	<cell>$1200 -- </cell>
 	<cell/>
 </row>
 <row>
@@ -141,19 +149,19 @@
 <row>
 	<cell>1 " " do " </cell>
 	<cell>9.00. -- </cell>
-	<cell>&#36;5100</cell>
+	<cell>$5100</cell>
 </row>
 <row>
 	<cell>Leaving a surplus Yearly of</cell>
 	<cell/>
-	<cell>&#36;300<hi rend="underline"><hi rend="sup">00</hi></hi></cell>
+	<cell>$300<hi rend="underline"><hi rend="sup">00</hi></hi></cell>
 </row>
 </table>
 <lb/>which however may be required for additional assistance.</p>
 <p>All of which is respectfully submitted, with the expression of our opinion, that this is the only arrangement we can now make by which the business of the Military department of the State can be continued in a satisfactory &amp; efficient manner.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>S, G, Suddarth
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00000946">S, G, Suddarth</persName>
 <lb/>Q M Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of Ky -- 
-<lb/><cb n="2"/>D, W, Lindsey
+<lb/><cb n="2"/><persName ref="cwgk:N00000873">D, W, Lindsey</persName>
 <lb/>Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky<milestone unit="column" n="1"/><pb/></p>
 <p>Executive office
 <lb/>Frankfort Ky</p>
