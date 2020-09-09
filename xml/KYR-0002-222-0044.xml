@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0044"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,8 @@
  <text>
   <body>
    <p>NO. 22.<figure type="hr"/>
-<lb/>The <hi rend="str">United States,</hi> State of Ky
-<lb/>To LOUISVILLE &amp; NASHVILLE RAILROAD COMPANY, D<hi rend="underline"><hi rend="sup">r</hi></hi></p>
+<lb/>The <hi rend="str">United States,</hi> State of <placeName ref="cwgk:P001800">Ky
+</placeName><lb/>To <orgName ref="cwgk:O00002377"><placeName ref="cwgk:P00000337">LOUISVILLE</placeName> &amp; <placeName ref="cwgk:P001004">NASHVILLE</placeName> RAILROAD COMPANY</orgName>, D<hi rend="underline"><hi rend="sup">r</hi></hi></p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1862">1862</date></cell>
@@ -78,19 +86,19 @@
 </row>
 <row>
 	<cell><date when="1862-12">December.</date></cell>
-	<cell>3 Men from Louisville To Elizabethtown Ky</cell>
+	<cell>3 Men from Louisville To <placeName ref="cwgk:P00002906">Elizabethtown</placeName> Ky</cell>
 	<cell>42.4</cell>
 	<cell>127<hi rend="underline"><hi rend="sup">2</hi></hi></cell>
-	<cell></cell>
+	<cell/>
 	<cell/>
 	<cell/>
 </row>
 <row>
 	<cell><date when="1862-12">"</date></cell>
-	<cell>T. C. Kennedy " " " Russellville "</cell>
+	<cell><persName ref="cwgk:N00010744">T. C. Kennedy</persName> " " " <placeName ref="cwgk:P00002479">Russellville</placeName> "</cell>
 	<cell>143.3</cell>
 	<cell>143<hi rend="underline"><hi rend="sup">3</hi></hi></cell>
-	<cell></cell>
+	<cell/>
 	<cell/>
 	<cell/>
 </row>
@@ -99,22 +107,22 @@
 	<cell>Capt Hacker " Brooks Station " Elizabethtown " </cell>
 	<cell>29.1</cell>
 	<cell>29<hi rend="underline"><hi rend="sup">1</hi></hi></cell>
-	<cell></cell>
 	<cell/>
-	<cell/>
-</row>
-<row>
-	<cell><date when="1862-12">"</date></cell>
-	<cell>Capt Hacker " Elizabethtown " Brooks Station "</cell>
-	<cell>29<hi rend="underline"><hi rend="sup">1</hi></hi></cell>
-	<cell>29<hi rend="underline"><hi rend="sup">1</hi></hi></cell>
-	<cell></cell>
 	<cell/>
 	<cell/>
 </row>
 <row>
 	<cell><date when="1862-12">"</date></cell>
-	<cell>Lieut John. E. Enlow &amp; Wife </cell>
+	<cell><persName ref="cwgk:N00010754">Capt Hacker </persName>" Elizabethtown " <placeName ref="cwgk:P00010745">Brooks Station</placeName> "</cell>
+	<cell>29<hi rend="underline"><hi rend="sup">1</hi></hi></cell>
+	<cell>29<hi rend="underline"><hi rend="sup">1</hi></hi></cell>
+	<cell/>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell><date when="1862-12">"</date></cell>
+	<cell><persName ref="cwgk:N00010753">Lieut John. E. Enlow</persName> &amp; <persName ref="cwgk:N00010755">Wife</persName> </cell>
 	<cell/>
 	<cell/>
 	<cell/>
@@ -126,7 +134,7 @@
 	<cell>From Elizabethtown To Louisville Ky</cell>
 	<cell>42<hi rend="underline"><hi rend="sup">4</hi></hi></cell>
 	<cell>84.<hi rend="underline"><hi rend="sup">8</hi></hi></cell>
-	<cell></cell>
+	<cell/>
 	<cell/>
 	<cell/>
 </row>
@@ -135,13 +143,13 @@
 	<cell>Capt P. Hacker. From Elizabethtown To Louisville "</cell>
 	<cell>"</cell>
 	<cell>42<hi rend="underline"><hi rend="sup">4</hi></hi></cell>
-	<cell></cell>
+	<cell/>
 	<cell/>
 	<cell/>
 </row>
 <row>
 	<cell><date when="1862-12">"</date></cell>
-	<cell>Capt D. A. Harvey " Lebanon " " "</cell>
+	<cell><persName ref="cwgk:N00010756">Capt D. A. Harvey</persName> " <placeName ref="cwgk:P00002553">Lebanon</placeName> " " "</cell>
 	<cell>67.</cell>
 	<cell><hi rend="underline">67.</hi></cell>
 	<cell/>
@@ -153,13 +161,13 @@
 	<cell/>
 	<cell/>
 	<cell>522.<hi rend="underline"><hi rend="sup">9</hi></hi></cell>
-	<cell>@ 2&#162;</cell>
-	<cell>&#36;10</cell>
+	<cell>@ 2¢</cell>
+	<cell>$10</cell>
 	<cell>46</cell>
 </row>
 <row>
 	<cell/>
-	<cell>Add 3 per&#162; Govt. Tax. as authorized by Q. M. Genl in Circular dated <date when="1862-11-14">Nov 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1862.</date></cell>
+	<cell>Add 3 per¢ Govt. Tax. as authorized by <persName ref="cwgk:N00000234">Q. M. Genl </persName>in Circular dated <date when="1862-11-14">Nov 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1862.</date></cell>
 	<cell/>
 	<cell/>
 	<cell/>
@@ -172,24 +180,24 @@
 	<cell/>
 	<cell/>
 	<cell/>
-	<cell>&#36;10</cell>
+	<cell>$10</cell>
 	<cell>77</cell>
 </row>
 </table></p>
 <p>Approved
-<lb/>By order of the Governor
-<lb/>Jno. W. Finnell
-<lb/>Ad<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky Vols</p>
+<lb/>By order of the <persName ref="cwgk:N001004">Governor
+</persName><lb/><persName ref="cwgk:N00000228">Jno. W. Finnell</persName>
+<lb/><orgName ref="cwgk:O00000388">Ad<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></orgName> <orgName ref="cwgk:O00000870">Ky Vol</orgName>s</p>
 <p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the Public Service.</p>
 <p><gap/></p>
 <p>Received at Frankfort Ky the <date when="1863-04-18">18<hi rend="underline"><hi rend="sup">"</hi></hi> of April 186<hi rend="str">2</hi>3.</date> of Jn<hi rend="sup">o</hi> W. Finnell Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky Volunteers <hi rend="str">Quartermaster U.S. Army,</hi> the sum of Ten Dollars, and Seventy seven cents, in full of the above amount.</p>
 <p>[DUPLICATE.]</p>
-<p><hi rend="underline">Cha</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> R, Griffith</hi>
+<p><persName ref="cwgk:N00010757"><hi rend="underline">Cha</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> R, Griffith</hi></persName>
 <lb/>Treas<hi rend="sup">r</hi><pb/></p>
 <p>No. 22.<figure type="hr"/>
 <lb/>No. 158 Abstract <hi rend="str">B</hi> P Qr. <date when="1862">1862.</date></p>
 <p>Lou &amp; Nash R R Co
-<lb/>Dollars &#36;10. <hi rend="sup">77</hi>/<hi rend="sub">100</hi>
+<lb/>Dollars $10. <hi rend="sup">77</hi>/<hi rend="sub">100</hi>
 <lb/>Paid <date when="1863-04-18">April 18<hi rend="sup">th</hi> 186<hi rend="str">2</hi>3.</date></p>
   </body>
  </text>
