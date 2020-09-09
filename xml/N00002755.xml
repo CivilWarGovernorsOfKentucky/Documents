@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,9 @@
                 <person xml:id="N00002755">
                     <persName>
                       John D. Harlan
-                        (Hickman Co. Farmer)
+                        (Hickman Co., KY, farmer)
                     </persName>
-                        <event type="birth"  when="1820"  ><ab>1820</ab></event>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Hickman County, Kentucky, farmer. Kentucky native. Owned seven enslaved persons in Hickman County in 1850. Farmer in Hickman County in 1860.</p>
+        <p>Hickman County, Kentucky, farmer. Kentucky native. Farmer in Hickman County in 1850. Employed J. H. Heddricks as a farmer in Hickman County in 1850. Owned seven enslaved persons in Hickman County in 1850. Farmer in Hickman County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Hickman County. <lb/>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hickman County,  p. 17B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Hickman County. <lb/>
 <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hickman County, Clinton District, p. 67.
 </bibl></ab>
     </back>
