@@ -3,7 +3,11 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">E. M. Garnatt</title>
+        <title level="a" type="main">Evan M. Garriott</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N001756">
                     <persName>
-                      E. M. Garnatt
-                        (Trimble County )
+                      Evan M. Garriott
+                        (Trimble County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of Thomas McIntosh in Trimble County, Kentucky, on October 6, 1863. </p>
+        <p>Trimble County, Kentucky, merchant and farmer. Virginia native. Married to Lucy Shirley Garriott in Oldham County, Kentucky in October 1837. Father of W. V. Garriott, Frances Garriott, Elisabeth Garriott, Joseph Garriott, Thomas Garriott, John Garriott, Andrew Garriott, and Nancy Garriott. Merchant in Trimble County, Kentucky in 1850. Owned four enslaved persons in Trimble County in 1850. Farmer in Trimble County in 1860. Owned seven enslaved persons in Trimble County in 1860.   </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0144.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trimble County, District 1, p. 405A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Trimble County, City/District 1, p. 297.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trimble County, City/District, p. 210.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Trimble County, p. 394B. <lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Trimble County, Bedford, p. 182A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Oldham County Marriages, Film #000482445, p. 411.
 </bibl></ab>
     </back>
 </text>
