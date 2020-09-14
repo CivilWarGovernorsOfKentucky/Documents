@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">M. Whitaker</title>
+        <title level="a" type="main">Mathias Whitaker</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Courtney Buchkoski</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00001548">
                     <persName>
-                      M. Whitaker
+                      Mathias Whitaker
                         (Trimble County, Kentucky)
                     </persName>
+                        <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of Thomas McIntosh in Trimble County, Kentucky, on October 6, 1863. </p>
+        <p>Trimble County, Kentucky, farmer. Kentucky native. Married to Sophrona Whitaker. Father of John W. Whitaker, Mary E. Whitaker, Arminta Whitaker, and Franklin Whitaker. Farmer in Trimble County, Kentucky in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0144.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trimble County, p. 252.
 </bibl></ab>
     </back>
 </text>
