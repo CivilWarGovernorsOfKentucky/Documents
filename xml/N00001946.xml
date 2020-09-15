@@ -10,6 +10,14 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,9 +52,10 @@
                 <person xml:id="N00001946">
                     <persName>
                       Thomas A. Mitchell
-                        (farmer, trimble county)
+                        (Trimble County, KY, farmer)
                     </persName>
-                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
+                        <event type="birth"  when="1836-01-15"  ><ab>1836-01-15</ab></event>
+                        <event type="death"  when="1918-02-14"  ><ab>1918-02-14</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +64,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Trimble County, Kentucky, farmer. Kentucky native. Married to Elvira Mitchell. Farmer in Trimble County in 1860. </p>
+        <p>Trimble County, Kentucky, farmer. Kentucky native. Married to Elvree Colbert Mitchell in Trimble County in January 1860. Father of Emily C. Mitchell and Virginia T. Mitchell. Farmer in Trimble County, Kentucky in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trimble County, p. 32.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trimble County, p. 226.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Trimble County, Providence, p. 242A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Trimble County Marriages, Film #000420401, p. 252.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;T. A. Mitchell (1836-1918),&quot; Memorial #25098615, http://www.findagrave.com/memorial/25098615 (accessed September 15, 2020).
 </bibl></ab>
     </back>
 </text>
