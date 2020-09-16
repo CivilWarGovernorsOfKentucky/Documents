@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0178"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,7 +63,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>Midway Ky <date when="1861-07-01">July 1<hi rend="sup">st</hi> 61</date>
+   <p>Midway Ky <date when="1861-07-01">July 1<hi rend="underline"><hi rend="sup">st</hi></hi> 61</date>
 <lb/>Gov Magoffin
 <lb/>Dear Sir</p>
 <p>Having changed my residence from Woodford County I hereby tender to you my resignation as Police Judge in the of Midway Ky</p>
@@ -68,9 +71,10 @@
 <lb/>Samuel Moore<pb/></p>
 <p>Midway
 <lb/>Resignation
-<lb/>Sam<hi rend="sup">l</hi>. Moore
+<lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Moore
 <lb/>Po. Judge
-<lb/><date when="1861-07-19">July 19 1861</date></p>
+<lb/><date when="1861-07-19">July 19
+<lb/>1861</date><figure type="hr"/></p>
 <p>Resignation of S. Moore</p>
   </body>
  </text>
