@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00001537">
                     <persName>
                       Thomas O&#39;Brian
-                        (Trimble County, Kentucky)
+                        (Trimble County, Kentucky, farmer)
                     </persName>
                         <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,12 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Trimble County, Kentucky, farmer. Virginia native. Married to Priscilla O&#39;Brian. Father of Malinda O&#39;Brian, Sally O&#39;Brian, Victoria O&#39;Brian, Henrietta O&#39;Brian, and William O&#39;Brian. Owned two enslaved persons in Trimble County in 1850. Farmer in Trimble County in 1860.</p>
+        <p>Trimble County, Kentucky, farmer. Virginia native. Married to Priscilla O&#39;Brian. Father of Malinda O&#39;Brian, Sally O&#39;Brian, Victoria O&#39;Brian, Henrietta O&#39;Brian, and William O&#39;Brian. Resident of Trimble County, Kentucky in 1840. Owned one enslaved person in Trimble County in 1840. Farmer in Trimble County in 1850. Owned two enslaved persons in Trimble County in 1850. Farmer in Trimble County in 1860. Owned one enslaved person in Trimble County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Trimble County, District 1, p. 305.<lb/>
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trimble County, p. 77.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1840), Population Schedules, Kentucky, Trimble County, p. 321.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trimble County, District 1, p. 417A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Trimble County, District 1, p. 305.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trimble County, p. 271.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Trimble County, p. 394A.
 </bibl></ab>
     </back>
 </text>
