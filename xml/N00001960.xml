@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">L. Milner</title>
+        <title level="a" type="main">Lafayette Milner</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +51,11 @@
         <particDesc>
                 <person xml:id="N00001960">
                     <persName>
-                      L. Milner
-                        (Trimble County, Kentucky, petitioner)
+                      Lafayette Milner
+                        (Trimble County, Kentucky, blacksmith)
                     </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +63,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of J. Milton Moore in Bedford, Trimble County, Kentucky, in 1863.</p>
+        <p>Trimble County, Kentucky, blacksmith. Kentucky native. Married to Eveline Milner. Father of Ben Milner, John Milner, Thomas Milner, William Milner, and Susan Milner. Blacksmith in Trimble County, Kentucky in 1850. Blacksmith in Trimble County in 1860.     </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0150. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trimble County, District 1, p. 406B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trimble County, p. 260.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Trimble County, Bedford, p. 191A.
 </bibl></ab>
     </back>
 </text>
