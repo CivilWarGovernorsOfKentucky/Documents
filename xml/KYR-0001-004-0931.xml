@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0931"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,19 +72,19 @@
  <text>
   <body>
    <p>"BAIL BOND."<figure type="hr"/></p>
-<p>William F. White being in custody, charged with the offence of Dealing Faro and being admitted to Bail in the sum of Five hundred dollars
-<lb/>We, William F. White and C T Worley hereby undertake that the above named William F White shall appear before the Judge of the Fayette Circuit Court at the Court house in Lexington on the <date when="1864-06">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of the next June term A. D., 1864</date>, to answer said charge, and shall at all times render himself amenable to the order and process of said Court, in the prosecution of said charge, and if convicted shall render himself in execution thereof, or if he fail to perform either of these conditions, that we will pay to the Commonwealth of Kentucky the sum of Five hundred Dollars.</p>
+<p><persName ref="cwgk:N00010598">William F. White</persName> being in custody, charged with the offence of Dealing Faro and being admitted to Bail in the sum of Five hundred dollars
+<lb/>We, William F. White and <persName ref="cwgk:N00004822">C T Worley</persName> hereby undertake that the above named William F White shall appear before the <persName ref="cwgk:N00005270">Judge</persName> of the <orgName ref="cwgk:O00000377">Fayette Circuit Court</orgName> at the Court house in <placeName ref="cwgk:P001002">Lexington</placeName> on the <date when="1864-06">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of the next June term A. D., 1864</date>, to answer said charge, and shall at all times render himself amenable to the order and process of said Court, in the prosecution of said charge, and if convicted shall render himself in execution thereof, or if he fail to perform either of these conditions, that we will pay to the Commonwealth of <orgName ref="cwgk:O001025">Kentucky</orgName> the sum of Five hundred Dollars.</p>
 <p>ATTEST:
-<lb/>J H Harrison &#125;
+<lb/><persName ref="cwgk:N00003318">J H Harrison</persName> }
 <lb/>W F White <figure type="seal"><ab>SEAL.</ab></figure>
 <lb/>C T Worley <figure type="seal"><ab>SEAL</ab></figure></p>
 <p>The above named C T Worley this day made oath before me that he is the owners of Visible Property over and above the exempt from execution to the value of Five hundred Dollars, and able to pay and discharge the above Bond after the payment of all just debts and those for which he is legally bound. for.</p>
 <p>Sworn to and subscribed before me, this day <date when="1864-03-14">14<hi rend="sup">th</hi> of March 1864</date>.</p>
-<p>J H Harrison D S <hi rend="str">S.F.C.</hi> &#125;
+<p>J H Harrison D S <hi rend="str">S.F.C.</hi> }
 <lb/>C T Worley <figure type="seal"><ab>SEAL.</ab></figure>
 <lb/><gap/> <figure type="seal"><ab>SEAL.</ab></figure></p>
-<p>A Copy -- Att Jno B Norton C f C C
-<lb/>by <hi rend="underline">Chas F Lowry</hi> D C</p>
+<p>A Copy -- Att <persName ref="cwgk:N00004824">Jno B Norton</persName> C f C C
+<lb/>by <hi><persName ref="cwgk:N00005269">Chas F Lowry</persName></hi> D C</p>
   </body>
  </text>
 </TEI>
