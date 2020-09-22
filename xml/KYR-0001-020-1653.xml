@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1653"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,12 +63,12 @@
  <text>
   <body>
    <p>Commonwealth
-<lb/>Agst } Fraud
-<lb/>Duddleston<figure type="hr"/>
-<lb/>Issue pardon
-<lb/>B. M.
-<lb/>Iss<hi rend="sup">d</hi> <date when="1862-01-03">Jany 3<hi rend="sup">d</hi> 1862</date><figure type="hr"/>
-<lb/>$550</p>
+<lb/>Agst &#125; Fraud
+<lb/>Duddleston<figure type="hr"/></p>
+<p>Issue pardon
+<lb/>B. M.</p>
+<p>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-01-03">Jany 3<hi rend="sup">rd</hi> 1862</date><figure type="hr"/></p>
+<p>&#36;550</p>
   </body>
  </text>
 </TEI>
