@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. F. Gasner</title>
+        <title level="a" type="main">John Francis Gasner</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Charles Welsko</name>
@@ -43,10 +51,11 @@
         <particDesc>
                 <person xml:id="N00009196">
                     <persName>
-                      J. F. Gasner
-                        (Scott County Manufacturer of Boots)
+                      John Francis Gasner
+                        (Scott County, Kentucky, boot manufacturer and shoe dealer)
                     </persName>
-                        <event type="birth"  when="1825"  ><ab>1825</ab></event>
+                        <event type="birth"  when="1825-07-20"  ><ab>1825-07-20</ab></event>
+                        <event type="death"  when="1912-03-18"  ><ab>1912-03-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +64,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Scott County, Kentucky, manufacturer of boots. Native of France. Married to Sallie F. Gasner. Father to Sophia A Gasner, Eugene L. Gasner, [unknown] Gasner. Manufacturer of Boots in Scott County in 1860. </p>
+        <p>Scott County, Kentucky, boot manufacturer and shoe dealer. Native of France. Married to Sarah &quot;Sallie&quot; F. Gasner. Father to Sophia A. Gasner, Eugene L. Gasner, and [Infant] Gasner. Boot manufacturer in Scott County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, Georgetown, p. 1000.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, Georgetown, p. 1000.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Scott County, Georgetown, p. 268A.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;John Francis Gasner (1825-1912),&quot; Memorial #101585839, http://www.findagrave.com/memorial/101585839 (accessed September 11, 2020).
 </bibl></ab>
     </back>
 </text>
