@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013401">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry Clay</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013401">
+                    <persName>
+                      Henry Clay
+                        (Fayette County, Kentucky, stateman)
+                    </persName>
+                        <event type="birth"  when="1777-04-12"  ><ab>1777-04-12</ab></event>
+                        <event type="death"  when="1852-06-29"  ><ab>1852-06-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Fayette County, Kentucky, statesman. Virginia native. Married to Lucretia Hart Clay in Lexington, Fayette County, Kentucky in April 1799. Father of Theodore W. Clay, James B. Clay, Susan Hart Clay Duralde, Anne Brown Clay Erwine, Thomas Hart Clay, Henry Clay, Jr., and John M. Clay. Elected to the Kentucky State Legislature in 1802. Defense attorney for Aaron Burr upon charges of conspiracy in Fayette County, Kentucky in 1806.  Appointed to the United States Senate by the Kentucky Legislature on December 29, 1806. Proponent of the &quot;American System&quot; of production and manufacturing in 1809. Elected to the United States House of Representatives and elected Speaker of the House in 1811, 1813, 1815, and 1817. Nominated for  President of the United States in 1824.  Appointed Secretary of State of the United States of America by John Adams in 1825. Elected to the United States Senate in 1830, and appointed President of the Senate of the United States in 1831. Nominated for President of the United States in 1844. Statesman in Fayette County, Kentucky in 1850. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fayette County, District 2, p. 223A.<lb/>
+<hi rend="italic">The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 7-10.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Henry Clay (Apr 12, 1777-Jun 29, 1852),&quot; Memorial #203/henry-clay, http://www.findagrave.com/memorial/203/henry-clay (accessed September 5, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
