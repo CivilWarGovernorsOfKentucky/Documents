@@ -8,6 +8,14 @@
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +48,10 @@
                 <person xml:id="N00013306">
                     <persName>
                       Barnabas T. Hayden
-                        (Kentucky soldier)
+                        (Rowan County, Kentucky, farmer and  soldier)
                     </persName>
+                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
+                        <event type="death"  when="1898-07-06"  ><ab>1898-07-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +59,17 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Rowan County, Kentucky, farmer and soldier. Kentucky native. Son of Barnabas Hayden and Sarah Hayden. Married to Emily Hayden c1850. Father of William Hayden and Mary Hayden. Laborer in Fleming County, Kentucky, in 1850. Farmer in Rowan County in 1860. Employed James Heflin as a servant in Rowan County in 1860. Served in the 7th Kentucky Cavalry (U.S.A.) as a captain from August 16, 1862, to July 10, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, Division 2, p. 375B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rowan County, p. 635.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 79.<lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Kentucky, Application #680,354, Certificate #472286.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Capt Barnabas Tabor Hayden (1827-1898),&quot; Memorial #18757207, http://www.findagrave.com/memorial/18757207/barnabas-tabor-hayden (accessed August 21, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
