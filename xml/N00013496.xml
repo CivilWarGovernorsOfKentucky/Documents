@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013496">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Daniel Webster</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>James Bartek</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013496">
+                    <persName>
+                      Daniel Webster
+                        (Marshfield, Plymouth County, Massachusetts, attorney and statesman)
+                    </persName>
+                        <event type="birth"  when="1782-01-18"  ><ab>1782-01-18</ab></event>
+                        <event type="death"  when="1852-10-24"  ><ab>1852-10-24</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Marshfield, Plymouth County, Massachusetts attorney and statesman. New Hampshire native. Son of Ebenezer Webster and Abigail Eastman Webster. Married to Grace Fletcher Webster in New Hampshire on May 29, 1808. Married to Caroline Roy Webster in New York, New York, on December 14, 1829. Educated at Dartmouth College, graduating in 1801. Elected as a Federalist to the House of Representative for the state of New Hampshire from 1813-1817. Elected to the House of Representative for the state of Massachusetts from 1823-1827. Elected Senator for the state of Massachusetts from 1827-1841. Appointed and served as Secretary of State for the United States of America from 1841-1843. Elected as a Whig Senator from Massachusetts from 1845-1850. Appointed and served as Secretary of State for the United States of America from 1850-1852. Employed John Mason as a servant in Marshfield, Plymouth County, Massachusetts in 1850. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">New Hampshire, Birth Index, 1659-1900</hi>&quot;Vadney-Wadleigh,&quot; p. 343, viewed on Ancestry.com.<lb/>
+<hi rend="italic">New Hampshire, Marriage and Divorce Records, 1659-1947 for Daniel Webster</hi>&quot;Marriage, Pre-1901, Vinton-Weed,&quot; p. 2932 of 5106 of microfilm.<lb/>
+<hi rend="italic">New York, Marriage Newspaper Extracts, 1801-1880 (Barber Collection)</hi>&quot;New York Evening Post, 1829, December,&quot; p. 2 of 3 of microfilm, viewed on Ancestry.com.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Massachusetts, Plymouth County, Marshfield, p. 152A.<lb/>
+&quot;Webster, Daniel (1782-1852),&quot; <hi rend="italic">Biographical Directory of the United States Congress, 1774-present</hi>https://bioguideretro.congress.gov/Home/MemberDetails?memIndex=W000238.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
