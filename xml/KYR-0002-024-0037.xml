@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0037"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Adjutant General's Office,
-<lb/><hi rend="italic">Washington</hi>, <date when="1865-09-06"><hi rend="italic">September 6th, 1865</hi></date><hi rend="italic">.
+   <p><orgName ref="cwgk:O00010608">Adjutant General's Office</orgName>,
+<lb/><placeName ref="cwgk:P00001134"><hi rend="italic">Washington</hi></placeName>, <date when="1865-09-06"><hi rend="italic">September 6th, 1865</hi></date><hi rend="italic">.
 <lb/></hi>To His Excellency,
-<lb/>The Governor of Kentucky
+<lb/>The <persName ref="cwgk:N001000">Governor</persName> of <orgName ref="cwgk:O001025">Kentucky</orgName>
 <lb/>Sir:</p>
-<p>I have the honor to report, that the following named Officers of the Volunteer forces from the State of Kentucky have been discharged at the dates, and for the causes, set opposite their respective names, viz:</p>
-<p>Asst. Surg. William R. Davidson 7 Regiment, <date when="1865-08-16">Aug 16" 65</date>, Res. honorably disability.</p>
+<p>I have the honor to report, that the following named Officers of the <orgName ref="cwgk:O00000870">Volunteer forces</orgName> from the State of Kentucky have been discharged at the dates, and for the causes, set opposite their respective names, viz:</p>
+<p>Asst. Surg. <persName ref="cwgk:N00001189">William R. Davidson</persName> <orgName ref="cwgk:O00006406">7 Regiment</orgName>, <date when="1865-08-16">Aug 16" 65</date>, Res. honorably disability.</p>
 <p>I am Sir
 <lb/>Very Respectfully
 <lb/>Your Obedient Servant
-<lb/>Thomas M. Vincent
+<lb/><persName ref="cwgk:N00005761">Thomas M. Vincent</persName>
 <lb/>Assistant Adjutant General.<pb/></p>
 <p><note place="header">7</note>
 <lb/>N<hi rend="sup">o</hi> 214
