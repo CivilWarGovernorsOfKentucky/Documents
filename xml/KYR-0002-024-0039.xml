@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0039"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,54 +71,54 @@
  </teiHeader>
  <text>
   <body>
-   <p>Adjutant General's Office,
-<lb/><hi rend="italic">Washington, </hi><date when="1865-11-01"><hi rend="italic">November 1st, 1865</hi></date>.
+   <p><orgName ref="cwgk:O00010608">Adjutant General's Office</orgName>,
+<lb/><placeName ref="cwgk:P00001134"><hi rend="italic">Washington</hi></placeName><hi rend="italic">, </hi><date when="1865-11-01"><hi rend="italic">November 1st, 1865</hi></date>.
 <lb/>To His Excellency,
-<lb/>The Governor of 
-<lb/>Kentucky,
+<lb/>The <persName ref="cwgk:N001000">Governor</persName> of 
+<lb/><orgName ref="cwgk:O001025">Kentucky</orgName>,
 <lb/>Sir:</p>
-<p>I have the honor to report, that the following named Officers of the Volunteer forces from the State of Kentucky, have been discharged at the dates and for the causes set opposite their respective names, viz:</p>
+<p>I have the honor to report, that the following named Officers of the <orgName ref="cwgk:O00000870">Volunteer forces</orgName> from the State of Kentucky, have been discharged at the dates and for the causes set opposite their respective names, viz:</p>
 <p><table rend="rules">
 <row>
-	<cell>Col ^&#x2713;^</cell>
-	<cell>George W. Monroe,</cell>
-	<cell>^&#x2713;^ 7" Regiment,</cell>
+	<cell>Col ^✓^</cell>
+	<cell><persName ref="cwgk:N00013320">George W. Monroe</persName>,</cell>
+	<cell>^✓^ <orgName ref="cwgk:O00006406">7" Regiment</orgName>,</cell>
 	<cell><date when="1865-09-25">Sept. 25" 65</date>,</cell>
 	<cell>Res. honorably,</cell>
 </row>
 <row>
-	<cell>Capt ^&#x2713;^</cell>
-	<cell>W. C. M<hi rend="sup">c</hi>Dowell,</cell>
-	<cell>^&#x2713;^ 28" "</cell>
+	<cell>Capt ^✓^</cell>
+	<cell><persName ref="cwgk:N00013322">W. C. M<hi rend="sup">c</hi>Dowell</persName>,</cell>
+	<cell>^✓^<orgName ref="cwgk:O00008814"> 28</orgName>" "</cell>
 	<cell><date when="1865-06-15">June 15 "</date></cell>
 	<cell>" accepted</cell>
 </row>
 <row>
-	<cell>Major, ^&#x2713;^</cell>
-	<cell>J. B. Watkins</cell>
-	<cell>^&#x2713;^ 34" "</cell>
+	<cell>Major, ^✓^</cell>
+	<cell><persName ref="cwgk:N00013323">J. B. Watkins</persName></cell>
+	<cell>^✓^ <orgName ref="cwgk:O00011956">34"</orgName> "</cell>
 	<cell><date when="1865-06-22">" 22" "</date></cell>
 	<cell>" "</cell>
 </row>
 <row>
 	<cell>Capt</cell>
-	<cell>Barnabas Hayden</cell>
-	<cell>^&#x2713;^ 7" Cavalry</cell>
-	<cell></cell>
+	<cell><persName ref="cwgk:N00013306">Barnabas Hayden</persName></cell>
+	<cell>^✓^ <orgName ref="cwgk:O00006342">7" Cavalry</orgName></cell>
+	<cell/>
 	<cell>Cashiered</cell>
 </row>
 <row>
 	<cell>"</cell>
 	<cell>Barnabas Hayden</cell>
-	<cell>^&#x2713;^ " "</cell>
+	<cell>^✓^ " "</cell>
 	<cell><date when="1865-07-09">July 9" 1865</date></cell>
 	<cell>Restored</cell>
 </row>
 </table></p>
-<p>I am Sir, ^&#x2713;^
+<p>I am Sir, ^✓^
 <lb/>Very Respectfully,
 <lb/>Your Obedient Servant,
-<lb/>Thomas M. Vincent
+<lb/><persName ref="cwgk:N00005761">Thomas M. Vincent</persName>
 <lb/>Assistant Adjutant General.<pb/></p>
 <p>N<hi rend="underline"><hi rend="sup">o</hi></hi> 219</p>
 <p>Washington City Report
