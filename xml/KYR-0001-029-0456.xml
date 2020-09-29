@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0456"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,15 +62,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>The undersigned who are acquainted with John W Blair recommend a remission of the fine which was rendered against him in the year <date when="1857">1857</date> on a charge of betting on the election.</p>
-<p><date when="1863-07-17">July 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
+   <p>The undersigned who are acquainted with John W Blair recommend a remission of the fine which was rendered against him in the year <date when="1857">1857</date> on a charge of betting on the election.
+<lb/><date when="1863-07-17">July 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
 <p>Church Baily
-<lb/>B T Elliott
-<lb/>P. H Mayhall
-<lb/>Jn<hi rend="sup">o</hi> I. Julian
+<lb/>B Elliott
+<lb/>P. H <hi rend="underline">Mayhall
+<lb/></hi>Jn<hi rend="sup">o</hi> I. Julian
 <lb/>Saml J Julian
-<lb/><hi rend="str">Joseph Tempson</hi><pb/></p>
-<p>J. W Blair</p>
+<lb/><hi rend="str">Joseph Temp<unclear/></hi><pb/></p>
+<p><hi rend="underline">J. W Blair</hi></p>
   </body>
  </text>
 </TEI>
