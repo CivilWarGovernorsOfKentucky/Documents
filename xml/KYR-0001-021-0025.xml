@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0025"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Emily D. Moses</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Peter R. Thomas Jr.</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,12 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001815">Henderson Ky</placeName> <date when="1861-04-09">April 9<hi rend="sup">th</hi> 1861</date>
-<lb/><persName ref="cwgk:N00000258">Hon B Magoffin
-</persName><lb/>Gov<hi rend="sup">r</hi>. of <placeName ref="cwgk:P001800">Ky</placeName><lb/>Dear Sir</p>
-   <p>Not long since a a negro (runaway slave) killed <persName ref="cwgk:N00010545">D<hi rend="underline"><hi rend="sup">r</hi></hi> W A Norwood</persName>. (a much respected citizen and a peaceable man.) The negro has not yet been taken, altho' diligent search has been &amp; is being made for him. From the best information I can get, it was a wilful murder without cause or provocation</p>
+   <p>Henderson Ky <date when="1861-04-09">April 9<hi rend="sup">t</hi> 1861</date>
+<lb/>Hon B Magoffin
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Ky
+<lb/>Dear Sir</p>
+<p>Not long since a negro (runaway slave) killed D<hi rend="underline"><hi rend="sup">r</hi></hi> W A Norwood. (a much respected citizen and a peaceable man.) The negro has not yet been taken, altho' diligent search has been &amp; is being made for him. From the best information I can get, it was a wilful murder without cause or provocation</p>
 <p>Exercise your discretion in offering a reward. Considering the character of the offense, and the excitement of the country on the slavery question, I think the larger the reward is the better</p>
-<p>Resply <persName ref="cwgk:N00010546">L W Trafton</persName> <orgName ref="cwgk:O00000633">J. H. C. C.</orgName></p>
+<p>Resply 
+<lb/>L W. <hi rend="underline">Trafton</hi> J. H. C. C.</p>
   </body>
  </text>
 </TEI>
