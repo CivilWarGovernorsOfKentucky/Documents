@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0042"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head Quarters 12<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Infty Vol<hi rend="underline"><hi rend="sup">s</hi></hi>
-<lb/>Strawberry Plains E Tenn
+   <p>Head Quarters <orgName ref="cwgk:O00013049">12<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Infty Vol<hi rend="underline"><hi rend="sup">s</hi></hi></orgName>
+<lb/><placeName ref="cwgk:P00013358">Strawberry Plains</placeName> E <placeName ref="cwgk:P001001">Tenn</placeName>
 <lb/><date when="1864-01-10">January 10th 1864</date>
-<lb/>To his excellency. Thomas E Bramblette
-<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Kentucky
+<lb/>To his excellency. <persName ref="cwgk:N001000">Thomas E Bramblette</persName>
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of <orgName ref="cwgk:O001025">Kentucky</orgName>
 <lb/>Honorable Sir</p>
-<p>I have the pleasure of reporting to you that the 12<hi rend="sup">th</hi> Ky. I. V. have RE Enlisted as Veteran Vol<hi rend="underline"><hi rend="sup">s</hi></hi> under the provisions of orders 191' from war Dep<hi rend="underline"><hi rend="sup">t</hi></hi> <hi rend="str">or</hi> and will march from here on our way to Ky between now and the <date when="1864-02-01">1st of February</date> the date of the re Enlistment of the Reg<hi rend="underline"><hi rend="sup">t</hi></hi> in the Veteran Service will date from the <date when="1863-12-24">24<hi rend="sup">th</hi> of December 1863</date>. They have re Enlisted under the promise that the Reg<hi rend="underline"><hi rend="sup">t</hi></hi> will be mounted. I would prefer to make them Cavalry. The order authorizing the RE Enlistment of the Reg<hi rend="underline"><hi rend="sup">t</hi></hi> as mounted men came from Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Foster Comdg Dep<hi rend="underline"><hi rend="sup">t</hi></hi> of the Ohio</p>
+<p>I have the pleasure of reporting to you that the 12<hi rend="sup">th</hi> Ky. I. V. have RE Enlisted as Veteran Vol<hi rend="underline"><hi rend="sup">s</hi></hi> under the provisions of orders 191' from <orgName ref="cwgk:O00005118">war Dep</orgName><hi rend="underline"><hi rend="sup">t</hi></hi> <hi rend="str">or</hi> and will march from here on our way to Ky between now and the <date when="1864-02-01">1st of February</date> the date of the re Enlistment of the Reg<hi rend="underline"><hi rend="sup">t</hi></hi> in the <orgName ref="cwgk:O00013253">Veteran Service</orgName> will date from the <date when="1863-12-24">24<hi rend="sup">th</hi> of December 1863</date>. They have re Enlisted under the promise that the Reg<hi rend="underline"><hi rend="sup">t</hi></hi> will be mounted. I would prefer to make them Cavalry. The order authorizing the RE Enlistment of the Reg<hi rend="underline"><hi rend="sup">t</hi></hi> as mounted men came from Gen<hi rend="underline"><hi rend="sup">l</hi></hi><persName ref="cwgk:N00005705"> Foster</persName> Comdg <orgName ref="cwgk:O001001">Dep<hi rend="underline"><hi rend="sup">t</hi></hi> of the Ohio</orgName></p>
 <p>I have the honor to be 
 <lb/>Very Respectfully,
 <lb/>Your Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
-<lb/>L H Rousseau
+<lb/><persName ref="cwgk:N00002299">L H Rousseau</persName>
 <lb/>L<hi rend="sup">t</hi> Co<hi rend="sup">l</hi> <hi rend="underline">Comdg Regt</hi><pb/></p>
 <p>H<hi rend="underline"><hi rend="sup">d</hi></hi> qrs. 12<hi rend="sup">t</hi> Ky Inft Vols.
 <lb/>Strawbeery Plains E. Tenn
@@ -81,7 +89,7 @@
 <p>Rousseau L. H
 <lb/>Lt Col. Com<hi rend="underline"><hi rend="sup">d</hi></hi><figure type="hr"/></p>
 <p>Has the honor to report that the 12<hi rend="underline"><hi rend="sup">th</hi></hi> Regt Ky Inft has re enlisted as veterans under provisions of order 191 from War Department<figure type="hr"/></p>
-<p>Rec<hi rend="sup">d</hi> A. G. O <date when="1864-01">Jany 1864</date></p>
+<p>Rec<hi rend="sup">d</hi> <orgName ref="cwgk:O00000388">A. G. O</orgName> <date when="1864-01">Jany 1864</date></p>
   </body>
  </text>
 </TEI>
