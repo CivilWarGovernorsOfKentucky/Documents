@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">The Shelby News</title>
+        <title level="a" type="main">The Weekly Shelby News</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
@@ -46,15 +50,16 @@
             </textClass>
             <particDesc>
                 <org xml:id="O00013452">
-                    <orgName>The Shelby News</orgName>
+                    <orgName>The Weekly Shelby News</orgName>
                         <event type="begun"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <event type="ended"  when="1866"  cert="medium" ><ab>c1866</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Shelby County, Kentucky, newspaper. Organized as a weekly newspaper in 1840, later renamed &quot;The Weekly Shelby News&quot; in 1855. Edited by H. F. Middleton from 1840 to 1855, who continued as editor of &quot;The Weekly Shelby News&quot; from 1855 to an unidentified date in the 1860s.</p>
+        <p>Shelby County, Kentucky, newspaper. Organized as a weekly newspaper in 1840 as <hi rend="italic">The Shelby News</hi>. Renamed <hi rend="italic">The Weekly Shelby News</hi> in 1855. Edited by H. F. Middleton from 1840 until it was renamed c1866.</p>
 
     </body>
     <back>
