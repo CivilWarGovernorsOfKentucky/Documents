@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0357"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,28 +70,28 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Governor Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramblet</p>
-<p>We the Undersigned Citizens of Bath would respectfully represent that George ^A.^ Bean was at the <date when="1861-09">Sept<hi rend="sup">r</hi>. term 1861</date> fined &#36;40.00 for standing a Jack without License. It appear that said Bean had a License issued by the Clerk of the Montgomery County Court, and at the trial of <hi rend="str">his</hi> the indictment said Beans attorney failed or forgot to make defense and show his license which would have kept him for being fined, as he had not violated the law -- </p>
+   <p>To His Excellency Governor <persName ref="cwgk:N001000">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramblet</persName></p>
+<p>We the Undersigned Citizens of <placeName ref="cwgk:P00000478">Bath</placeName> would respectfully represent that George ^A.^ Bean was at the <date when="1861-09">Sept<hi rend="sup">r</hi>. term 1861</date> fined $40.00 for standing a Jack without License. It appear that said Bean had a License issued by the <persName ref="cwgk:N00002065">Clerk </persName>of the <orgName ref="cwgk:O00011050">Montgomery County Court</orgName>, and at the trial of <hi rend="str">his</hi> the indictment said Beans attorney failed or forgot to make defense and show his license which would have kept him for being fined, as he had not violated the law -- </p>
 <p>This is one of the case which derseves the exercise of remitting power -- </p>
 <p><date when="1863-12-01">December 1<hi rend="sup">s</hi> 1863</date>,</p>
-   <p><milestone unit="column" n="2"/><cb n="1"/>V. B. Young C. B. C. C
-<lb/><cb n="2"/>J m nesbitt
-<lb/>Daniel Harper
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> F, Gudgel
-<lb/>W Taylor
-<lb/>T. W. Ewing
-<lb/>B,, F,, Trumbo
-<lb/>R. Coulthard<milestone unit="column" n="1"/><pb/></p>
+   <p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00003130">V. B. Young C. B. C. C</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00007901">J m nesbitt</persName>
+<lb/><persName ref="cwgk:N00009351">Daniel Harper</persName>
+<lb/><persName ref="cwgk:N00012687">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> F, Gudgel</persName>
+<lb/><persName ref="cwgk:N00009396">W Taylor</persName>
+<lb/><persName ref="cwgk:N00012686">T. W. Ewing</persName>
+<lb/><persName ref="cwgk:N00012431">B,, F,, Trumbo</persName>
+<lb/><persName ref="cwgk:N00010472">R. Coulthard</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Bath County. Ky.</p>
 <p>Geo ^A^ Bean says that the statements of the foregoing petition to his Excellency Gov. Tho<hi rend="sup">s</hi>. E, Bramblett. are true -- </p>
 <p>G A Bean</p>
 <p>Sworn to before me by G. A. Bean this <date when="1863-12-01"><hi rend="str">2</hi>1<hi rend="sup">s</hi> December 1863</date>,</p>
-<p>R, Gudgell notory
-<lb/>Public Bath Co</p>
+<p><persName ref="cwgk:N00002430">R, Gudgell notory
+<lb/>Public</persName> Bath Co</p>
 <p><stamp type="revenue"/><note place="stamp">R G
 <lb/><date when="1863-12-01">Dec 1 
 <lb/>1863</date></note></p>
-<p>Bath Cir Ct
+<p><orgName ref="cwgk:O00000358">Bath Cir Ct</orgName>
 <lb/>George A. Bean
 <lb/>Petition</p>
 <p>Remit except fees &amp; costs
