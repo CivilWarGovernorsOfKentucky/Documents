@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0399"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hammonsville Ky <date when="1864-01-09">Jany 9 1864</date>
-<lb/>To <hi rend="str">the Hon</hi> ^His Excelency^ Governor Bramlett of Kentucky</p>
-<p>Sir I have bound as security to the Commonwealth of Kentucky for Geo, W Dobson as well as shown by referense to copy of record I send you probably amounting now to near &#36;300, which amount I am not able to pay without distress to myself &amp; family, Therefore I will respectfully ask your <hi rend="str">Honor</hi> Excelency to remit Said debt so far as my liability is covered and should it meet your approbation to do so you will confer on me a favor which will be gratefully remembered. Said Dobson is in the U, S, Army &amp; has left nothing to pay with and it all comes upon me.</p>
-<p>R. S. Thomas<pb/></p>
+   <p><placeName ref="cwgk:P00012722">Hammonsville</placeName><placeName ref="cwgk:P001800"> Ky </placeName><date when="1864-01-09">Jany 9 1864</date>
+<lb/>To <hi rend="str">the Hon</hi> ^His Excelency^ Governor <persName ref="cwgk:N001000">Bramlett</persName> of Kentucky</p>
+<p>Sir I have bound as security to the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> for <persName ref="cwgk:N00012723">Geo, W Dobson</persName> as well as shown by referense to copy of record I send you probably amounting now to near $300, which amount I am not able to pay without distress to myself &amp; family, Therefore I will respectfully ask your <hi rend="str">Honor</hi> Excelency to remit Said debt so far as my liability is covered and should it meet your approbation to do so you will confer on me a favor which will be gratefully remembered. Said Dobson is in the<orgName ref="cwgk:O00001186"> U, S, Army</orgName> &amp; has left nothing to pay with and it all comes upon me.</p>
+<p><persName ref="cwgk:N00012724">R. S. Thomas</persName><pb/></p>
 <p><hi rend="str">Geo. W Dobson</hi>
 <lb/>R. S. Thomas
 <lb/>Petition</p>
