@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0373"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Barren Equity &amp; Criminal Court
-<lb/>Commonwealth Plff
+   <p><orgName ref="cwgk:O00000351">Barren Equity &amp; Criminal Court</orgName>
+<lb/><orgName ref="cwgk:O001025">Commonwealth</orgName> Plff
 <lb/>against
-<lb/>John, W, House &amp;c Defent<hi rend="str">da</hi></p>
-<p>The affiant George <unclear>Larrison</unclear> states that he is the agent of the Defendant Marrian <unclear>Larrison</unclear> Who is his brother, that his brother appointed &amp; empowered him to attend to the prosecution vs him in the Court &amp; all the transactions growing out of the Same he the deft being in the army</p>
-<p>He further States that the saw his said brother almost daily about the <date when="1863-06-01">first June last</date> &amp; Knows of his own Knowledge that said brother was sick with a chronic disease or one at least that he is subject to when he takes Cold and at other times being sick Stomache with puking &amp; general disability &amp; was not abel to attend the <date when="1863-06">June term</date> of this court That he is now in the Service of his Counhtry &amp; unabel to attend this term of said Court that he affiant wrote several letters to W<hi rend="underline"><hi rend="sup">m</hi></hi> Sampson inquiring about his brothers case &amp; got no answer from Sampson that he did not Know when he left his home in the state of Indiana that the Bail in said Case had been forfeited but supposed that his brother<pb/>
-<lb/>a Soldier in the service had prevented its forfeiture That his said brother is now or was a Short time since in the State of Tenn or Georgia in the Service &amp; he has been unable to visit him for some Months that these statements are true</p>
+<lb/><persName ref="cwgk:N00012483">John, W, House</persName> &amp;c Defent<hi rend="str">da</hi></p>
+<p>The affiant <persName ref="cwgk:N00012494">George <unclear>Larrison</unclear></persName> states that he is the agent of the Defendant <persName ref="cwgk:N00012493">Marrian <unclear>Larrison</unclear></persName> Who is his brother, that his brother appointed &amp; empowered him to attend to the prosecution vs him in the Court &amp; all the transactions growing out of the Same he the deft being in the army</p>
+<p>He further States that the saw his said brother almost daily about the <date when="1863-06-01">first June last</date> &amp; Knows of his own Knowledge that said brother was sick with a chronic disease or one at least that he is subject to when he takes Cold and at other times being sick Stomache with puking &amp; general disability &amp; was not abel to attend the <date when="1863-06">June term</date> of this court That he is now in the Service of his <orgName ref="cwgk:O00001186">Counhtry </orgName>&amp; unabel to attend this term of said Court that he affiant wrote several letters to <persName ref="cwgk:N00010802">W<hi rend="underline"><hi rend="sup">m</hi></hi> Sampson</persName> inquiring about his brothers case &amp; got no answer from Sampson that he did not Know when he left his home in the state of <placeName ref="cwgk:P001818">Indiana</placeName> that the Bail in said Case had been forfeited but supposed that his brother<pb/>
+<lb/>a Soldier in the service had prevented its forfeiture That his said brother is now or was a Short time since in the State of <placeName ref="cwgk:P001001">Tenn</placeName> or <placeName ref="cwgk:P001008">Georgia </placeName>in the Service &amp; he has been unable to visit him for some Months that these statements are true</p>
 <p>George <unclear>Larrison</unclear></p>
 <p>Sworn to before Me by George <unclear>Larrison</unclear>
 <lb/><date when="1863-12-11">Dec 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
-<p>L H M Winn D, C,
+<p><persName ref="cwgk:N00012597">L H M Winn</persName> D, C,
 <lb/>A Copy Attest
-<lb/>W. S. Porter clk</p>
+<lb/><persName ref="cwgk:N00012500">W. S. Porter</persName> clk</p>
 <p>Affidavit of Geo <unclear>Larrison</unclear></p>
   </body>
  </text>
