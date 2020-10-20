@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-079-0028"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,20 +71,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Columbia Ky <date when="1861-06-01">June 1<hi rend="sup">st</hi> 1861</date>
-<lb/>Hon B Magoffin
-<lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Gill
-<lb/>Geo T Wood
-<lb/>Gen Peter Dudley
-<lb/>Doct Jno B Peyton -- </p>
+   <p><placeName ref="cwgk:P001014">Columbia </placeName><placeName ref="cwgk:P001800">Ky</placeName> <date when="1861-06-01">June 1<hi rend="sup">st</hi> 1861</date>
+<lb/>Hon <persName ref="cwgk:N00000258">B Magoffin</persName>
+<lb/><persName ref="cwgk:N00003389">Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Gill</persName>
+<lb/><persName ref="cwgk:N00000775">Geo T Wood</persName>
+<lb/>Gen <persName ref="cwgk:N00003353">Peter Dudley</persName>
+<lb/>Doct <persName ref="cwgk:N00003672">Jno B Peyton</persName> -- </p>
 <p>On this day a company of Home Guards was organized under the Act approved <date when="1861-05-24">24<hi rend="sup">th</hi> May 1861</date>. I was elected Captain -- and report 63 privates -- together with the officers provided for under our State Military law<hi rend="underline"><hi rend="sup">s</hi></hi> -- The number will in a few days be increased to 100 -- who will be sworn in as provided for when added to the company. I enclose the certificate of the County Judge &amp; my bond with the security required under the law; and desire to draw Rifled muskets if now to be had for the company. -- Can the arms now be furnished? If so I will send immediately for them.</p>
 <p>Respectfully
-<lb/>Tho E Bramlette<pb/></p>
+<lb/><persName ref="cwgk:N001000">Tho E Bramlette</persName><pb/></p>
 <p>3</p>
-<p>Adair County Home Gd
+<p><orgName ref="cwgk:O00013591">Adair County Home Gd</orgName>
 <lb/><date when="1861">1861</date>
 <lb/><hi rend="underline">4</hi>
-<lb/>Adair Coy
+<lb/><placeName ref="cwgk:P001017">Adair Coy</placeName>
 <lb/> -- Home guard -- 
 <lb/>T E Bramlette
 <lb/>Captain -- </p>
