@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-161-0026"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,15 +72,15 @@
  <text>
   <body>
    <p><note place="header">176</note></p>
-<p>Papers of the Warren Co Committee in regard to a correction of their quota referred to Col C. D Pennebaker state agent at Washington DC 
+<p>Papers of the Warren Co Committee in regard to a correction of their quota referred to Col C. D Pennebaker state agent at <placeName ref="cwgk:P00001134">Washington DC</placeName> 
 <lb/><date when="1865-02-23"><hi rend="underline">Feby 23</hi><hi rend="underline"><hi rend="sup">d</hi></hi><hi rend="underline"> 1865</hi></date></p>
-<p>State of Kentucky
+<p><orgName ref="cwgk:O001025">State of Kentucky</orgName>
 <lb/>Executive Department
-<lb/>Frankfort Ky
+<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName>
 <lb/><date when="1865-02-23">Febry 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1865</date></p>
-<p>Respectfully referred to Col C. D. Pennebaker State Agent, who will at once submit these -- papers to Brig General James B Fry. Pro Mar<hi rend="underline"><hi rend="sup">s</hi></hi> Gen<hi rend="sup">l</hi> U S. and request that an order be issued changing the quota assigned Warren Co Ky, in accordance with the within statements.</p>
-<p>Tho E Bramlette
-<lb/>Governor of Ky</p>
+<p>Respectfully referred to Col <persName ref="cwgk:N00002582">C. D. Pennebaker</persName> State Agent, who will at once submit these -- papers to Brig General <persName ref="cwgk:N00003045">James B Fry</persName>. Pro Mar<hi rend="underline"><hi rend="sup">s</hi></hi> Gen<hi rend="sup">l</hi> U S. and request that an order be issued changing the quota assigned <placeName ref="cwgk:P001020">Warren Co </placeName>Ky, in accordance with the within statements.</p>
+<p><persName ref="cwgk:N001000">Tho E Bramlette</persName>
+<lb/>Governor of <placeName ref="cwgk:P001800">Ky</placeName></p>
   </body>
  </text>
 </TEI>
