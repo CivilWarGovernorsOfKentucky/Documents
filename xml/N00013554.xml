@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013554">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas E. Kirtley</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jon Tracey</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Jon Tracey</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013554">
+                    <persName>
+                      Thomas E. Kirtley
+                        (Washington County, Kentucky, resident and soldier)
+                    </persName>
+                        <event type="birth"  when="1843-02-16"  ><ab>1843-02-16</ab></event>
+                        <event type="death"  when="1905-10-31"  ><ab>1905-10-31</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Washington County, Kentucky, resident and soldier. Kentucky native. Son of V. E. Kirtley and Anna M. Kirtley. Resident of Owensboro, Kentucky, in 1850. Resident of Washington County, Kentucky, in 1860. Served in the 5th Kentucky Volunteer Cavalry (U.S.A.) as a private from September 6, 1862 to April 9, 1865. Served in the 3rd Kentucky Volunteer Cavalry (U.S.A.) as a  private from April 9, 1865 to May 9, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Daviess County, Owensboro, p. 352B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Washington County, District No. 2, p. 78.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0030.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0054.<lb/>
+<hi rend="italic">Texas, Death Certificates, 1903-1982</hi>, Texas Department of State Health Services, Austin Texas, p. 70 of 109 on microfilm (accessed via Ancestry.com). <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Thomas E. Kirtley (16 Feb 1843-31 Oct 1905),&quot; Memorial #32221126 , http://www.findagrave.com/memorial/32221126 (accessed October 22, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
