@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0377"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Williamstown
+   <p><placeName ref="cwgk:P00002296">Williamstown</placeName>
 <lb/><date when="1863-12-01">Dec 1 -- 1863</date>
-<lb/>Hon Thos E Brambet
-<lb/>Gover. of Kentucky
+<lb/>Hon <persName ref="cwgk:N001000">Thos E Brambet</persName>
+<lb/>Gover. of <orgName ref="cwgk:O001025">Kentucky</orgName>
 <lb/>Dear Sir</p>
-<p>Enclosed is the petition of John Marques of this county which explains itself. I will add that the facts are I believe correctly stated, but not so fully as they might have been John Neal is his son in law, lived near the line betwene Scott &amp; Grant -- There was a great nest of theives in his neighborhood that annoyd> the people greatly -- Neal was accused of being one of the theives -- was tried with a number of others &amp; held to bail by a court of inquiry -- Marques was his bail -- <pb/></p>
-<p>After the trial a company of citizens mostly Home guards &amp; mostly <hi rend="underline">good citizens</hi> held a meeting &amp; resolved that John Neal should leave ^the^ neighborhood together with his brother Thomas Neal &amp; others or they would hang them. Neal was notified &amp; left &amp; has never returned -- now as I am informed lives out of the State -- I believe in Ia -- The others left also -- The stealing had no connection with the rebelion the Neals being loyal Union men &amp; prosecuted in part by the best Union men in the country -- Neal is a bad man but is gone -- I was prosecuting him &amp; know what I write is true -- Marques <hi rend="underline">gets drunk</hi> -- but is an industrious peaceable old man -- is loyal -- owns 200 acres of poor bushy hill land &amp; nothing more<pb/>
-<lb/>has a host of grandchildren to support -- the family of one son who has been in the Federal army since <date when="1861">1861</date> -- being of the number -- He is truly &amp; actively loyal &amp; c &amp; except his disapition is a harmless citizen -- is old &amp; infirm &amp; will be ruined -- utterly ruined -- if he has this Judgt to pay. I therefor earnestly write in asking that you remit it all except officers fees &amp;c If desired he will try to get Neal &amp; have him tried although he is his son in law -- </p>
-<p>Truly &amp;c W S Rankin</p>
-<p>His land is to be sold on the <date when="1863-12-14">14<hi rend="sup">th</hi> -- inst -- </date> Mr Scott is the comwlths atty -- </p>
+<p>Enclosed is the petition of <persName ref="cwgk:N00012601">John Marques </persName>of this <placeName ref="cwgk:P00000938">county</placeName> which explains itself. I will add that the facts are I believe correctly stated, but not so fully as they might have been <persName ref="cwgk:N00012530">John Neal</persName> is his son in law, lived near the line betwene <placeName ref="cwgk:P001030">Scott </placeName>&amp; Grant -- There was a great nest of theives in his neighborhood that annoyd&gt; the people greatly -- Neal was accused of being one of the theives -- was tried with a number of others &amp; held to bail by a court of inquiry -- Marques was his bail -- <pb/></p>
+<p>After the trial a company of citizens mostly Home guards &amp; mostly <hi rend="underline">good citizens</hi> held a meeting &amp; resolved that John Neal should leave ^the^ neighborhood together with his brother <persName ref="cwgk:N00012615">Thomas Neal</persName> &amp; others or they would hang them. Neal was notified &amp; left &amp; has never returned -- now as I am informed lives out of the State -- I believe in <placeName ref="cwgk:P001818">Ia</placeName> -- The others left also -- The stealing had no connection with the rebelion the Neals being loyal <orgName ref="cwgk:O00002945">Union </orgName>men &amp; prosecuted in part by the best Union men in the country -- Neal is a bad man but is gone -- I was prosecuting him &amp; know what I write is true -- Marques <hi rend="underline">gets drunk</hi> -- but is an industrious peaceable old man -- is loyal -- owns 200 acres of poor bushy hill land &amp; nothing more<pb/>
+<lb/>has a host of grandchildren to support -- the family of <persName ref="cwgk:N00012602">one son</persName> who has been in the <orgName ref="cwgk:O00001186">Federal army</orgName> since <date when="1861">1861</date> -- being of the number -- He is truly &amp; actively loyal &amp; c &amp; except his disapition is a harmless citizen -- is old &amp; infirm &amp; will be ruined -- utterly ruined -- if he has this Judgt to pay. I therefor earnestly write in asking that you remit it all except officers fees &amp;c If desired he will try to get Neal &amp; have him tried although he is his son in law -- </p>
+<p>Truly &amp;c <persName ref="cwgk:N00000208">W S Rankin</persName></p>
+<p>His land is to be sold on the <date when="1863-12-14">14<hi rend="sup">th</hi> -- inst -- </date> <persName ref="cwgk:N00002277">Mr Scott</persName> is the comwlths atty -- </p>
   </body>
  </text>
 </TEI>
