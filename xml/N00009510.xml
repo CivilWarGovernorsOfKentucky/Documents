@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Alex Magruder</title>
+        <title level="a" type="main">Alexander Magruder</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Emily D. Moses</name>
@@ -43,9 +51,11 @@
         <particDesc>
                 <person xml:id="N00009510">
                     <persName>
-                      Alex Magruder
-                        (Major, U.S.A. )
+                      Alexander Magruder
+                        (Jefferson County, Kentucky, merchant and soldier)
                     </persName>
+                        <event type="birth"  when="1829"  cert="medium" ><ab>c1829</ab></event>
+                        <event type="death"  when="1890"  ><ab>1890</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,12 +64,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Served as Major in the Twenty-Seventh Regiment from April 26, 1863 to March 21, 1865. </p>
+        <p>Jefferson County, Kentucky, merchant and major. Kentucky native. Married to Margaret A. Wilson Magruder in Louisville, Kentucky, on October 12, 1858. Merchant in Louisville in 1860. Served in the 27th Kentucky Infantry Regiment (U.S.A.) as adjutant and major from February 12, 1863, to March 29, 1865. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-2548<lb/>
-<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 232.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 466.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000482708, p. 106<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 232.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 387.<lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Kentucky, Application #486396, Certificate #292375.
 </bibl></ab>
     </back>
 </text>
