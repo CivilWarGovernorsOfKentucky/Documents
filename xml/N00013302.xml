@@ -8,6 +8,18 @@
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +52,11 @@
                 <person xml:id="N00013302">
                     <persName>
                       Samuel F. Johnson
-                        ()
+                        (Leavenworth Count, Kansas, druggist and soldier)
                     </persName>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
+                        <event type="death"  when="1898"  cert="medium" ><ab>c1898</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +64,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Served in the 52nd Kentucky Volunteer Mounted Infantry (U.S.A.) as major and lieutenant colonel from March 3, 1863, to January 18, 1865.</p>
+        <p>Leavenworth County, Kansas, druggist and soldier. Ohio native. Married to Mary E. Ellis Johnson in Christian County, Kentucky, on July 24, 1850. Father of Martha Johnson, Ansella Johnson, and Morris Johnson. Methodist Episcopal Church minister in Christian County in 1850. Druggist in Leavenworth County, Kansas, in 1860. Served in the 8th Kentucky Cavalry (U.S.A.) as captain from September 6, 1862, to September 23, 1863. Served in the 52nd Kentucky Volunteer Mounted Infantry (U.S.A.) as major and lieutenant colonel from March 3, 1863, to January 18, 1865. Served in the 17th Kentucky Cavalry (U.S.A.) as colonel from April 25, 1865, to September 20, 1865.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 506.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Christian County, District 2, p. 423B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kansas Territory, Leavenworth County, Leavenworth, p. 587.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Christian County Marriages, Film #000465562, p. 182.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 90.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0453.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 139.<lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Kentucky, Application #683273, Certificate #473695.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 506.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Samuel F. Johnson (1824-1898),&quot; Memorial #X13175869, http://www.findagrave.com/memorial/13175869 (accessed October 13, 2020).
 </bibl></ab>
     </back>
 </text>
