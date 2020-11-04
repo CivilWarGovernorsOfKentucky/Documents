@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0384"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Owingsville, <date when="1863-12-15">Dec. 15<hi rend="underline"><hi rend="sup">th</hi></hi> '63</date>
+   <p><placeName ref="cwgk:P00002306">Owingsville</placeName>, <date when="1863-12-15">Dec. 15<hi rend="underline"><hi rend="sup">th</hi></hi> '63</date>
 <lb/>To His Excellensy
-<lb/>Gov, Bramlett
+<lb/>Gov, <persName ref="cwgk:N001000">Bramlett</persName>
 <lb/>Dear Sir</p>
-<p>There was a Judgement rendered at this Term of the Bath Circuit Court against Frank Tincher for keeping a Tippling House -- He assures me is about Joining the Army &amp; will do so if you remit his fine -- I hope therefore you will do so -- as he is very poor.</p>
+<p>There was a Judgement rendered at this Term of the<orgName ref="cwgk:O00000358"> Bath Circuit Court</orgName> against <persName ref="cwgk:N00012592">Frank Tincher</persName> for keeping a Tippling House -- He assures me is about Joining the<orgName ref="cwgk:O00001186"> Army</orgName> &amp; will do so if you remit his fine -- I hope therefore you will do so -- as he is very poor.</p>
 <p>Yours Respectfully
-<lb/>J, S, Dury
+<lb/><persName ref="cwgk:N00005291">J, S, Dury</persName>
 <lb/>Com<hi rend="sup">t</hi><hi rend="underline"><hi rend="sup">h</hi></hi> Atty.<pb/></p>
 <p>Bath Cir Ct
 <lb/>vs
