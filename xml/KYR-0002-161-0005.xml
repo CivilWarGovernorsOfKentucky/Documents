@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-161-0005"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,18 +73,18 @@
   <body>
    <p><note place="header">8</note></p>
 <p><date when="1865-02-11">Feby 11<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>5</date>
-<lb/>Hon. W. L. Botts
+<lb/>Hon. <persName ref="cwgk:N00000867">W. L. Botts</persName>
 <lb/>Chairman Com<hi rend="sup">"</hi> on Finance
-<lb/>Kentucky Senate.
+<lb/><orgName ref="cwgk:O001019">Kentucky Senate</orgName>.
 <lb/>Sir</p>
 <p>In obedience to a resolution of the Senate transmitted to me by you, as Chairman of the Finance Committee, I have the honor to submit the following statement, viz</p>
-<p>I. My salary is two hundred dollars per month paid by authority of an act of the General Assembly of Ky, Entitled, "An Act to fix the salaries of the Adjutant and Quarter Master Generals". Approved <date when="1863-01-08">January the 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.</p>
+<p>I. My salary is two hundred dollars per month paid by authority of an act of the <orgName ref="cwgk:O00000923">General Assembly of Ky</orgName>, Entitled, "An Act to fix the salaries of the <orgName ref="cwgk:O00000388">Adjutant</orgName> and <orgName ref="cwgk:O00000389">Quarter Master Generals</orgName>". Approved <date when="1863-01-08">January the 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.</p>
 <p>II. There are at present employed by me, six clerks with salaries per month as follows, viz
 <lb/><table rend="rules">
 <row>
 	<cell>John B. Tilford Jr</cell>
 	<cell>Act Asst Adj Gen<hi rend="underline"><hi rend="sup">l</hi></hi></cell>
-	<cell>&#36;125.<hi rend="sup">00</hi></cell>
+	<cell>$125.<hi rend="sup">00</hi></cell>
 </row>
 <row>
 	<cell>Charles Hayden</cell>
@@ -104,18 +112,18 @@
 <row>
 	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Stewart</cell>
 	<cell/>
-	<cell>&#36;8333.</cell>
+	<cell>$8333.</cell>
 </row>
 </table></p>
 <p>The above list includes all the clerks employed in the Adjutant and Inspector Generals offices. They enter upon their duties at 8 oclock A. M each day, and are required to remain until 10 oclock P. M, and later if the pressure of business demands their attendance:</p>
-<p>III. The building which I occupy as an office in conjunction with the Quarter Master General is rented at &#36;500- per annum. The expenses incurred for fuel, stationary, servant hire &amp;c, will amount on an average to &#36;150- per month, which is paid by certificate to the Auditor of Public Accounts, as per authority of an act of the General Assembly, entitled, "an Act to define further the duties of Quarter Master General" approved <date when="1864-02-19">February 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.</p>
+<p>III. The building which I occupy as an office in conjunction with the Quarter Master General is rented at $500- per annum. The expenses incurred for fuel, stationary, servant hire &amp;c, will amount on an average to $150- per month, which is paid by certificate to the <orgName ref="cwgk:O00004702">Auditor of Public Accounts</orgName>, as per authority of an act of the General Assembly, entitled, "an Act to define further the duties of Quarter Master General" approved <date when="1864-02-19">February 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.</p>
 <p>IV. In addition to the expenses above enumerated, at times when regiments are awaiting muster out, and require copies of their original muster in rolls, I employ additional clerks for the time being, in order to facilitate their muster out. This Expense however, does not occur often, and the amount thus expended will not exceed<pb/>
 <lb/><note place="header">10</note>
-<lb/>on an average &#36;25- per month.</p>
-<p>The clerks employed in this Department, are all experienced in their business, and from the fact that their whole time is required, frequently working all night, justifies the payment of good salaries. The salaries of all clerks are paid out of the Military Fund, and no clerk is employed or salaries paid except on approval of the Governor. Duplicate accounts are regularly made and forwarded to the War Department, and it is Expected the General Government will reimburse for all Expenses, as on its action, the necessity for placing our State Military Departments on a War footing, has occurred. This expectation is based upon a knowledge of the facts, that similar expenses are reimbursed our neighboring states by the War Department.</p>
+<lb/>on an average $25- per month.</p>
+<p>The clerks employed in this Department, are all experienced in their business, and from the fact that their whole time is required, frequently working all night, justifies the payment of good salaries. The salaries of all clerks are paid out of the Military Fund, and no clerk is employed or salaries paid except on approval of the <persName ref="cwgk:N001000">Governor</persName>. Duplicate accounts are regularly made and forwarded to the <orgName ref="cwgk:O00005118">War Department</orgName>, and it is Expected the <orgName ref="cwgk:O00002945">General Government</orgName> will reimburse for all Expenses, as on its action, the necessity for placing our State Military Departments on a War footing, has occurred. This expectation is based upon a knowledge of the facts, that similar expenses are reimbursed our neighboring states by the War Department.</p>
 <p>Very Respectfully
-<lb/>D, W, Lindsey
-<lb/>Inspt &amp; Adj Gen<hi rend="sup">l</hi> of Ky</p>
+<lb/><persName ref="cwgk:N00000873">D, W, Lindsey</persName>
+<lb/><orgName ref="cwgk:O00000920">Inspt</orgName> &amp; Adj Gen<hi rend="sup">l</hi> of Ky</p>
   </body>
  </text>
 </TEI>
