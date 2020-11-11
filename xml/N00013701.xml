@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013701">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Quincy Ward</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013701">
+                    <persName>
+                      John Quincy Ward
+                        (Harrison County, KY, Com&#39;th atty pro tem)
+                    </persName>
+                        <event type="birth"  when="1838-08-29"  ><ab>1838-08-29</ab></event>
+                        <event type="death"  when="1899-06-26"  ><ab>1899-06-26</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Scott County, Kentucky, and Harrison County, Kentucky, attorney and commonwealth’s attorney. Scott County native. Son of Cary Aldry Ward and Eliza Jane Risk Ward. Married to Mary E. Miller Ward in Harrison County on November 30, 1865. Student in Scott County in 1850. Household owned five enslaved persons in Scott County in 1850. Graduated from Georgetown College in Georgetown, Kentucky, in 1858. Law student in Scott County in 1860. Household owned six enslaved persons in Scott County in 1860. County attorney of Harrison County in 1862. Commonwealth’s attorney pro tem in Harrison County in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Scott County, District 1, p.421A .<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Scott County, District 1, p. 581.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, District 2, p. 810. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Scott County, District 2, p. 242B. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort District 2, p. 337.<lb/>
+H. Levin, <hi rend="italic">The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 141-43.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Harrison County Marriages, 1862-1869, Film #000216898, p. 96-97, p. 497 of 556 of microfilm.<lb/>
+<hi rend="italic">Find A Grave</hi>, “John Quincy Adams Ward (1838-1899),&quot; Memorial #83871978, https://www.findagrave.com/memorial/83871978/john-quincy_adams-ward (accessed November 11, 2020).<lb/>
+KYR-0001-004-0388.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
