@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0387"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,25 +71,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mount Vernon Rockcastle Co Ky <date when="1863-12-30">Dec 30<hi rend="sup">th</hi> 1863</date></p>
-<p>To His Excellency The Govenor of the Commonwealth of Kentucky your Petitioner Isaac Whitehead states that at the <date when="--08">august term</date> of the Rockcastle Circuit court He was fine &#36;20, under the Gaming Laws and that he presented a petition to the Govenor signed by the Circuit Judge and Commonwealth attorney- and was informed that his fine had been remitted and knew no better until within a few weeks back. the then Circuit court Clerk Died and if the order came remitting the fine it has been lost He also represents that he is a poor man, and a good Union man, and asks to have his fine remitted</p>
+   <p><placeName ref="cwgk:P00000907">Mount Vernon</placeName> <placeName ref="cwgk:P00000906">Rockcastle Co</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1863-12-30">Dec 30<hi rend="sup">th</hi> 1863</date></p>
+<p>To His Excellency The Govenor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> your Petitioner <persName ref="cwgk:N00003108">Isaac Whitehead</persName> states that at the <date when="--08">august term</date> of the <orgName ref="cwgk:O00000572">Rockcastle Circuit</orgName> court He was fine $20, under the Gaming Laws and that he presented a petition to the Govenor signed by the <persName ref="cwgk:N00002711">Circuit Judge</persName> and <persName ref="cwgk:N00000911">Commonwealth attorney</persName>- and was informed that his fine had been remitted and knew no better until within a few weeks back. the then <persName ref="cwgk:N00000451">Circuit court Clerk</persName> Died and if the order came remitting the fine it has been lost He also represents that he is a poor man, and a good Union man, and asks to have his fine remitted</p>
 <p>Isaac Whitehead</p>
 <p>We the undersigned think Mr Whitehead should have his fine remitted,=</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>E. T. Fish c. R. cir. c
-<lb/>W. A, Brooks
-<lb/><cb n="2"/>James G Carter
-<lb/>W M Fish, C, R, C, C
-<lb/>Edwin Shivel C, S, C, R, C,
-<lb/>W<hi rend="sup">m</hi> McClure S R C
-<lb/>G.O.R. M<hi rend="sup">c</hi>Call
-<lb/>James. W. Smith<milestone unit="column" n="1"/><pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00000455">E. T. Fish</persName> c. R. cir. c
+<lb/><persName ref="cwgk:N00000454">W. A, Brooks</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00000930">James G Carter</persName>
+<lb/><persName ref="cwgk:N00000452">W M Fish</persName>, C, R, C, C
+<lb/><persName ref="cwgk:N00006278">Edwin Shivel</persName> C, S, C, R, C,
+<lb/><persName ref="cwgk:N00006378">W<hi rend="sup">m</hi> McClure</persName> S R C
+<lb/><persName ref="cwgk:N00000450">G.O.R. M<hi rend="sup">c</hi>Call</persName>
+<lb/><persName ref="cwgk:N00012829">James. W. Smith</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Rockcastle Cir Ct
 <lb/>vs
 <lb/>I. Whitehead
-<lb/>&#36;20 -- 
+<lb/>$20 -- 
 <lb/>Gaming</p>
 <p>Remit except fees &amp; costs it was heretofore done -- I think
-<lb/>T E Bramlette
+<lb/><persName ref="cwgk:N001000">T E Bramlette</persName>
 <lb/><date when="1864-01-12">12<hi rend="sup">th</hi> Jany 
 <lb/>1864</date></p>
   </body>
