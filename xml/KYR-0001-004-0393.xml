@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0393"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,13 +70,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>I <hi rend="str">was</hi> George A Bean was ordred &amp; fined at Spring trm of the Bath Circuit Court in the Sum of forty Dollars. for keeping stud &amp; Jack I state that I paid the license &amp; the same was thro neglect of the clerk not entered upon his books after date of Indictment the ck promise to make correction inform atty for the comth Thus arranged pettioner gave it no farther attention the atty was not notifid &amp; judgt was taken in petitionrs absence whefer he pys remmission,</p>
+   <p>I <hi rend="str">was</hi> <persName ref="cwgk:N00012423">George A Bean</persName> was ordred &amp; fined at Spring trm of the <orgName ref="cwgk:O00000358">Bath Circuit Court</orgName> in the Sum of forty Dollars. for keeping stud &amp; Jack I state that I paid the license &amp; the same was thro neglect of the <persName ref="cwgk:N00003130">clerk</persName> not entered upon his books after date of Indictment the ck promise to make correction inform <persName ref="cwgk:N00005226">atty for the comth</persName> Thus arranged pettioner gave it no farther attention the atty was not notifid &amp; judgt was taken in petitionrs absence whefer he pys remmission,</p>
 <p>George A Bean<pb/></p>
-<p>Bath circuit ct
-<lb/>vs &#125; Petition
+<p><placeName ref="cwgk:P00000478">Bath</placeName> circuit ct
+<lb/>vs } Petition
 <lb/>G A Bean</p>
-<p>Remit the fine of 40&#36; Bath Crt Spring Term <date when="1862">1862</date></p>
-<p>Tho E Bramlette</p>
+<p>Remit the fine of 40$ Bath Crt Spring Term <date when="1862">1862</date></p>
+<p><persName ref="cwgk:N001000">Tho E Bramlette</persName></p>
 <p><date when="1864-01-30">30<hi rend="sup">th</hi> Jany/64</date></p>
   </body>
  </text>
