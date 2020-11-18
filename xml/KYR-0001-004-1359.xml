@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1359"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,20 +72,20 @@
  <text>
   <body>
    <p><note place="header">1<hi rend="underline"><hi rend="sup">st</hi></hi></note>
-<lb/>State of Kentucky
-<lb/>Mercer Circuit Court &#125; Sct</p>
-<p>At a circuit held for Mercer County at the court-house in Harrodsburg The Grand Jury returned into court on the <date when="1863-10-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> October 1863</date> the following Indictment namely.</p>
-<p>The Commonwealth of Kentucky
-<lb/>against &#125; Mercer County Circuit Court
-<lb/>John Patterson</p>
-<p>The Grand Jury of Mercer County, in the name and by the authority of the Commonwealth of Kentucky, accuse John Patterson of the offence of Malicious Shooting with intent to kill committed as follows: The said John Patterson on the <date when="1863-10-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> day of October 1863</date>. in the county aforesaid, did unlawfully and maliciously shoot at and wound A. G. Kyle, with a gun loaded with a leaden bullit or other hard substance, with intent to kill said Kyle thereby against the peace and dignity of the Commonwealth of Kentucky.</p>
+<lb/><placeName ref="cwgk:P001800">State of Kentucky</placeName>
+<lb/><orgName ref="cwgk:O00000424">Mercer Circuit Court</orgName> } Sct</p>
+<p>At a circuit held for <placeName ref="cwgk:P00000556">Mercer County</placeName> at the court-house in <placeName ref="cwgk:P00000555">Harrodsburg</placeName> The Grand Jury returned into court on the <date when="1863-10-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> October 1863</date> the following Indictment namely.</p>
+<p><orgName ref="cwgk:O001025">The Commonwealth of Kentucky</orgName>
+<lb/>against } Mercer County Circuit Court
+<lb/><persName ref="cwgk:N00004883">John Patterson</persName></p>
+<p>The Grand Jury of Mercer County, in the name and by the authority of the Commonwealth of Kentucky, accuse John Patterson of the offence of Malicious Shooting with intent to kill committed as follows: The said John Patterson on the <date when="1863-10-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> day of October 1863</date>. in the county aforesaid, did unlawfully and maliciously shoot at and wound <persName ref="cwgk:N00002275">A. G. Kyle</persName>, with a gun loaded with a leaden bullit or other hard substance, with intent to kill said Kyle thereby against the peace and dignity of the Commonwealth of Kentucky.</p>
 <p>Witness before the Jury.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Elison Carter
 <lb/>James Taylor
 <lb/>Sidney M<hi rend="underline"><hi rend="sup">c</hi></hi>Fatridge
 <lb/>Jefferson Roberts
 <lb/>William Sallee
-<lb/>John A Proctor
+<lb/><persName ref="cwgk:N00010532">John A Proctor</persName>
 <lb/><cb n="2"/>A. G. Kyle, James Wornicut
 <lb/>D<hi rend="sup">r</hi> W<hi rend="underline"><hi rend="sup">m</hi></hi> Tomlinson, J G Kyle
 <lb/>James Crutcher
@@ -85,10 +93,10 @@
 <lb/><note place="header">2<hi rend="underline"><hi rend="sup">d</hi></hi></note></p>
 <p>At the <date when="1864-11"><hi rend="str">April</hi>Nov Term</date> of the Mercer <hi rend="str">Count</hi>Circuit Court To wit Thursday <date when="1864-11-10">November 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date> the following proceedings were had.</p>
 <p>The Commonwealth of Kentucky Plaintiff
-<lb/>vs &#125; Indictment N<hi rend="underline"><hi rend="sup">o</hi></hi> 1
+<lb/>vs } Indictment N<hi rend="underline"><hi rend="sup">o</hi></hi> 1
 <lb/>John Patterson Defendant</p>
-<p>This day came the Commonwealth by attorney as also Defendant in proper person in discharge of his bail bond entered into herein and was placed at the Bar in custody of the Sheriff and thereupon the following Jurors of a Jury were duly empannelled to-wit James B Irvine, Daniel F James, Joseph Yeast, H. W. Mitchell, John L Martin, Jonas Robb, A J Sims, John Adams, J C Daniel, George Raney, William Semonis, &amp; Cornelius Donavan Who was Sworn Well and truly to try the issue and true verdict render in this case,</p>
-<p>And having proceeded with the trial of this case but not having time to conclude the same on this day, it is ordered that the further trial hereof be continued and postponed until to morrow and the said Jurors being sworn and charged as the Law requires are permitted to disperse until to Morrow Morning 9 O'clock. And thereupon the said defendant was remanded to the Custody of the Jailor of Mercer County.<pb/>
+<p>This day came the Commonwealth by attorney as also Defendant in proper person in discharge of his bail bond entered into herein and was placed at the Bar in custody of the Sheriff and thereupon the following Jurors of a Jury were duly empannelled to-wit <persName ref="cwgk:N00002287">James B Irvine</persName>, <persName ref="cwgk:N00002321">Daniel F James</persName>, <persName ref="cwgk:N00002326">Joseph Yeast</persName>, <persName ref="cwgk:N00002322">H. W. Mitchell</persName>, <persName ref="cwgk:N00002324">John L Martin</persName>, <persName ref="cwgk:N00002325">Jonas Robb</persName>, <persName ref="cwgk:N00002319">A J Sims</persName>, <persName ref="cwgk:N00002323">John Adams</persName>, <persName ref="cwgk:N00002286">J C Daniel</persName>, <persName ref="cwgk:N00002284">George Raney</persName>, <persName ref="cwgk:N00002327">William Semonis</persName>, &amp; <persName ref="cwgk:N00002320">Cornelius Donavan</persName> Who was Sworn Well and truly to try the issue and true verdict render in this case,</p>
+<p>And having proceeded with the trial of this case but not having time to conclude the same on this day, it is ordered that the further trial hereof be continued and postponed until to morrow and the said Jurors being sworn and charged as the Law requires are permitted to disperse until to Morrow Morning 9 O'clock. And thereupon the said defendant was remanded to the Custody of the <persName ref="cwgk:N00010534">Jailor of Mercer County</persName>.<pb/>
 <lb/><note place="header">3<hi rend="underline"><hi rend="sup">d</hi></hi></note></p>
 <p>The Comlth of Ky <hi rend="str">vs</hi> Plff
 <lb/>vs Indict No 1
@@ -106,7 +114,7 @@
 <lb/>verdict to wit, We of the Jury find the Defendant John Patterson guilty of the offence charged in the within Indictment and fix his punishment at One Years imprisonment in the state penitentiary Signed James B Irvine foreman &amp;c and thereupon the said Defendant was again remanded to the Jail of Mercer County.</p>
 <p>State of Kentucky
 <lb/>Mercer Circuit Sct</p>
-<p>I Richard Board Clerk of the Mercer Circuit Court Certify that the foregoing Three and One Fourth Pages contain a true copy of the Indictment and Judgement in the within named case</p>
+<p>I <persName ref="cwgk:N00002356">Richard Board</persName> Clerk of the Mercer Circuit Court Certify that the foregoing Three and One Fourth Pages contain a true copy of the Indictment and Judgement in the within named case</p>
 <p>Given under my hand this <date when="1864-11-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864</date></p>
 <p>Richard Board C. M. C. C</p>
   </body>
