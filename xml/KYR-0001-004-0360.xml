@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0360"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,26 +70,26 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excellency the Governor of the Comwth of Ky</p>
-<p>The undersigned your petitioners citizens of Carroll County would respectfully state that at the <date when="1861">Spring term 1861</date> of the Carroll Circuit Court William Gardner was fined &#36;50 for selling Liquor to a minor.</p>
+   <p>To his excellency the <persName ref="cwgk:N001000">Governor</persName> of the <orgName ref="cwgk:O001025">Comwth of Ky</orgName></p>
+<p>The undersigned your petitioners citizens of <placeName ref="cwgk:P00000682">Carroll County</placeName> would respectfully state that at the <date when="1861">Spring term 1861</date> of the <orgName ref="cwgk:O00000365">Carroll Circuit Court</orgName> <persName ref="cwgk:N00012693">William Gardner</persName> was fined $50 for selling Liquor to a minor.</p>
 <p>Gardner states that at the time the offense was committed he was ignorant of the existence of a law prohibiting such sales.</p>
 <p>Your petitioners further state that Gardner is a man of limited means, That he has a family wholly dependent upon him for support. we state that since the fine was assesed Gardner has conducted himself as a law abiding citizen<hi rend="str">s</hi> and we have reason to believe he will so conduct himself in the future.</p>
 <p>We therefore request your excellency to remit said fine</p>
 <p>William Gardner,
-<lb/>A R Gaunt C C C C
-<lb/>R. W. Masterson
-<lb/>H, Cox
-<lb/>Jno J. Orr cty. atto.
-<lb/>J G <unclear>Chin</unclear>
-<lb/>R, H, V, Jett
-<lb/>Allen Hanks c, c, c
-<lb/>R T Vories S c c<pb/></p>
+<lb/><persName ref="cwgk:N00005210">A R Gaunt C C C C</persName>
+<lb/><persName ref="cwgk:N00002090">R. W. Masterson</persName>
+<lb/><persName ref="cwgk:N00012694">H, Cox</persName>
+<lb/><persName ref="cwgk:N00005207">Jno J. Orr cty. atto.</persName>
+<lb/><persName ref="cwgk:N00012697">J G <unclear>Chin</unclear></persName>
+<lb/><persName ref="cwgk:N00012692">R, H, V, Jett</persName>
+<lb/><persName ref="cwgk:N00002219">Allen Hanks c, c, c</persName>
+<lb/><persName ref="cwgk:N00005004">R T Vories S c c</persName><pb/></p>
 <p>Carroll Cir Ct
 <lb/>vs
 <lb/>W<hi rend="sup">m</hi> Gardner</p>
 <p>Remit except fees &amp; costs</p>
 <p>Tho E Bramlette</p>
-<p>&#36;50 -- 
+<p>$50 -- 
 <lb/>Tipling
 <lb/><date when="1863-12-14">14<hi rend="sup">th</hi> Dec/63</date></p>
   </body>
