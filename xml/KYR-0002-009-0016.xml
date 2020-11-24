@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0016"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Department of the Ohio,
-<lb/>Branch Office, Adjutant General's Department,
-<lb/>Lexington, Kentucky, <date when="1864-03-16">March 16<hi rend="sup">th</hi>, 1864</date>.
+   <p><orgName ref="cwgk:O001001">Department of the Ohio</orgName>,
+<lb/>Branch Office, <orgName ref="cwgk:O00000388">Adjutant General's Department</orgName>,
+<lb/><placeName ref="cwgk:P001002">Lexington</placeName>, <placeName ref="cwgk:P001800">Kentucky</placeName>, <date when="1864-03-16">March 16<hi rend="sup">th</hi>, 1864</date>.
 <lb/>Special Orders,
 <lb/>No. 72
 <lb/>[<hi rend="italic">Extract</hi>.]<figure type="hr"/></p>
-<p>3,, The resignation of Captain <hi rend="underline">Benjamin C.</hi> <hi rend="underline">Haley</hi> 45<hi rend="sup">t</hi> Ky, Mt'd Inf. vols "for the good of the service" is hereby accepted, to take effect <date when="1864-03-17">March 17<hi rend="sup">th</hi>, 1864</date>, with the condition that he shall recieve no final payments until he has satisfied the Pay Department that he is in no wise indebted to the Government.<figure type="hr"/></p>
-<p>By Command of Major General Schofield:
-<lb/>J. Bates Dickson
+<p>3,, The resignation of Captain <hi rend="underline">Benjamin C.</hi> <hi rend="underline">Haley</hi> 45<hi rend="sup">t</hi> Ky, Mt'd Inf. vols "for the good of the service" is hereby accepted, to take effect <date when="1864-03-17">March 17<hi rend="sup">th</hi>, 1864</date>, with the condition that he shall recieve no final payments until he has satisfied the <orgName ref="cwgk:O00011001">Pay Department</orgName> that he is in no wise indebted to the <orgName ref="cwgk:O00002945">Government</orgName>.<figure type="hr"/></p>
+<p>By Command of Major General <persName ref="cwgk:N00012695">Schofield</persName>:
+<lb/><persName ref="cwgk:N00012726">J. Bates Dickson</persName>
 <lb/>Assistant Adjutant General.</p>
-<p>Gov. Ky--
+<p><persName ref="cwgk:N001000">Gov</persName>. Ky--
 <lb/>1. 2. 3: 4<pb/></p>
 <p>45 Infy<figure type="hr"/>
 <lb/>Haley Benj R,
