@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013719">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John H. McFarland</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013719">
+                    <persName>
+                      John H. McFarland
+                        (Daviess County, Kentucky, farmer &amp; state house rep)
+                    </persName>
+                        <event type="birth"  when="1794-04-26"  ><ab>1794-04-26</ab></event>
+                        <event type="death"  when="1887-03-03"  ><ab>1887-03-03</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Daviess County, Kentucky, farmer and politician. Person County, North Carolina, native. Married to Elizabeth Griffith McFarland in October 1816. Father of Penelope McFarland Barron, Lucinda McFarland, and Lucy McFarland. Married to Harriet Leaman McFarland. Father of Walter McFarland, Vitula McFarland, William Stanford McFarland, Satira McFarland, John McFarland, and Robert McFarland. Elected to the House of Representatives of the Commonwealth of Kentucky in 1848. Farmer in Daviess County in 1850. Owned nineteen enslaved persons in Daviess County in 1850. Farmer in Owensboro, Kentucky, in 1860. Owned eighteen enslaved persons (including Atha) in Owensboro in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Daviess County, District 1, p. 418A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Daviess County, District 1, p. 17.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Daviess County, Owensboro, District 2, p. 828.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Daviess County, District 2, p. 8.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Daviess County, Owensboro, Lower Town, p. 177B.<lb/>
+Mary Ellis Augsbury, <hi rend="italic">Lineage Book: National Society of the Daughters of the American Revolution</hi>, Vol. 43 (Washington, D.C.: National Society of the Daughters of the American Revolution, 1916), 357.<lb/>
+<hi rend="italic">Owensboro Area Obituary Index</hi>, Daviess County Public Library, Owensboro, KY, http://obits.dcplibrary.org/record-detail.asp?pg=4 (accessed November 12, 2020).<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;John H McFarland (1794-1887),&quot; Memorial #57361447, http://www.findagrave.com/memorial/57361447 (accessed November 12, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
