@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0004"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,13 +70,13 @@
  </teiHeader>
  <text>
   <body>
-   <p><figure type="hr"/>Geo. T. Stacey com 2 Lieut 40 Infy
+   <p><figure type="hr"/><persName ref="cwgk:N00012725">Geo. T. Stacey </persName>com 2 Lieut <orgName ref="cwgk:O00009883">40 Infy</orgName>
 <lb/><date when="1863-07-21">July 21. 1863</date> -- <figure type="hr"/>
 <lb/><note place="left margin">1. 2. 3. 4. 5. 6.</note></p>
 <p>Commission
 <lb/>Geo. T. Stacey 2<hi rend="sup">nd</hi> Lt. 
 <lb/>40<hi rend="sup">th</hi> Regt Ky Infantry
-<lb/>&amp; hand to me. J W F</p>
+<lb/>&amp; hand to me. <persName ref="cwgk:N00000228">J W F</persName></p>
 <p><note place="left margin"><hi rend="underline">1. 2</hi>.</note>
 <lb/><date when="1863-07-21">July 21. <hi rend="underline">1863</hi></date><pb/></p>
 <p>40. Infy<figure type="hr"/>
