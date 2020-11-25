@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0029"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Christina Adkins</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bowling Green Ky
-<lb/><date when="1863-06-15">July 15 1863</date>
+   <p><placeName ref="cwgk:P00000560">Bowling Green Ky
+</placeName><lb/><date when="1863-06-15">July 15 1863</date>
 <lb/>To
-<lb/>Gov J F Robinson:</p>
-<p>Dear Sir: We wish to call yr attention to the Regiment which Co<hi rend="underline"><hi rend="sup">l</hi></hi> Jno N Grider is authorised to recruit in this Section-</p>
-<p>There are guerilla bands all through our Country stealing horses: -- indeed, that seems to be their business. In a Month or two more they will steal enough to mount a Regiment or nearly so -- unless Checked in their course -- Now, we have the Stock in this Country. and if the Governm<hi rend="underline"><hi rend="sup">t</hi></hi> will purchase we can procure horses enough to Mount this Regiment -- If we do not, an equal number will in all probability be lost to their owner by the theft of these bands of plunderers -- So that it would be a positve gain to the State- for the Govm<hi rend="underline"><hi rend="sup">t</hi></hi> to purchase them. -- </p>
+<lb/>Gov <persName ref="cwgk:N001004">J F Robinson</persName>:</p>
+<p>Dear Sir: We wish to call yr attention to the Regiment which Co<hi rend="underline"><hi rend="sup">l</hi></hi> <persName ref="cwgk:N00008209">Jno N Grider</persName> is authorised to recruit in this Section-</p>
+<p>There are guerilla bands all through our Country stealing horses: -- indeed, that seems to be their business. In a Month or two more they will steal enough to mount a Regiment or nearly so -- unless Checked in their course -- Now, we have the Stock in this Country. and if the <orgName ref="cwgk:O001025">Governm<hi rend="underline"><hi rend="sup">t</hi></hi></orgName> will purchase we can procure horses enough to Mount this Regiment -- If we do not, an equal number will in all probability be lost to their owner by the theft of these bands of plunderers -- So that it would be a positve gain to the State- for the Govm<hi rend="underline"><hi rend="sup">t</hi></hi> to purchase them. -- </p>
 <p>Moreover, we find it infinitely easier to <hi rend="underline">enlist</hi> and recruit men, for the <hi rend="underline">Mounted</hi> Service than for <hi rend="underline">infantry</hi> alone- Indeed, a gentleman said he could enlist twenty to one- for the Mounted over infantry service -- </p>
 <p>If you can find it consistent with duty or law to allow Co<hi rend="sup">l</hi> Grider to enlist <hi rend="underline">mounted</hi> <hi rend="underline">men</hi>, we believe the Regiment can be raised very Soon; otherwise it is doubtful whether it will be fully raised other than by the application of the draft -- This is a serious matter with us in<pb/>
 <lb/>this Country- exposed as the people are to these bands of depridators &amp; plunderers -- One good Reg of Mounted men- raised in our <hi rend="underline">Midst</hi>, who know the County &amp; dont have to Study maps or geography to learn it, will do us a vast amount of good- and prevent a great amount of evil -- We earnestly invite yr attention to our request &amp; hope it can be granted -- </p>
 <p>Very Respectfully
-<lb/>R Rodes -- 
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> V. Loving
-<lb/>A. C. Dickinson
-<lb/>J. H. <hi rend="underline">M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Goodwin</hi>
-<lb/><hi rend="underline">P,, Hines</hi></p>
+<lb/><persName ref="cwgk:N00001578">R Rodes</persName> -- 
+<lb/><persName ref="cwgk:N00000778">W<hi rend="underline"><hi rend="sup">m</hi></hi> V. Loving
+</persName><lb/><persName ref="cwgk:N00008519">A. C. Dickinson
+</persName><lb/><persName ref="cwgk:N00008517">J. H. <hi rend="underline">M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Goodwin</hi></persName>
+<lb/><persName ref="cwgk:N00001579"><hi rend="underline">P,, Hines</hi></persName></p>
 <p>Bowling Green
 <lb/><date when="1863-07-15">July. 15/63</date><figure type="hr"/>
 <lb/>Rodes. R. and others.<figure type="hr"/></p>
@@ -85,7 +93,7 @@
 <p>Military R, Rodes &amp;c
 <lb/>Bowlingreen</p>
 <p>The Gov<hi rend="underline"><hi rend="sup">r</hi></hi> has no power to mount the Regt.
-<lb/>J W F</p>
+<lb/><persName ref="cwgk:N00000228">J W F</persName></p>
   </body>
  </text>
 </TEI>
