@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">A. Kelly</title>
+        <title level="a" type="main">Abner Kelly</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,10 +47,11 @@
         <particDesc>
                 <person xml:id="N00008546">
                     <persName>
-                      A. Kelly
-                        (Mason County, Kentucky, sailor)
+                      Abner Kelly
+                        (Mason County, Kentucky, tailor)
                     </persName>
                         <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mason County, Kentucky, tailor. Pennsylvania native. Tailor in Mason County in 1850.</p>
+        <p>Mason County, Kentucky, tailor. Pennsylvania native. Married to Ellen Knight Kelly in Mason County on October 10, 1850. Father of Laura Kelly and Frank L. Kelly. Tailor in Mason County in 1850. Tailor in Mason County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason, District 3, p. 154A.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason, District 3, p. 154A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Mays Lick, p. 57.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Bracken County, Germantown,  p. 371A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mason County Marriages, 1796-1946, Film #000281843, p. 371 of 515 of microfilm.<lb/>
+<hi rend="italic">Find A Grave</hi>, “Abner Kelly (1824-unknown),&quot; Memorial # 76008054, https://www.findagrave.com/memorial/76008054/abner-kelly (accessed December 1, 2020).
 </bibl></ab>
     </back>
 </text>
