@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Jesse Price, Sr.</title>
+        <title level="a" type="main">Jesse Price Sr.</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00013134">
                     <persName>
-                      Jesse Price, Sr.
-                        (Johnson County, Kentucky, resident)
+                      Jesse Price Sr.
+                        (Johnson County, Kentucky, farmer &amp; merchant)
                     </persName>
+                        <event type="birth"  when="1786"  cert="medium" ><ab>c1786</ab></event>
+                        <event type="death"  when="1873"  cert="medium" ><ab>c1873</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +59,15 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer and merchant. Virginia native. Married to Lyncha Price. Father of George W. Price, Benjamin F. Price, Christopher C. Price, Sarah Price, and Kesiah F. Price. Farmer in Johnson County in 1850. Merchant with son in Johnson County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County,  p. 102B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County,  p. 149.<lb/>
+<hi rend="italic">Find A Grave</hi>, “Jesse Benton Price (1786-1873),&quot; Memorial 41428303, https://www.findagrave.com/memorial/41428303/jesse-benton-price (accessed August 20, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
