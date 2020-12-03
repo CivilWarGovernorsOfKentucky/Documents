@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00008547">
                     <persName>
                       James W. Burgess
-                        (Mason County, Kentucky, resident)
+                        (Mason County, Kentucky, clerk)
                     </persName>
                         <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,12 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mason County, Kentucky, clerk. Kentucky native. Son of Mordicai and Sarah Burgess. Clerk in Mason County in 1860.</p>
+        <p>Mason County, Kentucky, clerk. Kentucky native. Son of Mordicai Burgess and Sarah Burgess. Student in Mason County in 1850. Clerk in Mason County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason, District 2, p. 59B.<lb/>
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason, Mays Lick, p. 62.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, District 2, p. 59B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Mays Lick, p. 62.
 </bibl></ab>
     </back>
 </text>
