@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[unknown] D. Crawford</title>
+        <title level="a" type="main">William D. Crawford</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00004320">
                     <persName>
-                      [unknown] D. Crawford
-                        (stub, mason county)
+                      William D. Crawford
+                        (Mason County, Kentucky, merchant)
                     </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of James C. Brookover in Mason County, Kentucky, in 1861.</p>
+        <p>Mason County, Kentucky, merchant. Married to Amanda Silvy Crawford in Lewis County, Kentucky, on December 26, 1850. Father of Frances A. Crawford and Andrew Crawford. Merchant in Mason County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1574.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, District 2, p. 139.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Orangeburg,  p. 486B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Lewis County Marriages, 1807-1852, Film #000344051, p. 110 of 284 of microfilm.
 </bibl></ab>
     </back>
 </text>
