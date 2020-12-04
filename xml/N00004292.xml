@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">S. Dryden</title>
+        <title level="a" type="main">Noble Dryden</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00004292">
                     <persName>
-                      S. Dryden
-                        (Mason County)
+                      Noble Dryden
+                        (Mason County, Kentucky, )
                     </persName>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of James C. Brookover in Mason County, Kentucky, in 1861.</p>
+        <p>Mason County, Kentucky, farmer. Kentucky native. Married to Julian Dryden. Father of Emily Dryden, Harriett W. Dryden, Robert L. Dryden, Sarah A. Dryden, Nancy Dryden, Mary E. Dryden, Noble Dryden, Julia Dryden, and John Dryden. Farmer in Mason County in 1850. Employed William Gilmore as a laborer in Mason County in 1850. Farmer in Mason County in 1860. Employed Robert L. Dryden as a farm laborer in Mason County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1574.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, District 2, p. 93B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, District 2, p. 114.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Orangeburg,  p. 489A.
 </bibl></ab>
     </back>
 </text>
