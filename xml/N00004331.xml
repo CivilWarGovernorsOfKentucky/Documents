@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. H. Loughridge</title>
+        <title level="a" type="main">William H. Loughridge</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00004331">
                     <persName>
-                      W. H. Loughridge
-                        (Mason County)
+                      William H. Loughridge
+                        (Mason County, Kentucky, rope spinner)
                     </persName>
+                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of James C. Brookover in Mason County, Kentucky, in 1861.</p>
+        <p>Mason County, Kentucky, rope spinner. Ohio native. Son of Elizabeth Loughridge. Married to Elizabeth Gautt Loughridge in Mason County in February 1850. Married to Cleley A. Goldenburg Loughridge in Mason County on December 16, 1859. Rope spinner in Mason County in 1850.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1574. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, Maysville, p. 115A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mason County Marriages, 1796-1946, Film #000281843, p. 457 of 515 of microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1914)</hi>, KDLA, Film 994027-994058: Mason County Marriages, 1859, p. 237, p. 18 of 40 of microfilm (accessed via Ancestry.com).
 </bibl></ab>
     </back>
 </text>
