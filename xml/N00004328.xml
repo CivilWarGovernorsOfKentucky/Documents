@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00004328">
                     <persName>
                       Thomas J. Farley
-                        (Mason County)
+                        (Mason County, Kentucky, engineer and city marshal)
                     </persName>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of James C. Brookover in Mason County, Kentucky, in 1861.</p>
+        <p>Mason County, Kentucky, engineer and city marshal. Virginia native. Married to Elizabeth Lilliston Farley. Father of James Farley, John Farley, Winfield Scott Farley, Queen Dorah Kansas Farley, and Elizabeth S. Farley. Engineer in Bath County, Kentucky, in 1850. Resident of Maysville, Kentucky, in 1855. Resident of Maysville, Kentucky, in 1859. Resident of Mason County in 1861. City marshal in Mason County in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1574. 
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bath County, p. 223.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Robertson County, Kentontown,  p. 400B-401A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1914)</hi>, KDLA, Film 994027-994058: Mason County Births, 1855, p. 7, p. 7 of 7 microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1914)</hi>, KDLA, Film 994027-994058: Mason County Births, 1859, p. 721, p. 5 of 8 of microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Mason County, Subdistrict 6, KY, October 1863, p. 53 of 175 of microfilm (accessed via Ancestry.com).<lb/>
+KYR-0001-020-1574. 
 </bibl></ab>
     </back>
 </text>
