@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C. Bell</title>
+        <title level="a" type="main">Charles Bell</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00004317">
                     <persName>
-                      C. Bell
-                        (Mason County)
+                      Charles Bell
+                        (Mayesville, Kentucky, city crier)
                     </persName>
+                        <event type="birth"  when="1804"  cert="medium" ><ab>c1804</ab></event>
+                        <trait type="race" subtype="Mulatto"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of James C. Brookover in Mason County, Kentucky, in 1861.</p>
+        <p>Maysville, Kentucky, city crier. Virginia native. Married to Harriet Bell. Father of Charles Bell. City crier in Maysville in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1574.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Maysville, p. 329.<lb/>
+KYR-0001-020-1574.
 </bibl></ab>
     </back>
 </text>
