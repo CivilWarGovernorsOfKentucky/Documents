@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">A J Price</title>
+        <title level="a" type="main">Andrew Jackson Price</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00013142">
                     <persName>
-                      A J Price
-                        (Johnson County, Kentucky, resident)
+                      Andrew Jackson Price
+                        (Johnson County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1820"  ><ab>1820</ab></event>
+                        <event type="death"  when="1872"  ><ab>1872</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -49,5 +59,17 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer. Married to Jemima Price. Father of Julia A. Price, Kingston Price, Mahulda J. Price, Winfield J. Price, Fairway Price, North J. Price, Therressa Price, Crossford Price, and Martin L. Price. Farmer in Johnson County in 1850. Farmer in Johnson County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County,  p. 102A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, Paintsville,  p. 196.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County, Paintsville, p. 182A.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Kentucky, 9th Congressional District, Johnson County, Vol. 3 of 3, October 1863, p. 125, (Accessed via ancestry.com on August 20,  2020).<lb/>
+<hi rend="italic">Find A Grave</hi>, “Andrew Jackson Price (1820-1872),&quot; Memorial 40610009, https://www.findagrave.com/memorial/40610009/andrew-jackson-price (accessed August 20, 2020).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
