@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,11 @@
                 <person xml:id="N00004295">
                     <persName>
                       John A. Mitchell
-                        (Mason County)
+                        (Mason County, Kentucky, cooper)
                     </persName>
+                        <event type="birth"  when="1855"  cert="medium" ><ab>c1855</ab></event>
+                        <event type="death"  when="1870-05"  ><ab>1870-05</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of James C. Brookover in Mason County, Kentucky, in 1861.</p>
+        <p>Mason County, Kentucky, cooper. Married to Sarah J. Mitchell. Father of Noble Mitchell and Mary E. Mitchell. Married to Effa Ann Crawford Mitchell in Mason County on September 10, 1853. Father of John Andrew Mitchell and Laura Mitchell. Cooper in Mason County in 1850.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1574.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, Maysville, p. 109B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Mortality Schedules, Kentucky, Mason County, Maysville, p. 1023<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Maysville, Ward 4,  p. 441B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1914)</hi>, KDLA, Film 994027-994058: Mason County Marriages, 1853, p. 5 of 40 of microfilm (accessed via Ancestry.com). <lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1965)</hi>, KDLA,Film #Film 7020453: All Counties, Mason County 1913, File #15957, p. 2771 of 3318 of microfilm.<lb/>
+KYR-0001-020-1574.
 </bibl></ab>
     </back>
 </text>
