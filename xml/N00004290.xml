@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">H. McCollough</title>
+        <title level="a" type="main">Hugh McCollough</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00004290">
                     <persName>
-                      H. McCollough
+                      Hugh McCollough
                         (Mason County)
                     </persName>
+                        <event type="birth"  when="1794"  cert="medium" ><ab>c1794</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of James C. Brookover in Mason County, Kentucky, in 1861.</p>
+        <p>Mason County, Kentucky, tavern keeper. Native of Ireland. Married to Margaret Thompson McCullough in December 1832. Father of Alexander McCullough, Hugh McCullough, William McCullough, Thomas McCullough, Ann McCullough, Mary McCullough, and Jane McCullough. Employed in commerce, manufacture, and trade in Maysville in 1840. Owned three enslaved persons in Maysville in 1840. Tavern keeper in Maysville, Kentucky, in 1850. Employed Alexander McCullough and Hugh McCullogh as barkeepers in Maysville in 1850. Owned two enslaved persons in Maysville in 1850. Resident of Mason County in 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1574. 
+        <ab><bibl><hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Kentucky, Mason County, Maysville, Ward 1, p. 28.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, Maysville, p. 107A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Mason County, Maysville, p. 757.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mason County Marriages, 1794-1852, Film #000281842, p. 67 of 469 of microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1965)</hi>, KDLA,Film # 7017523: All Counties, Mason County 1913, File #21381, p. 1591 of 3322 of microfilm.<lb/>
+KYR-0001-020-1574. 
 </bibl></ab>
     </back>
 </text>
