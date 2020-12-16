@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Shadrach W Walters</title>
+        <title level="a" type="main">Shadrach W. Walters</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Deborah J. Thompson</name>
@@ -43,8 +47,8 @@
         <particDesc>
                 <person xml:id="N00013147">
                     <persName>
-                      Shadrach W Walters
-                        (Johnson County, Kentucky, resident)
+                      Shadrach W. Walters
+                        (Johnson County, Kentucky, farmer)
                     </persName>
                         <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
@@ -54,5 +58,16 @@
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Johnson County, Kentucky, farmer. Lawrence County, Kentucky, native. Son of Calvin Walters. Married to Elizabeth Litterell Walters in Johnson County, Kentucky, on April 2, 1853. Father of John C. Walters, Mahala Walters, Judith Walters, George N. Walters, Paulina Walters, and Sarah Walters. Farmer in employ of Greenville Preston in Johnson County in 1850. Farmer in Johnson County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County,  p. 110A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County,  p. 221.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Johnson County, Toms Creek, p. 197B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1914)</hi>, KDLA, Film #994027-994058: Johnson County Marriages, 1852-1914, p. 2 of 25 of microfilm (accessed via ancestry.com).
+</bibl></ab>
+    </back>
 </text>
 </TEI>
