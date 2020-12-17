@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0056"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,20 +71,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hartford Ky <date when="1864-10-07">Oct 7<hi rend="sup">th</hi>/64</date>
-<lb/>Gov Bramlette
+   <p><placeName ref="cwgk:P001000">Hartford Ky</placeName> <date when="1864-10-07">Oct 7<hi rend="sup">th</hi>/64</date>
+<lb/><persName ref="cwgk:N001000">Gov Bramlette</persName>
 <lb/>Dear Sir</p>
-<p>Capt Westerfield I understand is under arrest at Frankfort -- charged with shipping negroes across the Ohio river and disposing of them -- &amp; destroying papers of citizens -- Now sir I believe all those charges <hi rend="str">are</hi> false &amp; I hope you will at least give him a speedy trial upon those charges</p>
+<p><persName ref="cwgk:N00008835">Capt Westerfield</persName> I understand is under arrest at <placeName ref="cwgk:P00000308">Frankfort</placeName> -- charged with shipping negroes across the <geogName ref="cwgk:G001825">Ohio river</geogName> and disposing of them -- &amp; destroying papers of citizens -- Now sir I believe all those charges <hi rend="str">are</hi> false &amp; I hope you will at least give him a speedy trial upon those charges</p>
 <p>He &amp; his Co have been very active in keeping out the guerrillas in our county &amp; if he has erred it has been in favor of Union men &amp; against Guerrillas &amp; their friends</p>
 <p>It i<hi rend="str">t</hi>s true he has pressed horses while in the pursuit of Guerrillas but he has I think in every instance returned them I will venture the assertion that no good Union man has ever complained of him -- his opposers are secesh and copperheads or <hi rend="underline">union</hi> <hi rend="underline">men</hi> with wooll in their teeth</p>
 <p>very Respectfully
-<lb/>J, J, Harrison<pb/></p>
+<lb/><persName ref="cwgk:N00008711">J, J, Harrison</persName><pb/></p>
 <p>Hartford Ky
 <lb/><date when="1864-10-07">Oct 7" 1864</date> -- <figure type="hr"/>
 <lb/>Harrison J. J -- <figure type="hr"/>
 <lb/>To the Gov -- <figure type="hr"/></p>
 <p>Believes all charges against Capt Westerfield who is a Frankfort under arrest -- to be false. hopes that he may have a speedy trial -- <figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-10-10">Oct 10" 1864</date> -- </p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O.</orgName> <date when="1864-10-10">Oct 10" 1864</date> -- </p>
   </body>
  </text>
 </TEI>
