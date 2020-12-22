@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0043"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Christina Adkins</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,24 +71,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>HARRODSBURG SAVINGS INSTITUTION,
+   <p><orgName ref="cwgk:O00008570">HARRODSBURG SAVINGS INSTITUTION</orgName>,
 <lb/>DIRECTORS,
-<lb/><milestone unit="column" n="2"/><cb n="1"/>A. M. VANARSDALL.
-<lb/>B. B. CAMPBELL.
-<lb/><cb n="2"/>JAS. TAYLOR.
-<lb/>R. M. DAVIS.
-<lb/><milestone unit="column" n="1"/>A. G. KYLE, PRESIDENT.
-<lb/>J. W. CARDWELL, CASHIER.</p>
-<p>Harrodsburg, Ky. <date when="1864-06-22">22<hi rend="underline"><hi rend="sup">d</hi></hi> June 1864</date>
-<lb/>Gov. Bramlett <hi rend="str">Esq. Cashier</hi>
+<lb/><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00006927">A. M. VANARSDALL</persName>.
+<lb/><persName ref="cwgk:N00008571">B. B. CAMPBELL</persName>.
+<lb/><cb n="2"/><persName ref="cwgk:N00002276">JAS. TAYLOR</persName>.
+<lb/><persName ref="cwgk:N00008578">R. M. DAVIS</persName>.
+<lb/><milestone unit="column" n="1"/><persName ref="cwgk:N00002275">A. G. KYLE</persName>, PRESIDENT.
+<lb/><persName ref="cwgk:N00003203">J. W. CARDWELL</persName>, CASHIER.</p>
+<p><placeName ref="cwgk:P00000555">Harrodsburg, Ky</placeName>. <date when="1864-06-22">22<hi rend="underline"><hi rend="sup">d</hi></hi> June 1864</date>
+<lb/><persName ref="cwgk:N001000">Gov. Bramlett</persName> <hi rend="str">Esq. Cashier</hi>
 <lb/>Dear Sir</p>
-<p>The Harrodsburg Stage with Louisville &amp; Frankft Mail was Robbe<hi rend="sup">d</hi> last evening 9 Miles below this about 3<hi rend="sup">1</hi>/<hi rend="sub">2</hi> Oclock P. M. Mailboys rifled Passengers Robbe<hi rend="sup">d</hi> of &#36;400 in Money &amp; 7 pistols. Two of Stage Horses taken. They also Robbe<hi rend="sup">d</hi> Col J D Hale &amp; Thos W. Hawkins of a fine Gray horse &amp; good Watch -- The Robbers consist of 5. they took a Westerly Direction from the 2<hi rend="underline"><hi rend="sup">d</hi></hi> toll gate below Harrodsburg Col Hale reports to town &amp; is now in pursuit of the thieves -- Capt H. J Burns late of 9<hi rend="sup">th</hi> Ky Cav. is willing to raise 100 men for home defence If arms &amp; amunition are furnished &amp; proper provision made for his men</p>
+<p>The Harrodsburg Stage with <placeName ref="cwgk:P00000337">Louisville</placeName> &amp; <placeName ref="cwgk:P00000308">Frankft</placeName> Mail was Robbe<hi rend="sup">d</hi> last evening 9 Miles below this about 3<hi rend="sup">1</hi>/<hi rend="sub">2</hi> Oclock P. M. Mailboys rifled Passengers Robbe<hi rend="sup">d</hi> of $400 in Money &amp; 7 pistols. Two of Stage Horses taken. They also Robbe<hi rend="sup">d</hi> <persName ref="cwgk:N00005252">Col J D Hale</persName> &amp; <persName ref="cwgk:N00006330">Thos W. Hawkins</persName> of a fine Gray horse &amp; good Watch -- The Robbers consist of 5. they took a Westerly Direction from the 2<hi rend="underline"><hi rend="sup">d</hi></hi> toll gate below Harrodsburg Col Hale reports to town &amp; is now in pursuit of the thieves -- <persName ref="cwgk:N00008573">Capt H. J Burns</persName> late of <orgName ref="cwgk:O00002616">9<hi rend="sup">th</hi> Ky Cav</orgName>. is willing to raise 100 men for home defence If arms &amp; amunition are furnished &amp; proper provision made for his men</p>
 <p>Respy J W. Cardwell D. P. M<pb/></p>
-<p>Harrodsburg Mercer Co Ky
-<lb/><date when="1864-06-22">June 22- 1864</date><figure type="hr"/>
+<p>Harrodsburg <placeName ref="cwgk:P00000556">Mercer Co Ky
+</placeName><lb/><date when="1864-06-22">June 22- 1864</date><figure type="hr"/>
 <lb/>Cardwell J. W. D. P. M.</p>
 <p>To the Gov. and by him referred. Informing him of the capture of the Harrodsburg stage with Louisville and Frankfort mail; which capture was made by the guerrillas on the 21<hi rend="underline"><hi rend="sup">st</hi></hi> Inst.<figure type="hr"/></p>
-<p>Rec. I. G. O. <date when="1864-06-22">June 22 -- 1864</date></p>
+<p>Rec. <orgName ref="cwgk:O00000920">I. G. O.</orgName> <date when="1864-06-22">June 22 -- 1864</date></p>
   </body>
  </text>
 </TEI>
