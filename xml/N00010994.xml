@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Daniel Williams</title>
+        <title level="a" type="main">Daniel G. Williams</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Carl Creason</name>
@@ -43,10 +51,11 @@
         <particDesc>
                 <person xml:id="N00010994">
                     <persName>
-                      Daniel Williams
+                      Daniel G. Williams
                         (Clay County, Kentucky, farmhand)
                     </persName>
-                        <event type="birth"  when="1842"  cert="medium" ><ab>c1842</ab></event>
+                        <event type="birth"  when="1842-01-27"  ><ab>1842-01-27</ab></event>
+                        <event type="death"  when="1899-05-05"  ><ab>1899-05-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,13 +64,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Clay County, Kentucky, farmhand. Kentucky native. Son of Sidney M. Williams and Margaret Williams. Resident in Clay County in 1850. Farmhand in Clay County in 1860. </p>
+        <p>Clay County, Kentucky, farmhand. Kentucky native. Son of Sidney M. Williams and Margaret T. Williams. Resident in Clay County in 1850. Farmhand in Clay County in 1860. Served in the 7th Kentucky Volunteer Infantry Regiment (U.S.A.) as private, second sergeant, first sergeant and captain from September 22, 1861, to September 24, 1864.</p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Clay County, Manchester, p. 96B.
 
 <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clay County, Manchester, p. 116.
+
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0219.
+
+<hi rend="italic">Find A Grave</hi>, &quot;Daniel G Williams (1842-1899),&quot; Memorial #18257893, http://www.findagrave.com/memorial/18257893  (accessed September 14, 2020).
 </bibl></ab>
     </back>
 </text>
