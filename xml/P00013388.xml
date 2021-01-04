@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00013388">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Fort Jefferson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Place</term>
+                </keywords>
+            </textClass>
+            <settingDesc>
+                <place xml:id="P00013388">
+                    <placeName>
+                        <location>
+                              <geo>24.628 -82.873</geo>
+                            <settlement>Fort Jefferson</settlement>
+                        </location>
+                    </placeName>
+                </place> 
+            </settingDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Union fort located in the Dry Tortugas chain of islands in the Florida Keys. Served as a Union confinement prison and labor camp from September 1861. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">USGS: Earth Explorer</hi>, &quot;Fort Jefferson, Florida,&quot; https://earthexplorer.usgs.gov/ (accessed on September 3, 2020).<lb/>
+Craig M. Bennett, Jr., &quot;Rebuilding the Walls of Fort Jefferson,&quot; <hi rend="italic">Structure Magazine</hi> (May 2013), 30-33.<lb/>
+Thomas Reid, <hi rend="italic">America&#39;s Fortress,</hi> (Gainesville: University Press of Florida), 10–14.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
