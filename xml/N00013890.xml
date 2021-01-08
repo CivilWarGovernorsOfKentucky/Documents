@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013890">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Fairleigh</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013890">
+                    <persName>
+                      William Fairleigh
+                        (Meade County, KY, clerk of court)
+                    </persName>
+                        <event type="birth"  when="1797"  ><ab>1797</ab></event>
+                        <event type="death"  when="1865"  ><ab>1865</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Meade County, Kentucky, court clerk. Kentucky native. Married to Elizabeth Enlows Fairleigh in Hardin County on November 4, 1819. Father of James L. Fairleigh, Clinton Fairleigh, Robert M. Fairleigh, Thomas Brooks Fairleigh, and John S. Fairleigh. Clerk of court in Meade County in 1850. Circuit court clerk in Meade County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Meade County, Kentucky District, p. 208B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Meade County, Brandenburg, p. 370.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Hardin County Marriages, 1793-1862, Film #000390788, p. 94, p. 87 of 487 of microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Find A Grave</hi>, “William Fairleigh (1797-1865),&quot; Memorial # 78774679, https://www.findagrave.com/memorial/78774679/william-fairleigh (accessed January 7, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
