@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013836">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Green C. Freeman</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kristen Bailey</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013836">
+                    <persName>
+                      Green C. Freeman
+                        (Pulaski County, Kentucky, farmer and 1st lieutenant in 12th Kentucky Infantry (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <event type="death"  when="1881-06-24"  ><ab>1881-06-24</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Pulaski County, Kentucky, farmer and soldier. North Carolina native. Married to Sarah C. Parker Freeman in Whitley County, Kentucky, on July 25, 1849. Father of Mahaly J. Freeman, James A. Freeman, Margaret Freeman, George Freeman, Elizabeth Freeman, Alfred H. Freeman, Lucy Freeman, and Sarah E. Freeman. Farmer in Pulaski County, Kentucky, in 1850. Farmer in Pulaski County in 1860. Served in the 12th Kentucky Infantry Regiment (U.S.A.) as first lieutenant from January 30, 1862, to April 30, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Pulaski County, Division 1, p. 69B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pulaski County, District 2, p. 97.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kansas, Montgomery County, Louisburg, p. 617A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Whitley County Marriages, Film #000532640, p. 83 of 375 microfilm.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 817.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 255.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Green C. Freeman (1826-1881),&quot; Memorial #60779780, http://www.findagrave.com/memorial/60779780 (accessed December 9, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
