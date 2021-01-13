@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00013155">
                     <persName>
                       Isaac Goble
-                        (Johnson County, Kentucky, resident)
+                        (Johnson County, Kentucky, farmer and first lieutenant)
                     </persName>
+                        <event type="birth"  when="1821-02-01"  ><ab>1821-02-01</ab></event>
+                        <event type="death"  when="1915-02-13"  ><ab>1915-02-13</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,12 +60,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Johnson County, Kentucky, soldier. Served in the 39 Ky Infantry Regiment (U.S.A.) as a first lieutenant from February 16, 1863, to September 15, 1865.</p>
+        <p>Johnson County, Kentucky, farmer and soldier. Virginia native. Son of Isaac Goble and Jane F. Goble. Married to Emmaline Hanna Goble. Father of Margaret Goble, Mary Goble, Francis Goble, and Sarah Goble. Farmer in Johnson County, Kentucky, in 1850. Commissioned to the 39th Kentucky Infantry Regiment (U.S.A.) as first lieutenant on September 6, 1862. Captured in Floyd County on December 4, 1862. Confined at Richmond, Virginia, from May 4, 1863, to May 5, 1863. Served in the 39th Kentucky Infantry as first lieutenant to September 15, 1865.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 471.<lb/>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 118A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 175.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 471.<lb/>
 <hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 384.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016189, Floyd County Deaths, File #675604.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016189, Floyd County Deaths, File #28915.<lb/>
 KYR-0001-004-0362.
 </bibl></ab>
     </back>
