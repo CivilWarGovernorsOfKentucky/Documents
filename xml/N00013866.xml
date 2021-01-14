@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013866">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Alfred Washington Ellet</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013866">
+                    <persName>
+                      Alfred Washington Ellet
+                        (U.S. Army brigadier general)
+                    </persName>
+                        <event type="birth"  when="1820-10-11"  ><ab>1820-10-11</ab></event>
+                        <event type="death"  when="1895-01-09"  ><ab>1895-01-09</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>U.S. Army brigadier general. Pennsylvania native. Son of Charles Ellet and Mary Israel Ellet. Married to Sarah Jane Roberts Ellet in 1843. Father of Edward C. Ellet and William H. Ellet. Merchant in Macoupin County, Illinois, in 1850. Resident of Bunker Hill, Illinois, in 1861. Served in the 59th Illinois Volunteer Infantry Regiment (U.S.A.) as captain from August 20, 1861, to April 29, 1862. Created and took command of the United States Ram Fleet on April 30, 1862, by order of Secretary of War, Edwin McMasters Stanton. Commissioned as lieutenant colonel of the United States Ram Fleet in September 1862. Promoted to brigadier general and assigned to the Department of Mississippi on November 8, 1862, commanding the Mississippi Marine Brigade until his resignation on December 31, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Illinois, Macoupin County, Bunker Hill, p. 301A.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Illinois</hi>, NARA RG 94, Microfilm Series M539, Roll 0026.<lb/>
+<hi rend="italic">Sons of the American Revolution Membership Applications, 1889-1970</hi>, Louisville, Kentucky: National Society of the Sons of the American Revolution. Microfilm, 508 rolls, p. 338.<lb/>
+Ezra J. Warner, Jr., <hi rend="italic">Generals in Blue: Lives of the Union Commanders</hi> (Baton Rouge: Louisiana State University Press, 1964), 140-41.<lb/>
+Barbara Brooks Tomblin, <hi rend="italic">The Civil War on the Mississippi: Union Sailors, Gunboat Captains, and the Campaign to Control the River</hi> (Lexington: University Press of Kentucky, 2016), 172.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Alfred Washington Ellet (1820-1895),&quot; Memorial #5894365, http://www.findagrave.com/memorial/5894365 (accessed December 21, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
