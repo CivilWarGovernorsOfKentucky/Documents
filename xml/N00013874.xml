@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013874">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Oliver Otis Howard</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013874">
+                    <persName>
+                      Oliver Otis Howard
+                        (Major General (U.S. Army) and Commissioner of Bureau of Refugees, Freedmen, and Abandoned Lands)
+                    </persName>
+                        <event type="birth"  when="1830-11-08"  ><ab>1830-11-08</ab></event>
+                        <event type="death"  when="1909-10-26"  ><ab>1909-10-26</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Major General (U.S. Army) and clergyman. Maine native. Son of Rowland Bailey Howard and Eliza Otis Howard. Married to Elizabeth Ann Waite on February 14, 1855. Father of Guy Howard, Grace E. Howard, James W. Howard, and Chancy O. Howard. Student at Bowdoin College in Brunswick, Maine, in 1850. Graduated from the U.S. Military Academy at West Point, New York, in 1854. Methodist clergyman in Leeds, Maine, in 1860. Served in the 3rd Maine Volunteer Infantry Regiment (U.S.A.) from June 4, 1861, to September 3, 1861. Served as brigadier general of volunteers and commander of the 2nd and 11th U.S. Army Corps from September 3, 1861, to May 1865. Promoted to brigadier general in the U.S. Army on December 21, 1864, and breveted major general on March 13, 1865. Served as commissioner of the Bureau of Refugees, Freedmen, and Abandoned Lands from May 12, 1865, to January 1, 1869.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Maine, Cumberland County, Brunswick, p. 201B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Maine, Androscoggin County, Leeds, p. 17.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Washington, District of Columbia, p. 655B.<lb/>
+Ezra J. Warner, Jr., <hi rend="italic">Generals in Blue: Lives of the Union Commanders</hi> (Baton Rouge: Louisiana State University Press, 1964), 237-39. <lb/>
+John H. Eicher &amp; David J. Eicher, eds., <hi rend="italic">Civil War High Commands</hi> (Stanford: Stanford University Press, 2001), 305-06.<lb/>
+James Grant Wilson &amp; John Fiske, eds., <hi rend="italic">Appletons&#39; Cyclopædia of American Biography</hi>, Vol 3: Grinnell-Lockwood (New York: D. Appleton &amp; Co., 1888), 278.<lb/>
+<hi rend="italic">Sons of the American Revolution Membership Applications, 1889-1970</hi>, Louisville, Kentucky: National Society of the Sons of the American Revolution. Microfilm, 508 rolls, Roll #350, p. 293 on microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Oliver Otis Howard (1830-1909),&quot; Memorial #513, http://www.findagrave.com/memorial/513 (accessed December 30, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
