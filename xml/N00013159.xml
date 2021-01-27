@@ -8,6 +8,14 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +48,10 @@
                 <person xml:id="N00013159">
                     <persName>
                       Zephaniah Meek
-                        (Johnson County, Kentucky, resident)
+                        (Johnson County, Kentucky, Methodist minister, teacher, court clerk, and oil speculator)
                     </persName>
+                        <event type="birth"  when="1833"  ><ab>1833</ab></event>
+                        <event type="death"  when="1909"  ><ab>1909</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +60,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Johnson County, Kentucky, resident. Signed a petition to Thomas E. Bramlette on behalf of Malinda Ward on December 30, 1863.</p>
+        <p>Johnson County, Kentucky, teacher, minister, county court clerk, and oil speculator. Floyd County, Kentucky, native. Son of Isaac Meek and Sarah Meek. Married Mary Jane Davis Meek in Johnson County in November 1853. Father of Lafayette Meek, Cordelia Meek, Davis Meek, Victoria Meek, Hester Meek, and Felix Meek. Methodist minister in Johnson County in 1860. Taught school, worked as county court clerk, and earned money in oil speculation by 1865.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0362.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County,  pp. 109A-B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County,  p. 150.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Boyd County, District 06, pp. 99A-B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1914)</hi>, KDLA, Film #994027-994058: Johnson County Marriages, 1852-1914, p. 2 of 25 of microfilm.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Kentucky, 9th Congressional District, Johnson County, Vol. 2 of 3, October 1863, p. 256, (Accessed via ancestry.com on August 19,  2020).<lb/>
+William Ely, <hi rend="italic">The Big Sandy Valley: A History of the People and Country from the Earliest Settlement to the Present Time (Central Methodist, 1887), 110-13.<lb/>
+_Find A Grave</hi>, “Zephaniah Meek (1833-1909),&quot; Memorial 14414192, https://www.findagrave.com/memorial/144141927/zephaniah-meek (accessed August 19, 2020).
 </bibl></ab>
     </back>
 </text>
