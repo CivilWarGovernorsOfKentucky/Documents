@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Minets Robert</title>
+        <title level="a" type="main">Minetry Roberts</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00013177">
                     <persName>
-                      Minets Robert
-                        (Bath County)
+                      Minetry Roberts
+                        (Bath County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of John Stewart in Bath County, Kentucky, on December 12, 1863.</p>
+        <p>Bath County, Kentucky, farmer. Virginia native. Married to Euphany &quot;Fannie&quot; Roberts. Father of Elizabeth Roberts, Wiley Roberts, Susana Roberts, Sarah E. Roberts, William Roberts, Rosa Carlina Roberts, Isaac Roberts, Lucinda Roberts, James Roberts, Mitchell Roberts, and Joyce I. Roberts. Laborer in Grayson County, Virginia, in 1850. Farmer in Bath County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0345.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Virginia, Grayson County, District 19, p. 200A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bath County, p. 98.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1965)</hi>, KDLA,Film # 7020631: All Counties, Fleming County, 1941, File #23932, p. 837 of 3313 of microfilm.
 </bibl></ab>
     </back>
 </text>
