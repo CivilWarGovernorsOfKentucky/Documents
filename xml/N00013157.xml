@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>
           <respStmt>
@@ -48,8 +52,9 @@
                 <person xml:id="N00013157">
                     <persName>
                       Harrison Literal
-                        (Johnson County, Kentucky, resident)
+                        (Johnson County, Kentucky, student)
                     </persName>
+                        <event type="birth"  when="1841"  cert="medium" ><ab>c1841</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -58,11 +63,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition in support of the pardon of Johnathan Ward in Johnson County, Kentucky, on February 22, 1864.</p>
+        <p>Johnson County, Kentucky, student. Kentucky native. Son of George Literal and Mahala Literal. Student in Johnson County, Kentucky, in 1850. Student in Johnson County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0362.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County, p. 110B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County, p. 203.
 </bibl></ab>
     </back>
 </text>
