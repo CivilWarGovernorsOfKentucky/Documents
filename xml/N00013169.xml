@@ -8,6 +8,14 @@
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,8 +48,10 @@
                 <person xml:id="N00013169">
                     <persName>
                       John H. Ward
-                        (Johnson County, Kentucky, resident)
+                        (Johnson County, Kentucky, farmer &amp; 9th KY Cav CSA)
                     </persName>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
+                        <event type="death"  when="1869"  cert="medium" ><ab>c1869</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Johnson County, Kentucky, resident. Signed a petition to Thomas E. Bramlette on behalf of Malinda Ward on December 30, 1863.</p>
+        <p>Johnson County, Kentucky, farmer and soldier. Kentucky native. Son of Shadrach Ward and Levina Ward. Married to Nancy Ward. Father of Levina Ward, Verazano Ward, Shadrach Ward, Jane Ward, Jeffrey P. Ward, Charlotte Ward, and Juda Ward. Farmer in Johnson County in 1850. Farmer in Johnson County in 1860. Served in the 9th Kentucky Cavalry (C.S.A.).</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0362.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Johnson County,  p. 92B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Johnson County,  p. 203.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Mortality Schedules, Kentucky, Johnson County, Toms Creek Precinct, p. 807.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Kentucky, 9th Congressional District, Johnson County, Vol. 2 of 3, October 1863, p. 408, p. 200 of 212 of microfilm), (Accessed via ancestry.com on August 26,  2020).<lb/>
+<hi rend="italic">Find A Grave</hi>, “John H. Ward (1824-1869),&quot; Memorial #41480672, https://www.findagrave.com/memorial/41480672/john-h-ward (accessed August 26, 2020).
 </bibl></ab>
     </back>
 </text>
