@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John P. [Unknown]</title>
+        <title level="a" type="main">John P. Hornback</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
@@ -47,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00013117">
                     <persName>
-                      John P. [Unknown]
-                        ()
+                      John P. Hornback
+                        (Bath County, Kentucky, farmer and farmhand)
                     </persName>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of John Stewart in Bath County, Kentucky, on December 12, 1863.</p>
+        <p>Bath County, Kentucky, farmer and farmhand. Bath County native. Son of Isaac Hornback and Elizabeth Hornback. Resident in Bath County in 1850. Farmhand in Bath County in 1860. Farmer in Bath County in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0345.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath County, District 1, p. 65AB.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bath County, p. 213.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Bath County, KY, October 1863, p. 170, p. 173 of 212 of microfilm (accessed via Ancestry.com).
 </bibl></ab>
     </back>
 </text>
