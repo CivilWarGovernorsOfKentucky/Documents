@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main"> W. H Humphries</title>
+        <title level="a" type="main"> William H. Humphries</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,14 +43,25 @@
         <particDesc>
                 <person xml:id="N00013978">
                     <persName>
-                       W. H Humphries
-                        (Bath County, KY, petition signer)
+                       William H. Humphries
+                        (Fleming County, KY, farmer &amp; pvt 40th KY Mtd Inf (U.S.A.) loopy signature)
                     </persName>
+                        <event type="birth"  when="1842"  cert="medium" ><ab>c1842</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Fleming County, Kentucky, farmer and soldier. Farmer in Fleming County in 1863. Served in the 40th Kentucky Volunteer Mounted Infantry Regiment (U.S.A.) as a private from September 29, 1863, to December 30, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 438.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0432.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
