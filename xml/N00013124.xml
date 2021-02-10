@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Allen N. James</title>
+        <title level="a" type="main">Allen Warner</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00013124">
                     <persName>
-                      Allen N. James
-                        ()
+                      Allen Warner
+                        (Bath County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1812-10-28"  ><ab>1812-10-28</ab></event>
+                        <event type="death"  when="1882-09-24"  ><ab>1882-09-24</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,11 +56,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of John Stewart in Bath County, Kentucky, on December 12, 1863.</p>
+        <p>Bath County, Kentucky, farmer. Kentucky native. Married to Vienna Clayton Warner in Bath County in June 1838. Father of Elizabeth Warner, Reuben Warner, Alfred Warner, Travis Warner, and Sarah “Sallie” P. Warner. Farmer in Bath County in 1850. Farmer in Bath County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0345.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath County, Division 2, p. 39B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bath County, p. 40.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Bath County, White Sulphur,  p. 105B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Bath County Marriages, 1814-1846, Film #000273004, p. 161, p. 384 of 848 of microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Find A Grave</hi>, “Allen Warner (1812-1882),&quot; Memorial # 18031052, https://www.findagrave.com/memorial/18031052/allen-warner (accessed February 10, 2021).
 </bibl></ab>
     </back>
 </text>
