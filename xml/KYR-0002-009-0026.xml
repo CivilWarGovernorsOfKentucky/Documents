@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0026"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Department of the Ohio,
-<lb/>ASSISTANT ADJUTANT GENERAL'S OFFICE,
-<lb/>Lexington, Ky., <date when="1864-02-06">Febry, 6<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864</date>.
+   <p><orgName ref="cwgk:O001001">Department of the Ohio</orgName>,
+<lb/><orgName ref="cwgk:O00000388">ASSISTANT ADJUTANT GENERAL'S OFFICE</orgName>,
+<lb/><placeName ref="cwgk:P001002">Lexington</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>., <date when="1864-02-06">Febry, 6<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864</date>.
 <lb/>Special Orders,
 <lb/>No. 37
 <lb/>[<hi rend="italic">Extract</hi>.]<figure type="hr"/></p>
-<p>2,, The resignation of Capt. <hi rend="underline">Geo, W, Brown</hi> Co. "C" 45<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Volunteers for the good of the service is hereby accepted, to take effect <date when="1864-02-06">Feb 6<hi rend="sup">th</hi>, 1864</date>, with the condition that he shall receive no final payments until he exhibits satisfactory evidence from the head of the Ordnance Department, and the proper accounting officers of the Treasury, that he has made all prescribed returns, and is in no wise indebted to the Government.<figure type="hr"/></p>
-<p>By Command of Major General Foster
-<lb/>W P Anderson
+<p>2,, The resignation of <persName ref="cwgk:N00006287">Capt. <hi rend="underline">Geo, W, Brown</hi></persName> Co. "C" <orgName ref="cwgk:O00009601">45<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Volunteers</orgName> for the good of the service is hereby accepted, to take effect <date when="1864-02-06">Feb 6<hi rend="sup">th</hi>, 1864</date>, with the condition that he shall receive no final payments until he exhibits satisfactory evidence from the head of the <orgName ref="cwgk:O00012696">Ordnance Department</orgName>, and the proper accounting officers of the <orgName ref="cwgk:O00010587">Treasury</orgName>, that he has made all prescribed returns, and is in no wise indebted to the <orgName ref="cwgk:O00002945">Government</orgName>.<figure type="hr"/></p>
+<p>By Command of <persName ref="cwgk:N00005705">Major General Foster</persName>
+<lb/><persName ref="cwgk:N00005941">W P Anderson</persName>
 <lb/>Assistant Adjutant General.</p>
-<p>Gov. Ky,
-<lb/>Paris,
+<p><persName ref="cwgk:N001000">Gov. </persName><orgName ref="cwgk:O001025">Ky</orgName>,
+<lb/><placeName ref="cwgk:P00000514">Paris</placeName>,
 <lb/>Ky</p>
 <p>1. 2. 3. 4 5
 <lb/><date when="1863-10-10"><hi rend="underline">Oct</hi><hi rend="underline"><hi rend="sup">r</hi></hi><hi rend="underline"> 10. 1863</hi></date><pb/></p>
@@ -84,7 +92,7 @@
 <lb/>Captain.<figure type="hr"/>
 <lb/>Resignation.<figure type="hr"/>
 <lb/>Accepted for the good of the service.<figure type="hr"/></p>
-<p>Rec<hi rend="sup">d</hi> at A. G. O. <date when="1864-02-08">Feb<hi rend="sup">y</hi> 8. 1864</date></p>
+<p>Rec<hi rend="sup">d</hi> at <orgName ref="cwgk:O00000388">A. G. O.</orgName> <date when="1864-02-08">Feb<hi rend="sup">y</hi> 8. 1864</date></p>
   </body>
  </text>
 </TEI>
