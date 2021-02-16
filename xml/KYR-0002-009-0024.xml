@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0024"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,17 +72,17 @@
  <text>
   <body>
    <p>Assistant Adjutant General's Office,
-<lb/>DEPARTMENT OF THE OHIO,
-<lb/>Lexington, Kentucky, <date when="1864-01-08">January 8<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864</date>.</p>
+<lb/><orgName ref="cwgk:O001001">DEPARTMENT OF THE OHIO</orgName>,
+<lb/><placeName ref="cwgk:P001002">Lexington</placeName>, <placeName ref="cwgk:P001800">Kentucky</placeName>, <date when="1864-01-08">January 8<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864</date>.</p>
 <p>SPECIAL ORDERS,
 <lb/>No 9</p>
-<p>3,, ,, ,, The resignation of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut <hi rend="underline">James H. Loh.</hi> Co "B" 45<hi rend="underline"><hi rend="sup">th</hi></hi> Kentucky Mounted Inf, is for the good of the serivce hereby accepted to take effect on the <date when="1864-01-09">(9<hi rend="underline"><hi rend="sup">th</hi></hi>) ninth day of January 1864</date>, He to receive no final payment until he exhibits satisfactory evidence from the Head of the Ordnance Department. and the proper accounting officer of the Treasury. that he has made all prescribed returns and is in no wise indebted to the United States on account of Ordnance.</p>
-<p>BY COMMAND OF MAJOR GENERAL FOSTER.
-<lb/>R. Morrow
+<p>3,, ,, ,, The resignation of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut <persName ref="cwgk:N00013048"><hi rend="underline">James H. Loh</hi></persName><hi rend="underline">.</hi> Co "B" <orgName ref="cwgk:O00009601">45<hi rend="underline"><hi rend="sup">th</hi></hi> Kentucky Mounted Inf</orgName>, is for the good of the serivce hereby accepted to take effect on the <date when="1864-01-09">(9<hi rend="underline"><hi rend="sup">th</hi></hi>) ninth day of January 1864</date>, He to receive no final payment until he exhibits satisfactory evidence from the Head of the <orgName ref="cwgk:O00012696">Ordnance Department</orgName>. and the proper accounting officer of the <orgName ref="cwgk:O00010587">Treasury</orgName>. that he has made all prescribed returns and is in no wise indebted to the <placeName ref="cwgk:P001802">United States</placeName> on account of Ordnance.</p>
+<p>BY COMMAND OF <persName ref="cwgk:N00005705">MAJOR GENERAL FOSTER</persName>.
+<lb/><persName ref="cwgk:N00005915">R. Morrow</persName>
 <lb/>Assistant Adjutant General.</p>
 <p>1. 2. 3. 4. 5<figure type="hr"/>
 <lb/><date when="1863-09-01">Sept<hi rend="sup">r</hi> 1. 1863</date><figure type="hr"/></p>
-<p>Gov. of Ky.<pb/></p>
+<p><persName ref="cwgk:N001000">Gov. of Ky.</persName><pb/></p>
 <p>45 Infy<figure type="hr"/>
 <lb/>Lieut Loh<figure type="hr"/>
 <lb/>Resigs<figure type="hr"/>
