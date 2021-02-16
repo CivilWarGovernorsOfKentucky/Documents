@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0023"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,24 +71,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>Paris, Kentucky
+   <p><placeName ref="cwgk:P00000514">Paris</placeName>, <placeName ref="cwgk:P001800">Kentucky</placeName>
 <lb/><date when="1864-04-07">7th April 1864</date>
-<lb/>To His Excellency Gov Bramlette
+<lb/>To His Excellency <persName ref="cwgk:N001000">Gov Bramlette</persName>
 <lb/>Sir.</p>
-<p>I am informed by Lieut Col Ja<hi rend="sup">s</hi> T. Bramlette 12<hi rend="sup">th</hi> Ky Cavalry, that a recommendation has been forwarded to your Excellency, urging <hi rend="underline">Erastus M Gates</hi> for a position in some Ky Regiment -- </p>
-<p>I would respectully represent to your Excellency that the said Gates tendered his resignation as 1<hi rend="sup">st</hi> Lieut of C<hi rend="sup">o.</hi> "G" 45<hi rend="sup">th</hi> Ky by my my direction -- His resignation was accepted "for the good of the service" and he fraudulently procured an order from Gen Sturgiss under which he drew the pay that had been stopped against him -- </p>
+<p>I am informed by Lieut Col <persName ref="cwgk:N00007275">Ja<hi rend="sup">s</hi> T. Bramlette</persName> <orgName ref="cwgk:O00008591">12<hi rend="sup">th</hi> Ky Cavalry</orgName>, that a recommendation has been forwarded to your Excellency, urging <persName ref="cwgk:N00012850"><hi rend="underline">Erastus M Gates</hi></persName> for a position in some Ky Regiment -- </p>
+<p>I would respectully represent to your Excellency that the said Gates tendered his resignation as 1<hi rend="sup">st</hi> Lieut of C<hi rend="sup">o.</hi> "G" 45<hi rend="sup">th</hi> Ky by my my direction -- His resignation was accepted "for the good of the service" and he fraudulently procured an order from <persName ref="cwgk:N00013024">Gen Sturgiss</persName> under which he drew the pay that had been stopped against him -- </p>
 <p>I therefore more earnestly protest, to your Excellency, against the re-appointment of the said E. M. Gates to any position in any Kentucky Regiment -- </p>
 <p>I have the honor to be 
 <lb/>Yr Excellency's most obd<hi rend="sup">t</hi> serv<hi rend="sup">t</hi>
-<lb/>Jno. Mason Brown
-<lb/>Col 45 Ky Mt<hi rend="sup">d</hi> Infy Vols<pb/></p>
+<lb/><persName ref="cwgk:N00000924">Jno. Mason Brown</persName>
+<lb/>Col <orgName ref="cwgk:O00009601">45 Ky Mt<hi rend="sup">d</hi> Infy Vols</orgName><pb/></p>
 <p>Paris Ky
 <lb/><date when="1864-04-07">7<hi rend="underline"><hi rend="sup">th</hi></hi> April 1864</date><figure type="hr"/></p>
 <p><hi rend="underline">Gates E M</hi></p>
 <p>Brown Jn<hi rend="sup">o</hi> M 
 <lb/>Col. 45<hi rend="underline"><hi rend="sup">th</hi></hi> Infty<figure type="hr"/></p>
 <p>Protests against the recommendation and appointment of E M Gates to any position in the Ky service, as he was discharged from the 45<hi rend="underline"><hi rend="sup">th</hi></hi> for the good of the service<figure type="hr"/></p>
-<p>Rec<hi rend="sup">d</hi> A G. O. <date when="1864-04-09">9<hi rend="underline"><hi rend="sup">th</hi></hi> April 1864</date></p>
+<p>Rec<hi rend="sup">d</hi> <orgName ref="cwgk:O00000388">A G. O.</orgName> <date when="1864-04-09">9<hi rend="underline"><hi rend="sup">th</hi></hi> April 1864</date></p>
   </body>
  </text>
 </TEI>
