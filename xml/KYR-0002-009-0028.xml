@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0028"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Department of the Ohio,
-<lb/>Assistant Adjutant General's Office,
-<lb/>Lexington, Kentucky, <date when="1864-02-03">Febry 3<hi rend="sup">d</hi>, 1864</date>.
+   <p><orgName ref="cwgk:O001001">Department of the Ohio</orgName>,
+<lb/><orgName ref="cwgk:O00000388">Assistant Adjutant General's Office</orgName>,
+<lb/><placeName ref="cwgk:P001002">Lexington</placeName>, <placeName ref="cwgk:P001800">Kentucky</placeName>, <date when="1864-02-03">Febry 3<hi rend="sup">d</hi>, 1864</date>.
 <lb/>Special Orders,
 <lb/>No 34.
 <lb/>[<hi rend="italic">Extract</hi>.]<figure type="hr"/></p>
-<p>4,, The resignation of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut. <hi rend="underline">John L, Reid</hi> Co. "B" 40<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. vol. Infantry is hereby accepted, to take effect <date when="1864-02-03">Febry 3<hi rend="sup">d</hi> 1864</date>, with the condition that he shall receive no final payment until he exhibits satisfactory evidence from the head of the Ordnance Department, and the proper accounting officers of the Treasury, that he has made all prescribed returns, and is in no wise indebted to the Government.<figure type="hr"/></p>
-<p>BY COMMAND OF MAJOR GENERAL FOSTER.
-<lb/>W P Anderson
+<p>4,, The resignation of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut. <hi><persName ref="cwgk:N00013186">John L, Reid</persName></hi> Co. "B" <orgName ref="cwgk:O00009883">40<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. vol. Infantry</orgName> is hereby accepted, to take effect <date when="1864-02-03">Febry 3<hi rend="sup">d</hi> 1864</date>, with the condition that he shall receive no final payment until he exhibits satisfactory evidence from the head of the <orgName ref="cwgk:O00012696">Ordnance Department</orgName>, and the proper accounting officers of the <orgName ref="cwgk:O00010587">Treasury</orgName>, that he has made all prescribed returns, and is in no wise indebted to <orgName ref="cwgk:O00002945">the Government</orgName>.<figure type="hr"/></p>
+<p>BY COMMAND OF <persName ref="cwgk:N00005705">MAJOR GENERAL FOSTER</persName>.
+<lb/><persName ref="cwgk:N00005941">W P Anderson</persName>
 <lb/>Assistant Adjutant General.</p>
-<p>Gov. Ky. </p>
+<p><persName ref="cwgk:N001000">Gov.</persName> <orgName ref="cwgk:O001025">Ky.</orgName> </p>
 <p>1. 2. 3. 4 5 
 <lb/><date when="1863-06-19">June <hi rend="underline">19. 1863</hi></date><pb/></p>
 <p>40 Inf<hi rend="sup">y</hi><figure type="hr"/>
