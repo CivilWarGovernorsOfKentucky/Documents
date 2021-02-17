@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0054"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>New Castle Ky
+   <p><placeName ref="cwgk:P00000305">New Castle</placeName> <placeName ref="cwgk:P001800">Ky</placeName>
 <lb/><date when="1863-10-21">October 21<hi rend="sup">st</hi> 63</date>
     <lb/>To his Excellency, <persName ref="cwgk:N001000">Gov Bramlett</persName>
     <lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName>
 <lb/>Sir</p>
    <p>We the undersigned would respectfully recommend <persName ref="cwgk:N00004741">W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Watts</persName> for the appointment of Lieu<hi rend="sup">t</hi> Col for <placeName ref="cwgk:P00000758">Henry. Co.</placeName> Mr. Watts is eminently qualified for the position. Being a man of Energy with considerable experiance in Military Affairs.</p>
 <p>We feel confident that he will use every exertion to raise and organize a company in our County for the defense of our state against the invasion or raids of rebel Guerillas.</p>
-   <p><persName ref="cwgk:N00003013"><hi rend="underline">H. M. Buckley</hi></persName><pb/>
+   <p><persName ref="cwgk:N00003013"><hi><persName ref="cwgk:N00003013">H. M. Buckley</persName></hi></persName><pb/>
     <lb/><persName ref="cwgk:N00004926">Tho<hi rend="sup">s</hi>. W. Robertson</persName> Capt <orgName ref="cwgk:O000049256"><hi rend="sup">th</hi> Ky</orgName>
     <lb/><persName ref="cwgk:N00004935">Jno S White</persName>
     <lb/><persName ref="cwgk:N00004939">Geo. T. Humston</persName> Clk Ci Court</p>
@@ -82,7 +90,7 @@
  <lb/><persName ref="cwgk:N00004952">Warren Clubb</persName> Lt Col
 <lb/>H M Buckley<figure type="hr"/></p>
 <p>Issue as Colonel.
-<lb/><persName ref="cwgk:N00000879"><hi rend="underline">Boyle</hi></persName>
+<lb/><persName ref="cwgk:N00000879"><hi><persName ref="cwgk:N00000879">Boyle</persName></hi></persName>
 <lb/>Newcastle.
 <lb/>Issued, 57, 300,</p>
 <p>wrote recalling Com of Col Watts
