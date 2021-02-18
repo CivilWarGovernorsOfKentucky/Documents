@@ -8,6 +8,14 @@
             <resp n="created">Created by:</resp>
             <name>Natalie Smith</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -40,9 +48,10 @@
                 <person xml:id="N00008450">
                     <persName>
                       Jesse H. Cole
-                        (Owsley County, Kentucky, coal miner)
+                        (Owsley County, Kentucky, coal miner &amp; corp, sgt, 1st lieut 7th KY Cav USA)
                     </persName>
                         <event type="birth"  when="1829"  cert="medium" ><ab>c1829</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -50,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Owsley County, Kentucky, coal miner. Kentucky native. Coal miner in Owsley County in 1860. </p>
+        <p>Owsley County, Kentucky, coal miner and soldier. Kentucky native. Coal miner in Owsley County in 1860. Served in the 7th Kentucky Volunteer Infantry Regiment (U.S.A.) as corporal, sergeant, and first lieutenant from September 22, 1861, to September 24, 1864.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owsley County, p. 72.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owsley County, Beatyville, p. 368.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0211.
 </bibl></ab>
     </back>
 </text>
