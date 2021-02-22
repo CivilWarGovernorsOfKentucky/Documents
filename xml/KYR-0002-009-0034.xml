@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0034"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Camp 4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Inf.
-<lb/>Chattanooga Tenn
+   <p>Camp <orgName ref="cwgk:O00005258">4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Inf</orgName>.
+<lb/><placeName ref="cwgk:P00012932">Chattanooga</placeName> <placeName ref="cwgk:P001001">Tenn</placeName>
 <lb/><date when="1863-11-13">November 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
-<lb/>Gov.</p>
-<p>With this I have notified Adjt. Gen. Boyle. of the non acceptance of Commission a<hi rend="str">t</hi>s 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut &amp; Adjt. of the 49<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Inf. which you so kindly assisted me to procure, and deeming it but just, to give you my reasons for so doing is my excuse for now addressing you.</p>
-<p>No Commissioned officer being with the Co. but myself. The dissatisfaction that it would create, if I should leave them at this time, and at the solicitation of the Field Officers of the Reg't. I have concluded to stay with the 4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. &amp; while I think it will be for the good of the service to remain here, I would earnestly reccomend Tho<hi rend="underline"><hi rend="sup">s</hi></hi> P. Young Co "A." 4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky, for the promotion, (with whom you are personally acquainted.) He is a young man of good character, and fine capacity for the duties of an Adjt. and I understand our Col. would readily consent to his "Muster out", if he could procure the Commission.</p>
+<lb/><persName ref="cwgk:N001000">Gov</persName>.</p>
+<p>With this I have notified Adjt. Gen. <persName ref="cwgk:N00000879">Boyle</persName>. of the non acceptance of Commission a<hi rend="str">t</hi>s 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut &amp; Adjt. of the <orgName ref="cwgk:O00008685">49<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Inf.</orgName> which you so kindly assisted me to procure, and deeming it but just, to give you my reasons for so doing is my excuse for now addressing you.</p>
+<p>No Commissioned officer being with the Co. but myself. The dissatisfaction that it would create, if I should leave them at this time, and at the solicitation of the Field Officers of the Reg't. I have concluded to stay with the 4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. &amp; while I think it will be for the good of the service to remain here, I would earnestly reccomend <persName ref="cwgk:N00012931">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> P. Young </persName>Co "A." 4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky, for the promotion, (with whom you are personally acquainted.) He is a young man of good character, and fine capacity for the duties of an Adjt. and I understand our Col. would readily consent to his "Muster out", if he could procure the Commission.</p>
 <p>I am Gov. Very Res'ptly, Y<hi rend="sup">r</hi> obt svt.
-<lb/>Henry B. Stanwood
+<lb/><persName ref="cwgk:N00012927">Henry B. Stanwood</persName>
 <lb/>2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut Co "B,," 4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Inf.</p>
 <p>To. 
 <lb/>Hon. Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
-<lb/>Gov. of Kentucky</p>
+<lb/>Gov. of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
 <p><hi rend="str">Henry B. Stanwood Adj</hi><hi rend="str"><hi rend="sup">t</hi></hi><hi rend="str"> com cancelled</hi> 
 <lb/>1. 2. 3-<pb/></p>
 <p>Refered to Adjt Gen<hi rend="sup">l</hi> I recommend the Commission as suggested</p>
@@ -82,7 +90,7 @@
 <p>Issue to Young -- a <hi rend="underline">com</hi> as Adjutant in place of Stanwood declined and forward to 4<hi rend="sup">th</hi> Ky. Inf.</p>
 <p><hi rend="underline">Boyle</hi></p>
 <p>1. 2. 3. 4. 5. 6. 7. 8. 9</p>
-<p>2 Lieut Tho<hi rend="sup">s</hi> P. Young Co<hi rend="sup">y</hi> A. 4 Ky Inf<hi rend="sup">y</hi> com Adjutant 49<hi rend="sup">th</hi> Ky Inf<hi rend="sup">y</hi> <date when="1863-11-20">Nov<hi rend="sup">r</hi> 20 1863</date> vice Philos Stratton promo;</p>
+<p>2 Lieut Tho<hi rend="sup">s</hi> P. Young Co<hi rend="sup">y</hi> A. 4 Ky Inf<hi rend="sup">y</hi> com Adjutant 49<hi rend="sup">th</hi> Ky Inf<hi rend="sup">y</hi> <date when="1863-11-20">Nov<hi rend="sup">r</hi> 20 1863</date> vice<persName ref="cwgk:N00012926"> Philos Stratton</persName> promo;</p>
 <p>49 Infy<figure type="hr"/>
 <lb/>4 Infy<figure type="hr"/>
 <lb/>Adj: Young<figure type="hr"/>
