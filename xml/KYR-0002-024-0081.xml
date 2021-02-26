@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0081"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,13 +72,13 @@
  <text>
   <body>
    <p>SPECIAL ORDERS,
-<lb/>No. 578.&#125; WAR DEPARTMENT,
-<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>No. 578.}<orgName ref="cwgk:O00005118"> WAR DEPARTMENT</orgName>,
+<lb/><orgName ref="cwgk:O00010608">ADJUTANT GENERAL'S OFFICE</orgName>,
 <lb/><hi rend="italic">Washington, </hi><date when="1863-12-30"><hi rend="italic">December</hi> 30<hi rend="italic">th</hi>, 1863.</date>
 <lb/>(<hi rend="italic">Extract.</hi>)<figure type="hr"/></p>
-<p>23. At the request of the Governor of Kentucky, Private <hi rend="italic">Joseph K. Pitts</hi>, 16th Kentucky Volunteers, is hereby honorably discharged the service of the United States, to enable him to accept a commission in another regiment.<figure type="hr"/></p>
-<p>By order of the Secretary of War:
-<lb/>E. D. TOWNSEND,
+<p>23. At the request of the <persName ref="cwgk:N001000">Governor</persName> of <orgName ref="cwgk:O001025">Kentuck</orgName>y, Private <hi><persName ref="cwgk:N00013782">Joseph K. Pitts</persName></hi>, <orgName ref="cwgk:O00008605">16th Kentucky Volunteers</orgName>, is hereby honorably discharged the service of the <placeName ref="cwgk:P001802">United States</placeName>, to enable him to accept a commission in another regiment.<figure type="hr"/></p>
+<p>By order of the <persName ref="cwgk:N00002647">Secretary of War</persName>:
+<lb/><persName ref="cwgk:N00005757">E. D. TOWNSEND</persName>,
 <lb/><hi rend="italic">Assistant Adjutant General.</hi></p>
 <p>OFFICIAL:
 <lb/>E D Townssend
