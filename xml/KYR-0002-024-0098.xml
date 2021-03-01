@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0098"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,22 +71,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>Camp 17<hi rend="underline"><hi rend="sup">th</hi></hi><hi rend="sup"> </hi>Ky Vols Inf<hi rend="underline"><hi rend="sup">t</hi></hi>
-<lb/>Near Atlanta G<hi rend="underline"><hi rend="sup">a</hi></hi>
+   <p>Camp <orgName ref="cwgk:O00002664">17<hi rend="underline"><hi rend="sup">th</hi></hi><hi rend="sup"> </hi>Ky Vols Inf<hi rend="underline"><hi rend="sup">t</hi></hi></orgName>
+<lb/>Near <placeName ref="cwgk:P00005758">Atlanta</placeName> <placeName ref="cwgk:P001008">G<hi rend="underline"><hi rend="sup">a</hi></hi></placeName>
 <lb/><date when="1864-08-22">August 22<hi rend="underline"><hi rend="sup">nd</hi></hi> 1864</date>
-<lb/>Govenor Bramlette,
+<lb/>Govenor <persName ref="cwgk:N001000">Bramlette</persName>,
 <lb/>Honorable Sir:</p>
 <p>As there is a great difference of opinion here in regard to the mustering out of Troops. The question is whether or not Troops are mustered out from date of enlistment the organization of the Reg<hi rend="underline"><hi rend="sup">t</hi></hi> or their muster in to the Service We ask your decision on this Subject,</p>
 <p>By so doing you will oblige many Soldiers,</p>
 <p>We are Very Respectfully
 <lb/>Your Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">tts</hi></hi>
-<lb/>David Duncan
+<lb/><persName ref="cwgk:N00013785">David Duncan</persName>
 <lb/>Capt Co "C" 17<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Vols</p>
-<p>Saml, T, Fruit
+<p><persName ref="cwgk:N00013786">Saml, T, Fruit</persName>
 <lb/>Capt Co G 17<hi rend="sup">th</hi> Ky vol</p>
-<p>Linus Fuller
+<p><persName ref="cwgk:N00013787">Linus Fuller</persName>
 <lb/>Lieut Co "C" 17<hi rend="underline"><hi rend="sup">th</hi></hi> Ky</p>
-<p>Curtis ,,A,, Brasher
+<p><persName ref="cwgk:N00013788">Curtis ,,A,, Brasher</persName>
 <lb/>2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lieut<hi rend="underline"> Co</hi> "C" 17<hi rend="underline"><hi rend="sup">th</hi></hi> Ky<pb/></p>
 <p>Camp 17<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Infty.
 <lb/>Near Atlanta. Ga.
@@ -88,7 +96,7 @@
 <p>To Governor,</p>
 <p>Stating there is Difference of opinion about the muster-out of Reg'ts. Desires to Know the Gov's opinion as to when Reg'ts are must<hi rend="sup">d</hi> out.<figure type="hr"/></p>
 <p>L. B. no 6-<date when="1864">1864</date>. <hi rend="underline">P 174</hi><figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A.G.O. <date when="1864-08-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> Aug. 1864</date>.</p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A.G.O</orgName>. <date when="1864-08-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> Aug. 1864</date>.</p>
   </body>
  </text>
 </TEI>
