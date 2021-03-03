@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,23 +68,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>Franklin County
+   <p><placeName ref="cwgk:P001019">Franklin County</placeName>
 <lb/>To His Excellency
-<lb/>Gov. Robinson -- </p>
+<lb/><persName ref="cwgk:N001004">Gov. Robinson</persName> -- </p>
 <p>Your petitioner respectfully states as follows: For <hi rend="str">nearly</hi> two years past a prosecution has been pending in the Circuit Court against him for selling less than a quart of liquor after his license expired. He was at the last term just ended, fined $50 -- Since the offence, he has never sold liquor to any one, nor violated the laws in any way. He hopes never to do so. It is proper perhaps to say that he was not fined for his own act, but for that of one of his sons.</p>
-<p>He has no trade. He has a wife and Seven children -- all small except one who enlisted in the army -- has been discharged on account of a six months attack of chronic diarrhea -- will be dependant on him for support.</p>
+<p>He has no trade. He has a <persName ref="cwgk:N00011701">wife</persName> and Seven children -- all small except <persName ref="cwgk:N00011702">one </persName>who enlisted in the army -- has been discharged on account of a six months attack of chronic diarrhea -- will be dependant on him for support.</p>
 <p>All the property he has will not bring the fine and costs, if sold.</p>
-<p>He is dependant on his daily work for support which in these troubled times is hard to obtain regularly. He prays for a remission of the fine. Witness W L Harlan Newton ^his X mark^ Dean</p>
-<p>sworn to by Newton Dean this <date when="1863-03-05">5<hi rend="sup">th</hi> March 1863</date>.</p>
-<p><hi rend="underline">Geo W Gwin</hi> J. P.<pb/></p>
+<p>He is dependant on his daily work for support which in these troubled times is hard to obtain regularly. He prays for a remission of the fine. Witness <persName ref="cwgk:N00001149">W L Harlan </persName>Newton ^his X mark^ Dean</p>
+<p>sworn to by <persName ref="cwgk:N00011700">Newton Dean</persName> this <date when="1863-03-05">5<hi rend="sup">th</hi> March 1863</date>.</p>
+<p><persName ref="cwgk:N00002995"><hi rend="underline">Geo W Gwin</hi></persName> J. P.<pb/></p>
 <p>The Undersigned unite in the petition for a remission of the fine -- </p>
-<p><milestone unit="column" n="2"/><cb n="1"/>H I Todd 
-<lb/><cb n="2"/><hi rend="underline">James Harlan Jr</hi>
-<lb/>W Franklin
-<lb/>W,, H,, Gray
-<lb/><hi rend="underline">M, A, Gay</hi>
-<lb/>William Morris<pb/></p>
-<p>Franklin Cir. Ct
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00000230">H I Todd</persName> 
+<lb/><cb n="2"/><hi><persName ref="cwgk:N00000761">James Harlan Jr</persName></hi>
+<lb/><persName ref="cwgk:N00009263">W Franklin</persName>
+<lb/><persName ref="cwgk:N00001618">W,, H,, Gray</persName>
+<lb/><hi><persName ref="cwgk:N00011703">M, A, Gay</persName></hi>
+<lb/><persName ref="cwgk:N00011704">William Morris</persName><pb/></p>
+<p><orgName ref="cwgk:O00000376">Franklin Cir. Ct</orgName>
 <lb/>$50. } Liquor
 <lb/>Newton Dean
 <lb/>All but $5 Remitted
