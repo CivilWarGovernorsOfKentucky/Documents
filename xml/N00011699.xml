@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,11 @@
                 <person xml:id="N00011699">
                     <persName>
                       Hiram Bell
-                        (Wayne County, Kentucky, soldier)
+                        (Wayne County, Kentucky, notary or soldier)
                     </persName>
+                        <event type="birth"  when="1825-01-27"  ><ab>1825-01-27</ab></event>
+                        <event type="death"  when="1906-10-30"  ><ab>1906-10-30</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in correspondence from J. L. Sallee to Ephraim L. VanWinkle in Wayne County, Kentucky, in January 1864.</p>
+        <p>Wayne County, Kentucky, justice of the peace. Kentucky native. Son of Joseph Bell and Nancy Bell. Married to Margaret Bell. Father of Lenora Emily Bell, Martha Jane Bell, George W. Bell, Lewis A. Bell, and Alice Bell. Resident of Wayne County in 1850. Justice of the peace in Wayne County in 1860. Justice of the peace in Wayne County in 1864.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-007-0095.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Wayne County, Division 1, p. 317A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Wayne County, Monticello, p. 319-20.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Wayne County, District 7,  p. 132B.<lb/>
+<hi rend="italic">Find A Grave</hi>, “Hiram Bell (1825-1906),&quot; Memorial # 41921822, https://www.findagrave.com/memorial/41921822/hiram-bell (accessed March 4, 2021).<lb/>
+KYR-0001-007-0095.
 </bibl></ab>
     </back>
 </text>
