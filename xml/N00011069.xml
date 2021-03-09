@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. N. Gaither</title>
+        <title level="a" type="main">William N. Gaither</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00011069">
                     <persName>
-                      W. N. Gaither
-                        (Caldwell County, Kentucky, prov govt)
+                      William N. Gaither
+                        (Trigg County, Kentucky, physician and prov govt)
                     </persName>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Reported as member of convention of the provisional government held at Russellville, Kentucky, in November 1861.</p>
+        <p>Kentucky native. Married to Lavinia Anderson Gaither in Trigg County, Kentucky, on February 20, 1844. Father of Nathan Gaither, Mariah Gaither, George E. Gaither, Phillip Gaither. Physician in Trigg County in 1850. Physician in Trigg County in 1860. Owned nine enslaved persons in Trigg County in 1860. Reported as member of convention of the provisional government held at Russellville, Kentucky, in November 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0004-033-0001.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District 1, p. 300B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trigg County, p. 77.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trigg County, p. 18.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Trigg County Marriages, Film #000321335, p. 99.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7016189, Christian County Deaths, File #579.<lb/>
+KYR-0004-033-0001.
 </bibl></ab>
     </back>
 </text>
