@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014080">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William &quot;Carroll&quot; Pitts</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014080">
+                    <persName>
+                      William &quot;Carroll&quot; Pitts
+                        (Posey County, IN, farmer; stepfather of Seraphine Pentecost)
+                    </persName>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Posey County, Indiana, farmer. Tennessee native. Married to Jane Brown Pitts. Father of Jeddie Pitts, Edward Alvis  Pitts, Maria Esther  Pitts, Warren  Pitts, Carroll  Pitts, and Alvin Pitts. Stepfather of Seraphine Brown Pentecost. Farmer in Posey County in 1850. Farmer in Posey County in 1860. Employed John Pharr, Lewis Kiniman, John Murrey, Michael McGrudy, and John McDonald as laborers in Posey County in 1860. Owned seven enslaved persons in Henderson County, Kentucky, in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Posey County, Lynn, p. 226B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Posey County, Lynn, p. 857.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Henderson County, Division 1, p. 150A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Posey County, Lynn,  p. 361A.<lb/>
+<hi rend="italic">Find A Grave</hi>, “William Carroll Pitts (1814-1884),&quot; Memorial # 6732891, https://www.findagrave.com/memorial/6732891/william_carroll-pitts (accessed March 11, 2021).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
