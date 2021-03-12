@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0037"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,32 +71,32 @@
  </teiHeader>
  <text>
   <body>
-   <p>Danville Ky
+   <p><placeName ref="cwgk:P00005549">Danville</placeName><placeName ref="cwgk:P001800"> <orgName ref="cwgk:O001025">Ky</orgName></placeName>
 <lb/><date when="1863-09-13">Sept 13. 1863</date>.
-<lb/>Hon. T. E. Bramlett.
+<lb/>Hon. <persName ref="cwgk:N001000">T. E. Bramlett</persName>.
 <lb/>Gov. of Ky.
 <lb/>Dear Sir</p>
-<p>This will be handed you by Lt. Henry B. Stanwood "Co B." 4<hi rend="sup">th</hi> Regt. Ky Vol Infty. Mr Stanwood desires to procure a Situation in one of the new Ky Regts now being organized for the better defense of the State.</p>
+<p>This will be handed you by Lt. <persName ref="cwgk:N00012927">Henry B. Stanwood</persName> "Co B." <orgName ref="cwgk:O00005258">4<hi rend="sup">th</hi> Regt. Ky Vol Infty</orgName>. Mr Stanwood desires to procure a Situation in one of the new Ky Regts now being organized for the better defense of the State.</p>
 <p>I can cheerfully recommend him as a good and faithful officer. He has been with the 4<hi rend="sup">th</hi> Regt. Ky Vols, since its Organization and has always discharged his duties to the entire Satisfaction of his Commanding Officers. If there is any vacant position to which you can assign him rest assured that it could not be bestowed upon one more worthy</p>
 <p>I am Governor 
 <lb/>Verry Respectfully 
 <lb/>Your Obt Servt
-<lb/>Speed S. Fry
+<lb/><persName ref="cwgk:N00008693">Speed S. Fry</persName>
 <lb/>Brig. Genl.</p>
 <p>I endorse fully the above
-<lb/><milestone unit="column" n="2"/><cb n="1"/>Al Chiles
-<lb/>W. R. Oscar 
-<lb/><cb n="2"/>J. Boyle Gill
-<lb/>Joshua F Bell
-<lb/>E L VanWinkle (Good Man)<pb/></p>
+<lb/><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00012955">Al Chiles</persName>
+<lb/><persName ref="cwgk:N00012956">W. R. Oscar</persName> 
+<lb/><cb n="2"/><persName ref="cwgk:N00012954">J. Boyle Gill</persName>
+<lb/><persName ref="cwgk:N00000207">Joshua F Bell</persName>
+<lb/><persName ref="cwgk:N001777">E L VanWinkle</persName> (Good Man)<pb/></p>
 <p>1. 2. 3. 4. 5. 6. 7. 8. 9<figure type="hr"/></p>
-<p>2 Lieut Henry B. Stanwood Co<hi rend="sup">y</hi> B. 4 Infy Reg Ky Vols. <date when="1863-09-23">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 23. 1863</date>. com Adjutant 49 Ky Infy. vice Philos Stratton pro: -- </p>
+<p>2 Lieut Henry B. Stanwood Co<hi rend="sup">y</hi> B. 4 Infy Reg Ky Vols. <date when="1863-09-23">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 23. 1863</date>. com Adjutant <orgName ref="cwgk:O00008685">49 Ky Infy</orgName>. vice <persName ref="cwgk:N00012926">Philos Stratton</persName> pro: -- </p>
 <p>49: Infy<figure type="hr"/>
 <lb/>Adjt. Stanwood<figure type="hr"/>
 <lb/>Com iss<hi rend="sup">d</hi> &amp; del<hi rend="sup">d</hi>
 <lb/><date when="1863-09-24">Sept 24. 1863</date><figure type="hr"/>
 <lb/>see 4: Infy</p>
-<p>Refered to Adjt Genl for favorable Consideration </p>
+<p>Refered to <orgName ref="cwgk:O00000388">Adjt Genl</orgName> for favorable Consideration </p>
 <p><date when="1863-09-19">19<hi rend="sup">th</hi> Sept 1863</date></p>
 <p>T. E. Bramlette</p>
   </body>
