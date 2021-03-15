@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0040"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,23 +72,23 @@
  <text>
   <body>
    <p>IN THE NAME AND BY THE AUTHORITY OF
-<lb/>The Commonwealth of Kentucky,
+<lb/>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>,
 <lb/><figure type="seal"><ab>KENTUCKY
 <lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure>
-<lb/>THOMAS E. BRAMLETTE,
+<lb/><persName ref="cwgk:N001000">THOMAS E. BRAMLETTE</persName>,
 <lb/>GOVERNOR OF SAID COMMONWEALTH
 <lb/>To all whom these Presents shall come, Greeting:</p>
-<p>Know Ye, That George K. M<hi rend="sup">c</hi>Coy having been duly appointed to the office of Assistant Surgeon In the 48<hi rend="underline"><hi rend="sup">th</hi></hi> Infantry Regiment of Kentucky Volunteer Militia, organized under the Acts of the General Assembly of the Commonwealth, and to be mustered into the service of the United States:</p>
+<p>Know Ye, That<persName ref="cwgk:N00012962"> George K. M<hi rend="sup">c</hi>Coy</persName> having been duly appointed to the office of Assistant Surgeon In the <orgName ref="cwgk:O00008607">48<hi rend="underline"><hi rend="sup">th</hi></hi> Infantry Regiment of Kentucky Volunteer Militia</orgName>, organized under the Acts of the <orgName ref="cwgk:O00000923">General Assembly of the Commonwealth</orgName>, and to be mustered into the service of the <orgName ref="cwgk:O00001186">United States</orgName>:</p>
 <p>NOW KNOW YOU, That, by the powers vested in me by the Constitution and Laws of said State, and reposing special trust and confidence in your patriotism, valor, fidelity, and ability, I do, by these presents Commission you as Assistant Surgeon as aforsaid, for the term of one year unless sooner discharged, upon condition that you take the oath indorsed hereon, within ten days from receipt hereof, sending a certificate thereof to General Headquarters; and I do hereby authorize and require you to discharge, all and singular, the duties and services appertaining to your said office, agreeably to law and general regulations, and to obey such orders and instructions as you shall, from time to time, receive from your superior officers.</p>
 <p><figure type="seal"><ab>SEAL OF KENTUCKY
 <lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
-<p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the State of Kentucky to be affixed, at Frankfort, the <date when="1863-10-21">twenty first day of October, in the year of our Lord one thousand eight hundred and sixty=three</date> and in the eighty=eighth year of the Independence of the United States of America.</p>
+<p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the State of Kentucky to be affixed, at <placeName ref="cwgk:P00000308">Frankfort</placeName>, the <date when="1863-10-21">twenty first day of October, in the year of our Lord one thousand eight hundred and sixty=three</date> and in the eighty=eighth year of the Independence of the <orgName ref="cwgk:O00002945">United States of America</orgName>.</p>
 <p>Tho E Bramlette</p>
 <p>BY THE GOVERNOR: 
-<lb/>E. L. Vanwinkle, Secretary of State.
-<lb/>By Jas R. Page
+<lb/><persName ref="cwgk:N001777">E. L. Vanwinkle</persName>, Secretary of State.
+<lb/>By <persName ref="cwgk:N001778">Jas R. Page</persName>
 <lb/>Asst. Sec</p>
-<p>Commonwealth Office -- WM. E. HUGHES, State Printer.<pb/></p>
+<p>Commonwealth Office -- <persName ref="cwgk:N00002718">WM. E. HUGHES</persName>, State Printer.<pb/></p>
 <p><hi rend="str">4 Cav</hi><hi rend="str"><hi rend="sup">y</hi></hi>
 <lb/><hi rend="str"><unclear/> Coy</hi>
 <lb/>48 Infy<figure type="hr"/>
@@ -88,8 +96,8 @@
 <lb/>M<hi rend="sup">c</hi>Coy<figure type="hr"/>
 <lb/>1. 2. 3.</p>
 <p>Cancel--
-<lb/><hi rend="underline">Boyle</hi><pb/></p>
-<p>DUPLICATE. -- 48 Infantry Regiment Kentucky Volunteers.
+<lb/><hi><persName ref="cwgk:N00000879">Boyle</persName></hi><pb/></p>
+<p>DUPLICATE. -- 48 Infantry Regiment <orgName ref="cwgk:O00000870">Kentucky Volunteers</orgName>.
 <lb/>[<hi rend="italic">To be returned to the Adjutant General of Kentucky properly filled</hi>.]<figure type="hr"/>
 <lb/>OATH.<figure type="hr"/></p>
 <p>I <gap/> do solemnly swear, that I will faithfully support the Constitution of the United States and the Constitution of the State of Kentucky, and will discharge, all and singular, the duties and services appertaining to the office of <gap/> in the Kentucky Volunteer Militia, agreeably to law and general regulations, and will obey such orders and instructions as I shall from time to time receive from the proper officers.</p>
