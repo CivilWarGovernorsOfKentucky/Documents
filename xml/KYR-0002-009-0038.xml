@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0038"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,39 +71,39 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head-Quarters Camp Nelson,
-<lb/>Jessamine Co. Ky. <date when="1863-10-26">Oct 26<hi rend="sup">th</hi> 1863</date>
+   <p>Head-Quarters <orgName ref="cwgk:O00010592">Camp Nelson</orgName>,
+<lb/><placeName ref="cwgk:P00003416">Jessamine Co</placeName>. <placeName ref="cwgk:P001800">Ky</placeName>. <date when="1863-10-26">Oct 26<hi rend="sup">th</hi> 1863</date>
 <lb/>To his Excellency
-<lb/>Tho<hi rend="sup">s</hi> E Bramlett
-<lb/>Frankford Ky</p>
-<p>The Undersigned officers of the 49<hi rend="sup">th</hi> Ky vol Respectfully request that You appoint Dr S B Swisher asst Surgeon of the 49 Ky vol The Doctor has been acting as asst having been detailed by Genl Fry He has done his duty faithfully and it is the wish of the Regiment that he remain with them-- He is a Graduate and well qualified</p>
-<p>W H Prentice
+<lb/><persName ref="cwgk:N001000">Tho<hi rend="sup">s</hi> E Bramlett</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankford</placeName> Ky</p>
+<p>The Undersigned officers of the <orgName ref="cwgk:O00008685">49<hi rend="sup">th</hi> Ky vol </orgName>Respectfully request that You appoint Dr <persName ref="cwgk:N00012925">S B Swisher</persName> asst Surgeon of the 49 Ky vol The Doctor has been acting as asst having been detailed by <persName ref="cwgk:N00008693">Genl Fry</persName> He has done his duty faithfully and it is the wish of the Regiment that he remain with them-- He is a Graduate and well qualified</p>
+<p><persName ref="cwgk:N00012957">W H Prentice</persName>
 <lb/>Surg 49 Ky</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Philos Stratton
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00012926">Philos Stratton</persName>
 <lb/>Major Comd<hi rend="underline"><hi rend="sup">g</hi></hi> Reg<hi rend="underline"><hi rend="sup">t</hi></hi>
-<lb/>J. J. Black 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt. Co. H.
-<lb/>J. Mattingly 1st co G
-<lb/>Stephen Golden Capt Co A
-<lb/>John M Cook Capt Comp D
-<lb/>B. F. Howard comd. co )E( 
-<lb/><cb n="2"/>William. T. Bryant. Capt. Comd,g. Co (C)
-<lb/>W. W. Woodward Capt and Act I Genl<pb/></p>
+<lb/><persName ref="cwgk:N00012953">J. J. Black</persName> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt. Co. H.
+<lb/><persName ref="cwgk:N00012942">J. Mattingly</persName> 1st co G
+<lb/><persName ref="cwgk:N00012952">Stephen Golden</persName> Capt Co A
+<lb/><persName ref="cwgk:N00012959">John M Cook</persName> Capt Comp D
+<lb/><persName ref="cwgk:N00012679">B. F. Howard </persName>comd. co )E( 
+<lb/><cb n="2"/><persName ref="cwgk:N00012958">William. T. Bryant</persName>. Capt. Comd,g. Co (C)
+<lb/><persName ref="cwgk:N00012960">W. W. Woodward</persName> Capt and Act I Genl<pb/></p>
 <p><milestone unit="column" n="1"/>W. B. Swisher com Assistant Surgeon, 49<hi rend="underline"><hi rend="sup">'</hi></hi> Infy <date when="1863-10-26">Oct<hi rend="underline"><hi rend="sup">r</hi></hi> 26. 1863</date>.<figure type="hr"/>
 <lb/>1. 2. 3. 4. 5</p>
 <p>49 Infy<figure type="hr"/>
 <lb/>Ass<hi rend="underline"><hi rend="sup">t</hi></hi> Surg. Swisher<figure type="hr"/>
 <lb/>Com iss<hi rend="sup">d</hi> &amp; forw<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-11-11">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 11. 1863</date><figure type="hr"/></p>
 <p>Issue -- and send to Camp Nelson -- Care of Gen Fry. </p>
-<p><hi rend="underline">Boyle</hi><pb/></p>
-<p>Med. Commission: office
-<lb/>Louisville <date when="1863-11-10">Nov. 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+<p><persName ref="cwgk:N00000879"><hi rend="underline">Boyle</hi></persName><pb/></p>
+<p><orgName ref="cwgk:O00012970">Med. Commission: office</orgName>
+<lb/><placeName ref="cwgk:P00000337">Louisville </placeName><date when="1863-11-10">Nov. 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>To
 <lb/>John Boyle
 <lb/>Adj't Gen'l Ky. vols.
 <lb/>Sir</p>
 <p>The Medical Commission have examined D<hi rend="underline"><hi rend="sup">r</hi></hi> W. B. Swisher and recommend him as <hi rend="underline">well</hi> qualified for a commission as Assistant Surgeon -- </p>
 <p>Respectfully &amp;c
-<lb/>R. C. Hewitt
+<lb/><persName ref="cwgk:N00004347">R. C. Hewitt</persName>
 <lb/>Mem-- of Comm-- &amp; Recorder</p>
   </body>
  </text>
