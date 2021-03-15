@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Robert C. Hewitt</title>
+        <title level="a" type="main">Robert C. Hewett</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
@@ -47,10 +55,11 @@
         <particDesc>
                 <person xml:id="N00004347">
                     <persName>
-                      Robert C. Hewitt
+                      Robert C. Hewett
                         (Louisville, KY, physician )
                     </persName>
-                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
+                        <event type="birth"  when="1812-10-09"  ><ab>1812-10-09</ab></event>
+                        <event type="death"  when="1891-12-22"  ><ab>1891-12-22</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,11 +68,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, physician. Pennsylvania native. Married to Sarah Hewitt. Father of Mary Hewitt and Edward Hewitt. Physician in Louisville in 1860. </p>
+        <p>Louisville, Kentucky, physician. New York native. Married to Joanna Sidney Anderson Hewett in Jefferson County, Kentucky, on October 21, 1847.  Father of Mary S. Hewett and Edward A. Hewett. Physician in Louisville in 1850. Physician in Louisville in 1860. Chairman of the Kentucky Medical Board in 1865. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 6, p. 364.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 3, p. 248B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 6, p. 364.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000482707, p. 370 of 495 of microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Dr Robert Carson Hewett (1812-1891),&quot; Memorial #13529066, http://www.findagrave.com/memorial/13529066 (accessed December 15, 2020).<lb/>
+KYR-0002-161-0032.
 </bibl></ab>
     </back>
 </text>
