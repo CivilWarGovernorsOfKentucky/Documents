@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0076"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Christina Adkins</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Columbus Ky <date when="1865-04-06">April 6<hi rend="underline"><hi rend="sup">th</hi></hi> -- 65</date>
-<lb/>To Adj<hi rend="underline"><hi rend="sup">t</hi></hi> Gen. D W Linsey
-<lb/><hi rend="str"><unclear/></hi> Frankfort</p>
-<p>Sir, yours of <date when="1865-03-16">March 16<hi rend="underline"><hi rend="sup">th</hi></hi></date> -- in answer to a Note writen by me to Gov Bramlett is to hand</p>
-<p>There was in the last sesion of our Legislature an act post authorising each County in the state to rais and organise a company for the benefeit and protection of the State -- there is also a special order isued from the war department authoising a force to be raised in western Kentucky to be known as Gregorys comdg at least I am informed sutch is the case, though I have not as yet come up with the order but I suppose it all means about the same thing as one force will superceed the necesity of the other<pb/>
-<lb/>if you will foward to me the authority for the County of Ballard I will proceed to rais and organize the troups for that county</p>
+   <p><placeName ref="cwgk:P00000893">Columbus</placeName> Ky <date when="1865-04-06">April 6<hi rend="underline"><hi rend="sup">th</hi></hi> -- 65</date>
+<lb/>To Adj<hi rend="underline"><hi rend="sup">t</hi></hi> <persName ref="cwgk:N00000873">Gen. D W Linsey</persName>
+<lb/><hi rend="str"><unclear/></hi> <placeName ref="cwgk:P00000308">Frankfort</placeName></p>
+<p>Sir, yours of <date when="1865-03-16">March 16<hi rend="underline"><hi rend="sup">th</hi></hi></date> -- in answer to a Note writen by me to <persName ref="cwgk:N001000">Gov Bramlett</persName> is to hand</p>
+<p>There was in the last sesion of our <orgName ref="cwgk:O00000923">Legislature</orgName> an act post authorising each County in the state to rais and organise a company for the benefeit and protection of the State -- there is also a special order isued from the <orgName ref="cwgk:O00005118">war department</orgName> authoising a force to be raised in western <placeName ref="cwgk:P001800">Kentucky</placeName> to be known as <persName ref="cwgk:N00008757">Gregorys</persName> comdg at least I am informed sutch is the case, though I have not as yet come up with the order but I suppose it all means about the same thing as one force will superceed the necesity of the other<pb/>
+<lb/>if you will foward to me the authority for the<placeName ref="cwgk:P001035"> County of Ballard</placeName> I will proceed to rais and organize the troups for that county</p>
 <p>Very Respectfully
 <lb/>Yours 
-<lb/>Lieut S Talley
-<lb/>8<hi rend="underline"><hi rend="sup">th</hi></hi> Ky vol Cav</p>
+<lb/><persName ref="cwgk:N00008754">Lieut S Talley
+</persName><lb/><orgName ref="cwgk:O00008608">8<hi rend="underline"><hi rend="sup">th</hi></hi> Ky vol Cav</orgName></p>
 <p><hi rend="str">mustered</hi>
 <lb/>discharged by reson of expiration of term of servis<pb/></p>
 <p>Columbus Ky
@@ -82,11 +90,11 @@
 <p>Answered <date when="1865-04-11">April 11/'65</date>
 <lb/>Inspector Gen's office<figure type="hr"/></p>
 <p>Has rec<hi rend="underline"><hi rend="sup">d</hi></hi> your<hi rend="str">s</hi> letter of <date when="--03-16">March 16<hi rend="underline"><hi rend="sup">th</hi></hi></date>. Send him authority to raise a Co. for protection of Ballard County-<figure type="hr"/></p>
-<p>Respectfully referred to Maj W H Hays Insp<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> of Ky. for reply.</p>
+<p>Respectfully referred to <persName ref="cwgk:N00001581">Maj W H Hays</persName> Insp<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> of <orgName ref="cwgk:O001025">Ky</orgName>. for reply.</p>
 <p>D, W, Lindsey
 <lb/>Adj Gen<hi rend="sup">l</hi> Ky</p>
 <p>L B N<hi rend="sup">o</hi> 11 -- <date when="1865">1865</date> P. 384<figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-04-11">11 April 1865</date></p>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O.</orgName> Ky <date when="1865-04-11">11 April 1865</date></p>
   </body>
  </text>
 </TEI>
