@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0100"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,70 +71,70 @@
  </teiHeader>
  <text>
   <body>
-   <p>Adjutant General's Office,
+   <p><orgName ref="cwgk:O00010608">Adjutant General's Office</orgName>,
 <lb/><hi rend="italic">Washington,</hi> <date when="1864-05-11"><hi rend="italic">May 11</hi><hi rend="italic"><hi rend="underline"><hi rend="sup">th</hi></hi></hi><hi rend="italic">, 1864</hi></date>.
 <lb/>To His Excellency,
-<lb/>The Governor of Kentucky.
+<lb/>The <persName ref="cwgk:N001000">Governor</persName> of <orgName ref="cwgk:O001025">Kentucky</orgName>.
 <lb/>Sir:</p>
-<p>I have the honor to report, that the following named Officers of the Volunteer forces from the State of Kentuckyhave been discharged at the dates, and for the causes, set opposite their respective names, viz:</p>
+<p>I have the honor to report, that the following named Officers of the <orgName ref="cwgk:O00000870">Volunteer forces from the State of Kentucky</orgName>have been discharged at the dates, and for the causes, set opposite their respective names, viz:</p>
 <p><table rend="rules">
 <row>
 	<cell>Dead</cell>
 	<cell>Captain</cell>
-	<cell>R. L. Beckham</cell>
-	<cell>17 Reg<hi rend="underline"><hi rend="sup">t</hi></hi></cell>
+	<cell><persName ref="cwgk:N00013825">R. L. Beckham</persName></cell>
+	<cell><orgName ref="cwgk:O00002664">17 Reg<hi rend="underline"><hi rend="sup">t</hi></hi></orgName></cell>
 	<cell><date when="1864-04">April 1864</date></cell>
 </row>
 <row>
 	<cell>Resigned</cell>
 	<cell>Surgeon</cell>
-	<cell>Joseph G. Roberts</cell>
-	<cell>40 "</cell>
+	<cell><persName ref="cwgk:N00012741">Joseph G. Roberts</persName></cell>
+	<cell><orgName ref="cwgk:O00009883">40</orgName> "</cell>
 	<cell><date when="1864-04-19">" 19 "</date></cell>
 </row>
 <row>
 	<cell>"</cell>
 	<cell>Second Lieut</cell>
-	<cell>Charles H. Harris</cell>
-	<cell>11 "</cell>
+	<cell><persName ref="cwgk:N00013789">Charles H. Harris</persName></cell>
+	<cell><orgName ref="cwgk:O00005233">11 </orgName>"</cell>
 	<cell><date when="1864-04-22">" 22"</date></cell>
 </row>
 <row>
 	<cell>"</cell>
 	<cell>" "</cell>
-	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Morton</cell>
+	<cell><persName ref="cwgk:N00013790">W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Morton</persName></cell>
 	<cell>11 "</cell>
 	<cell><date when="1864-04-22">" 22"</date></cell>
 </row>
 <row>
 	<cell>"</cell>
 	<cell>First "</cell>
-	<cell>L. S. Sullivan</cell>
-	<cell>5 Cavy</cell>
+	<cell><persName ref="cwgk:N00013837">L. S. Sullivan</persName></cell>
+	<cell><orgName ref="cwgk:O00005302">5 Cavy</orgName></cell>
 	<cell><date when="1864-04-19">" 19 "</date></cell>
 </row>
 <row>
 	<cell>"</cell>
 	<cell>Captain</cell>
-	<cell>Joseph Ballou</cell>
-	<cell>12 Reg<hi rend="sup">t</hi></cell>
+	<cell><persName ref="cwgk:N00013791">Joseph Ballou</persName></cell>
+	<cell><orgName ref="cwgk:O00013049">12 Reg<hi rend="sup">t</hi></orgName></cell>
 	<cell><date when="1864-04-20">" 20 "</date></cell>
 </row>
 <row>
 	<cell>"</cell>
 	<cell>First Lieut</cell>
-	<cell>G. C. Freeman</cell>
+	<cell><persName ref="cwgk:N00013836">G. C. Freeman</persName></cell>
 	<cell>12 "</cell>
 	<cell><date when="1864-04-20">" 20 "</date></cell>
 </row>
 </table></p>
 <p>I am Sir Very respectfully Your Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Servant
-<lb/>Thomas M Vincent
+<lb/><persName ref="cwgk:N00005761">Thomas M Vincent</persName>
 <lb/>Ass<hi rend="underline"><hi rend="sup">t</hi></hi> Adj<hi rend="underline"><hi rend="sup">t</hi></hi> General.<pb/></p>
 <p>N<hi rend="underline"><hi rend="sup">o</hi></hi> 163<figure type="hr"/></p>
 <p>Washington City Report<figure type="hr"/></p>
 <p>Resignations<figure type="hr"/></p>
-<p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-05-17">May 17. 1864</date>.</p>
+<p>Rec<hi rend="sup">d</hi> <orgName ref="cwgk:O00000388">A. G. O.</orgName> <date when="1864-05-17">May 17. 1864</date>.</p>
   </body>
  </text>
 </TEI>
