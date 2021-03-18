@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0101"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Adjutant General's Office,
+   <p><orgName ref="cwgk:O00010608">Adjutant General's Office</orgName>,
 <lb/><hi rend="italic">Washington, </hi><date when="1863-11-03"><hi rend="italic">November 3d 1863</hi></date><hi rend="italic">.
 <lb/></hi>To His Excellency,
-<lb/>The Governor of Kentucky,
+<lb/>The <persName ref="cwgk:N001000">Governor</persName> of <orgName ref="cwgk:O001025">Kentucky</orgName>,
 <lb/>Sir:</p>
-<p>I have the honor to report, that the following named Officers of the Volunteer forces from the State of Kentucky -- have ^died^ <hi rend="str">resigned, to take effect</hi> at the dates set opposite their respective names, viz:</p>
-<p>Dead &#x2713;. First Lieut. Jno. D. Mittman. 17th regt. A..<date when="1863-09-19">Septr. 19th. 1863</date></p>
+<p>I have the honor to report, that the following named Officers of the <orgName ref="cwgk:O00000870">Volunteer forces from the State of Kentucky</orgName> -- have ^died^ <hi rend="str">resigned, to take effect</hi> at the dates set opposite their respective names, viz:</p>
+<p>Dead ✓. First Lieut. Jno. D. Mittman. <orgName ref="cwgk:O00002664">17th regt</orgName>. A..<date when="1863-09-19">Septr. 19th. 1863</date></p>
 <p>I am Sir,
 <lb/>Very respectfully
 <lb/>Your Obt. Servant.
-<lb/>Chauncey M<hi rend="sup">c</hi>Keever
+<lb/><persName ref="cwgk:N00012996">Chauncey M<hi rend="sup">c</hi>Keever</persName>
 <lb/>Asst. Adjt. General<pb/></p>
 <p>N<hi rend="sup">o</hi> 124<figure type="hr"/></p>
 <p>Washington City Report<figure type="hr"/></p>
