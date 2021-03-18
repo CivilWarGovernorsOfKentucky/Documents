@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">{unknown} Thomas</title>
+        <title level="a" type="main">[Unknown] Thomas</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +47,10 @@
         <particDesc>
                 <person xml:id="N00013296">
                     <persName>
-                      {unknown} Thomas
-                        ()
+                      [Unknown] Thomas
+                        (Colonel incarcerated in Louisville Military Prison, )
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,8 +58,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Colonel.</p>
+        <p>Soldier. Mentioned in a letter from Daniel W. Lindsay dated February 1865 as being a colonel and incarcerated in the Louisville Military Prison.</p>
 
     </body>
+    <back>
+        <ab><bibl>KYR-0002-161-0004.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
