@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0050"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,27 +72,27 @@
  <text>
   <body>
    <p>SPECIAL ORDERS,
-<lb/>No. 393. &#125; WAR DEPARTMENT,
-<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>No. 393. } <orgName ref="cwgk:O00005118">WAR DEPARTMENT</orgName>,
+<lb/><orgName ref="cwgk:O00010608">ADJUTANT GENERAL'S OFFICE</orgName>,
 <lb/><hi rend="italic">Washington</hi>, <date when="1865-07-24"><hi rend="italic">July</hi> 24<hi rend="italic">th</hi>, 1865</date>.
 <lb/>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>
-<p>26. The following named officer, (published officially <date when="1865-07-03">July 3d, 1865</date>,) having failed to appear before the Military Commission, instituted by Special Orders, No. 53, series of <date when="1863">1863</date>, from the War Department, within the prescribed time, the President directs that they be dismissed the service of the United States, to date <date when="1865-07-03">July 3d, 1865</date>, for the causes set opposite their respective names: -- </p>
+<p>26. The following named officer, (published officially <date when="1865-07-03">July 3d, 1865</date>,) having failed to appear before the Military Commission, instituted by Special Orders, No. 53, series of <date when="1863">1863</date>, from the War Department, within the prescribed time, <persName ref="cwgk:N001801">the President</persName> directs that they be dismissed the service of the <orgName ref="cwgk:O00001186">United States</orgName>, to date <date when="1865-07-03">July 3d, 1865</date>, for the causes set opposite their respective names: -- </p>
 <p><hi rend="italic">Absence without leave</hi>.</p>
-<p>1st Lieutenant <hi rend="italic">William F. Sinclair</hi>, 1st Battery Kentucky Light Artillery.<figure type="hr"/></p>
-<p>By order of the Secretary of War:
-<lb/>E. D. TOWNSEND,
+<p>1st Lieutenant <hi><persName ref="cwgk:N00013961">William F. Sinclair</persName></hi>, <orgName ref="cwgk:O00011727">1st Battery Kentucky Light Artillery</orgName>.<figure type="hr"/></p>
+<p>By order of the <persName ref="cwgk:N00002647">Secretary of War</persName>:
+<lb/><persName ref="cwgk:N00005757">E. D. TOWNSEND</persName>,
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
 <p>OFFICIAL:
 <lb/>E D Townsend
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
-<p>Governor of Kentucky<pb/></p>
+<p><persName ref="cwgk:N001000">Governor </persName>of <orgName ref="cwgk:O001025">Kentucky</orgName><pb/></p>
 <p>1 <hi rend="str">Indpt</hi> Batty Arty<figure type="hr"/></p>
 <p>Sinclair W<hi rend="underline"><hi rend="sup">m</hi></hi> F.
 <lb/>1' Lieut<figure type="hr"/></p>
 <p>Order<figure type="hr"/></p>
 <p>dismissing him from service.<figure type="hr"/></p>
 <p><hi rend="underline">Enc</hi><hi rend="underline"><hi rend="sup">d</hi></hi><figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1865-08-04">Aug 4, 1865</date>.</p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O. </orgName><date when="1865-08-04">Aug 4, 1865</date>.</p>
   </body>
  </text>
 </TEI>
