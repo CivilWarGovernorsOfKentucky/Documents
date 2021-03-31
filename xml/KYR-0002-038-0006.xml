@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0006"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,33 +67,33 @@
  </teiHeader>
  <text>
   <body>
-   <p>War Department,
-<lb/>Adjutant General's Office,
+   <p><orgName ref="cwgk:O00005118">War Department</orgName>,
+<lb/><orgName ref="cwgk:O00010608">Adjutant General's Office</orgName>,
 <lb/><hi rend="italic">Washington, D. C.,</hi> <date when="1864-12-27">December 27 <hi rend="italic">1864</hi></date>.
 <lb/>His Excellency,
-<lb/>The Governor of Kentucky.
-<lb/>Frankfort, Kentucky,
+<lb/>The <persName ref="cwgk:N001000">Governor</persName> of <placeName ref="cwgk:P001800">Kentucky</placeName>.
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, Kentucky,
 <lb/>Sir,</p>
-<p>I have the honor to acknowledge the receipt of your letter of the <date when="---15">15<hi rend="sup">th</hi> instant</date> requesting that authority to granted Colonel John Mason Brown to recruit a regiment of veteran Kentucky soldiers, in order that the State may be represented in the 1<hi rend="sup">st</hi> Army Corps.</p>
+<p>I have the honor to acknowledge the receipt of your letter of the <date when="---15">15<hi rend="sup">th</hi> instant</date> requesting that authority to granted Colonel <persName ref="cwgk:N00000924">John Mason Brown</persName> to recruit a regiment of veteran Kentucky soldiers, in order that the State may be represented in the <orgName ref="cwgk:O00013253">1<hi rend="sup">st</hi> Army Corps</orgName>.</p>
 <p>In reply I am directed to inform you that the regulations under which the 1<hi rend="sup">st</hi> Corps is organizing do not contemplate recruitment by regiments raised in the respective states.</p>
 <p>I am, Sir Very Respectfully,
 <lb/>Your Obedient Servant.<pb/></p>
-<p>Thomas M Vincent
+<p><persName ref="cwgk:N00005761">Thomas M Vincent</persName>
 <lb/>Assistant Adjutant General</p>
 <p>(K. 1041. (v. s.) <date when="1864">1864</date>.)<pb/></p>
 <p>CIRCULAR,
-<lb/>No. 86. &#125; WAR DEPARTMENT,
+<lb/>No. 86. } WAR DEPARTMENT,
 <lb/>ADJUTANT GENERAL'S OFFICE,
 <lb/><hi rend="italic">Washington</hi>, <date when="1864-12-01"><hi rend="italic">December</hi> 1, 1864</date>.</p>
 <p>ENLISTMENTS AND APPOINTMENTS IN THE FIRST CORPS.</p>
-<p>I...Persons desiring and qualified to enlist in the 1st Army Corps, General HANCOCK commanding, under General Orders, No. 287, current series, from this Office, are hereby authorized to present themselves to any United States District Provost Marshal, who, if the applicant appears to be qualified, will furnish a free transportation pass to Washington, D. C., where recruits will be duly enlisted and mustered into the service of the United States. The applicant must satisfy the Provost Marshal that he is an able-bodied man, fit for military service, and that he has been honorably discharged after the expiration of two years' service, by exhibiting his discharge, or in the necessary absence of that paper, by presenting such other evidence as the Provost Marshal may require.</p>
-<p>No person will be forwarded until he has satisfied the Provost Marshal that he is acting in good faith, with a view to enlistment. In case of doubt as to his physical fitness, he will not be forwarded until he shall have been certified to be fit by the Surgeon of the Board of Enrolment, which certificate shall be retained by the Provost Marshal, and a copy forwarded to the Adjutant General by the Provost Marshal.</p>
+<p>I...Persons desiring and qualified to enlist in the 1st Army Corps, <persName ref="cwgk:N00013850">General HANCOCK</persName> commanding, under General Orders, No. 287, current series, from this Office, are hereby authorized to present themselves to any United States District Provost Marshal, who, if the applicant appears to be qualified, will furnish a free transportation pass to Washington, D. C., where recruits will be duly enlisted and mustered into the service of the United States. The applicant must satisfy the Provost Marshal that he is an able-bodied man, fit for military service, and that he has been honorably discharged after the expiration of two years' service, by exhibiting his discharge, or in the necessary absence of that paper, by presenting such other evidence as the Provost Marshal may require.</p>
+<p>No person will be forwarded until he has satisfied the Provost Marshal that he is acting in good faith, with a view to enlistment. In case of doubt as to his physical fitness, he will not be forwarded until he shall have been certified to be fit by the Surgeon of the <orgName ref="cwgk:O00012894">Board of Enrolment</orgName>, which certificate shall be retained by the Provost Marshal, and a copy forwarded to the Adjutant General by the Provost Marshal.</p>
 <p>Surgeons of the Board of Enrolment shall examine any applicant sent to them by the Provost Marshal, and give a certificate as to his fitness for military service, and any Surgeon refusing or neglecting to make such examination will be dismissed.</p>
 <p>Provost Marshals will be prepared to furnish qualified applicants promptly with information and with transportation.</p>
-<p>Any person falsely representing himself as a recruit, and as designing to enlist in the First Army Corps, and failing to offer himself as such recruit, or by any means fraudulently procuring transportation, shall be deemed guilty of defrauding the Government, and will be punished by Court Martial or Military Commission.<pb/></p>
+<p>Any person falsely representing himself as a recruit, and as designing to enlist in the First Army Corps, and failing to offer himself as such recruit, or by any means fraudulently procuring transportation, shall be deemed guilty of defrauding <orgName ref="cwgk:O00002945">the Government</orgName>, and will be punished by Court Martial or Military Commission.<pb/></p>
 <p><note place="header">2</note></p>
 <p>ENLISTMENTS, MUSTERS, AND CREDITS.</p>
-<p>II...All enlistments and musters will be made at the rendezvous near Washington, by the Corps Commissary of Musters and his assistants, specially assigned to that duty, and in accordance iwth the Recruiting and Mustering Regulations of the Army.</p>
+<p>II...All enlistments and musters will be made at the rendezvous near Washington, by the Corps Commissary of Musters and his assistants, specially assigned to that duty, and in accordance iwth the Recruiting and Mustering Regulations of <orgName ref="cwgk:O00001186">the Army</orgName>.</p>
 <p>Recruits will be credited to the district in which they or their families are domiciled. As evidence of place of domicile, the affidavit of the recruit will be required. If it shall subsequently be ascertained that the place of domicile has not been correctly given, the credit will be taken from the place to which it was erroneously assigned, and transferred to the proper place of domicile of the recruit.</p>
 <p>Credits will be reported as for an Army Corps in the field, and as directed in Circular No. 52, current series, from this Office.</p>
 <p>ORGANIZATION.</p>
@@ -108,8 +112,8 @@
 <p>Officers appointed will receive the necessary instructions.</p>
 <p>The appointment will be subject to revocation in case the requisite number of men is not enlisted to perfect the organization, and will be subject to the approval and confirmation of the Senate.</p>
 <p>V...On application by the Governor of any State, recruiting officers will be designated for such State.</p>
-<p>BY ORDER OF THE SECRETARY OF WAR:
-<lb/>E. D. TOWNSEND,
+<p>BY ORDER OF THE <persName ref="cwgk:N00002647">SECRETARY OF WAR</persName>:
+<lb/><persName ref="cwgk:N00005757">E. D. TOWNSEND</persName>,
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
 <p>OFFICIAL:</p>
 <p><hi rend="italic">Assistant Adjutant General</hi>.<pb/></p>
@@ -120,7 +124,7 @@
 <lb/>Asst. Adjt. Gen<hi rend="underline"><hi rend="sup">l</hi></hi><figure type="hr"/>
 <lb/>To The Gov.<figure type="hr"/>
 <lb/>Acknowledges receipt of your letter of <date when="---15">15" inst.</date> The regulations under which 1" Corps is organizing do not contemplate recruitment raised by regts in respective states -- Encloses circular in relation to enlistments &amp; appointments in 1" Corps -- <figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-01-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> Jany 1865</date></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi><orgName ref="cwgk:O00000388"> A. G. O.</orgName> Ky <date when="1865-01-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> Jany 1865</date></p>
   </body>
  </text>
 </TEI>
