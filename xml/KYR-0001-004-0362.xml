@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0362"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Paintsville
-<lb/>Johnson County
-<lb/>Ky <date when="1863-12-30">Der 30<hi rend="sup">th</hi> 1863</date>
+   <p><placeName ref="cwgk:P00006284">Paintsville</placeName>
+<lb/><placeName ref="cwgk:P00002566">Johnson County</placeName>
+<lb/><placeName ref="cwgk:P001800">Ky</placeName> <date when="1863-12-30">Der 30<hi rend="sup">th</hi> 1863</date>
 <lb/>To his Excellency
-<lb/>Thomas E Bramlett Governor of the Commonwealth of Kentucky</p>
-<p>The undersigned petitioner would respectfully represent that she is the mother of Jonathan Ward who now is and has been since the <gap/> day of <date when="1858-04">April 1858</date> confined in the Penitentiary of this state-</p>
+<lb/><persName ref="cwgk:N001000">Thomas E Bramlett</persName> Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName></p>
+<p>The undersigned petitioner would respectfully represent that she is the mother of <persName ref="cwgk:N00012453">Jonathan Ward</persName> who now is and has been since the <gap/> day of <date when="1858-04">April 1858</date> confined in the <orgName ref="cwgk:O00000266">Penitentiary of this state</orgName>-</p>
 <p>That she is and has been for many years a widow in a helpless and destitute condition That she is unable to labor for her support. And oweing to her advanced age and from the effects of ^Chronic inflammatory rheumatism)^ which has rendered her almost helpless- she must in the future be almost wholy dependent upon her friends for support</p>
-<p>Your petitioner would further represent that her son was confined in the penitentiary for the murder of Nathan Castle but if he was guilty of the charge the act was committed in a drunken frolick and not with malice aforethought</p>
+<p>Your petitioner would further represent that her son was confined in the penitentiary for the murder of <persName ref="cwgk:N00013160">Nathan Castle</persName> but if he was guilty of the charge the act was committed in a drunken frolick and not with malice aforethought</p>
 <p>If guilty surely he has fully atoned for the offence and if not guilty surely he has been kept long enough from a widowed and helpless mother-</p>
 <p>For these considerations I would therefore ask your Excellency to grant him a release that he may return home to comfort and support his aged mother</p>
-<p>Malinda ^her X mark^ Ward<pb/></p>
+<p><persName ref="cwgk:N00013161">Malinda ^her X mark^ Ward<pb/></persName></p>
 <p>Your petitioners being well acquainted with Jonathan Ward who is now confined in the state penitentiary and also with his aged and widowed mother would respectfully represent that the foregoing petition presents the case fairly. And we would respectfully ask your Excellency to grant the request of his helpless mother</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>W H walter
 <lb/><hi rend="str">W h walter</hi>
@@ -82,12 +90,12 @@
 <lb/>Daniel Pelphrey
 <lb/>G. W. Peru
 <lb/>Stephen. S. Preston
-<lb/>Wm J Ward J P J C
-<lb/>John H Ward
-<lb/>Joseph <hi rend="str">D</hi> Davis
-<lb/>Jno M Walter
-<lb/>George. W. Murry
-<lb/>Moses Preston Jr
+<lb/><persName ref="cwgk:N00013168">Wm J Ward</persName> J P J C
+<lb/><persName ref="cwgk:N00013169">John H Ward</persName>
+<lb/><persName ref="cwgk:N00013170">Joseph <hi rend="str">D</hi> Davis</persName>
+<lb/><persName ref="cwgk:N00013149">Jno M Walter</persName>
+<lb/><persName ref="cwgk:N00013255">George. W. Murry</persName>
+<lb/><persName ref="cwgk:N00013150">Moses Preston Jr</persName>
 <lb/>Frank Preston
 <lb/>Joseph D, Davis
 <lb/>Daniel Wheeler
@@ -110,22 +118,22 @@
 <lb/>Ralph Stafford
 <lb/>W. E. Hill S.J.C. for ^<date when="1862">1862</date>^
 <lb/>Lewis C Dils S<unclear>g</unclear>t 39 Ky
-<lb/>Samuel Auxier
-<lb/>W, W. Honer
-<lb/>James H Blair
-<lb/>M. B. Dixon C J C
-<lb/>S. P. Hagar P M
-<lb/>John M Porter
-<lb/>A J Price
-<lb/>V. Vanhoose
-<lb/>Wm D Auxier
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> S. Brown
-<lb/>Rep Legislature <date when="1862">1862</date>
-<lb/>John Howes Clerk
-<lb/>David Daniel
-<lb/>Montraville Preston
-<lb/>S W walters
-<lb/>C J Grim<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00013363">Samuel Auxier</persName>
+<lb/><persName ref="cwgk:N00013139">W, W. Honer</persName>
+<lb/><persName ref="cwgk:N00009558">James H Blair</persName>
+<lb/><persName ref="cwgk:N00013140">M. B. Dixon</persName> C J C
+<lb/><persName ref="cwgk:N00013141">S. P. Hagar</persName> P M
+<lb/><persName ref="cwgk:N00009655">John M Porter</persName>
+<lb/><persName ref="cwgk:N00013142">A J Price</persName>
+<lb/><persName ref="cwgk:N00013143">V. Vanhoose</persName>
+<lb/><persName ref="cwgk:N00013144">Wm D Auxier</persName>
+<lb/><persName ref="cwgk:N00013145">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> S. Brown</persName>
+<lb/>Rep <orgName ref="cwgk:O00000923">Legislature</orgName> <date when="1862">1862</date>
+<lb/><persName ref="cwgk:N00002565">John Howes </persName>Clerk
+<lb/><persName ref="cwgk:N00009604">David Daniel</persName>
+<lb/><persName ref="cwgk:N00013146">Montraville Preston</persName>
+<lb/><persName ref="cwgk:N00013147">S W walters</persName>
+<lb/><persName ref="cwgk:N00013148">C J Grim</persName><milestone unit="column" n="1"/><pb/></p>
 <p><date when="1864-02-22">Feby 22<hi rend="sup">nd</hi> 1864</date>
 <lb/>Issue Pardon
 <lb/><hi rend="str"><unclear/></hi>
