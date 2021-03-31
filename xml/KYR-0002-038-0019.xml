@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0019"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,14 +72,14 @@
  <text>
   <body>
    <p>SPECIAL ORDERS,
-<lb/>No. 42&#125; HEAD QUARTERS, DEPARTMENT OF THE OHIO.
+<lb/>No. 42} HEAD QUARTERS, <orgName ref="cwgk:O001001">DEPARTMENT OF THE OHIO</orgName>.
 <lb/><hi rend="italic">Cincinnati, Ohio,</hi> <date when="1863-01-22">January 22<hi rend="underline"><hi rend="sup">nd</hi></hi> 1863</date></p>
-<p><hi rend="italic">The resignation of</hi> 2<hi rend="sup">nd</hi> Lieutenant <hi rend="underline">Matthew H. Turner</hi> "Hewitts Battery Kentucky" <hi rend="italic">Volunteers</hi><hi rend="italic">, is hereby accepted, to take effect</hi> on the <date when="1863-01-22">(22<hi rend="underline"><hi rend="sup">nd</hi></hi>) twenty-second day of January 1863</date>.</p>
-<p>BY ORDER OF MAJOR GENERAL WRIGHT.
-<lb/>C. W. Foster
+<p><hi rend="italic">The resignation of</hi> 2<hi rend="sup">nd</hi> Lieutenant <hi><persName ref="cwgk:N00005763">Matthew H. Turner</persName></hi> "<orgName ref="cwgk:O00011727">Hewitts Battery</orgName> <orgName ref="cwgk:O00000870">Kentucky" <hi rend="italic">Volunteers</hi></orgName><hi rend="italic">, is hereby accepted, to take effect</hi> on the <date when="1863-01-22">(22<hi rend="underline"><hi rend="sup">nd</hi></hi>) twenty-second day of January 1863</date>.</p>
+<p>BY ORDER OF <persName ref="cwgk:N00006168">MAJOR GENERAL WRIGHT</persName>.
+<lb/><persName ref="cwgk:N00013873">C. W. Foster</persName>
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
 <p>1. 2. 3. 4. 5. 6.</p>
-<p>Governor of Kentucky<pb/></p>
+<p><persName ref="cwgk:N001000">Governor </persName>of <orgName ref="cwgk:O001025">Kentucky</orgName><pb/></p>
 <p>Hewitts' Batt:
 <lb/>Lt. Turner resig:<figure type="hr"/></p>
 <p>filed <date when="1863-01-24">Jany. 24, 1863</date>.<figure type="hr"/></p>
