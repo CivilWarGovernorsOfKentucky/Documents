@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0049"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,20 +72,20 @@
  <text>
   <body>
    <p>SPECIAL ORDERS,
-<lb/>No. 252.&#126;WAR DEPARTMENT,
-<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>No. 252.~<orgName ref="cwgk:O00005118">WAR DEPARTMENT</orgName>,
+<lb/><orgName ref="cwgk:O00010608">ADJUTANT GENERAL'S OFFICE</orgName>,
 <lb/><hi rend="italic">Washington</hi>, <date when="1865-05-25"><hi rend="italic">May</hi> 25<hi rend="italic">th</hi>, 1865</date>
 <lb/>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>
-<p>26. Under the provisions of General Orders, No. 82, <date when="1865-05-06">May 6th, 1865</date>, from this Office, the following officers are hereby mustered out and honorably discharged the service of the United States, to take effect <date when="1865-05-15">May 15th, 1865</date>, on account of their services being no longer required, and physical disability, from wounds received in action. They will receive no final payments, until they have satisfied the Pay Department that they are not indebted to the Government: -- </p>
-<p>1st Lieutenant <hi rend="italic">Arthur Erenburgh</hi>, 1st Kentucky Indepdendent Battery, Light Artillery.</p>
+<p>26. Under the provisions of General Orders, No. 82, <date when="1865-05-06">May 6th, 1865</date>, from this Office, the following officers are hereby mustered out and honorably discharged the service of the <orgName ref="cwgk:O00001186">United States</orgName>, to take effect <date when="1865-05-15">May 15th, 1865</date>, on account of their services being no longer required, and physical disability, from wounds received in action. They will receive no final payments, until they have satisfied the <orgName ref="cwgk:O00011001">Pay Department</orgName> that they are not indebted to the <orgName ref="cwgk:O00002945">Government</orgName>: -- </p>
+<p>1st Lieutenant <hi><persName ref="cwgk:N00013960">Arthur Erenburgh</persName></hi>, <orgName ref="cwgk:O00013555">1st Kentucky Indepdendent Battery</orgName>, Light Artillery.</p>
 <p>The vacancies created by these discharges will not be filled.<figure type="hr"/></p>
-<p>By order of the Secretary of War:
-<lb/>E. D. TOWNSEND,
+<p>By order of the <persName ref="cwgk:N00002647">Secretary of War</persName>:
+<lb/><persName ref="cwgk:N00005757">E. D. TOWNSEND</persName>,
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
 <p>OFFICIAL:
 <lb/>E D Townsend
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
-<p>Governor of Kentucky<pb/></p>
+<p><persName ref="cwgk:N001000">Governor </persName>of <orgName ref="cwgk:O001025">Kentucky</orgName><pb/></p>
 <p>1' Ind<hi rend="underline"><hi rend="sup">t</hi></hi> Batty<figure type="hr"/></p>
 <p>Erenburgh. Arthur
 <lb/>1 Lieut<figure type="hr"/></p>
@@ -85,7 +93,7 @@
 <p>honorably discharging him from service -- 
 <lb/>vacancy not to be filled.<figure type="hr"/></p>
    <p><hi rend="underline">Enc</hi><hi rend="underline"><hi rend="sup">d</hi></hi><hi rend="underline"><figure type="hr"/></hi></p>
-<p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1865-05-31">May 31. 1865</date></p>
+<p>Rec<hi rend="sup">d</hi> <orgName ref="cwgk:O00000388">A. G. O. </orgName><date when="1865-05-31">May 31. 1865</date></p>
   </body>
  </text>
 </TEI>
