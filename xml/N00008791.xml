@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Henry C. [Hilder]</title>
+        <title level="a" type="main">Henry Clay Hibbs</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Brianna Kirk</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,12 @@
         <particDesc>
                 <person xml:id="N00008791">
                     <persName>
-                      Henry C. [Hilder]
-                        (person, Bullitt County)
+                      Henry Clay Hibbs
+                        (Bullitt County, Ky, farmer)
                     </persName>
+                        <event type="birth"  when="1842-04-15"  ><ab>1842-04-15</ab></event>
+                        <event type="death"  when="1911-07-19"  ><ab>1911-07-19</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signs a petition letter sent to Governor Thomas E. Bramlette in Bullitt County, Kentucky, on May 28, 1864.</p>
+        <p>Bullitt County, Kentucky, farm laborer and farmer. Son of Nelson Hibbs and Catherine Christ Hibbs. Resident of Nelson County, Kentucky, in 1850. Farm laborer in Bullitt County in 1860. Farmer in Bullitt County in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-225-0041.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Nelson County, District 1, p. 307A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bullitt County, District 2, p. 782.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 5,  p. 536B.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Bullitt County, KY, 1863, p. 205, p. 222 of 317.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1965)</hi>, KDLA, Film 7016135: All Counties, 1911, File #18350, p. 1755 of 3310 of microfilm.
 </bibl></ab>
     </back>
 </text>
