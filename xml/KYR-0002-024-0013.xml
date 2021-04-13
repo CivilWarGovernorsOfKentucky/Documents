@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0013"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kristen Bailey</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,22 +71,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>3rd Ky Infty Vols.
-<lb/>Murfreesboro Tenn
+   <p><orgName ref="cwgk:O00005679">3rd <orgName ref="cwgk:O001025">Ky</orgName> Infty Vols</orgName>.
+<lb/><placeName ref="cwgk:P00010042">Murfreesboro</placeName> <placeName ref="cwgk:P001001">Tenn</placeName>
 <lb/><date when="1863-04-10">April 10<hi rend="sup">th</hi> 1863</date>
-<lb/>Brig Genl John W Finnell
+<lb/>Brig Genl <persName ref="cwgk:N00000228">John W Finnell</persName>
 <lb/>Adjt Genl State of Ky.
 <lb/>Dr Sir:</p>
 <p>Can there not be some plan adopted by which <hi rend="underline">elections</hi>, for Field Officirs in the old Regiments can be dispensed with? </p>
 <p>We have just had another bad result from it in this regiment. A Lieut Col or Major, who do their duty, &amp; enforce dicipline, are sure to be superceded <hi rend="str">by</hi>in the event of a vacancy, by some unprincipaled officer, who takes advantage of every little cause of complaint, to make capital and <hi rend="underline">votes</hi>, for himself, among those who feel aggreived.</p>
-<p>Maj Bullett has been defeated for Col (Vice Col Spencer resigned. Lt Col Collin having also sent in his resignation) upon just such principals. -- He refused to solicit votes, while his successful compititer, electioneered most strenously for the position. -- Maj Bullett is his superior as a tactition, &amp; disciplinarian &amp; in every respect. He fought gallantly at Munfordsville under Col Wilder, as his asst Adjt Genl, when their forces were captured by Bragg, &amp; was most flateringly<pb/>
+<p>Maj <persName ref="cwgk:N00013210">Bullett </persName>has been defeated for Col (Vice Col <persName ref="cwgk:N00013218">Spencer</persName> resigned. Lt Col <persName ref="cwgk:N00013220">Collin</persName> having also sent in his resignation) upon just such principals. -- He refused to solicit votes, while his successful compititer, electioneered most strenously for the position. -- Maj Bullett is his superior as a tactition, &amp; disciplinarian &amp; in every respect. He fought gallantly at <placeName ref="cwgk:P001823">Munfordsville</placeName> under Col <persName ref="cwgk:N00013219">Wilder</persName>, as his asst Adjt Genl, when their forces were captured by <persName ref="cwgk:N00003001">Bragg</persName>, &amp; was most flateringly<pb/>
 <lb/>mentioned by his Brigade Commander, for gallantry at the Battle of "Stone River", while his successful competitor, has never been in an engagement.</p>
 <p>It at least looks hard, that men who have won their laurels, upon such fields as "Munfordsville" &amp; "Stone River" should be thrown aside for transient favorites.</p>
-<p>I write this Communication to you General unofficially, pointing out, what I believe at least, an error in the management of affairs in this regiment. -- It has been customary since the resignation of Col Bramlette, for the officers of the Regt to say who shall be their Field Officers; &amp; I think it is calculated not only to reduce officers to low electioneering tricks, but to breed dissatisfaction &amp; hatred among the officers of a regiment.</p>
+<p>I write this Communication to you General unofficially, pointing out, what I believe at least, an error in the management of affairs in this regiment. -- It has been customary since the resignation of Col <persName ref="cwgk:N001000">Bramlette</persName>, for the officers of the Regt to say who shall be their Field Officers; &amp; I think it is calculated not only to reduce officers to low electioneering tricks, but to breed dissatisfaction &amp; hatred among the officers of a regiment.</p>
 <p>I most respectfully submit the above facts to you, hoping that if they meet your concurrence, that some plan may be adopted to avoid them in the future.</p>
 <p>Most respectfully
 <lb/>Your Obedient Servant
-<lb/>John Brennan
+<lb/><persName ref="cwgk:N00013211">John Brennan</persName>
 <lb/>Capt Comdg Compy "F"
 <lb/>3rd Regt Ky Vol Infty.<pb/></p>
 <p><note place="header">3</note>
