@@ -15,7 +15,15 @@
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Emily D. Moses</name>
-          </respStmt>
+          </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -50,8 +58,8 @@
                       Jim Brown
                         (Henderson, Kentucky, enslaved man)
                     </persName>
-                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
-                        <event type="death"  when="1861"  ><ab>1861</ab></event>
+                        <event type="birth" when="1828" cert="medium"><ab>c1828</ab></event>
+                        <event type="death" when="1861"><ab>1861</ab></event>
                         <trait type="race" subtype="Black"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +68,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Henderson, Kentucky, enslaved man. Owned by Seraphina Pentecost in Henderson County, Kentucky, c.1858. Escaped to Indiana in 1859. Owned by Seraphina Pentecost in Henderson County in 1860. Escaped in 1861. Accused of killing Walter A. Norwood in Henderson County on April 1, 1861. Killed during manhunt in Indiana.</p>
+        <p>Henderson, Kentucky, enslaved man. Owned by <persName ref="cwgk:N00010550">Seraphina Pentecost</persName> in Henderson County, Kentucky, c.1858. Escaped to Indiana in 1859. Owned by Seraphina Pentecost in Henderson County in 1860. Escaped in 1861. Accused of killing Walter A. Norwood in Henderson County on April 1, 1861. Killed during manhunt in Indiana.</p>
 
     </body>
     <back>
