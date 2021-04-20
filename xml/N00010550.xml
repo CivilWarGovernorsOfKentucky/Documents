@@ -19,7 +19,15 @@
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Charles Welsko</name>
-          </respStmt>
+          </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -54,7 +62,7 @@
                       Seraphina Brown Pentecost
                         (Mount Vernon, Posey Co, Indiana, resident. )
                     </persName>
-                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="birth" when="1834" cert="medium"><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -63,7 +71,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mount Vernon, Indiana, resident. Kentucky native. Daughter of Jane Brown Pitts. Married to Scarbrough Pentecost in Posey County, Indiana, on September 19, 1854. Mother of Mary Pentecost and Alice Pentecost. Married to William Hutchinson in Posey County on December 16, 1862. Resident in Lynn Township, Indiana, in 1850. Owned one enslaved person, Jim Brown, in Henderson County, Kentucky, in 1860. Resident in Mount Vernon, Indiana, in 1860. </p>
+        <p>Mount Vernon, Indiana, resident. Kentucky native. Daughter of Jane Brown Pitts. Married to Scarbrough Pentecost in Posey County, Indiana, on September 19, 1854. Mother of Mary Pentecost and Alice Pentecost. Married to William Hutchinson in Posey County on December 16, 1862. Resident in Lynn Township, Indiana, in 1850. Owned one enslaved person, <persName ref="cwgk:N00010547">Jim Brown</persName>, in Henderson County, Kentucky, in 1860. Resident in Mount Vernon, Indiana, in 1860. </p>
 
     </body>
     <back>
