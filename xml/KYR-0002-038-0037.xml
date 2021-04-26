@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0037"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lex. Ky. <date when="1865-01-18">Jany 18<hi rend="sup">th</hi> 1865</date>
+   <p><placeName ref="cwgk:P001002">Lex</placeName>. <placeName ref="cwgk:P001800">Ky</placeName>. <date when="1865-01-18">Jany 18<hi rend="sup">th</hi> 1865</date>
 <lb/>Dear Sirs</p>
-<p>I know. L. E. P. Bush &amp; his family. He has been 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut of Battery E. 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky. light artillery -- The Capt of that battery is absent being mustered out as I understand. Lieut. Bush is I learn a deserving officer &amp; desires promotion I learn &amp; <hi rend="underline">believe</hi> he has been intelligent &amp; efficient in his office</p>
+<p>I know. <persName ref="cwgk:N00013926">L. E. P. Bush</persName> &amp; his family. He has been 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut of Battery E. 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky. light artillery -- The <persName ref="cwgk:N00013911">Capt </persName>of that battery is absent being mustered out as I understand. Lieut. Bush is I learn a deserving officer &amp; desires promotion I learn &amp; <hi rend="underline">believe</hi> he has been intelligent &amp; efficient in his office</p>
 <p>yours &amp;c
-<lb/>Jn<hi rend="sup">o</hi> B Huston </p>
-<p>I fully concur in what Genl Huston has stated above about Leut Bush. as he served under me over a year in the 20<hi rend="sup">th</hi> Ky Infty. &amp; I know him to be a number one soldier &amp; would like to see him promoted</p>
-<p>Very truly your obedient Servant John Brennan
-<lb/>Late Major 3rd Ky Infty<pb/></p>
+<lb/><persName ref="cwgk:N001797">Jn<hi rend="sup">o</hi> B Huston</persName> </p>
+<p>I fully concur in what Genl Huston has stated above about Leut Bush. as he served under me over a year in the <orgName ref="cwgk:O00006140">20<hi rend="sup">th</hi> Ky Infty</orgName>. &amp; I know him to be a number one soldier &amp; would like to see him promoted</p>
+<p>Very truly your obedient Servant <persName ref="cwgk:N00013211">John Brennan</persName>
+<lb/>Late Major <orgName ref="cwgk:O00005367">3rd Ky Infty</orgName><pb/></p>
 <p>I fully concur in what Genl Houston and Maj Brennan has said. Leut Bush was a member of my Regt the 20<hi rend="sup">th</hi> Ky Inft was a good faithful soldier and I think will do his duty in any position which the Gov may assign him</p>
-<p>Truly S D Bruce
+<p>Truly <persName ref="cwgk:N00007424">S D Bruce</persName>
 <lb/>Late Col 20<hi rend="sup">th</hi> Ky Inft</p>
 <p>Lexingotn <date when="1865-01-18">Jan 18<hi rend="sup">th</hi> 1865</date><pb/></p>
 <p>1 Art<hi rend="sup">y</hi>
@@ -84,12 +92,12 @@
 <lb/>Bruce S. D.<figure type="hr"/></p>
 <p>Recommending 1" Lt. L. E. <hi rend="underline">P</hi>. Bush for the captaincy of <hi rend="underline">Batt</hi>. E. 1" Ky Lt Artillery -- <figure type="hr"/></p>
 <p>Issue commission to Lt L E P. Bush as Cap<hi rend="sup">t</hi> Battery "E" to bear date <date when="1865-01-25">25<hi rend="underline"><hi rend="sup">th</hi></hi> Jay 1865</date></p>
-<p>D. W. Lindsey
-<lb/>Insp &amp; A G Ky</p>
+<p><persName ref="cwgk:N00000873">D. W. Lindsey</persName>
+<lb/>Insp &amp; A G <orgName ref="cwgk:O001025">Ky</orgName></p>
 <p>vice J. J. Hawes run out<figure type="hr"/></p>
 <p>1.2.<figure type="hr"/></p>
 <p>Com iss<hi rend="sup">d</hi> &amp; delv to Bush <date when="1865-01-26"><hi rend="underline">Jany 26/65</hi></date><figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-01-25">25 Jany 1865</date></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O. </orgName>Ky <date when="1865-01-25">25 Jany 1865</date></p>
   </body>
  </text>
 </TEI>
