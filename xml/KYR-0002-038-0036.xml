@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0036"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,18 +72,18 @@
  <text>
   <body>
    <p>SPECIAL ORDERS,
-<lb/>No. 203.&#125; WAR DEPARTMENT,
-<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>No. 203.} <orgName ref="cwgk:O00005118">WAR DEPARTMENT</orgName>,
+<lb/><orgName ref="cwgk:O00010608">ADJUTANT GENERAL'S OFFICE</orgName>,
 <lb/><hi rend="italic">Washington</hi>, <date when="1865-05-03"><hi rend="italic">May 3d,</hi> 1865</date>.</p>
 <p>
-<lb/>The unexpired portion of the sentence of the General Court Martial, convened by Special Orders, No. 152, Headquarters, District of Kentucky, of <date when="1864-06-27">June 27th, 1864</date>, in the case of Private <hi rend="italic">Charles McGuire</hi>, Battery "E," 1st Kentucky Artillery, now supposed to be in confinement at Fort Jefferson, Florida, is remitted, and he will be discharged the service of the United States, upon the receipt of this Order at the place where he may be serving.</p>
-<p>By order of the President of the United States:
-<lb/>W. A. NICHOLS,
+<lb/>The unexpired portion of the sentence of the General Court Martial, convened by Special Orders, No. 152, Headquarters, <orgName ref="cwgk:O00000273">District of Kentucky</orgName>, of <date when="1864-06-27">June 27th, 1864</date>, in the case of Private <hi rend="italic">Charles McGuire</hi>, Battery "E," 1st Kentucky Artillery, now supposed to be in confinement at <placeName ref="cwgk:P00013388">Fort Jefferson</placeName>, <placeName ref="cwgk:P00002512">Florida</placeName>, is remitted, and he will be discharged the service of the <orgName ref="cwgk:O00001186">United States</orgName>, upon the receipt of this Order at the place where he may be serving.</p>
+<p>By order of the <persName ref="cwgk:N001801">President of the United States</persName>:
+<lb/><persName ref="cwgk:N00005755">W. A. NICHOLS</persName>,
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
 <p>OFFICIAL:
-<lb/>Sam<hi rend="sup">l</hi> Breck
+<lb/><persName ref="cwgk:N00005756">Sam<hi rend="sup">l</hi> Breck</persName>
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
-<p>Governor of Kentucky<pb/></p>
+<p><persName ref="cwgk:N001000">Governor </persName>of <orgName ref="cwgk:O001025">Kentucky</orgName><pb/></p>
 <p><note place="header">Comp E. 1' Arty</note></p>
 <p>War Department
 <lb/>Adjt. Gen<hi rend="sup">l</hi> office
@@ -84,7 +92,7 @@
 <lb/>A. A. G.<figure type="hr"/></p>
 <p>Order -- <figure type="hr"/></p>
 <p>Remitting unexpired portion of sentence of Gen<hi rend="sup">l</hi> Court Martial in case of private Chas. M<hi rend="sup">c</hi>Guire Batt. E. 1" Ky Arty, and discharging him from the service -- <figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-05-09">9 May 1865</date></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O.</orgName> Ky <date when="1865-05-09">9 May 1865</date></p>
   </body>
  </text>
 </TEI>
