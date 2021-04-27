@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0055"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Carl Creason</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,25 +71,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>Henry Co Ky <date when="1865-03-20">March 20" 1865</date>
+   <p><placeName ref="cwgk:P00000758">Henry Co <orgName ref="cwgk:O001025">Ky</orgName></placeName> <date when="1865-03-20">March 20" 1865</date>
 <lb/>To his Excellency
-<lb/>Tho<hi rend="sup">s</hi> E Bramlett
+<lb/><persName ref="cwgk:N001000">Tho<hi rend="sup">s</hi> E Bramlett</persName>
 <lb/>Governor of Ky</p>
-<p>The undersigned would respectfully State, that it is represented to us that there are at this time sixty five (65) reenlisted men formerly belonging to the thirteenth (13") Ky Reg<hi rend="underline"><hi rend="sup">t</hi></hi> now on detatched duty at Barracks No 1 Louisville Ky, the number Entitles them to a captain and as your Excellency will most likely be called on to appoint a corps of <hi rend="str">commander</hi>officirs for them, We take pleasure in recommending our young County man Serg W. W. Rowlett for the office of Captain, this young man was one of the first to volunteer at Camp Joe Holt, and was transferred from Gen Rousseaus Comnd to the 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Ky Ca<hi rend="underline"><hi rend="sup">v</hi></hi> and was present and participated in the battles of Chilo -- Stone River, Perryville Chickamauga., also in series of battles resulting in the Capture Atlanta, and reenlisted in <date when="1864-02">Feby 1864</date>, and returned for the first time on a short furlough</p>
+<p>The undersigned would respectfully State, that it is represented to us that there are at this time sixty five (65) reenlisted men formerly belonging to the <orgName ref="cwgk:O00006065">thirteenth (13") Ky Reg<hi rend="underline"><hi rend="sup">t</hi></hi></orgName> now on detatched duty at Barracks No 1 <placeName ref="cwgk:P00000337">Louisville Ky</placeName>, the number Entitles them to a captain and as your Excellency will most likely be called on to appoint a corps of <hi rend="str">commander</hi>officirs for them, We take pleasure in recommending our young County man <persName ref="cwgk:N00013385">Serg W. W. Rowlett</persName> for the office of Captain, this young man was one of the first to volunteer at Camp Joe Holt, and was transferred from <persName ref="cwgk:N00002299">Gen Rousseaus</persName> Comnd to the <orgName ref="cwgk:O00006165">2<hi rend="underline"><hi rend="sup">nd</hi></hi> Ky Ca<hi rend="underline"><hi rend="sup">v</hi></hi></orgName> and was present and participated in the battles of <placeName ref="cwgk:P00002629">Chilo --</placeName> <placeName ref="cwgk:P00010042">Stone River</placeName>, <placeName ref="cwgk:P00000469">Perryville</placeName> <placeName ref="cwgk:P00008641">Chickamauga</placeName>., also in series of battles resulting in the Capture <placeName ref="cwgk:P00005758">Atlanta</placeName>, and reenlisted in <date when="1864-02">Feby 1864</date>, and returned for the first time on a short furlough</p>
 <p>Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Rowlett has for some months been on detached duty<pb/>
-<lb/>at Louisville Ky -- We know him to be eminently qualified to take Command of a Company not only from his Experience in the army on the field, but also from his education and high moral qualities</p>
-<p>E. L. Long,, late
-<lb/>Assit Surgeon 6 Ky Inft,
-<lb/>Joel. H <unclear>Clark</unclear>
-<lb/>M B Pearce. Clerk
-<lb/>Henry County Court
-<lb/>W. J. Brewer Sheriff. H. Co
-<lb/>Geo. L. Humston Clerk
-<lb/>Henry Circuit Court
-<lb/>J N Webb Rep Henry Co
+<lb/>at Louisville <placeName ref="cwgk:P001800">Ky</placeName> -- We know him to be eminently qualified to take Command of a Company not only from his Experience in the army on the field, but also from his education and high moral qualities</p>
+<p><persName ref="cwgk:N00013046">E. L. Long</persName>,, late
+<lb/>Assit Surgeon <orgName ref="cwgk:O00004925">6 Ky Inft</orgName>,
+<lb/><persName ref="cwgk:N00013391">Joel. H <unclear>Clark</unclear></persName>
+<lb/><persName ref="cwgk:N00007064">M B Pearce</persName>. Clerk
+<lb/><orgName ref="cwgk:O00000637">Henry County Court</orgName>
+<lb/><persName ref="cwgk:N00003012">W. J. Brewer</persName> Sheriff. H. Co
+<lb/><persName ref="cwgk:N00004939">Geo. L. Humston</persName> Clerk
+<lb/><orgName ref="cwgk:O00000400">Henry Circuit Court</orgName>
+<lb/><persName ref="cwgk:N00009810">J N Webb</persName> Rep Henry Co
 <lb/><hi rend="underline">Jno. C. Monfort</hi> Judge of 
 <lb/>Henry County Court
-<lb/>S. W Hunt Surveyor H. County<pb/></p>
+<lb/><persName ref="cwgk:N00004598">S. W Hunt</persName> Surveyor H. County<pb/></p>
 <p><note place="header">13</note></p>
 <p>Henry Co. Ky
 <lb/><date when="1865-03-20">Mar. 20. 1865</date><figure type="hr"/></p>
@@ -91,7 +99,7 @@
 <p><hi rend="underline">Rowlett. W.W</hi></p>
 <p>Recommend Sgt. W. W. Rowlett for Captaincy of the Detachment of 13" Ky (65 re-enlisted men) now on duty at Barracks No. 1. Louisville Ky -- <figure type="hr"/></p>
 <p>L B N<hi rend="sup">o</hi> 11 -- <date when="1865">1865</date> P. 103<figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-03-21">21 Mar. 1865</date></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O.</orgName> Ky <date when="1865-03-21">21 Mar. 1865</date></p>
   </body>
  </text>
 </TEI>
