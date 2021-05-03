@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014238">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edwin Denison Morgan</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014238">
+                    <persName>
+                      Edwin Denison Morgan
+                        (Albany County, New York, governor, merchant, maj genl Dpt of New York in US Army, U. S. senator)
+                    </persName>
+                        <event type="birth"  when="1811-02-08"  ><ab>1811-02-08</ab></event>
+                        <event type="death"  when="1883-02-14"  ><ab>1883-02-14</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Albany County, New York, governor, merchant, senator, and soldier. Washington, Massachusetts, native. Married to Eliza Matilda Waterman Morgan in Hartford County, Connecticut, on August 19, 1833. Father of Edwin D. Morgan Jr., Elizabeth Morgan, and Alford W. Morgan. Attended Bacon Academy in Colchester. Merchant in New York City, New York, in 1850. Employed Henry McCawkle as a merchant in New York City in 1850. Employed William Macken as a waiter in New York City in 1850. Senator for the State of New York from 1850 to 1855. New York State commissioner of immigration from 1855 to 1858. Chairman of the Republican National Committee from 1856 to 1864. Governor of New York from January 1, 1859, to January 1, 1863. Employed James Carter as a waiter in Albany in 1860. Employed Michael Dorr as a coachman in Albany in 1860. Employed Grace Roberts as a servant in Albany in 1860. Employed Johana O&#39;Brien as a cook in Albany in 1860. Served in the U. S. Army as major general of volunteers, commanding the Department of New York from September 28, 1861, to January 1, 1863. Member of the United States Senate from New York from 1863 to 1869.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, New York, New York County, Eastern Half of the 15th Ward in New York, p. 205A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, New York, Albany County, 4th Ward of Albany, p. 583.<lb/>
+<hi rend="italic">Connecticut, U.S., Town Marriage Records, pre-1870</hi>, Hartford Vital Records, 1635-1855, p. 291 (accessed via Ancestry.com).<lb/>
+<hi rend="italic">U.S., Newspaper Extractions from the Northeast, 1704-1930</hi>, Years 1823-1841, p. 379, (accessed via Ancestry.com).<lb/>
+&quot;Edwin Denison Morgan, (1811-1883),&quot; Biographical Directory of the United States Congress, 1774-Present,  https://bioguide.congress.gov/search/bio/M000949, (accessed April, 11, 2021).<lb/>
+<hi rend="italic">The Union Army: A History of Military Affairs in the Loyal States, 1861-1865</hi>, vol. 8, (Madison, WI: Federal Publishing Company, 1908), 180.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
