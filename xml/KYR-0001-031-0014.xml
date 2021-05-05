@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0014"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,25 +71,25 @@
  </teiHeader>
  <text>
   <body>
-   <p><milestone unit="column" n="3"/><cb n="1"/>ROBERT C. WRIGHT,
+   <p><milestone unit="column" n="3"/><cb n="1"/><persName ref="cwgk:N00014383">ROBERT C. WRIGHT</persName>,
 <lb/>Notary Public &amp; Commissioner of Deeds.
 <lb/>FOR THE FOLLOWING STATES:
-<lb/>Wisconsin, Missouri, Kentucky, Ohio, Minnesota, Michigan, Connecticut, Iowa, New York, Indiana, N. Hampshire, Pennsylvania, Rhode Island, Kansas, Massachusetts, Nebraska, New Jersey, Vermont, Maine, Colorado.
-<lb/><cb n="2"/>WRIGHT &amp; TYRRELL,
+<lb/><placeName ref="cwgk:P00002521">Wisconsin</placeName>, <placeName ref="cwgk:P00001883">Missouri</placeName>, <placeName ref="cwgk:P001800">Kentucky</placeName>, <placeName ref="cwgk:P001036">Ohio</placeName>, <placeName ref="cwgk:P00002515">Minnesota</placeName>, <placeName ref="cwgk:P00002514">Michigan</placeName>, <placeName ref="cwgk:P00002511">Connecticut</placeName>, <placeName ref="cwgk:P001009">Iowa</placeName>,<placeName ref="cwgk:P001007"> New York</placeName>, <placeName ref="cwgk:P001818">Indiana</placeName>, <placeName ref="cwgk:P00002516">N. Hampshire</placeName>, <placeName ref="cwgk:P001006">Pennsylvania</placeName>, <placeName ref="cwgk:P00002519">Rhode Island</placeName>, <placeName ref="cwgk:P00005654">Kansas</placeName>, <placeName ref="cwgk:P00001140">Massachusetts</placeName>, <placeName ref="cwgk:P00005655">Nebraska</placeName>, <placeName ref="cwgk:P00002517">New Jersey</placeName>, <placeName ref="cwgk:P001026">Vermont</placeName>, <placeName ref="cwgk:P00002513">Maine</placeName>, <placeName ref="cwgk:P00014385">Colorado</placeName>.
+<lb/><cb n="2"/><orgName ref="cwgk:O00014378">WRIGHT &amp; TYRRELL</orgName>,
 <lb/>No. 5
 <lb/>METROPOLITAN BLOCK.
-<lb/><cb n="3"/>R. C. WRIGHT, JNO. A. TYRRELL.<figure type="hr"/></p>
+<lb/><cb n="3"/>R. C. WRIGHT, <persName ref="cwgk:N00014384">JNO. A. TYRRELL</persName>.<figure type="hr"/></p>
 <p>Time Loans negotiated and First Class Business Paper bought and sold.<figure type="hr"/></p>
 <p>DEALERS IN REAL ESTATE.<figure type="hr"/></p>
 <p>P. O. Box, 6049.
-<lb/><milestone unit="column" n="1"/>Chicago, <date when="1862-09-10">September 10<hi rend="sup">th</hi> 1862</date>
-<lb/>James W Tate Esq ass<hi rend="sup">t</hi> Sec 3
-<lb/>Louisville Kentucky
+<lb/><milestone unit="column" n="1"/><placeName ref="cwgk:P00001215">Chicago</placeName>, <date when="1862-09-10">September 10<hi rend="sup">th</hi> 1862</date>
+<lb/><persName ref="cwgk:N00001223">James W Tate</persName> Esq ass<hi rend="sup">t</hi> Sec 3
+<lb/><placeName ref="cwgk:P00000337">Louisville</placeName> Kentucky
 <lb/>Dear Sir</p>
-<p>Your favour of <date when="1862-08-30">30<hi rend="sup">th</hi> ult</date> came to hand, I was just on the point of mailing a letter to you enclosing the five dollars amount of fees required by the State Statute to renew my commission, when the telegram informed us that the legal authorities had been compelled to abandon the capitol to the Confederate forces. Under these circumstances I withheld the letter and now write to ask whether I shall forward to you at Louisville. As soon as your answer is received the money will be forwarded</p>
+<p>Your favour of <date when="1862-08-30">30<hi rend="sup">th</hi> ult</date> came to hand, I was just on the point of mailing a letter to you enclosing the five dollars amount of fees required by the State Statute to renew my commission, when the telegram informed us that the legal authorities had been compelled to abandon the capitol to the <orgName ref="cwgk:O00000506">Confederate</orgName> forces. Under these circumstances I withheld the letter and now write to ask whether I shall forward to you at Louisville. As soon as your answer is received the money will be forwarded</p>
 <p>Yours truly
 <lb/><hi rend="underline">Robert</hi> C. <hi rend="underline">Wright</hi><pb/></p>
-<p>Illinois<figure type="hr"/></p>
+<p><placeName ref="cwgk:P00004765">Illinois</placeName><figure type="hr"/></p>
 <p><hi rend="underline">Com</hi><hi rend="underline"><hi rend="sup">r</hi></hi><hi rend="underline"> of Deeds</hi>
 <lb/>Rob<hi rend="sup">t</hi> C. Wright
 <lb/>Chicago
