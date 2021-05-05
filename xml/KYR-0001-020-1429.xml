@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1429"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky Madison Circuit Court
-<lb/><date when="1861-09">September Terme 1861</date> <date when="1861-09-17">September 17" 1861</date>
-<lb/>The Commonwealth of Kentucky Plantiff
-<lb/>against &#125; On Indictment (Murder)
-<lb/>Francis M Searcy Defendant</p>
-<p>The Judge of this Court having declined to sit in this case in consequence of his relationship to the deceased -- and all the Members of the Bar not of Counsel having declined to sit -- Ordered that these facts be certified to the Governor as the Statute requires -- </p>
+   <p><placeName ref="cwgk:P001800">State of Kentucky</placeName> <orgName ref="cwgk:O00000422">Madison Circuit Court
+</orgName><lb/><date when="1861-09">September Terme 1861</date> <date when="1861-09-17">September 17" 1861</date>
+<lb/><orgName ref="cwgk:O001025">The Commonwealth of Kentucky</orgName> Plantiff
+<lb/>against } On Indictment (Murder)
+<lb/><persName ref="cwgk:N00007837">Francis M Searcy</persName> Defendant</p>
+<p>The <persName ref="cwgk:N00005270">Judge</persName> of this Court having declined to sit in this case in consequence of his relationship to the deceased -- and all the Members of the Bar not of Counsel having declined to sit -- Ordered that these facts be certified to the <persName ref="cwgk:N00000258">Governor </persName>as the Statute requires -- </p>
 <p>A Copy
-<lb/>Att <hi rend="underline">J M Shackelford</hi> C M C C<pb/></p>
+<lb/>Att<persName ref="cwgk:N00010727"> <hi rend="underline">J M Shackelford</hi></persName> C M C C<pb/></p>
 <p>Commth of Ky
-<lb/>Vs &#125; Copy Order
+<lb/>Vs } Copy Order
 <lb/>Searcy F M<figure type="hr"/></p>
-<p>Issue Commission for Judge <hi rend="str">J. M.</hi>W. H. Burns to try the the case -- </p>
+<p>Issue Commission for Judge <hi rend="str">J. M.</hi><persName ref="cwgk:N00012336">W. H. Burns</persName> to try the the case -- </p>
 <p>B. M</p>
 <p>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-09-23">Sept 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1861</date></p>
   </body>
