@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013992">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Matthew Mayes</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013992">
+                    <persName>
+                      Matthew Mayes
+                        (Trigg County, Kentucky, attorney)
+                    </persName>
+                        <event type="birth"  when="1797"  cert="medium" ><ab>c1797</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Trigg County, Kentucky, attorney. Kentucky native. Son of Robert C. Mayes and Agnes T. Locke Mayes. Married to Eliza B. Crump Mayes in Trigg County, Kentucky, on December 25, 1832. Married to Elizabeth Ann Utterback Mayes in Calloway County, Kentucky, on January 3, 1842. Father of Emma C. Mayes, Robert Mayes, and Julia Mayes. Attorney in Cadiz in 1850. Owned twenty-five enslaved persons in Trigg County in 1850. Attorney in Cadiz in 1860. Owned twenty-four enslaved persons in Trigg County in 1860. Partner with John R. Grace in the law firm of Mayes and Grace from 1860 to 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, Trigg, District 1, p. 290A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Trigg County, District 1, p. 226.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trigg County, Cadiz, p. 189.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Trigg County, Cadiz, p. 392A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Trigg County, Cadiz, District, p. 1.<lb/>
+<hi rend="italic">Bentley, Elizabeth Petty. &quot;Virginia Marriage Records: From the Virginia Magazine of History and Biography, the William and Mary College Quarterly, and Tyler&#39;s Quarterly.&quot; (Baltimore, MD: Genealogy Publishing Co., Inc., 1984.) Page 54. (Accessed via Ancestry.com)<lb/>
+_</hi>Kentucky Marriage Records<hi rend="italic">, Madison County Courthouse, Richmond, Kentucky, Trigg County Marriages, Film 005685969, p. 44.<lb/>
+_Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Calloway County Marriages, Film 004261209, p. 209.<lb/>
+_Livingston, John. The Official Registry of and Law Register for the United States for the Year 1866. (New York: Merchants’ Union Law Company, 1866.)<lb/>
+_Perrin, William Henry, ed. Counties of Christian and Trigg, Kentucky: Historical and Biographical. (Chicago and Louisville: F. A. Battey Publishing Co, 1884.)
+</bibl></ab>
+    </back>
+</text>
+</TEI>
