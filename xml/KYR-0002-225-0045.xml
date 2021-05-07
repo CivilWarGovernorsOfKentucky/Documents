@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0045"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Christina Adkins</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,23 +71,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>Gentryville Ind <date when="1864-07-18">July 18/64</date>
-<lb/>Gov Bramlet</p>
-<p>Dear Sir discover since I came home from the Army of the Potomac that there is a large number of Guerillas on the border here and it is reported that they are doing considerable amount of damage and I have heard that you want to have the state cleared of them and also I am informed that one Capt Willson is in Davis or Ohio County and is troubling them that is the Geurillas Now the object of my writing to you is to know how you want men to operate on what terms time pay and so forth <hi rend="str">Some</hi><pb/></p>
+   <p><placeName ref="cwgk:P00008589">Gentryville Ind</placeName> <date when="1864-07-18">July 18/64</date>
+<lb/>Gov <persName ref="cwgk:N001000">Bramlet</persName></p>
+<p>Dear Sir discover since I came home from the <orgName ref="cwgk:O00000741">Army of the Potomac</orgName> that there is a large number of Guerillas on the border here and it is reported that they are doing considerable amount of damage and I have heard that you want to have the state cleared of them and also I am informed that one <persName ref="cwgk:N00008631">Capt Willson</persName> is in <placeName ref="cwgk:P001811">Davis</placeName> or <placeName ref="cwgk:P00002417">Ohio County</placeName> and is troubling them that is the Geurillas Now the object of my writing to you is to know how you want men to operate on what terms time pay and so forth <hi rend="str">Some</hi><pb/></p>
 <p>Now Sir as I have Served three years in the Cavalry I think I know something about the management of mounted men and scouting and so on.</p>
 <p>I have thought sine I came back that if I could get a command <hi rend="str"><unclear/></hi>or a commission to command a company I would go in for awhil and I think I can raise fifty or one hundred men in a few days there is several men here that has been compelled to leave your State that say that they would like to help put the Geurillas out of the way and would like to go in you will please answer this you will send to me in Gentryville Spencer County<pb/>
 <lb/>State of Indiana</p>
 <p>I am verry respectfully yours
-<lb/>James V M<hi rend="sup">c</hi>Kasson</p>
+<lb/><persName ref="cwgk:N00008586">James V M<hi rend="sup">c</hi>Kasson</persName></p>
 <p>P, S, Referances of character and Qualifications can be given if required</p>
 <p>J V M<hi rend="sup">c</hi>K<pb/></p>
-<p>State of Indiana
+<p><placeName ref="cwgk:P001818">State of Indiana</placeName>
 <lb/>Spencer co Gentryville
 <lb/><date when="1864-07-18">July 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
 <lb/>M<hi rend="sup">c</hi>Kasson, Jas. V.<figure type="hr"/></p>
-<p>writes to the Govr to Know on what terms, time, pay &amp; c he wants men to serve agst Guerillas. wants a com,s,n. Can get 50 men, some of them refugees from Ky wants an answer immediately com'n'c'n refrd by Govr to Inspr Genl<figure type="hr"/></p>
+<p>writes to the Govr to Know on what terms, time, pay &amp; c he wants men to serve agst Guerillas. wants a com,s,n. Can get 50 men, some of them refugees from Ky wants an answer immediately com'n'c'n refrd by Govr to <persName ref="cwgk:N00000873">Inspr Genl</persName><figure type="hr"/></p>
 <p>Answered <date when="1864-07-22">July 22- 1864</date> On Letter. Book Page 522.<figure type="hr"/>
-<lb/>Recd I. G. O. <date when="1864-07-21">July 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date></p>
+<lb/>Recd <orgName ref="cwgk:O00000920">I. G. O.</orgName> <date when="1864-07-21">July 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date></p>
   </body>
  </text>
 </TEI>
