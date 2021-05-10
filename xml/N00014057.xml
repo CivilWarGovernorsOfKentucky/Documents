@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014057">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Alexander Pilcher</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014057">
+                    <persName>
+                      John Alexander Pilcher
+                        (Caldwell County, Kentucky, carpenter)
+                    </persName>
+                        <event type="birth"  when="1828"  ><ab>1828</ab></event>
+                        <event type="death"  when="1909-04-13"  ><ab>1909-04-13</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Caldwell County, Kentucky, carpenter. North Carolina native. Son of Levica Pilcher. Married to Nancy Elizabeth Estes Pilcher in Cass County, Missouri, on October 3, 1852. Father of Newman Pilcher, Catharine S. Pilcher, and Nancy Pilcher. Resident of Jackson County, Missouri, in 1850. Carpenter in Caldwell County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Missouri, Jackson County, Van Buren, District, p. 355A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 115.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Missouri, Bates County, Grand River, p. 56A.<lb/>
+<hi rend="italic">Missouri Marriage Records</hi>, Missouri State Archives, Jefferson City, Missouri, Cass County Marriages, p. 205.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-994058, Caldwell County Births. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;John Alexander Pilcher (1828-1909),&quot; Memorial #89059956, http://www.findagrave.com/memorial/89059956 (accessed March 8, 2021).<lb/>
+<hi rend="italic">California Department of Health and Welfare</hi>, California Vital Records-Vitalsearch (www.vitalsearch-worldwide.com), The Vitalsearch Company Worldwide, Inc., Pleasanton, California, p. 8628. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
