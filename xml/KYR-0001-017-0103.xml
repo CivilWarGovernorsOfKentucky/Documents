@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0103"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>state of Kentucky &#125; <date when="1861-02">Febuay Term 1861</date>
-<lb/>Morgan County &#125; Sct</p>
-<p>It appearing to the satisfaction of the Court that the office of Justice of the peace in the West Liberty District No "4." is vacated by the death of J G Gillmore Esqr It is their fore <hi rend="str"><unclear/></hi>ordered by the Judge of said Court that G. D. Phillips &amp; G. S. Steel to be Recommended as suitable persons to fill said vacancy till the next Regular Election</p>
+   <p><placeName ref="cwgk:P001800">state of Kentucky</placeName> } <date when="1861-02">Febuay Term 1861</date>
+<lb/><placeName ref="cwgk:P00005286">Morgan County</placeName> } Sct</p>
+<p>It appearing to the satisfaction of the <orgName ref="cwgk:O00000669">Court</orgName> that the office of Justice of the peace in the West Liberty District No "4." is vacated by the death of <persName ref="cwgk:N00014350">J G Gillmore Esqr</persName> It is their fore <hi rend="str"><unclear/></hi>ordered by the <persName ref="cwgk:N00012336">Judge </persName>of said Court that <persName ref="cwgk:N00014354">G. D. Phillips </persName>&amp; G. S. Steel to be Recommended as suitable persons to fill said vacancy till the next Regular Election</p>
 <p>A copy
-<lb/>Att W<hi rend="sup">m</hi> H. Taulber clk
-<lb/>By C Alley D.C<pb/></p>
+<lb/>Att <persName ref="cwgk:N00014353">W<hi rend="sup">m</hi> H. Taulber clk</persName>
+<lb/>By<persName ref="cwgk:N00014351"> C Alley D.C</persName><pb/></p>
 <p>Morgan Co<figure type="hr"/></p>
 <p>J. P.
 <lb/>Dist N<hi rend="underline"><hi rend="sup">o</hi></hi> 4
