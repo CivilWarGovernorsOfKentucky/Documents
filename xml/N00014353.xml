@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014353">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Harrison Taulbee</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014353">
+                    <persName>
+                      William Harrison Taulbee
+                        (Morgan County, Kentucky, farmer, county? court clerk, pvt, sgt maj, 2nd lieut 5th Ky Inf CSA)
+                    </persName>
+                        <event type="birth"  when="1824-06-25"  ><ab>1824-06-25</ab></event>
+                        <event type="death"  when="1905-03-17"  ><ab>1905-03-17</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Morgan County, Kentucky, farmer, court clerk, and soldier. Kentucky native. Married to Mary A. Taulbee in 1849. Father of John A. Taulbee, William P. Taulbee, Nancy E. Taulbee, Samuel H. Taulbee, Jackson B. Taulbee, Clarinda Taulbee, James M. Taulbee, and Mary E. Taulbee. Laborer in Morgan County, Kentucky, in 1850. Farmer in Morgan County in 1860. County court clerk in Morgan County in 1861. Served in the 5th Kentucky Volunteer Infantry Regiment (C.S.A) as a private, sergeant major, and second lieutenant from October 25, 1861, to October 20, 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Morgan County, p. 111A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Morgan County, District 2, p. 341.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Morgan County, Caney, p. 350B. <lb/>
+<hi rend="italic">Twelfth Manuscript Census of the United States</hi> (1900), Population Schedules, Kentucky, Morgan County, District 3, p. 723B. <lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0066.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;William Harrison Taulbee (1824-1905),&quot; Memorial #133872683, http://www.findagrave.com/memorial/133872683 (accessed April 26, 2021).<lb/>
+KYR-0001-017-0103.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
