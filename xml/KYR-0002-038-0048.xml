@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0048"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -67,27 +75,27 @@
 <lb/>The Commonwealth of Kentucky,
 <lb/><figure type="seal"><ab>KENTUCKY
 <lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure>
-<lb/>THOMAS E. BRAMLETTE,
-<lb/>GOVERNOR OF SAID COMMONWEALTH.
+<lb/><persName ref="cwgk:N001000">THOMAS E. BRAMLETTE</persName>,
+<lb/>GOVERNOR OF SAID <orgName ref="cwgk:O001025">COMMONWEALTH</orgName>.
 <lb/>To all whom these Presents shall come, Greeting:</p>
-<p>Know Ye, That Francis Rauth -- having been duly appointed to the office of
-<lb/>second Lieutenant (vice R. S. Steen promoted)</p>
-<p>In the 1<hi rend="sup">st</hi> Independent Battery <hi rend="str">Regiment</hi> of Kentucky Volunteer Militia, organized under the Acts of the General Assembly of the Commonwealth, and to be mustered into the service of the United States:</p>
+<p>Know Ye, That <persName ref="cwgk:N00013959">Francis Rauth</persName> -- having been duly appointed to the office of
+<lb/>second Lieutenant (vice <persName ref="cwgk:N00013958">R. S. Steen</persName> promoted)</p>
+<p>In the <orgName ref="cwgk:O00013555">1<hi rend="sup">st</hi> Independent Battery</orgName> <hi rend="str">Regiment</hi> of <orgName ref="cwgk:O00000870">Kentucky Volunteer Militia</orgName>, organized under the Acts of the <orgName ref="cwgk:O00000923">General Assembly of the Commonwealth</orgName>, and to be mustered into the service of the United States:</p>
 <p>NOW KNOW YOU, That, by the powers vested in me by the Constitution and Laws of said State, and reposing special trust and confidence in your patriotism, valor, fidelity, and ability, I do, by these presents Commission you as 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lieutenant as aforsaid, for the term of three years unless sooner discharged, upon condition that you take the oath indorsed hereon, within ten days from receipt hereof, sending a certificate thereof to General Headquarters; and I do hereby authorize and require you to discharge, all and singular, the duties and services appertaining to your said office, agreeably to law and general regulations, and to obey such orders and instructions as you shall, from time to time, receive from your superior officers.</p>
 <p><figure type="seal"><ab>SEAL OF KENTUCKY
 <lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
-<p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the State of Kentucky to be affixed, at Frankfort, the <date when="1864-04-29">twenty ninth day of April, in the year of our Lord one thousand eight hundred and sixty=four</date> and in the eighty=eighth year of the Independence of the United States of America.</p>
+<p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the State of Kentucky to be affixed, at <placeName ref="cwgk:P00000308">Frankfort</placeName>, the <date when="1864-04-29">twenty ninth day of April, in the year of our Lord one thousand eight hundred and sixty=four</date> and in the eighty=eighth year of the Independence of the <orgName ref="cwgk:O00002945">United States of America</orgName>.</p>
 <p>Thos E Bramlette</p>
 <p>BY THE GOVERNOR:
-<lb/>E. L. VanWinkle, Secretary of State.
-<lb/>By Jas R Page
+<lb/><persName ref="cwgk:N001777">E. L. VanWinkle</persName>, Secretary of State.
+<lb/>By <persName ref="cwgk:N001778">Jas R Page</persName>
 <lb/>Asst Secty</p>
-<p>Commonwealth Office -- WM. E. HUGHES, State Printer.<pb/></p>
+<p>Commonwealth Office -- <persName ref="cwgk:N00002718">WM. E. HUGHES</persName>, State Printer.<pb/></p>
 <p>OATH.<figure type="hr"/></p>
 <p>I Francis Rauth do solemnly swear, that I will faithfully support the Constitution of the United States and the Constitution of the State of Kentucky, and will discharge, all and singular, the duties and services appertaining to the office of Second Lieutenant in the Kentucky Volunteer Militia, agreeably to law and general regulations, and will obey such orders and instructions as I shall from time to time receive from the proper officers.</p>
 <p><gap/></p>
 <p>Before me, personally appeared the above Francis Rauth and made the oath above written, and signed the same in my presence.</p>
-<p>Capt Danl W Glassie
+<p>Capt <persName ref="cwgk:N00013955">Danl W Glassie</persName>
 <lb/>Comdg 1" Ky Batty
 <lb/><date when="1864-05-26">May 26 A. D. 1864</date>.<figure type="hr"/></p>
 <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
@@ -96,7 +104,7 @@
 <lb/>ADJUTANT GENERAL'S OFFICE,
 <lb/>Frankfort, <date when="1864-05-07">May 7 --, 1864</date></p>
 <p>Francis Rauth is entitled to act and receive pay under this Commission from the date of its actual receipt and acceptance by him, or of his actual entry on duty under the same after its receipt, provided R C Steen has at the time been actually relieved from duty with his command. The Commanding Officer of the Regiment will endorse hereon a certificate of the date of actual relief from duty of said Steen and the receipt of said Rauth of this Commission, his acceptance of the same, or his entry upon duty hereunder. These facts should also be stated upon the muster for pay rolls of the next ensuing periodical muster.</p>
-<p><hi rend="underline">John Boyle</hi>
+<p><hi><persName ref="cwgk:N00000879">John Boyle</persName></hi>
 <lb/>Adjutant General Kentucky Volunteers.</p>
   </body>
  </text>
