@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0311"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Winchester Ky <date when="1863-11-03">Novr 3rd 1863</date>
-<lb/>Tho<hi rend="sup">s</hi> E Bramlette Esq
+   <p><placeName ref="cwgk:P001792">Winchester</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1863-11-03">Novr 3rd 1863</date>
+<lb/><persName ref="cwgk:N001000">Tho<hi rend="sup">s</hi> E Bramlette</persName> Esq
 <lb/>Governor of Kentucky
 <lb/>Dear Sir</p>
-<p>On yesterday <date when="1863-11-02">2<hi rend="sup">d</hi> Novr 1863</date> being the first day of the <date when="1863-11">Nov<hi rend="sup">r</hi> Term</date> of the Clark Circuit Court a Judgment was rendered in favor of the Commonwealth against Obadiah Curry on forfeited Recognizance for &#36;500, as the Surety of Geo W Hensley who was indicted as a person of Bad fame. Hensley failed to appear having joined the Rebel Army -- About <date when="1863-07-20">20<hi rend="sup">th</hi> July 1863</date> Hensley was killed at Buffington; he being in Morgans Command -- </p>
+<p>On yesterday <date when="1863-11-02">2<hi rend="sup">d</hi> Novr 1863</date> being the first day of the <date when="1863-11">Nov<hi rend="sup">r</hi> Term</date> of the <orgName ref="cwgk:O00000364">Clark Circuit Court</orgName> a Judgment was rendered in favor of the <orgName ref="cwgk:O001025">Commonwealth</orgName> against <persName ref="cwgk:N00012344">Obadiah Curry</persName> on forfeited Recognizance for $500, as the Surety of <persName ref="cwgk:N00012343">Geo W Hensley</persName> who was indicted as a person of Bad fame. Hensley failed to appear having joined the <orgName ref="cwgk:O00000506">Rebel Army</orgName> -- About <date when="1863-07-20">20<hi rend="sup">th</hi> July 1863</date> Hensley was killed at <placeName ref="cwgk:P00012323">Buffington</placeName>; he being in <persName ref="cwgk:N00004777">Morgan</persName>s Command -- </p>
 <p>I respectfully ask for, M<hi rend="sup">r</hi> Curry a remission of the Judgment.</p>
-<p>Curry is a Southern Sympathizer but a man of great personal cleverness, kind &amp; obliging. To John B Huston &amp; myself he has repeatedly shown acts of kindness by warning us of danger from Rebels &amp; aiding us to escape -- has protected our property in our home from violation -- for two months while the Rebels were here allowed no one to enter our rooms at his hotel,</p>
-<p>When Cluke drove us all from home the Rebels stole a valuable horse belonging to my son who was absent in the Federal Army, Curry claimed the horse as <hi rend="underline">his</hi> <hi rend="underline">own</hi>, dismounted the Rebel &amp; locked up the horse with his own horse, and the Rebels having seized two valuable horses of Thos H Moore Provost Marshall 7 Congl District, Curry went to release them and did save them, and while so employed the Rebels broke open his stable &amp; took his horse as well as my sons &amp; they were both lost. I mention these things to show the kindness of the man &amp; his devotion to<pb/>
+<p>Curry is a Southern Sympathizer but a man of great personal cleverness, kind &amp; obliging. To <persName ref="cwgk:N001797">John B Huston</persName> &amp; myself he has repeatedly shown acts of kindness by warning us of danger from Rebels &amp; aiding us to escape -- has protected our property in our home from violation -- for two months while the Rebels were here allowed no one to enter our rooms at his hotel,</p>
+<p>When <persName ref="cwgk:N00010077">Cluke</persName> drove us all from home the Rebels stole a valuable horse belonging to my son who was absent in the <orgName ref="cwgk:O00001186">Federal Army</orgName>, Curry claimed the horse as <hi rend="underline">his</hi> <hi rend="underline">own</hi>, dismounted the Rebel &amp; locked up the horse with his own horse, and the Rebels having seized two valuable horses of <persName ref="cwgk:N00002376">Thos H Moore</persName> Provost Marshall 7 Congl District, Curry went to release them and did save them, and while so employed the Rebels broke open his stable &amp; took his horse as well as <persName ref="cwgk:N00010131">my sons</persName> &amp; they were both lost. I mention these things to show the kindness of the man &amp; his devotion to<pb/>
 <lb/>his friends -- I might fill pages with incidents showing his great cleverness as a man, Hensley is dead leaves no estate &amp; Curry will have to pay the Atty for Comth his 30 per cent which will be a pretty good lesson to him, if any were needed.</p>
 <p>I hope that you may feel sufficiently justified to exercise executive Clemency &amp; remit his fine -- </p>
 <p>If remitted let the Secretary send it to me so that I may not have to tax Curry further with Sheriff's <unclear>Canvass</unclear> in our Fi Fa.</p>
 <p>Yours Truly
-<lb/>A, H, Buckner Clk
+<lb/><persName ref="cwgk:N001787">A, H, Buckner</persName> Clk
 <lb/>Clark Cir Court</p>
 <p>Clark Cir Ct
 <lb/>vs</p>
@@ -88,7 +96,7 @@
 <lb/>A. H. Buckner
 <lb/>Clk Cir: Court
 <lb/>Winchester Ky</p>
-<p>&#36;500.
+<p>$500.
 <lb/>Forfeiture</p>
   </body>
  </text>
