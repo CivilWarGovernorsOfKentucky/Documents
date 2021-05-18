@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013573">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Eldred G. Davis</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013573">
+                    <persName>
+                      Eldred G. Davis
+                        (Hopkins County, KY, physician )
+                    </persName>
+                        <event type="birth"  when="1832-06-05"  ><ab>1832-06-05</ab></event>
+                        <event type="death"  when="1885-11-19"  ><ab>1885-11-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hopkins County, Kentucky, physician. Kentucky native. Son of William Davis and Anne Earle Davis. Married to Susan Davis. Father of Pete Davis and Lelia Davis. Graduate of Shurtleff College in 1852. Studied medicine under Dr. Peter J. Baley of Logan County, Kentucky. Graduate of the Nashville Medical College in 1855. Postmaster of Underwood in Hopkins County, Kentucky, from October 13, 1857. Physician in Hopkins County in 1860. Employed T. I. Davis as a laborer and Elizabeth Swinly as a domestic servant in Hopkins County in 1860. Physician in Hopkins County in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hopkins County, p. 755.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hopkins County, Madisonville, p. 177A-B.<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, vol. 14, Kentucky, Hopkins County, p. 645 (accessed via ancestry.com).<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Hopkins County, KY, July 1863, p. 13 (Accessed via ancestry.com).<lb/>
+<hi rend="italic">General Catalogue of the Officers and Students of Shurtleff College</hi>, 1834-64 (Upper Alton, Illinois: Parks &amp; Pinckard, Printers To the College, 1864), 18.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Dr. Eldred Glover Davis (5 Jun 1832-19 Nov 1885),&quot; Memorial #62464315, http://www.findagrave.com/memorial/62464315 (accessed October 8, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
