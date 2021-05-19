@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00013537">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">United States Christian Commission</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00013537">
+                    <orgName>United States Christian Commission</orgName>
+                        <event type="begun"  when="1861-11-14"  ><ab>1861-11-14</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Religious philanthropic organization in operation from November 14, 1861. Formed after the First Battle of Bull Run for the purpose of providing supplies, medical services, and recreational activities to federal soldiers. Organized by National Committee members of the Young Men&#39;s Christian Association (YMCA) and several prominent Protestant ministers in New York City on November 14, 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl>M. Hamlin Cannon, &quot;The United States Christian Commission,&quot; <hi rend="italic">The Mississippi Valley Historical Review</hi>, Vol. 38, No. 1 (June, 1951), pp. 61-80.<lb/>
+Drew Gilpin Faust, <hi rend="italic">This Republic of Suffering: Death and the American Civil War</hi> (New York: Alfred A. Knopf, 2008), pp. 7-8.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
