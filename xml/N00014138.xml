@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014138">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Theodore M Morgan</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Chad White</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014138">
+                    <persName>
+                      Theodore M Morgan
+                        (Philadelphia, Pennsylvania, businessman and commissioner)
+                    </persName>
+                        <event type="birth"  when="1836-05-26"  ><ab>1836-05-26</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Philadelphia, Pennsylvania, businessman, soldier, and commissioner. Son of William C. Morgan and Jane C. Morgan. Married to Caroline D. Morgan. Father of Caroline A. Morgan and Theodore H. Morgan. Student in Philadelphia County, Pennsylvania, in 1850. Served in the 98th New York Volunteer Infantry Regiment (U.S.A.) as captain from December 28,1861, to February 5, 1862. Partner in Morgan, Hanson, &amp; Co. in Philadelphia in 1862 and 1863. Appointed commissioner for the Commonwealth of Kentucky on November 4, 1862. Claim agent in Philadelphia in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Pennsylvania, Philadelphia County, Northern Liberties Ward 4, p. 239B. <lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, New Jersey, Essex County, Caldwell, p. 134A.<lb/>
+<hi rend="italic">Civil War Muster Roll Abstracts of New York State Volunteers, United States Sharpshooters, and United States Colored Troops (ca. 1861-1900),.New York State Archives, Albany, New York, Series 13775, Roll #64, 98th Infantry, J-P, Box 67-68, Certificate #1054, p. 343 of 499 of microfilm (accessed via Ancestry.com).<lb/>
+_Septennial Census Returns, 1779–1863</hi> (1863), Pennsylvania, Philadelphia County, Philadelphia Ward 22, Records of the General Assembly, RG 7, Box 1026 (Pennsylvania Historical and Museum Commission, Harrisburg, PA), p. 177 of 247 of microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">McElroy’s Philadelphia City Directory for 1863, 26th edition (Philadelphia, PA: E. C. &amp; J. Biddle &amp; Co., 1863), 547, p. 279 or 508 of microfilm (accessed via Ancestry.com).<lb/>
+_Find A Grave</hi>, “Theodore Miles Morgan(1836-1922),&quot; Memorial #80845918, https://www.findagrave.com/memorial/80845918/theodore-miles-morgan (accessed May 20, 2021).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
