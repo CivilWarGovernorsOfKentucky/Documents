@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00013413">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">State of Vermont</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00013413">
+                    <orgName>State of Vermont</orgName>
+                        <event type="begun"  when="1791-03-04"  ><ab>1791-03-04</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Administrative body of the state of Vermont. Capital at Montpelier, Vermont. Governor(s): Erastus Fairbanks (October 12, 1860 - October 11, 1861); Frederick Holbrook (October 11, 1861 - October 9, 1863); John Gregory Smith (October 9, 1863 - October 13, 1865); Paul Dillingham (October 13, 1865 - October 13, 1867).</p>
+
+    </body>
+    <back>
+        <ab><bibl>D. Gregory Sanford, &quot;Vermont&quot; in <hi rend="italic">Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Vermont) (accessed May 21, 2021).<lb/>
+&quot;Former Vermont Governors,&quot; National Governors Association, https://www.nga.org/former-governors/vermont/ (accessed May 21, 2021).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
