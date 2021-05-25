@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014370">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry J. Stites</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014370">
+                    <persName>
+                      Henry J. Stites
+                        (Christian County, Kentucky, Chief Justice of the Court of Appeals)
+                    </persName>
+                        <event type="birth"  when="1816-09-16"  ><ab>1816-09-16</ab></event>
+                        <event type="death"  when="1891-04-03"  ><ab>1891-04-03</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Christian County, Kentucky, chief court justice. Scott County, Kentucky, native. Son of Abram Stites and Ann Johnson Stites. Married to Mary Jane Sharp Stites in Christian County, Kentucky, on November 11, 1841. Admitted to the Kentucky bar in Christian County in 1841. Practiced law with Robert P. Henry in Christian County. Clerk of Christian County Court. Elector from Kentucky for Lewis Cass in the 1848 Democratic National Convention. Circuit court judge in the 2nd Judicial District in Christian County from 1850 to 1854. Associate appellate court judge in Christian County from 1855 to 1860. Owned eleven enslaved persons in Christian County in 1860. Chief justice of the appellate court in Christian County from 1861 to 1862. Resident of Canada from 1863 to 1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, Hopkinsville, p. 689. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Christian County, Hopkinsville p. 276A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Christian County, Hopkinsville p. 276B-277A.<lb/>
+ <hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Christian County Marriages, Film #001942963, p. 24.<lb/>
+“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1852,” (Frankfort, KY: A. G. Hodges, State Printer, 1853) 347.<lb/>
+“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1855,” (Frankfort, KY: A. G. Hodges, State Printer, 1856) 352.<lb/>
+“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1859,” (Frankfort, KY: Jno. B. Major, State Printer, 1860), 288.<lb/>
+“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1860,” (Frankfort, KY: Jno. B. Major, State Printer, 1861), 354.<lb/>
+“Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1861,” in 1862 Kentucky Documents, Legislative Document No. 1 (Frankfort, Ky.: Jno. B. Major, State Printer, 1862), 303.<lb/>
+H. Levin, <hi rend="italic">The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 83-84.<lb/>
+<hi rend="italic">Kentucky, Wills and Probate Records, 1774-1989</hi>, Kentucky County, District, and Probate Courts, Jefferson County Administration Bonds, 1830-1869; Vol 19-20, 1970-1975, p. 264-267 of microfilm (accessed via Ancestry.com on April 29, 2021).<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Henry Johnson Stites, (1816-1891)&quot; Memorial #68861471, http://www.findagrave.com/memorial/68861471 (accessed April 29, 2021).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
