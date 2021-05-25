@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Arnold</title>
+        <title level="a" type="main">Arnold [Unknown]</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -47,8 +51,8 @@
         <particDesc>
                 <person xml:id="N00008239">
                     <persName>
-                      Arnold
-                        (Enslaved by George W. Johnson.)
+                      Arnold [Unknown]
+                        (Scott Co, Ky, enslaved by George W. Johnson.)
                     </persName>
                         <event type="birth"  when="1802"  cert="medium" ><ab>c1802</ab></event>
                         <trait type="race" subtype="Black"/>
@@ -59,11 +63,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Enslaved by George W. Johnson, in Scott County, Kentucky, in 1862.</p>
+        <p>Scott County, Kentucky, resident. Enslaved by George W. Johnson, in Scott County, Kentucky, in 1862.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0003-092-0133. KYR-0003-092-0150. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Scott County, District No. 1, p. 31-32.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Scott County, District No. 1, p. 31-32.<lb/>
+KYR-0003-092-0133.<lb/>
+KYR-0003-092-0150. 
 </bibl></ab>
     </back>
 </text>
