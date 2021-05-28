@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0093"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,8 @@
  <text>
   <body>
    <p>No. 22.<figure type="hr"/>
-<lb/>The State of Kentucky,
-<lb/>To William Stewart Dr.</p>
+<lb/>The <orgName ref="cwgk:O001025">State of Kentucky</orgName>,
+<lb/>To <persName ref="cwgk:N00009341">William Stewart </persName>Dr.</p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1864">1864</date>.</cell>
@@ -76,15 +84,15 @@
 <row>
 	<cell><date when="1864-07-30">July 30<hi rend="underline"><hi rend="sup">th</hi></hi></date></cell>
 	<cell>To Services rendered in assisting in the organization of the Enrolled Militia.</cell>
-	<cell>&#36;83.</cell>
+	<cell>$83.</cell>
 	<cell>33</cell>
 </row>
 </table></p>
-<note place="left margin"><p>Approved, And the Q. M, Genl is ordered to pay Same out of the Militia fund.</p>
+<note place="left margin"><p>Approved, And the <orgName ref="cwgk:O00000389">Q. M, Genl</orgName> is ordered to pay Same out of the Militia fund.</p>
 <p>Tho E Bramlette Govr</p></note>
 <p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
-<p>D. W. Lindsey
-<lb/>Inspector <hi rend="str">Quarter-Master</hi> Gen. Ky. </p>
+<p><persName ref="cwgk:N00000873">D. W. Lindsey
+</persName><lb/>Inspector <hi rend="str">Quarter-Master</hi> Gen. Ky. </p>
 <p>Received at Frankfort, Kentucky, the <date when="1864-07-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> of July, 1864,</date> of S. G. SUDDARTH, Quarter-master General of Kentucky Volunteers, the sum of Eighty Three Dollars and Thirty Three Cents, in full of the above account.
 <lb/>(DUPLICATE.)</p>
 <p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Stewart<pb/></p>
@@ -105,17 +113,17 @@
 </row>
 <row>
 	<cell><date when="1864-07-30">July 30<hi rend="underline"><hi rend="sup">th</hi></hi></date></cell>
-	<cell>To Services rendered in assisting in the organization of the Enrolled Militia.</cell>
-	<cell>&#36;83.</cell>
+	<cell>To Services rendered in assisting in the organization of the Enrolled <orgName ref="cwgk:O00000916">Militia</orgName>.</cell>
+	<cell>$83.</cell>
 	<cell>33</cell>
 </row>
 </table></p>
 <note place="left margin"><p>Approved. And the Q, M, Gen<hi rend="sup">l</hi> is ordered to pay Same out of the Militia fund.</p>
-<p>Tho E Bramlette Gov<hi rend="sup">r</hi></p></note>
+<p><persName ref="cwgk:N001000">Tho E Bramlette</persName> Gov<hi rend="sup">r</hi></p></note>
 <p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
 <p>D W Lindsey
-<lb/>Inspector <hi rend="str">Quarter-Master</hi> Gen. Ky. </p>
-<p>Received at Frankfort, Kentucky, the <date when="1864-07-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> of July, 1864</date>, of S. G. SUDDARTH, Quarter-master General of Kentucky Volunteers, the sum of Eighty Three Dollars and thirty three Cents, in full of the above account.
+<lb/><orgName ref="cwgk:O00000920">Inspector</orgName> <hi rend="str">Quarter-Master</hi> Gen. Ky. </p>
+<p>Received at <placeName ref="cwgk:P00000308">Frankfort, Kentucky</placeName>, the <date when="1864-07-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> of July, 1864</date>, of <persName ref="cwgk:N00000946">S. G. SUDDARTH</persName>, Quarter-master General of Kentucky Volunteers, the sum of Eighty Three Dollars and thirty three Cents, in full of the above account.
 <lb/>(DUPLICATE.)</p>
 <p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Stewart<pb/></p>
 <p>No. 22.<figure type="hr"/>
