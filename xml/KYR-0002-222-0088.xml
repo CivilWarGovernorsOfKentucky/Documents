@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0088"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,8 @@
  <text>
   <body>
    <p>No. 22.<figure type="hr"/>
-<lb/>The State of Kentucky,
-<lb/>To -- D. W. Lindsey Inspr Genl Dr.</p>
+<lb/>The <orgName ref="cwgk:O001025">State of Kentucky</orgName>,
+<lb/>To -- <persName ref="cwgk:N00000873">D. W. Lindsey </persName><orgName ref="cwgk:O00000920">Inspr Genl</orgName> Dr.</p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1864-07-30">1864.</date></cell>
@@ -75,8 +83,8 @@
 </row>
 <row>
 	<cell><date when="1864-07-30">July 30<hi rend="underline"><hi rend="sup">th</hi></hi></date></cell>
-	<cell>To. Services rendered in organizing and administering the Enrolled Militia, the State Guard and other State Troops.</cell>
-	<cell>&#36;.225.</cell>
+	<cell>To. Services rendered in organizing and administering the Enrolled <orgName ref="cwgk:O00000916">Militia</orgName>, the <orgName ref="cwgk:O00000303">State Guard</orgName> and other State Troops.</cell>
+	<cell>$.225.</cell>
 	<cell/>
 </row>
 </table></p>
@@ -86,7 +94,7 @@
 <p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
 <p>S. G. Suddarth
 <lb/>Quarter-Master Gen. Ky. </p>
-<p>Received at Frankfort, Kentucky, the <date when="1864-07-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> of July, 1864</date>, of S. G. SUDDARTH, Quarter-master General of Kentucky Volunteers, the sum of Two Hundred and Twenty five Dollars and <gap/> Cents, in full of the above account.
+<p>Received at <placeName ref="cwgk:P00000308">Frankfort, Kentucky,</placeName> the <date when="1864-07-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> of July, 1864</date>, of S. G. SUDDARTH, Quarter-master General of Kentucky Volunteers, the sum of Two Hundred and Twenty five Dollars and <gap/> Cents, in full of the above account.
 <lb/>(DUPLICATE.)</p>
 <p>D, W. Lindsey
 <lb/>Insp Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky<pb/></p>
@@ -104,16 +112,16 @@
 	<cell><date when="1864-07-30">July 30<hi rend="sup">th</hi></date></cell>
 	<cell>To.
 <lb/> Services rendered in organizing and administering the Enrolled Militia, the State Guard and other State Troops.</cell>
-	<cell>&#36;225.</cell>
+	<cell>$225.</cell>
 	<cell/>
 </row>
 </table></p>
 <note place="left margin"><p>Approved, and the Q M Gen<hi rend="sup">l</hi> is ordered to pay Same out of the Militia fund.</p>
-<p>Tho E Bramlette
-<lb/>Gov</p></note>
+<p><persName ref="cwgk:N001000">Tho E Bramlette
+</persName><lb/>Gov</p></note>
 <p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
-<p>S. G. Suddarth
-<lb/>Quarter-Master Gen. Ky. </p>
+<p><persName ref="cwgk:N00000946">S. G. Suddarth
+</persName><lb/><orgName ref="cwgk:O00000389">Quarter-Master Gen. Ky.</orgName> </p>
 <p>Received at Frankfort, Kentucky, the <date when="1864-07-30">30 of July, 1864,</date> of S. G. SUDDARTH, Quarter-master General of Kentucky Volunteers, the sum of Two Hundred and Twenty five Dollars and <gap/> Cents, in full of the above account.
 <lb/>(DUPLICATE.)</p>
 <p>D W Lindsey
