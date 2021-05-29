@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000850">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Benjamin Franklin Bradley</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000850">
+                    <persName>
+                      Benjamin Franklin Bradley
+                        (Kentucky attorney, CSA Rep Congress, major 1st Battalion Ky Mtd Riflemen)
+                    </persName>
+                        <event type="birth"  when="1835-10-05"  ><ab>1835-10-05</ab></event>
+                        <event type="death"  when="1897-01-22"  ><ab>1897-01-22</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kentucky attorney, soldier, and politician. Married to Emily Mary Sanders Bradley. Father of Anna Bradley, Mathew S. Bradley, Victor F. Bradley, Betty Sanders Bradley, and John Bradley. Educated at Georgetown College and graduated from the law department of Transylvania University in 1846. Admitted to the bar and practiced law in Georgetown, Kentucky, and Chicago, Illinois. Served in the 3rd Kentucky Volunteers as a regimental adjutant and brigade adjutant in the U.S.-Mexican War. Moved to Chicago to practice law and work as a land agent from 1854 to 1861. Served in the First Battalion of Kentucky Mounted Riflemen as a major (C.S.A.) from 1861 to 1864. Represented the 11th Congressional District in the House of Representatives of the Second Confederate Congress from 1864 to 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, Cook County, Chicago 5th Ward, p. 279-80.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Scott County, Georgetown, p. 5.<lb/>
+Ezra J. Warner and W. Buck Yearns, <hi rend="italic">Biographical Register of the Confederate Congress</hi> (Baton Rouge: Louisiana State University Press, 1975), 29-30. <lb/>
+Lewis Collins and Richard Collins, <hi rend="italic">History of Kentucky</hi>, vol. 1 (Collins &amp; Company, 1882), 353.<lb/>
+“Maj. Ben F. Bradley: Dies at Georgetown after Several Week’s Illness,” <hi rend="italic">Courier-Journal</hi> (Louisville, Ky.), January 23, 1897.<lb/>
+<hi rend="italic">Find A Grave</hi>, “Maj. Benjamin Franklin Bradley (1825-1897),&quot; Memorial #9398035,  (https://www.findagrave.com/memorial/9398035/benjamin-franklin-bradley) (accessed January 23, 2017). 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
