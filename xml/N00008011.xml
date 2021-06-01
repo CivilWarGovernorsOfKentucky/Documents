@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[Unknown] Knorr</title>
+        <title level="a" type="main">Rosa Knorr</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,21 +47,26 @@
         <particDesc>
                 <person xml:id="N00008011">
                     <persName>
-                      [Unknown] Knorr
-                        (Child of Sophia Knorr)
+                      Rosa Knorr
+                        (Kenton County, Kentucky, resident, dau of Sophia Knorr &amp; George Knorr)
                     </persName>
-                      <trait type="gender" subtype="U"/>
+                        <event type="birth"  when="1860"  ><ab>1860</ab></event>
+                        <event type="death"  when="1938"  ><ab>1938</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Child of Sophia Knorr. Mentioned in a letter from E. A. W. Roberts to Beriah Magoffin in 1861. </p>
+        <p>Kenton County, Kentucky, resident. Kentucky native. Daughter of George Knorr and Sophia Knorr. Resident of Kenton County, Kentucky, in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1473.
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Kenton County, Covington, Ward 9, p. 215A. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Rosa Knorr Berger (1860-1938),&quot; Memorial #97130980, https://www.findagrave.com/memorial/97130980/rosa-berger (accessed June 1, 2021).<lb/>
+KYR-0001-020-1473.
 </bibl></ab>
     </back>
 </text>
