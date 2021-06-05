@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0007"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -73,80 +76,72 @@
 <row>
 	<cell>John M. Moore</cell>
 	<cell>Q. Mas.</cell>
-	<cell>date</cell>
-	<cell><date when="1862-06-17">June 17. 1862</date></cell>
+	<cell>date <date when="1862-06-17">June 17. 1862</date></cell>
 </row>
 <row>
 	<cell>Tho. Forman</cell>
 	<cell>1 Lieut:</cell>
-	<cell>"</cell>
-	<cell><date when="1862-07-01">July 1. 1862</date></cell>
+	<cell>"<date when="1862-07-01">July 1. 1862</date></cell>
 </row>
 <row>
 	<cell>Henry Cassen</cell>
 	<cell>2 "</cell>
-	<cell>"</cell>
-	<cell>" " "</cell>
+	<cell>"<date when="1862-07-01">" " "</date></cell>
 </row>
 <row>
-	<cell>Horatio B. M<hi rend="sup">c</hi>Corkhill</cell>
+	<cell>Horatio B. M<hi rend="underline"><hi rend="sup">c</hi></hi>Corkhill</cell>
 	<cell>1 Lieut</cell>
-	<cell>"</cell>
-	<cell><date when="1862-05-24">May 24. "</date></cell>
+	<cell>"<date when="1862-05-24">May 24. "</date></cell>
 </row>
 <row>
 	<cell>David Jones</cell>
 	<cell>2 "</cell>
-	<cell>"</cell>
-	<cell><date when="1862-06-17">June 17. "</date></cell>
+	<cell>"<date when="1862-06-17">June 17. "</date></cell>
 </row>
 <row>
 	<cell>Christopher Leonard</cell>
 	<cell>1 "</cell>
-	<cell>"</cell>
-	<cell><date when="1862-06-10">" 10. "</date></cell>
+	<cell>"<date when="1862-06-10">" 10. "</date></cell>
 </row>
 <row>
 	<cell>John Leaf</cell>
 	<cell>2 "</cell>
-	<cell>"</cell>
-	<cell>" " "</cell>
+	<cell>"<date when="1862-06-10">" " "</date></cell>
 </row>
 <row>
 	<cell>Joseph E. Miller</cell>
 	<cell>1 "</cell>
-	<cell>"</cell>
-	<cell><date when="1862-05-25">May 25. "</date></cell>
+	<cell>"<date when="1862-05-25">May 25. "</date></cell>
 </row>
 <row>
 	<cell>James H. Baly</cell>
 	<cell>2 "</cell>
-	<cell>"</cell>
-	<cell>" " "</cell>
+	<cell>" <date when="1862-05-25">" " "</date></cell>
+</row>
+<row>
+	<cell>John Lucas</cell>
+	<cell>Capt</cell>
+	<cell>"<date when="1862-07-06">July 6. "</date></cell>
 </row>
 <row>
 	<cell>W<hi rend="sup">m</hi> H. Powell</cell>
-	<cell>Capt</cell>
-	<cell>"</cell>
-	<cell><date when="1862-07-06">July 6. "</date></cell>
+	<cell>1 Lieut</cell>
+	<cell>"<date when="1862-07-06">" " "</date></cell>
 </row>
 <row>
 	<cell>Terrance F. Burns</cell>
 	<cell>2 "</cell>
-	<cell>"</cell>
-	<cell>" " "</cell>
+	<cell>" <date when="1862-07-06">" " "</date></cell>
 </row>
 <row>
 	<cell>John W. Huston</cell>
 	<cell>" "</cell>
-	<cell>"</cell>
-	<cell><date when="1862-05-17">May 17. "</date></cell>
+	<cell>"<date when="1862-05-17">May 17. "</date></cell>
 </row>
 <row>
 	<cell>John P. Hurley</cell>
 	<cell>1 "</cell>
-	<cell>"</cell>
-	<cell><date when="1862-05-24">" 24. "</date></cell>
+	<cell>"<date when="1862-05-24">" 24. "</date></cell>
 </row>
 </table><pb/>
 <lb/><table rend="rules">
@@ -161,9 +156,9 @@
 	<cell><date when="1862-08-21">Aug 21. 1862.</date></cell>
 </row>
 </table></p>
-<p>Very Resply
-<lb/>John W. Finnell
-<lb/>Adj. Gen: Ky: Vols:</p>
+<p>Very Resp<hi rend="underline"><hi rend="sup">ly
+<lb/></hi></hi>John W. Finnell
+<lb/>Adj: Gen: Ky: Vols:</p>
 <p>Aug 20. 1862</p>
   </body>
  </text>
