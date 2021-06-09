@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014568">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Allen Hurst</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014568">
+                    <persName>
+                      Allen Hurst
+                        (Union County, Tennessee, circuit court clerk, farmer, and politician)
+                    </persName>
+                        <event type="birth"  when="1810-03-04"  ><ab>1810-03-04</ab></event>
+                        <event type="death"  when="1872-05-26"  ><ab>1872-05-26</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Union County, Tennessee, circuit court clerk, farmer, and politician. Tazewell County, Virginia, native. Son of John Hurst and Elizabeth Thompson Hurst. Married to Lavina Hurst. Father of Findley Hurst, Arminta Hurst, Milton Hurst, Elbert Hurst, Elizabeth Hurst, and Napoleon Hurst. Farmer in Grainger County, Tennessee, in 1850. Owned two enslaved persons in Grainger County in 1850. Employed Jemima Blackburn as a domestic servant in Grainger County in 1850. Employed William Horden, William Blansett, Newton Filoy, James Howell, and John Wilson as laborers in Grainger County in 1850. Clerk for the Union County Circuit Court in 1859. Member of the Tennessee State Senate from Union County in 1859. Farmer in Union County in 1860. Member of the Tennessee State General Assembly from Anderson, Campbell, Claiborne, and Grainger Counties from 1859 to 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Grainger County, District 15, p. 136A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Tennessee, Grainger County, District 15, p. 859.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee,  Union County, District 2, p. 427.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Tennessee, Union County, District 2, p. 218A. <lb/>
+&quot;Brownlow&#39;s Tri-Weekly Whig, 1859-01-06, Circuit Court—Union County&quot; Newspapers.com, https://www.newspapers.com/image/585803567 (accessed May 25, 2021).<lb/>
+Robert Martin McBride, Dan Merritt Robison, and Ilene J. Cornwell, <hi rend="italic">Biographical Directory of the Tennessee General Assembly: 1796-1861</hi>, (Nashville, TN: Tennessee State Library and Archives, 1975), 393. <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Maj Allen Hurst (1810-1873),&quot; Memorial #30994168, http://www.findagrave.com/memorial/30994168 (accessed May 25, 2021).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
