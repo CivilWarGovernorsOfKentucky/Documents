@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0006"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,9 +70,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Caldwell<figure type="hr"/></p>
-<p>&#36;250. Reward
-<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Williams
+   <p><placeName ref="cwgk:P00002472">Caldwell</placeName><figure type="hr"/></p>
+<p>$250. Reward
+<lb/><persName ref="cwgk:N00010694">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Williams</persName>
 <lb/>Murder
 <lb/>Off. <date when="1861-11-15">Nov 15. 1861</date><figure type="hr"/></p>
   </body>
