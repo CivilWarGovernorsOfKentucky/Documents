@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014752">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry Tomlinson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014752">
+                    <persName>
+                      Henry Tomlinson
+                        (Jefferson County, Kentucky)
+                    </persName>
+                        <trait type="race" subtype="Black"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Indicted for stealing the watch of Christian Schlotter on December 29, 1859, in Louisville, Kentucky. Case dismissed on October 21, 1861. </p>
+
+    </body>
+    <back>
+        <ab><bibl>_”Police Proceedings.” The Courier-Journal. (Louisville, KY.) Dec. 30, 1859. (accessed via Newspapers.com)<lb/>
+_”Circuit Court- Criminal Term.” The Courier-Journal. (Louisville, KY.) Jan. 20, 1860. (accessed via Newspapers.com)<lb/>
+_”Circuit Court.”  The Courier-Journal. (Louisville, KY.) May 12, 1860. (accessed via Newspapers.com)<lb/>
+_“Jefferson Circuit Court.”  The Louisville Daily Courier. (Louisville, KY.) May 14, 1860. (accessed via Newspapers.com)<lb/>
+_ “Jefferson Circuit Court- Criminal Term.” The Courier-Journal. (Louisville, KY.) Jan. 15, 1861. (accessed via Newspapers.com)<lb/>
+_“Jefferson Circuit Court- Criminal Term.” The Courier-Journal. (Louisville, KY.) Oct. 22, 1861. (accessed via Newspapers.com)
+</bibl></ab>
+    </back>
+</text>
+</TEI>
