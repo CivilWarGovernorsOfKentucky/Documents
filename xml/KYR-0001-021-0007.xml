@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0007"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>At a Circuit Court holden within and for the County of Greenup and Commonwealth of Kentucky at the Courthouse of said County in the town of Greenupsburg on Monday the <date when="1860-11-12">12<hi rend="sup">th</hi> day of November 1860.</date></p>
+   <p>At a <orgName ref="cwgk:O00000383">Circuit Court</orgName> holden within and for the <placeName ref="cwgk:P001759">County of Greenup</placeName> and <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> at the Courthouse of said County in the town of <placeName ref="cwgk:P00005803">Greenupsburg</placeName> on Monday the <date when="1860-11-12">12<hi rend="sup">th</hi> day of November 1860.</date></p>
 <p>The Grand Jurors empanelled and sworn in and for the body of Greenup County returned into Court an Indictment in the following words and figures viz:</p>
 <p>"Greenup Circuit Court
 <lb/>The Commonwealth of Kentucky
-<lb/>Against &#125; Indictment
-<lb/>John R. B. Watkins</p>
-<p>The Grand Jury of Greenup County, in the name, and by the authority of the Commonwealth of Kentucky, accuse John R. B. Watkins of the crime of obtaining money under false pretenses committed as follows: The said John R. B. Watkins on the <date when="1859-09-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi> day of September 1859,</date> at the County aforesaid by falsely pretending and representing to Green S. Bumbass, that he the said John R. B. Watkins had bought four negro slaves in the said County, that he had a right to get them and bring them to Lexington Kentucky to the said Bumbass in Lexington Kentucky, as his slaves, obtained from the said Green S. Bumbass the sum of Four Thousand Dollars, with intent to commit a fraud upon him against the peace and dignity of the Commonwealth of Kentucky -- </p>
-<p>R. H. Stanton
+<lb/>Against } Indictment
+<lb/><persName ref="cwgk:N00005065">John R. B. Watkins</persName></p>
+<p>The Grand Jury of Greenup County, in the name, and by the authority of the Commonwealth of Kentucky, accuse John R. B. Watkins of the crime of obtaining money under false pretenses committed as follows: The said John R. B. Watkins on the <date when="1859-09-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi> day of September 1859,</date> at the County aforesaid by falsely pretending and representing to <persName ref="cwgk:N00014702">Green S. Bumbass</persName>, that he the said John R. B. Watkins had bought four negro slaves in the said County, that he had a right to get them and bring them to <placeName ref="cwgk:P001002">Lexington Kentucky</placeName> to the said Bumbass in Lexington Kentucky, as his slaves, obtained from the said Green S. Bumbass the sum of Four Thousand Dollars, with intent to commit a fraud upon him against the peace and dignity of the Commonwealth of Kentucky -- </p>
+<p><persName ref="cwgk:N00002605">R. H. Stanton</persName>
 <lb/>Attorney for the Comomonwealth</p>
-<p>Upon which Indictment is the following endorsement towit: "A. True Bill Geo. Swap Foreman<pb/></p>
+<p>Upon which Indictment is the following endorsement towit: "A. True Bill <persName ref="cwgk:N00014715">Geo. Swap</persName> Foreman<pb/></p>
 <p>The Commonwealth of Kentucky
-<lb/>Greenup County Towit:&#125;</p>
-<p>I William Corum Clerk of the Circuit Court of Greenup County in the State of Kentucky do certify that the foregoing is a true copy of the original Indictment and the endorsement thereon as the same is found in my office</p>
+<lb/>Greenup County Towit:}</p>
+<p>I <persName ref="cwgk:N00005829">William Corum</persName> Clerk of the Circuit Court of Greenup County in the State of Kentucky do certify that the foregoing is a true copy of the original Indictment and the endorsement thereon as the same is found in my office</p>
 <p><figure type="seal"><ab>GREENUP CIRCUIT COURT
 <lb/>UNITED WE STAND DIVIDED WE FALL
 <lb/>KENTUCKY.</ab></figure></p>
@@ -84,9 +92,9 @@
 <lb/>Greenup Circuit Court<figure type="hr"/></p>
 <p>State of Kentucky
 <lb/>Greenup Circuit Court Sct.</p>
-<p>I Elijah C. Phister Circuit Judge in and for the 10<hi rend="sup">th</hi> Judicial District in the State of Kentucky and by virtue of my said office, sole Judge of the Greenup Circuit Court, being the Circuit Court of Greenup County, which is one of the Counties comprising said 10<hi rend="sup">th</hi> Judicial District, do hereby certify that W<hi rend="underline"><hi rend="sup">m</hi></hi> Corum whose name is signed to the foregoing certificate is Clerk of said Greenup Circuit Court and that his signature thereto is genuine and that the foregoing attestation is in due form. Given under my hand as Judge of said Court this <date when="1860-11-12">12<hi rend="sup">th</hi> day of November 1860.</date></p>
+<p>I <persName ref="cwgk:N00005415">Elijah C. Phister</persName> Circuit Judge in and for the 10<hi rend="sup">th</hi> Judicial District in the State of Kentucky and by virtue of my said office, sole Judge of the Greenup Circuit Court, being the Circuit Court of Greenup County, which is one of the Counties comprising said 10<hi rend="sup">th</hi> Judicial District, do hereby certify that W<hi rend="underline"><hi rend="sup">m</hi></hi> Corum whose name is signed to the foregoing certificate is Clerk of said Greenup Circuit Court and that his signature thereto is genuine and that the foregoing attestation is in due form. Given under my hand as Judge of said Court this <date when="1860-11-12">12<hi rend="sup">th</hi> day of November 1860.</date></p>
 <p>E. C. Phister Judge of Greenup Ct. Ct.<pb/></p>
-<p>Missouri<figure type="hr"/></p>
+<p><placeName ref="cwgk:P00001883">Missouri</placeName><figure type="hr"/></p>
 <p>Demand for Jno. R. B. Watkins "obtaining money under false pretenses"</p>
 <p>Is<hi rend="sup">d</hi> <date when="1860-11-16">Nov 16. 1860</date></p>
   </body>
