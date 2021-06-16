@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. H. Eifort</title>
+        <title level="a" type="main">William H. Eifort</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Courtney Buchkoski</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00006178">
                     <persName>
-                      W. H. Eifort
-                        (1st Lieutenant in Company C, 2nd regiment Kentucky Cavalry. )
+                      William H. Eifort
+                        (Carter County, Kentucky, clerk and1st Lieutenant in Company C, 2nd regiment Kentucky Cavalry. )
                     </persName>
+                        <event type="birth"  when="1843"  cert="medium" ><ab>c1843</ab></event>
+                        <event type="death"  when="1864-09-03"  ><ab>1864-09-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>First lieutenant, captain, major, and lieutenant colonel in the 2nd Kentucky Volunteer Cavalry Regiment (U.S.A.). </p>
+        <p>Carter County, Kentucky, clerk and soldier. Ohio native. Son of Sebastian Eifort and Rachel Jackson Eifort. Clerk in Carter County, Kentucky, in 1850. Served in the 2nd Kentucky Volunteer Cavalry Regiment (U.S.A.) as first lieutenant, captain, major, and lieutenant colonel, from September 9, 1861, to September 3, 1864. Killed in action near Triune, Tennessee, on September 3, 1864.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 46, 51, 57.
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 46-47, 51, 57.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 920
 </bibl></ab>
     </back>
 </text>
