@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0439"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>James Bartek</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Carlisle Nicholas Co. Ky <date when="1863-06-02">June 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1863</date>
-<lb/>To His Excellency James F Robinson
+   <p><placeName ref="cwgk:P00000537">Carlisle</placeName> <placeName ref="cwgk:P00000539">Nicholas Co.</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1863-06-02">June 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1863</date>
+<lb/>To His Excellency <persName ref="cwgk:N001004">James F Robinson</persName>
 <lb/>Governor of Kentucky</p>
-<p>Your petitioner Sarah Mullins would respectfully represent that she is a woman of color, that she is about 70 years of age, that she is poor and infirm that her son Isaiah Mullins who lives with her and (upon whom she is in a great measure dependent for support) was on the <date when="1863-05-30">30th of May 1863</date> convicted by a jury before a justice of the peace in Nicholas County of a breach of the peace and was fined &#36;20 and 15 days imprisonment, that her said son is now in jail. that she has a small piece of land upon which her son Isaah has commenced raising a crop for her support, that has not and cannot procure the money to pay said &#36;20 without great sacrifice and that she has no one to work said crop for her but her son who will have to stay in jail if said fine is not paid. She says she thinks the punishment was much too severe under all the circumstance considering her own poverty and that of her son. She therefore prays your excellency for a remission of said fine and imprisonment</p>
+<p>Your petitioner <persName ref="cwgk:N00011483">Sarah Mullins</persName> would respectfully represent that she is a woman of color, that she is about 70 years of age, that she is poor and infirm that her son Isaiah Mullins who lives with her and (upon whom she is in a great measure dependent for support) was on the <date when="1863-05-30">30th of May 1863</date> convicted by a jury before a justice of the peace in Nicholas County of a breach of the peace and was fined $20 and 15 days imprisonment, that her said son is now in jail. that she has a small piece of land upon which her son Isaah has commenced raising a crop for her support, that has not and cannot procure the money to pay said $20 without great sacrifice and that she has no one to work said crop for her but her son who will have to stay in jail if said fine is not paid. She says she thinks the punishment was much too severe under all the circumstance considering her own poverty and that of her son. She therefore prays your excellency for a remission of said fine and imprisonment</p>
 <p>Sarah Mullins
 <lb/><milestone unit="column" n="2"/><cb n="1"/>R B Kiddoo
 <lb/>Jno M Dallas
@@ -76,20 +84,20 @@
 <lb/>A S. Waugh
 <lb/><cb n="2"/>Isaiah Mullins
 <lb/>R. S. Evans (County Atty.)
-<lb/>Thomas Kennedy
-<lb/>Thos J. M<hi rend="sup">c</hi>Intyre
-<lb/>E. M. Ewing
-<lb/>R <unclear>T</unclear> R Tilton<pb/>
+<lb/><persName ref="cwgk:N00011493">Thomas Kennedy</persName>
+<lb/><persName ref="cwgk:N00011494">Thos J. M<hi rend="sup">c</hi>Intyre</persName>
+<lb/><persName ref="cwgk:N00007477">E. M. Ewing</persName>
+<lb/><persName ref="cwgk:N00011495">R <unclear>T</unclear> R Tilton</persName><pb/>
 <lb/><milestone unit="column" n="1"/>G, W, Adair
-<lb/>W. L. Henry
-<lb/>John Clay</p>
+<lb/><persName ref="cwgk:N00011490">W. L. Henry</persName>
+<lb/><persName ref="cwgk:N00011491">John Clay</persName></p>
 <p>I would merely state that from what I am able to learn the above is a proper case for Executive clemency.</p>
-<p>R. S. Evans, -- County Atty.</p>
+<p><persName ref="cwgk:N00011492">R. S. Evans</persName>, -- County Atty.</p>
 <p>Pettn Citizens of Nicholas to remit fine of Isaah Mullins free man of Color
 <lb/>Nicholas J. P. Ct</p>
 <p><hi rend="str">I can see no reason for remission 
 <lb/>J F R</hi>
-<lb/>&#36;20 &amp; 15 days Impt</p>
+<lb/>$20 &amp; 15 days Impt</p>
 <p>Upon information additional to the pettn. The imprisonment and fifteen dollars of the fine in this case remitted five dollars &amp; cost to be paid</p>
 <p><hi rend="underline">J F Robinson</hi></p>
 <p>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-06-17">June 17. 1863</date></p>
