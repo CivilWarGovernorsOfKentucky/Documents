@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0010"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,15 +66,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>The description of William Gardner Capps he is about 17 years of age weighs about 140 or 50 lbs he is lite complected lite hair very little if any beard. blue eyed. he is about 5 feet 10 inches high. The said Capps is supposed to have gone to N. C.</p>
+   <p>The description of <persName ref="cwgk:N00014757">William Gardner Capps</persName> he is about 17 years of age weighs about 140 or 50 lbs he is lite complected lite hair very little if any beard. blue eyed. he is about 5 feet 10 inches high. The said Capps is supposed to have gone to <placeName ref="cwgk:P00002518">N. C</placeName>.</p>
 <p>B K <unclear>Bithurum</unclear> J R C<pb/></p>
 <p>Offer reward
-<lb/>of &#36;200 -- B. M.<pb/></p>
+<lb/>of $200 -- B. M.<pb/></p>
 <p>To his Excellency
-<lb/>B Magoffin governer of the Commonwealth of Ky</p>
-<p>William gardner Capps having murdered Jessee Burton in the county of Rockcastle state of Ky and having fled from justice this is to petition your Excellency to offer a reward for his apprehension</p>
-<p>B. K. Bethurum J R C<pb/></p>
-<p>&#36;200. Reward<figure type="hr"/>
+<lb/><persName ref="cwgk:N00000258">B Magoffin</persName> governer of the <orgName ref="cwgk:O001025">Commonwealth of Ky</orgName></p>
+<p>William gardner Capps having murdered <persName ref="cwgk:N00014756">Jessee Burton</persName> in the county of <placeName ref="cwgk:P00000906">Rockcastle</placeName> state of <placeName ref="cwgk:P001800">Ky</placeName> and having fled from justice this is to petition your Excellency to offer a reward for his apprehension</p>
+<p><persName ref="cwgk:N00012782">B. K. Bethurum</persName> J R C<pb/></p>
+<p>$200. Reward<figure type="hr"/>
 <lb/>W.G. Capps
 <lb/>off<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1860-12-12">Dec 12 1860</date></p>
   </body>
