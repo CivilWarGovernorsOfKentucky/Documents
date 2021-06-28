@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[Unknown] Hay</title>
+        <title level="a" type="main">Hannah Hays</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
@@ -47,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00002944">
                     <persName>
-                      [Unknown] Hay
-                        (Dry goods dealer, Nelson County, KY)
+                      Hannah Hays
+                        (Nelson County, KY, dry goods dealer)
                     </persName>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
@@ -57,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>New Haven, Kentucky, dry goods dealer. Dry goods dealer in New Haven in 1861.</p>
+        <p>New Haven, Kentucky, merchant. Native of Prussia. Mother of Emilia Hays, Paulina Hays, Frances Hays, and Josephine Hays. Merchant in Nelson County in 1860. Employed Julius Hays as a clerk in New Haven in 1860. Dry goods dealer in New Haven in 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0014.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nelson County, District 2, p. 29.<lb/>
+KYR-0001-004-0014.
 </bibl></ab>
     </back>
 </text>
