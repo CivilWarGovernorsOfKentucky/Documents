@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014047">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James C. Weller</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014047">
+                    <persName>
+                      James C. Weller
+                        (Caldwell County, Kentucky, resident and county clerk)
+                    </persName>
+                        <event type="birth"  when="1798"  cert="medium" ><ab>c1798</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Caldwell County, Kentucky, resident and county clerk. Kentucky native. Father of Ellen Weller and Francis Weller. Married to Zerilda Rucker Weller in Caldwell County, Kentucky, on October 4, 1849. Father of Charles Weller and John Weller. Step father of Nancy J. Rucker Weller and Adele Rucker Weller. Resident in Caldwell County in 1830. Owned one enslaved person in Caldwell County in 1830. Resident in Caldwell County in 1840. Owned two enslaved persons in Caldwell County in 1840. County clerk in Caldwell County in 1850. Owned two enslaved persons in Caldwell County in 1850. County clerk in Caldwell County in 1860. Owned six enslaved persons in Caldwell County in 1860. Hired one enslaved person to J. W. McGowan in Caldwell County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Fifth Manuscript Census of the United States</hi> (1830), Population Schedules, Kentucky, Caldwell County, Eddyville, p. 1-2 of 2 on microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Kentucky, Caldwell County, p. 2-3.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 281B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Caldwell County, District 1.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 114.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Caldwell County, Princeton, p. 218B, 225A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Caldwell County Marriages, Film #000851644.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
