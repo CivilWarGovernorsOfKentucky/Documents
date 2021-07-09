@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00005927">
                     <persName>
                       John Gritton
-                        (Mercer County petitioner)
+                        (Mercer County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1784"  cert="medium" ><ab>c1784</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed onto a petition for a reward to be offered for the capture of the alleged murderer of John J. Gritton.</p>
+        <p>Mercer County, Kentucky, farmer. Kentucky native. Married to Rebecca McKinney Gritton in Mercer County, Kentucky, in April 1806. Father of Mecca &quot;Mickey&quot; Gritton and John J. Gritton. Married to Mary &quot;Polly&quot; Atkins Gritton in Mercer County in October 1855. Farmer in Mercer County in 1850. Farmer in Mercer County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0021.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, District 2, p. 309A-B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, District 2, p. 670.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mercer County, Precinct 4, p. 488B. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mercer County Marriages, Film #000191843.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mercer County Marriages, Film #000191862.
 </bibl></ab>
     </back>
 </text>
