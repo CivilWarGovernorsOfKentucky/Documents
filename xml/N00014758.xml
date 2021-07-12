@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014758">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Claytor</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014758">
+                    <persName>
+                      William Claytor
+                        (Jefferson County, Kentucky, day watchman and policeman)
+                    </persName>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
+                        <event type="death"  when="1889-08-04"  ><ab>1889-08-04</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, day watchman and policeman. Ohio native. Married to Frances Claytor. Father to George Claytor, Edward Claytor, and Clementine Claytor. Night watchman inJefferson County, Kentucky, in 1856. Day watchman in Jefferson County in 1860. Policeman in Jefferson County in 1862. Policeman in Jefferson County in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 8, p. 686.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 11, p. 492B. <lb/>
+&quot;Louisville Daily Courier, 1856-05-08, Official. Board of Alderman,&quot; newspapers.com, https://www.newspapers.com/image/119177885 (accessed June 15, 2021).<lb/>
+&quot;Louisville Daily Journal, 1862-06-21, Official. Board of Alderman,&quot; newspapers.com, https://www.newspapers.com/image/591836567 (accessed June 15, 2021).<lb/>
+<hi rend="italic">Edward&#39;s Annual Director to the Inhabitants. Institutions, Incorporated Companies, Manufacturing Establishments, Business, Business Firms, etc., etc., for the <lb/>
+City of Louisville, 1865-66</hi>, (Louisville, KY: Edwards, Greenough, and Deved, 1865), 247.<lb/>
+&quot;Louisville Daily Courier, 1889-08-05, Death of William Claytor,&quot; newspapers.com, https://www.newspapers.com/image/32451543 (accessed June 15, 2021).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
