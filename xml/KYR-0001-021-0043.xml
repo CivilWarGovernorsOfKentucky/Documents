@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0043"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky <date when="1861-10-06">Oct 6. 1861</date>
-<lb/>To His Excellency the Governor of Kentucky</p>
-<p>I have client by the name of Marshall Woodson a free man of Color who is bail for Robert Ellis a free man of Color who is under an Indictment in the Jefferson Circuit Court for felony Committed in this city he has forfeited his bail and is now believed to be in the State of Ohio</p>
-<p>Woodson disires a requisition on the Governor of Ohio for Ellis I would be glad that you would issue one he wants to relieve himself of his bail bond. I enclose to you a copy of the Indict=<pb/>
-<lb/>ment against Ellis. I would suggest James Lee a former police officer in this city as a suitable person to appoint to recieve him as Woodson has engaged him to do so.</p>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1861-10-06">Oct 6. 1861</date>
+<lb/>To His Excellency the <persName ref="cwgk:N00000258">Governor of Kentucky</persName></p>
+<p>I have client by the name of <persName ref="cwgk:N00004339">Marshall Woodson</persName> a free man of Color who is bail for <persName ref="cwgk:N00004340">Robert Ellis</persName> a free man of Color who is under an Indictment in the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> for felony Committed in this city he has forfeited his bail and is now believed to be in the <placeName ref="cwgk:P001036">State of Ohio</placeName></p>
+<p>Woodson disires a requisition on the <persName ref="cwgk:N00014444">Governor of Ohio</persName> for Ellis I would be glad that you would issue one he wants to relieve himself of his bail bond. I enclose to you a copy of the Indict=<pb/>
+<lb/>ment against Ellis. I would suggest <persName ref="cwgk:N00014804">James Lee</persName> a former police officer in this city as a suitable person to appoint to recieve him as Woodson has engaged him to do so.</p>
 <p>Respectfully
-<lb/>Naths Wolfe<pb/></p>
+<lb/><persName ref="cwgk:N00000219">Naths Wolfe</persName><pb/></p>
 <p>Ohio <figure type="hr"/></p>
 <p>Jefferson Cir. Ct
 <lb/>Felony
