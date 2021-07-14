@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">George D. McKenney</title>
+        <title level="a" type="main">George D. McKinney</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -47,10 +51,12 @@
         <particDesc>
                 <person xml:id="N00005926">
                     <persName>
-                      George D. McKenney
-                        (Mercer County)
+                      George D. McKinney
+                        (Mercer County, Ky, student &amp; pvt 9th Ky Cav USA)
                     </persName>
-                        <event type="birth"  when="1843"  cert="medium" ><ab>c1843</ab></event>
+                        <event type="birth"  when="1843-01-10"  ><ab>1843-01-10</ab></event>
+                        <event type="death"  when="1920-04-21"  ><ab>1920-04-21</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,11 +64,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mercer County, Kentucky, resident. Kentucky native. Resident in Mercer County in 1860. </p>
+        <p>Mercer County, Kentucky, student and soldier. Kentucky native. Son of Hardin McKinney and Ellinor Cole McKinney. Resident of Mercer County in 1850. Served in the 9th Kentucky Volunteer Cavalry Regiment (U.S.A.) as a private from August 22, 1862, to September 11, 1863.  </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer, District 2, p. 129.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, District 2, p. 318B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, District 2, p. 673.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;George David McKinney (1843-1920),&quot; Memorial #177893964, https://www.findagrave.com/memorial/177893964/george-david-mckinney (accessed July 14, 2021).<lb/>
+<hi rend="italic">Indiana Death Certificates, 1900–2011</hi>, Indiana State Department of Health and Vital Records, Indiana Archives and Records Administration, Indianapolis, IN, Certificate #16542.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 245.
 </bibl></ab>
     </back>
 </text>
