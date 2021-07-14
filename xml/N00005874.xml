@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Hogling Gritton</title>
+        <title level="a" type="main">Hoglin Gritton</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00005874">
                     <persName>
-                      Hogling Gritton
-                        (Mercer County)
+                      Hoglin Gritton
+                        (Mercer County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1812"  cert="medium" ><ab>c1812</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition to Thomas E. Bramlette on February 5, 1864, for a reward to be offered for the capture of the alleged murderer of John J. Gritton.</p>
+        <p>Mercer County, Kentucky, farmer. Kentucky native. Married to Martha Elizabeth Riley Gritton in Mercer County, Kentucky, in November 1830. Father of William Gritton, George Gritton, Jackson Gritton, Merritt Gritton, Lucretia Gritton, Elizabeth Gritton, Thomas Gritton, Levi H. Gritton, Calvin Gritton, Martha E. Gritton. Resident of Washington County in 1850. Farmer in Washington County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0021.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Washington County, p.  172B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Washington County, District 1, p. 202.<lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Washington County, Enumeration District 207, p. 393C. <lb/>
+<hi rend="italic">Indiana Death Certificates, 1900–2011</hi>, Indiana State Department of Health and Vital Records, Indiana Archives and Records Administration, Indianapolis, IN, Certificate #155.<lb/>
+<hi rend="italic">Kentucky Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994057, Washington County Deaths, p. 2.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mercer County Marriages, Film #000191852.
 </bibl></ab>
     </back>
 </text>
