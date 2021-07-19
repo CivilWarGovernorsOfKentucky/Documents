@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0059"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,8 @@
  <text>
   <body>
    <p>NO. 22.<figure type="hr"/>
-<lb/>The <hi rend="str">United States,</hi> State of Kentucky
-<lb/>To Louisville and Nashville R R Co, Dr.</p>
+<lb/>The <hi rend="str">United States,</hi> <orgName ref="cwgk:O001025">State of Kentucky
+</orgName><lb/>To <orgName ref="cwgk:O00002377">Louisville and Nashville R R Co</orgName>, Dr.</p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1861">1861</date></cell>
@@ -78,7 +86,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">November.</date></cell>
-	<cell>126 Men From Louisville Ky To Lebanon Ky</cell>
+	<cell>126 Men From <placeName ref="cwgk:P00000337">Louisville Ky</placeName> To <placeName ref="cwgk:P00002553">Lebanon Ky</placeName></cell>
 	<cell>67.</cell>
 	<cell>8442</cell>
 	<cell/>
@@ -96,7 +104,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>6 " " " " " Randolph " </cell>
+	<cell>6 " " " " " <placeName ref="cwgk:P00010860">Randolph</placeName> " </cell>
 	<cell>.60</cell>
 	<cell>360.</cell>
 	<cell/>
@@ -105,7 +113,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>1 " " " " " Bardstown Junct Ky</cell>
+	<cell>1 " " " " " <placeName ref="cwgk:P00010861">Bardstown Junct Ky</placeName></cell>
 	<cell>44.<hi rend="underline"><hi rend="sup">9</hi></hi></cell>
 	<cell>44.<hi rend="underline"><hi rend="sup">9</hi></hi></cell>
 	<cell/>
@@ -114,7 +122,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>3 " " " " " Lebanon Junct "</cell>
+	<cell>3 " " " " " <placeName ref="cwgk:P00010863">Lebanon Junct</placeName> "</cell>
 	<cell>37<hi rend="underline"><hi rend="sup">3</hi></hi></cell>
 	<cell>111.<hi rend="underline"><hi rend="sup">9</hi></hi></cell>
 	<cell/>
@@ -123,7 +131,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>7 " " " " " Elizabethtown "</cell>
+	<cell>7 " " " " " <placeName ref="cwgk:P00002906">Elizabethtown </placeName>"</cell>
 	<cell>50</cell>
 	<cell>350.</cell>
 	<cell/>
@@ -132,7 +140,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>21 " " " " " Chicago " </cell>
+	<cell>21 " " " " " <placeName ref="cwgk:P00010158">Chicago</placeName> " </cell>
 	<cell>12<hi rend="underline"><hi rend="sup">3</hi></hi></cell>
 	<cell>258.<hi rend="underline"><hi rend="sup">3</hi></hi></cell>
 	<cell/>
@@ -141,7 +149,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>6 " " " " " Loretto "</cell>
+	<cell>6 " " " " " <placeName ref="cwgk:P00010864">Loretto</placeName> "</cell>
 	<cell>10.<hi rend="underline"><hi rend="sup">4</hi></hi></cell>
 	<cell>62.<hi rend="underline"><hi rend="sup">4</hi></hi></cell>
 	<cell/>
@@ -150,7 +158,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>6 " " Saint Marys " " Lebanon "</cell>
+	<cell>6 " " <placeName ref="cwgk:P00010865">Saint Marys</placeName> " " Lebanon "</cell>
 	<cell>5<hi rend="underline"><hi rend="sup">8</hi></hi></cell>
 	<cell>34.<hi rend="underline"><hi rend="sup">8</hi></hi></cell>
 	<cell/>
@@ -177,7 +185,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>10 " " New Hope " " " "</cell>
+	<cell>10 " " <placeName ref="cwgk:P00010866">New Hope</placeName> " " " "</cell>
 	<cell>16.<hi rend="underline"><hi rend="sup">9</hi></hi></cell>
 	<cell>169.</cell>
 	<cell/>
@@ -186,7 +194,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>40 " " New Haven " " " "</cell>
+	<cell>40 " " <placeName ref="cwgk:P00003061">New Haven</placeName> " " " "</cell>
 	<cell>22.<hi rend="underline"><hi rend="sup">3</hi></hi></cell>
 	<cell>892.</cell>
 	<cell/>
@@ -195,7 +203,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>5 " " Boston " " " "</cell>
+	<cell>5 " " <placeName ref="cwgk:P00015089">Boston</placeName> " " " "</cell>
 	<cell>32.<hi rend="underline"><hi rend="sup">3</hi></hi></cell>
 	<cell>161.<hi rend="underline"><hi rend="sup">5</hi></hi></cell>
 	<cell/>
@@ -213,7 +221,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>2 " " Belmont Furnace " " " </cell>
+	<cell>2 " " <placeName ref="cwgk:P00010867">Belmont Furnace</placeName> " " " </cell>
 	<cell>41<hi rend="underline"><hi rend="sup">8</hi></hi></cell>
 	<cell>83.<hi rend="underline"><hi rend="sup">6</hi></hi></cell>
 	<cell/>
@@ -231,7 +239,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>33 " " Shepherdsville " " "</cell>
+	<cell>33 " " <placeName ref="cwgk:P00006770">Shepherdsville</placeName> " " "</cell>
 	<cell>48.<hi rend="underline"><hi rend="sup">6</hi></hi></cell>
 	<cell>1603.<hi rend="underline"><hi rend="sup">8</hi></hi></cell>
 	<cell/>
@@ -240,7 +248,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>7 " " Old Deposit " " "</cell>
+	<cell>7 " " <placeName ref="cwgk:P00010889">Old Deposit </placeName>" " "</cell>
 	<cell>58</cell>
 	<cell>406</cell>
 	<cell/>
@@ -249,7 +257,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>3 " " Strawberry Station " " " </cell>
+	<cell>3 " " <placeName ref="cwgk:P00010888">Strawberry Station</placeName> " " " </cell>
 	<cell>61</cell>
 	<cell>183</cell>
 	<cell/>
@@ -258,7 +266,7 @@
 </row>
 <row>
 	<cell><date when="1861-11">"</date></cell>
-	<cell>19 " " Bardstown " " "</cell>
+	<cell>19 " " <placeName ref="cwgk:P00004617">Bardstown </placeName>" " "</cell>
 	<cell>61.<hi rend="underline"><hi rend="sup">9</hi></hi></cell>
 	<cell>1176.<hi rend="underline"><hi rend="sup">1</hi></hi></cell>
 	<cell/>
@@ -270,20 +278,20 @@
 	<cell/>
 	<cell/>
 	<cell><hi rend="underline">20272.</hi><hi rend="underline"><hi rend="sup">7</hi></hi></cell>
-	<cell><hi rend="underline">@ 2&#162;</hi></cell>
-	<cell><hi rend="underline">&#36;405</hi></cell>
+	<cell><hi rend="underline">@ 2¢</hi></cell>
+	<cell><hi rend="underline">$405</hi></cell>
 	<cell><hi rend="underline">45</hi></cell>
 </row>
 </table></p>
 <p>Approved
-<lb/>By order of the Governor
-<lb/>Jno. W Finnell 
-<lb/>Adj Genl Ky Vol</p>
+<lb/>By order of the <persName ref="cwgk:N001004">Governor
+</persName><lb/><persName ref="cwgk:N00000228">Jno. W Finnell </persName>
+<lb/><orgName ref="cwgk:O00000388">Adj Genl <orgName ref="cwgk:O00000870">Ky Vol</orgName></orgName></p>
 <p>I Certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the Public Service.</p>
 <p><gap/> </p>
-<p>Received at Frankfort the <date when="1863-08-28">28<hi rend="sup">th</hi> of Aug 186<hi rend="str">2</hi>3</date>, of J. F. Robinson jr Quartermaster ^Genl Kent<hi rend="underline"><hi rend="sup">y</hi></hi> Vols^ <hi rend="str">U. S. Army,</hi> the sum of Four Hundred and five Dollars, and forty five cents, in full of the above account.
+<p>Received at <placeName ref="cwgk:P00000308">Frankfort</placeName> the <date when="1863-08-28">28<hi rend="sup">th</hi> of Aug 186<hi rend="str">2</hi>3</date>, of <persName ref="cwgk:N00000234">J. F. Robinson jr</persName> Quartermaster ^<orgName ref="cwgk:O00000389">Genl Kent<hi rend="underline"><hi rend="sup">y</hi></hi> Vols</orgName>^ <hi rend="str">U. S. Army,</hi> the sum of Four Hundred and five Dollars, and forty five cents, in full of the above account.
 <lb/>[DUPLICATE.]</p>
-<p><hi rend="underline">Cha</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> R. Griffith</hi>
+<p><persName ref="cwgk:N00010757"><hi rend="underline">Cha</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> R. Griffith</hi></persName>
 <lb/>Treas<hi rend="sup">r</hi><pb/></p>
 <p>23
 <lb/>No. 22.<figure type="hr"/>
