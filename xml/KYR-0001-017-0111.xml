@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0111"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Ohio
-<lb/>Hamilton Co &#125; ss</p>
-<p>W<hi rend="sup">m</hi> P. Mellen of the City of Cincinnati in said county &amp; state, being duly sworn says that he will well and truly execute and perform all his duties as Commissioner of Deeds for the state of Kentucky resident in said city &amp; county in the state of Ohio, according to the best of his skill &amp; judgment</p>
+   <p><orgName ref="cwgk:O00014700">State of Ohio</orgName>
+<lb/><placeName ref="cwgk:P00001873">Hamilton Co</placeName> } ss</p>
+<p><persName ref="cwgk:N00002563">W<hi rend="sup">m</hi> P. Mellen</persName> of the City of <placeName ref="cwgk:P00001208">Cincinnati</placeName> in said county &amp; state, being duly sworn says that he will well and truly execute and perform all his duties as Commissioner of Deeds for the <orgName ref="cwgk:O001025">state of Kentucky</orgName> resident in said city &amp; county in the state of Ohio, according to the best of his skill &amp; judgment</p>
 <p>W<hi rend="sup">m</hi> P. Mellen</p>
 <p>State of Ohio
-<lb/>Hamilton County &#125; ss:</p>
-<p>I Ethan A Brown a Notary Public within and for the county of Hamilton and State of Ohio, and duly commissioned as such do hereby certify, that William. P. Mellen, appeared before me in my office in the city of Cincinnati in said County and State; and being by me duly sworn made oath to the above affidavit and subscribed the same in my presence.</p>
+<lb/>Hamilton County } ss:</p>
+<p>I <persName ref="cwgk:N00014701">Ethan A Brown </persName>a Notary Public within and for the county of Hamilton and State of Ohio, and duly commissioned as such do hereby certify, that William. P. Mellen, appeared before me in my office in the city of Cincinnati in said County and State; and being by me duly sworn made oath to the above affidavit and subscribed the same in my presence.</p>
 <p>In testimony whereof I have hereunto set my hand and affixed my Notarial Seal this <date when="1861-03-16">sixteenth day of March AD 1861.</date></p>
 <p><figure type="seal"><ab>HAMILTON COUNTY OHIO
 <lb/>NOTARIAL SEAL</ab></figure></p>
 <p>Ethan A Brown -- 
 <lb/>Notary Public.
-<lb/>Hamilton County Ohio -- <pb/></p>
+<lb/>Hamilton County <placeName ref="cwgk:P001036">Ohio </placeName>-- <pb/></p>
 <p>Ohio<figure type="hr"/></p>
 <p>Oath of W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Mellen
 <lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
