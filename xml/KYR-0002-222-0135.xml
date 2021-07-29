@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0135"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,8 @@
  <text>
   <body>
    <p>NO. 12.<figure type="hr"/>
-<lb/>The State of Kentucky, 
-<lb/>To J. H. Graham Telgph opr Dr. </p>
+<lb/>The State of <orgName ref="cwgk:O001025">Kentucky</orgName>, 
+<lb/>To <persName ref="cwgk:N00009972">J. H. Graham</persName> Telgph opr Dr. </p>
 <p><table rend="rules">
 <row>
 	<cell>186<gap/>.</cell>
@@ -80,13 +88,13 @@
 	<cell>00</cell>
 </row>
 </table></p>
-<p><note place="left margin">Apprvd
+<p><note>Apprvd
 <lb/> 
-<lb/>J F Robinson</note></p>
+<lb/><persName ref="cwgk:N001004">J F Robinson</persName></note></p>
 <p>I certify that the above account is correct and just; that the articles were furnished as stated; and that they were necessary for the public service. </p>
-<p>Jno W Finnell
-<lb/>adj genl k vols</p>
-<p>Received at <gap/>, the <gap/> of <gap/>, 186<gap/>, <gap/>, Quarter-master Kentucky Volunteers, the sum of One hundred &amp; Eighty dollar Dollars and <gap/> Cents in full of the above account.
+<p><persName ref="cwgk:N00000228">Jno W Finnell</persName>
+<lb/>adj genl <orgName ref="cwgk:O00000870">k vols</orgName></p>
+<p>Received at <gap/>, the <gap/> of <gap/>, 186<gap/>, <gap/>, <orgName ref="cwgk:O00000389">Quarter-master Kentucky Volunteers</orgName>, the sum of One hundred &amp; Eighty dollar Dollars and <gap/> Cents in full of the above account.
 <lb/>(DUPLICATE.)</p>
 <p>J. H. Graham<pb/></p>
 <p>NO. 12.<figure type="hr"/>
