@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0020"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brianna Kirk</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington <date when="1862-11-03">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 62</date>.
-<lb/>Govr. Robinson</p>
-<p>This will be delivered by Mr James W Wallace, a grandson of Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Dudley. He has been engaged under Authority of Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Smith and Gilmore in gathering up horses which had been taken by the rebels. He has already Captured upards of forty and now wishes to go into the Mountains after Captured Cattle. In order to protect him from being treated as a guerrilla in case he should be captured, it is necessary he should have a Commission. He has been &amp; now is a Captain of a Homeguard Company, but it is feared that will not do. I have advised that he get his company to join an state Guard and you can then commission him as a Captain. He is a Captain in<pb/>
+   <p><placeName ref="cwgk:P001002">Lexington</placeName> <date when="1862-11-03">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 62</date>.
+<lb/><persName ref="cwgk:N001004">Govr. Robinson</persName></p>
+<p>This will be delivered by Mr <persName ref="cwgk:N00008527">James W Wallace</persName>, a grandson of <persName ref="cwgk:N00008537">Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Dudley</persName>. He has been engaged under Authority of <persName ref="cwgk:N00000820">Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Smith</persName> and <persName ref="cwgk:N00008539">Gilmore</persName> in gathering up horses which had been taken by the rebels. He has already Captured upards of forty and now wishes to go into the Mountains after Captured Cattle. In order to protect him from being treated as a guerrilla in case he should be captured, it is necessary he should have a Commission. He has been &amp; now is a Captain of a <orgName ref="cwgk:O00000902">Homeguard Company</orgName>, but it is feared that will not do. I have advised that he get his company to join an <orgName ref="cwgk:O00000303">state Guard</orgName> and you can then commission him as a Captain. He is a Captain in<pb/>
 <lb/>character and has done good Service to the Country. If you can give him such Commission as will cause him to be treated as a prisoner of war in the event he is made prisoner, I hope it will be done</p>
 <p>Yours
-<lb/>R A Buckner<pb/></p>
+<lb/><persName ref="cwgk:N00008329">R A Buckner</persName><pb/></p>
 <p>R A Buckner
 <lb/>Lexington Ky.
 <lb/><date when="1862-11-03">Nov. 3<hi rend="sup">rd</hi>/62</date><figure type="hr"/></p>
 <p>Buckner R. A.<figure type="hr"/></p>
 <p>Conc<hi rend="underline"><hi rend="sup">g</hi></hi> James W. Wallace.<figure type="hr"/></p>
 <p>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Robinson
-<lb/>Frankfort
+<lb/><placeName ref="cwgk:P00000308">Frankfort
 <lb/>Ky.
-<lb/>Mr Wallace</p>
+</placeName><lb/>Mr Wallace</p>
 <p>Done</p>
   </body>
  </text>
