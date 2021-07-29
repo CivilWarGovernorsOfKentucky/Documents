@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1373"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,35 +70,35 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Thomas E. Bramlette
-<lb/>Governor of the commonwealth of Kentucky--</p>
-<p>The undersigned Nicholas Simon a German, and resident of <hi rend="str">of</hi> Louisville, and having a family consisting of a wife and four children all residing with him and dependent upon him for a support, was fined Fifty Dollars at the late Term of the city Court of Louisville for an alleged assault &amp; Battery upon one Philip Follmer also of this city -- </p>
+   <p>To His Excellency <persName ref="cwgk:N001000">Thomas E. Bramlette
+</persName><lb/>Governor of the <orgName ref="cwgk:O001025">commonwealth of Kentucky</orgName>--</p>
+<p>The undersigned <persName ref="cwgk:N00009974">Nicholas Simon</persName> a German, and resident of <hi rend="str">of</hi> <placeName ref="cwgk:P00000337">Louisville</placeName>, and having a family consisting of a <persName ref="cwgk:N00009975">wife</persName> and four children all residing with him and dependent upon him for a support, was fined Fifty Dollars at the late Term of the <orgName ref="cwgk:O001838">city Court of Louisville </orgName>for an alleged assault &amp; Battery upon one <persName ref="cwgk:N00009978">Philip Follmer</persName> also of this city -- </p>
 <p>Folmer made an insulting remark to petitioner in regard <hi rend="underline">to</hi> <hi rend="underline">a</hi> <hi rend="underline">neice</hi> <hi rend="underline">of</hi> <hi rend="underline">said</hi> <hi rend="underline">Petitioner</hi>, said remark being a very gross insult to Petitioner, and said remark wholly uncalled-for, and unjustifiable-- Petitioner was <hi rend="underline">constrained</hi> to resent it, and he<hi rend="str">d</hi> did curse said Folmer-- Folmer retaliated and Petitioner jerked Folmer to the ground and in the scuffle bit the forefinger of said Follmer-- Folmer, was the chief witness and had the testimony pretty much his own way and your Petitioner was fined in the sum of Fifty Dollars as aforesaid -- He relies on Executive clemency and prays a remission of said fine -- </p>
 <p><hi rend="underline">Nicholas Simon</hi><pb/></p>
 <p>The persons who have signed the foregoing petition are the neighbors of <hi rend="str">the</hi> Mr Simons &amp; the statements Contained in the petition, are about as the facts occured</p>
-<p>W G, Reasor atto</p>
+<p><persName ref="cwgk:N002029">W G, Reasor</persName> atto</p>
 <p>Louisville City Ct
 <lb/>vs
 <lb/>Nicholas Simon
-<lb/>&#36;50,
+<lb/>$50,
 <lb/><date when="1865-02-25">25<hi rend="sup">th</hi> Feby/65</date></p>
 <p>Remit</p>
 <p>sent for fee<pb/></p>
 <p>We the undersigned are friends and acquaintances of Nicholas Simon the Petitioner and pray a remission of said fine -- <date when="1864-12-20">Decr. 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1864 -- </date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Fred. Frishe
-<lb/>John Connell J P J C
-<lb/>Rev. Lewis Abarth pastor of St. Boniface's church
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00002420">Fred. Frishe
+</persName><lb/><persName ref="cwgk:N00004842">John Connell</persName> J P J C
+<lb/>Rev. <persName ref="cwgk:N00009987">Lewis Abarth </persName>pastor of St. Boniface's church
 <lb/>Revd Bax pastr
 <lb/>S<hi rend="sup">t</hi> John's
-<lb/>Geo. P. M<hi rend="sup">c</hi>Faddin, Lt 2" Ky,
-<lb/>Rev. L. Streben
-<lb/>W Bax
-<lb/>Leopold Schuster
-<lb/>B Stoll
+<lb/>Geo. P. M<hi rend="sup">c</hi>Faddin, Lt <orgName ref="cwgk:O00009977">2" Ky</orgName>,
+<lb/>Rev. <persName ref="cwgk:N00010009">L. Streben</persName>
+<lb/><persName ref="cwgk:N00009988">W Bax
+</persName><lb/><persName ref="cwgk:N00009979">Leopold Schuster</persName>
+<lb/><persName ref="cwgk:N00010006">B Stoll</persName>
 <lb/>Wm J. Slee
-<lb/>Thomas Lynch
+<lb/><persName ref="cwgk:N00009984">Thomas Lynch</persName>
 <lb/>W-- O.Connor
-<lb/>Gilder C Craig
+<lb/><persName ref="cwgk:N00010012">Gilder</persName> C <persName ref="cwgk:N00010013">Craig</persName>
 <lb/>Joseph <unclear>McKinley</unclear>
 <lb/>Philip Fisher
 <lb/>H. Bohmer
@@ -101,8 +109,8 @@
 <lb/>Ludwig Weiss
 <lb/>C Hurst
 <lb/>John Block
-<lb/>Philipp A Colter,
-<lb/>G Schweiss Bro
+<lb/><persName ref="cwgk:N00010021">Philipp A Colter</persName>,
+<lb/><persName ref="cwgk:N00010024">G Schweiss</persName> Bro
 <lb/><cb n="2"/>J Hackett
 <lb/>M Wunderlin
 <lb/>F. H. Gohmann
