@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0032"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Lucas R. Somers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -66,23 +74,23 @@
    <p><note place="header">X</note>
 <lb/><date when="1863-10-23">Oct. 23<hi rend="underline"><hi rend="sup">d</hi></hi></date>
 <lb/>H<hi rend="sup">d</hi> Q<hi rend="underline"><hi rend="sup">rs</hi></hi> Camp
-<lb/>Near Grapevine
-<lb/>Perry Co Ky <date when="1863-10-12">Oct 12th 1863</date>
-<lb/>Governor
+<lb/>Near <placeName ref="cwgk:P00011527">Grapevine</placeName>
+<lb/><placeName ref="cwgk:P00001755">Perry Co Ky</placeName> <date when="1863-10-12">Oct 12th 1863</date>
+<lb/><persName ref="cwgk:N001000">Governor</persName>
 <lb/>To his Excelency.
 <lb/>Sir</p>
-<p>The loyal Men of the County of Letcher are anxious to comply with your ^order^ in raiseing the last call of Volunteers in the State of Kentucky But owing ^to^ the invasion in the County of Letcher By the Guarrillers there can not be a Recruiteing Station established <hi rend="str">in</hi> there</p>
+<p>The loyal Men of the <placeName ref="cwgk:P00005320">County of Letcher</placeName> are anxious to comply with your ^order^ in raiseing the last call of Volunteers in the State of Kentucky But owing ^to^ the invasion in the County of Letcher By the Guarrillers there can not be a Recruiteing Station established <hi rend="str">in</hi> there</p>
 <p>If the time has not yet expired for for this call the Men of that County asks Permission to recruit a Company and establish a Recruiting Station near my H<hi rend="sup">d</hi> Q<hi rend="underline"><hi rend="sup">rs</hi></hi> in the co of Perry. Letcher County has not nor can be enrolled on account of Guarrillers <hi rend="str">u</hi> unless the federal forces goes and enforces the enrollment of that County</p>
-<p>J. C. Eversole
+<p><persName ref="cwgk:N00008574">J. C. Eversole</persName>
 <lb/>Major comdg 3<hi rend="sup">d</hi> Batt
-<lb/>14th Ky vol Cav<pb/></p>
+<lb/><orgName ref="cwgk:O00005976">14th Ky vol Cav</orgName><pb/></p>
 <p>Ans. that the exposed situation of this County -- precludes the idea of organizing State guards within it</p>
-<p><hi rend="underline">Boyle</hi></p>
+<p><persName ref="cwgk:N00000879"><hi><persName ref="cwgk:N00000879">Boyle</persName></hi></persName></p>
 <p>Letcher Co<hi rend="underline"><hi rend="sup">y</hi></hi> <date when="1863-10-12">Oct 12/63</date><figure type="hr"/>
 <lb/>J. C. Eversole
 <lb/>Maj 14 Ky Cav<figure type="hr"/></p>
 <p>Find it impossible to organize a company in this Co<hi rend="underline"><hi rend="sup">y</hi></hi> can they Establish a camp in Perry Co near my Hd Qrs for said Co<hi rend="sup">y</hi><figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> I. G. O. <date when="1863-10-15">Oct. 15, 1863</date></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000920">I. G. O.</orgName> <date when="1863-10-15">Oct. 15, 1863</date></p>
   </body>
  </text>
 </TEI>
