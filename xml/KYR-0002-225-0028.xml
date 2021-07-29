@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0028"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Christina Adkins</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,20 +72,20 @@
  <text>
   <body>
    <p><figure type="seal"><ab>INDIANA STATE SEAL</ab></figure>
-<lb/>STATE OF INDIANA
-<lb/>Executive Department.
-<lb/>Indianapolis, <date when="1863-06-05">June 5 1863</date>
-<lb/>Governor,</p>
-<p>I write you at the request of some friends of Major Jno. W. Jordan who is now engaged in organizing a regiment of Kentucky Vols. at Covington Ky. He was Major of the 57<hi rend="sup">th</hi> Ind<hi rend="underline"><hi rend="sup">a</hi></hi> for over a year, and is a good drill officer as well as an excellent disciplinarian, and was very popular in the regiment, they having made him a valuable present just previous to his resignation</p>
+<lb/><orgName ref="cwgk:O00002499">STATE OF INDIANA
+</orgName><lb/><orgName ref="cwgk:O00008515">Executive Department</orgName>.
+<lb/><placeName ref="cwgk:P001820">Indianapolis</placeName>, <date when="1863-06-05">June 5 1863</date>
+<lb/><persName ref="cwgk:N001004">Governor</persName>,</p>
+<p>I write you at the request of some friends of Major <persName ref="cwgk:N00008513">Jno. W. Jordan</persName> who is now engaged in organizing a regiment of <orgName ref="cwgk:O00000870">Kentucky Vols</orgName>. at <placeName ref="cwgk:P00000936">Covington Ky</placeName>. He was Major of the <orgName ref="cwgk:O00008514">57<hi rend="sup">th</hi> Ind<hi rend="underline"><hi rend="sup">a</hi></hi></orgName> for over a year, and is a good drill officer as well as an excellent disciplinarian, and was very popular in the regiment, they having made him a valuable present just previous to his resignation</p>
 <p>I have the honor to be 
 <lb/>Very Respectfully
 <lb/><note place="footer"><hi rend="underline">over</hi></note><pb/>
 <lb/>Your Ob<hi rend="sup">t</hi> Servt
-<lb/>O, P, Morton,
-<lb/>Gov, of Indiana</p>
+<lb/><persName ref="cwgk:N00005190">O, P, Morton,
+</persName><lb/>Gov, of Indiana</p>
 <p>Gov. Robinson
-<lb/>Frankfort
-<lb/>Ky.<pb/></p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort
+<lb/>Ky.</placeName><pb/></p>
 <p>Ex. Dept Indianapolis
 <lb/><date when="1863-06-05">June 5<hi rend="underline"><hi rend="sup">th</hi></hi>/63</date><figure type="hr"/>
 <lb/>Morton O. P.
