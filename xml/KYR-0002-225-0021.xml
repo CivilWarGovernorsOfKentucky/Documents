@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0021"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brianna Kirk</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,27 +71,27 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington Ky. <date when="1862-11-04">Nov. 4. 1862.</date>
+   <p><placeName ref="cwgk:P001002">Lexington Ky</placeName>. <date when="1862-11-04">Nov. 4. 1862.</date>
 <lb/>His Ex.
-<lb/>Gov. J. F. Robinson
-<lb/>Frankfort
+<lb/><persName ref="cwgk:N001004">Gov. J. F. Robinson</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>
 <lb/>Sir,</p>
-<p>My young kinsman, J. Wm. Wallis, (whose Father resides in this County,) has rendered himself greatly offensive to the rebellious &amp; traitorous element in &amp; about his neighborhood, for his activity, skill, daring &amp; management, at the head of some some forty or fifty of his young Companions, in ferretting out &amp; arresting rebels, capturing hordes, <hi rend="str">m</hi>&amp;C. belonging to the U. States. He &amp; his Father &amp; Brother have had to lie concealed in the mountainous portion of the state, for two months. Efforts have been made by various parties of rebel troops, to capture him &amp; his brave little volunteer partisan band of loyal young men. On his last trip to the hilly country, he discovered a drove of some 500 head of Cattle, left by the rebels, in their hasty retreat. </p>
+<p>My young kinsman, <persName ref="cwgk:N00008527">J. Wm. Wallis</persName>, (whose <persName ref="cwgk:N00008529">Father</persName> resides in this <placeName ref="cwgk:P001031">County</placeName>,) has rendered himself greatly offensive to the rebellious &amp; traitorous element in &amp; about his neighborhood, for his activity, skill, daring &amp; management, at the head of some some forty or fifty of his young Companions, in ferretting out &amp; arresting rebels, capturing hordes, <hi rend="str">m</hi>&amp;C. belonging to the <orgName ref="cwgk:O00001186">U. States</orgName>. He &amp; his Father &amp; <persName ref="cwgk:N00011366">Brother</persName> have had to lie concealed in the mountainous portion of the state, for two months. Efforts have been made by various parties of rebel troops, to capture him &amp; his brave little volunteer partisan band of loyal young men. On his last trip to the hilly country, he discovered a drove of some 500 head of Cattle, left by the rebels, in their hasty retreat. </p>
 <p>His friends, in common with myself, <hi rend="str">&amp;</hi>advise him <hi rend="underline">not</hi> <hi rend="underline">to</hi> <hi rend="underline">put</hi> <hi rend="underline">a hand</hi> <hi rend="underline">to the capture of these</hi> <hi rend="underline">cattle</hi>, nor to take any other active measures, until he had a commission in his pockets, <hi rend="underline">which</hi> <hi rend="underline">will</hi> <hi rend="underline">render</hi> <hi rend="underline">his</hi> <hi rend="underline">acts</hi> <hi rend="underline">strictly</hi> <hi rend="underline">legal</hi> <hi rend="underline">&amp;</hi> <hi rend="underline">Military</hi>. Already threats are made against him &amp; band, as marauders, not being Employed by our Government. His Father is Tho<hi rend="underline"><hi rend="sup">s</hi></hi> M. Wallis of this County, a loyal gentle<pb/>
-<lb/>and the son, J. Wm. is an Educated youth, of about 21 years of age, brave, rapid in movements, fertile in invention, &amp; Seems to possess many of the qualities of his Kinsman, (&amp; Cousin) the late Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Z. Taylor,</p>
+<lb/>and the son, J. Wm. is an Educated youth, of about 21 years of age, brave, rapid in movements, fertile in invention, &amp; Seems to possess many of the qualities of his Kinsman, (&amp; Cousin) the late <persName ref="cwgk:N00008535">Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Z. Taylor</persName>,</p>
 <p>This paper is to solicit for him &amp; his officers, &amp; men, a <hi rend="underline">legal</hi> <hi rend="underline">recognition</hi> from you, so as to place him &amp; them ^&amp; their acts^ within the pale of legalized Warfare. He and his men are mounted on the best horses of their own, &amp; prefer to remain in the State, (&amp; Extended neighborhood, if possible) so that their services may be for their benefit.</p>
-<p>Judge Buckner can tell you more of him. If a commission as Capt of a Company of mounted Rangers can not be given by you, Would an admittance on your staff, with a Commission of authority as such from you, render his acts legal &amp; acceptable. Should a Commission to him &amp; his officers be granted, please allow me to ask the favor to suggest to you, that the Commissions be ante-dated, say to the <date when="1862-08-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> of August<hi rend="str">u</hi> ^last,^</date> about which time Morgan first came in, so as to render his acts legal from that, date. -- He is jeopardizing his Safety, whilst acting by order of any of our Pro<hi rend="str">s</hi>vost Officers, -- I am happy to say that, Capt Wallis informs me that Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Gilmore fully Endorses the <unclear/> which would require a Commission for him to act.<pb/></p>
+<p><persName ref="cwgk:N00008329">Judge Buckner</persName> can tell you more of him. If a commission as Capt of a Company of mounted Rangers can not be given by you, Would an admittance on your staff, with a Commission of authority as such from you, render his acts legal &amp; acceptable. Should a Commission to him &amp; his officers be granted, please allow me to ask the favor to suggest to you, that the Commissions be ante-dated, say to the <date when="1862-08-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> of August<hi rend="str">u</hi> ^last,^</date> about which time <persName ref="cwgk:N00004777">Morgan</persName> first came in, so as to render his acts legal from that, date. -- He is jeopardizing his Safety, whilst acting by order of any of our Pro<hi rend="str">s</hi>vost Officers, -- I am happy to say that, Capt Wallis informs me that <persName ref="cwgk:N00008539">Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Gilmore</persName> fully Endorses the <unclear/> which would require a Commission for him to act.<pb/></p>
 <p>Young Capt J. Wm. Wallis will present This letter in person to you.</p>
 <p>With high regard
 <lb/>Very truly
-<lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> D. M'Cullough.</p>
+<lb/><persName ref="cwgk:N00008540">Sam<hi rend="underline"><hi rend="sup">l</hi></hi> D. M'Cullough</persName>.</p>
 <p>we are <unclear>naghbors</unclear> of Capt J Wm,, Wallis and in dose the above in full</p>
-<p>Jacob Hughes
-<lb/>Saml T Hayes
-<lb/>Garrett Watts</p>
+<p><persName ref="cwgk:N00008531">Jacob Hughes
+</persName><lb/><persName ref="cwgk:N00008532">Saml T Hayes</persName>
+<lb/><persName ref="cwgk:N00008530">Garrett Watts</persName></p>
 <p>c</p>
 <p>I believe and therefore concur in the foregoing statement of facts -- and consequently I should be pleased with Your giving Young Wallace any proper facility in Your power for authorising the legal effectation of his designated purposes -- </p>
-<p>G Robertson
+<p><persName ref="cwgk:N00008538">G Robertson</persName>
 <lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Robinson<pb/></p>
 <p>Lexington.
 <lb/><date when="1862-11-04">Nov. 4<hi rend="underline"><hi rend="sup">th</hi></hi>/62.</date><figure type="hr"/>
@@ -94,7 +102,7 @@
 <lb/>James F. Robinson
 <lb/>Gov. Ky.
 <lb/>Frankfort.</p>
-<p>Recommendation of G. W. Wallace for State Guard Capt</p>
+<p>Recommendation of G. W. Wallace for <orgName ref="cwgk:O00000303">State Guard</orgName> Capt</p>
 <p>G. Robertson</p>
   </body>
  </text>
