@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0027"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>James Bartek</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Christina Adkins</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Catlettsburg Ky
-<lb/><date when="1863-05-01">May 1st 1863</date>
+   <p><placeName ref="cwgk:P00001173">Catlettsburg Ky
+</placeName><lb/><date when="1863-05-01">May 1st 1863</date>
 <lb/>His Excellency
-<lb/>J. F. Robinson
+<lb/><persName ref="cwgk:N001004">J. F. Robinson</persName>
 <lb/>Governor of Ky
 <lb/>Sir</p>
-<p>I have a proposition to make to your honor in regard to the raising of troops for Ky service. My plan is this. As there is a probability of the conscription act being carried into effect in Ky and before I would allow myself to be drafted I would volunteer and such is the case of a large number of my fellow citizens. I want to see the mane of Kentucky come out at the end of the war without the name of one of her citizens being enrolled as a drafted man. I wish to raise a Battallion of not less than 500 men which shall be independent of all branches of the service for the purpose of ridding the North eastern portion of our state<pb/>
-<lb/>of the Guerrillas and Thieves which infest it. There are a great number of men in this and adjoinging counties who would be willing to enter the service for such a purpose who would not be willing to enter the regular army. The Battallion to be mounted and to serve Twelve months. I refer you to reccommendations in my favor now in your possession from Generals Siegel Milroy &amp; Schenck concerning my ability. I shall be pleased to receive an answer at your earliest convenience.</p>
+<p>I have a proposition to make to your honor in regard to the raising of troops for <placeName ref="cwgk:P001800">Ky</placeName> service. My plan is this. As there is a probability of the conscription act being carried into effect in Ky and before I would allow myself to be drafted I would volunteer and such is the case of a large number of my fellow citizens. I want to see the mane of Kentucky come out at the end of the war without the name of one of her citizens being enrolled as a drafted man. I wish to raise a Battallion of not less than 500 men which shall be independent of all branches of the service for the purpose of ridding the North eastern portion of our state<pb/>
+<lb/>of the Guerrillas and Thieves which infest it. There are a great number of men in this and adjoinging counties who would be willing to enter the service for such a purpose who would not be willing to enter the regular army. The Battallion to be mounted and to serve Twelve months. I refer you to reccommendations in my favor now in your possession from Generals <persName ref="cwgk:N00008498">Siegel</persName> <persName ref="cwgk:N00008499">Milroy</persName> &amp; <persName ref="cwgk:N00008500">Schenck</persName> concerning my ability. I shall be pleased to receive an answer at your earliest convenience.</p>
 <p>I remain your most
 <lb/>obedient servant
-<lb/>T. J. Ewing Ex Capt
-<lb/>Co. G. 5" Regt V<hi rend="sup">a</hi> Vol Infantry<pb/></p>
+<lb/><persName ref="cwgk:N00008501">T. J. Ewing</persName> Ex Capt
+<lb/><orgName ref="cwgk:O00008509">Co. G. 5" Regt V<hi rend="sup">a</hi> Vol Infantry</orgName><pb/></p>
 <p>T. J. Ewing
 <lb/>Capt. 5<hi rend="underline"><hi rend="sup">th</hi></hi> Va I.<figure type="hr"/>
 <lb/>Cattlettsburgh Ky<figure type="hr"/>
