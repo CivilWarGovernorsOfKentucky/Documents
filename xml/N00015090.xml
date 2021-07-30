@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015090">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Addison Smith</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015090">
+                    <persName>
+                      John Addison Smith
+                        (Washington County, District of Columbia, circuit court clerk)
+                    </persName>
+                        <event type="birth"  when="1792-06-27"  ><ab>1792-06-27</ab></event>
+                        <event type="death"  when="1868-07-08"  ><ab>1868-07-08</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Washington County, District of Columbia, circuit court clerk. Maryland native. Married to Sally Smith. Father to Rebecca Smith, Molly Smith, Samuel Smith, Sally Smith, Richard Smith, Clementine Smith, and Anna Smith. Washington County Circuit Court clerk in Washington County, District of Columbia from 1848 to 1863. Owned eleven enslaved persons in Washington County in 1850. Farmer and court clerk in Washington County in 1860. Employed Mary Flemming as a cook, Louis Drebles as a laborer, Eliza Drebles and Dervinda Drebles as Washerwomen, Martha Drebles as a cook, and John Mathews, Moses Mathews, and Albert Mathews as servants in Washington County in 1860. Owned twenty-two enslaved persons in Washington County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, District of Columbia, Washington County, Washington, p. 257B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, District of Columbia, Washington County, Washington, p. 791.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, District of Columbia, Washington County, Washington, Ward 4, p. 99.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, District of Columbia, Washington County, Washington, Ward 4, p. 49A-B.<lb/>
+&quot;Death of John Smith,&quot; <hi rend="italic">Evening Star</hi>, (District of Columbia), Jul. 9, 1868, p. 4.<lb/>
+&quot;John Addison Smith (1792-1868),&quot; Find A Grave, Memorial #136751081, http://www.findagrave.com/memorial/136751081(accessed July 19, 2021).<lb/>
+&quot;William Brent (1775-1848),&quot; Find A Grave, Memorial #54479567, http://www.findagrave.com/memorial/54479567 (accessed July 19, 2021).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
