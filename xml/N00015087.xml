@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015087">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Quentin McAdam</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015087">
+                    <persName>
+                      Quentin McAdam
+                        (New York County, New York, attorney and  notary public)
+                    </persName>
+                        <event type="birth"  when="1823-12-07"  ><ab>1823-12-07</ab></event>
+                        <event type="death"  when="1898-08-24"  ><ab>1898-08-24</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>New York County, New York, attorney and  notary public. Native of Scotland. Married to Mary Booth McAdam. Father to James B. McAdam and Margaret A. McAdam. Attorney in Kings County, New York, in 1850. Attorney in New York City in 1855. Notary public in New York City in 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, New York, Kings County, Williamsburg, p. 153B.<lb/>
+<hi rend="italic">Census of the state of New York, for 1855</hi>, Population Schedules, New York County, New York City, Ninth Ward, Second Election District.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, New York, New York County, New York City, Ninth Ward, Fourth District, p. 141A.<lb/>
+<hi rend="italic">New York, Wills and Probate Records, 1798-1901</hi>, New York County, District, and Probate Courts, Rockland County Surrogate Records, 1898-1900, p. 23.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Quentin McAdam (1823-1898),&quot; Memorial #73024464, http://www.findagrave.com/memorial/73024464 (accessed July 19, 2021).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
