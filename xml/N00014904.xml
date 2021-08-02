@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014904">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Evans Carson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014904">
+                    <persName>
+                      John Evans Carson
+                        (Lincoln County, Kentucky, farmer, hotel keeper, police judge, and home guard corporal (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1806-03-28"  ><ab>1806-03-28</ab></event>
+                        <event type="death"  when="1876-04-23"  ><ab>1876-04-23</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lincoln County, Kentucky, farmer, hotelkeeper, police judge, and soldier. Kentucky native. Married to Marinda Fish Carson. Father of Sarah Carson, James Carson, Joseph Carson, John N. Carson, Mary &quot;Polly&quot; A. Carson, Zachariah T. Carson, George Carson, Thomas B. Carson, and John E. Carson, Jr. Married to Almina Miller Carson. Father of David Carson and Hyatt Fish Carson. Stepfather of William Miller and Belle Miller. Farmer in Rockcastle County, Kentucky, in 1850. Owned one enslaved person in Rockcastle County in 1850. Hotelkeeper in Lincoln County in 1860. Employed William Parks as a laborer in Lincoln County in 1860. Owned two enslaved persons in Lincoln County in 1860. Police judge of Crab Orchard in Lincoln County in 1861. Served in the Rockcastle and Lincoln County Home Guards (U.S.A.) as a corporal from May 7, 1862, to July 7, 1862. Police judge of Crab Orchard in Lincoln County in 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Rockcastle County, Southern District, p. 162B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lincoln County, District 2, p. 288B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Rockcastle County, Southern District, p. 519.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lincoln County, Crab Orchard, p. 56-57.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Lincoln County, Crab Orchard, p. 347B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994053, Rockcastle County Deaths. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 398.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;John Evans Carson (1806-1876),&quot; Memorial #44504491, http://www.findagrave.com/memorial/44504491 (accessed June 29, 2021).<lb/>
+KYR-0001-017-0112.<lb/>
+KYR-0001-007-0221.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
