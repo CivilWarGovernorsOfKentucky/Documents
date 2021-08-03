@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015079">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry Rosenbaum</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015079">
+                    <persName>
+                      Henry Rosenbaum
+                        (Posey County, Indiana, resident)
+                    </persName>
+                        <event type="birth"  when="1780"  cert="medium" ><ab>c1780</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Posey County, Indiana, resident. Native of Prussia. Married to Grace Rosenbaum. Father of Moses Rosenbaum, Daniel Rosenbaum, Sarah Rosenbaum, and Henrietta Rosenbaum Cohn. Resident of Posey County, Indiana, in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Posey County, Mt. Vernon, p. 659.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Posey County, Mt. Vernon, p. 262 B.<lb/>
+<hi rend="italic">Indiana Death Certificates, 1900–2011</hi>, Indiana State Department of Health and Vital Records, Indiana Archives and Records Administration, Indianapolis, IN, Certificate #260.<lb/>
+<hi rend="italic">Indiana Death Certificates, 1900–2011</hi>, Indiana State Department of Health and Vital Records, Indiana Archives and Records Administration, Indianapolis, IN, Certificate #321.<lb/>
+<hi rend="italic">Indiana Death Certificates, 1900–2011</hi>, Indiana State Department of Health and Vital Records, Indiana Archives and Records Administration, Indianapolis, IN, Certificate #209.<lb/>
+<hi rend="italic">Indiana Death Certificates, 1900–2011</hi>, Indiana State Department of Health and Vital Records, Indiana Archives and Records Administration, Indianapolis, IN, Certificate #30828.<lb/>
+KYR-0001-020-1287
+</bibl></ab>
+    </back>
+</text>
+</TEI>
