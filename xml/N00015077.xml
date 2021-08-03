@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015077">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Ashbel Parsons Willard</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015077">
+                    <persName>
+                      Ashbel Parsons Willard
+                        (Floyd County, Indiana, student, attorney, representative, lieutenant governor, and Governor of Indiana )
+                    </persName>
+                        <event type="birth"  when="1820-10-31"  ><ab>1820-10-31</ab></event>
+                        <event type="death"  when="1860-10-04"  ><ab>1860-10-04</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Floyd County, Indiana, attorney, representative, lieutenant governor, and governor. Oneida County, New York, native. Son of Erastus Willard and Sarah Parsons Willard. Married to Caroline C. Cook in Middlesex County, Connecticut, on May 27, 1847. Father of James H. Willard and Carrie C. Willard. Law student at Hamilton College in Oneida County from 1840 to 1842. Attorney in Floyd County, Indiana, in 1850. Member of the Indiana House of Representatives from 1850 to 1852. Lieutenant Governor of Indiana from 1853 to 1857. Governor of Indiana from 1857 to 1860. Employed Sarah Backus and Thomas Pomers as servants in Indianapolis in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Floyd County, New Albany, p. 329B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Marion County, Indianapolis Ward 3, p. 83.<lb/>
+<hi rend="italic">White, Lorraine Cook, ed. The Barbour Collection of Connecticut Town Vital Records. Vol. 1-55. Baltimore, MD, USA: Genealogical Publishing Co., 1994-2002: Haddam Vital Records, p. 95.<lb/>
+_“Gov. Ashbel Parsons Willard.” National Governors Association. https://www.nga.org/governor/ashbel-parsons-willard/ (Accessed July 16, 2021).<lb/>
+_Catalogue of the Alpha Delta Pi Society</hi> (New Haven: CT, B. L. Hamlen, 1840), p.15. <lb/>
+_Alpha Delta Pi Catalogue. Hamilton College Chapter. (Providence: RI, Brunonian Chapter, 1857), p. 8.<lb/>
+_Pope, Charles Henry, ed., Joseph Willard and Charles Wilkes Walker. Willard Genealogy. (Boston: MA, The Willard Family Association, 1915), p. 136.<lb/>
+&quot;Ashbel Parsons Willard, Sr. (1820-1860),&quot; Find A Grave, Memorial #8516, accessed July 16, 2021, http://www.findagrave.com/memorial/8516.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
