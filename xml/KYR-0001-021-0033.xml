@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0033"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,25 +71,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>E. P. CAMPBELL,
+   <p><persName ref="cwgk:N00002633">E. P. CAMPBELL</persName>,
 <lb/>ATTORNEY AT LAW,
-<lb/>PRINCETON, KY.
+<lb/><placeName ref="cwgk:P00002273">PRINCETON</placeName>, <placeName ref="cwgk:P001800">KY</placeName>.
 <lb/>Princeton, KY., <date when="1861-06-16">June 16<hi rend="underline">"</hi> 1861</date>
-<lb/>Hon B Magoffin
-<lb/>Frankfort Kenty
+<lb/>Hon <persName ref="cwgk:N00000258">B Magoffin</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Kenty
 <lb/>Dr Sir</p>
-<p>At the <date when="1861-06">June Term</date> of the Caldwell -- Circuit Court Wesley a Slave the property of the Estate of Jesse Williams Decd -- was tried on an Indictment charged with the Murder of Edmund Stevens and was found guilty by the Jury -- the evidence on the trial disclosed that Jesse Williams Decd was a violent reckless and desperate man and he entertained a grudge and hatred towards Edmund Stevens the Decd -- and Stevens was on the morning of the <date when="1859-05-25">25" day of May 1859</date> shot down while engaged at work on his farm -- and suspicion rested on Williams and his family as the persons guilty of the Murder of Stevens and after circumstances led to the detection and arrest of the Negro man Wesley<pb/>
-<lb/>and after Wesley was arrested and committed to <hi rend="underline">Jail</hi> he confessed to the Jailor and other persons that he did shoot and kill Stevens but he did it by the command and coercion of his master Jesse Williams Decd -- and stated that Williams was standing by him when he shot Stevens and -- One of the Comth witnesses to whom Wesley confessed the <hi rend="underline">murder</hi> on the same day of the Killing of Stevens -- stated that about a week before Stevens -- was killed he heard Jesse Williams tell Wesley that if he Wesley did not Kill Stevens he Williams would cut his back all to pieces -- and stated that he was present several times when Williams started Wesley out with a gun to Kill Stevens and heard Williams tell Wesley to Kill said Stevens -- We are satisfied from the evidence that Wesley Killed Stevens through <hi rend="underline">fear</hi> compulsion and constraint of his Master Jesse Williams and from no wish or will of his own and so -- <pb/>
-<lb/>stated in his confession to the Jailor and other -- we are of the Opinion -- that Wesley case demands the interposition of executive clemency in his behalf -- And we are equally opposed to his being granted a full pardon so as to let him go back into the possession of the family of Jesse Williams Decd -- We request and hereby urge of Your excellency to commute his punishment from death to confinement in the Penitentiary for life</p>
+<p>At the <date when="1861-06">June Term</date> of the <orgName ref="cwgk:O00000363">Caldwell -- Circuit Court</orgName> <persName ref="cwgk:N00014506">Wesley</persName> a Slave the property of the Estate of <persName ref="cwgk:N00010696">Jesse Williams</persName> Decd -- was tried on an Indictment charged with the Murder of <persName ref="cwgk:N00014521">Edmund Stevens</persName> and was found guilty by the Jury -- the evidence on the trial disclosed that Jesse Williams Decd was a violent reckless and desperate man and he entertained a grudge and hatred towards Edmund Stevens the Decd -- and Stevens was on the morning of the <date when="1859-05-25">25" day of May 1859</date> shot down while engaged at work on his farm -- and suspicion rested on Williams and his family as the persons guilty of the Murder of Stevens and after circumstances led to the detection and arrest of the Negro man Wesley<pb/>
+<lb/>and after Wesley was arrested and committed to <hi rend="underline">Jail</hi> he confessed to the Jailor and other persons that he did shoot and kill Stevens but he did it by the command and coercion of his master Jesse Williams Decd -- and stated that Williams was standing by him when he shot Stevens and -- One of the <orgName ref="cwgk:O001025">Comth </orgName>witnesses to whom Wesley confessed the <hi rend="underline">murder</hi> on the same day of the Killing of Stevens -- stated that about a week before Stevens -- was killed he heard Jesse Williams tell Wesley that if he Wesley did not Kill Stevens he Williams would cut his back all to pieces -- and stated that he was present several times when Williams started Wesley out with a gun to Kill Stevens and heard Williams tell Wesley to Kill said Stevens -- We are satisfied from the evidence that Wesley Killed Stevens through <hi rend="underline">fear</hi> compulsion and constraint of his Master Jesse Williams and from no wish or will of his own and so -- <pb/>
+<lb/>stated in his confession to the Jailor and other -- we are of the Opinion -- that Wesley case demands the interposition of executive clemency in his behalf -- And we are equally opposed to his being granted a full pardon so as to let him go back into the possession of the family of Jesse Williams Decd -- We request and hereby urge of Your excellency to commute his punishment from death to confinement in the <orgName ref="cwgk:O00000266">Penitentiary</orgName> for life</p>
 <p>Yours Very truly
 <lb/>E. P,, Campbell Atty
 <lb/>For Commonwealth
-<lb/>Tho C Dalmer Judge
-<lb/>E. P. Watkins clk caldwell ct ct.
-<lb/>Jesse Stevens Sheriff
-<lb/>Jas A Johnson D S
-<lb/>James S. Lowry Jailor
-<lb/>L. Peppers<pb/></p>
+<lb/><persName ref="cwgk:N00014366">Tho C Dalmer</persName> Judge
+<lb/><persName ref="cwgk:N00003864">E. P. Watkins </persName>clk caldwell ct ct.
+<lb/><persName ref="cwgk:N00012363">Jesse Stevens</persName> Sheriff
+<lb/><persName ref="cwgk:N00012408">Jas A Johnson</persName> D S
+<lb/><persName ref="cwgk:N00013983">James S. Lowry</persName> Jailor
+<lb/><persName ref="cwgk:N00014153">L. Peppers</persName><pb/></p>
 <p>Caldwell Cir. Ct
 <lb/>Wesley -- Slave
 <lb/>Murder
