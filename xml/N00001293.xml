@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -46,7 +50,9 @@
                       Samuel H. Jenkins
                         (Ballard County, Kentucky, attorney)
                     </persName>
-                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
+                        <event type="birth"  when="1821-03-28"  ><ab>1821-03-28</ab></event>
+                        <event type="death"  when="1887-02-17"  ><ab>1887-02-17</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +60,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Ballard County, Kentucky, attorney. Kentucky native. Married to Ann L. Jenkins. Attorney in Ballard County in 1860. </p>
+        <p>Ballard County, Kentucky, attorney. Kentucky native. Married to Ann L. Jenkins. <lb/>
+Attorney in Ballard County, Kentucky, in 1850. Owned nine enslaved persons in Ballard County in 1850. Member of the Democratic Party. Member of the Senate of the Commonwealth of Kentucky from Ballard County from 1859 to 1863.  Attorney in Ballard County in 1860. Owned fourteen enslaved persons in Ballard County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Cobbs District, p. 113.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 287B-288A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Ballard County, p. 129.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Cobbs District, p. 113.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Ballard County, Cobbs District, p. 42B.<lb/>
+“Legislature,” <hi rend="italic">Louisville Daily Courier</hi> (Louisville, Ky.), 1859-08-08, p.1.<lb/>
+ &quot;Samuel H. Jenkins (1821-1887),&quot; Find A Grave, Memorial #135617273, accessed July 25, 2021, http://www.findagrave.com/memorial/135617273.
 </bibl></ab>
     </back>
 </text>
