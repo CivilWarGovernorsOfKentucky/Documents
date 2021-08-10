@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015239">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Warren Nye</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015239">
+                    <persName>
+                      James Warren Nye
+                        (Carson City, Nevada, Governor)
+                    </persName>
+                        <event type="birth"  when="1815-06-10"  ><ab>1815-06-10</ab></event>
+                        <event type="death"  when="1876-12-25"  ><ab>1876-12-25</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Carson City, Nevada, Governor. Madison County, New York, native. Son of James Nye and Thankful Crocker Nye. Married to Elsie Benson Nye. Father to Mary Nye and Charles Nye. Attended Homer Academy in New York. Served as district attorney in Madison County, New York, in 1839. Served as judge of Madison County Court from 1840-1848. County Court Judge in Madison County in 1850. Boarder in New York City in 1855. First commissioner of the Metropolitan Board of Police in New York City from 1857 to 1860. Governor of the Nevada Territory from March 22, 1861 to October 31, 1864. Governor of the State of Nevada from October 31, 1864 to December 5, 1864. Member of the United States Senate from Nevada from February 1, 1865 to March 3, 1873. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, New York, Madison County, Hamilton, p. 103B.<lb/>
+<hi rend="italic">Census of the State of New York</hi> (1855), New York County, City New York, Ward 20, District 5, p. 45.<lb/>
+John R. Totten, <hi rend="italic">Thacher-Thatcher Genealogy, Part I: Coat-of-Arms</hi>, (New York: New York Genealogical and Biographical Society, 1910), 292, 295-6.<lb/>
+&quot;Gov. James Warren Nye,&quot; <hi rend="italic">National Governors Association</hi>, https://www.nga.org/governor/james-warren-nye/ (accessed August 4, 2021).<lb/>
+&quot;James Warren Nye, (1815-1876),&quot; <hi rend="italic">Biographical Directory of the United States Congress, 1774-Present</hi>, https://bioguideretro.congress.gov/Home/MemberDetails?memIndex=n000177 (accessed August 4, 2021).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
