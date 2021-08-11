@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00015136">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Merchants and Mechanics Bank</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00015136">
+                    <orgName>Merchants and Mechanics Bank</orgName>
+                        <event type="begun"  when="1834"  ><ab>1834</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Principal bank in Wheeling, West Virginia. Chartered by the Commonwealth of Virginia in 1834. President(s): R. Crangle. Cashier(s): Sobieski Brady. <lb/>
+Branch office located at Clarksburg, West Virginia. President(s): Nathan Goff. Cashier(s): Luther Haymond.<lb/>
+Branch office located at Morgantown, West Virginia. President(s): George M. Hagans. Cashier(s): William Wagner.<lb/>
+Branch office located at Point Pleasant, West Virginia. President(s): Charles C. Miller. Cashier(s): Taliaferro Stribling.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Journal of the House of Delegates of the Commonwealth of Virginia</hi> (Richmond: VA, Thomas Ritchie, Printer to the Commonwealth, 1835), 216, Doc. 36, p. 2.<lb/>
+<hi rend="italic">”Merchants’ and Mechanics’ Bank of Wheeling,” _The Pittsburgh Gazette</hi>(Pittsburgh, PA.), Nov. 10, 1834. <lb/>
+<hi rend="italic">”Condition of the Virginia Banks,” _Richmond Enquirer</hi>(Richmond, VA.), Feb 21, 1860.<lb/><lb/>
+<hi rend="italic">”Condition of the Virginia Banks,” _Richmond Dispatch</hi> (Richmond, VA.), Aug. 31, 1860.<lb/><lb/>
+<hi rend="italic">”Merchants’ &amp; Mechanics’ Bank,” _The Wheeling Daily Intelligencer</hi>(Wheeling, WV.), Jan. 17, 1861. <lb/>
+<hi rend="italic">The Bankers&#39; Magazine, and Statistical Register</hi>, ed., J. Smith Homans, vol. XX (New York: J. Smith Homans, 1865): 260. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
