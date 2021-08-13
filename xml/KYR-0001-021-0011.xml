@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0011"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Henderson Ky <date when="1860-11-30">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 30<hi rend="sup">th</hi> 1860</date>
-<lb/>Governor Maggoffin
-<lb/>Frankfort Ky
+   <p><placeName ref="cwgk:P00002891">Henderson</placeName><placeName ref="cwgk:P001800"> Ky</placeName> <date when="1860-11-30">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 30<hi rend="sup">th</hi> 1860</date>
+<lb/><persName ref="cwgk:N00000258">Governor Maggoffin</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky
 <lb/>Dear Sir</p>
-<p>Last night two prisoners escaped from the jail of this county, One named James Wilson who was confined under an Indictment for Murder. said Wilson is about 26 years of age. Six feet high -- raw boned, weigh about 180 pounds -- very dark <hi rend="str">h</hi> or black hair -- light beard &amp; mustache rather pale from long confinement -- grey eyes -- had on black clothes, soft black wool hat.</p>
-<p>The other named A T Johnson was under confinement by order of examining court. on four charges of passing counterfiet money -- said Johnson is about 35 or 40 years of age 5 feet 10 or 11 inches high. weigh about 175 pounds dark hair. -- had on a half worn brown winter coat, dark pantaloons, &amp; ^soft^ black wool hat.</p>
+<p>Last night two prisoners escaped from the <orgName ref="cwgk:O00014972">jail </orgName>of this county, One named <persName ref="cwgk:N00014973">James Wilson</persName> who was confined under an Indictment for Murder. said Wilson is about 26 years of age. Six feet high -- raw boned, weigh about 180 pounds -- very dark <hi rend="str">h</hi> or black hair -- light beard &amp; mustache rather pale from long confinement -- grey eyes -- had on black clothes, soft black wool hat.</p>
+<p>The other named <persName ref="cwgk:N00015268">A T Johnson</persName> was under confinement by order of examining court. on four charges of passing counterfiet money -- said Johnson is about 35 or 40 years of age 5 feet 10 or 11 inches high. weigh about 175 pounds dark hair. -- had on a half worn brown winter coat, dark pantaloons, &amp; ^soft^ black wool hat.</p>
 <p>Yours truly
-<lb/>L W Brown Jailer
+<lb/><persName ref="cwgk:N00014974">L W Brown</persName> Jailer
 <lb/>Henderson County.<pb/></p>
-<p>&#36;250 Reward<figure type="hr"/></p>
+<p>$250 Reward<figure type="hr"/></p>
 <p>James Wilson<figure type="hr"/></p>
 <p>Off<hi rend="sup">d</hi> <date when="1860-12-12">Dec 12. 1860.</date></p>
-<p>Issue reward &#36;250 for Murder case</p>
+<p>Issue reward $250 for Murder case</p>
 <p>B. M</p>
   </body>
  </text>
