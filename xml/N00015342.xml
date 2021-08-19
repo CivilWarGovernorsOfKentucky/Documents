@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015342">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Pleasant M. Savage</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015342">
+                    <persName>
+                      Pleasant M. Savage
+                        (Lawrence County, Kentucky, farmer, merchant, and presiding judge)
+                    </persName>
+                        <event type="birth"  when="1789"  cert="medium" ><ab>c1789</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lawrence County, Kentucky, farmer, merchant, and presiding judge. Virginia native. Married to Susannah Swingle Savage in Lewis County, Kentucky, on December 5, 1812. Father of George Swingle Savage and Harriet Savage. Married to Sarah A. Moore Savage. Father of Mary Moore Savage, Sam Savage, Alfred Savage, Franklin &quot;Francis&quot; M. Savage, and Sarah Savage. Resident in Lewis County in 1820. Owned seventy-five enslaved persons in Lewis County in 1820. Resident in Lewis County in 1830. Owned three enslaved persons in Lewis County in 1830. U.S. Postmaster in Lewis County from January 2, 1833, to September 15, 1837. Resident in Greenup County in 1840. Owned five enslaved persons in Greenup County in 1840. Farmer in Lewis County in 1850. Owned eight enslaved persons in Lewis County in 1850. Merchant in Louisa in 1860. Owned three enslaved persons in Lawrence County in 1860. Presiding judge in Lawrence County from 1862 to 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Fourth Manuscript Census of the United States</hi> (1820), Population Schedules, Kentucky, Lewis County, Elksburg p. 358-59.<lb/>
+<hi rend="italic">Fifth Manuscript Census of the United States</hi> (1830), Population Schedules, Kentucky, Lewis County, p. 297.<lb/>
+<hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Kentucky, Greenup County, p. 225.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lewis County, District 2, p. 174B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Lewis County, District 2, p. 187.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lawrence County, Louisa, p. 659.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Lawrence County, p. 333A.<lb/>
+<hi rend="italic">Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1863</hi>, Legislative Document Series, No. 10 (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1864), 304.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #10489.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Lewis County Marriages, Film #000344051.<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi> Records of the Post Office Department, NARA Series M841, RG 28, Lewis County, Kentucky, vol. 12A, p. 368.<lb/>
+<hi rend="italic">Sons of the American Revolution Membership Applications, 1889-1970</hi>, National Society of the Sons of the American Revolution, Louisville, Ky, Savage, National #12113, State #138.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
