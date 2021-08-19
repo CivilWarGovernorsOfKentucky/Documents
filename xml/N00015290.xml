@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015290">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Oswill C. Woolley</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015290">
+                    <persName>
+                      Oswill C. Woolley
+                        (Clark County, Indiana, basketmaker / Mayor of Jeffersonville 1861-65)
+                    </persName>
+                        <event type="birth"  when="1808-03"  ><ab>1808-03</ab></event>
+                        <event type="death"  when="1895-02-16"  ><ab>1895-02-16</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Clark County, Indiana, mayor and basketmaker. New York native. Married to Sarah A. Woolley. Father of Almina Woolley, Jacob G. Woolley, and Robert E. Woolley. Resident of Clark County, Indiana, in 1840. Wooden basketmaker in Jeffersonville in 1850. Employed Samuel Laferer in Jeffersonville in 1850. Basketmaker in Jeffersonville in 1860. Mayor of Jeffersonville from 1861 to 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Indiana, Clark County, p. 281-82.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Clark County, Jeffersonville, p. 157A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Clark County, Jeffersonville, p. 382.<lb/>
+Carl E. Kramer, &quot;Jeffersonville, Indiana,&quot; in <hi rend="italic">The Encyclopedia of Louisville</hi>, ed. John E. Kleber (Lexington: The University Press of Kentucky, 2001), 443-45.<lb/>
+&quot;Oswell C. Woolley (1808-1895),&quot; Find A Grave, Memorial #30790353, accessed August 19, 2021, http://www.findagrave.com/memorial/30790353.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
