@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00014988">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Supreme Court of Indiana</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00014988">
+                    <orgName>Supreme Court of Indiana</orgName>
+                        <event type="begun"  when="1816"  ><ab>1816</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Judicial body vested with authority over civil and criminal matters. The first Supreme Court consisted of three justices, with each serving seven-year terms. In 1850, it expanded from three to five justices, with each serving six-year terms. Civil War-era Justice(s): Andrew Davidson (1853-1865), James M. Hanna (1857-1865), James L. Worden (1858-1865), James S. Frazer (1865-1871), Jehu T. Elliott (1865-1871), Charles A. Ray (1865-1871), and Robert C. Gregory (1865-1871). </p>
+
+    </body>
+    <back>
+        <ab><bibl>“About the Court,” Indiana Courts, accessed July 8, 2021, https://www.in.gov/courts/supreme/about/. <lb/>
+“Supreme Court Justices,” Indiana Courts, accessed July 8, 2021, https://mycourts.in.gov/JR/Default.aspx. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
