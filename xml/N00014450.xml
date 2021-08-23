@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014450">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Richard Yates </title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014450">
+                    <persName>
+                      Richard Yates 
+                        (Morgan County, Illinois, governor, attorney, representative, and senator)
+                    </persName>
+                        <event type="birth"  when="1815-01-18"  ><ab>1815-01-18</ab></event>
+                        <event type="death"  when="1873-11-27"  ><ab>1873-11-27</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Morgan County, Illinois, attorney, representative, governor, and senator. Gallatin County, Kentucky, native. Son of Henry Yates. Married to Catherine Geers Yates in Morgan County, Illinois, on July 11, 1839. Father of William Yates, Henry Yates, Mary Yates, Catherine Yates, and Richard Yates. Graduate of Illinois College in Jacksonville, Illinois, in 1835. Graduate of Transylvania University in Lexington, Kentucky, in 1837. Attorney in Morgan County, Illinois, in 1850. Member of the United States House of Representatives from the Seventh Congressional District of Illinois from 1851 to 1855. Attorney in Morgan County in 1860. Employed Martha Murphy as a servant in Morgan County in 1860. Governor of Illinois from January 14, 1861, to January 16, 1865. Member of the United States Senate from Illinois from 1865 to 1871. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Illinois, Morgan County, Jacksonville, p. 170A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, Morgan County, Jacksonville, p. 404.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Illinois, Morgan County, Jacksonville, p. 460A.<lb/>
+<hi rend="italic">Illinois Marriage Records</hi>, Morgan County Courthouse, Jacksonville, Illinois, Morgan County Marriages, Film #007619742.<lb/>
+&quot;Richard Yates,” <hi rend="italic">Historical Encyclopedia of Illinois and History of Carroll County</hi>, vol. 3, ed. Newton Bateman, Paul Selby, and Charles L. Hostetter (Chicago, IL: Munsell Publishing Company, 1913), 603.<lb/>
+&quot;Richard Yates (1815-1873),&quot; Biographical Directory of the United States Congress, 1774-Present, accessed April, 11, 2021, https://bioguide.congress.gov/search/bio/Y000012.<lb/>
+&quot;Richard Yates (1815-1873),&quot; Find A Grave, Memorial #6624690, accessed May 12, 2021, http://www.findagrave.com/memorial/6624690.<lb/>
+“Richard Yates’ Mother Dies,” The Kenney Gazette (Kenney, IL), October 16, 1908.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
