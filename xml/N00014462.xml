@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014462">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George William Rearden</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014462">
+                    <persName>
+                      George William Rearden
+                        (Cairo, Illinois, merchant, land agent, deputy marshal, and trader)
+                    </persName>
+                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Cairo, Illinois, merchant, land agent, deputy marshal, and trader. Illinois native. Son of William Rearden and Elmira Pierce Rearden. Married to Virginia Dennis Rearden in Jefferson County, Kentucky, on August 2, 1853. Father of Frank M. Rearden and Albert P. Rearden. Merchant in White County, Illinois, in 1850. Member of the Cairo Vigilance Committee for the First Police District in Cairo in 1858. Land agent in Cairo in 1860. Employed Mary Kelly as a servant in Cairo in 1860. United States deputy marshal for the Southern District of Illinois in 1860. Trader in Cairo in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Illinois, White County, Grayville, District 13, p. 304B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, Alexander County, Cairo, p. 23.<lb/>
+”Arrival of a Gang of Counterfeiters,” Sangamo Journal/Illinois State Journal (Springfield, IL), December 20, 1860.<lb/>
+”The Case of the Counterfeiters,” Sangamo Journal/Illinois State Journal (Springfield, IL), December 22, 1860.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Cairo, IL, June 1863, p. 202.<lb/>
+<hi rend="italic">Illinois Marriage Records</hi>, White County Courthouse, Carmi, Illinois, White County Marriages, Film #005204400, p. 68. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994040, Jefferson County Marriages, p. 220.<lb/>
+”The Overflow at Cairo,” Sangamo Journal/Illinois State Journal (Springfield, IL), June 19, 1858.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
