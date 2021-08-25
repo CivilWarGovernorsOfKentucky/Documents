@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014926">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Collin Shelton Throckmorton</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014926">
+                    <persName>
+                      Collin Shelton Throckmorton
+                        (Daviess County, Kentucky, midshipman and farmer)
+                    </persName>
+                        <event type="birth"  when="1818-03-02"  ><ab>1818-03-02</ab></event>
+                        <event type="death"  when="1880-11-11"  ><ab>1880-11-11</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Daviess County, Kentucky, midshipman and farmer. Kentucky native. Married to Malvina L. Ward Throckmorton on May 5, 1846. Father of Emily Throckmorton, Aris Throckmorton, and Matt Throckmorton. Served in the U.S. Navy as a midshipman from December 8, 1837, to 1843. Farmer in Daviess County, Kentucky, in 1860. Owned fifteen enslaved persons in Daviess County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Daviess County, District 1, p. 683.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Daviess County, District 1, p. 374A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Daviess County, Upper Town, p. 321B. <lb/>
+<hi rend="italic">U.S., Navy and Marine Corps Registries (1814-1992)</hi>, Navy Department Library, Navy Directory: Officers of the U.S. Navy, 1837, vol. 1, 34. <lb/>
+<hi rend="italic">U.S., Navy and Marine Corps Registries (1814-1992)</hi>, Navy Department Library, 1839, 56. <lb/>
+<hi rend="italic">U.S., Navy and Marine Corps Registries (1814-1992)</hi>, Navy Department Library, Navy Directory: Officers of the U.S. Navy, 1840, vol. 1, 28. <lb/>
+<hi rend="italic">U.S., Navy and Marine Corps Registries (1814-1992)</hi>, Navy Department Library, Navy Directory: Officers of the U.S. Navy, 1841-1842, vol. 1, 49. <lb/>
+<hi rend="italic">U.S., Navy and Marine Corps Registries (1814-1992)</hi>, Navy Department Library, Navy Directory: Officers of the U.S. Navy, 1843, vol. 1, 48. <lb/>
+C. Wickliffe Throckmorton, _ A Genealogical and Historical Account of the Throckmorton family in England and the United States_ (Richmond, VA: Old Dominion Press, Inc., 1930), 360. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
