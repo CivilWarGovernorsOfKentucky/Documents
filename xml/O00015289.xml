@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00015289">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">University of Louisville</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00015289">
+                    <orgName>University of Louisville</orgName>
+                        <event type="begun"  when="1846"  ><ab>1846</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, institute of higher education. Founded as the Jefferson Seminary in Louisville, Kentucky, in 1798. Operated from 1813 to 1829. Chartered in 1837 as the Louisville Collegiate Institute in Louisville. Renamed Louisville College in 1840. Acquired the former Jefferson Seminary in Louisville in 1844. Chartered as the University of Louisville by the Kentucky Legislature in 1846, which consolidated Louisville College, Louisville Medical Institute, and Louisville Law School. </p>
+
+    </body>
+    <back>
+        <ab><bibl>Dwayne D. Cox and William J. Morison, The University of Louisville (Lexington: University Press of Kentucky, 2000). <lb/>
+&quot;A Brief History,&quot; About U of L. University of Louisville, accessed August 10, 2021, https://louisville.edu/about/history. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
