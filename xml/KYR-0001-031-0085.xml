@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0085"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Monroe County Court &#125; Sc<hi rend="sup">t</hi></p>
-<p>Henry Eakle this day filed his Certificate of Election to the office of Police Judge of Tompkinsville which is ordered to be certified to the Governor of the State of Kentucky for his Commission</p>
+   <p><orgName ref="cwgk:O001025">State of Kentucky</orgName>
+<lb/><orgName ref="cwgk:O00000667">Monroe County Court</orgName> } Sc<hi rend="sup">t</hi></p>
+<p><persName ref="cwgk:N00015333">Henry Eakle</persName> this day filed his Certificate of Election to the office of Police Judge of <placeName ref="cwgk:P00008566">Tompkinsville</placeName> which is ordered to be certified to the <persName ref="cwgk:N001004">Governor of the State of Kentucky</persName> for his Commission</p>
 <p>Monroe County court</p>
-<p>I S. A. Smithwicke Clerk of Said Court Certify that the above is a true Copy of an order made at the <date when="1862-09">Sept</date> term of the Monroe County Court this <date when="1862-12-09">9" day of Dec 1862</date></p>
+<p>I <persName ref="cwgk:N00015336">S. A. Smithwicke</persName> Clerk of Said Court Certify that the above is a true Copy of an order made at the <date when="1862-09">Sept</date> term of the Monroe County Court this <date when="1862-12-09">9" day of Dec 1862</date></p>
 <p>S. A. Smithwicke Clk m c c<pb/></p>
 <p>Tompkinsville<figure type="hr"/></p>
 <p><hi rend="underline">Co.</hi> Judge
