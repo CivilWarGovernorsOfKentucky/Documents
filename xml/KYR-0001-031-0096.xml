@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0096"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Johnson County Court
+   <p>State of <placeName ref="cwgk:P001800">Kentucky</placeName>
+<lb/><orgName ref="cwgk:O00000644">Johnson County Court</orgName>
 <lb/><date when="1862-12">December Term 1862</date></p>
-<p>It is Ordered to be certified to his Excellency the Governor of this State that Clabourn Hawes is a proper and fit person to fill the office of Justice of the Peace of this County in District N<hi rend="sup">o</hi> 1 to fill the vacancy occasioned by the removal of Lewis Todd</p>
-<p>A Copy att John Hawes clerk<pb/></p>
+<p>It is Ordered to be certified to his Excellency the <persName ref="cwgk:N001004">Governor</persName> of this State that <persName ref="cwgk:N00015310">Clabourn Hawes</persName> is a proper and fit person to fill the office of Justice of the Peace of this <placeName ref="cwgk:P00002566">County</placeName> in District N<hi rend="sup">o</hi> 1 to fill the vacancy occasioned by the removal of <persName ref="cwgk:N00015311">Lewis Todd</persName></p>
+<p>A Copy att <persName ref="cwgk:N00002565">John Hawes </persName>clerk<pb/></p>
 <p>Johnson Co<figure type="hr"/></p>
 <p>J. P.
 <lb/>Dist N<hi rend="sup">o</hi> 1
