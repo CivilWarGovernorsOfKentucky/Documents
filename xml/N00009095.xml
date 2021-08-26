@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Christina Adkins</name>
           </respStmt>
     </titleStmt>
@@ -46,6 +50,8 @@
                       Washington Gowen
                         (Shelby County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1798"  cert="medium" ><ab>c1798</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,14 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Shelby County, Kentucky, farmer. Married to Eliza Gowen. Father of William Gowen, James Gowen, John Gowen, and Henry Gowen. Farmer in Shelby County in 1850 and 1860. Owned three enslaved persons in 1860. </p>
+        <p>Shelby County, Kentucky, farmer. Married to Eliza Gowen. Father of William Gowen, James Gowen, John Gowen, and Henry Gowen. Farmer in Shelby County, Kentucky, in 1850. Farmer in Shelby County in 1860. Owned three enslaved persons in Shelby County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Shelby County, District 2, p. 351B. 
-
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Shelby County, District 2, p. 131-132.
-
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Shelby County, District 2, p. 351B. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Shelby County, District 2, p. 131-132.<lb/>
 <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Shelby County, District 2, p. 292A.
 </bibl></ab>
     </back>
