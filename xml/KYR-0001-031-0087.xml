@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0087"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Washington D. C.
+   <p><placeName ref="cwgk:P00001134">Washington D. C</placeName>.
 <lb/><date when="1862-12-13">December 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1862.</date>
-<lb/>Dear Sir,</p>
-<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> W. A. M. Van Bokkelen has sent me an application directed to your Excellency, accompanied by the proper testimonials, for the appointment of Commissioner of Deeds for the State of Kentucky to reside at Virginia City, Story County, Nevada Territory, and he requests me to forward the same to you with my endorsement thereto.</p>
-<p>In transmitting herewith these papers to your Excellency I take pleasure to recommend the apointment of M<hi rend="underline"><hi rend="sup">r</hi></hi> Bokkelen to said office, and, should any difficulty be in the way of forwarding his commission by the applicant's failure to remit the fee, I will thank the Hon Sec<hi rend="underline"><hi rend="sup">y</hi></hi> of State to write to him to that effect, that he may comply with the<pb/>
+<lb/>Dear <persName ref="cwgk:N001004">Sir</persName>,</p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N00015196">W. A. M. Van Bokkelen</persName> has sent me an application directed to your Excellency, accompanied by the proper testimonials, for the appointment of Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName> to reside at <placeName ref="cwgk:P00015208">Virginia City</placeName>, <placeName ref="cwgk:P00015337">Story County</placeName>, <placeName ref="cwgk:P00015192">Nevada Territory</placeName>, and he requests me to forward the same to you with my endorsement thereto.</p>
+<p>In transmitting herewith these papers to your Excellency I take pleasure to recommend the apointment of M<hi rend="underline"><hi rend="sup">r</hi></hi> Bokkelen to said office, and, should any difficulty be in the way of forwarding his commission by the applicant's failure to remit the fee, I will thank the <persName ref="cwgk:N00000233">Hon Sec<hi rend="underline"><hi rend="sup">y</hi></hi> of State</persName> to write to him to that effect, that he may comply with the<pb/>
 <lb/>usage requisite in the case.</p>
 <p>I am, my dear Sir,
 <lb/>Yours' very truly
-<lb/>J. J. Crittenden</p>
+<lb/><persName ref="cwgk:N00000823">J. J. Crittenden</persName></p>
 <p>To His Excellency
 <lb/>J. F. Robinson
 <lb/>Governor of Kentucky.<pb/></p>
