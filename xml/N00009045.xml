@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main"> Levi B. Whittaker </title>
+        <title level="a" type="main">Levi B. Whittaker </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Christina Adkins</name>
@@ -43,10 +47,11 @@
         <particDesc>
                 <person xml:id="N00009045">
                     <persName>
-                       Levi B. Whittaker 
+                      Levi B. Whittaker 
                         (Shelby County, Kentucky, blacksmith)
                     </persName>
                         <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,13 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Shelby County, Kentucky, Blacksmith. Kentucky native. Married to Elizabeth Sharpe. Father of Sarah Whittaker, Mary Whittaker, [Unknown] Whitaker, James Whittaker, Hannah Whittaker, [Unknown] Whittaker, Maria Whittaker, John Whittaker, and [Unknown] Whittaker. Blacksmith in Shelby County in 1860. </p>
+        <p>Shelby County, Kentucky, blacksmith. Kentucky native. Married to Elizabeth Sharpe Whittaker. Father of Sarah C. Whittaker, Mary E. Whittaker, Elizabeth Whittaker, James R. Whittaker, Hannah S. Whittaker, Margaret Whittaker, John B. Whittaker, and Sophronia Whittaker. Blacksmith in Shelby County, Kentucky, in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Shelby County, District 2, p. 146. 
-
-<hi rend="italic">Kentucky, Birth Records, 1847-1911</hi>, Shelby County Births, November 26, 1853, p. 4 (accessed via ancestry.com). 
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Shelby County, District 2, p. 146. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994054, Shelby County Births, p. 4. 
 </bibl></ab>
     </back>
 </text>
