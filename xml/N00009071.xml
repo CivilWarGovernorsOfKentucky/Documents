@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. H. McCampbell</title>
+        <title level="a" type="main">James H. McCampbell</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Christina Adkins</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,12 @@
         <particDesc>
                 <person xml:id="N00009071">
                     <persName>
-                      J. H. McCampbell
-                        (Shelby County, Kentucky, Justice of the Peace)
+                      James H. McCampbell
+                        (Shelby County, Kentucky, Justice of the Peace, constable, 2nd lieut &amp; capt 6th Ky Inf (USA))
                     </persName>
+                        <event type="birth"  when="1836-01-30"  ><ab>1836-01-30</ab></event>
+                        <event type="death"  when="1915-05-20"  ><ab>1915-05-20</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,12 +56,18 @@
     </teiHeader>
     <text>
     <body>
-        <p>Shelby County, Kentucky, Justice of the Peace. Justice of the Peace in Shelby County in 1861. </p>
+        <p>Shelby County, Kentucky, constable, justice of the peace, and soldier. Shelby County, Kentucky, native. Son of John McCampbell and Mary Anna Lindy Campbell. Married to Sarah A. Tinsley in Shelby County, Kentucky, on September 14, 1865. Constable in Shelby County in 1860. Justice of the Peace in Shelby County in 1861. Served in the 6th Kentucky Volunteer Infantry Regiment (U. S. A.) as a second lieutenant and captain from December 24, 1861, to January 4, 1865.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1420.<lb/>
-KYR-0001-017-0247.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Shelby County, District 2, p. 207A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Shelby County, District 2, p. 146.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Shelby County, District 7, p. 537B. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 205.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #18389.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Shelby County Marriages (1852-1869), Film #000259275.<lb/>
+KYR-0001-017-0247.<lb/>
+KYR-0001-020-1420.
 </bibl></ab>
     </back>
 </text>
