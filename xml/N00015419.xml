@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015419">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles M. Thruston</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015419">
+                    <persName>
+                      Charles M. Thruston
+                        (Jefferson County, Kentucky, court clerk and ageny)
+                    </persName>
+                        <event type="birth"  when="1832-12-24"  ><ab>1832-12-24</ab></event>
+                        <event type="death"  when="1888-04"  ><ab>1888-04</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, court clerk and agent. Kentucky native. Son of Charles M. Thruston. Married to Leonora Keller Thruston in Jefferson County, Kentucky, on February 6, 1862. County court clerk in Jefferson County, Kentucky, in 1850. Household owned one enslaved person in Jefferson County in 1850. County court clerk in Jefferson County in 1858. County court clerk in Jefferson County in 1861. Agent in Jefferson County in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 7, p. 352 B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Jefferson County, Louisville, Ward 7, p. 864.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994040, Jefferson County Marriages, p. 89.<lb/>
+<hi rend="italic">Registers and Indexed for Passport Applications, 1810-1906</hi> NARA RG 59, Microfilm Series M1371, Roll 282, Jefferson County, Kentucky, 1886, No. 6184.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> Records of the Provost Marshal General&#39;s Bureau (Civil War) NARA RG 110, Jefferson County, KY, July 1863, p. 371.<lb/>
+“New Company of Home Guards,”<hi rend="italic">The Courier-Journal</hi> (Louisville, Ky.), Aug. 8, 1861. <lb/>
+“News Condensed,”<hi rend="italic">Interior Standard</hi> (Stanford, Ky.), Apr. 24, 1888.<lb/>
+<hi rend="italic">Louisville City Directory and Business Mirror for 1858-1859</hi> (Louisville: Hurd &amp; Burrows, 1859), 174.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
