@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[unknown] Unsell</title>
+        <title level="a" type="main">Elizabeth Unsell</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Tyler Campbell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
@@ -47,10 +51,10 @@
         <particDesc>
                 <person xml:id="N00006993">
                     <persName>
-                      [unknown] Unsell
-                        (Blandville, Ballard Co, Kentucky, resident)
+                      Elizabeth Unsell
+                        (Ballard Co, Kentucky, resident)
                     </persName>
-                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <event type="birth"  when="1808"  cert="medium" ><ab>c1808</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -59,11 +63,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Blandville, Kentucky, resident. Mentioned in correspondence between Charles Wickliffe and Beriah Magoffin in August 1861. </p>
+        <p>Ballard County, Kentucky, resident. Virginia native. Married to David Unsell. Mother of William Unsell, Moses Unsell, Ann Unsell, Oliver C. Unsell, Elizabeth Unsell, and Mary Unsell. Resident of Ballard County in 1850. Resident of Ballard County in 1860. Household owned seven enslaved persons in Ballard County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-019-0115.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 295A-B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Tharps, p. 680.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Ballard County, Blandville District, p. 6.<lb/>
+KYR-0001-019-0115.
 </bibl></ab>
     </back>
 </text>
