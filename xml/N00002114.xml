@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">M. Rinsell</title>
+        <title level="a" type="main">Moses Unsell</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00002114">
                     <persName>
-                      M. Rinsell
-                        (Ballard county)
+                      Moses Unsell
+                        (Ballard county, Ky, farmer)
                     </persName>
+                        <event type="birth"  when="1832"  cert="medium" ><ab>c1832</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of James McCawley and Wesley Garrett in Ballard County, Kentucky, in October 1863. </p>
+        <p>Ballard County, Kentucky, farmer. Kentucky native. Son of David Unsell and Elizabeth Unsell. Married to Rebecca Ann Unsell. Stepfather of Rachael C. Stovall, Ruha A. Stovall, and Mary A. Stovall. Farmer in Ballard County in 1850. Farmer in Ballard County in 1860. Employed Greenberry Unsell and John Herindon as farm laborers in Ballard County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0154. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 295A-B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Tharps, p. 681.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Ballard County, KY, June and July 1863, p. 45.<lb/>
+<hi rend="italic">Kentucky, Wills and Probate Records, 1774-1989</hi>, Kentucky County, District, and Probate Courts, Ballard County Wills, 1879-1924, p. 62-63.
 </bibl></ab>
     </back>
 </text>
