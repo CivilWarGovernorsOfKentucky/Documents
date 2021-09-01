@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00015513">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">19th Illinois Volunteer Infantry Regiment (U. S. A.)</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00015513">
+                    <orgName>19th Illinois Volunteer Infantry Regiment (U. S. A.)</orgName>
+                        <event type="begun"  when="1861-06-17"  ><ab>1861-06-17</ab></event>
+                        <event type="ended"  when="1864-07-09"  ><ab>1864-07-09</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Organized at Chicago, Illinois. Mustered in on June 17, 1861 and mustered out on July 9, 1864. Commander(s): Colonel John B. Turchin (June 17, 1861 - August 6, 1862), Col. Joseph R. Scott (July 17, 1862 - July 8, 1863). Lieutenant. Col. Joseph R. Scott (June 17, 1861 - July 17, 1862), Lt. Col. Alexander Raffen (November 21, 1862-July 9, 1864).</p>
+
+    </body>
+    <back>
+        <ab><bibl>Committee on War Claims, William H. Hughes, Administrator of David Unsell, Deceased, H. R. Rep. No. 43 (1892) (to accompany H. R. 2189), <hi rend="italic">The Reports of Committees of the House of Representatives for the First Session of the Fifty-second Congress, 1891-92</hi>, (Washington, D. C.: Government Printing Office, 1892).<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Illinois</hi>, vol. 1, 1861-1866 (Springfield, IL: H. W. Rokker,  1886), 11, 145.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Illinois</hi>, vol. 2, 1861-1866 (Springfield, IL: H. W. Rokker,  1886), 118, 147.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
