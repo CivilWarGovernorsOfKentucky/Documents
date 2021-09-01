@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0049"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,30 +71,30 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky Fayette Circuit Court</p>
-<p>Pleas held before the Honorable William C Goodloe Judge of the Court for the Circuit aforesaid at the Court House in the City of Lexington on the <date when="1855-06-12">12' day of June 1855</date></p>
-<p><hi rend="str">Theo</hi>The Commonwealth of Kentucky Plaintiff
-<lb/>against &#125; On Indictment
-<lb/>Theophilas Steele Defendant</p>
+   <p><placeName ref="cwgk:P001800">State of Kentucky</placeName> <orgName ref="cwgk:O00000377">Fayette Circuit Court</orgName></p>
+<p>Pleas held before the Honorable<persName ref="cwgk:N00005270"> William C Goodloe</persName> Judge of the Court for the Circuit aforesaid at the Court House in the City of <placeName ref="cwgk:P001002">Lexington</placeName> on the <date when="1855-06-12">12' day of June 1855</date></p>
+<p><hi rend="str">Theo</hi>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> Plaintiff
+<lb/>against } On Indictment
+<lb/><persName ref="cwgk:N00004875">Theophilas Steele</persName> Defendant</p>
 <p>(Be it remembered that heretofore to wit on the <date when="1855-02-22">22<hi rend="sup">d</hi> day of February 1855</date> at a Court continued and held for the Circuit aforesaid)</p>
 <p>The Grand Jury Empanelled and sworn herein returned the following Indictment, viz:</p>
 <p>"Fayette Circuit Court
 <lb/>The Commonwealth of Kentucky 
-<lb/>Indictment&#125; against
+<lb/>Indictment} against
 <lb/>Theophilas Steele</p>
-<p>The Grand Jurors for the Commonwealth of Kentucky, empannelled and sworn in and for Fayette county, in the name and by the authority of the Commonwealth aforesaid, upon their Oaths represent that Theophilas Steele on the <date when="1855-02-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of February 1855,</date> in the County of Fayette, did challenge James Blackburn to fight him in single combat with pistols, contrary to the form of the Statute in such cases made and provided and against the peace and<pb/>
+<p>The Grand Jurors for the Commonwealth of Kentucky, empannelled and sworn in and for <placeName ref="cwgk:P001031">Fayette county</placeName>, in the name and by the authority of the Commonwealth aforesaid, upon their Oaths represent that Theophilas Steele on the <date when="1855-02-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of February 1855,</date> in the County of Fayette, did challenge <persName ref="cwgk:N00004876">James Blackburn</persName> to fight him in single combat with pistols, contrary to the form of the Statute in such cases made and provided and against the peace and<pb/>
 <lb/>dignity of the Commonwealth of Kentucky</p>
-<p>S Noland Com Atty<figure type="hr"/></p>
+<p><persName ref="cwgk:N00014869">S Noland</persName> Com Atty<figure type="hr"/></p>
 <p>And afterwards to wit at a Court continued and held for the Circuit aforesaid on the <date when="1855-06-12">12' day of June 1855</date> -- </p>
-<p>"This day came the parties by their Attorneys, and the Defendant plead not Guilty, and thereupon came a Jury, viz: James Downing, Henry Bowman, Wm Busby, Uriah Stone, Jesse D Winn Charles F Rogers, Granville Smith, Hezekiah Martin, John Moore, John B Johnson, Albert Hay and David Harp who were elected tried and sworn well and truly to try the Issue and a true Verdict render herein -- The Trial progressed -- Whereupon on motion of the Attorney for the Commonwealth, It is ordered that this case be dismissed -- "</p>
+<p>"This day came the parties by their Attorneys, and the Defendant plead not Guilty, and thereupon came a Jury, viz: <persName ref="cwgk:N00014871">James Downing</persName>, <persName ref="cwgk:N00014872">Henry Bowman</persName>, <persName ref="cwgk:N00014882">Wm Busby</persName>,<persName ref="cwgk:N00014883"> Uriah Stone</persName>, <persName ref="cwgk:N00014884">Jesse D Winn </persName><persName ref="cwgk:N00014885">Charles F Rogers</persName>, <persName ref="cwgk:N00014886">Granville Smith</persName>, <persName ref="cwgk:N00014887">Hezekiah Martin</persName>, <persName ref="cwgk:N00014888">John Moore</persName>, <persName ref="cwgk:N00014889">John B Johnson</persName>,<persName ref="cwgk:N00014890"> Albert Hay </persName>and <persName ref="cwgk:N00014891">David Harp</persName> who were elected tried and sworn well and truly to try the Issue and a true Verdict render herein -- The Trial progressed -- Whereupon on motion of the Attorney for the Commonwealth, It is ordered that this case be dismissed -- "</p>
 <p>True Copies
-<lb/>Att John B Norton Clerk
+<lb/>Att <persName ref="cwgk:N00004824">John B Norton</persName> Clerk
 <lb/><hi rend="underline">Fayette Circuit Court</hi><pb/></p>
 <p>Commonwealth of Ky
 <lb/>Copy
-<lb/>vs &#125; Indictment &amp; Order of Dismission
+<lb/>vs } Indictment &amp; Order of Dismission
 <lb/>Steele, T<figure type="hr"/></p>
-<p>fee 50&#162; paid <figure type="hr"/></p>
+<p>fee 50¢ paid <figure type="hr"/></p>
   </body>
  </text>
 </TEI>
