@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0050"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,22 +71,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>Graves Circuit Court
-<lb/>Commonwealth of Kentucky
-<lb/>against &#125; Indictment
-<lb/>J H. M<hi rend="sup">c</hi>Cuan</p>
-<p>The Grand Jury of Graves County in the name and by the authority of the Commonwealth of Kentucky, accuse J. H. M<hi rend="sup">c</hi>Cuan of the crime of Murder committed as followeth viz:</p>
-<p>The said J H M<hi rend="sup">c</hi>Cuan on the <date when="1859-06-14">14<hi rend="underline"><hi rend="sup">th</hi></hi> day of June 1859</date> in the County aforesaid did feloniously and with malice aforethought kill and Murder John Wiggins by stabbing him with a knife or some other edged weapon against the peace and dignity of the Commonwealth of Kentucky</p>
-<p>A. P. Thompson
-<lb/>Atto for the Cmlth of Kentucky first Judicial Distrist</p>
+   <p><orgName ref="cwgk:O00000382">Graves Circuit Court</orgName>
+<lb/><orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>
+<lb/>against } Indictment
+<lb/><persName ref="cwgk:N00014914">J H. M<hi rend="sup">c</hi>Cuan</persName></p>
+<p>The Grand Jury of <placeName ref="cwgk:P00000908">Graves County</placeName> in the name and by the authority of the Commonwealth of Kentucky, accuse J. H. M<hi rend="sup">c</hi>Cuan of the crime of Murder committed as followeth viz:</p>
+<p>The said J H M<hi rend="sup">c</hi>Cuan on the <date when="1859-06-14">14<hi rend="underline"><hi rend="sup">th</hi></hi> day of June 1859</date> in the County aforesaid did feloniously and with malice aforethought kill and Murder <persName ref="cwgk:N00014915">John Wiggins</persName> by stabbing him with a knife or some other edged weapon against the peace and dignity of the Commonwealth of Kentucky</p>
+<p><persName ref="cwgk:N00002052">A. P. Thompson</persName>
+<lb/>Atto for the Cmlth of Kentucky <orgName ref="cwgk:O00000313">first Judicial Distrist</orgName></p>
 <p>Information given by
-<lb/>J S <unclear>Roach</unclear>
-<lb/>J. D. Boozer &amp; D. G Heart</p>
+<lb/><persName ref="cwgk:N00014894">J S <unclear>Roach</unclear></persName>
+<lb/><persName ref="cwgk:N00014896">J. D. Boozer</persName> &amp; <persName ref="cwgk:N00014897">D. G Heart</persName></p>
 <p>marked on back
 <lb/>A true <hi rend="str">Copy</hi> bill
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C. Robbins foreman</p>
+<lb/><persName ref="cwgk:N00014898">W<hi rend="underline"><hi rend="sup">m</hi></hi> C. Robbins</persName> foreman</p>
 <p>A true Copy
-<lb/>Ervin Anderson C g C C</p>
+<lb/><persName ref="cwgk:N00014911">Ervin Anderson</persName> C g C C</p>
   </body>
  </text>
 </TEI>
