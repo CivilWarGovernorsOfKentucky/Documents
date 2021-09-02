@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014911">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Ervin Anderson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014911">
+                    <persName>
+                      Ervin Anderson
+                        (Graves County, Kentucky, clerk of Graves County Circuit Court)
+                    </persName>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Graves County, Kentucky, clerk of Graves County Circuit Court. Kentucky native. Married to Eliza Jane Lockridge Anderson. Father of John L. Anderson, Wiley P. Anderson, Anna Anderson, Amelia Anderson, Edith Anderson, Emily Anderson, Lawrence Anderson, Albert Sidney Johnston Anderson, and Hester D. Anderson. Clerk in Graves County, Kentucky, in 1850. Owned five enslaved persons in Graves County in 1850. Circuit Court Clerk in Graves County from 1855 to 1862. Owned eleven enslaved persons in Graves County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Graves County, District 2, p. 363A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Graves County, District 2, p. 146.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Graves County, p. 32.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Graves County, p. 55A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Graves County, Mayfield, p. 188A.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #6269.<lb/>
+<hi rend="italic">Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1855</hi>, Legislative Document Series, No. 1 (Frankfort, Ky.: A.G. Hodges, State Printer, 1856), 354.<lb/>
+<hi rend="italic">Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1859</hi>, Legislative Document Series, No. 1 (Frankfort, Ky.: Jno. B. Major, State Printer, 1860), 290.<lb/>
+<hi rend="italic">Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1860</hi>, Legislative Document Series, No. 1 (Frankfort, Ky.: Jno. B. Major, State Printer, 1861), 356.<lb/>
+<hi rend="italic">Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1861</hi>, Legislative Document Series, No. 1 (Frankfort, Ky.: Jno. B. Major, State Printer, 1862), 305.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
