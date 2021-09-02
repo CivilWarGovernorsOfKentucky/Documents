@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1555"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Krista Kinslow</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p><persName ref="cwgk:N00000258">Beriah Magoffin</persName>,
-    <lb/>GOVERNOR OF THE <orgName ref="cwgk:O001025">COMMONWEALTH OF KENTUCKY</orgName>, 
-<lb/>TO ALL WHO SHALL SEE THESE PRESENTS, GREETING:</p>
-   <p>WHEREAS, A judgment has been rendered by the <orgName ref="cwgk:O00003470">Frankfort Police Court</orgName> for &#36;7<hi rend="underline"><hi rend="sup">50</hi></hi> against <persName ref="cwgk:N00003954">Denis Haly</persName> AND WHEREAS, It appears from satisfactory evidence that the case of the said Haly presents strong considerations for the interposition and indulgence of the Executive:</p>
+   <p><persName ref="cwgk:N00000258"><persName ref="cwgk:N00000258">Beriah Magoffin</persName>,</persName>
+    <lb/>GOVERNOR OF THE <orgName ref="cwgk:O001025"><orgName ref="cwgk:O001025">COMMONWEALTH OF KENTUCKY</orgName>, 
+</orgName><lb/>TO ALL WHO SHALL SEE THESE PRESENTS, GREETING:</p>
+   <p>WHEREAS, A judgment has been rendered by the <orgName ref="cwgk:O00003470">Frankfort Police Court</orgName> for $7<hi rend="underline"><hi rend="sup">50</hi></hi> against <persName ref="cwgk:N00003954">Denis Haly</persName> AND WHEREAS, It appears from satisfactory evidence that the case of the said Haly presents strong considerations for the interposition and indulgence of the Executive:</p>
 <p>Now, Know Ye, That in consideration of the premises, and by virtue of the power vested in me by the Constitution, I have thought proper to RESPITE, and do, by these presents, stay and respite the collection of said judgment save fees &amp; costs for the term of Six months from the day hereof; and do hereby enjoin all officers to respect this RESPITE, and govern themselves accordingly.</p>
 <p><figure type="seal"/></p>
    <p>In Testimony Whereof, I have hereunto set my hand, and caused the Seal of the Commonwealth to be affixed, at <placeName ref="cwgk:P00000308">FRANKFORT</placeName>, on the <date when="1861-11-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> day of Nov, in the year of our Lord one thousand eight hundred and 61,</date> and in the 70<hi rend="underline"><hi rend="sup">th</hi></hi> year of the Commonwealth.</p>
@@ -74,9 +82,9 @@
 <lb/>BY THE GOVERNOR:
  <lb/><persName ref="cwgk:N00002525">Nat. Gaither</persName> Jr, SECRETARY OF STATE.
  <lb/>By <persName ref="cwgk:N00001223"><hi rend="underline">Ja</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> W. Tate</hi></persName> Asst. Secy<figure type="hr"/>
- <lb/>"Yeoman" Office -- <persName ref="cwgk:N00003956">J. B. MAJOR</persName>, State Printer.<pb/></p>
+ <lb/><orgName ref="cwgk:O00015519">"Yeoman" </orgName>Office --<persName ref="cwgk:N00003956"> <persName ref="cwgk:N00003956">J. B. MAJOR</persName></persName>, State Printer.<pb/></p>
 <p>Frankfort Po. Ct
-<lb/>&#36;7.<hi rend="sup">50</hi>/<hi rend="sub">100</hi> &#125; Breach
+<lb/>$7.<hi rend="sup">50</hi>/<hi rend="sub">100</hi> } Breach
 <lb/>Denis Haly
 <lb/>Remission Iss<hi rend="sup">d</hi> <date when="1862-05-14">May 14. 1862</date></p>
   </body>
