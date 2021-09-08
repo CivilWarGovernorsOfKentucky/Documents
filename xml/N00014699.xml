@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014699">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edward Crossland</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014699">
+                    <persName>
+                      Edward Crossland
+                        (Hickman County, Kentucky, lawyer and colonel (C.S.A))
+                    </persName>
+                        <event type="birth"  when="1827-06-30"  ><ab>1827-06-30</ab></event>
+                        <event type="death"  when="1881-09-11"  ><ab>1881-09-11</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hickman County, Kentucky, attorney and colonel (C.S.A). Hickman County, Kentucky, native. Married to Mary Adaline Hess Crossland in Gibson County, Tennessee, on March 2, 1847. Father of Elizabeth Crossland, Samuel H. Crossland, Kate Crossland, and Jeff D. Crossland. Sheriff in Hickman County, Kentucky, in 1850. Member of the House of Representatives of the Commonwealth of Kentucky from Hickman County from 1857 to 1859. Attorney in Clinton in 1860. Served in the 1st Kentucky Infantry (C.S.A.) as captain, major, and lieutenant colonel from April 23, 1861, to May 25, 1862. Served in the 7th Kentucky Mounted Infantry (C.S.A.) as colonel from May 25, 1865, to May 1865. Attorney in Mayfield in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hickman County, Clinton, p. 503.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Graves County, Mayfield, p. 207A. <lb/>
+<hi rend="italic">Confederate Veteran</hi>, vol. 19 (Nashville, Tennessee: S. A. Cunningham, 1911), 366.<lb/><lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0066.<lb/>
+&quot;Edward Crossland (1827-1881),&quot; Find A Grave, Memorial #19431, accessed June 7, 2021, http://www.findagrave.com/memorial/19431.<lb/>
+<hi rend="italic">Tennessee State Marriages</hi>, Tennessee State Library and Archives, Nashville, Tennessee, Gibson County Marriages.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
