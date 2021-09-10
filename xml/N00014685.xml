@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014685">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Wright Robertson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014685">
+                    <persName>
+                      William Wright Robertson
+                        (Graves County, Kentucky, attorney)
+                    </persName>
+                        <event type="birth"  when="1837-07-08"  ><ab>1837-07-08</ab></event>
+                        <event type="death"  when="1902-09-25"  ><ab>1902-09-25</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Graves County, Kentucky, attorney. Meade County, Kentucky, native. Son of Richard P. Robertson and Tossy Robertson. Married to Frances &quot;Fannie&quot; Morse Rodgers Robertson on December 27, 1859. Father to Kate P. Robertson, Mary P. Robertson, and Annie P. Robertson. Student in Meade County, Kentucky, in 1850. Graduated from University of Louisville School of Law in 1857. Attorney in Mayfield, Kentucky, in 1858. Attorney in Graves County in 1860. Owned one enslaved person in Graves County in 1860. Presiding judge in Graves County Court in 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Meade County, Kentucky District, p. 208A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Graves County, p. 203.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Graves County, p. 43B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Graves County, Mayfield, p. 217A. <lb/>
+&quot;Judge William Wright Robertson (1837-1902),&quot; Find A Grave, Memorial #137114952, accessed June 4, 2021, http://www.findagrave.com/memorial/137114952.<lb/>
+<hi rend="italic">Kentucky, Wills and Probate Records, 1774-1989</hi>, Kentucky County, District, and Probate Courts, Graves County Administrators Bonds, 1830-1869, p. 384-85.<lb/>
+&quot;Robertson,&quot; <hi rend="italic">The Daily Messenger</hi> (Mayfield, KY) September 25, 1902.<lb/>
+KYR-0001-017-0400.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
