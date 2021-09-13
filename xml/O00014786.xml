@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00014786">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Police Guard Kentucky Central Railroad</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00014786">
+                    <orgName>Police Guard Kentucky Central Railroad</orgName>
+                        <event type="begun"  when="1861-11-05"  ><ab>1861-11-05</ab></event>
+                        <event type="ended"  when="1861-11-17"  ><ab>1861-11-17</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Organized around the Kentucky Central Railroad. Various companies mustered in between September 17, 1861, and November 5, 1861. Mustered out between October 1, 1861, and December 10, 1861. Commander(s): Colonel R. W. Foley (September 17, 1861-December 19, 1861).</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1867), 842-56.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
