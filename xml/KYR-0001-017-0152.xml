@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0152"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort <date when="1861-05-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> May 1861.</date>
-<lb/>To the Governor of Kentucky
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1861-05-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> May 1861.</date>
+<lb/>To the <persName ref="cwgk:N00000258">Governor</persName> of <orgName ref="cwgk:O001025">Kentucky</orgName>
 <lb/>Sir,</p>
-<p>Having been Elected to the office of Presiding Judge of the Franklin County Court, I hereby resign my office of Justice of the Peace for Franklin County.</p>
+<p>Having been Elected to the office of Presiding Judge of the <orgName ref="cwgk:O00000620"><placeName ref="cwgk:P001019">Franklin County</placeName> Court</orgName>, I hereby resign my office of Justice of the Peace for Franklin County.</p>
 <p>Respy.
-<lb/>F. Chinn<pb/></p>
+<lb/><persName ref="cwgk:N00015069">F. Chinn</persName><pb/></p>
 <p>Chinn Resignation<figure type="hr"/>
 <lb/><date when="1861-05-08">May 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
   </body>
