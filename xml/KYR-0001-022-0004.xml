@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-022-0004"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,24 +71,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Tennessee,
-<lb/>EXECUTIVE DEPARTMENT.<figure type="hr"/></p>
-<p>TO HIS EXCELLENCY, THE GOVERNOR OF Kentucky -- </p>
-<p>Sir: It has been made known to me that a certain H. H. McManners &amp; Alice Long alias M<hi rend="sup">c</hi>Donald alias M<hi rend="sup">c</hi>Manner of our County of Shelby -- stands charged with having in the month of <date when="1861-01">January 18<hi rend="str">5</hi>61</date> unlawfully and feloniously break into <hi rend="str"><unclear/></hi> the houses of Muer Stebben's &amp; Pullen and of M Simon and steal and carry away Goods silver ware &amp;c to the amount of Four Thousand, Three hundred dollars as will more fully appear from an authenticated <hi rend="str">copy</hi> of Affidavit -- herewith transmitted: And whereas, it has been made known to me that the said M<hi rend="sup">c</hi>Manners &amp; Alice Long alias M<hi rend="sup">c</hi>Donald alias M<hi rend="sup">c</hi>Manner fled from justice and are now running at large in the State of Kentuckey</p>
-<p>Now Therefore, I, Isham, G. Harris -- Governor of the State of Tennessee, in pursuance of the Act of Congress, entitled "An Act respecting, Fugitives from Justice," do hereby demand that your Excellency will please cause the said M<hi rend="sup">c</hi>Manners &amp; Alice Long alias M<hi rend="sup">c</hi>Donald alias M<hi rend="sup">c</hi>Manner to be arrested if to be found within the limits of the State over which you preside, and have them safely delivered to I. S. Dyer -- who is appointed Agent on the part of this State to receive the said fugitive from the civil authorities of the State of Kentuckey to the end that they may be brought to the State of Te<unclear>nnessee</unclear> and dealt with according to law.</p>
+   <p>State of <placeName ref="cwgk:P001001">Tennessee</placeName>,
+<lb/><orgName ref="cwgk:O00010513">EXECUTIVE DEPARTMENT</orgName>.<figure type="hr"/></p>
+<p>TO HIS EXCELLENCY, THE <persName ref="cwgk:N00000258">GOVERNOR</persName> OF <orgName ref="cwgk:O001025">Kentucky</orgName> -- </p>
+<p>Sir: It has been made known to me that a certain <persName ref="cwgk:N00015444">H. H. McManners</persName> &amp; <persName ref="cwgk:N00015445">Alice Long</persName> alias M<hi rend="sup">c</hi>Donald alias M<hi rend="sup">c</hi>Manner of our County of <placeName ref="cwgk:P00015439">Shelby</placeName> -- stands charged with having in the month of <date when="1861-01">January 18<hi rend="str">5</hi>61</date> unlawfully and feloniously break into <hi rend="str"><unclear/></hi> the houses of Muer Stebben's &amp; Pullen and of <persName ref="cwgk:N00015443">M Simon</persName> and steal and carry away Goods silver ware &amp;c to the amount of Four Thousand, Three hundred dollars as will more fully appear from an authenticated <hi rend="str">copy</hi> of Affidavit -- herewith transmitted: And whereas, it has been made known to me that the said M<hi rend="sup">c</hi>Manners &amp; Alice Long alias M<hi rend="sup">c</hi>Donald alias M<hi rend="sup">c</hi>Manner fled from justice and are now running at large in the State of <placeName ref="cwgk:P001800">Kentuckey</placeName></p>
+<p>Now Therefore, I, <persName ref="cwgk:N00001929">Isham, G. Harris</persName> -- Governor of the State of Tennessee, in pursuance of the Act of Congress, entitled "An Act respecting, Fugitives from Justice," do hereby demand that your Excellency will please cause the said M<hi rend="sup">c</hi>Manners &amp; Alice Long alias M<hi rend="sup">c</hi>Donald alias M<hi rend="sup">c</hi>Manner to be arrested if to be found within the limits of the State over which you preside, and have them safely delivered to <persName ref="cwgk:N00015440">I. S. Dyer</persName> -- who is appointed Agent on the part of this State to receive the said fugitive from the civil authorities of the State of Kentuckey to the end that they may be brought to the State of Te<unclear>nnessee</unclear> and dealt with according to law.</p>
 <p><figure type="seal"/></p>
-<p>In Testimony Whereof, I have hereunto set my hand and caused the Great Seal of the State to be affixed at NASHVILLE, on the <date when="1861-03-13">Thirteenth day of March 18<hi rend="str">5</hi>61</date></p>
+<p>In Testimony Whereof, I have hereunto set my hand and caused the Great Seal of the State to be affixed at <placeName ref="cwgk:P001004">NASHVILLE</placeName>, on the <date when="1861-03-13">Thirteenth day of March 18<hi rend="str">5</hi>61</date></p>
 <p>BY THE GOVERNOR:
 <lb/>Isham G Harris
 <lb/> 
-<lb/>E <unclear/> Ray Secretary of State.<pb/></p>
+<lb/><persName ref="cwgk:N00015442">E <unclear/> Ray</persName> Secretary of State.<pb/></p>
 <p>STATE OF TENNESSEE,
-<lb/>SHELBY COUNTY. &#125; SS.</p>
+<lb/>SHELBY COUNTY. } SS.</p>
 <p>TO ANY LAWFUL OFFICER OF SAID COUNTY -- GREETING:</p>
-<p>WHEREAS, B. <hi rend="str">R</hi>K. Pullen having this day complained on oath to me, that H. H. M<hi rend="sup">c</hi>Manner &amp; Alice Lo<unclear/> alias M<hi rend="sup">c</hi>Donald alias ^M<hi rend="sup">c</hi>Manner^ late of said County, did, on the <gap/> day of <date when="1861-01">January 1861;</date> in said County, and with the jurisdiction of the Criminal Court of Memphis, unlawfully &amp; feloniously break into the Store House of W A Meier, Cha<hi rend="sup">s </hi>Stebbins &amp; B. K. Pullen under style of Meier, Muer Stebbins &amp; Pullen &amp; steal take &amp; carry away a lot of Silver Plate &amp; other goods of the value about three Hundred Dollars,^the property of said Meier Stebbins &amp; Pullen^ &amp; did break into the Store House of M Simon &amp; Steal take &amp; carry away a lot of Goods of the value of Four thousand Dollars the property of Said Simon contrary to the Statutes in such cases made &amp; provided &amp; against the peace &amp; dignity of the State</p>
+<p>WHEREAS, B. <hi rend="str">R</hi>K. Pullen having this day complained on oath to me, that H. H. M<hi rend="sup">c</hi>Manner &amp; Alice Lo<unclear/> alias M<hi rend="sup">c</hi>Donald alias ^M<hi rend="sup">c</hi>Manner^ late of said County, did, on the <gap/> day of <date when="1861-01">January 1861;</date> in said County, and with the jurisdiction of the Criminal Court of <placeName ref="cwgk:P001003">Memphis</placeName>, unlawfully &amp; feloniously break into the Store House of <persName ref="cwgk:N00015438">W A Meier</persName>, <persName ref="cwgk:N00015437">Cha<hi rend="sup">s </hi>Stebbins</persName> &amp; <persName ref="cwgk:N00015436">B. K. Pullen</persName> under style of Meier, Muer Stebbins &amp; Pullen &amp; steal take &amp; carry away a lot of Silver Plate &amp; other goods of the value about three Hundred Dollars,^the property of said Meier Stebbins &amp; Pullen^ &amp; did break into the Store House of M Simon &amp; Steal take &amp; carry away a lot of Goods of the value of Four thousand Dollars the property of Said Simon contrary to the Statutes in such cases made &amp; provided &amp; against the peace &amp; dignity of the State</p>
 <p>THESE ARE, THEREFORE, to command you to apprehend the said H. H. M<hi rend="sup">c</hi>Manners &amp; Alice Long, Alias, M<hi rend="sup">c</hi>Donald alias M<hi rend="sup">c</hi>Manner^ if to be found in your County, and bring him before me or some other Justice of the Peace for said County, to answer the premises, and further to be dealt with according to law.</p>
 <p>Given under my hand and seal this <date when="1861-03-11">11<hi rend="sup">th</hi> day of March 1861.</date></p>
-<p>J. Horne J. P. L. S.<pb/></p>
+<p><persName ref="cwgk:N00015441">J. Horne</persName> J. P. L. S.<pb/></p>
 <p>Isham G. Harris
 <lb/>Governor of the State of Tennessee:<figure type="hr"/></p>
 <p>To all who shall see these Presents, -- Greeting:</p>
@@ -98,7 +106,7 @@
 <p>H. H. M<hi rend="sup">c</hi>Manners &amp; Alice Long
 <lb/>Felony<figure type="hr"/><pb/></p>
 <p>STATE OF TENNESSEE
-<lb/>vs. &#125; WARRANT.</p>
+<lb/>vs. } WARRANT.</p>
 <p>H. H. McManners &amp; Alice Long alias M<hi rend="sup">c</hi>Donald alias M<hi rend="sup">c</hi>Manners</p>
 <p>Executed this Warrant on <gap/> by arresting and bringing <gap/> before J. HORNE, Esq., for trial.</p>
 <p>This <gap/> day of <gap/> 186<gap/>
