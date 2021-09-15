@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015271">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Sumner Stow Ely</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015271">
+                    <persName>
+                      Sumner Stow Ely
+                        (Brooklyn, New York, attorney and notary public)
+                    </persName>
+                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Brooklyn, New York, attorney and notary public. New York native. Son of Sumner Ely and Hannah K. Ely. Graduate of Hamilton College in Oneida County, New York, in 1845. Attorney in Middlefield in 1850. Notary public in Brooklyn in 1861. Attorney in Brooklyn in 1862. Attorney in Brooklyn in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, New York, Ostego County, Middlefield, p. 112 A.<lb/>
+<hi rend="italic">Catalogue of the Corporation, Officers and Students of Hamilton College</hi> (Clinton, NY: Curtis and White, 1863).<lb/>
+<hi rend="italic">Brooklyn City Directory for the Year Ending May 1, 1862</hi> ed. J. Lain (Brooklyn: J. Lain and Company, 1865), 121.<lb/>
+<hi rend="italic">Brooklyn City Directory for the Year Ending May 1, 1865</hi> ed. J. Lain (Brooklyn: J. Lain and Company, 1865), 127.<lb/>
+KYR-0001-017-0124.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
