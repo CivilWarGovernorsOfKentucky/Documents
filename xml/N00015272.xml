@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015272">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Fearn Penn</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015272">
+                    <persName>
+                      Fearn Penn
+                        (Shelby County, Tennessee, clerk, merchant, notary public, commissioner of deeds, and private (C.S.A.))
+                    </persName>
+                        <event type="birth"  when="1832"  cert="medium" ><ab>c1832</ab></event>
+                        <event type="death"  when="1889"  ><ab>1889</ab></event>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Shelby County, Tennessee, clerk, merchant, notary public, commissioner of deeds, and soldier. Alabama native. Son of James Penn and Martha A. Penn. Clerk in Memphis, Tennessee, in 1850. Household owned two enslaved persons in Memphis in 1850. Merchant in Memphis in 1860. Household owned two enslaved persons in Memphis in 1860. Notary public in Memphis in 1861. Commissioner of deeds for the Commonwealth of Kentucky in Tennessee in 1861. Mustered in to Captain Johnston’s Company Tennessee Heavy Artillery (C.S.A.) as private on April 21,1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Shelby County, Memphis, Ward 3, p. 36 A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Tennessee,  Shelby County, Memphis, Ward 3, p. 595. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Shelby County, Memphis, Ward 3, p. 97.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Tennessee, Shelby County, Memphis, Ward 3, p. 3<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Alabama, Madison County, Huntsville, p. 372 B. <lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0066.<lb/>
+”Deaths in Alabama,” <hi rend="italic">The Montgomery Advertiser</hi> (Montgomery, AL), July 23, 1889. <lb/>
+”Fearn Penn Notary Public,&quot; <hi rend="italic">The Memphis Daily Avalanche</hi> (Memphis, TN), February 20, 1861. <lb/>
+KYR-0001-017-0125.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
