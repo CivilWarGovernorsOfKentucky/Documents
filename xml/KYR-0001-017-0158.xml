@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0158"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky
+   <p><placeName ref="cwgk:P00000337">Louisville Ky</placeName>
 <lb/><date when="1861-05-17">May 17. 1861.</date>
-<lb/>A, J, James, Esqr.
-<lb/>Frankfort Ky
+<lb/><persName ref="cwgk:N00004857">A, J, James</persName>, Esqr.
+<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName>
 <lb/>Dear Sir</p>
-<p>Permit me to address you on a subject of some importance to myself it is as follows -- In the early part of <date when="1861-04">April</date> I applied to his Excellency the Governor of Ky for the appointment of magistrate (vacant) of the 3<hi rend="sup">d</hi> &amp; 4<hi rend="sup">th</hi> Wards of the city of Louisville &amp; recommended by my Friends Jas. Speed, Hy Dent, and W. H. Harney, Esq<hi rend="underline"><hi rend="sup">es</hi></hi> of this city. His Excellency was kind enough to grant me the appointment on the <date when="1861-04-16">16<hi rend="sup">th</hi> of April</date> but my not being notified of my being appointed I of course did not know anything about it till I heard yesterday by mere accident that my commission was lying in the County Co Office I went there, obtained it, &amp; was qualified by oath <date when="1861-05-16">May 16<hi rend="sup">th</hi></date> and this morning heard to my astonishment that I was too late in my qualification for that commission now there was no order issued for an Election of magistrate at the <date when="1861-05-04">May 4<hi rend="sup">th</hi></date> Election I respectfully ask you to interest yourself in my behalf<pb/>
+<p>Permit me to address you on a subject of some importance to myself it is as follows -- In the early part of <date when="1861-04">April</date> I applied to his Excellency the <persName ref="cwgk:N00000258">Governor of Ky</persName> for the appointment of magistrate (vacant) of the 3<hi rend="sup">d</hi> &amp; 4<hi rend="sup">th</hi> Wards of the city of Louisville &amp; recommended by my Friends <persName ref="cwgk:N00000205">Jas. Speed</persName>, <persName ref="cwgk:N00008155">Hy Dent</persName>, and <persName ref="cwgk:N00015509">W. H. Harney</persName>, Esq<hi rend="underline"><hi rend="sup">es</hi></hi> of this city. His Excellency was kind enough to grant me the appointment on the <date when="1861-04-16">16<hi rend="sup">th</hi> of April</date> but my not being notified of my being appointed I of course did not know anything about it till I heard yesterday by mere accident that my commission was lying in the <orgName ref="cwgk:O001839">County Co</orgName> Office I went there, obtained it, &amp; was qualified by oath <date when="1861-05-16">May 16<hi rend="sup">th</hi></date> and this morning heard to my astonishment that I was too late in my qualification for that commission now there was no order issued for an Election of magistrate at the <date when="1861-05-04">May 4<hi rend="sup">th</hi></date> Election I respectfully ask you to interest yourself in my behalf<pb/>
 <lb/>with the Governor for another commission as I Lost the other by expecting to have received the commission <unclear>in</unclear> mail directed to me the exertion of your kindness in my case will ever oblige</p>
 <p>yrs most Respectfully
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi>, Mitchell</p>
-<p>See 1 Stant Rev. Statutes p. 441 &#167; 5 -- Sub Sec 2</p>
+<lb/><persName ref="cwgk:N00014946">Tho<hi rend="underline"><hi rend="sup">s</hi></hi>, Mitchell</persName></p>
+<p>See 1 Stant Rev. Statutes p. 441 § 5 -- Sub Sec 2</p>
 <p>The first commissipon having Expired and no incumbent Elected, at <date when="1861-05">May</date> election, the office is again vacant (ib. page 439.) and another commission can be issued to Esq. Mitchell till August election</p>
 <p><hi rend="underline">A. J. J</hi>.</p>
-<p>Since making the above memorandum, (which I made without any other information than the within letter) I see by certificates of the county Judge and clerk that another was elected at <date when="1861-05">May</date> Election without any writ of Election -- This Election without a writ was irregular -- but the Gov. has the power to confirm it by commissioning the individual elected if he thinks proper.</p>
+<p>Since making the above memorandum, (which I made without any other information than the within letter) I see by certificates of the county <persName ref="cwgk:N00004897">Judge</persName> and <persName ref="cwgk:N00015419">clerk</persName> that another was elected at <date when="1861-05">May</date> Election without any writ of Election -- This Election without a writ was irregular -- but the Gov. has the power to confirm it by commissioning the individual elected if he thinks proper.</p>
 <p><hi rend="underline">A. J. J</hi>.</p>
   </body>
  </text>
