@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0040"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mayfield <date when="1861-09-02">Sept. 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 61</date>
-<lb/>Judge Boon
+   <p><placeName ref="cwgk:P00003915">Mayfield</placeName> <date when="1861-09-02">Sept. 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 61</date>
+<lb/><persName ref="cwgk:N00006775">Judge Boon</persName>
 <lb/>Dr, Sr</p>
-<p>Inclosed find a letter from a man at Cairo by the name of Geo. W. Rearden -- who proposes for the reward offered by Scofield &amp; Wommock to apprehend &amp; bring the Gregory boys over &amp; deliver them to the proper authorities -- And he points out the <hi rend="str">n</hi> mode to be pursued to make the arrest legal and I have inclosed the letter to you so you may fully understand the matter and desire you to take the necessary steps in the transaction and attend to it as speedily as possible. the letter contains all necessary information There is no news here except there were two more murders committed at Doublin a short time since -- two Baileys Killed Bill Sherfield &amp; Buck Smith -- hoping to hear from you soon I am</p>
+<p>Inclosed find a letter from a man at <placeName ref="cwgk:P00004801">Cairo</placeName> by the name of <persName ref="cwgk:N00014462">Geo. W. Rearden</persName> -- who proposes for the reward offered by <persName ref="cwgk:N00014646">Scofield</persName> &amp; <persName ref="cwgk:N00014670">Wommock</persName> to apprehend &amp; bring the <persName ref="cwgk:N00008757">Gregory boys</persName> over &amp; deliver them to the proper authorities -- And he points out the <hi rend="str">n</hi> mode to be pursued to make the arrest legal and I have inclosed the letter to you so you may fully understand the matter and desire you to take the necessary steps in the transaction and attend to it as speedily as possible. the letter contains all necessary information There is no news here except there were two more murders committed at <placeName ref="cwgk:P00014645">Doublin</placeName> a short time since -- two <persName ref="cwgk:N00014698">Baileys</persName> Killed <persName ref="cwgk:N00014672">Bill Sherfield</persName> &amp; <persName ref="cwgk:N00014684">Buck Smith</persName> -- hoping to hear from you soon I am</p>
 <p>very respectfully yours
-<lb/>W, W, Robertson<pb/></p>
-<p>Graves Ct
-<lb/>Petition for reward for the Gregories <figure type="hr"/></p>
+<lb/><persName ref="cwgk:N00014685">W, W, Robertson</persName><pb/></p>
+<p><orgName ref="cwgk:O00000382">Graves</orgName> Ct
+<lb/>Petition for reward for the <persName ref="cwgk:N00014461">Gregories</persName> <figure type="hr"/></p>
   </body>
  </text>
 </TEI>
