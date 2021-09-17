@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015114">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Ponsonby Furniss</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015114">
+                    <persName>
+                      William Ponsonby Furniss
+                        (New York County, New York, merchant, lawyer, notary public, and commissioner of deeds)
+                    </persName>
+                        <event type="birth"  when="1790-07-16"  ><ab>1790-07-16</ab></event>
+                        <event type="death"  when="1871-10-29"  ><ab>1871-10-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>New York County, New York, merchant, lawyer, notary public, and commissioner of deeds. New Hampshire native. Son of Robert Furniss and Margaret Furniss. Married to Sophia Furniss. Father of William Furniss, Sophia Furniss, Gardner Furniss, Margaret Furniss, Robert Furniss, Hartman Furniss, Clementina Furniss, and Leon Furniss. Merchant in New York County, New York, in 1850. Employed Ann Brady, Ann Carr, Mary Carr, Catherine Conoly, Laura Cornish, Maria O&#39;Connor, Margaret Feelan, Emeline Rogers, and Emma Kritzen in New York County in 1850. Employed Ann Fallen, Ann Carr, Lucy Smith, Joseph Wallie, Martha Scanlin, Frederick Heff, Frederick Flyther, John Rugler, Eliza Woods, and Adeba O&#39;Connell as servants in New York County in 1855. Lawyer in New York County in 1861. Notary public in New York County in 1861. Commissioner of Deeds for the State of Kentucky in New York County in 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, New York County, New York City, p. 190A.<lb/>
+<hi rend="italic">New York, United States, State Census</hi> (1855), Population Schedules, New York County, New York City. <lb/>
+<hi rend="italic">New Hampshire, United States, Birth Index (1659-1900)</hi>, Concord, NH, New England Genealogical Society, Ferrin-Fitch.<lb/>
+<hi rend="italic">Wilson’s New York City Copartnership Fore for 1860-61</hi> (New York: John P. Trow, 1860), 309.<lb/>
+<hi rend="italic">New York, United States, Death Newspaper Abstracts (1801-1890)</hi>, New York Evening Post, 1871, October, p. 95.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
