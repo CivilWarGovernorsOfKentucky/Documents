@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0159"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>A Copy of the Record of the common Council of the City of Henderson Ky.
+   <p>A Copy of the Record of the common Council of the <placeName ref="cwgk:P001815">City of Henderson</placeName> <placeName ref="cwgk:P001800">Ky</placeName>.
 <lb/>Mayors' Office <date when="1861-05-07">May 7th 1861</date></p>
-<p>The City Judge, C. W. Hutchen, handed in his resignation to take effect when a successor shall have been appointed, commissioned and qualified.</p>
-<p>On motion of M<hi rend="underline"><hi rend="sup">r</hi></hi> Ladd, the Resignation is accepted.</p>
+<p>The City Judge, <persName ref="cwgk:N00002905">C. W. Hutchen</persName>, handed in his resignation to take effect when a successor shall have been appointed, commissioned and qualified.</p>
+<p>On motion of <persName ref="cwgk:N00015181">M<hi rend="underline"><hi rend="sup">r</hi></hi> Ladd</persName>, the Resignation is accepted.</p>
 <p>Mayor's Office <date when="1861-05-13">May 13th 1861</date></p>
-<p>On motion of M<hi rend="underline"><hi rend="sup">r</hi></hi> Matthews, it is ordered by the Mayor and Council of the City of Henderson, that Paul A. Blackwell be and is hereby appointed Police Judge of the City of Henderson, to fill the vacancy and unexpired term occasioned by the resignation of C. W. Hutchen, all which is ordered to be certified to the Governor of the Commonwealth of Kentucky.</p>
+<p>On motion of <persName ref="cwgk:N00015182">M<hi rend="underline"><hi rend="sup">r</hi></hi> Matthews</persName>, it is ordered by the <persName ref="cwgk:N00015183">Mayor</persName> and Council of the City of Henderson, that <persName ref="cwgk:N00005602">Paul A. Blackwell </persName>be and is hereby appointed Police Judge of the City of Henderson, to fill the vacancy and unexpired term occasioned by the resignation of C. W. Hutchen, all which is ordered to be certified to the <persName ref="cwgk:N00000258">Governor</persName> of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>.</p>
 <p><hi rend="underline">E G Hall</hi> Mayor</p>
 <p>A true Copy
-<lb/>Attest F. W. Reutlingers
+<lb/>Attest <persName ref="cwgk:N00015180">F. W. Reutlingers</persName>
 <lb/>City Clerk</p>
 <p><figure type="seal"><ab>SEAL OF THE CITY OF HENDERSON.
-<lb/>HENDERSON COUNTY KY.</ab></figure><pb/></p>
+<lb/><placeName ref="cwgk:P00002891">HENDERSON COUNTY</placeName> KY.</ab></figure><pb/></p>
 <p><figure type="seal"><ab>SEAL OF THE CITY OF HENDERSON.
 <lb/>HENDERSON COUNTY KY.</ab></figure><pb/></p>
 <p>Henderson<figure type="hr"/></p>
