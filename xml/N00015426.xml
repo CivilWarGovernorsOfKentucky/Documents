@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015426">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Sloan Minary</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015426">
+                    <persName>
+                      John Sloan Minary
+                        (Woodford County, Kentucky, carpenter and politician)
+                    </persName>
+                        <event type="birth"  when="1820-02-20"  ><ab>1820-02-20</ab></event>
+                        <event type="death"  when="1899-12-30"  ><ab>1899-12-30</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Woodford County, Kentucky, carpenter and politician. Chester County, Pennsylvania, native. Son of Joseph Minary and Mary Sloan Minary. Married to George Ann Stone Minary in Woodford County, Kentucky, on November 29, 1849. Father of Thomas J. Minary, Susan Minary, John Minary, Sallie Minary, Charles K. Minary, Joseph S. Minary, and Mary Minary. Carpenter in Woodford County in 1850. Employed John Stone and Benjamin Gillespie as carpenters in Woodford County in 1850. Owned four enslaved persons in Woodford County in 1850. Carpenter in Woodford County in 1860. Employed Alexander Simpayton as a carpenter in Woodford County in 1860. Member of the Versailles Board of Trustees in Woodford County in 1861. Carpenter in Woodford County in 1863. Delegate for Woodford County to the Kentucky Union Democratic Party Convention in Louisville in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Woodford County, District 1, p. 429B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Woodford County, District 1.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Woodford County, Versailles, p. 837.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Mortality Schedules, Kentucky, Woodford County, Versailles p. 523A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Woodford County Marriages, Film #000252320.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> Records of the Provost Marshal General&#39;s Bureau (Civil War) NARA RG 110, Woodford County, KY, July 1863, p. 6.<lb/>
+“Union Meeting in Woodford County,” <hi rend="italic">The Courier-Journal</hi> (Louisville, KY), Mar. 5, 1863. <lb/>
+“John S. Minary Dead,” <hi rend="italic">The Courier-Journal</hi>(Louisville, KY), Dec. 31, 1899. <lb/>
+&quot;John Sloan Minary (1820-1899),&quot; Find A Grave, Memorial #195373275, accessed August 20, 2021, http://www.findagrave.com/memorial/195373275.<lb/>
+William E. Railey, <hi rend="italic">History of Woodford County, Kentucky</hi> (Frankfort: Roberts Printing Co., 1928), 394. <lb/>
+KYR-0001-017-0151
+</bibl></ab>
+    </back>
+</text>
+</TEI>
