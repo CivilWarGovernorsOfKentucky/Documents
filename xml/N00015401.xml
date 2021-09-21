@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015401">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Louis H. Waters</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015401">
+                    <persName>
+                      Louis H. Waters
+                        (McDonough County, IL, attorney, colonel of the 84th Ill Vol. Inf, and state&#39;s attorney for the 5th Jud. district of IL )
+                    </persName>
+                        <event type="birth"  when="1827-12"  ><ab>1827-12</ab></event>
+                        <event type="death"  when="1916-07"  ><ab>1916-07</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>McDonough County, Illinois, attorney, and colonel. Pennsylvania native. Married to Cordelia Waters. Father of John Waters, Mina Waters, and Nelly Waters. Attorney in McDonough County, Illinois, in 1850. Attorney in Macomb in 1860. Employed Mary Kelly as a servant in Macomb in 1860. State&#39;s attorney for the 5th judicial circuit in Illinois in 1861. Served in the 28th Illinois Infantry Regiment (U.S.A.) as a lieutenant colonel. Served in the 84th Illinois Volunteer Infantry Regiment (U.S.A.) as a colonel from 1862 to June 8, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Illinois, McDonough County, p. 236A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, McDonough County, Macomb, p. 531-32.<lb/>
+&quot;Gen Louis H. Waters (1827-1916),&quot; Find A Grave, Memorial #47802154, accessed August 19, 2021, http://www.findagrave.com/memorial/47802154.<lb/>
+Louis Simmons, <hi rend="italic">The History of 8th Reg&#39;t Ill. Vols.</hi> (Macomb, Illinois: Hampton Brothers, 1866), 6, 283.<lb/>
+KYR-0001-022-0002.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
