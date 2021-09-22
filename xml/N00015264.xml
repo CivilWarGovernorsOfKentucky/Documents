@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015264">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Matthew Spain Verdery</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015264">
+                    <persName>
+                      Matthew Spain Verdery
+                        (Chatham County, Georgia, student, druggist, justice of the peace, and commissioner of deeds)
+                    </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="death"  when="1874-06-30"  ><ab>1874-06-30</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Chatham County, Georgia, student, druggist, justice of the peace, and commissioner of deeds. Georgia native. Son of Martha Verdery. Married to Clara Jane Barie Verdery in Chatham County, Georgia, on September 22, 1857. Father of Morris G. Verdery. Student in Richmond County in 1850. Druggist in Chatham County in 1860. Justice of the peace in Chatham County in 1861. Commissioner of deeds for the Commonwealth of Kentucky in Georgia in 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Georgia, Richmond County, Division 73, p. 515B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Georgia, Chatham County, Savannah, District 3, p. 218.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Georgia, Savannah County, Savannah, District 21, p. 132B. <lb/>
+<hi rend="italic">Georgia, County Marriages (1842-1861)</hi>, Georgia Department of Archives and History, Morrow, GA, Roll #004849085, Chatham County Marriages, p. 148.<lb/>
+<hi rend="italic">Savannah, Georgia, Cemetery and Burial Records</hi>, Research Library and Municipal Archives, Savannah, GA, Report of Interments of Whites in Laurel Grove, Georgia, June 1874, 313-314.<lb/><lb/>
+KYR-0001-017-0122.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
