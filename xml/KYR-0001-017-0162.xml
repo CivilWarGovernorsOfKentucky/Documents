@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0162"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,16 +70,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Governor Magoffin,
+   <p><persName ref="cwgk:N00000258">Governor Magoffin</persName>,
 <lb/>D<hi rend="sup">r. </hi>Sir.</p>
-<p>In response to a notice recd from the State Department of Kentucky -- <unclear>pss</unclear> the assistant Secy of State. Mr <hi rend="underline">Tate</hi> If I am correct w his name, I remitted the fee of 5.<hi rend="underline"><hi rend="sup">00</hi></hi> on the renewal of my appointment as a commissioner for said State The money was mailed at <hi rend="underline">Albany</hi> <date when="1861-04-17">April 17.<hi rend="sup">h</hi>. 1861</date> -- by me, and I have not been able to get any answer to several of my letters addressed to the <hi rend="underline">Asst Secy</hi> of State. </p>
+<p>In response to a notice recd from the <orgName ref="cwgk:O00000890"><orgName ref="cwgk:O001025">State </orgName>Department of Kentucky</orgName> -- <unclear>pss</unclear> the <persName ref="cwgk:N00001223">assistant Secy of State. Mr <hi rend="underline">Tate</hi></persName> If I am correct w his name, I remitted the fee of 5.<hi rend="underline"><hi rend="sup">00</hi></hi> on the renewal of my appointment as a commissioner for said State The money was mailed at <hi rend="underline">Albany</hi> <date when="1861-04-17">April 17.<hi rend="sup">h</hi>. 1861</date> -- by me, and I have not been able to get any answer to several of my letters addressed to the <hi rend="underline">Asst Secy</hi> of State. </p>
 <p>I have the Receipt on Registering said Letter. as no. 71 &amp; I will thank you to have this matter attended to by your officers</p>
-<p>Your<hi rend="sup">s</hi> W. Furniss</p>
+<p>Your<hi rend="sup">s</hi> <persName ref="cwgk:N00015114">W. Furniss</persName></p>
 <p><date when="1861-05-24">May. 24. <hi rend="underline">1861</hi></date><pb/></p>
-<p>New York<figure type="hr"/>
+<p><placeName ref="cwgk:P001007">New York</placeName><figure type="hr"/>
 <lb/>Com<hi rend="sup">r</hi>. of Deeds
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Furniss
-<lb/>N.Y. City</p>
+<lb/><placeName ref="cwgk:P00002569">N.Y. City</placeName></p>
 <p>Com. Iss<hi rend="sup">d</hi>
 <lb/><date when="1861-05-28">May 28. 1861</date><figure type="hr"/><pb/></p>
 <p>Law and Collection Office.
@@ -79,42 +87,42 @@
 <lb/>Attorney and Counsellor at Law,
 <lb/>Notary Public and Commissioner of Deeds,</p>
 <p>Duly appointed and authorized to administer Oaths, and take Affidavits. Depositions and the proof of Acknowledgment of Deeds, Letters of Attorney, and other Instruments of Writing to be used and recorded.</p>
-<p><milestone unit="column" n="4"/><cb n="1"/>ALABAMA,
-<lb/>CALIFORNIA,
-<lb/>CANADA,
-<lb/>CONNECTICUT,
-<lb/>FLORIDA,
-<lb/>GEORGIA,
-<lb/>ILLINOIS,
-<lb/>INDIANA,
-<lb/><cb n="2"/>IOWA,
-<lb/>KENTUCKY,
-<lb/>LOUISIANA,
-<lb/>MAINE,
-<lb/>MARYLAND,
-<lb/>MASSACHUSETTS,
-<lb/>MICHIGAN,
-<lb/>MINNESOTA,
-<lb/><cb n="3"/>MISSISSIPPI,
-<lb/>MISSOURI,
-<lb/>NEW HAMPSHIRE,
-<lb/>NEW JERSEY,
+<p><milestone unit="column" n="4"/><cb n="1"/><placeName ref="cwgk:P00002509">ALABAMA</placeName>,
+<lb/><placeName ref="cwgk:P00002428">CALIFORNIA</placeName>,
+<lb/><placeName ref="cwgk:P00006091">CANADA</placeName>,
+<lb/><placeName ref="cwgk:P00002511">CONNECTICUT</placeName>,
+<lb/><placeName ref="cwgk:P00002512">FLORIDA</placeName>,
+<lb/><placeName ref="cwgk:P001008">GEORGIA</placeName>,
+<lb/><placeName ref="cwgk:P00004765">ILLINOIS</placeName>,
+<lb/><placeName ref="cwgk:P001818">INDIANA</placeName>,
+<lb/><cb n="2"/><placeName ref="cwgk:P001009">IOWA</placeName>,
+<lb/><placeName ref="cwgk:P001800">KENTUCKY</placeName>,
+<lb/><placeName ref="cwgk:P00002302">LOUISIANA</placeName>,
+<lb/><placeName ref="cwgk:P00002513">MAINE</placeName>,
+<lb/><placeName ref="cwgk:P00001160">MARYLAND</placeName>,
+<lb/><placeName ref="cwgk:P00001140">MASSACHUSETTS</placeName>,
+<lb/><placeName ref="cwgk:P00002514">MICHIGAN</placeName>,
+<lb/><placeName ref="cwgk:P00002515">MINNESOTA</placeName>,
+<lb/><cb n="3"/><placeName ref="cwgk:P00000918">MISSISSIPPI</placeName>,
+<lb/><placeName ref="cwgk:P00001883">MISSOURI</placeName>,
+<lb/><placeName ref="cwgk:P00002516">NEW HAMPSHIRE</placeName>,
+<lb/><placeName ref="cwgk:P00002517">NEW JERSEY</placeName>,
 <lb/>NEW YORK.
-<lb/>NORTH CAROLINA
-<lb/>OHIO,
-<lb/>PENNSYLVANIA,
-<lb/><cb n="4"/>RHODE ISLAND,
-<lb/>SOUTH CAROLINA,
-<lb/>TENNESSEE.
-<lb/>TEXAS,
-<lb/>VERMONT.
-<lb/>VIRGINIA.
-<lb/>WISCONSIN,
+<lb/><placeName ref="cwgk:P00002518">NORTH CAROLINA</placeName>
+<lb/><placeName ref="cwgk:P001036">OHIO</placeName>,
+<lb/><placeName ref="cwgk:P001006">PENNSYLVANIA</placeName>,
+<lb/><cb n="4"/><placeName ref="cwgk:P00002519">RHODE ISLAND</placeName>,
+<lb/><placeName ref="cwgk:P00001184">SOUTH CAROLINA</placeName>,
+<lb/><placeName ref="cwgk:P001001">TENNESSEE</placeName>.
+<lb/><placeName ref="cwgk:P00002520">TEXAS</placeName>,
+<lb/><placeName ref="cwgk:P001026">VERMONT</placeName>.
+<lb/><placeName ref="cwgk:P001037">VIRGINIA</placeName>.
+<lb/><placeName ref="cwgk:P00002521">WISCONSIN</placeName>,
 <lb/>U. STATES COURTS.<milestone unit="column" n="1"/></p>
 <p>No. 335 Broadway,---Room 3, Moffat Building.
 <lb/>RESIDENCE. No. 70 WEST 38TH STREET.</p>
 <p>At Office from 9 A.M. to 6 P.M. At House from 7 to 9 A.M. and P.M.</p>
-<p>Collections made in all parts of the United States and Canadas.</p>
+<p>Collections made in all parts of the <placeName ref="cwgk:P001802">United States </placeName>and Canadas.</p>
 <p>BILLS AND NOTES PROTESTED. PATENTS AND PASSPORTS OBTAINED.
 <lb/>Commercial Claims Certified for Collection. Will attend at any part of the City.<figure type="hr"/></p>
 <p>New York, <gap/> 186</p>
