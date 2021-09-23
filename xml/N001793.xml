@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN001793">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Flanagan</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N001793">
+                    <persName>
+                      James Flanagan
+                        (Clark County, Kentucky, clerk, editor, attorney)
+                    </persName>
+                        <event type="birth"  when="1820-09-28"  ><ab>1820-09-28</ab></event>
+                        <event type="death"  when="1906-03-26"  ><ab>1906-03-26</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Clark County, Kentucky, clerk, newspaper editor, attorney, and notary public. Kentucky native. Son of Peter Flanagan and Ruth Flanagan. Married to Sarah &quot;Susan&quot; Wilson Flanagan on January 4, 1860. Father of George W. Flanagan. Clerk in Clark County, Kentucky, in 1850. Household owned eight enslaved people in Clark County in 1850. Admitted to the bar in 1857. Editor of the Winchester Chronicle in Clark County in 1858. Notary public in Clark County in 1859. Attorney in Clark County in 1860. County attorney in Clark County from 1862. Notary public in Clark County in 1861. Attorney in Clark County in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Clark County, District 2, p. 46B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Clark County, District 2, p. 313.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clark County, Winchester, p. 872.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Clark County, Winchester, p. 126A. <lb/>
+”Clark County,” <hi rend="italic">The Courier-Journal</hi> (Louisville, KY), August 9, 1862.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> Records of the Provost Marshal General&#39;s Bureau (Civil War) NARA RG 110, Clark County, KY, June and July 1863, p. 6.<lb/>
+&quot;James Flanagan (1820-1906),&quot; Find A Grave, Memorial #25030151, accessed August 8, 2021, http://www.findagrave.com/memorial/25030151.<lb/>
+”Judge Jas. Flanagan of Clark Co.,” <hi rend="italic">The Lexington Herald</hi> (Lexington, KY), July 23, 1905. <lb/>
+<hi rend="italic">Louisville Daily Courier</hi> (Louisville, KY), February 2, 1858. <lb/>
+KYR-0001-017-0128.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
