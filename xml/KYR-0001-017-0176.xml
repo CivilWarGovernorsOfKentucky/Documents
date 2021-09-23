@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0176"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of California
+   <p><orgName ref="cwgk:O00001126">State of California</orgName>
 <lb/>City and County of San Francisco</p>
-<p>I C J Brenham, duly appointed by the Governor of the State of Kentucky, a Commissioner for the State of Kentucky, residing in the City of San Francisco, state of California, do solemnly swear that I will well and faithfully perform all the duties of such Commissinoer, under and by virtue of the laws of said State of Kentucky</p>
+<p>I <persName ref="cwgk:N00014967">C J Brenham</persName>, duly appointed by the <persName ref="cwgk:N00000258">Governor of the <orgName ref="cwgk:O001025">State of Kentucky</orgName></persName>, a Commissioner for the State of Kentucky, residing in the City of <placeName ref="cwgk:P00006526">San Francisco</placeName>, state of <placeName ref="cwgk:P00002428">California</placeName>, do solemnly swear that I will well and faithfully perform all the duties of such Commissinoer, under and by virtue of the laws of said State of Kentucky</p>
 <p>C J Brenham</p>
 <p>Sworn to and subscribed before me this <date when="1861-06-14">14" day of June A D 1861.</date></p>
-<p><unclear>J V Joice</unclear>
+<p><unclear><persName ref="cwgk:N00014971">J V Joice</persName></unclear>
 <lb/>Notary Public
 <lb/><figure type="seal"><ab>NOTARY PUBLIC <unclear/></ab></figure><pb/></p>
 <p>California<figure type="hr"/></p>
