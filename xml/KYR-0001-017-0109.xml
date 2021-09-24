@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0109"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Ohio
-<lb/>Scioto County
-<lb/>City of Portsmouth</p>
-<p>Personally appeared before <hi rend="str">a</hi> me a Notary Public duly commissioned &amp; sworn living in city, county, &amp; state aforesaid Tho<hi rend="sup">s</hi> Dugan who made solemn oath to support the Constitution of the United States and well and truly perform &amp; execute all the duties of Commissioner of <hi rend="str"><unclear/></hi>the Commonwealth of Kentucky to take the acknowledgement of Deeds and other instruments of writing pertaining to said office in the State of Ohio</p>
+   <p>State of <placeName ref="cwgk:P001036">Ohio</placeName>
+<lb/><placeName ref="cwgk:P00005316">Scioto County</placeName>
+<lb/>City of <placeName ref="cwgk:P00002578">Portsmouth</placeName></p>
+<p>Personally appeared before <hi rend="str">a</hi> me a Notary Public duly commissioned &amp; sworn living in city, county, &amp; state aforesaid <persName ref="cwgk:N00002571">Tho<hi rend="sup">s</hi> Dugan</persName> who made solemn oath to support the Constitution of the <placeName ref="cwgk:P001802">United States </placeName>and well and truly perform &amp; execute all the duties of Commissioner of <hi rend="str"><unclear/></hi>the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> to take the acknowledgement of Deeds and other instruments of writing pertaining to said office in the State of Ohio</p>
 <p>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Dugan</p>
 <p>Sworn to and subscribed before me at Portsmouth O this the <date when="1861-03-16">16<hi rend="sup">th</hi> day of March 1861</date>
-<lb/>Tho<hi rend="sup">s</hi> Spencer
+<lb/><persName ref="cwgk:N00015269">Tho<hi rend="sup">s</hi> Spencer</persName>
 <lb/>Notary Public</p>
 <p><figure type="seal"><ab>NOTARIAL SEAL
 <lb/>SCIOTO COUNTY OHIO</ab></figure><pb/></p>
