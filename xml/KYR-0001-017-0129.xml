@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0129"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,16 +73,16 @@
   <body>
    <p>Law &amp; Collection Office
 <lb/> -- OF -- 
-<lb/>JNO. E. HAMILTON.
+<lb/><persName ref="cwgk:N00001725">JNO. E. HAMILTON</persName>.
 <lb/>Attorney at Law, Examiner and Notary Public,
 <lb/>N. E. Corner 4th and Scott Streets. (up stairs)</p>
 <p><note place="left margin">Collections made throughout the States of Kentucky Ohio Indiana and Missouri.</note>
 <lb/><note place="right margin">Clients informed fo prospects of making claims by return Mail.</note></p>
-<p>Covington, Ky., <date when="1861-03-28">March 28<hi rend="sup">th</hi> 1861,</date></p>
-<p>Hon T. B. Monroe J<hi rend="underline"><hi rend="sup">r
-<lb/></hi></hi>D<hi rend="sup">r</hi> Sir</p>
-<p>W. N. Dora Esq desires the appointment as Commissioner of deeds for Ohio,</p>
-<p>M<hi rend="sup">r</hi> Dora lives on this side but does business in Cincinnati, he considers Covington his home but only sleeps here part of the time, his business is note broker &amp; real estate agent.</p>
+<p><placeName ref="cwgk:P00000936">Covington, Ky</placeName>., <date when="1861-03-28">March 28<hi rend="sup">th</hi> 1861,</date></p>
+<p>Hon<persName ref="cwgk:N00002581"> T. B. Monroe J<hi rend="underline"><hi rend="sup">r</hi></hi></persName><hi rend="underline">
+<lb/></hi>D<hi rend="sup">r</hi> Sir</p>
+<p><persName ref="cwgk:N00015275">W. N. Dora</persName> Esq desires the appointment as Commissioner of deeds for Ohio,</p>
+<p>M<hi rend="sup">r</hi> Dora lives on this side but does business in <placeName ref="cwgk:P00001208">Cincinnati</placeName>, he considers Covington his home but only sleeps here part of the time, his business is note broker &amp; real estate agent.</p>
 <p>If consistent please <hi rend="str">make</hi> ^have^ the above appointment made. M<hi rend="sup">r</hi> Dora is a gentleman well worthy of the favor.</p>
 <p>I enclose his card &amp; you will please direct the commission to him as per card.</p>
 <p>And oblige
