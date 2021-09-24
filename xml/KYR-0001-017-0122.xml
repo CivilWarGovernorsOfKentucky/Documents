@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0122"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Savannah <date when="1861-03-26">March 26<hi rend="sup">th</hi> 1861</date>
+   <p><placeName ref="cwgk:P00002476">Savannah</placeName> <date when="1861-03-26">March 26<hi rend="sup">th</hi> 1861</date>
 <lb/>To His Excellency,
-<lb/>Beriah Magoffin
+<lb/><persName ref="cwgk:N00000258">Beriah Magoffin</persName>
 <lb/>Dear Sir</p>
-<p>Having been Elected to the office of Justice of the Peace for the 3<hi rend="sup">d</hi> district in this City, I would Respectfully Solicit the position of a Commissioner for your State, if Reference is Required please address Col Henry, R. Jackson or C C James Mayor of Savannah</p>
+<p>Having been Elected to the office of Justice of the Peace for the <orgName ref="cwgk:O00015267">3<hi rend="sup">d</hi> district</orgName> in this City, I would Respectfully Solicit the position of a Commissioner for your <placeName ref="cwgk:P001800">State</placeName>, if Reference is Required please address <persName ref="cwgk:N00015266">Col Henry, R. Jackson</persName> or <persName ref="cwgk:N00015265">C C James</persName> Mayor of Savannah</p>
 <p>Very Respectfully Your
 <lb/>Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Sv<hi rend="underline"><hi rend="sup">t</hi></hi>
 <lb/><hi rend="underline">Matthew.</hi> <hi rend="underline">S.</hi> <hi rend="underline">Verderig</hi>
 <lb/>J.P.<pb/></p>
-<p>Georgia<figure type="hr"/></p>
+<p><placeName ref="cwgk:P001008">Georgia</placeName><figure type="hr"/></p>
 <p>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>M. S. Verderig
 <lb/>Savannah
