@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0128"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Winchester Ky <date when="1861-04-08">Ap<hi rend="sup">l</hi> 8" 1861</date>
-<lb/>Hon Beriah Magoffin
+   <p><placeName ref="cwgk:P001792">Winchester Ky</placeName> <date when="1861-04-08">Ap<hi rend="sup">l</hi> 8" 1861</date>
+<lb/>Hon <persName ref="cwgk:N00000258">Beriah Magoffin</persName>
 <lb/>Dear Sir</p>
-<p>Your predecessor appointed me as one of the <hi rend="underline">Notaries</hi> for Clark County, and my term of office is about expiring, May I ask the favor of Your Excellency to re-appoint me as Notary Public, Your Kindness will much oblige</p>
+<p>Your <persName ref="cwgk:N00002722">predecessor</persName> appointed me as one of the <hi rend="underline">Notaries</hi> for <placeName ref="cwgk:P001786">Clark County</placeName>, and my term of office is about expiring, May I ask the favor of Your Excellency to re-appoint me as Notary Public, Your Kindness will much oblige</p>
 <p>Very truly Yr friend
-<lb/>Jas Flanagan<pb/></p>
+<lb/><persName ref="cwgk:N001793">Jas Flanagan</persName><pb/></p>
 <p>Clarke Co<figure type="hr"/>
 <lb/>Notary
 <lb/>Ja<hi rend="sup">s</hi> Flanagan
