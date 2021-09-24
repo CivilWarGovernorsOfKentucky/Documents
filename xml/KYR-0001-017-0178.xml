@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0178"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Midway Ky <date when="1861-07-01">July 1<hi rend="underline"><hi rend="sup">st</hi></hi> 61</date>
-<lb/>Gov Magoffin
+   <p><placeName ref="cwgk:P00002993">Midway</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1861-07-01">July 1<hi rend="underline"><hi rend="sup">st</hi></hi> 61</date>
+<lb/><persName ref="cwgk:N00000258">Gov Magoffin</persName>
 <lb/>Dear Sir</p>
-<p>Having changed my residence from Woodford County I hereby tender to you my resignation as Police Judge in the of Midway Ky</p>
+<p>Having changed my residence from <placeName ref="cwgk:P00002992">Woodford County</placeName> I hereby tender to you my resignation as <orgName ref="cwgk:O00004368">Police Judge</orgName> in the of Midway Ky</p>
 <p>Respectfully
-<lb/>Samuel Moore<pb/></p>
+<lb/><persName ref="cwgk:N00014991">Samuel Moore</persName><pb/></p>
 <p>Midway
 <lb/>Resignation
 <lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Moore
