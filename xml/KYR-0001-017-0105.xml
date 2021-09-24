@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0105"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Pennsylvania
-<lb/>City and County of Philadelphia &#125; ss.</p>
-<p>Be it Remembered that on the <date when="1861-03-11">eleventh day of March A.D. 1861.</date> Before me the undersigned an alderman and Ex officio Justice of the Peace of the said City of Philadelphia, and authorized under the laws of the State of Pennsylvania to administer oaths, personally appeared Joshua Sperring who being duly sworn according to law did say, that he would well and truly execute and perform, all the duties of the office of <hi rend="underline">Commissioner of Deeds</hi> for the Sstate of Kentucky towhich he has been appointed by Commission from the Governor thereof dated the <date when="1861-02-27">27<hi rend="sup">th</hi> day of February 1861.</date></p>
+   <p>State of <placeName ref="cwgk:P001006">Pennsylvania</placeName>
+<lb/>City and County of <placeName ref="cwgk:P00001701">Philadelphia</placeName> } ss.</p>
+<p>Be it Remembered that on the <date when="1861-03-11">eleventh day of March A.D. 1861.</date> Before me the undersigned an alderman and Ex officio Justice of the Peace of the said City of Philadelphia, and authorized under the laws of the State of Pennsylvania to administer oaths, personally appeared <persName ref="cwgk:N00002560">Joshua Sperring</persName> who being duly sworn according to law did say, that he would well and truly execute and perform, all the duties of the office of <hi rend="underline">Commissioner of Deeds</hi> for the Sstate of Kentucky towhich he has been appointed by Commission from the <persName ref="cwgk:N00000258">Governor</persName> thereof dated the <date when="1861-02-27">27<hi rend="sup">th</hi> day of February 1861.</date></p>
 <p>Joshua Sperring</p>
 <p>Sworn and subscribed before me -- Witness my Hand and seal</p>
-<p>James M<hi rend="sup">c</hi>Cahen <figure type="seal"/>
+<p><persName ref="cwgk:N00015170">James M<hi rend="sup">c</hi>Cahen</persName> <figure type="seal"/>
 <lb/>Alderman<pb/></p>
 <p>Pennsylvania<figure type="hr"/></p>
 <p>Oath of J Sperring
