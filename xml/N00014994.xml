@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014994">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas H. Barnes</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014994">
+                    <persName>
+                      Thomas H. Barnes
+                        (Madison County, Kentucky, county court clerk)
+                    </persName>
+                        <event type="birth"  when="1822-10-30"  ><ab>1822-10-30</ab></event>
+                        <event type="death"  when="1863-01-24"  ><ab>1863-01-24</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Madison County, Kentucky, county court clerk. Kentucky native. Son of Francis Thomas and Polly Thomas. Married Ann H. Winfield Barnes in Madison County, Kentucky, on June 1, 1848. Father of John W. Barnes, Bettie Barnes, Sidney M. Barnes, and Thomas G. Barnes. Clerk in Madison County in 1850. Clerk for Madison County Court from 1855 to 1863. Owned three enslaved people in Richmond in 1860. Died in Madison County on January 24, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Madison County, District 1, p. 205B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Madison County, Richmond, p. 146.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Madison County, Richmond, p. 474B.<lb/>
+<hi rend="italic">Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1855</hi>, Legislative Document Series, No. 1 (Frankfort, Ky.: A. G. Hodges, State Printer, 1856), 357.<lb/>
+<hi rend="italic">Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1860</hi>, Legislative Document Series, No. 1 (Frankfort, Ky.: Jno. B. Major, State Printer, 1861), 359.<lb/>
+<hi rend="italic">Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1861</hi>, Legislative Document Series, No. 1 (Frankfort, Ky.: Jno. B. Major, State Printer, 1862), 308.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994047, Madison County Deaths, p. 1.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994047, Madison County Deaths, p. 3.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Madison County Marriages, Film #000254628, p. 164.<lb/>
+<hi rend="italic">Kentucky, Wills and Probate Records, 1774-1989</hi>, Kentucky County, District, and Probate Courts, Madison County Administrators Bonds, 1830-1869, p. 25.<lb/>
+&quot;Thomas H. Barnes (1822-1863),&quot; Find A Grave, Memorial #71757014, accessed July 12, 2021, http://www.findagrave.com/memorial/71757014.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
