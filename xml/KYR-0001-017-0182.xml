@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0182"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Somerset Ky
+   <p><placeName ref="cwgk:P00001061">Somerset </placeName><placeName ref="cwgk:P001800">Ky</placeName>
 <lb/><date when="1861-07-16">July 16<hi rend="sup">th</hi> 1861</date>
-<lb/>Beriah Magoffin Governer of Kentucky</p>
-<p>I hereby tender my resignation as Justice of the peace for district No 1. Pulaski County to take effect as of the above date -- </p>
+<lb/><persName ref="cwgk:N00000258">Beriah Magoffin</persName> Governer of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p><persName ref="cwgk:N00000272">I</persName> hereby tender my resignation as Justice of the peace for district No 1. <orgName ref="cwgk:O00000677">Pulaski County</orgName> to take effect as of the above date -- </p>
 <p><hi rend="underline">John E Cosson</hi><pb/></p>
 <p>260
 <lb/><hi rend="underline">6 </hi><hi rend="underline"><hi rend="sup">1</hi></hi><hi rend="underline">/</hi><hi rend="underline"><hi rend="sub">4</hi></hi><hi rend="underline">
 <lb/></hi>15 60
 <lb/><hi rend="underline">65</hi>
-<lb/>&#36;16,25</p>
+<lb/>$16,25</p>
 <p>Pulaski Co<figure type="hr"/></p>
 <p>Resignation of
 <lb/>John E Cosson
 <lb/>Dist N<hi rend="sup">o</hi>. 1
-<lb/><date when="1861-08-07">Aug 7. 1861></date></p>
+<lb/><date when="1861-08-07">Aug 7. 1861&gt;</date></p>
 <p>Accepted
 <lb/>B. M</p>
   </body>
