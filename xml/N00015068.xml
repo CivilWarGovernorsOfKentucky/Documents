@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015068">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry B. Grant</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015068">
+                    <persName>
+                      Henry B. Grant
+                        (Jefferson County, Kentucky, clerk, notary, and captain (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1837-03"  ><ab>1837-03</ab></event>
+                        <event type="death"  when="1926-08-26"  ><ab>1926-08-26</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, clerk, notary, and soldier. Auburn, New York, native. Son of Lorain Grant and Betsy Grant. Married to Maria L. Richardson Grant in Louisville, Kentucky, on February 26, 1863. Father of Rebecca Grant. Resident in Cass County, Michigan, in 1850. Clerk for Northern Bank in Louisville, Kentucky, in 1861. Notary in Louisville in 1861. Served in the twenty-seventh Kentucky Infantry (U.S.A.) as captain from October 20, 1861, to January 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Michigan, Cass County, Ontwa, p. 257A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, p. 430B-431A. <lb/>
+“Captain H. B. Grant One of the Most Prominent Masons in Kentucky Dies at His Home in Louisville,” <hi rend="italic">The Central Record</hi> (Lancaster, KY), Aug. 30, 1912, p. 2.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 398.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000482709, p. 151.<lb/>
+<hi rend="italic">Tanner&#39;s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville, KY: Directory Publication and Advertising Agency, 1861), 103.<lb/>
+&quot;Henry Bannister Grant (1837-1926),&quot; Find A Grave, Memorial #84519169, accessed July 15, 2021, http://www.findagrave.com/memorial/84519169.<lb/>
+KYR-0001-017-0183.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
