@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0188"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Carson City, Nevada Terr<hi rend="sup">y</hi>
+   <p><placeName ref="cwgk:P00015396">Carson City</placeName>, <placeName ref="cwgk:P00015192">Nevada Terr<hi rend="sup">y</hi></placeName>
 <lb/><date when="1861-07-25">25<hi rend="sup">th</hi> July 1861.</date>
-<lb/>Sir:</p>
-<p>My professional experience in this Territory having shown me the inconvenience to which persons are subjected by there being no one here authorized to take the acknowledgment of Deeds and other instruments of writing to be used in your State, I respectfully solicit the appointment from you of Commissioner of Deeds.</p>
+<lb/><persName ref="cwgk:N00000258">Sir</persName>:</p>
+<p><persName ref="cwgk:N00015398">My</persName> professional experience in this Territory having shown me the inconvenience to which persons are subjected by there being no one here authorized to take the acknowledgment of Deeds and other instruments of writing to be used in your <orgName ref="cwgk:O001025">State</orgName>, I respectfully solicit the appointment from you of Commissioner of Deeds.</p>
 <p>I would state that I have been a resident of this City for the last Seventeen months, and am a member of the Bar.</p>
 <p>Should I receive the Office I trust that the duties will be performed in such manner as not to discredit the appointing power.</p>
 <p>With very great respect
 <lb/>Sir
 <lb/>Your <unclear>Obet ssvt</unclear>
 <lb/>Samuel D. King
-<lb/>Recorder of Carson County</p>
+<lb/>Recorder of <placeName ref="cwgk:P00015397">Carson County</placeName></p>
 <p>The Governor of the State of Kentucky.<pb/></p>
 <p>Nevada Ter
 <lb/><hi rend="str">California</hi></p>
