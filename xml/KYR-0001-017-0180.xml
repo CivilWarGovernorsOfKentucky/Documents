@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0180"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Richmond Ky
+   <p><placeName ref="cwgk:P00009682">Richmond</placeName> <placeName ref="cwgk:P001800">Ky</placeName>
 <lb/><date when="1861-07-22">July 22<hi rend="underline"><hi rend="sup">nd</hi></hi> 1861</date>
-<lb/>Ja<hi rend="sup">s</hi> W. Tate Esqr
+<lb/><persName ref="cwgk:N00001223">Ja<hi rend="sup">s</hi> W. Tate</persName> Esqr
 <lb/>Dear Sir</p>
 <p>Yours of the <date when="1861-07-19">19<hi rend="underline"><hi rend="sup">th</hi></hi> Inst -- </date> was duly recv<hi rend="underline"><hi rend="sup">d</hi></hi></p>
-<p>I have inquired of <hi rend="str">of</hi> the clerk of the Madison County Court &amp; he informs me that E. K. Howard the Justice who has resigned resides, &amp; was formerly magistrate, in the 8<hi rend="underline"><hi rend="sup">th</hi></hi> District of Madison County -- </p>
+<p>I have inquired of <hi rend="str">of</hi> the <persName ref="cwgk:N00014994">clerk</persName> of the <orgName ref="cwgk:O00000657"><placeName ref="cwgk:P00006506">Madison County</placeName> Court</orgName> &amp; he informs me that<persName ref="cwgk:N00014995"> E. K. Howard</persName> the Justice who has resigned resides, &amp; was formerly magistrate, in the 8<hi rend="underline"><hi rend="sup">th</hi></hi> District of Madison County -- </p>
 <p>The Rev. statutes of Ky makes it necessary for a vacancy in the office of Justice of the Peace to be filled by the appointment of the Governor<pb/>
-<lb/>temporarily until the next succeeding <date when="--05">May</date> or <date when="--08">August</date> election whichever shall first transpire -- As it is now but a few days until the <date when="1861-08">August</date> election it will be impossible to have an election for Justice this year in the 8<hi rend="underline"><hi rend="sup">th</hi></hi> district You will therefore oblige both W. S. Taylor &amp; myself by issuing the Commission So that the election will come on next year</p>
+<lb/>temporarily until the next succeeding <date when="--05">May</date> or <date when="--08">August</date> election whichever shall first transpire -- As it is now but a few days until the <date when="1861-08">August</date> election it will be impossible to have an election for Justice this year in the 8<hi rend="underline"><hi rend="sup">th</hi></hi> district You will therefore oblige both <persName ref="cwgk:N00014996">W. S. Taylor</persName> &amp; myself by issuing the Commission So that the election will come on next year</p>
 <p>Respectfully
-<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> B. M<hi rend="sup">c</hi>Creary
+<lb/><persName ref="cwgk:N00007507">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> B. M<hi rend="sup">c</hi>Creary</persName>
 <lb/></p>
   </body>
  </text>
