@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Charles Welsko</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,9 @@
                 <person xml:id="N00012135">
                     <persName>
                       Samuel Ledgewood
-                        (Union County, Tennessee, resident.)
+                        (Union County, Tennessee, farmer)
                     </persName>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +58,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned as a Union County, Tennessee, juror in a bond for the State of Tennessee v. William B. Chapman in 1861.</p>
+        <p>Union County, Tennessee, farmer. Farmer in Union County in 1860. Juror in the case of the State of Tennessee v. William B. Chapman in 1861.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-021-0031.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Agriculture Schedules, Tennessee, Union County, District 5.<lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Agriculture Schedules, Tennessee, Union County, District 6, p. 5.<lb/>
+KYR-0001-021-0031.
 </bibl></ab>
     </back>
 </text>
