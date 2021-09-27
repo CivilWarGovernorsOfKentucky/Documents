@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Charles Welsko</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00012122">
                     <persName>
                       John Smith
-                        (Union County, Tennessee, resident)
+                        (Union County, Tennessee, farmer)
                     </persName>
+                        <event type="birth"  when="1835-07-28"  ><ab>1835-07-28</ab></event>
+                        <event type="death"  when="1912-12-25"  ><ab>1912-12-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned as a Union County, Tennessee, juror in a bond for the State of Tennessee v. William B. Chapman in 1861.</p>
+        <p>Union County, Tennessee, farmer. Tennessee native. Son of James Smith. Married to Mary J. Shelton Davis. Father of Sarah A. Davis, Milton C. Smith, Malissa Calcy Smith, and Lucy M. Smith. Student in Grainger County, Tennessee, in 1850. Farmer in Union County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-021-0031.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Grainger County, District 13, p.112A-B. <lb/>
+ <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Union County, District 3, p. 436A.<lb/>
+ <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Tennessee, Union County, District 3, p. 219B.<lb/>
+<hi rend="italic">Tennessee Death Records, 1908-1958</hi>, Tennessee State Library and Archives, Nashville, TN, File #30052.<lb/>
+&quot;John Smith (1835-1912),&quot; Find A Grave, Memorial #79359794, accessed September 27, 2021, https://www.findagrave.com/memorial/79359794/.
 </bibl></ab>
     </back>
 </text>
