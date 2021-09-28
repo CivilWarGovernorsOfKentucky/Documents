@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0196"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Commonwealth of Kentucky
-<lb/>Clinton County sct.</p>
-<p>We W<hi rend="sup">m</hi> Vann. P. P. Wood and Moses Miller duly authorized to Compare the Poll Books for the county of Clinton, do certify that at an Election held in said County on the <date when="1861-08-05">5th day of August 1861.</date> James Johnston Jr was duly elected to fill the office of Justice of the peace for the first District of said County of Clinton.</p>
+   <p><orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>
+<lb/><orgName ref="cwgk:O00000611">Clinton County sct</orgName>.</p>
+<p>We <persName ref="cwgk:N00015729">W<hi rend="sup">m</hi> Vann</persName>. <persName ref="cwgk:N00015730">P. P. Wood</persName> and <persName ref="cwgk:N00015777">Moses Miller</persName> duly authorized to Compare the Poll Books for the county of <placeName ref="cwgk:P001032">Clinton</placeName>, do certify that at an Election held in said County on the <date when="1861-08-05">5th day of August 1861.</date> <persName ref="cwgk:N00015822">James Johnston Jr </persName>was duly elected to fill the office of Justice of the peace for the first District of said County of Clinton.</p>
 <p>Given under our hand this <date when="1861-08-08">8th day of August 1861.</date></p>
 <p>W<hi rend="sup">m</hi> Vann P J C C C
 <lb/>J. J. Wood Shff
 <lb/>Moses Miller D Clk
-<lb/>For C. P. Gray Clk<pb/></p>
+<lb/>For <persName ref="cwgk:N00012193">C. P. Gray</persName> Clk<pb/></p>
 <p>Clinton Co
 <lb/>J. P.
 <lb/>Com<hi rend="sup">d</hi> <date when="1861-09-03">Sept 3. 1861</date></p>
