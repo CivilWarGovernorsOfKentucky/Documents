@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015520">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William P. Crosthwait</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015520">
+                    <persName>
+                      William P. Crosthwait
+                        (Harrison County, Kentucky, farmer and justice of the peace)
+                    </persName>
+                        <event type="birth"  when="1814-10-20"  ><ab>1814-10-20</ab></event>
+                        <event type="death"  when="1887-05-24"  ><ab>1887-05-24</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Harrison County, Kentucky, farmer and justice of the peace. Kentucky native. Son of William Crosthwait. Married to Jane Faulconer Crosthwait in Harrison County, Kentucky, in September 1834. Father of Louisa Crosthwait, Mary E. Crosthwait, William T. Crosthwait, and Susan A. Crosthwait. Married to Emily Hutcherson Crosthwait in Harrison County on July 11, 1842. Father of Sarah F. Crosthwait, Elizabeth J. Crosthwait, Lizaett Croswthwait, John P. Crosthwait, James M. Crosthwait, and Henry F. Crosthwait. Married to Maria Trimble Crosthwait in Harrison County on October 18, 1860. Father of Lewis E. Crosthwait and Maggie M. Crosthwait. Farmer in Harrison County, Kentucky, in 1850. Employed Richard Perkins and Alfred Perkins as laborers in Harrison County in 1850. Justice of the peace in Harrison County from 1859 to 1861. Farmer in Harrison County in 1860. Owned three enslaved persons in Harrison County in 1860. Employed John Perkins as a farmhand in Harrison County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Harrison County, District 2, p. 150 A<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrison County, District 2, p. 530.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Harrison County, City/District, p. 116 A-B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Harrison County, Cutland, p. 238 B. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Harrison County Marriages, Film #000216884.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Harrison County Marriages, Film #000216896.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994037, Harrison County Marriages, p. 206.<lb/>
+<hi rend="italic">Davis County, Kentucky, Register of Death</hi>, Beard’s Presbyterian Church, Church Registers, Presbyterian Historical Society, Philadelphia, PA, p. 132. <lb/>
+<hi rend="italic">History of Bourbon, Scott, Harrison, and Nicholas Counties, Kentucky</hi>, ed. William Henry Perrin (Chicago: O.L . Baskin &amp; Co. Historical Publishers, 1882.) 708-709. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
