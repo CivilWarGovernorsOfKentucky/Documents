@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015823">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert McMillian</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015823">
+                    <persName>
+                      Robert McMillian
+                        (Bourbon County, Kentucky, farmer and justice of the peace)
+                    </persName>
+                        <event type="birth"  when="1816-10-05"  ><ab>1816-10-05</ab></event>
+                        <event type="death"  when="1891-07-01"  ><ab>1891-07-01</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Bourbon County, Kentucky, farmer and justice of the peace. Clark County, Kentucky, native. Son of William McMillian and Sarah Elizabeth Frame McMillian. Married to Matilda Berkley in Clark County, Kentucky, on March 30, 1837. Father of Anna E. McMillian Talbott, William H. McMillian, and Robert S. McMillian. Married to Armilda Starks in Bourbon County on December 9, 1846. Father of John T. McMillian, Sarah J. McMillian, and Nancy McMillian. Married to Rarhema McMillian in Bourbon County on December 20, 1859. Farmer in Bourbon County in 1850. Owned five enslaved persons in Bourbon County in 1850. Justice of the peace in Bourbon County in 1861. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bourbon County, District 1, p. 283 B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Bourbon County, District 1, p. 483.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Bourbon County, North Middletown, p. 344 A-B. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994028, Bourbon County Marriages, p. 49-50.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994028, Bourbon County Marriages, p. 51-52.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Bourbon County Marriages, Film #001943687, p. 45.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Clark County Marriages, Film #004542764, p. 187.<lb/>
+<hi rend="italic">Lineage Book of the Charter Members of the National Society of the Daughters of the American Revolution</hi>, eds. Mary S. Lockwood and Susan Riviere Hetzel (Washington, D. C.: National Society of the Daughters of the American Revolution, 1891-1939) vol. 150: 1919, p. 281-282.<lb/>
+<hi rend="italic">Sons of the American Revolution Membership Applications, 1889-1970</hi>, National Society of the Sons of the American Revolution, Louisville, Ky, McMillian, National #41672, State #538.<lb/>
+KYR-0001-017-0197.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
