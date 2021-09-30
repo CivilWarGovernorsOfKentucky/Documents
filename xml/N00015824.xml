@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015824">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Erastus V. Trammel</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015824">
+                    <persName>
+                      Erastus V. Trammel
+                        (Clinton County, Kentucky, sadler, police judge, and private (C.S.A.))
+                    </persName>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <event type="death"  when="1907-06-19"  ><ab>1907-06-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Clinton County, Kentucky, sadler, police judge, and soldier. Kentucky native. Married to Susannah Jane Ryan Trammel. Father of Olear Trammel, Margaret Trammel, Charles Gray Trammel, and Mattie Trammel. Sadler in Clinton County, Kentucky, in 1860. Police judge of the Albany Police Court in Clinton County in 1861. Served in the 27th Texas Cavalry (C.S.A.) as private from March 26, 1862, to April 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clinton County, Albany, p. 282-283.<lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Texas</hi>, NARA RG 109, Microfilm Series M323, Roll 0142.<lb/>
+<hi rend="italic">Internment Control Forms, 1928-1972.</hi> Records of the Office of the Quartermaster General, 1774-1985. NARA at College Park, Md. RG 92, Entry A1 2110-B. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994032, Clinton County Births, p. 2.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #28821.<lb/>
+<hi rend="italic">Tennessee Death Certificates, 1914-1966</hi>, Tennessee Department of Health, Division of Vital Statistics, Tennessee State Archives and Libraries, Nashville, TN, File #24096.<lb/>
+KYR-0001-017-0198.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
