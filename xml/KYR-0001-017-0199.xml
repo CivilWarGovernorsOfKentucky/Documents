@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0199"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Sarah Haywood</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Sacramento, Cal:
+   <p><placeName ref="cwgk:P00014772">Sacramento</placeName>, <placeName ref="cwgk:P00002428">Cal</placeName>:
 <lb/><date when="1861-04-20">April 20 -- 1861.</date>
-<lb/>Hon B. M<hi rend="sup">c</hi>Goffin.
-<lb/>Govr of Kentucky.
+<lb/>Hon <persName ref="cwgk:N00000258">B. M<hi rend="sup">c</hi>Goffin</persName>.
+<lb/>Govr of <orgName ref="cwgk:O001025">Kentucky</orgName>.
 <lb/>Sir:</p>
-<p>I would respectfully request from you an appointment as Commissioner of Deeds &amp;c, to reside in the County of Sacramento, State of California.</p>
+<p>I would respectfully request from you an appointment as Commissioner of Deeds &amp;c, to reside in the <placeName ref="cwgk:P00015828">County of Sacramento</placeName>, State of California.</p>
 <p>I am an attorney at Law for many years resident of this State, and can refer to the various members of the bar in California.</p>
 <p>Very Respectfully &amp;c.
 <lb/><hi rend="underline">Francis Poe</hi><pb/></p>
@@ -78,7 +86,7 @@
 <lb/>Sacramento<figure type="hr"/></p>
 <p>Comn Iss<hi rend="sup">d</hi>
 <lb/><date when="1861-09-14">Sept 14. 1861</date></p>
-<p>Sec will issue Commission
+<p><persName ref="cwgk:N00002581">Sec</persName> will issue Commission
 <lb/>B. M</p>
   </body>
  </text>
