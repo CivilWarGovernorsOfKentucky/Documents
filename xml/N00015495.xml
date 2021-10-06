@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015495">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Sebastian E. Fouts</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015495">
+                    <persName>
+                      Sebastian E. Fouts
+                        (Morgan County, OH, carpenter and clerk )
+                    </persName>
+                        <event type="birth"  when="1803-07-23"  ><ab>1803-07-23</ab></event>
+                        <event type="death"  when="1875-07-28"  ><ab>1875-07-28</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Morgan County, Ohio, carpenter and clerk. Virginia native. Married to Sarah Wells Fouts in Morgan County, Ohio, on May 27, 1828. Father of Andrew J. Fouts and Ruth Elizabeth Fouts Shepherd. Married to Mariah Cunningham Fouts in Muskingum County on April 9, 1846. Carpenter for windmill maker William Adams in Morgan County, Ohio, in 1850. Clerk in McConnelsville in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Morgan County, Morgan, p. 238B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Morgan County, McConnelsville, p. 298-99.<lb/>
+<hi rend="italic">Iowa, Death Records, 1920-1967</hi>, State Historical Society of Iowa, Des Moines, Iowa, Pottawattamie County Death Registers, 1921-1929, File #078-108.<lb/>
+<hi rend="italic">Ohio Marriage Records, 1774-1993</hi>, Morgan County Marriages, Film #000910657, p. 137.<lb/>
+<hi rend="italic">Ohio Marriage Records, 1774-1993</hi>, Muskingum County Marriages, Film #000865137, p. 434.<lb/>
+&quot;Sebastian E. Fouts (1803-1875),&quot; Find A Grave, Memorial #6520796, accessed October 6, 2021, https://www.findagrave.com/memorial/6520796/.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
