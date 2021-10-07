@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014076">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Hutchinson Bugg</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014076">
+                    <persName>
+                      George Hutchinson Bugg
+                        (Caldwell County, Kentucky, farmer)
+                    </persName>
+                        <event type="birth"  when="1818-12-01"  ><ab>1818-12-01</ab></event>
+                        <event type="death"  when="1890-04-25"  ><ab>1890-04-25</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Caldwell County, Kentucky, Farmer. Kentucky native. Married to Mary Jane Lowery Bugg. Father of James L. Bugg, John S. Bugg, Sarah Bugg, Nancy Bugg, William Bugg, George F. Bugg, Mary Bugg, and Grace J. Bugg. Farmer in Caldwell County in 1850. Farmer in Fredonia in 1860. Owned three enslaved persons in Caldwell County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 310a.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Fredonia, p. 162.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Caldwell County, Fredonia, p. 211.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Caldwell County, Fredonia, p. 440b.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994027, Caldwell County Births, p. 2.<lb/>
+&quot;George H. Bugg (1819-1890),&quot; Find A Grave, Memorial #34832214, accessed March 2, 2021, http://www.findagrave.com/memorial/34832214/george-hutchinson-bugg.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
