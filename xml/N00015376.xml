@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015376">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John &quot;Hamilton&quot; Day</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015376">
+                    <persName>
+                      John &quot;Hamilton&quot; Day
+                        (Harrison County, Kentucky, farmer )
+                    </persName>
+                        <event type="birth"  when="1838-04-12"  ><ab>1838-04-12</ab></event>
+                        <event type="death"  when="1876-08-02"  ><ab>1876-08-02</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Harrison County, Kentucky, farmer. Kentucky native. Son of John M. Day and Eliza S. Day. Married to Martha Jones Day in Harrison County, Kentucky, on October 16, 1859. Father of Cordelia Day. Resident of Harrison County in 1850. Farmer in Harrison County in 1860. Farmer in Harrison County in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Harrison County, District 2, p. 128B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrison County, District 2, p. 499.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Harrison County, Berryville, p. 93A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994037, Harrison County Marriages, p. 131.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> Records of the Provost Marshal General&#39;s Bureau (Civil War) NARA RG 110, Harrison County, KY, June and July 1863, p. 127.<lb/>
+&quot;John Hamilton &quot;Ham&quot; Day (1838-1876),&quot; Find A Grave, Memorial #46778850, accessed August 18, 2021, http://www.findagrave.com/memorial/46778850.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
