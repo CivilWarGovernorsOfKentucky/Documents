@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016062">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Jonathan Tyson </title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016062">
+                    <persName>
+                      Jonathan Tyson 
+                        (Gallatin County, Kentucky, painter and justice of the peace)
+                    </persName>
+                        <event type="birth"  when="1815-10-20"  ><ab>1815-10-20</ab></event>
+                        <event type="death"  when="1865-03-31"  ><ab>1865-03-31</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Gallatin County, Kentucky, painter and justice of the peace. Pennsylvania native. Married to Frances Ann Oliver Tyson in Gallatin County, Kentucky, on May 31, 1838. Father of Martha Tyson Stodghill, William Tyson, Oliver Tyson, Jennie Tyson, and Alice Tyson. Farmer in Owen County, Kentucky, in 1840. Owned one enslaved person in Owen County in 1840. Painter in Gallatin County in 1860. Justice of the peace in Gallatin County in 1862. Died in Gallatin County on March 31, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Kentucky, Owen County, p. 184.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Gallatin County, Warsaw, p. 524.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Gallatin County Marriages, Film #000509036, p. 171.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Gallatin County Marriages, Film #000509036, p. 101.<lb/>
+&quot;Jonathan Tyson (1815-1865),&quot; Find A Grave, Memorial #100653933, accessed October 14, 2021, http://www.findagrave.com/memorial/100653933. <lb/>
+KYR-0001-031-0030. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
