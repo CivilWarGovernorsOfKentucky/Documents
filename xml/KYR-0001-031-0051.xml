@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0051"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>A. A. Gordon, President.
-<lb/><hi rend="str">Will. Garnett</hi> ^J. G. Barret^, Cashier.
-<lb/>Office Southern Bank of Kentucky,
-<lb/>Louisville, <date when="1862-11-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> Novem 1862</date>
-<lb/>James W. Tate Esq. Asst Secty of State
-<lb/>Frankfort Ky
+   <p><persName ref="cwgk:N00015854">A. A. Gordon</persName>, President.
+<lb/><hi rend="str">Will. Garnett</hi> ^<persName ref="cwgk:N002010">J. G. Barret</persName>^, Cashier.
+<lb/>Office <orgName ref="cwgk:O001005">Southern Bank of Kentucky</orgName>,
+<lb/><placeName ref="cwgk:P00000337">Louisville</placeName>, <date when="1862-11-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> Novem 1862</date>
+<lb/><persName ref="cwgk:N00001223">James W. Tate</persName> Esq. Asst Secty of State
+<lb/><placeName ref="cwgk:P00000308">Frankfort </placeName><placeName ref="cwgk:P001800">Ky</placeName>
 <lb/>Sir!</p>
-<p>Please grant me a commission as Notary Public in Jefferson County, any reference needed as to character can be given you, am Teller in the above Bank. an early compliance will greatly oblige</p>
+<p>Please grant me a commission as Notary Public in <placeName ref="cwgk:P001005">Jefferson County</placeName>, any reference needed as to character can be given you, am Teller in the above Bank. an early compliance will greatly oblige</p>
 <p>Yours respectfully
-<lb/>R. H. Courtney.<pb/></p>
+<lb/><persName ref="cwgk:N00015855">R. H. Courtney</persName>.<pb/></p>
 <p>Jefferson Co<figure type="hr"/></p>
 <p>Notary
 <lb/>R. H. Courtney
