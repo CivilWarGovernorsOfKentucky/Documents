@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016099">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Alexander W. Johnson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016099">
+                    <persName>
+                      Alexander W. Johnson
+                        (Campbell County, Kentucky, carpenter and justice of the peace)
+                    </persName>
+                        <event type="birth"  when="1813"  ><ab>1813</ab></event>
+                        <event type="death"  when="1882"  ><ab>1882</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Campbell County, Kentucky, carpenter and justice of the peace. New York native. Married to Malinda Thatcher Johnson. Father of Mary E. Johnson, Ann M. Johnson, Rosanna Johnson, James A. Johnson, Elizaelda E. Johnson, and Lydia B. Johnson. Carpenter in Campbell County, Kentucky, in 1850. Justice of the peace in Campbell County in 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Campbell County, District 2, p. 90B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Marion County, Indianapolis Ward 8, 18th Subdivision, p. 508A. <lb/>
+<hi rend="italic">Kentucky Birth Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994030, Campbell County Births, p. 9.<lb/>
+&quot;A. W. Johnson (1813-1882),&quot; Find A Grave, Memorial #39349590, accessed October 19, 2021, http://www.findagrave.com/memorial/39349590. <lb/>
+KYR-0001-031-0021. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
