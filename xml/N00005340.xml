@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
           <respStmt>
@@ -50,6 +54,9 @@
                       George Herendon
                         (Campbell County Election Officer)
                     </persName>
+                        <event type="birth"  when="1806"  cert="medium" ><ab>c1806</ab></event>
+                        <event type="death"  when="1868"  cert="medium" ><ab>c1868</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +64,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Campbell County, Kentucky, election officer. Election officer at the Carthage Precinct. Prevented authorized voters from voting in August 1865.</p>
+        <p>Campbell County, Kentucky, farmer and election official. Kentucky native. Married to Susan G. Herendon. Father of Lewis F. Herendon, William P. Herendon, Martha E. Herendon, John W. Herendon, Eliza J. Herendon, Mary F. Herendon, and Elizabeth Herendon. Farmer in Campbell County in 1850. Owned one enslaved person in Campbell County in 1850. Election officer at the Carthage Precinct in August 1865.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0074.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Campbell County, District 2, p. 103A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Campbell County, District 2, p. 882.<lb/>
+<hi rend="italic">Kentucky, Wills and Probate Records, 1774-1989</hi>, Kentucky County, District, and Probate Courts, Campbell County Administrators Bonds, Vol. 3b-4, 1863-1920, p. 35<lb/>
+KYR-0001-005-0074.
 </bibl></ab>
     </back>
 </text>
