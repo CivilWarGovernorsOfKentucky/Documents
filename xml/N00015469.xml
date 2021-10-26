@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015469">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Benjamin C. Day</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015469">
+                    <persName>
+                      Benjamin C. Day
+                        (Cynthiana, Harrison Co., farmer, postmaster, and grocer )
+                    </persName>
+                        <event type="birth"  when="1804"  cert="medium" ><ab>c1804</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Harrison County, Kentucky, farmer, postmaster, and grocer. Virginia native. Married to Mary A. Keene Day. Father of Mary E. Day, Tabitha K. Day, Henrietta N. Day, Richard Emery Day, Martha W. Day, Puecilla Day, and Benjamin W. Day. Married to Rebecca E. Holding Day in Harrison County, Kentucky, on November 30, 1854. Stepfather of Delia Holding, Nannie E. Holding, and Elizabeth E. Holding. Married to America Evans Day in Harrison County on February 20, 1862. Resident of Harrison County in 1830. Owned two enslaved persons in Harrison County in 1830. Farmer in Harrison County in 1840. Owned four enslaved persons in Harrison County in 1840. Farmer in Harrison County in 1850. Owned four enslaved persons in Harrison County in 1850. Grocer in Cynthiana, Kentucky, in 1860. Postmaster in Cynthiana from June 1, 1861, to November 12, 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Fifth Manuscript Census of the United States</hi> (1830), Population Schedules, Kentucky, Harrison County, Western Division, p. 141.<lb/>
+<hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Kentucky, Harrison County, District 2, p. 132.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Harrison County, District 2, p. 128B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Harrison County, District 2, p. 122A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrison County, Cynthiana, p. 578.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #25840.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, 1783-1965, Madison County Courthouse, Richmond, Kentucky, Harrison County Marriages, 1783-1965, Film #000482436, p. 63.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, 1783-1965, Madison County Courthouse, Richmond, Kentucky, Harrison County Marriages, 1831-1867, Film #000216896, p. 235.<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi> Records of the Post Office Department, NARA Series M841, RG 28, Harrison County, Kentucky, vol. 28.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
