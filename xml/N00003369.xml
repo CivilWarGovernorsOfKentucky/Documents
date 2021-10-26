@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">A. T. Masencup</title>
+        <title level="a" type="main">Alex T. Masoncup</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -47,10 +51,11 @@
         <particDesc>
                 <person xml:id="N00003369">
                     <persName>
-                      A. T. Masencup
+                      Alex T. Masoncup
                         (Hopkins County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="birth"  when="1834-07-02"  ><ab>1834-07-02</ab></event>
+                        <event type="death"  when="1909-07-13"  ><ab>1909-07-13</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,11 +64,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Hopkins County, Kentucky, farmer. North Carolina native. Farmer in Hopkins County in 1863.</p>
+        <p>Hopkins County, Kentucky, farmer. North Carolina native. Son of Thomas Masoncup and Susan Masoncup. Farm laborer in Hopkins County, Kentucky, in 1860. Farmer in Hopkins County in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Hopkins County, KY, 1863, p. 141, (Accessed via ancestry.com).
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hopkins County, p. 645.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Hopkins County, KY, 1863, p. 26.<lb/>
+&quot;A. T. Masoncup (1834-1909),&quot; Find A Grave, Memorial #63483835, accessed October 26, 2021, http://www.findagrave.com/memorial/63483835.
 </bibl></ab>
     </back>
 </text>
