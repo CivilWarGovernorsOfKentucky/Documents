@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00016250">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">C. N. Warren &amp; Company</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00016250">
+                    <orgName>C. N. Warren &amp; Company</orgName>
+                        <event type="begun"  when="1860"  ><ab>1860</ab></event>
+                        <event type="ended"  when="1865"  ><ab>1865</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Exchange and banking office in Jefferson County, Kentucky. Operated from 1860 to 1865. Partners: Charles Newell Warren and J.P. Curtis. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">J. Smith Homans, ed.,</hi>The Bankers’ Magazine and Statistical Register<hi rend="italic">, vol. XV. (June 1861): 76. <lb/>
+_The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. I (Cincinnati: J. M. Armstrong &amp; Company, 1878), 461-462.<lb/>
+<hi rend="italic">History of the Ohio Falls Cities and Their Counties</hi>, vol. 1 (Cincinnati: L.A. Williams &amp; Co, 1882), 528. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
