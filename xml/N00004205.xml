@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,9 @@
                 <person xml:id="N00004205">
                     <persName>
                       Thomas Ward
-                        (farmer, garrard county)
+                        (Garrard County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1800"  cert="medium" ><ab>c1800</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +59,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of James Duddleson addressed to Beriah Magoffin from Garrard County, Kentucky, on December 8, 1861.</p>
+        <p>Garrard County, Kentucky, farmer. Virginia native. Married to Mary &quot;Polly&quot; Gully Ward in Garrard County on April 2, 1825. Father of Malinda Ward, Amanda Ward, Drury Ward, and Ellen Ward. Farmer in Garrard County, Kentucky, in 1850. Farmer in Garrard County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1571.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Garrard County, Division 1, p. 214B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Garrard County, p. 714. <lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Garrard County, Buckeye, p 391A.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #20731. 
 </bibl></ab>
     </back>
 </text>
