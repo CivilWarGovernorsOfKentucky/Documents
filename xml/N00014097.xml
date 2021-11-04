@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">F. B. Smith</title>
+        <title level="a" type="main">Thomas B. Smith</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jonathan Hardy</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Charles Welsko</name>
@@ -47,9 +51,11 @@
         <particDesc>
                 <person xml:id="N00014097">
                     <persName>
-                      F. B. Smith
-                        (Likely Fleming County, Kentucky, U.S. Commissioner)
+                      Thomas B. Smith
+                        (Fleming County, Kentucky, druggist, commissioner, and banker)
                     </persName>
+                        <event type="birth"  when="1819"  cert="medium" ><ab>c1819</ab></event>
+                        <event type="death"  when="1865"  cert="medium" ><ab>c1865</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -58,11 +64,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Sent a letter to W. S. Botts on behalf of David Willson from Flemingsburg, Kentucky, on August 27, 1862.</p>
+        <p>Fleming County, Kentucky, druggist, banker, and commissioner. Harrison County, Kentucky, native. Father of Sarah J. Smith, Eliza T. Smith, and William Smith. Married to S. J. Linsey Smith in Bath County, Kentucky, on September 18, 1854. Druggist in Bath County in 1850. Banker in Fleming County in 1863. Elected U. S. commissioner for the state of Kentucky in 1862.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-031-0003.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath County, Division 2, p. 1A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bath County, District 2, p. 455.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> Records of the Provost Marshal General&#39;s Bureau (Civil War) NARA RG 110, Harrison County, KY, October 1863, p. 141.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994028, Bath County Marriages.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, 1783-1965, Madison County Courthouse, Richmond, Kentucky, Garrard County Marriages, 1797-1861, Film #000216816.<lb/>
+&quot;Thomas B. Smith  (1819-1865),&quot; Find A Grave, Memorial #126115170, accessed November 4, 2021, https://www.findagrave.com/memorial/126115170.<lb/>
+KYR-0001-031-0006.
 </bibl></ab>
     </back>
 </text>
