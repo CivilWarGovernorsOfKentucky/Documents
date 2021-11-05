@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
     </titleStmt>
@@ -44,10 +48,11 @@
                 <person xml:id="N00005212">
                     <persName>
                       Jeremiah Martin
-                        (stone mason in Scott County)
+                        (Scott County, KY, stonemason)
                     </persName>
                         <event type="birth"  when="1804"  cert="medium" ><ab>c1804</ab></event>
                         <event type="death"  when="1864"  cert="medium" ><ab>c1864</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -55,11 +60,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Scott County, Kentucky, stone mason.  Native of Ireland. </p>
+        <p>Scott County, Kentucky, stonemason.  Native of Ireland. Stonemason in Scott County, Kentucky, in 1860. Killed in 1864, allegedly by Rial [Unknown].</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, District 1, p. 31.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, District 1, p. 909.<lb/>
+KYR-0001-005-0017.
 </bibl></ab>
     </back>
 </text>
