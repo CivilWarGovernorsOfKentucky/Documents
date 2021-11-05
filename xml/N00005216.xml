@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
           <respStmt>
@@ -48,10 +52,11 @@
                 <person xml:id="N00005216">
                     <persName>
                       David C. Covington
-                        (millwright, Owen, Scott Counties)
+                        (Owen, Scott Counties, KY, millwright, pvt in 9th KY Cav USA)
                     </persName>
                         <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
-                        <event type="death"  when="1863"  cert="medium" ><ab>c1863</ab></event>
+                        <event type="death"  when="1863-08-11"  ><ab>1863-08-11</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,11 +64,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Owen County, Kentucky, millwright. Kentucky native. Millwright in Owen County in 1860. </p>
+        <p>Owen County, Kentucky, millwright and soldier. Kentucky native. Millwright in Owen County, Kentucky, in 1860. Served in the 9th Kentucky Volunteer Cavalry Regiment (U.S.A.) as a private from August 22, 1862, until his death on August 11, 1863. Allegedly killed by John Spencer in Stamping Ground, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owen County, District 1, p. 23. KYR-0001-005-0018
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owen County, District 1, p. 27.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 095.<lb/>
+KYR-0001-005-0017.
 </bibl></ab>
     </back>
 </text>
