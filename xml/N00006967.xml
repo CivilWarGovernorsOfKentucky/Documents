@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Nasmanres Teartner</title>
+        <title level="a" type="main">Normandes G. Forkner</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -43,21 +47,27 @@
         <particDesc>
                 <person xml:id="N00006967">
                     <persName>
-                      Nasmanres Teartner
-                        (Powell County, Kentucky, resident)
+                      Normandes G. Forkner
+                        (Powell County, Kentucky, farmer)
                     </persName>
-                      <trait type="gender" subtype="U"/>
+                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Powell County, Kentucky, resident. Signed a petition for Bazel Hall.</p>
+        <p>Powell County, Kentucky, farmer. Montgomery County, Kentucky, native. Son of Jonas Forkner and Nancy Forkner. Married to Sarah E. Garrett Forkner in Powell County, Kentucky, on December 30, 1858. Father of Harriett Forkner, John W. Forkner, and Adeline Forkner. Student in Montgomery County, Kentucky, in 1850. Farmer in Powell County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0570.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 51B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Powell County, p. 14-15.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Powell County, Precinct 2, p. 135A. <lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> Records of the Provost Marshal General&#39;s Bureau (Civil War) NARA RG 110, Powell County, KY, October 1863, p. 130.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994053, Powell County Marriages.
 </bibl></ab>
     </back>
 </text>
