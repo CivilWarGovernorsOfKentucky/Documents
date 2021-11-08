@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00004253">
                     <persName>
                       John Nave
-                        (farmer, garrard county)
+                        (Garrard County, KY, farmer and enslaver)
                     </persName>
-                        <event type="birth"  when="1802"  cert="medium" ><ab>c1802</ab></event>
+                        <event type="birth"  when="1802-02-12"  ><ab>1802-02-12</ab></event>
+                        <event type="death"  when="1865-01-19"  ><ab>1865-01-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,12 +60,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Garrard County, Kentucky, farmer. Virginia native. Married to Sophenie Tarkington Nave. Farmer in Garrard County in 1860. </p>
+        <p>Garrard County, Kentucky, farmer. Virginia native. Married to Serphinia W. Totten Nave in Garrard County, Kentucky, on January 17, 1830. Father of Joseph P. Nave, James D. Nave, Malinda F. Nave, Alexander Nave, and Mary E. Nave. Owned one enslaved person in Jessamine County in 1840. Farmer in Garrard County in 1850. Farmer in Garrard County in 1860.  Owned one enslaved person in Jessamine County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Garrard County, p. 96. <lb/>
-<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, KDLA, Roll #7017486, Boyle County Deaths, file #27219.
+        <ab><bibl><hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Kentucky, Jessamine County, p. 235.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Garrard County, City/District, p. 255A-B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Garrard County, p. 726. <lb/>
+&quot;John D. Nave (1802-1865),&quot; Find A Grave, Memorial #195541237, accessed November 8, 2021, https://www.findagrave.com/memorial/195541237.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #27219.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, 1783-1965, Madison County Courthouse, Richmond, Kentucky, Garrard County Marriages, 1797-1861, Film #000183256.
 </bibl></ab>
     </back>
 </text>
