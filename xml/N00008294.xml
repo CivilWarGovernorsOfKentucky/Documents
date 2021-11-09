@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>
           <respStmt>
@@ -48,9 +52,11 @@
                 <person xml:id="N00008294">
                     <persName>
                       William M. Cox
-                        (Hopkins Co.)
+                        (Hopkins Co. KY, resident)
                     </persName>
-                        <event type="birth"  when="1844"  cert="medium" ><ab>c1844</ab></event>
+                        <event type="birth"  when="1843-07-24"  ><ab>1843-07-24</ab></event>
+                        <event type="death"  when="1895-07-04"  ><ab>1895-07-04</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,11 +64,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Hopkins County, Kentucky, resident. Missouri native. Married to Mary E Cox. </p>
+        <p>Hopkins County, Kentucky, resident. Missouri native. Son of Temperance B. Cox. Married to Mary E Cargill Cox. Student in St. Clair County, Missouri, in 1850. Student in St. Clair County in 1860. Resident of Hopkins County, Kentucky, in 1863. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hopkins County, Nebo Precinct 4, p.3.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Missouri, St. Clair County, District 79, p. 118B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules,  Missouri, St. Clair County, Osceola, p. 888.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hopkins County, Nebo Precinct 4, p.3.<lb/>
+&quot;William McFarlin Cox (1843-1895),&quot; Find A Grave, Memorial #74824870, accessed November 8, 2021, https://www.findagrave.com/memorial/74824870.<lb/>
+KYR-0001-004-0137.
 </bibl></ab>
     </back>
 </text>
