@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016060">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William D. Moore</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016060">
+                    <persName>
+                      William D. Moore
+                        (Hopkins County, Kentucky, student, farm laborer, and soldier)
+                    </persName>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hopkins County, Kentucky, student, farm laborer, and soldier. Kentucky native. Son of John H. Moore and Catherine Moore. Student in Hopkins County, Kentucky, in 1850. Farm laborer in McLean County in 1860. Served in the 4th Kentucky Volunteer Infantry Regiment (C.S.A) as a private and second sergeant from August 1, 1861 to May 6, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hopkins County, District 2, p. 162A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, p. 110.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65</hi>, vol. 1 (Frankfort: Legislature of Kentucky, 1915), p. 170-1.<lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0101.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
