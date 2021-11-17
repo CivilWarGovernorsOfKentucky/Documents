@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0941"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,26 +71,26 @@
  </teiHeader>
  <text>
   <body>
-   <p>Ohio.
-<lb/>Washington D. C. <date when="1864-06-21">June 21" 1864</date><figure type="hr"/>
-<lb/>James C. Wetmore O. S. M Agent.<figure type="hr"/>
-<lb/>Refers application for the release of Lt Buffum sentenced to 3 years imprisonment for larceny of a pair of boots.<figure type="hr"/>
-<lb/>War Department
-<lb/>Adjt Genl Office
-<lb/><date when="1864-06-27">June 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
-<p>Respectfully referred to the Judge Advocate Genl. for report.</p>
-<p>By order of the Secretary of War
-<lb/>(signed) Tho<hi rend="underline"><hi rend="sup">s</hi></hi> M. Vincent.
-<lb/>Asst. Adjt Genl.<figure type="hr"/></p>
-<p>Bureau of Military Justice
-<lb/><date when="1864-08-13">August 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.</p>
-<p>Respectfully submitted to the Sec<hi rend="sup">ty</hi> of War, in connection with the letter of J. R. Dupuy Esq<hi rend="underline"><hi rend="sup">r</hi></hi> Commonwealth's Attorney. This letter together with those of M<hi rend="sup">r</hi>. Pittinger &amp; M<hi rend="sup">rs</hi>. Buffum furnishes the only information I have been enabled to obtain, in reference to the offence of late Lieut Buffum notwithstanding the emphatic assertion of M<hi rend="sup">r</hi>. Dupuy, that there were no mitigating circumstances in the case, it is at least possible if not probable that as urged by his wife &amp; M<hi rend="underline"><hi rend="sup">r</hi></hi> Pittinger, the crime was committed while the Prisoner was under the influence of liquor That a soldier capabale of such patriotic daring as he had previously
-<lb/><cb n="3"/>displayed, should with a sword at his side &amp; a commission in his pocket, be capable while in his senses of so petty a theft as this, can scarcely be believed Lt Buffum, while a private soldier, as a member of the expedition organized by Gen Mitchell for cutting the eney's communications, rendered most important services to the government, and rendered them under cirucmstances of extreme peril &amp; prolonged suffering For this he received a medal of honor from the Sercretary of War &amp; a Commission from the Governor of Ohio. His release from his present humiliating confinement<milestone unit="column" n="2"/><pb/>
-<lb/><cb n="1"/>would seem to be but a just appreciation of these services. -- It is therefore recommended that upon this ground the Governor of Kentucky be requested to pardon him.</p>
-<p>(signed) J. Holt
-<lb/>Judge Advocate Genl.
+   <p><placeName ref="cwgk:P001036">Ohio.</placeName>
+<lb/><placeName ref="cwgk:P00001134">Washington D. C. </placeName><date when="1864-06-21">June 21" 1864</date><figure type="hr"/>
+<lb/><persName ref="cwgk:N00010610">James C. Wetmore</persName> O. S. M Agent.<figure type="hr"/>
+<lb/>Refers application for the release of <persName ref="cwgk:N00010604">Lt Buffum</persName> sentenced to 3 years imprisonment for larceny of a pair of boots.<figure type="hr"/>
+<lb/><orgName ref="cwgk:O00005118">War Department
+</orgName><lb/><orgName ref="cwgk:O00010608">Adjt Genl Office
+</orgName><lb/><date when="1864-06-27">June 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
+<p>Respectfully referred to the <orgName ref="cwgk:O00010606">Judge Advocate Genl.</orgName> for report.</p>
+<p>By order of the <persName ref="cwgk:N00002647">Secretary of War</persName>
+<lb/>(signed) <persName ref="cwgk:N00005761">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> M. Vincent.
+</persName><lb/>Asst. Adjt Genl.<figure type="hr"/></p>
+<p><orgName ref="cwgk:O00010605">Bureau of Military Justice
+</orgName><lb/><date when="1864-08-13">August 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.</p>
+<p>Respectfully submitted to the Sec<hi rend="sup">ty</hi> of War, in connection with the letter of<persName ref="cwgk:N002002"> J. R. Dupuy</persName> Esq<hi rend="underline"><hi rend="sup">r</hi></hi> Commonwealth's Attorney. This letter together with those of <persName ref="cwgk:N00010602">M<hi rend="sup">r</hi>. Pittinger</persName> &amp; <persName ref="cwgk:N00010620">M<hi rend="sup">rs</hi>. Buffum</persName> furnishes the only information I have been enabled to obtain, in reference to the offence of late Lieut Buffum notwithstanding the emphatic assertion of M<hi rend="sup">r</hi>. Dupuy, that there were no mitigating circumstances in the case, it is at least possible if not probable that as urged by his wife &amp; M<hi rend="underline"><hi rend="sup">r</hi></hi> Pittinger, the crime was committed while the Prisoner was under the influence of liquor That a soldier capabale of such patriotic daring as he had previously
+<lb/><cb n="3"/>displayed, should with a sword at his side &amp; a commission in his pocket, be capable while in his senses of so petty a theft as this, can scarcely be believed Lt Buffum, while a private soldier, as a member of the expedition organized by <persName ref="cwgk:N00010611">Gen Mitchell</persName> for cutting the eney's communications, rendered most important services to the government, and rendered them under cirucmstances of extreme peril &amp; prolonged suffering For this he received a medal of honor from the Sercretary of War &amp; a Commission from the <persName ref="cwgk:N00005318">Governor of Ohio</persName>. His release from his present humiliating confinement<milestone unit="column" n="2"/><pb/>
+<lb/><cb n="1"/>would seem to be but a just appreciation of these services. -- It is therefore recommended that upon this ground the <persName ref="cwgk:N001000">Governor of Kentucky</persName> be requested to pardon him.</p>
+<p>(signed) <persName ref="cwgk:N00010597">J. Holt
+</persName><lb/>Judge Advocate Genl.
 <lb/>Respectfully submitted to the Secretary of War.
-<lb/>(signed) U. A. Nichols
+<lb/>(signed)<persName ref="cwgk:N00005755"> U. A. Nichols</persName>
 <lb/>Asst Adjt Genl.</p>
 <p>A. G. Office
 <lb/><date when="1864-08-16">Aug<hi rend="sup">st</hi> 16<hi rend="sup">th</hi> 1864</date>.<figure type="hr"/></p>
