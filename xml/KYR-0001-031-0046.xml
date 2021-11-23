@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0046"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Cynthiana Ky <date when="1862-10-27">Octo 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1862.</date>
-<lb/>Hon James F. Robinson
+   <p><placeName ref="cwgk:P00005772">Cynthiana </placeName><placeName ref="cwgk:P001800">Ky </placeName><date when="1862-10-27">Octo 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1862.</date>
+<lb/>Hon <persName ref="cwgk:N001004">James F. Robinson</persName>
 <lb/>Dear Sir</p>
-<p>You will please Commission as <hi rend="underline">Justice of the Peace</hi> for this County recently elected at <date when="1862-08">August</date> Election R. J. Dabney District N<hi rend="sup">o</hi> 1. &amp; P. W. Stewart District N<hi rend="sup">o</hi> 6 as appears from the Poll Books filed in my Office; Your earliest attention is requested</p>
+<p>You will please Commission as <hi rend="underline">Justice of the Peace</hi> for this County recently elected at <date when="1862-08">August</date> Election <persName ref="cwgk:N00016405">R. J. Dabney</persName> District N<hi rend="sup">o</hi> 1. &amp; <persName ref="cwgk:N00016406">P. W. Stewart </persName>District N<hi rend="sup">o</hi> 6 as appears from the Poll Books filed in<persName ref="cwgk:N00011409"> my </persName>Office; Your earliest attention is requested</p>
 <p>Very Respectfully
 <lb/>Your Obt Sv<hi rend="underline"><hi rend="sup">t
-<lb/></hi></hi>Charles F. Wilson Clerk Co Ct.<pb/></p>
-<p><hi rend="underline">Harrison Co.</hi>
+<lb/></hi></hi>Charles F. Wilson Clerk <orgName ref="cwgk:O00000640">Co Ct</orgName>.<pb/></p>
+<p><hi><placeName ref="cwgk:P00002873">Harrison Co</placeName>.</hi>
 <lb/>J. P.
 <lb/>Dist N<hi rend="sup">o</hi> 1 &amp; 6 -- 
 <lb/>Com Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-11-01">Nov 1. 1862</date><figure type="hr"/></p>
