@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">David Ingler</title>
+        <title level="a" type="main">David Ingles</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Deborah J. Thompson</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,15 +47,29 @@
         <particDesc>
                 <person xml:id="N00016387">
                     <persName>
-                      David Ingler
-                        (Jessamine County, KY, possible military officer)
+                      David Ingles
+                        (Lexington, Kentucky, hack driver and dray man)
                     </persName>
-                        <trait type="race" subtype="White"/>
+                        <event type="birth"  when="1798"  cert="medium" ><ab>c1798</ab></event>
+                        <trait type="race" subtype="Black"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Lexington, Kentucky, hack driver and dray man. Virginia native. Married to Eliza Ann Ingles. Hack man in Lexington, Kentucky, in 1850. Dray man in Lexington in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fayette County, Lexington, p. 200A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington, p. 364.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, Lexington, p. 183B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994033, Fayette County Deaths, p. 155.<lb/>
+KYR-0001-004-1795. <lb/>
+KYR-0001-004-1660.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
