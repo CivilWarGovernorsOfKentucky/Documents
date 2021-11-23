@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1795"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>H'<hi rend="underline"><hi rend="sup">d</hi></hi> Q<hi rend="sup">rs</hi> 119" U S C I
-<lb/>Lexington, Ky.
+   <p>H'<hi rend="underline"><hi rend="sup">d</hi></hi> Q<hi rend="sup">rs</hi> <orgName ref="cwgk:O00016382">119" U S C I</orgName>
+<lb/><placeName ref="cwgk:P001002">Lexington</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>.
 <lb/>Sirs,</p>
-<p>Testimony has been given at this office, concerning the case of one, Lennie (Colored Girl) formerly belonging to Mr Bryant, near this city.</p>
-<p>Said girl claims to have left her master on strength of an order issued by Maj Gen'l Palmer freeing the <hi rend="underline">wive's</hi> of C'<hi rend="underline"><hi rend="sup">d</hi></hi> Soldiers -- She says that she is the wife of a colored Soldier of Capt Hall's Co. who left Camp Nelson last summer.</p>
-<p>If she still claims a Colored soldier as her husband. the bearer of this, David Engles. cannot be interfered with by civil law: for harbering the Girl from the reason, that, said order of Genl Palmer<pb/>
+<p>Testimony has been given at this office, concerning the case of one, <persName ref="cwgk:N00016383">Lennie</persName> (Colored Girl) formerly belonging to <persName ref="cwgk:N00016384">Mr Bryant</persName>, near this city.</p>
+<p>Said girl claims to have left her master on strength of an order issued by <persName ref="cwgk:N00006072">Maj Gen'l Palmer</persName> freeing the <hi rend="underline">wive's</hi> of C'<hi rend="underline"><hi rend="sup">d</hi></hi> Soldiers -- She says that she is the wife of a colored Soldier of <persName ref="cwgk:N00012748">Capt Hall</persName>'s <orgName ref="cwgk:O00016386">Co.</orgName> who left <orgName ref="cwgk:O00010592">Camp Nelson</orgName> last summer.</p>
+<p>If she still claims a Colored soldier as her <persName ref="cwgk:N00016407">husband</persName>. the bearer of this, <persName ref="cwgk:N00016387">David Engles</persName>. cannot be interfered with by civil law: for harbering the Girl from the reason, that, said order of Genl Palmer<pb/>
 <lb/>conflicts with civil law on that point.</p>
-<p>If he is interfered with by the court. his case shall be represented to Gen'l Brisbin who is in this City immediately. Said Engle's wife had authority from the military at Camp Nelson. to remove the Sick girl. Amand. to her home until the first of <date when="1865-05">May <hi rend="underline">1865</hi></date>. Amand went to Camp Nelson of her own accord and there got Sick.</p>
+<p>If he is interfered with by the court. his case shall be represented to <persName ref="cwgk:N00006081">Gen'l Brisbin</persName> who is in this City immediately. Said <persName ref="cwgk:N00016388">Engle's wife</persName> had authority from the <orgName ref="cwgk:O00001186">military</orgName> at Camp Nelson. to remove the Sick girl. <persName ref="cwgk:N00016430">Amand.</persName> to her home until the first of <date when="1865-05">May <hi rend="underline">1865</hi></date>. Amand went to Camp Nelson of her own accord and there got Sick.</p>
 <p>I am sirs
 <lb/>Your Obt Sevrt 
-<lb/>H H Hadley
+<lb/><persName ref="cwgk:N00016389">H H Hadley</persName>
 <lb/>Capt 119" U. S. C. I.
 <lb/>Lexington Ky<pb/></p>
 <p>32.55
