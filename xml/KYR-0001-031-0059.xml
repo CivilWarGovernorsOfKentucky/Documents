@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0059"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Ohio County Court Sct.</p>
-<p>Jacob H. Leach one of the present Justices of the Peace for District No 8 of this County filed in <unclear>Ohio</unclear> Court his written Resignation of Said office to take effect from this day It is therefore ordered that Said office be declared vacant and that John J. Leach be and he is hereby recommended to his Excellency the Governor of this Commonwealth to fill Said vacancy -- </p>
+   <p>State of <orgName ref="cwgk:O001025">Kentucky</orgName>
+<lb/><orgName ref="cwgk:O00000674">Ohio County Court</orgName> Sct.</p>
+<p><persName ref="cwgk:N00016433">Jacob H. Leach </persName>one of the present Justices of the Peace for District No 8 of this <placeName ref="cwgk:P00002417">County</placeName> filed in <unclear>Ohio</unclear> Court his written Resignation of Said office to take effect from this day It is therefore ordered that Said office be declared vacant and that <persName ref="cwgk:N00016436">John J. Leach</persName> be and he is hereby recommended to his Excellency <persName ref="cwgk:N001004">the Governor</persName> of this Commonwealth to fill Said vacancy -- </p>
 <p>A Copy -- 
-<lb/>Att. R. J. <hi rend="underline">Moseley</hi> Clk O C C<pb/></p>
+<lb/>Att. <persName ref="cwgk:N00001698">R. J. <hi rend="underline">Moseley</hi></persName> Clk O C C<pb/></p>
 <p>Ohio Co<figure type="hr"/></p>
 <p>J.P. Dist N<hi rend="sup">o</hi> 8.
 <lb/>App<hi rend="sup">d</hi> Made <date when="1862-11-15">Nov 15 1862</date><figure type="hr"/></p>
