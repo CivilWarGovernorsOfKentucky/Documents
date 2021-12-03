@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016261">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John C. Beeman</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016261">
+                    <persName>
+                      John C. Beeman
+                        (Jefferson County, Kentucky, politician and attorney)
+                    </persName>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
+                        <event type="death"  when="1863-08"  ><ab>1863-08</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, politician and attorney. Kentucky native. Attorney in Jefferson County, Kentucky, in 1859. Member of the Louisville Common Council from the First Ward in 1860. Attorney in Jefferson County in 1860. Member of the House of Representatives for the Commonwealth of Kentucky from the city of Louisville from 1861 to 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 1, p. 277.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Jefferson County, KY, July 1863, p. 42.<lb/>
+<hi rend="italic">Journal of the House of Representatives of the Commonwealth of Kentucky (1861)</hi>, vol. 2, September 2, 1861 - March 3, 1863, (Frankfort: Kentucky Yeoman Office, 1861), 6.<lb/>
+<hi rend="italic">Daily Register of Internments.</hi>, vol. 1-5, 1848 - 1931.  Cave Hill Cemetery, Louisville, Kentucky. Film #007578148, p. 108.<lb/>
+<hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1858-1859</hi> ed. Henry Tanner (Louisville: Hurd and Burrows, 1859), 26.<lb/>
+<hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 30.<lb/>
+“Election Returns.” <hi rend="italic">Courier-Journal</hi> (Louisville, KY), April 9, 1860. <lb/>
+“Senators and Representatives Elected.” <hi rend="italic">Courier-Journal</hi> (Louisville, KY), August 10, 1861. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
