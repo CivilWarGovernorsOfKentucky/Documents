@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016419">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Swan Davis</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016419">
+                    <persName>
+                      William Swan Davis
+                        (Jefferson County, Kentucky, farmer, merchant, tax assessor, and notary public)
+                    </persName>
+                        <event type="birth"  when="1810-09-07"  ><ab>1810-09-07</ab></event>
+                        <event type="death"  when="1885-02-02"  ><ab>1885-02-02</ab></event>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, farmer, merchant, tax assessor, and notary public. Kentucky native. Married to Martha Ann Cradle Davis in Jefferson County, Kentucky, on December 30, 1834. Married to Frances M. Simmons Rice Davis in Jefferson County, Kentucky, on April 23, 1840. Father of James G. Davis, Martha A. Davis, Sarah M. Davis, Lucinda Davis, William R. Davis, Charles Davis, and Emily Davis. Farmer in Oldham County in 1850. Owned two enslaved persons in Oldham County in 1850. Lumber merchant in Jefferson County in 1860. Employed Mary Quane as a servant in Jefferson County in 1860. Assistant tax assessor in Jefferson County in 1862. Notary public in Jefferson County in 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Oldham County, Division 1, p. 154 B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Oldham County, Division 1, p. 373.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 1, p. 353.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Henderson County, Henderson, Ward 3, p. 121B-122A. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000482706, p. 144.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000482706, p. 119.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #23156.<lb/>
+&quot;William S. Davis (1810-1885),&quot; Find A Grave, Memorial #7740926, accessed November 23, 2021, http://www.findagrave.com/memorial/7740926.<lb/>
+KYR-0001-031-0056
+</bibl></ab>
+    </back>
+</text>
+</TEI>
