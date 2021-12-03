@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016379">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Wilson &quot;Willis&quot; Johnson </title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016379">
+                    <persName>
+                      William Wilson &quot;Willis&quot; Johnson 
+                        (Christian County, Kentucky, farmer and justice of the peace)
+                    </persName>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Christian County, Kentucky, farmer and justice of the peace. Kentucky native. Married to Nancy Hardy Johnson in Trigg County, Kentucky, on November 6, 1840. Father of Gustavus C. Johnson, John W. Johnson, Frances D. Johnson, Miles C. Johnson, Arabella I. Johnson, and Thomas H. Johnson. Married to Permelia Morris Johnson in Christian County, Kentucky, in 1857. Father of Martha S. Johnson and Pernecie J. Johnson. Farmer in Christian County in 1850. Owned one enslaved person in Christian County in 1850. Farmer in Christian County in 1860. Appointed justice of the peace in Christian County on December 10, 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Christian County, District 1, p. 435A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Christian County, District 1, p. 8 of 41 of microfilm.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, Hopkinsville, p. 738.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Trigg County Marriages, Film #000321335, p. 339 of 709 of microfilm. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Christian County Marriages, Film #000465562, p. 287.<lb/>
+KYR-0001-031-0081.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
