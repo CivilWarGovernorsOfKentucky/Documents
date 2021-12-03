@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">William Allsbrook </title>
+        <title level="a" type="main">William J. Aulsebrook </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Peter R. Thomas Jr.</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00010999">
                     <persName>
-                      William Allsbrook 
-                        (private (U.S.A.))
+                      William J. Aulsebrook 
+                        (Louisville, Kentucky, painter and private (U.S.A.))
                     </persName>
+                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,12 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky, soldier. Served in the Frankfort Battalion (U.S.A.) as private on February 2, 1865. Transferred to 55th Kentucky Mounted Infantry (U.S.A.) as private in March 1865.  </p>
+        <p>Louisville, Kentucky, soldier. Kentucky native. Son of Thomas Aulsebrook. Student in Louisville, Kentucky, in 1850. Painter in Louisville in 1860. Served in the Frankfort Battalion of the Capital Guard Regiment (U.S.A.) as private on February 2, 1865. Transferred to 55th Kentucky Mounted Infantry (U.S.A.) as private in March 1865.  </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 823. 
-
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p.148A.<lb/><lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, 7th Ward, p.414.<lb/><lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 823. <lb/>
 KYR-0003-101-0013.
 </bibl></ab>
     </back>
