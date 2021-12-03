@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016024">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John S. Malone</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016024">
+                    <persName>
+                      John S. Malone
+                        (Hopkins County, Ky, wagonmaker, wheelwright and QMS 17th Ky Cav)
+                    </persName>
+                        <event type="birth"  when="1831-03-16"  ><ab>1831-03-16</ab></event>
+                        <event type="death"  when="1889-04-19"  ><ab>1889-04-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hopkins County, Kentucky, wagon maker, wheelwright, and soldier (U.S.A.). Virginia native. Son of Edmund P. Malone and Celena A. Malone. Married to Nannie C. Johnson Malone in Christian County, Kentucky, on March 2, 1852. Father of George Malone, Walter Malone, Sarah R. Malone, Henry Malone, Edward Malone, and Nannie Malone. Wagon maker in Trigg County in 1850. Wheelwright in Hopkins County in 1860. Wagon maker in Hopkins County in 1863. Served in the 17th Kentucky Volunteer Cavalry Regiment (U.S.A.) as quartermaster sergeant from January 3, 1865, to September 20, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District 1, p. 293B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hopkins County, p. 595-96.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Christian County Marriages, Film #001942963, p. 213.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 404.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Hopkins County, KY, August 1863, p. 140.<lb/>
+&quot;John Smith Malone (1831-1889),&quot; Find A Grave, Memorial #103544496, accessed October 13, 2021, http://www.findagrave.com/memorial/103544496.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
