@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0081"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hopkinsville Ky
+   <p><placeName ref="cwgk:P00002431">Hopkinsville </placeName><orgName ref="cwgk:O001025">Ky</orgName>
 <lb/><date when="1862-12-04">Decr 4 1862</date>
-<lb/>To His Excellency Gov Robertson
+<lb/>To His Excellency <persName ref="cwgk:N001004">Gov Robertson</persName>
 <lb/>Govenor of Ky
 <lb/>Dr Sir</p>
-<p>There is a vacancy in the Office of Justice of the Peace in District No 6 caused by the death of R W Henry Also in District No 10 caused by the removal of Joe P Pool Also in District No 8 caused by the resignation of Joab Clark whose resignation is inclosed herewith</p>
-<p>P. W. Dryden in place of Henry in District No 6 Willis Johnson in place of Pool in District No 10 And William Brown in place of Clark in District No 8 would be very suitable persons to appoint to fill said vacancies They are all good Union men &amp; Loyal Citizens &amp; men of sufficient information &amp; intelligence in fact among the best citizens of the County &amp; their appointments would give satisfaction in their Districts &amp; if appointed will accept</p>
+<p>There is a vacancy in the Office of Justice of the Peace in District No 6 caused by the death of <persName ref="cwgk:N00016308">R W Henry </persName>Also in District No 10 caused by the removal of <persName ref="cwgk:N00016309">Joe P Pool </persName>Also in District No 8 caused by the resignation of <persName ref="cwgk:N00005491">Joab Clark </persName>whose resignation is inclosed herewith</p>
+<p><persName ref="cwgk:N00016310">P. W. Dryden</persName> in place of Henry in District No 6 <persName ref="cwgk:N00016379">Willis Johnson </persName>in place of Pool in District No 10 And <persName ref="cwgk:N00016380">William Brown</persName> in place of Clark in District No 8 would be very suitable persons to appoint to fill said vacancies They are all good Union men &amp; Loyal Citizens &amp; men of sufficient information &amp; intelligence in fact among the best citizens of the <placeName ref="cwgk:P00001918">County</placeName> &amp; their appointments would give satisfaction in their Districts &amp; if appointed will accept</p>
 <p>Yours respectfully
-<lb/>H R Sillett
+<lb/><persName ref="cwgk:N00005452">H R Sillett</persName>
 <lb/>County Judge of Christian County <figure type="hr"/><pb/></p>
 <p>Christian Co<figure type="hr"/></p>
 <p>J P.
