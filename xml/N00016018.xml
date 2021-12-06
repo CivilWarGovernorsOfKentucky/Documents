@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016018">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Roland Gooch</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016018">
+                    <persName>
+                      Roland Gooch
+                        (Hopkins County, Ky, blacksmith and farmer )
+                    </persName>
+                        <event type="birth"  when="1822-08-26"  ><ab>1822-08-26</ab></event>
+                        <event type="death"  when="1873-09-11"  ><ab>1873-09-11</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hopkins County, Kentucky, blacksmith and farmer. North Carolina native. Married to Louisa F. Gooch. Father of Jemima Florence Gooch, Genoa Gooch, Willis Gooch, Joseph W. Gooch, and Bartlett Gooch. Blacksmith in Hopkins County, Kentucky, in 1850. Owned five enslaved persons in Hopkins County in 1850. Farmer in Hopkins County in 1860. Owned three enslaved persons in Hopkins County in 1860. Household owned one other enslaved person in Hopkins County in 1860. Held seven enslaved persons in trust for Josie Payne in Hopkins County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hopkins County, District 2, p. 128B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Hopkins County, District 2, p. 716.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hopkins County, p. 815-16.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Hopkins County, p. 219B-220A.<lb/>
+&quot;Rev Rowland Gooch (1822-1873),&quot; Find A Grave, Memorial #67722252, accessed October 12, 2021, http://www.findagrave.com/memorial/67722252.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
