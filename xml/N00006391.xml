@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. W. Primer</title>
+        <title level="a" type="main">William W. Pinner</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
@@ -55,10 +63,11 @@
         <particDesc>
                 <person xml:id="N00006391">
                     <persName>
-                      W. W. Primer
-                        (Lyon County, Kentucky, resident)
+                      William W. Pinner
+                        (Lyon County, Kentucky, physician)
                     </persName>
-                        <event type="death"  when="1875-12"  ><ab>1875-12</ab></event>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <event type="death"  when="1875-11-07"  ><ab>1875-11-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -67,14 +76,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Lyon County, Kentucky, resident. Signed a petition to Thomas E. Bramlette on behalf of the estate of Theophilus Cooksey in Lyon County, Kentucky, on August 17, 1863. Signed a petition to Thomas E. Bramlette on behalf of the estate of Elias Smith in Lyon County, Kentucky, on September 19, 1863. Signed a petition to Thomas E. Bramlette on behalf of Charles Braswell and N. T. Braswell in Lyon County, Kentucky, in December 1863.</p>
+        <p>Lyon County, Kentucky, physician. Tennessee native. Married to Letitia Catlett Pinner. Father of Frederick S. Pinner. Physician in Stewart County, Tennessee, in 1850. Physician in Lyon County, Kentucky, in 1860.  </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Lyon County (Kentucky). Clerk of the County Court; Lyon, Kentucky</hi> p. 115. <lb/>
-KYR-0001-029-0529. <lb/>
-KYR-0001-004-0057.<lb/>
-KYR-0001-004-0368.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Stewart County, p. 463B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 760.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lyon County, Eddyville, p. 41A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994046, Lyon County Births.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #30337.<lb/>
+&quot;William Wyche Pinner (c1826-1875),&quot; Find A Grave, Memorial #67145041, accessed December 6, 2021, https://www.findagrave.com/memorial/67145041.
 </bibl></ab>
     </back>
 </text>
