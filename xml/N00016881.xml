@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016881">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edward M. Drane</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016881">
+                    <persName>
+                      Edward M. Drane
+                        (Henry County, Kentucky, notary public, court commissioner, and tobacco superintendent)
+                    </persName>
+                        <event type="birth"  when="1830-11-08"  ><ab>1830-11-08</ab></event>
+                        <event type="death"  when="1913-12-13"  ><ab>1913-12-13</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Henry County, Kentucky, notary public, court commissioner, and tobacco superintendent. Kentucky native. Son of Edward Crabb Drane and Judith Coleman Dupuy Drane. Married to Alice Keats Drane in Jefferson County, Kentucky, on March 15, 1855. Father of Adele Drane, Clarence Drane, and George Drane. Notary public in Henry County in 1862. Commissioner of the county court in Henry County in 1863. Commissioner of the chancery court in Henry County in 1863. Commissioner of the county court in Henry County in 1864. Superintendent of weighing and coopering tobacco in Louisville in 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 5, p. 552B. <lb/>
+“A Fine Farm for Sale.”<hi rend="italic">Courier-Journal</hi> (Louisville, KY). Sept. 30, 1863. <lb/>
+“Captain Ed. M. Drane Dies.” <hi rend="italic">Cincinnati Enquirer</hi> (Cincinnati, OH), Dec. 14, 1913.<lb/><lb/>
+“Capt. Ed. M. Drane Dies at Frankfort.” <hi rend="italic">Courier-Journal</hi> (Louisville, KY), Dec. 14, 1913.<lb/>
+“Commissioner’s Sale.” <hi rend="italic">Courier-Journal</hi> (Louisville, KY), Jan. 1, 1864. <lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Henry County, KY, June 1863, p. 122.<lb/>
+Georgie Hopkins Ford, <hi rend="italic">Kentucky Brights and Their Kin: Including the Crabb, Drane, Ford, Hopkins, and King Families</hi> (Berkeley, CA, 1989), 93-94. <lb/>
+<hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 10, Henry County, Kentucky, 1864, p. 22.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994040, Jefferson County Marriages.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #31936.<lb/>
+<hi rend="italic">Owensboro Monitor.</hi> (Owensboro, KY), March 9, 1864. <lb/>
+“The Tobacco Inspectors,”  <hi rend="italic">Courier-Journal</hi> (Louisville, KY), March 3, 1864.<lb/>
+KYR-0001-031-0070.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
