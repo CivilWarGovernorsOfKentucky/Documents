@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016906">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Richard H. Johnson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016906">
+                    <persName>
+                      Richard H. Johnson
+                        (Madison County, Kentucky, grocer and magistrate )
+                    </persName>
+                        <event type="birth"  when="1829"  ><ab>1829</ab></event>
+                        <event type="death"  when="1911"  ><ab>1911</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Madison County, Kentucky, grocer and magistrate. Indiana native. Married to Susan Goodloe Johnson in Madison County, Kentucky, on October 3, 1856. Father of Almira O. Johnson, William C. Johnson, Milbry Johnson, Curran Johnson, and Richard Harvey Johnson. Grocer in Madison County in 1860. Owned two enslaved persons in Madison County in 1860. Appointed as magistrate in Madison County on November 7, 1862.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Madison County, Richmond, p. 146.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Madison County, Richmond, p. 475A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Illinois, Vermilion County, Newell, p. 292B. <lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Illinois, Vermilion County, Newell, p. 531D. <lb/>
+&quot;Col Richard Henderson Johnson (1829-1911),&quot; Find A Grave, Memorial #38496575, accessed January 4, 2022, http://www.findagrave.com/memorial/38496575.<lb/>
+<hi rend="italic">Kentucky Marriage Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994047, Madison County Marriages.<lb/>
+KYR-0001-031-0038. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
