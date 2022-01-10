@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016725">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John D. Belden</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016725">
+                    <persName>
+                      John D. Belden
+                        (Marion County, Kentucky, merchant, justice of the peace, captain and second lieutenant (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1830-01-01"  ><ab>1830-01-01</ab></event>
+                        <event type="death"  when="1908-11-19"  ><ab>1908-11-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Marion County, Kentucky, merchant, justice of the peace and soldier. Kentucky native. Son of James Beldon and Nancy Beldon. Married to Melissa Jane Edwards Beldon in Casey County, Kentucky, on April 2, 1851. Father of Nina Beldon, Emily Beldon, John Beldon, James Beldon, and Anna Beldon. Merchant in Casey County, Kentucky, in 1850. Household owned two enslaved persons in Casey County in 1850. Merchant in Marion County in 1860. Employed Samuel Belden as a Clerk in Marion County in 1860. Justice of the peace in Marion County in 1862. Served in the 8th Kentucky Volunteer Cavalry (U.S.A.) as a second lieutenant and captain from September 8, 1862 to September 17, 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Casey County, District 2, p. 296A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Casey County, District 2, p. 937.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Bradfordsville, p. 696.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Lebanon, p. 75B. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Casey County Marriages, Film #000591587, p. 52. <lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 226.<lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0087.<lb/>
+&quot;Judge John D. Beldon (1830-1908),&quot; Find A Grave, Memorial #112963529, accessed December 13, 2021, http://www.findagrave.com/memorial/112963529.<lb/>
+KYR-0001-031-0068.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
