@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0037"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Natalie Smith</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001002">Lexington Ky</placeName> 
+   <p><placeName ref="cwgk:P001002"><placeName ref="cwgk:P001002">Lexington Ky</placeName> </placeName>
 <lb/><date when="1864-09-03">Sept the 3<hi rend="sup">d</hi> 1864</date></p>
-   <p><persName ref="cwgk:N001000">Gov Bramlett</persName> Hon sir after my respects to you I take the opertunity to inform you that I have lost boath of my commissions as second &amp; first Lt of co J <orgName ref="cwgk:O00005136">1 Ky cav</orgName> they were captured by the enemy on the <persName ref="cwgk:N00005235">Stoneman</persName> raid I was commissioned as Second Lt <date when="1863-07-04">July the 4<hi rend="sup">th</hi> 186<hi rend="str">4</hi>3</date> and as first Lt <date when="1864-06-30">June the 30<hi rend="sup">th</hi> 1864</date> please Send me a <hi rend="str">copp</hi> copy of the two commissions &amp; confer a favor on your friend &amp; humble servt</p>
-   <p>Lt <persName ref="cwgk:N00005165">Alexander. C. Smith</persName>
-<lb/>Co J 1 Ky cav</p>
+   <p><persName ref="cwgk:N001000">Gov </persName><persName ref="cwgk:N001000"><persName ref="cwgk:N001000">Bramlett</persName></persName> Hon sir after my respects to you I take the opertunity to inform you that I have lost boath of my commissions as second &amp; first Lt of co J <orgName ref="cwgk:O00005136">1 Ky cav</orgName> they were captured by the enemy on the <persName ref="cwgk:N00005235">Stoneman</persName> raid I was commissioned as Second Lt <date when="1863-07-04">July the 4<hi rend="sup">th</hi> 186<hi rend="str">4</hi>3</date> and as first Lt <date when="1864-06-30">June the 30<hi rend="sup">th</hi> 1864</date> please Send me a <hi rend="str">copp</hi> copy of the two commissions &amp; confer a favor on your friend &amp; humble servt</p>
+   <p>Lt <persName ref="cwgk:N00005165"><persName ref="cwgk:N00005165">Alexander. C. Smith</persName>
+</persName><lb/>Co J 1 Ky cav</p>
    <p><persName ref="cwgk:N00005138">Silas, Adams</persName>
 <lb/>Col Com 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav
     <lb/>Lieut <persName ref="cwgk:N00005160"><unclear>O M Dod<hi rend="str"><unclear/></hi>son</unclear></persName>, a a<pb/></p>
@@ -78,8 +86,8 @@
 <lb/>Lt. Co. "J" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky. Cav.<figure type="hr"/></p>
 <p>Desires duplicates of his Com<hi rend="underline"><hi rend="sup">n</hi></hi> as 2<hi rend="sup">nd</hi> and 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt. of Co. "J." 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky. C. the originals were lost.<figure type="hr"/></p>
 <p>Issue duplicates
- <lb/><persName ref="cwgk:N00000873">D W Lindsey</persName>
-<lb/>Insp<hi rend="sup">t</hi> &amp; adjt Gen<hi rend="sup">l</hi></p>
+ <lb/><persName ref="cwgk:N00000873"><persName ref="cwgk:N00000873">D W Lindsey</persName>
+</persName><lb/>Insp<hi rend="sup">t</hi> &amp; adjt Gen<hi rend="sup">l</hi></p>
 <p><note place="body">duplicates issued &amp; forw<hi rend="underline"><hi rend="sup">d</hi></hi>, Septr 6<hi rend="underline">'</hi> 1864</note><figure type="hr"/>
  <lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O.</orgName> <date when="1864-09-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> Sept. 1864.</date></p>
   </body>
