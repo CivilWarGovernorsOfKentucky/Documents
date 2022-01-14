@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016958">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Samuel Ellis</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016958">
+                    <persName>
+                      Samuel Ellis
+                        (Greenup County, Kentucky, physician )
+                    </persName>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Greenup County, Kentucky, physician. Ohio native. Married to Lucy Ann Bruce Ellis in Lewis County, Kentucky, on May 22, 1849. Father of Elizabeth P. Ellis, Thomas Walker Ellis, M. C. Ellis, and Samuel Ellis. Physician in Greenup County in 1860. Owned two enslaved persons in Greenup County in 1860.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County,  East Little Sandy Subdistrict 2, p. 838. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County,  East Little Sandy Subdistrict 2, p. 81A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Greenup County, Greenupsburg, p. 36A. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, 1783-1965, Madison County Courthouse, Richmond, Kentucky, Lewis County Marriages, 1807-1852, Film #000344051.<lb/>
+&quot;Dr Samuel Ellis (1821-1899),&quot; Find A Grave, Memorial #194804701, accessed January 10, 2022, https://www.findagrave.com/memorial/194804701.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
