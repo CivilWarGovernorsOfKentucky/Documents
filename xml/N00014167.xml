@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014167">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert C. Allison</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014167">
+                    <persName>
+                      Robert C. Allison
+                        (Caldwell County, Kentucky, teacher, physician)
+                    </persName>
+                        <event type="birth"  when="1822-12-07"  ><ab>1822-12-07</ab></event>
+                        <event type="death"  when="1866-12"  ><ab>1866-12</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Caldwell County, Kentucky, teacher and physician. Mecklenburg County, North Carolina, native. Married to Catherine Weiss Allison in Floyd County, Indiana in April 1844. Father of John Edmund Allison. Married to Elvira B. McCarty Allison in Caldwell County, Kentucky, on February 17, 1848. Father of Elijah Edward. Allison, Robert Henry Allison, and Sarah &quot;Sallie&quot; Ann Allison. Attended medical school in Louisville. Teacher in Caldwell County in 1850. Physician in Princeton in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 2, p. 378a.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 49.<lb/>
+<hi rend="italic">Indiana Marriages, 1811-2007</hi>, Floyd County Courthouse, New Albany, Kentucky. Floyd County Marriages, Film 004540468, 137. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Caldwell County Marriages, Film 004261077, 268.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Caldwell County Marriages, Film 007719577, p. 407<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994029, Caldwell County Births, p. 11.<lb/>
+<hi rend="italic">Leonard Allison Morrison, The History of the Alison or Allison Family in Europe and America, A.D. 1135-1893; Giving an Account of the Family in Scotland, England, Ireland, Australia, Canada and the United States</hi> (Boston, Massachusetts: Damrell &amp; Uphrum, 1893), 288.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
