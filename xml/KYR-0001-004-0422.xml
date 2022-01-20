@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0422"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Elkton <date when="1864-01-12">Jan 12 1864</date>
-<lb/>Col B. F. Bristoe
+   <p><placeName ref="cwgk:P00000320">Elkton</placeName> <date when="1864-01-12">Jan 12 1864</date>
+<lb/>Col <persName ref="cwgk:N00006056">B. F. Bristoe</persName>
 <lb/>Dear Sir</p>
-<p>At the last term of the court <hi rend="str">Three hundred dollars</hi> I was fined Three hundred dollars on a charge of having violated a Tavern Lisens Bond I am in Solvent have a family five Children had my hous Burnt 12 months ago with a loss of allmost Everything we had I would humbly ask your assistance in presenting the inclosed petition by attending to this you will ever have my good feelings</p>
+<p>At the last term of the <orgName ref="cwgk:O00000578">court</orgName> <hi rend="str">Three hundred dollars</hi> I was fined Three hundred dollars on a charge of having violated a Tavern Lisens Bond I am in Solvent have a family five Children had my hous Burnt 12 months ago with a loss of allmost Everything we had I would humbly ask your assistance in presenting the inclosed petition by attending to this you will ever have my good feelings</p>
 <p>yours Truly
-<lb/>Henry Mitchell</p>
+<lb/><persName ref="cwgk:N00015778">Henry Mitchell</persName></p>
   </body>
  </text>
 </TEI>
