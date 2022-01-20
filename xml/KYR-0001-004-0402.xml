@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0402"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,21 +70,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Auditor office <date when="1864-01-06">Jany 6 1863</date>
+   <p><orgName ref="cwgk:O00004702">Auditor office</orgName> <date when="1864-01-06">Jany 6 1863</date>
 <lb/>His Excellency
-<lb/>Gov Bramlett</p>
-<p>R R Jones late Sheriff of Meade has paid the Judgments of Comth in full except damages.</p>
-<p>I hereby Respectfully request his release from the damages viz. &#36;493:44</p>
-<p>W<hi rend="sup">m</hi>. T. Samuels Aud<pb/></p>
+<lb/>Gov <persName ref="cwgk:N001000">Bramlett</persName></p>
+<p><persName ref="cwgk:N00001782">R R Jones</persName> late Sheriff of <placeName ref="cwgk:P001822">Meade</placeName> has paid the Judgments of <orgName ref="cwgk:O001025">Comth </orgName>in full except damages.</p>
+<p>I hereby Respectfully request his release from the damages viz. $493:44</p>
+<p><persName ref="cwgk:N00000217">W<hi rend="sup">m</hi>. T. Samuels</persName> Aud<pb/></p>
 <p>Remit damages</p>
 <p>Tho E Bramlette</p>
-<p>Franklin Cir Ct
+<p><orgName ref="cwgk:O00000376">Franklin Cir Ct</orgName>
 <lb/>vs
 <lb/>R. R. Jones
 <lb/>Late Shff
 <lb/>of
 <lb/>Meade Co.
-<lb/>&#36;493.<hi rend="underline"><hi rend="sup">44</hi></hi>
+<lb/>$493.<hi rend="underline"><hi rend="sup">44</hi></hi>
 <lb/>Damages rem<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1864-01-07">7<hi rend="sup">th</hi> Jany/64</date></p>
   </body>
  </text>
