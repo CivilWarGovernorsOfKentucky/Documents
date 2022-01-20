@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0421"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Senate Chamber
+   <p><orgName ref="cwgk:O001019">Senate</orgName> Chamber
 <lb/><date when="1864-01-15">Jany 15<hi rend="sup">th</hi> 1864</date>
-<lb/>Gov Bramlette--</p>
-<p>I have the honor to <hi rend="str">report</hi>hand you herewith the petition of Mr Henry Mitchell of Todd Co with accompanying documents.</p>
+<lb/>Gov<persName ref="cwgk:N001000"> Bramlette</persName>--</p>
+<p>I have the honor to <hi rend="str">report</hi>hand you herewith the petition of Mr <persName ref="cwgk:N00015778">Henry Mitchell</persName> of <placeName ref="cwgk:P00002675">Todd Co</placeName> with accompanying documents.</p>
 <p>I know nothing of the case but know that Mr M is a sober, quiet citizen &amp; I commend him to your favorable consideration.</p>
 <p>With high respect
 <lb/>I am Yr Obt Svt.
-<lb/>B. H. Bristow</p>
+<lb/><persName ref="cwgk:N00006056">B. H. Bristow</persName></p>
   </body>
  </text>
 </TEI>
