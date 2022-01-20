@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0406"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,9 +70,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Thos E Bramlette Governor of Ky</p>
-<p>The undersigned would Respectfully Represent to your honor that he was attached as a witness for the Green circuit court and when court came on he was sick and unable to attend court and was informed by the party who had him summoned he could do without him as he had a witness who <unclear/> the same fact sometime afterwards ^he had^ a notice <hi rend="str">was</hi> served on him that issued from said court in consequence ^of his^ <hi rend="str">My</hi> nonattendance I went to <hi rend="str">see</hi> Greensburg and employed W B Allen Esqr ^to attend^ to it he wrote an answer for Me and promised to notify Me if there was anything More necessary I heard nothing from it untill and execution was issued for &#36;100 placed in the hands of John W Barrett Deputy sherriff for Barren county The undersigned has been advised that it is a case that Requires Executive interference The facts as I have stated them will be sustained in part ^by^ some affedavits that will accompany this petition if you think this petition Reasonable and proper your petitioner hopes that you will Remit a portion of it or the whole of it if you have the power for which he will ever pray &amp;c</p>
-<p>William H. Roberts
+   <p>To his Excellency <persName ref="cwgk:N001000">Thos E Bramlette</persName> Governor of <orgName ref="cwgk:O001025">Ky</orgName></p>
+<p>The undersigned would Respectfully Represent to your honor that he was attached as a witness for the <orgName ref="cwgk:O00000387">Green circuit court</orgName> and when court came on he was sick and unable to attend court and was informed by the party who had him summoned he could do without him as he had a witness who <unclear/> the same fact sometime afterwards ^he had^ a notice <hi rend="str">was</hi> served on him that issued from said court in consequence ^of his^ <hi rend="str">My</hi> nonattendance I went to <hi rend="str">see</hi> <placeName ref="cwgk:P001024">Greensburg</placeName> and employed <persName ref="cwgk:N00002159">W B Allen</persName> Esqr ^to attend^ to it he wrote an answer for Me and promised to notify Me if there was anything More necessary I heard nothing from it untill and execution was issued for $100 placed in the hands of <persName ref="cwgk:N00012828">John W Barrett</persName> Deputy sherriff for <placeName ref="cwgk:P00000558">Barren county</placeName> The undersigned has been advised that it is a case that Requires Executive interference The facts as I have stated them will be sustained in part ^by^ some affedavits that will accompany this petition if you think this petition Reasonable and proper your petitioner hopes that you will Remit a portion of it or the whole of it if you have the power for which he will ever pray &amp;c</p>
+<p><persName ref="cwgk:N00012824">William H. Roberts</persName>
 <lb/><date when="1864-01-08">Jany 8<hi rend="sup">th</hi> 1864</date></p>
   </body>
  </text>
