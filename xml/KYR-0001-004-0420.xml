@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0420"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,20 +71,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Elkton <date when="1864-01-12">January 12<hi rend="sup">th</hi> 1864</date>.
-<lb/>His Excellency Thomas E Bramlette--
+   <p><placeName ref="cwgk:P00000320">Elkton</placeName> <date when="1864-01-12">January 12<hi rend="sup">th</hi> 1864</date>.
+<lb/>His Excellency <persName ref="cwgk:N001000">Thomas E Bramlette</persName>--
 <lb/>Dear Sir.</p>
-<p>I was called on this morning, by M<hi rend="underline"><hi rend="sup">r</hi></hi> Henry Mitchell, to recommend him, to executive clemency.</p>
+<p>I was called on this morning, by <persName ref="cwgk:N00015778">M<hi rend="underline"><hi rend="sup">r</hi></hi> Henry Mitchell</persName>, to recommend him, to executive clemency.</p>
 <p>I can &amp; do cheerfully state for him, that I have known him long, &amp; have ever regarded him, as a sober discreet, well behaved man, he is poor, indeed insolvent, &amp; I suppose his securities, will be compelled to pay the fine, should the same be collected.</p>
 <p>I can further state that I was present, at the trial, was not engaged in the case &amp; from my casual hearing of the evidence &amp; speeches made by lawyers, the impression was made on my mind that he would be acquitted, &amp; was somewhat surprised, at a different result.</p>
 <p>This is all that I can say, am usually well satisfied with the action of our executive &amp; of course will be in this case, but am inclined to believe, that at least a part of the fine, should be remitted.</p>
 <p>I have the honor to be respectfully &amp;<hi rend="sup">c</hi>.
-<lb/>F, M, Bristow<pb/></p>
-<p>Todd Cir Ct
+<lb/><persName ref="cwgk:N00000813">F, M, Bristow</persName><pb/></p>
+<p><orgName ref="cwgk:O00000578">Todd Cir Ct</orgName>
 <lb/>vs</p>
-<p>see Ben Bristow</p>
+<p>see <persName ref="cwgk:N00006056">Ben Bristow</persName></p>
 <p>Henry Mitchell
-<lb/>&#36;300 <date when="1863-10">Oct term/ 63</date></p>
+<lb/>$300 <date when="1863-10">Oct term/ 63</date></p>
 <p>Remit all except <hi rend="str"><unclear/></hi> fees &amp; costs</p>
 <p>Tho E Bramlette</p>
 <p>violating Tavern Bond
