@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0408"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bluespring Grove Barren cty <date when="1864-01-08">Jany 8/ 64</date>
-<lb/>To his Excellency Governor Bramlette</p>
-<p>Dear sir This will accompany a petition of W H Roberts asking of you to Remit a portion or all of a fine agst him on an attachment bond he is My neighber and I have no doubt but the case is Just as he Represents it any thing you can do for him in getting him clear of the fine will meet the approbation of all that are acquainted with the circumstance</p>
-<p>enclosed you will a copy of the execution on should you Remit it as I hope you will <hi rend="str">will</hi> you will please Direct to W. H. Roberts Horse cave Ky</p>
-<p>We have no Mail on this Road from Greensburg to Glasgow anything you can do in this case will be kindly Remembered by your Friend</p>
-<p>W, S, Yates<pb/></p>
-<p>Green Cir Ct
+   <p><placeName ref="cwgk:P00015563">Bluespring Grove </placeName><placeName ref="cwgk:P00000558">Barren cty</placeName> <date when="1864-01-08">Jany 8/ 64</date>
+<lb/>To his Excellency Governor <persName ref="cwgk:N001000">Bramlette</persName></p>
+<p>Dear sir This will accompany a petition of <persName ref="cwgk:N00012824">W H Roberts</persName> asking of you to Remit a portion or all of a fine agst him on an attachment bond he is My neighber and I have no doubt but the case is Just as he Represents it any thing you can do for him in getting him clear of the fine will meet the approbation of all that are acquainted with the circumstance</p>
+<p>enclosed you will a copy of the execution on should you Remit it as I hope you will <hi rend="str">will</hi> you will please Direct to W. H. Roberts <placeName ref="cwgk:P00010797">Horse cave</placeName> <placeName ref="cwgk:P001800">Ky</placeName></p>
+<p>We have no Mail on this Road from <placeName ref="cwgk:P001024">Greensburg</placeName> to <placeName ref="cwgk:P00000336">Glasgow</placeName> anything you can do in this case will be kindly Remembered by your Friend</p>
+<p><persName ref="cwgk:N00015567">W, S, Yates</persName><pb/></p>
+<p><orgName ref="cwgk:O00000387">Green Cir Ct</orgName>
 <lb/>vs</p>
 <p>Remit all except costs &amp; fees-</p>
 <p>T E Bramlette
 <lb/>W H. Roberts
-<lb/>&#36;100.
+<lb/>$100.
 <lb/>forfeited Bail
 <lb/><date when="1864-01-12">12<hi rend="sup">th</hi> Jany/64</date></p>
-<p></p>
+<p/>
   </body>
  </text>
 </TEI>
