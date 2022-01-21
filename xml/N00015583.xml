@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015583">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edmund Haynes Taylor Jr.</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015583">
+                    <persName>
+                      Edmund Haynes Taylor Jr.
+                        (Franklin County, Kentucky, banker and distiller)
+                    </persName>
+                        <event type="birth"  when="1830-02-12"  ><ab>1830-02-12</ab></event>
+                        <event type="death"  when="1923-01-19"  ><ab>1923-01-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Franklin County, Kentucky, clerk, banker, and distiller. Columbus, Kentucky, native. Son of John Eastin Taylor and Rebecca Edrington Taylor. Adopted son of Edmund Haynes Taylor Sr. Married to Frances Miller Johnson Taylor on December 21, 1852. Father of Jacob Swigert Taylor, Mary Belle Taylor Price, Rebecca F. Taylor Kline, Eugenia Taylor, Kenner Taylor, and Margaret Johnson Taylor Fall. Attended B. B. Sayer&#39;s Academy in Frankfort, Kentucky. Clerk in Franklin County in 1850. Household owned nineteen enslaved persons in Franklin County in 1850. Banker for the Commercial Bank of Kentucky in 1850. Cashier for the Versailles Branch of the Commercial Bank of Kentucky. Resident in Franklin County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 105B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Franklin County, District 2, p. 902-3.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 249.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 137A.<lb/>
+&quot;Colonel Edmund Haynes Taylor, Jr. Biography,&quot; <hi rend="italic">Buffalo Trace Distillery</hi>, https://www.buffalotracedistillery.com/media-kit/bios/colonel-ddmund-haynes-taylor-jr.html. <lb/>
+&quot;Illness Fatal to Col. Taylor, Noted Stockman,&quot; <hi rend="italic">The News Democrat</hi>, (KY), January 20, 1923, https://www.newspapers.com/image/502194742/?terms=%22Edmund%20Haynes%20Taylor%20Jr.%22&amp;match=1, https://www.newspapers.com/image/502194746.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
