@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. D. Boaz</title>
+        <title level="a" type="main">Robert D. Boaz</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -47,9 +55,11 @@
         <particDesc>
                 <person xml:id="N00006052">
                     <persName>
-                      R. D. Boaz
-                        (Caldwell County)
+                      Robert D. Boaz
+                        (Caldwell County, KY, farmer )
                     </persName>
+                        <event type="birth"  when="1819"  cert="medium" ><ab>c1819</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +67,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Caldwell County, Kentucky, resident. Signed a petition maintaining Edward Baker&#39;s innocence in a crime in 1865. </p>
+        <p>Caldwell County, Kentucky, farmer. Virginia native. Married to Elizabeth Brandon Boaz in Trigg County, Kentucky, on September 21, 1844. Father of Henry Boaz, Susannah Boaz, and Thompson Boaz. Farmer in Trigg County in 1850. Farmer in Caldwell County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0091.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District 1, p. 295A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Long Pond, p. 10.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Trigg County Marriages, Film #000321335, p. 101.
 </bibl></ab>
     </back>
 </text>
