@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00015563">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Blue Spring Grove, Kentucky</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Place</term>
+                </keywords>
+            </textClass>
+            <settingDesc>
+                <place xml:id="P00015563">
+                    <placeName>
+                        <location>
+                              <geo>37.1009 -85.8125</geo>
+                            <settlement>Blue Spring Grove, Kentucky</settlement>
+                        </location>
+                    </placeName>
+                </place> 
+            </settingDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Town in northeast Barren County, Kentucky. Renamed Hiseville in 1867.</p>
+
+    </body>
+    <back>
+        <ab><bibl>David C. Elbon, “Hiseville, Kentucky,” <hi rend="italic">Kentucky Atlas &amp; Gazetteer</hi>, accessed September  8, 2021, https://www.kyatlas.com/ky-hiseville.html.<lb/>
+&quot;Hiseville, Kentucky,&quot; USGS: Earth Explorer, accessed September 8, 2021, https://earthexplorer.usgs.gov/.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
