@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0401"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Cov Ky <date when="1864-01-05">Jany. 5/64</date>
+   <p><placeName ref="cwgk:P00000936">Cov</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1864-01-05">Jany. 5/64</date>
 <lb/>His Excellency
-<lb/>Gov Bramlette
+<lb/>Gov <persName ref="cwgk:N001000">Bramlette</persName>
 <lb/>Sir,</p>
-<p>You will recollect the case of Mr L. D. Cranniger, of this city who was the security of Capt Sharp who was indicted for <hi rend="underline">stealing</hi> a horse of one T. D. Kennedy. The horse was taken by Capt Sharp who was acting under Major Bocking-- who was acting under Col Leonidas Metcalf, who was acting under Genl Boyle, At one time Genl Boyle-- denied having authorised Col Mitcalf -- and then the whole thing fell to pieces-- You have doubtess seen the late letter of Col Metcalf<pb/>
-<lb/>containing the very <unclear/> letter of Genl Boyle -- acknowledging-- that he had authorized Col Metcalf-- but had forgotten it, When Bocking was stopped by the Order from Genl Boyle-- every thing fell in <unclear>disaster</unclear>-- the sesesh every where <unclear/> prosecuted Sharp-- there are now six cases pending in this Court, for tresspass &amp; personal property arising out of this transaction. Col Carpenter, put this in the form of felony, so as to secure his attendance, Sharp gave Mr Croninger and getting frightened left-- At the present term of the Kenton Circuit Court judgment was rendered against L. D. Cronniger for &#36;200, Capt Sharp I understand is in Eaton Ohio <unclear>quite</unclear><pb/>
+<p>You will recollect the case of Mr <persName ref="cwgk:N00004640">L. D. Cranniger</persName>, of this city who was the security of Capt <persName ref="cwgk:N00012630">Sharp</persName> who was indicted for <hi rend="underline">stealing</hi> a horse of one <persName ref="cwgk:N00012600">T. D. Kennedy</persName>. The horse was taken by Capt Sharp who was acting under Major <persName ref="cwgk:N00012599">Bocking</persName>-- who was acting under Col <persName ref="cwgk:N00009382">Leonidas Metcalf</persName>, who was acting under Genl <persName ref="cwgk:N00000879">Boyle</persName>, At one time Genl Boyle-- denied having authorised Col Mitcalf -- and then the whole thing fell to pieces-- You have doubtess seen the late letter of Col Metcalf<pb/>
+<lb/>containing the very <unclear/> letter of Genl Boyle -- acknowledging-- that he had authorized Col Metcalf-- but had forgotten it, When Bocking was stopped by the Order from Genl Boyle-- every thing fell in <unclear>disaster</unclear>-- the sesesh every where <unclear/> prosecuted Sharp-- there are now six cases pending in this Court, for tresspass &amp; personal property arising out of this transaction. Col <persName ref="cwgk:N00005226">Carpenter</persName>, put this in the form of felony, so as to secure his attendance, Sharp gave Mr Croninger and getting frightened left-- At the present term of the <orgName ref="cwgk:O00000410">Kenton Circuit Court</orgName> judgment was rendered against L. D. Cronniger for $200, Capt Sharp I understand is in <placeName ref="cwgk:P00015453">Eaton</placeName> <placeName ref="cwgk:P001036">Ohio</placeName> <unclear>quite</unclear><pb/>
 <lb/>low with bleeding of the lungs. I hope you will find it compatible with your duty as Governor to remit this fine. immediately, If the Capt had remained I have no doubt he would have been cleared, but being young he became frightened</p>
 <p>Respectfully Yours
-<lb/>John F, Fisk<pb/></p>
+<lb/><persName ref="cwgk:N00000460">John F, Fisk</persName><pb/></p>
 <p>Remit except costs &amp; fees</p>
 <p>Tho E Bramlette</p>
   </body>
