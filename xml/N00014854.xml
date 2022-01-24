@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014854">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">David J. Rodgers</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014854">
+                    <persName>
+                      David J. Rodgers
+                        (Hopkins co. farm laborer / pvt. 17th ky cav usa)
+                    </persName>
+                        <event type="birth"  when="1828-01-01"  ><ab>1828-01-01</ab></event>
+                        <event type="death"  when="1879-12-05"  ><ab>1879-12-05</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hopkins County, Kentucky, farm laborer and soldier. Clark County, Indiana, native. Son of Archibald Rodgers. Married to Nancy A. Robertson Rodgers in Hopkins County, Kentucky, on March 25, 1858. Father of Mary C. Rodgers, Anna B. Rodgers, and Sallie A. Rodgers. Resident in Clark County, Indiana, in 1850. Farm laborer for Colomes Robertson in Hopkins County in 1860. Served in the 17th Kentucky Volunteer Cavalry Regiment (U.S.A.) as private from April 25, 1865, to September 20, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Clark County, New Washington, p. 66A-B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hopkins County, p. 824.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hopkins County, Precinct 2, p. 32A.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0141.<lb/>
+&quot;D. J. Rodgers (1828-1879),&quot; Find A Grave, Memorial #120365706, accessed June 23, 2021, http://www.findagrave.com/memorial/120365706.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994039, Hopkins County Marriages, 1858.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
