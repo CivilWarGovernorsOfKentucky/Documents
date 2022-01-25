@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0079"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,16 +70,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
+   <p>State of <placeName ref="cwgk:P001800">Kentucky</placeName>
 <lb/>Taylor County Sct
 <lb/><date when="1862-12">Dec<hi rend="sup">r</hi> Term 1862</date></p>
-<p>It appearing to the Court that John G Newcomer a justice of the peace in district N<hi rend="sup">o</hi> 3 in Taylor County Kentucky has departed this life, R. E. Jeter is therefore recommended to his exelency the Governor of Kentucky as a suitable person to fill the vacancy occasioned by the death of said Newcomer -- </p>
+<p>It appearing to the Court that <persName ref="cwgk:N00017136">John G Newcomer</persName> a justice of the peace in district N<hi rend="sup">o</hi> 3 in Taylor County Kentucky has departed this life, <persName ref="cwgk:N00007466">R. E. Jeter</persName> is therefore recommended to his exelency the <persName ref="cwgk:N001004">Governor of Kentucky</persName> as a suitable person to fill the vacancy occasioned by the death of said Newcomer -- </p>
 <p>A Copy att
-<lb/>Geo. W. Montague clk
+<lb/><persName ref="cwgk:N00003561">Geo. W. Montague</persName> clk
 <lb/><hi rend="underline">Taylor County Court</hi></p>
 <p>Taylor County Court
 <lb/><date when="1862-12">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> Term 1862</date></p>
-<p>It appearing to the Court that Jn<hi rend="underline"><hi rend="sup">o</hi></hi> R. Robinson Notary public for Taylor County is now absent from said County acting as Captain in the United States Army, Robt S Montague is recommended to his exelency the Governor of Kentucky as a suitable person to fill the office of Notary Public for said County -- </p>
+<p>It appearing to the Court that <persName ref="cwgk:N00002418">Jn<hi rend="underline"><hi rend="sup">o</hi></hi> R. Robinson</persName> Notary public for Taylor County is now absent from said County acting as Captain in the <orgName ref="cwgk:O00001186">United States Army</orgName>, <persName ref="cwgk:N00007457">Robt S Montague</persName> is recommended to his exelency the Governor of Kentucky as a suitable person to fill the office of Notary Public for said County -- </p>
 <p>A Copy Att
 <lb/>Geo. W. Montague clk
 <lb/><hi rend="underline">Taylor County Court</hi><pb/></p>
