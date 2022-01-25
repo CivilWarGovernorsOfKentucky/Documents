@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0458"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1864-01-29">Jan 29th 1864</date>
-<lb/>Govenor Bramlet
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1864-01-29">Jan 29th 1864</date>
+<lb/><persName ref="cwgk:N001000">Govenor Bramlet</persName>
 <lb/>Dear Sir</p>
-<p>This will be handed you by Mrs Banks who is the <hi rend="str">husban</hi> wife of William Banks convicted for felony at the <date when="--01">January term</date> of the Jefferson Circuit Court.</p>
-<p>Robt F. Baird Esqr. a few days ago, laid before you a petition for a pardon for W<hi rend="sup">m</hi> Banks &amp; John McClure, &amp; also a copy of the Indictment <hi rend="str">&amp;</hi> in which a count for stealing &amp; a count for receiving knowing the property to be stolen was alledged On the last count the parties were convicted.</p>
-<p>Mr Baird &amp; Myself did not defend the parties; they were defended by M<hi rend="sup">r</hi> Joseph Reed formerly of Larue county, &amp; a brother of Senator Reeds, The interest that we take in the case springs from sympathy &amp; nothing else; we heard the trial &amp; from the evidence for &amp; against, we did not think a case for receiving was made out, &amp; the evidence as to the Larceny was clearly in favor of the defendants.</p>
+<p>This will be handed you by <persName ref="cwgk:N00010738">Mrs Banks</persName> who is the <hi rend="str">husban</hi> wife of <persName ref="cwgk:N00005830">William Banks</persName> convicted for felony at the <date when="--01">January term</date> of the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName>.</p>
+<p><persName ref="cwgk:N002040">Robt F. Baird</persName> Esqr. a few days ago, laid before you a petition for a pardon for W<hi rend="sup">m</hi> Banks &amp; <persName ref="cwgk:N00005831">John McClure</persName>, &amp; also a copy of the Indictment <hi rend="str">&amp;</hi> in which a count for stealing &amp; a count for receiving knowing the property to be stolen was alledged On the last count the parties were convicted.</p>
+<p>Mr Baird &amp; Myself did not defend the parties; they were defended by M<hi rend="sup">r</hi> <persName ref="cwgk:N00016363">Joseph Reed</persName> formerly of <placeName ref="cwgk:P00001718">Larue county</placeName>, &amp; a brother of <persName ref="cwgk:N00000835">Senator Reeds</persName>, The interest that we take in the case springs from sympathy &amp; nothing else; we heard the trial &amp; from the evidence for &amp; against, we did not think a case for receiving was made out, &amp; the evidence as to the Larceny was clearly in favor of the defendants.</p>
 <p>Your Excellency had with the petition a substantial statement of the<pb/>
 <lb/>testimony &amp; I indulge the hope that a reconsideration of the case by your Excellency will result in the release of the parties.</p>
 <p>I will state a fact that may not be known to your Excellency, namely, that W<hi rend="sup">m</hi> Banks was on Bail for several months &amp; without compulsion came forward &amp; stood his trial</p>
 <p>Verry Respectfully
-<lb/>J. H. Price</p>
+<lb/><persName ref="cwgk:N00004346">J. H. Price</persName></p>
 <p>Jefferson Cir Ct</p>
   </body>
  </text>
