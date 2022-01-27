@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0464"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bardstown Ky.
+   <p><placeName ref="cwgk:P00004617">Bardstown</placeName> <placeName ref="cwgk:P001800">Ky</placeName>.
 <lb/><date when="1864-01-11"><hi rend="underline">Jany. 11</hi><hi rend="underline"><hi rend="sup">'</hi></hi><hi rend="underline"> '64</hi></date>
-<lb/>Gov. Bramlette.</p>
-<p>This letter will reach you, accompanied by a petition in behalf of Jas. L. Marshall.</p>
-<p>I know nothing of the facts of the case, but I know many of the names to the petition, and I have no hesitation in saying to you, that the prayer of the petition should be granted, if consistent with your official duties: The petition is signed by some of the most highly respectable citizens of our county -- </p>
+<lb/><persName ref="cwgk:N001000">Gov. Bramlette.</persName></p>
+<p>This letter will reach you, accompanied by a petition in behalf of <persName ref="cwgk:N00012971">Jas. L. Marshall</persName>.</p>
+<p>I know nothing of the facts of the case, but I know many of the names to the petition, and I have no hesitation in saying to you, that the prayer of the petition should be granted, if consistent with your official duties: The petition is signed by some of the most highly respectable citizens of our <placeName ref="cwgk:P001012">county</placeName> -- </p>
 <p>Wishing you all the<pb/>
 <lb/>happiness &amp; prospeity that could happen mortality -- </p>
 <p>I am- Yours Truly
