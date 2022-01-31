@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0457"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,25 +71,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky, Clark County Sct
-<lb/>Richard Allen of said State and County being duly sworn according to law, States First,</p>
-<p>That he became the surety or bail for John D. Snowden, who was indicted at the <date when="1860-07">July Term 1860</date> of the Clark Circuit Court, upon charge of suffering Gaming in his House in Clark County Kentucky, That the amount of the Bail Bond was for &#36;500<hi rend="underline"><hi rend="sup">00</hi></hi></p>
-<p>Second, That at the <date when="1860-11">November Term 1860</date> &amp; the <date when="1861-05">May Term 1861</date>, the said John D. Snowden appeared in Court when his case was called; and at every term since he was indicted the Commonwealth has continued the cause, and at the <date when="1863-07">July Term 1863</date> his recognizance was forfeited and that the said Snowden is now a citizen of Harrison County Kentucky and that a Bench Warrant has been issued &amp; sent to the Sheriff of Harrison County for his arrest</p>
+   <p><orgName ref="cwgk:O001025">State of Kentucky</orgName>, <placeName ref="cwgk:P001786">Clark County </placeName>Sct
+<lb/><persName ref="cwgk:N00017093">Richard Allen </persName>of said State and County being duly sworn according to law, States First,</p>
+<p>That he became the surety or bail for <persName ref="cwgk:N00017092">John D. Snowden</persName>, who was indicted at the <date when="1860-07">July Term 1860</date> of the <orgName ref="cwgk:O00000364">Clark Circuit Court</orgName>, upon charge of suffering Gaming in his House in Clark County <placeName ref="cwgk:P001800">Kentucky</placeName>, That the amount of the Bail Bond was for $500<hi rend="underline"><hi rend="sup">00</hi></hi></p>
+<p>Second, That at the <date when="1860-11">November Term 1860</date> &amp; the <date when="1861-05">May Term 1861</date>, the said John D. Snowden appeared in Court when his case was called; and at every term since he was indicted the Commonwealth has continued the cause, and at the <date when="1863-07">July Term 1863</date> his recognizance was forfeited and that the said Snowden is now a citizen of <placeName ref="cwgk:P00002873">Harrison County</placeName> Kentucky and that a Bench Warrant has been issued &amp; sent to the <persName ref="cwgk:N00011408">Sheriff </persName>of Harrison County for his arrest</p>
 <p>3<hi rend="underline"><hi rend="sup">rd</hi></hi> That this affiant has in no wise connived at the non-appearance of the defendant Snowden &amp; is doing all in his power to have him before the Clark Circuit Court at its next <date when="1864-05">May Term 1864</date> &amp; will not relax<pb/>
 <lb/>his efforts to that end.</p>
 <p>4<hi rend="underline"><hi rend="sup">th</hi></hi>
 <lb/>That this affiant is a poor man, with a small place, and a large family of helpless children to support, and will be nearly ruined if he has the full amount of said bond to pay, and it will cripple him to such an extent as to cause suffering to innocent, helpless children</p>
 <p>Richard Allen</p>
 <p>Sworn to before me by Richard Allen this <date when="1864-01-29">29<hi rend="sup">th</hi> of January 1864</date>.</p>
-<p>E. T. Taylor P, J, C, C,</p>
+<p><persName ref="cwgk:N00016576">E. T. Taylor</persName> P, J, C, C,</p>
 <p><stamp type="revenue"/><note place="stamp">E T T
 <lb/><date when="1864-01-29">Jan 29 
 <lb/>1864</date></note></p>
-<p>Richard Allen is very poor &amp; extremely ignorant. The payment of the Judgment would require a sale of his land which would render him &amp; his family homeless- Snowden attended at some of the terms, but the case was continued by the Commonwealth. He will have to pay the fees of the Comth Atty &#36;150. which alone will harrass him very much. I recommend the exercise of Executive clemency. Mr Snowdon has been arrested &amp; gave Bonds &amp; attended at the last Term ^of the Court &amp; is recognized to apear next Term^</p>
-<p>A. H. Buckner
+<p>Richard Allen is very poor &amp; extremely ignorant. The payment of the Judgment would require a sale of his land which would render him &amp; his family homeless- Snowden attended at some of the terms, but the case was continued by the Commonwealth. He will have to pay the fees of the Comth Atty $150. which alone will harrass him very much. I recommend the exercise of Executive clemency. Mr Snowdon has been arrested &amp; gave Bonds &amp; attended at the last Term ^of the Court &amp; is recognized to apear next Term^</p>
+<p><persName ref="cwgk:N001787">A. H. Buckner</persName>
 <lb/><date when="1864-01-04">Janr 4. 1864</date></p>
 <p>I concur in the above statement of M<hi rend="sup">r</hi> Buckner
-<lb/>Jno B Huston</p>
+<lb/><persName ref="cwgk:N001797">Jno B Huston</persName></p>
   </body>
  </text>
 </TEI>
