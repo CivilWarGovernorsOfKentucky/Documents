@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0121"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,23 +71,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>Danville Ky
+   <p><placeName ref="cwgk:P00005549">Danville Ky</placeName>
 <lb/><date when="1861-03-31">March 31<hi rend="sup">st</hi> 1861</date>
-    <lb/>Dr Gov<hi rend="underline"><hi rend="sup">r</hi></hi></p>
-<p>I write you request an official favor for a friend of mine in Denver City Colerado Territory.</p>
-<p>It is that you will appoint M A. O M<hi rend="sup">c</hi>Grew Commissioner for Ky to take acknowledgments of Deeds &amp;c for the Territory of Colerado.</p>
+    <lb/>Dr <persName ref="cwgk:N00000258">Gov<hi rend="underline"><hi rend="sup">r</hi></hi></persName></p>
+<p>I write you request an official favor for a friend of mine in <placeName ref="cwgk:P00009425">Denver City</placeName> <placeName ref="cwgk:P00014385">Colerado Territory.</placeName></p>
+<p>It is that you will appoint <persName ref="cwgk:N00017282">M A. O M<hi rend="sup">c</hi>Grew</persName> Commissioner for <orgName ref="cwgk:O001025">Ky</orgName> to take acknowledgments of Deeds &amp;c for the Territory of Colerado.</p>
 <p>M<hi rend="sup">r</hi> M<hi rend="sup">c</hi>Grew is desirous of this appointment and I am satisfied of his fitness to discharge its duties well, pleasend to my address Denver City at your earliest convenience.</p>
 <p>I leave here in a few days for Colerado. and should<pb/>
 <lb/>again be a candidate for congress. whether the Republicans will hat me time will tell, but I<hi rend="underline"><hi rend="sup">l</hi></hi> give them a good fight.</p>
 <p>Any sudgestions from you would be thankfully recd.</p>
 <p>Accept me well wishes for your speedy recov from <unclear/> the accident which you lately met with and believe me as ever</p>
 <p>yer friend
-<lb/>B. D. Williams<pb/></p>
+<lb/><persName ref="cwgk:N00017281">B. D. Williams</persName><pb/></p>
 <p>Colorado Ter.<figure type="hr"/></p>
 <p>Com<hi rend="sup">r</hi> of Deeds
 <lb/>A. O. M<hi rend="sup">c</hi>Grew
 <lb/>Denver City</p>
-<p>Enclose Comission to ^Hon.^ B. D Williams of Danville, Care M. J. Durham Esq
+<p>Enclose Comission to ^Hon.^ B. D Williams of Danville, Care <persName ref="cwgk:N00013465">M. J. Durham</persName> Esq
 <lb/>B. M</p>
 <p>Com<hi rend="sup">d</hi> <date when="1861-04-03">Apr 3<hi rend="sup">d</hi> 1861</date><figure type="hr"/></p>
   </body>
