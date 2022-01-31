@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017279">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Moses R. Hawkins</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017279">
+                    <persName>
+                      Moses R. Hawkins
+                        (Rowan County, Kentucky, blacksmith)
+                    </persName>
+                        <event type="birth"  when="1812-06-06"  ><ab>1812-06-06</ab></event>
+                        <event type="death"  when="1874-06-04"  ><ab>1874-06-04</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Rowan County, Kentucky, blacksmith. Virginia native. Married to Melvina Hawkins. Father of James R. Hawkins and William H. Hawkins. Married to Martha J. Nickell Hawkins in Fleming County, Kentucky, on November 12, 1843. Father of Martha E. Hawkins, Mary Jane Hawkins, John H. Hawkins, Georgiana Hawkins, and Mahala Hawkins. Blacksmith in Fleming County, Kentucky, in 1850. Blacksmith in Rowan County, Kentucky, in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, Division 2, p. 361A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rowan County, Morehead, p. 641.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Hillsboro, p. 431B <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Fleming County Marriages, Film #005552779, p. 107.<lb/>
+&quot;Melvina Hawkins (1815-1843),&quot; Find A Grave, Memorial #25975191, accessed January 31, 2022, https://www.findagrave.com/memorial/25975191.<lb/>
+&quot;Moses R. Hawkins (1812-1874),&quot; Find A Grave, Memorial #24866080, accessed January 31, 2022, http://www.findagrave.com/memorial/24866080.<lb/>
+KYR-0001-021-0017.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
