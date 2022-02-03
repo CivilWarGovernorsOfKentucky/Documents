@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Lewis Ekins</title>
+        <title level="a" type="main">Lewis Evins </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -43,22 +51,24 @@
         <particDesc>
                 <person xml:id="N00007239">
                     <persName>
-                      Lewis Ekins
-                        (Western Kentucky)
+                      Lewis Evins 
+                        (Lyon / Caldwell County, laborer)
                     </persName>
+                        <event type="birth"  when="1803"  cert="medium" ><ab>c1803</ab></event>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="U"/>
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky resident. Signed a petition for the Caldwell Circuit Court in 1863.</p>
+        <p>Eddyville, Kentucky, laborer. Tennessee native. Married to Bethany Evins. Father of William S. Evins, Moses R. Evins, David M. Evins, Rachael E. Evins, Jarvis L. Evins, John W. Evins, Joseph Evins, Franklin B. Evins, Martha Evins, and Eliza Evins. Laborer in Caldwell County, Kentucky, in 1850. Laborer in Eddyville in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0529.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 328A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 765.
 </bibl></ab>
     </back>
 </text>
