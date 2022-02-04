@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">James Ausenbaugh</title>
+        <title level="a" type="main">James W. Ausenbaugh</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Charles Welsko</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00014969">
                     <persName>
-                      James Ausenbaugh
-                        (Caldwell co. ky, resident)
+                      James W. Ausenbaugh
+                        (Caldwell co. ky, farmhand)
                     </persName>
+                        <event type="birth"  when="1839"  cert="medium" ><ab>c1839</ab></event>
+                        <event type="death"  when="1915-04-06"  ><ab>1915-04-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Caldwell County, Kentucky, resident. Kentucky native. Resident of Caldwell County in 1860. Signed a petition to Beriah Magoffin against Thomas B. Wadlington in 1861. </p>
+        <p>Caldwell County, Kentucky, farmhand. Kentucky native. Jacob Ausenbaugh and Mary M. Ausenbaugh. Resident of Caldwell County, Kentucky, in 1850. Farmhand in Princeton in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 82.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 2, p. 353B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 82.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #9889.
 </bibl></ab>
     </back>
 </text>
