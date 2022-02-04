@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0410"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,23 +70,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>We the undesigned Citizens of Frankfort &amp; Franklin County would respectfully represent to His Excellency the Governor of Kentucky that there is Now in the hands of the sheriff of said County a Fifa in the name of the Commlth against Jno Brewer &amp; Geo D Rucker on Replevin Bond ^for &#36;20<hi rend="sup">00</hi>/<hi rend="sub">100</hi> The facts are these-- Judgment was obtained in Franklin Circuit Court against said Brewer for Selling Whisky-- said Brewer is exceedingly Poor &amp; ignorant and the collection of said Fifa would leave the family of said Brewer in a very destitute and dependent condition. We therefore ask Yr Excellency to remit the same--</p>
-<p>All the Officers of the Court (except P U Major then Comlths Attorney) have released all fees against him.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>R E Collins S F C
+   <p>We the undesigned Citizens of <placeName ref="cwgk:P00000308">Frankfort</placeName> &amp; <placeName ref="cwgk:P001019">Franklin County</placeName> would respectfully represent to His Excellency the <persName ref="cwgk:N001000">Governor </persName>of <orgName ref="cwgk:O001025">Kentucky</orgName> that there is Now in the hands of the sheriff of said County a Fifa in the name of the Commlth against <persName ref="cwgk:N00015577">Jno Brewer</persName> &amp; <persName ref="cwgk:N00015580">Geo D Rucker</persName> on Replevin Bond ^for $20<hi rend="sup">00</hi>/<hi rend="sub">100</hi> The facts are these-- Judgment was obtained in<orgName ref="cwgk:O00000376"> Franklin Circuit Court against</orgName> said Brewer for Selling Whisky-- said Brewer is exceedingly Poor &amp; ignorant and the collection of said Fifa would leave the family of said Brewer in a very destitute and dependent condition. We therefore ask Yr Excellency to remit the same--</p>
+<p>All the Officers of the Court (except<persName ref="cwgk:N00001172"> P U Major</persName> then Comlths Attorney) have released all fees against him.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00001595">R E Collins</persName> S F C
 <lb/><hi rend="underline">J A Crittenden</hi>
-<lb/>H. B. Innes d. s.
-<lb/>H I Todd
-<lb/>W. H. Sneed
-<lb/><cb n="2"/>R P Pepper
-<lb/>E H Watson
-<lb/>E H Taylor Jr
+<lb/><persName ref="cwgk:N00012168">H. B. Innes</persName> d. s.
+<lb/><persName ref="cwgk:N00000230">H I Todd</persName>
+<lb/><persName ref="cwgk:N00009262">W. H. Sneed</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00015581">R P Pepper</persName>
+<lb/><persName ref="cwgk:N00001599">E H Watson</persName>
+<lb/><persName ref="cwgk:N00015583">E H Taylor Jr</persName>
 <lb/>John M. Harlan<milestone unit="column" n="1"/><pb/></p>
 <p>Respite 12 months</p>
 <p>T E Bramlette</p>
 <p>Franklin Cir Ct
 <lb/>vs
 <lb/>Rucker &amp; Brewer
-<lb/>&#36;20
+<lb/>$20
 <lb/>Tipling
 <lb/><date when="1864-01-12">12<hi rend="sup">th</hi> Jany/64</date></p>
   </body>
