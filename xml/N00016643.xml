@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016643">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert Gray, Sr.</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016643">
+                    <persName>
+                      Robert Gray, Sr.
+                        (Caldwell County, Ky, farmer )
+                    </persName>
+                        <event type="birth"  when="1800-03-26"  ><ab>1800-03-26</ab></event>
+                        <event type="death"  when="1866-11-11"  ><ab>1866-11-11</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Caldwell County, Kentucky, farmer. North Carolina native. Married to Charlotte Coleman Gray in Caldwell County, Kentucky, on May 8, 1817. Father of William T. Gray, Needham C. Gray, Nancy Gray, Mary S. E. Gray, and Julia A. Gray. Farmer in Caldwell County in 1820. Owned two enslaved persons in Caldwell County in 1820. Resident in Caldwell County in 1830. Owned three enslaved persons in Caldwell County in 1830. Farmer in  Caldwell County in 1850. Owned six enslaved persons in Caldwell County in 1850. Resident of Princeton in 1860. Owned six enslaved persons in Princeton in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Fourth Manuscript Census of the United States</hi> (1820), Population Schedules, Kentucky, Caldwell County, p. 43.<lb/>
+<hi rend="italic">Fifth Manuscript Census of the United States</hi> (1830), Population Schedules, Kentucky, Caldwell County, p. 166.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 2, p. 378B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Caldwell County, District 2, p. 802.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Caldwell County, Princeton, p. 220A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994029, Caldwell County Deaths, p. 63.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, 1783-1965, Madison County Courthouse, Richmond, Kentucky, Caldwell County Marriages, 1786-1878, Film #000851644.<lb/>
+<hi rend="italic">Kentucky, Wills and Probate Records, 1774-1989</hi>, Kentucky County, District, and Probate Courts, Caldwell County Administrators Bonds, 1863-1878, p. 209.<lb/>
+&quot;Robert Gray (1800-1866),&quot; Find A Grave, Memorial #19301698, accessed December 8, 2021, http://www.findagrave.com/memorial/19301698.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
