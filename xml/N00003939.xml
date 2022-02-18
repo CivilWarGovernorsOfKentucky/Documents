@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Thomas Gooden</title>
+        <title level="a" type="main">Thomas Goodin</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00003939">
                     <persName>
-                      Thomas Gooden
-                        (Larue County)
+                      Thomas Goodin
+                        (Larue County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1801"  cert="medium" ><ab>c1801</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Juror in the case of the Commonwealth of Kentucky v. Isham Waddle in Larue Circuit Court in Larue County, Kentucky, during the November 1861 term.</p>
+        <p>Larue County, Kentucky, farmer. Kentucky native. Married to Susannah Harris Goodin in Hardin County, Kentucky, on July 23, 1822. Father of Isaac Goodin, Thomas Goodin, and William Goodin. Farmer in Larue County in 1850. Juror in the case of Isham Waddle in Larue County in 1861. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1551.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Larue County, Hamiltons, p. 409B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Larue County, Buffalo, p. 9B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, 1783-1965, Madison County Courthouse, Richmond, Kentucky, Hardin County Marriages, 1793-1862, Film #000390788.<lb/>
+KYR-0001-020-1551.
 </bibl></ab>
     </back>
 </text>
