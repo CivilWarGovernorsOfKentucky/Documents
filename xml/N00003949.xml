@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,11 @@
                 <person xml:id="N00003949">
                     <persName>
                       John G. Burba
-                        (Larue County)
+                        (Larue County, KY, farmer)
                     </persName>
+                        <event type="birth"  when="1826-12-30"  ><ab>1826-12-30</ab></event>
+                        <event type="death"  when="1907-07-30"  ><ab>1907-07-30</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Juror in the case of the Commonwealth of Kentucky v. Isham Waddle in Larue Circuit Court in Larue County, Kentucky, during the November 1861 term.</p>
+        <p>Larue County, Kentucky, farmer. Hardin County, Kentucky, native. Son of Scammel Burba and Lydia Flanders Burba. Married to Synthia A. Rachford Burba in Larue County, Kentucky, on July 25, 1852. Father of M. E. Burba, Benjamin H. Burba, Lydia C. Burba, Rhoda E. Burba, and John R. Burba. Shoemaker in Larue County in 1850. Farmer in Larue County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1551.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Larue County, Hamiltons, p. 420A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Larue County, p. 245. <lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Larue County, Hodgenville, p. 39B.<lb/>
+&quot;John Green Burba (1826-1907),&quot; Find A Grave, Memorial #8235355, accessed February 18, 2022, https://www.findagrave.com/memorial/8235355.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994044, Larue County Marriages.
 </bibl></ab>
     </back>
 </text>
