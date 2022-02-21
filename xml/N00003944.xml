@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. W. Brownfield</title>
+        <title level="a" type="main">William. W. Brownfield</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,10 +47,11 @@
         <particDesc>
                 <person xml:id="N00003944">
                     <persName>
-                      W. W. Brownfield
+                      William. W. Brownfield
                         (Larue County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <event type="birth"  when="1831-04-10"  ><ab>1831-04-10</ab></event>
+                        <event type="death"  when="1897-11-27"  ><ab>1897-11-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Larue County, Kentucky, farmer. Kentucky native. Married to M. H. Brownfield. Farmer in Larue County in 1860. </p>
+        <p>Larue County, Kentucky, farmer. Kentucky native. Son of George Brownfield and Nancy Brownfield. Married to Matilda H. Churchill Brownfield in Larue County, Kentucky, on February 23, 1860. Father of Emmit W. Brownfield and Mary C. Brownfield. Student in Larue County in 1850. Farmer in Larue County in 1860. Employed Frank Wright, J. B. Wright, and John Rizen as laborers in Larue County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Larue County, p. 91.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Larue County, Hamiltons, p. 432B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Larue County, p. 273.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Larue County, Buffalo, p. 13B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, 1783-1965, Madison County Courthouse, Richmond, Kentucky, Larue County Marriages, 1843-1893, Film #000409559, p. 28.<lb/>
+&quot;William Watson Brownfield (1831-1897),&quot; Find A Grave, Memorial #98777491, accessed February 21, 2022, https://www.findagrave.com/memorial/98777491.
 </bibl></ab>
     </back>
 </text>
