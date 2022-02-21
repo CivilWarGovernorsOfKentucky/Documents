@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00004972">
                     <persName>
                       James A. Graham
-                        (marion co lawyer)
+                        (marion co, ky, attorney)
                     </persName>
                         <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Lawyer in Marion County, Kentucky. Kentucky native.</p>
+        <p>Marion County, Kentucky, attorney. Kentucky native. Son of John M. Graham and Mary Graham. Attorney in Marion County, Kentucky, in 1860. Household owned four enslaved persons in Marion County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, [State], Marion, Lebanon, District 2, p. 102.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion, Lebanon, District 2, p. 736.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Marion, Lebanon, District 2, p. 499A.
 </bibl></ab>
     </back>
 </text>
