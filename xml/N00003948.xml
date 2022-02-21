@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,11 @@
                 <person xml:id="N00003948">
                     <persName>
                       Isham Waddle 
-                        (Larue County)
+                        (Larue County, KY, )
                     </persName>
+                        <event type="birth"  when="1843-01-15"  ><ab>1843-01-15</ab></event>
+                        <event type="death"  when="1906-01-10"  ><ab>1906-01-10</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Subject of a case in the Larue Circuit Court in Larue County, Kentucky, during the November 1861 term. </p>
+        <p>Larue County, Kentucky, . Kentucky native. Son of Jahn Waddle and Martha Waddle. Resident in Hart County, Kentucky, in 1850. Farmhand for David W. Whitman in Hart County in 1860. Household owned one enslaved person in Hart County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1551. KYR-0001-020-1581.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hart County, p. 258B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 950.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Hart County, District 2, p. 138A.<lb/>
+&quot;Isom D. Waddle (1843-1906),&quot; Find A Grave, Memorial #101840743, accessed February 21, 2022, https://www.findagrave.com/memorial/101840743.
 </bibl></ab>
     </back>
 </text>
