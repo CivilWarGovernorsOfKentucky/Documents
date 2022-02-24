@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016600">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George G. Cash</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016600">
+                    <persName>
+                      George G. Cash
+                        (Caldwell Co., Ky, farmer )
+                    </persName>
+                        <event type="birth"  when="1798"  cert="medium" ><ab>c1798</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Caldwell County, Kentucky, farmer. Kentucky native. Married to Nancy Savage Cash. Father of George McNally Cash, Serilda M. Cash, Thaddeus S. Cash, William W. Cash, and Caroline M. Cash. Married to Margaret E. Church Cash in Caldwell County, Kentucky, on November 9, 1845. Farmer in Caldwell County, Kentucky, in 1850.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 339B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Caldwell County, Princeton, p. 464A.<lb/>
+&quot;George G. Cash (1798-1873),&quot; Find A Grave, Memorial #92698419, accessed February 24, 2022, https://www.findagrave.com/memorial/92698419.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #12917.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, 1783-1965, Madison County Courthouse, Richmond, Kentucky, Caldwell County Marriages, 1786-1878, Film #000851644, p. 259.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
