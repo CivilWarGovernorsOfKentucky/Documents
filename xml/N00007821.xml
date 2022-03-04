@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">B. N. Bauer</title>
+        <title level="a" type="main">Barnet V. Brewer</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
@@ -47,9 +51,11 @@
         <particDesc>
                 <person xml:id="N00007821">
                     <persName>
-                      B. N. Bauer
-                        (Likely Mercer County)
+                      Barnet V. Brewer
+                        (Mercer County, Kentucky, miller)
                     </persName>
+                        <event type="birth"  when="1809-01-27"  ><ab>1809-01-27</ab></event>
+                        <event type="death"  when="1886-12-30"  ><ab>1886-12-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -58,11 +64,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition for Soloman Corn in 1864.</p>
+        <p>Mercer County, Kentucky, miller. Kentucky native. Married to Margaret B. Tewmey Brewer in Mercer County, Kentucky, on September 19, 1836. Father of William Brewer, John W. Brewer, Wintersmith Brewer, Garrad C. Brewer, Ophelia Brewer, Elbridge Brewer, Margaret Brewer, and Thomas M. Brewer. Miller in Mercer County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-1324.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Cornishville, p. 138.<lb/>
+&quot;Barney Vanbrike Brewer (1809-1886),&quot; Find A Grave, Memorial #55589047, accessed March 4, 2022, https://www.findagrave.com/memorial/55589047.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, 1783-1965, Madison County Courthouse, Richmond, Kentucky, Mercer County Marriages, 1826-1836, Film #000191855.
 </bibl></ab>
     </back>
 </text>
