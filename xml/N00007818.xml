@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. Donovan</title>
+        <title level="a" type="main">Jeremiah Donovan</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
@@ -47,9 +51,10 @@
         <particDesc>
                 <person xml:id="N00007818">
                     <persName>
-                      J. Donovan
-                        (Likely Mercer County)
+                      Jeremiah Donovan
+                        (Mercer County, Ky, farmer)
                     </persName>
+                        <event type="birth"  when="1799"  cert="medium" ><ab>c1799</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -58,11 +63,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition for Soloman Corn in 1864.</p>
+        <p>Mercer County, Kentucky, farmer. Married to Martha Cooney Donovan in Mercer County in 1814. Father of Cornelius Donovan, Margaret Donovan, and Ann Donovan. Farmer in Mercer County in 1850. Farmer in Mercer County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-1324.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, p. 335A<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Mercer County, District 2, p. 558.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, 1783-1965, Madison County Courthouse, Richmond, Kentucky, Mercer County Marriages, 1813-1814, Film #000191845.
 </bibl></ab>
     </back>
 </text>
