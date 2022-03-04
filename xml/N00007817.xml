@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Jas [Donov]</title>
+        <title level="a" type="main">James Donovan</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
@@ -51,9 +55,10 @@
         <particDesc>
                 <person xml:id="N00007817">
                     <persName>
-                      Jas [Donov]
-                        (Likely Mercer County)
+                      James Donovan
+                        (Mercer County, Ky, farmer)
                     </persName>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -62,11 +67,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition for Soloman Corn in 1864.</p>
+        <p>Mercer County, Kentucky, farmer. Kentucky native. Married to Elizabeth Sullivan Donovan in Anderson County, Kentucky in December 1835. Father of Jeremiah Donovan and John Donovan. Farmer in Mercer County in 1850. Farmer in Mercer County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-1324.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, p. 335A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Mercer County, District 2, p. 568.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, 1783-1965, Madison County Courthouse, Richmond, Kentucky, Anderson County Marriages, 1831-1869, Film #001550673.
 </bibl></ab>
     </back>
 </text>
