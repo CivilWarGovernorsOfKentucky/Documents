@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Ja Yost</title>
+        <title level="a" type="main">James Yeast</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
@@ -47,9 +51,10 @@
         <particDesc>
                 <person xml:id="N00007820">
                     <persName>
-                      Ja Yost
-                        (Likely Mercer County)
+                      James Yeast
+                        (Mercer County, Ky, farmer)
                     </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -58,11 +63,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition for Soloman Corn in 1864.</p>
+        <p>Mercer County, Kentucky, farmer and merchant. Kentucky native. Son of Joseph Yeast and Susan Yeast. Married to Mary J. Yeast. Father of Betty Yeast, John B. Yeast, and Paralee Yeast. Farmer in Mercer County, Kentucky, in 1850. Merchant in Mercer County in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-1324.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, District 2, p. 335A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Mercer County, District 2, p. 566.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mercer County, Precinct 2, p. 465A.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> Records of the Provost Marshal General&#39;s Bureau (Civil War) NARA RG 110, Mercer County, KY, June and July 1863, p. 16.
 </bibl></ab>
     </back>
 </text>
