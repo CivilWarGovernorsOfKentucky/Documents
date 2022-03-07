@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017336">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Horatio Phillips Van Cleve</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017336">
+                    <persName>
+                      Horatio Phillips Van Cleve
+                        (Todd County, Minnesota, farmer and soldier (2nd Minn. and General U.S. A.))
+                    </persName>
+                        <event type="birth"  when="1809-11-23"  ><ab>1809-11-23</ab></event>
+                        <event type="death"  when="1891-04-24"  ><ab>1891-04-24</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Todd County, Minnesota, farmer and soldier. Princeton, New Jersey, native. Married to Charlotte Van Cleve. Father of Elizabeth Van Cleve, Mortimer Van Cleve, Samuel Van Cleve, Paul Van Cleve, and John Van Cleve. Attended the College of New Jersey in Princeton, New Jersey. Attended the U.S. Military Academy at West Point, New York to 1831. Served in the United Stated Army from 1831 to 1836. Farmer in Todd County, Minnesota, in 1860. Served in the 2nd Minnesota Volunteer Infantry Regiment (U.S.A.) as a colonel from July 1861 to March 1862. Served in the Union Army as a brigadier general, lieutenant general, and major general of Volunteers from March 1862 to August 1865. Commander of U.S. Army forces in the Department of the Cumberland from 1862 to 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Minnestoa, Todd County, City/District, p. 78.<lb/>
+Ezra J. Warner, <hi rend="italic">General&#39;s in Blue: Lives of the Union Commanders</hi>, (Baton Rouge: Louisiana State University Press, 1964), 521-2.<lb/>
+&quot;Horatio Phillips Van Cleve (1809-1891),&quot; Find A Grave, Memorial #7442, accessed March 7, 2022, http://www.findagrave.com/memorial/7442.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
