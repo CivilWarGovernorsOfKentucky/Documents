@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0058"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort <date when="1862-08-29">Aug. 29. 1862</date>
-<lb/>Gov<hi rend="sup">r</hi> Robinson.</p>
-<p>D<hi rend="sup">r</hi> Sir. The within Communication is from M<hi rend="underline"><hi rend="sup">r</hi></hi> Savage recently elected County judge in my county. The man Hedges to whom he alludes was recently engaged in tearing down and burning a house of ill fame in his neighborhood, and was fined in the Mason Circuit at its last <date when="1862-07">July</date> term &#36;188 for his share in this matter. He was unable to either pay or replevy the fine and is in jail. I as protem attr. for the Commwlth prosecuted him and four others all of whom were fined. Hedges is a poor miserable creature, without much sense &amp; perhaps has been punished sufficiently. He has now been in jail altogether about 3 months. His two sons have volunteered and gone to the army, and on his wifes account I think it would be well to let him out. I would be glad if you would release him.</p>
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1862-08-29">Aug. 29. 1862</date>
+<lb/><persName ref="cwgk:N001004">Gov<hi rend="sup">r</hi> Robinson.</persName></p>
+<p>D<hi rend="sup">r</hi> Sir. The within Communication is from <persName ref="cwgk:N00009206">M<hi rend="underline"><hi rend="sup">r</hi></hi> Savage</persName> recently elected County judge in my <placeName ref="cwgk:P00000446">county.</placeName> The man <persName ref="cwgk:N00017345">Hedges</persName> to whom he alludes was recently engaged in tearing down and burning a house of ill fame in his neighborhood, and was fined in the <orgName ref="cwgk:O00000426">Mason Circuit</orgName> at its last <date when="1862-07">July</date> term $188 for his share in this matter. He was unable to either pay or replevy the fine and is in <orgName ref="cwgk:O00014862">jail.</orgName> I as protem attr. for the Commwlth prosecuted him and four others all of whom were fined. Hedges is a poor miserable creature, without much sense &amp; perhaps has been punished sufficiently. He has now been in jail altogether about 3 months. His two sons have volunteered and gone to the <orgName ref="cwgk:O00001186">army</orgName>, and on his <persName ref="cwgk:N00017346">wifes</persName> account I think it would be well to let him out. I would be glad if you would release him.</p>
 <p>I am very Respectfully
 <lb/>Your Obt Sevt
 <lb/><hi rend="underline">H. Taylor</hi><pb/></p>
