@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0024"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>War Department,
+   <p><orgName ref="cwgk:O00005118">War Department</orgName>,
 <lb/><hi rend="italic">ADJUTANT GENERAL'S OFFICE,
-<lb/></hi>Washington, D. C., <date when="1863-12-21">Dec 21, 1863</date>.
+<lb/></hi><placeName ref="cwgk:P00001134">Washington, D. C</placeName>., <date when="1863-12-21">Dec 21, 1863</date>.
 <lb/>His Excellency,
-<lb/>The Governor of Kentucky,
-<lb/>Frankfort, Ky.
+<lb/>The <persName ref="cwgk:N001000">Governor of Kentucky</persName>,
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>.
 <lb/>Sir:</p>
-<p>I have the honor to acknowledge the receipt of your letter of the <date when="1863-12-09">9'th instant</date> requesting permission to re-commission George W. Sweeney, late Captain 1'st regiment Kentucky Cavalry.</p>
+<p>I have the honor to acknowledge the receipt of your letter of the <date when="1863-12-09">9'th instant</date> requesting permission to re-commission <persName ref="cwgk:N00005760">George W. Sweeney</persName>, late Captain <orgName ref="cwgk:O00005136">1'st regiment Kentucky Cavalry</orgName>.</p>
 <p>In reply, I am directed to inform you that he was discharged by Special Orders No. 86, series of <date when="1862">1862</date>, from this office upon an adverse report of an Examining Board, convened under Section 10, Act <date when="1863-07-22">July 22'<hi rend="sup">d</hi>, 1863</date>, and the disability cannot be removed.<pb/></p>
 <p>I am, Sir,
 <lb/>Very respectfully,
 <lb/>Your Obedient Serv't
-<lb/>Thomas M Vincent
+<lb/><persName ref="cwgk:N00005761">Thomas M Vincent</persName>
 <lb/>Asst Adjutant Gen'l.</p>
   </body>
  </text>
