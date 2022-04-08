@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017411">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Minot Lane</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017411">
+                    <persName>
+                      George Minot Lane
+                        (Detroit, Michigan, student, upholsterer, and soldier)
+                    </persName>
+                        <event type="birth"  when="1833-05-28"  ><ab>1833-05-28</ab></event>
+                        <event type="death"  when="1917-08-10"  ><ab>1917-08-10</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Detroit, Michigan, student, upholsterer, and soldier. Michigan native. Son of M. T. Lane and Ruth F. Lane. Married to Mary Lane. Father of Florence Lane and Mary L. Lane. Graduate from the University of Michigan, in Ann Arbor, Michigan, in 1853. Upholsterer in Detroit in 1860. Served in the 1st Michigan Engineers and Mechanics (U.S.A.) as a captain. Served in the Invalid Corps (U.S.A.) as captain from June 15, 1863 to January 12, 1864. Served in the 17th Regiment Veteran Reserve Corps (U.S.A.) as a captain and brevet major from January 12, 1864 to April 23, 1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Michigan, Wayne County, Detroit Ward 6, p. 517-8.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Michigan, Wayne County, Detroit Ward 8, p. 137A.<lb/>
+<hi rend="italic">Index to the Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Michigan, NARA RG 94, Microfilm Series M545, Roll 0023.<lb/>
+_Official Army Register of the Volunteer Force of the United States Army for the Years 1861-65</hi>, Vol. VIII (Washington D.C., 1867), 58.<lb/>
+<hi rend="italic">The University Palladium</hi> Vol. Vi, No. 1, (Ann Arbor: The Secret Societies, 1864), 8.<lb/>
+KYR-0001-003-0023.<lb/>
+KYR-0001-003-0019.<lb/>
+KYR-0001-003-0018.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
