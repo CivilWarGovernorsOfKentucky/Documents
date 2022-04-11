@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0279"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,10 +31,9 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
-     <name>Patrick A. Lewis</name>
+     <name>Charles R. Welsko</name>
     </respStmt>
    </seriesStmt>
    <sourceDesc>
@@ -59,21 +62,83 @@
  </teiHeader>
  <text>
   <body>
-   <p>J. J. Hawes Notary Jefferson Co
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Muir " " &amp;#x2713;
-<lb/>J. F. Bullitt " " &amp;#x2713;
-<lb/>J. R. Montgomery " " &amp;#x2713;
-<lb/><hi rend="str">Noah Spears </hi>" &amp;#x2713;
-<lb/>Jas. W. Alcom Lincoln &amp;#x2713;
-<lb/>John M<hi rend="underline"><hi rend="sup">c</hi></hi>Neal Shelby &amp;#x2713;
-<lb/>Tho. E. Moss M<hi rend="sup">c</hi>Cracken &amp;#x2713;
-<lb/>C. H. Barclay Jefferson &amp;#x2713;
-<lb/>W. R. Welch Jessamine &amp;#x2713;
-<lb/>D. H. Hughes Union &amp;#x2713;
-<lb/>Noah Spears Scott &amp;#x2713;
-<lb/>Jno C Hansbro Fayette &amp;#x2713;
-<lb/>Sherrod Burton Boyle &amp;#x2713;
-<lb/>P. B Poindexter Jefferson &amp;#x2713;</p>
+   <p><table rend="rules">
+<row>
+	<cell>J. J. Hawes</cell>
+	<cell>Notary</cell>
+	<cell>Jefferson &#x2713; Co</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Muir</cell>
+	<cell>"</cell>
+	<cell>" &#x2713;</cell>
+</row>
+<row>
+	<cell>J. F Bullitt</cell>
+	<cell>"</cell>
+	<cell>" &#x2713;</cell>
+</row>
+<row>
+	<cell>J. R, Montgomery</cell>
+	<cell>"</cell>
+	<cell>" &#x2713;</cell>
+</row>
+<row>
+	<cell><hi rend="str">Noah Spears</hi></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Alcom</cell>
+	<cell/>
+	<cell>Lincoln &#x2713;</cell>
+</row>
+<row>
+	<cell>John M<hi rend="underline"><hi rend="sup">c</hi></hi>Neal</cell>
+	<cell/>
+	<cell>Shelby &#x2713;</cell>
+</row>
+<row>
+	<cell>Tho. E. Moss</cell>
+	<cell> -- </cell>
+	<cell>M<hi rend="underline"><hi rend="sup">c</hi></hi>Cracken &#x2713;</cell>
+</row>
+<row>
+	<cell>C. H. Barclay </cell>
+	<cell> -- </cell>
+	<cell>Jefferson &#x2713;</cell>
+</row>
+<row>
+	<cell>W, R, Welch</cell>
+	<cell/>
+	<cell>Jessamine &#x2713;</cell>
+</row>
+<row>
+	<cell>D. H. Hughes</cell>
+	<cell/>
+	<cell>Union &#x2713;</cell>
+</row>
+<row>
+	<cell>Noah Spears</cell>
+	<cell/>
+	<cell>Scott &#x2713;</cell>
+</row>
+<row>
+	<cell>Jno C Hansbro</cell>
+	<cell/>
+	<cell>Fayette &#x2713;</cell>
+</row>
+<row>
+	<cell>Sherrod Burten</cell>
+	<cell/>
+	<cell>Boyle &#x2713;</cell>
+</row>
+<row>
+	<cell>P. B Poindexter</cell>
+	<cell/>
+	<cell>Jefferson &#x2713;</cell>
+</row>
+</table></p>
   </body>
  </text>
 </TEI>
