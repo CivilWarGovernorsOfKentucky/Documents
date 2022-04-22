@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0524"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort <date when="1864-10-02">February 10th 1864</date>
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1864-10-02">February 10th 1864</date>
 <lb/>To His Excellency,
-<lb/>Thomas E. Bramlett,
+<lb/><persName ref="cwgk:N001000">Thomas E. Bramlett</persName>,
 <lb/>Gov of Kentucky.</p>
-<p>Your petitioner, Tom Lee (a free man of color) would most humbly, and respectfully represent to your Excellency; That he was today fined Ten Dollars, and costs before the City Police Court for alledged Misdemeanor.</p>
+<p>Your petitioner, <persName ref="cwgk:N00017445">Tom Lee</persName> (a free man of color) would most humbly, and respectfully represent to your Excellency; That he was today fined Ten Dollars, and costs before the <orgName ref="cwgk:O00003470">City Police Court</orgName> for alledged Misdemeanor.</p>
 <p>With all due respect for the decission of the Honorable Court, he still protests his Entire innocence, and prays that in consideration of his past good character as an honest, upright, respectful, sober, industrious man, as attested by the undersigned citizens of Frankfort, (many of whom have known him for twenty years) that Your Excellency will Extend to him such clemency as may seem proper in the case.</p>
-<p>J B Temple
-<lb/>Wm A Gaines
-<lb/>J. T. Boyle
-<lb/>J. W. Pruett
+<p><persName ref="cwgk:N00006233">J B Temple</persName>
+<lb/><persName ref="cwgk:N00003912">Wm A Gaines</persName>
+<lb/><persName ref="cwgk:N00000523">J. T. Boyle</persName>
+<lb/><persName ref="cwgk:N00003478">J. W. Pruett</persName>
 <lb/><hi rend="underline">James Harlan Jr</hi><pb/></p>
 <p>Frankfort</p>
 <p>Tom Lee is a model servant and though it is difficult from his well established character to credit such a change- yet having been convicted upon trial by the court, I see no reason for Executive interposition</p>
