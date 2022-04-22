@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017424">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Ridgeway</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017424">
+                    <persName>
+                      George Ridgeway
+                        (Jefferson County, Kentucky, soldier and petty criminal.)
+                    </persName>
+                        <event type="birth"  when="1839"  cert="medium" ><ab>c1839</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, resident and soldier. Virginia native. Resident of Louisville. Served in the 2nd Kentucky Volunteer Infantry Regiment (U.S.A.) as a corporal and private from June 13, 1861. Reported as deserted in June 1862. Returned from desertion August 1863. Reported as deserted in September 1863. Arrested for desertion on April 8, 1864. Served in the 34th Kentucky Volunteer Infantry Regiment (U.S.A.), also known as the Louisville Provost Guard, from September 20, 1862. Reported as under arrest by Louisville authorities from November 1862. Reported as deserted in Nashville, Tennessee in April 1863. Served in the 4th Kentucky Volunteer Cavalry Regiment (U.S.A.) as a private from April 25, 1863 to October 1863. Court martialed for desertion and dishonorably discharged. Served in the 6th Kentucky Volunteer Cavalry Regiment (U.S.A) as a private from February 11, 1864 to February 1865. Reported as deserted in February 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Jefferson County, Louisville, p. 539B.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0046.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0071.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0167.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0410.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 490.<lb/>
+&quot;Deserters,&quot; <hi rend="italic">Courier-Journal</hi> (Louisville, KY), February 14, 1865, p. 3.<lb/>
+&quot;A Bogus Detective,&quot; <hi rend="italic">Courier-Journal</hi> (Louisville, KY), October 21, 1864, p. 3.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
