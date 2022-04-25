@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017395">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William McCarrell</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017395">
+                    <persName>
+                      William McCarrell
+                        (Jefferson County, Kentucky, book keeper and Louisville city assessor. )
+                    </persName>
+                        <event type="birth"  when="1826"  ><ab>1826</ab></event>
+                        <event type="death"  when="1872"  ><ab>1872</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, book keeper and Louisville city assessor. Ross County, Ohio, native. Son of William McCarrell and Sarah Wallace McCarrell. Married to Sophronia M. Mayhew McCarrell in Bracken County, Kentucky, on July 12, 1849. Father of James McCarrell, Mary McCarrell, Albert Fleming McCarrell, Eliza Lida McCarrell, Sarah &quot;Sallie&quot; Elizabeth McCarrell Evans, William Henry McCarrell, and Robert McCarrell. Book keeper in Jefferson County in 1850. Music store operator in Louisville in 1860. City assessor in Louisville in 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville District 2, p. 172A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 1, p. 334.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 5, p. 538A. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994040, Jefferson County Births.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Bracken County Marriages, Film #344096, p. 94.<lb/>
+<hi rend="italic">Lineage Book of the Charter Members of the National Society of the Daughters of the American Revolution</hi>, eds. Mary S. Lockwood and Susan Riviere Hetzel (Washington, D. C.: National Society of the Daughters of the American Revolution, 1891-1939) vol. CV: 1913, p. 217-8.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
