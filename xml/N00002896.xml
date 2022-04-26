@@ -10,6 +10,14 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -46,7 +54,7 @@
                       Peter Miller 
                         (Maysville, Kentucky, coffee house owner)
                     </persName>
-                        <event type="birth"  when="1824"  ><ab>1824</ab></event>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +63,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Maysville, Kentucky, coffee house owner. Native of Germany. Married to Sarah Miller. Father of Henry Miller, Sarah Miller, Sally Miller, Peter Miller, and Frederick Miller. Coffee house owner in Mason County in 1860. </p>
+        <p>Maysville, Kentucky, coffee house owner. Native of Germany. Married to Sarah Stevens Miller. Father of Henry Miller, Sarah Miller, Sally Miller, Peter Miller, and Frederick Miller. Laborer in Mason County, Kentucky in 1850. Coffee house owner in Mason County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Maysville, Ward 3, p. 57. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, District 1, p. 30A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Maysville, Ward 3, p. 341. <lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #15174.
 </bibl></ab>
     </back>
 </text>
