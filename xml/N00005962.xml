@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
           <respStmt>
@@ -52,6 +56,7 @@
                     </persName>
                         <event type="birth"  when="1831-11-18"  ><ab>1831-11-18</ab></event>
                         <event type="death"  when="1885-08-19"  ><ab>1885-08-19</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,11 +64,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>McLean County, Kentucky, farmer. Kentucky native. Married to Elizabeth Hines. Father of James B. Hines. Farmer in McLean County, Kentucky in 1860. </p>
+        <p>McLean County, Kentucky, farmer. Kentucky native. Married to Elizabeth Hines. Father of James B. Hines and Mary Hines. Farmer in McLean County, Kentucky in 1860. Employed William T. Hanaford as a farm laborer in McLean County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean, not stated, p. 23. <hi rend="italic">Find A Grave</hi>, “James Hines (November 18, 1831-August 19, 1885),” Memorial #95259398, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=95259398 (accessed June 4, 2017). 
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean, p. 23. <lb/>
+ “James Hines (1831-1885),” Find A Grave, Memorial #95259398, accessed June 4, 2017, https://www.findagrave.com/memorial/95259398. 
 </bibl></ab>
     </back>
 </text>
