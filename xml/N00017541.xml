@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017541">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John C. Latham, Sr. </title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017541">
+                    <persName>
+                      John C. Latham, Sr. 
+                        (Christian County, Kentucky, merchant, circuit court clerk, and bank president)
+                    </persName>
+                        <event type="birth"  when="1814-11-06"  ><ab>1814-11-06</ab></event>
+                        <event type="death"  when="1885-08-30"  ><ab>1885-08-30</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Christian County, Kentucky, merchant, circuit court clerk, and bank president. Russellville, Logan County, Kentucky, native. Son of John Latham and Nancy Morehead Latham. Married to Virginia Glass Latham in Christian County, Kentucky, on June 28, 1842. Father of John C. Latham, Jr., Mary Rebecca Latham, and Charles M. Latham. Merchant in Christian County in 1850. Owned five enslaved persons in Christian County in 1850. Clerk of Christian County Circuit Court in Christian County from 1854 to 1860. Owned four enslaved persons in Christian County in 1860. President of the Bank of Hopkinsville in Christian County in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Christian County, District 2, p. 422A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Christian County, District 2, p. 157.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, Hopkinsville, p. 668.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Christian County, Hopkinsville, p. 271B. <lb/>
+&quot;Death of John C. Latham, Sr.,&quot; <hi rend="italic">Semi-Weekly South Kentuckian _ (Hopkinsville, Kentucky), September 1, 1885, p. 2.<lb/>
+_Kentucky Marriage Records (1783-1965)</hi>, Madison County Courthouse, Richmond, KY, Christian County Marriages, p. 38.<lb/>
+ &quot;John C. Latham Sr. (1814-1885),&quot; Find A Grave, Memorial #74474042, accessed May 4, 2022, http://www.findagrave.com/memorial/74474042.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
