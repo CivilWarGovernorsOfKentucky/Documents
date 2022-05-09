@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017534">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Milton D. Brown</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017534">
+                    <persName>
+                      Milton D. Brown
+                        (Christian County, Kentucky, schoolteacher and trader)
+                    </persName>
+                        <event type="birth"  when="1832"  ><ab>1832</ab></event>
+                        <event type="death"  when="1917-06-20"  ><ab>1917-06-20</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Christian County, Kentucky, schoolteacher and trader. Kentucky native. Son of Thomas Brown and Rebecca Brown. Married to Sallie A. Daniel Brown in Todd County, Kentucky, on August 9, 1862. Father of Horace F. Brown. Attended school in Christian County, Kentucky, in 1850. Household owned eight enslaved persons in Christian County in 1850. Schoolteacher and trader in Christian County in 1860. Household owned five enslaved persons in Christian County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Christian County, District 2, p. 384A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Christian County, District 2, p. 157, 159. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, p. 695. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, p. 796. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Christian County, p. 280A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Todd County, Fairview, p. 373B. <lb/>
+&quot;Judge Brown Died Wednesday,&quot; <hi rend="italic">Hopkinsville Kentuckian _ (KY), June 23, 1917, Newspapers.com, https://www.newspapers.com/clip/100993376/obituary-for-milton-d-brown-aged-80.<lb/>
+_Kentucky Marriage Records (1783-1965)</hi>, Madison County Courthouse, Richmond, KY, Todd County Marriages, p. 191.<lb/>
+&quot;Milton D. Brown (1832-1917),&quot; Find A Grave, Memorial #60843039, accessed May 3, 2022, http://www.findagrave.com/memorial/60843039. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
