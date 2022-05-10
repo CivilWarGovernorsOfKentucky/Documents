@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Jack [Unknown]</title>
+        <title level="a" type="main">John &quot;Jack&quot; Sinclair</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>AaronMPhillips</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
@@ -47,9 +55,10 @@
         <particDesc>
                 <person xml:id="N00012426">
                     <persName>
-                      Jack [Unknown]
+                      John &quot;Jack&quot; Sinclair
                         (Scott County, Kentucky, slave)
                     </persName>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
                         <trait type="race" subtype="Black"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -58,12 +67,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Scott County, Kentucky, enslaved person. Owned by John T. Sinclair in Scott County, Kentucky in 1860. </p>
+        <p>Scott County, Kentucky, enslaved person. Enslaved by John Thornton Sinclair in Scott County, Kentucky, in 1860. </p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, District 1, p. 938.<lb/>
 <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Scott County, District 1, p. 223A.<lb/>
+<hi rend="italic">Twelfth Manuscript Census of the United States</hi> (1900), Population Schedules, Kentucky, Scott County, District 5, p. 2B. <lb/>
 KYR-0001-004-0272.<lb/>
 KYR-0001-004-0354.
 </bibl></ab>
