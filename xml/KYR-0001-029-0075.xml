@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0075"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,20 +70,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency James F Robinson, Governor of the Commonwealth of Kentucky,</p>
-<p>Your petitioner James C Brookover resident in the city of Maysville in the state of Kentucky represents that at the last <date when="--07">July</date> Term of the Mason Circuit Court, he was fined the sum of fifty dollars for selling liquor to a slave, such was the Character of the Indictment and the ruling and opinion of the court upon a ,<unclear>Demeanor</unclear> thereto as to preclude him from making any successful defence thereto -- It was proved that upon one occasion liquor was sold to a negro, but whether he was a slave witness did not know, nor was there any allegation in the Indictment as to where if a slave <hi rend="str">to whom</hi> he belonged -- he annexes hereto a copy of the indictment and although he may appeal from the Judgement, yet he hopes your Excellency will Issue under the circumstances it a fit case for executive clemency and remit said fine which he respectfully solicits you to do</p>
+   <p>To his Excellency <persName ref="cwgk:N001004">James F Robinson</persName>, Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>,</p>
+<p>Your petitioner <persName ref="cwgk:N00002670">James C Brookover</persName> resident in the city of<placeName ref="cwgk:P00001219"> Maysville</placeName> in the state of <placeName ref="cwgk:P001800">Kentucky</placeName> represents that at the last <date when="--07">July</date> Term of the <orgName ref="cwgk:O00000426">Mason Circuit Court</orgName>, he was fined the sum of fifty dollars for selling liquor to <persName ref="cwgk:N00017571">a slave</persName>, such was the Character of the Indictment and the ruling and opinion of the court upon a ,<unclear>Demeanor</unclear> thereto as to preclude him from making any successful defence thereto -- It was proved that upon one occasion liquor was sold to a negro, but whether he was a slave witness did not know, nor was there any allegation in the Indictment as to where if a slave <hi rend="str">to whom</hi> he belonged -- he annexes hereto a copy of the indictment and although he may appeal from the Judgement, yet he hopes your Excellency will Issue under the circumstances it a fit case for executive clemency and remit said fine which he respectfully solicits you to do</p>
 <p>James.C. Brookover</p>
 <p><date when="1862-09-24">Sept<hi rend="sup">r</hi> 24" <hi rend="underline">1862</hi></date></p>
 <p>The undersigned concur and unite in the prayer of the above petition</p>
 <p><hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> D Taylor</hi>
-<lb/>Keith Berry
-<lb/>J G Hickman
-<lb/>George Brough
-<lb/>Jas P. Pope <unclear/>
-<lb/>J. Ravencroft
-<lb/>H, M<hi rend="underline"><hi rend="sup">c</hi></hi>Callough
-<lb/>Alfred Finstoe
-<lb/>Stevin ,B, Reese<pb/></p>
+<lb/><persName ref="cwgk:N00004303">Keith Berry</persName>
+<lb/><persName ref="cwgk:N00006583">J G Hickman</persName>
+<lb/><persName ref="cwgk:N00017559">George Brough</persName>
+<lb/><persName ref="cwgk:N00004291">Jas P. Pope</persName> <unclear/>
+<lb/><persName ref="cwgk:N00017562">J. Ravencroft</persName>
+<lb/><persName ref="cwgk:N00004290">H, M<hi rend="underline"><hi rend="sup">c</hi></hi>Callough</persName>
+<lb/><persName ref="cwgk:N00017561">Alfred Finstoe</persName>
+<lb/><persName ref="cwgk:N00017558">Stevin ,B, Reese</persName><pb/></p>
 <p>Jas. C. <unclear>Brookover</unclear> Pettn to remit fine
 <lb/>Exam<hi rend="sup">d</hi> Pettn refused
 <lb/>J F Robinson</p>
