@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0085"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,20 +70,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excelency Go<hi rend="underline"><hi rend="sup">v</hi></hi> of Kentucky</p>
-<p>The undesigned the Jury in the case of the commonwealth vs. Michael Fishback, William Fishback &amp; John Fishback who was tryed on the <date when="--07-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> day of July</date> last for a breach of the peace committed on one George Miller on the hearing of the cause we fined them thirty &#36;30 -- and costs, each, we would most respectfuly ask your honour to remit the fine assessed against William &amp; John Fishback as they are both under age and there Father is a poor man with a large family of children and poorly able to pay said fine we would also ask you to remit a part of the fine assessed agains Michael Fishback -- for which your petitioners will ever pray <date when="1862-10-10">Oct. 10<hi rend="sup">th</hi> 1862</date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>J, B, Briscoe &#125; Magistrate 
+   <p>To his Excelency<persName ref="cwgk:N001004"> Go<hi rend="underline"><hi rend="sup">v</hi></hi></persName> of <placeName ref="cwgk:P001800">Kentucky</placeName></p>
+<p>The undesigned the Jury in the case of the <orgName ref="cwgk:O001025">commonwealth</orgName> vs. <persName ref="cwgk:N00017508">Michael Fishback</persName>, <persName ref="cwgk:N00017509">William Fishback</persName> &amp; <persName ref="cwgk:N00017510">John Fishback</persName> who was tryed on the <date when="--07-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> day of July</date> last for a breach of the peace committed on one <persName ref="cwgk:N00017511">George Miller </persName>on the hearing of the cause we fined them thirty $30 -- and costs, each, we would most respectfuly ask your honour to remit the fine assessed against William &amp; John Fishback as they are both under age and there Father is a poor man with a large family of children and poorly able to pay said fine we would also ask you to remit a part of the fine assessed agains Michael Fishback -- for which your petitioners will ever pray <date when="1862-10-10">Oct. 10<hi rend="sup">th</hi> 1862</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00017512">J, B, Briscoe</persName> } Magistrate 
 <lb/><cb n="2"/><hi rend="underline">A, G,, Watts</hi> -- Foreman
-<lb/>Thomas W Miller
-<lb/>M W Parrish
-<lb/>J, W, Jean
-<lb/>George Vansenhaller
-<lb/>J. E. Connelly
-<lb/>J. B. Leatherman
-<lb/>J Nunamaker
-<lb/>Isaac McHatter
-<lb/>T D Hall
-<lb/>R D Davis<pb/></p>
+<lb/><persName ref="cwgk:N00017517">Thomas W Miller</persName>
+<lb/><persName ref="cwgk:N00017520">M W Parrish</persName>
+<lb/><persName ref="cwgk:N00017521">J, W, Jean</persName>
+<lb/><persName ref="cwgk:N00017526">George Vansenhaller</persName>
+<lb/><persName ref="cwgk:N00017527">J. E. Connelly</persName>
+<lb/><persName ref="cwgk:N00017529">J. B. Leatherman</persName>
+<lb/><persName ref="cwgk:N00017530">J Nunamaker</persName>
+<lb/><persName ref="cwgk:N00017536">Isaac McHatter</persName>
+<lb/><persName ref="cwgk:N00017537">T D Hall</persName>
+<lb/><persName ref="cwgk:N00017538">R D Davis</persName><pb/></p>
 <p><milestone unit="column" n="1"/>Pettn to remit fines
 <lb/>(Read not granted)</p>
   </body>
