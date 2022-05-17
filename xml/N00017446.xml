@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017446">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Caleb Tarlton</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017446">
+                    <persName>
+                      Caleb Tarlton
+                        (Johnson County, Indiana, farmer. Slaveholder in Fayette County, Kentucky.)
+                    </persName>
+                        <event type="birth"  when="1804-07-27"  ><ab>1804-07-27</ab></event>
+                        <event type="death"  when="1884-09-02"  ><ab>1884-09-02</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Fayette County, Kentucky, farmer and justice of the peace. Kentucky native. Father of Charles Tarlton, William H. Tarlton, Margaret Tarlton, and Nancy Tarlton. Married to Mary A Crenshaw Tarlton in Scott County, Kentucky, on  October 2, 1842. Father of Joel Tarlton, May E. Tarlton, Ellen Tarlton and Martha Tarlton. Farmer in Fayette County in 1850. Owned six enslaved persons in Fayette County in 1850. Farmer and justice of the peace in Fayette County in 1860. Owned eight enslaved persons in Fayette County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fayette County, District 1, p. 182A-B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Fayette County, District 1.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, District 2, p. 356.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Fayette County, District 2, p. 447B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Scott County Marriages, Film #000183225.<lb/>
+&quot;Caleb Tarlton (1804-1884),&quot; Find A Grave, Memorial #61478726, accessed May 17, 2022, http://www.findagrave.com/memorial/61478726.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
