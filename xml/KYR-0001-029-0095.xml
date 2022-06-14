@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0095"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,24 +71,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky <date when="1862-10">October Term 1862</date>
-<lb/>Jefferson Circuit Court <date when="1862-10-28">October 28<hi rend="sup">th</hi> 1862</date>
-<lb/>The Commonwealth Plff
+   <p>State of <placeName ref="cwgk:P001800">Kentucky</placeName> <date when="1862-10">October Term 1862</date>
+<lb/><orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> <date when="1862-10-28">October 28<hi rend="sup">th</hi> 1862</date>
+<lb/>The <orgName ref="cwgk:O001025">Commonwealth</orgName> Plff
 <lb/>Against Indictment felony
-<lb/>Thomas Kent Deft</p>
-<p>The defendant being solemnly called to appear in discharge of the recognizance entered into by him in this Court, on the <date when="1862-07-31">31<hi rend="sup">st</hi> July 1862</date>, came not, but made default. It is therefore considered by the Court, that the Clerk of this Court issue a writ of Scire facias against said Thomas Kent together with John Keagan and W C D Whipps his bail, to shew cause if any they have or can why the Commonwealth shall not have judgment and Execution thereon against them, the said Kent in Four hundred dollars, and the said Keagan &amp; Whipps in a like sum by reason of the forfeiture of s<hi rend="underline"><hi rend="sup">d</hi></hi> recognizance, and for a breach of the condition thereof. And on motion of plaintiff by Attorney, a Capias is awarded her herin returnable &amp;<hi rend="sup">c</hi> which Capias shall be endorsed bail in Four hundred dollars with good and sufficient security in a like sum conditioned &amp;<hi rend="sup">c</hi>.</p>
-<p>A Copy, attest Jas P Chambers C. J. C. C<pb/></p>
+<lb/><persName ref="cwgk:N00017697">Thomas Kent</persName> Deft</p>
+<p>The defendant being solemnly called to appear in discharge of the recognizance entered into by him in this Court, on the <date when="1862-07-31">31<hi rend="sup">st</hi> July 1862</date>, came not, but made default. It is therefore considered by the Court, that the Clerk of this Court issue a writ of Scire facias against said Thomas Kent together with <persName ref="cwgk:N00017715">John Keagan</persName> and <persName ref="cwgk:N00017714">W C D Whipps</persName> his bail, to shew cause if any they have or can why the Commonwealth shall not have judgment and Execution thereon against them, the said Kent in Four hundred dollars, and the said Keagan &amp; Whipps in a like sum by reason of the forfeiture of s<hi rend="underline"><hi rend="sup">d</hi></hi> recognizance, and for a breach of the condition thereof. And on motion of plaintiff by Attorney, a Capias is awarded her herin returnable &amp;<hi rend="sup">c</hi> which Capias shall be endorsed bail in Four hundred dollars with good and sufficient security in a like sum conditioned &amp;<hi rend="sup">c</hi>.</p>
+<p>A Copy, attest <persName ref="cwgk:N002041">Jas P Chambers</persName> C. J. C. C<pb/></p>
 <p>State of Kentucky
-<lb/>Jefferson Circuit &#125; <date when="1863-05-14">May 4. 1863</date>.</p>
+<lb/>Jefferson Circuit } <date when="1863-05-14">May 4. 1863</date>.</p>
 <p>The defts John Keegan &amp; W O D Whipps being duly summoned &amp; failing to answer <unclear>&amp;c</unclear> is considered by the Court that the plff recover of said defendants the sum of four <hi rend="underline">hundred</hi> dollars, the debt in the scirefacias reimbursed. Also her costs herein expended, And may have <unclear>Ecen</unclear> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
 <p>A Copy Att J P. Chambers</p>
 <p>Commonwealth
-<lb/>vs &#125; Copy Order &amp;<hi rend="sup">c</hi>
+<lb/>vs } Copy Order &amp;<hi rend="sup">c</hi>
 <lb/>Thomas Kent</p>
 <p>Remitted &amp; sent on
 <lb/>Pettn &amp; statement</p>
 <p><unclear/> 63</p>
-<p>W. K. Thomas wishes this fine remitted</p>
+<p><persName ref="cwgk:N00000994">W. K. Thomas</persName> wishes this fine remitted</p>
   </body>
  </text>
 </TEI>
