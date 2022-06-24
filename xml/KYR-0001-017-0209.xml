@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0209"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Commonwealth of Kentucky,
-<lb/>OFFICE SECRETARY OF STATE,
-<lb/>Frankfort, <date when="1861-10-02">Octo 2<hi rend="sup">d</hi>, 1861.</date>
-<lb/>To Jas W Tate Esq 
+   <p><orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>,
+<lb/><orgName ref="cwgk:O00012489">OFFICE SECRETARY OF STATE</orgName>,
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1861-10-02">Octo 2<hi rend="sup">d</hi>, 1861.</date>
+<lb/>To <persName ref="cwgk:N00001223">Jas W Tate</persName> Esq 
 <lb/>Dear Sir:</p>
-<p>I hereby with the consent of the Governor appoint you Assistant and Clerk to the Secretary of State of Kentucky and empower you as such to sign my name <hi rend="str">as such</hi> to all official papers, which it may become necessary for me to sign and this you will enter upon the Executive Journal and proceed to execute the duties of your office</p>
-<p>Nat Gaither Jr
+<p>I hereby with the consent of the <persName ref="cwgk:N00000258">Governor</persName> appoint you Assistant and Clerk to the Secretary of State of <placeName ref="cwgk:P001800">Kentucky</placeName> and empower you as such to sign my name <hi rend="str">as such</hi> to all official papers, which it may become necessary for me to sign and this you will enter upon the Executive Journal and proceed to execute the duties of your office</p>
+<p><persName ref="cwgk:N00002525">Nat Gaither Jr</persName>
 <lb/>Secy of State</p>
 <p>I approve &amp; consent to the appointment of Ja<hi rend="sup">s</hi> W Tate as assistant &amp; Clerk to the Secretary of State</p>
 <p>B. Magoffin<pb/></p>
-<p>Franklin County Sct</p>
-<p>I George W. Gwin a Justice of the peace for Said County do certify that James W Tate this day came personally before <hi rend="str">the</hi> me and took the oath prescribed in the first Section of the Eighth Article of the Constitution of Kentucky for the faithful discharge of the duties of Assisttant and Clerk to the Secretary of State of the State of Kentucky under the within appointment -- </p>
+<p><orgName ref="cwgk:O00000620">Franklin County Sct</orgName></p>
+<p>I <persName ref="cwgk:N00002995">George W. Gwin</persName> a Justice of the peace for Said <placeName ref="cwgk:P001019">County</placeName> do certify that James W Tate this day came personally before <hi rend="str">the</hi> me and took the oath prescribed in the first Section of the Eighth Article of the Constitution of Kentucky for the faithful discharge of the duties of Assisttant and Clerk to the Secretary of State of the State of Kentucky under the within appointment -- </p>
 <p>Given under my hand this <date when="1861-10-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> day of October 1861</date></p>
 <p>Geo W Gwin J. P.</p>
   </body>
