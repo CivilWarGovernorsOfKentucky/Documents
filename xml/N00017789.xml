@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017789">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Heilman Shuey</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017789">
+                    <persName>
+                      John Heilman Shuey
+                        (Butler County, Ohio, merchant and paper manufacturer.)
+                    </persName>
+                        <event type="birth"  when="1809"  ><ab>1809</ab></event>
+                        <event type="death"  when="1868"  ><ab>1868</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Butler County, Ohio, merchant and paper manufacturer. Bethel, Pennsylvania, native. Married to Elizabeth Mayhew Shuey in Butler County, Ohio, on December 17, 1840. Father of Anna Shuey, William H. Shuey, Alford Shuey, and Ellen Shuey. Resident of Lebanon County, Pennsylvania in 1830. Resident in Lebanon County in 1840. Merchant in Butler County, Ohio, in 1850. Paper manufacturer in Oxford in 1860. Treasurer of the Western Female Seminary in Oxfordin 1860. Employed Dana Tileston as a house keeper in Oxford in 1860. Employed Eliza Sanders as a servant in Oxford in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Fifth Manuscript Census of the United States</hi> (1830), Population Schedules, Pennsylvania, Lebanon County, Bethel, p. 17A.<lb/>
+<hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Pennsylvania, Lebanon County, Swatara, p. 28A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Butler County, Fairfield, p. 249A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Butler County, Oxford, p. 229.<lb/>
+<hi rend="italic">Circular of the Western Female Seminary, at Oxford, Ohio</hi> (Cincinnati: Gazette Company Steam Printing Establishment, 1860), 2.<lb/>
+<hi rend="italic">Ohio, US, County Marriage Records, 1803-1879</hi>, Butler County Courthouse, Fairfield, Ohio, p. 105.<lb/>
+&quot;John Heilman Shuey (1809-1868),&quot; Find A Grave, Memorial #136122853, accessed June 23, 2022, http://www.findagrave.com/memorial/136122853.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
