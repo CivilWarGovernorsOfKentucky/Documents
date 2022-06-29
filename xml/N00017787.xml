@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017787">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Mandana Tileston Fairbank</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017787">
+                    <persName>
+                      Mandana Tileston Fairbank
+                        (Williamsburg, Massachusetts, householder.)
+                    </persName>
+                        <event type="birth"  when="1826-10-09"  ><ab>1826-10-09</ab></event>
+                        <event type="death"  when="1876-09-29"  ><ab>1876-09-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="F"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Williamsburg, Massachusetts, householder. Williamsburg, Massachusetts, native. Daughter of Cornelius Tileston and Elvira Tileston. Married to Calvin Fairbank in Oxford, Ohio, on June 9, 1864. Resident in Williamsburg, Massachusetts, in 1850. Resident of Oxford, Ohio, in 1862. Householder in Williamsburg, Massachusetts, in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Massachusetts, Hampshire County, Williamsburg, p. 32A.<lb/>
+<hi rend="italic">Massachusetts State Census</hi> (1865), Population Schedules, Massachusetts, Hampshire County, Williamsburg. <lb/>
+<hi rend="italic">Massachusetts, U.S., Death Records, 1841-1915</hi>, New England Historic Genealogical Society, Boston, MA, Hampshire County.<lb/>
+<hi rend="italic">Ohio, US, County Marriage Records, 1803-1879</hi>, Butler County Courthouse, Oxford, Ohio, p. 44.<lb/>
+&quot;Rev. Calvin Fairbanks,&quot; <hi rend="italic">The Liberator</hi> (MA), July 15, 1864, Newspapers.com, https://www.newspapers.com/image/35046947.<lb/>
+&quot;Mandana Tileston Fairbank (1826-1876),&quot; Find A Grave, Memorial #10755492, accessed June 23, 2022, http://www.findagrave.com/memorial/10755492.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
