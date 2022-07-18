@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0026"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>War Department,
-<lb/>Provost Marshal General's Office,
-<lb/>Washington, D. C. <date when="1863-12-31">Dec. 31. 1863</date></p>
-<p>Respectfully returned with report as required. The Adjutant General of the Army says,</p>
-<p>"The statement in the letter of His Excelency they Governor that 'a remarkable discrepancy' exists as shown by the records of the War Department &amp; those of the State, cannot be supported by the records of this office. The statement results from the State Authority omitting to observe that the Exhibit sent the Governor by the Adjutant General of the Army only embraces credits of men furnished by the State to include <date when="1863-06-30">June 30. 1863</date>.</p>
+   <p><orgName ref="cwgk:O00005118">War Department</orgName>,
+<lb/><orgName ref="cwgk:O00017412">Provost Marshal General's Office</orgName>,
+<lb/><placeName ref="cwgk:P00001134">Washington, D. C</placeName>. <date when="1863-12-31">Dec. 31. 1863</date></p>
+<p>Respectfully returned with report as required. The <persName ref="cwgk:N00005245">Adjutant General of the Army</persName> says,</p>
+<p>"The statement in the letter of His Excelency they <persName ref="cwgk:N001000">Governor</persName> that 'a remarkable discrepancy' exists as shown by the records of the War Department &amp; those of <placeName ref="cwgk:P001800">the State</placeName>, cannot be supported by the records of this office. The statement results from the State Authority omitting to observe that the Exhibit sent the Governor by the Adjutant General of the Army only embraces credits of men furnished by the State to include <date when="1863-06-30">June 30. 1863</date>.</p>
 <p>"By that statement the State is credited as follows;
 <lb/>(over)<pb/>
 <lb/><table rend="rules">
@@ -136,7 +144,7 @@
 </row>
 </table></p>
 <p>Thus leaving a difference between the records of the War Department &amp; of the State to include <date when="1863-06">June 1863</date> -- of 1.024 men.</p>
-<p>This number is made up of recruits sent to regiments in field, but as this office has not official evidence of their having been mustered the U. S. services it remains<pb/>
+<p>This number is made up of recruits sent to regiments in field, but as this office has not official evidence of their having been mustered the <orgName ref="cwgk:O00001186">U. S. services</orgName> it remains<pb/>
 <lb/>for the State (she claims them) to furnish that evidence. When furnished the credit will be promptly given.</p>
 <p>"The Department has not notified the Governor of the number of men mustered in &amp; credited to the State <date when="--06-30"><hi rend="underline">since June 30</hi><hi rend="underline"><hi rend="sup">th</hi></hi> </date> and therefore the State authorities are premature in saying a discrepancy exists between the State &amp; U. S. records since that date.</p>
 <p>"Since the receipt of the letter of His Excellency, to which this is a reply in part, the records of this office have been examined &amp; the following number of troops reported since <date when="--06-30">June 30<hi rend="sup">th</hi></date> can be credited; -- </p>
@@ -190,13 +198,13 @@
 <p>Under call of July 2. 1862 for 300.000 Volunteers -- " -- 14.905</p>
 <p>Under call of August 4. 1862
 <lb/>G. O. 94. A. G. O. 1862 for 300 000 Militia -- <hi rend="underline">14.905</hi></p>
-<p>(signed) Tho<hi rend="underline"><hi rend="sup">s</hi></hi> M. Vincent
+<p>(signed) <persName ref="cwgk:N00005761">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> M. Vincent</persName>
 <lb/>Ass<hi rend="underline"><hi rend="sup">t</hi></hi> Adj<hi rend="underline"><hi rend="sup">t</hi></hi> Gen<hi rend="underline"><hi rend="sup">l</hi></hi></p>
 <p>"P. S.
 <lb/>It is due the Adjutant General's Office to add that careful attention has been given to the subject of credits for the respective states. With the view of having the records of the state &amp; the War Department agree, the respective Governors were asked by Circular of <date when="1863-09-03">September 3. 1863</date> to furnish this office quarterly with a<pb/>
 <lb/>statement of troops furnished by their respective states. For the quarter ending <date when="--09-30">September 30<hi rend="sup">th</hi></date>, no reply from Kentucky to the Circular has been received, &amp; therefore it was not until the receipt of the Governor's letter of the 21<hi rend="underline"><hi rend="sup">st</hi></hi> inst. that the number claimed by the State since <date when="--06-30">June 30<hi rend="underline"><hi rend="sup">th</hi></hi></date> was known."</p>
-<p>A point made by the Governor of Kentucky is that the quotas assigned to that state in <date when="1861">1861</date> &amp; <date when="1862">1862</date> on the basis of population, (Census of <date when="1860">1860</date>) were too large from the fact that many of their men had left the state &amp; joined the rebelliion. I think this point is well taken &amp; it accounts in part for the fact that some of the border states are deficient on former calls. I think it would be only just to consider the quotas assigned to Missouri, Kentucky, Maryland &amp; West Virginia on the basis of population <hi rend="str">as</hi> reduced by the difference between the quota thus assigned &amp; that now ascertained by the enrolment.</p>
-<p>James B. Fry
+<p>A point made by the Governor of Kentucky is that the quotas assigned to that state in <date when="1861">1861</date> &amp; <date when="1862">1862</date> on the basis of population, (Census of <date when="1860">1860</date>) were too large from the fact that many of their men had left the state &amp; joined <orgName ref="cwgk:O00000506">the rebelliion</orgName>. I think this point is well taken &amp; it accounts in part for the fact that some of the border states are deficient on former calls. I think it would be only just to consider the quotas assigned to <placeName ref="cwgk:P00001883">Missouri</placeName>, Kentucky, <placeName ref="cwgk:P00001160">Maryland</placeName> &amp; <placeName ref="cwgk:P001038">West Virginia</placeName> on the basis of population <hi rend="str">as</hi> reduced by the difference between the quota thus assigned &amp; that now ascertained by the enrolment.</p>
+<p><persName ref="cwgk:N00003045">James B. Fry</persName>
 <lb/>Prov. Mars. General.</p>
   </body>
  </text>
