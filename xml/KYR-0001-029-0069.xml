@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0069"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Ian Iverson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,30 +68,30 @@
  <text>
   <body>
    <p>To His Excellency
-<lb/>James F Robinson:
+<lb/><persName ref="cwgk:N001004">James F Robinson</persName>:
 <lb/>Sir.</p>
-<p>The undersigned citizens of Covington Ky -- beg leave respectfully to present the case of Lafayette Brafford fore Executive Clemency. We believe the facts of his case are well set out on the paper signed by the Jury that tried him, and for the reasons set out in said paper and the further reason that Mullins who was convicted for the same offense, was pardoned out many months since, we think even handed justice, requires the release of Brafford -- This was his first offense -- He had always been a well behaved young man -- supported his mother and the fact -- that no acquaintance existed between Brafford and the deceased -- and the manner of the deed, shows we think that the killing was an accident. We pray that he may be pardoned and as in duty bound will ever pray Cov Ky <date when="1862-10">Oct 1862</date></p>
+<p>The undersigned citizens of <placeName ref="cwgk:P00000936">Covington</placeName> <placeName ref="cwgk:P001800">Ky</placeName> -- beg leave respectfully to present the case of <persName ref="cwgk:N00017610">Lafayette Brafford</persName> fore Executive Clemency. We believe the facts of his case are well set out on the paper signed by the Jury that tried him, and for the reasons set out in said paper and the further reason that <persName ref="cwgk:N00017955">Mullins</persName> who was convicted for the same offense, was pardoned out many months since, we think even handed justice, requires the release of Brafford -- This was his first offense -- He had always been a well behaved young man -- supported his <persName ref="cwgk:N00017933">mother</persName> and the fact -- that no acquaintance existed between Brafford and the <persName ref="cwgk:N00018199">deceased</persName> -- and the manner of the deed, shows we think that the killing was an accident. We pray that he may be pardoned and as in duty bound will ever pray Cov Ky <date when="1862-10">Oct 1862</date></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Names
-<lb/>Wm H. Gedge
-<lb/>Wm H Glore
+<lb/><persName ref="cwgk:N00017940">Wm H. Gedge</persName>
+<lb/><persName ref="cwgk:N00017956">Wm H Glore</persName>
 <lb/><hi rend="underline">James Ayars, Jr.</hi>
-<lb/>S. C <unclear>Pernir</unclear>
-<lb/>J B Lendrum
-<lb/>R: Richardson
-<lb/><cb n="2"/>A, H, Herod Jailer
-<lb/>J<hi rend="underline"><hi rend="sup">as</hi></hi> ,C, Gedge
+<lb/><persName ref="cwgk:N00004524">S. C <unclear>Pernir</unclear></persName>
+<lb/><persName ref="cwgk:N00005627">J B Lendrum</persName>
+<lb/><persName ref="cwgk:N00010396">R: Richardson
+</persName><lb/><cb n="2"/><persName ref="cwgk:N00006306">A, H, Herod</persName> Jailer
+<lb/><persName ref="cwgk:N00017977">J<hi rend="underline"><hi rend="sup">as</hi></hi> ,C, Gedge</persName>
 <lb/><hi rend="underline">H. Myers,</hi>
-<lb/>John R. Ricke
-<lb/>A F Francis<pb/>
-<lb/><milestone unit="column" n="1"/>Cap<hi rend="sup">t</hi> B H Burnside
-<lb/>John Y. Mise M D
-<lb/>S. H. Cambron
-<lb/>John T. Levis<pb/></p>
+<lb/><persName ref="cwgk:N00006953">John R. Ricke</persName>
+<lb/><persName ref="cwgk:N00008616">A F Francis</persName><pb/>
+<lb/><milestone unit="column" n="1"/>Cap<hi rend="sup">t</hi> <persName ref="cwgk:N00017963">B H Burnside</persName>
+<lb/><persName ref="cwgk:N00017975">John Y. Mise</persName> M D
+<lb/><persName ref="cwgk:N00010334">S. H. Cambron</persName>
+<lb/><persName ref="cwgk:N00017941">John T. Levis</persName><pb/></p>
 <p><unclear>inc<hi rend="sup">d</hi></unclear> <unclear/>.
-<lb/>Kenton Cir Ct
+<lb/><orgName ref="cwgk:O00000410">Kenton Cir Ct</orgName>
 <lb/>L. Brafford
 <lb/>10 yrs Penty
-<lb/>to &#125; Petitin
+<lb/>to } Petitin
 <lb/>Murder
  <lb/><hi rend="underline">Gov Robinson</hi></p>
 <p>Pardon granted to the within Lafayette Bradford</p>
