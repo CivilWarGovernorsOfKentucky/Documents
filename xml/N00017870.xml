@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017870">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Milton Goghegan</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017870">
+                    <persName>
+                      Milton Goghegan
+                        (Nicholas County, Kentucky, farmer.)
+                    </persName>
+                        <event type="birth"  when="1806"  cert="medium" ><ab>c1806</ab></event>
+                        <event type="death"  when="1876"  cert="medium" ><ab>c1876</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Nicholas County, Kentucky, farmer. Married to Sarah &quot;Sally&quot; Brook Goghegan in Nicholas County, Kentucky, on May 2, 1830. Resident of Nicholas County in 1840. Owned one enslaved person in Nicholas County in 1840. Farmer in Nicholas County in 1850. Owned three enslaved persons in Nicholas County in 1850. Farmer in Nicholas County in 1860. Employed John S. Poisal as a farm hand in Nicholas County in 1860. Employed Nelson Taylor as a laborer in Nicholas County in 1860. Owned six enslaved persons in Nicholas County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Sixth Manuscript Census of the United States</hi>(1840), Population Schedules, Kentucky, Nicholas County, Carlisle, 96.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Nicholas County, District 2, p. 405B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Nicholas County, District 2, p. 7.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nicholas County, District 2, p. 399.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Nicholas County, District 2, p. 143A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, <lb/>
+ Nicholas County Marriages, Film 000252392, p. 44.<lb/>
+<hi rend="italic">Kentucky, Wills and Probate Records, 1774-1989</hi>, Kentucky County, District, and Probate Courts, Nicholas County Administrators Bonds, 1854-1969, p. 284.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
