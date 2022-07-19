@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017880">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Riley Hopper</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017880">
+                    <persName>
+                      William Riley Hopper
+                        (Nicholas County, Kentucky, blacksmith and soldier.)
+                    </persName>
+                        <event type="birth"  when="1838-11-28"  ><ab>1838-11-28</ab></event>
+                        <event type="death"  when="1920-08-02"  ><ab>1920-08-02</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Nicholas County, Kentucky, blacksmith and soldier. Kentucky native. Son of Alfred Hopper and Hannah Riley Hopper. Married to Margaret Everman Hopper in Nicholas County, Kentucky, on April 3, 1860. Father of Theodosia Hopper and Arthur E. Hopper. Blacksmith in Nicholas County in 1860. Enrolled in 7th Kentucky Volunteer Cavalry (U.S.A.) as a farrier on August 30, 1862. Captured by Confederate forces prior to being mustered in and paroled at Cynthiana, Kentucky. Served in the 7th Kentucky Volunteer Cavalry (U.S.A.) as a private and farrier from January 26, 1863 to May 20, 1863. Discharged for physical disability on May 20, 1863 in Nashville, Tennessee. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Nicholas County, District 2, p. 24.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Nicholas County, Precinct 2, p. 227A. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0080.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File #21221.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Nicholas County Marriages, Film 000252392, p. 25.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 188-189.<lb/>
+&quot;William Riley Hopper (1838-1920),&quot; Find A Grave, Memorial #62848016, accessed July 19, 2022, http://www.findagrave.com/memorial/62848016.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
