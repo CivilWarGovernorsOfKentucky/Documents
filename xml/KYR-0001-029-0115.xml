@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0115"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Exellency Governor Robinson of the State of Kentucky.</p>
-<p>The ^undersigned^ citizen and Freeholders of the city of Newport Campbell County Ky. Respectfully represent that F. Brutsche was found guilty of the offense of selling liquor to Minors, at the last <date when="--08">August</date> term of the Campbell Circuit Court. That the said F. Brutsche is a respectable and law abiding Citizen of Newport, that the law under which he was fined is a hard one, and especialy so in this case where the young man, who was the prosecuting witness, was only a few months under the age of twenty one. Considering the foregoing facts the undersigned do therefor respectfully pray your Exellency to remit the commonwealths portion of his fine which the think would be only doing common justice</p>
+   <p>To his Exellency <persName ref="cwgk:N001004">Governor Robinson</persName> of the State of Kentucky.</p>
+<p>The ^undersigned^ citizen and Freeholders of the city of <placeName ref="cwgk:P00004717">Newport</placeName> <placeName ref="cwgk:P00001874">Campbell County</placeName> <placeName ref="cwgk:P001800">Ky</placeName>. Respectfully represent that <persName ref="cwgk:N00017736">F. Brutsche</persName> was found guilty of the offense of selling liquor to Minors, at the last <date when="--08">August</date> term of the <orgName ref="cwgk:O00000361">Campbell Circuit Court</orgName>. That the said F. Brutsche is a respectable and law abiding Citizen of Newport, that the law under which he was fined is a hard one, and especialy so in this case where the <persName ref="cwgk:N00018251">young man</persName>, who was the prosecuting witness, was only a few months under the age of twenty one. Considering the foregoing facts the undersigned do therefor respectfully pray your Exellency to remit the commonwealths portion of his fine which the think would be only doing common justice</p>
 <p>Newport Ky. <date when="1862-11-07">Nov. 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
-<lb/>Robt B MCrackin Mayor
-<lb/>M Cook city marshal Elect
-<lb/>H. Sine, City Clerk<figure type="hr"/></p>
+<lb/><persName ref="cwgk:N00004724">Robt B MCrackin</persName> Mayor
+<lb/><persName ref="cwgk:N00006116">M Cook</persName> city marshal Elect
+<lb/><persName ref="cwgk:N00006900">H. Sine</persName>, City Clerk<figure type="hr"/></p>
 <p>I respectfully recommend that the fine in this case be remitted</p>
-<p>W L. Berry. Judge C. C. C.
-<lb/>H, E, Spilsman Dept Sheriff, C, C<pb/>
-<lb/>Jno. C Mead
-<lb/>J. Hawthorn
-<lb/>J. D. <unclear>Masset</unclear><pb/></p>
+<p><persName ref="cwgk:N00004739">W L. Berry</persName>. Judge C. C. C.
+<lb/><persName ref="cwgk:N00006799">H, E, Spilsman</persName> Dept Sheriff, C, C<pb/>
+<lb/><persName ref="cwgk:N00006797">Jno. C Mead</persName>
+<lb/><persName ref="cwgk:N00004721">J. Hawthorn</persName>
+<lb/><persName ref="cwgk:N00017740">J. D. <unclear>Masset</unclear></persName><pb/></p>
 <p>Pettn to remit fine of F Brutsche for selling liquor to Minor from Newport
 <lb/>I see no cause for my interposition refuse<hi rend="sup">d</hi></p>
 <p>J F R.</p>
