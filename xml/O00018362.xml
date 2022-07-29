@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00018362">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">15th U.S. Infantry regiment</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00018362">
+                    <orgName>15th U.S. Infantry regiment</orgName>
+                        <event type="begun"  when="1861-07-23"  ><ab>1861-07-23</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>U.S. Army unit organized at Wheeling, Virginia. Created by an act of Congress on July 23, 1861. Commander(s) (during the Civil War): Colonel Fitz John Porter, Colonel Oliver L. Shepherd.</p>
+
+    </body>
+    <back>
+        <ab><bibl>H.R. Brinkerhoff, &quot;Fifteenth Regiment of Infantry,&quot; <hi rend="italic">The Army of the US Historical Sketches of Staff and Line with Portraits of Generals-in-Chief</hi>  Theophilus Francis Rodenbough and William L. Haskin ed.(New York: Maynard, Merrill, &amp; Co., 1896), 610-629.<lb/>
+Frederick Dyer, <hi rend="italic">A Compendium of the War of the Rebellion</hi> (Des Moines: The Dyer Publishing Company, 1908), 1714.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
