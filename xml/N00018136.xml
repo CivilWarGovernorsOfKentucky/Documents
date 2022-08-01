@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018136">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles Carroll Gray</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018136">
+                    <persName>
+                      Charles Carroll Gray
+                        (Ontario County, New York, surgeon. )
+                    </persName>
+                        <event type="birth"  when="1838-03-29"  ><ab>1838-03-29</ab></event>
+                        <event type="death"  when="1884-11-22"  ><ab>1884-11-22</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Ontario County, New York, surgeon. Orange County, New York, native. Married to Laura Maria Bissell Gray on November 11, 1862. Father of Martha Gray. Graduate of Hobart College in Geneva, Ontario County, New York, in 1858. Graduate of Hobart Medical College in Geneva, Ontario County, New York, in 1861. Served in the U.S. Army as an assistant surgeon from May 28, 1861 through December 31, 1865. Subsequently brevetted lieutenant colonel. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, New York, West Chester County, West Chester, p. 267A. <lb/>
+&quot;Obituary: Dr. Charles Carroll Gray,&quot; _ New York Times_ (New York, NY), November 26, 1884, p. 2.<lb/>
+&quot;Was a Daughter of Bisohp Bissell,&quot;<hi rend="italic">St. Albans Daily Messenger</hi>(St. Albans, VT), May 26, 1908, p. 3.<lb/>
+Francis B Heitman, <hi rend="italic">Historical Register and Dictionary of the United States Army, from its Organization, September 29, 1789, to March 2, 1903</hi> vol. 1, pt. II (Washington, DC: Government Printing Office, 1903), 471.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
