@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0028"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Ian Iverson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>HEAD-QUARTERS ACT'G ASST. PROVOST MARSHAL GENERAL,
-<lb/>STATE OF KENTUCKY,
-<lb/>Louisville, Ky <date when="1863-12-24">December 24 1863</date>
-<lb/>Hon Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
+   <p><orgName ref="cwgk:O00017412">HEAD-QUARTERS ACT'G ASST. PROVOST MARSHAL GENERAL</orgName>,
+<lb/>STATE OF <placeName ref="cwgk:P001800">KENTUCKY</placeName>,
+<lb/><placeName ref="cwgk:P00000337">Louisville</placeName>, Ky <date when="1863-12-24">December 24 1863</date>
+<lb/>Hon <persName ref="cwgk:N001000">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette</persName>
 <lb/>Governor of Ky.</p>
-<p>Sir Herewith I have the honor to transmit certified copy of a communication this day received from Maj Genl Grant. in reply to your letter of the <date when="1863-12-08">8" inst</date> to these Head Quarters, a copy of which was forwarded to him, in regard to the recent Order of Genl Hurlbut conscripting all able bodied men in his District.</p>
+<p>Sir Herewith I have the honor to transmit certified copy of a communication this day received from <persName ref="cwgk:N00011819">Maj Genl Grant.</persName> in reply to your letter of the <date when="1863-12-08">8" inst</date> to these Head Quarters, a copy of which was forwarded to him, in regard to the recent Order of <persName ref="cwgk:N00017344">Genl Hurlbut </persName>conscripting all able bodied men in his District.</p>
 <p>I respectfully transmit this for your information.</p>
 <p>I have the honor
 <lb/>to remain Very
 <lb/>Respectfully Your
 <lb/>Obt Svt
-<lb/>W. H. Sidell
-<lb/>15 reg I and asst P M G for Ky
+<lb/><persName ref="cwgk:N001021">W. H. Sidell</persName>
+<lb/><orgName ref="cwgk:O00018362">15 reg I</orgName> and asst P M G for Ky
 <lb/>per Geo M Lane "
 <lb/>Capt I C &amp; Adj</p>
   </body>
