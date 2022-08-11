@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006969">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017773">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. M. Wood</title>
+        <title level="a" type="main">John L. Reynolds</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Hannah M. O&#39;Daniel</name>
+            <name>Abigail Stephens</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Brian M. Trump</name>
+            <name>Ian Iverson</name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Hannah M. O&#39;Daniel</name>
+            <name>Abigail Stephens</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -49,24 +45,27 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006969">
+                <person xml:id="N00017773">
                     <persName>
-                      J. M. Wood
-                        (Powell County, Kentucky, resident)
+                      John L. Reynolds
+                        (Lafayette, Tippecanoe County, Indiana, banker.)
                     </persName>
-                      <trait type="gender" subtype="U"/>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
+                        <event type="death"  when="1876-10-11"  ><ab>1876-10-11</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Powell County, Kentucky, resident.</p>
+        <p>Lafayette, Tippecanoe County, Indiana, banker. Ohio native. Married to Julia E. Reynolds. Father of Sallie E. Reynolds, Floyd Reynolds, Florence Reynolds, and Lissie Reynolds. Banker in Lafayette, Tippecanoe County, Indiana, in 1860. Employed Margaret Reef and Margaret Fitzgerald as servants in Lafayette, Tippecanoe County, in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0570.<lb/>
-KYR-0001-029-0152.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi>(1860), Population Schedules, Indiana, Tippecanoe County, Lafayette, p. 959. <lb/>
+<hi rend="italic">Marshall County Republican</hi>(Plymouth, IN), October 19, 1876, p. 3.
 </bibl></ab>
     </back>
 </text>

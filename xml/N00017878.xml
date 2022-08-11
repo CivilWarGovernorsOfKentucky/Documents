@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006969">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017878">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. M. Wood</title>
+        <title level="a" type="main">Hobson H. Lowe</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Hannah M. O&#39;Daniel</name>
+            <name>Brian M. Trump</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Brian M. Trump</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Hannah M. O&#39;Daniel</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -49,24 +45,30 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006969">
+                <person xml:id="N00017878">
                     <persName>
-                      J. M. Wood
-                        (Powell County, Kentucky, resident)
+                      Hobson H. Lowe
+                        (Warren County, Kentucky, farmer.)
                     </persName>
-                      <trait type="gender" subtype="U"/>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Powell County, Kentucky, resident.</p>
+        <p>Warren County, Kentucky, farmer. Warren County, Kentucky, native. Married to Nancy Mannen Lowe. Father of Sally Scott Lowe, Isaac H. Lowe, Joseph H. Lowe, Mary E. Lowe, and Annie E. Lowe and Lucy I. Lowe. Farmer in Warren County, Kentucky, in 1850. Farmer in Warren County in 1860. Farmer in Warren County in 1864. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0570.<lb/>
-KYR-0001-029-0152.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Warren County, District No 2, p. 126B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Warren County, District No 1, p. 109.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Warren County, Elk Springs Precinct, p. 148B.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Warren County, KY, February 1864.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994057, Warren County Births, p. 10.<lb/>
+&quot;Lucy I. Lowe (1862-1862),&quot; Find A Grave, Memorial #211332807, accessed August 10, 2022, http://www.findagrave.com/memorial/211332807.
 </bibl></ab>
     </back>
 </text>

@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006969">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018010">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. M. Wood</title>
+        <title level="a" type="main">Benjamin F. Cockrill</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Hannah M. O&#39;Daniel</name>
+            <name>Abigail Stephens</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Brian M. Trump</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Hannah M. O&#39;Daniel</name>
+            <name>Ian Iverson</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -49,24 +41,27 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006969">
+                <person xml:id="N00018010">
                     <persName>
-                      J. M. Wood
-                        (Powell County, Kentucky, resident)
+                      Benjamin F. Cockrill
+                        (Allen, Kentucky, attorney.)
                     </persName>
-                      <trait type="gender" subtype="U"/>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Powell County, Kentucky, resident.</p>
+        <p>Allen County, Kentucky, attorney. Kentucky native. Married to Amanda J. Cockrill. Father of Eugene U. Cockrill, Willie J. Cockrill, and Cora B. Cockrill. Attorney in Edmonson County, Kentucky, in 1850. Attorney in Allen County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0570.<lb/>
-KYR-0001-029-0152.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Edmonson County, p. 83A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Allen County, Scottsville, p. 364.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Allen County, Scottsville, p. 177A.
 </bibl></ab>
     </back>
 </text>

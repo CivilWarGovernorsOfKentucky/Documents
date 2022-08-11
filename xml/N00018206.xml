@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006969">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018206">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">J. M. Wood</title>
+        <title level="a" type="main">George T. Hulse</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Hannah M. O&#39;Daniel</name>
+            <name>MontanaWilliamson</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Brian M. Trump</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Hannah M. O&#39;Daniel</name>
+            <name>Ian Iverson</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -49,24 +41,29 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006969">
+                <person xml:id="N00018206">
                     <persName>
-                      J. M. Wood
-                        (Powell County, Kentucky, resident)
+                      George T. Hulse
+                        (Platte County, Missouri, cashier. )
                     </persName>
-                      <trait type="gender" subtype="U"/>
+                        <event type="birth"  when="1810-10-09"  ><ab>1810-10-09</ab></event>
+                        <event type="death"  when="1893-12-29"  ><ab>1893-12-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Powell County, Kentucky, resident.</p>
+        <p>Platte County, Missouri, cashier. New York native. Married to Mary B. Van Bibber Hulse in Platte County, Missouri, on June 22, 1842. Father of James W. Hulse. Cashier in Platte County, Missouri in 1860. Owned three enslaved persons in Platte County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0570.<lb/>
-KYR-0001-029-0152.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Missouri, Platte County, Weston, p. 708.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Missouri, Platte County, Weston, p. 225B.<lb/>
+<hi rend="italic">Missouri, County Marriage, Naturalization, and Court Records (1800-1991)</hi>, Missouri State Archives, Jefferson City, MO, Film#007514188, Platte County Births/Marriages/Deaths, p. 35.<lb/>
+&quot;George Tuthill Hulse (1810-1893),&quot; Find A Grave, Memorial #157296972, accessed July 19, 2022, https://www.findagrave.com/memorial/157296972.
 </bibl></ab>
     </back>
 </text>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018008">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Samuel Bridges</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018008">
+                    <persName>
+                      Samuel Bridges
+                        (Barren and Allen County, Kentucky, farmer.)
+                    </persName>
+                        <event type="birth"  when="1808"  cert="medium" ><ab>c1808</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Barren and Allen County, Kentucky, farmer. Kentucky, native. Married to Lucy D. Cowden Bridges in Allen County, Kentucky, on September 1, 1829. Father of William T. Bridges, Eliza J. Bridges, Mary M. Bridges, Jeremiah M. Bridges, Samuel J. Bridges, Joseph Ann Bridges, and Sally B. Bridges. Resident of Allen County in 1830. Resident of Allen County in 1840. Owned one enslaved person in Allen County in 1840. Farmer in Barren County in 1850. Owned two enslaved persons in Barren County in 1850. Farmer in Allen County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Fifth Manuscript Census of the United States</hi>(1830), Population Schedules, Kentucky, Allen County, p. 53.<lb/>
+<hi rend="italic">Sixth Manuscript Census of the Untied States</hi>(1840), Population Schedules, Kentucky, Allen County, p. 66. <lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Barren County, First Division, p. 769B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi>(1850), Slave Schedules, Kentucky, Barren County, First Division.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Allen County, Scottsville, p. 344.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Allen County Marriages, Film #000851644, p. 15.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
