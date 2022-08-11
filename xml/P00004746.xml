@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00012110">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00004746">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">United States Sentate</title>
+        <title level="a" type="main">Grayson County, Kentucky LOSER</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Peter R. Thomas Jr.</name>
+            <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Emily D. Moses</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Natalie Smith</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -33,24 +41,28 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="type">Organization</term>
+                    <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
-                <org xml:id="O00012110">
-                    <orgName>United States Sentate</orgName>
-                        <event type="begun"  when="1789-03-04"  ><ab>1789-03-04</ab></event>
-                </org>
-            </particDesc>
+            <settingDesc>
+                <place xml:id="P00004746">
+                    <placeName>
+                        <location>
+                              <geo>37.4801 -86.3782</geo>
+                            <settlement>Grayson County, Kentucky LOSER</settlement>
+                        </location>
+                    </placeName>
+                </place> 
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Branch of the United States Congress. Composed of two senators from each state.</p>
+        <p>Seat at Leitchfield, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-028-0058.
+        <ab><bibl>Robert M. Rennick, <hi rend="italic">Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 1988), 124.
 </bibl></ab>
     </back>
 </text>
