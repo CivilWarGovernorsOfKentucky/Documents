@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017979">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Fountain G. Mitchell</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017979">
+                    <persName>
+                      Fountain G. Mitchell
+                        (Allen County, Kentucky, farmer and peddler.)
+                    </persName>
+                        <event type="birth"  when="1829"  cert="medium" ><ab>c1829</ab></event>
+                        <event type="death"  when="1910-08"  cert="medium" ><ab>c1910-08</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Allen County, Kentucky, farm laborer, peddler. merchant, and postmaster. Allen County, Kentucky, native. Son of Harvey S. Mitchell and Malinda Mitchell. Married to Sarah E. Woodcock Mitchell in Allen County, Kentucky, on November 5, 1855. Father of William H. Mitchell and Eugene Mitchell. Farm laborer in Allen County in 1850. Peddler in Allen County  in 1860. Merchant in Allen County in 1864. Postmaster of Scottsville, Allen County, from July 30, 1864 through December 31, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky,  Allen County, p. 245A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Allen County, Scottsville, p. 358.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Allen County, Precinct No. 1, p. 171B.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Allen County, KY, February 1864, p. 235.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994027, Allen County Deaths.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Allen County Marriages, Film #000851644, p. 44.<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi> Records of the Post Office Department, NARA Series M841, RG 28, Allen County, Kentucky, vol. 28.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
