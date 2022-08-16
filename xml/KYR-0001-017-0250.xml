@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0250"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Ian Iverson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,35 +71,35 @@
  <text>
   <body>
    <p><hi rend="underline">November</hi> <hi rend="underline">21</hi><hi rend="underline"><hi rend="sup">st</hi></hi> <hi rend="underline">1861</hi></p>
-<p>We the voters of the HeadQuarters Precinct do hereby Recomend Milton Goghegan as a suitable man for Magistrate in District No. 2. Nicholas County.</p>
+<p>We the voters of the HeadQuarters Precinct do hereby Recomend <persName ref="cwgk:N00017870">Milton Goghegan</persName> as a suitable man for Magistrate in District No. 2. <placeName ref="cwgk:P00000539">Nicholas County</placeName>.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Names
-<lb/>A. J. Kennedy cnc
-<lb/>Robert F Williams
-<lb/>N W Conway
-<lb/>Amos Teeback
-<lb/>S F. Conway
-<lb/>Wm Hopper
-<lb/>H H Poter
-<lb/>W. J. Kennedy
-<lb/>James Hillock
-<lb/>John Mitcheltree
-<lb/>W. H. Philips
-<lb/>J. M. Brooks
-<lb/>H. P. Rickie
-<lb/><cb n="2"/>John. A. Tribble
-<lb/>J G Burris
-<lb/>J M Hollar
-<lb/>Anderson Barlow
-<lb/>Jesse Barlow
-<lb/>G W Hood
-<lb/>William Kennedy
-<lb/>R. W. Tompson
-<lb/>James Kennedy
-<lb/>Anderson, Brooks
-<lb/>Willis Snapp<milestone unit="column" n="1"/><pb/></p>
-<p>Governor MaGoffin,
-<lb/>Frankfort, 
-<lb/>Ky.</p>
+<lb/><persName ref="cwgk:N00017873">A. J. Kennedy</persName> cnc
+<lb/><persName ref="cwgk:N00017874">Robert F Williams</persName>
+<lb/><persName ref="cwgk:N00017876">N W Conway</persName>
+<lb/><persName ref="cwgk:N00017879">Amos Teeback</persName>
+<lb/><persName ref="cwgk:N00017877">S F. Conway</persName>
+<lb/><persName ref="cwgk:N00017880">Wm Hopper</persName>
+<lb/><persName ref="cwgk:N00017882">H H Poter</persName>
+<lb/><persName ref="cwgk:N00017883">W. J. Kennedy</persName>
+<lb/><persName ref="cwgk:N00017887">James Hillock</persName>
+<lb/><persName ref="cwgk:N00017889">John Mitcheltree</persName>
+<lb/><persName ref="cwgk:N00017892">W. H. Philips</persName>
+<lb/><persName ref="cwgk:N00017896">J. M. Brooks</persName>
+<lb/><persName ref="cwgk:N00017902">H. P. Rickie</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00012086">John. A. Tribble</persName>
+<lb/><persName ref="cwgk:N00017907">J G Burris</persName>
+<lb/><persName ref="cwgk:N00017908">J M Hollar</persName>
+<lb/><persName ref="cwgk:N00017909">Anderson Barlow</persName>
+<lb/><persName ref="cwgk:N00017911">Jesse Barlow</persName>
+<lb/><persName ref="cwgk:N00017913">G W Hood</persName>
+<lb/><persName ref="cwgk:N00017884">William Kennedy</persName>
+<lb/><persName ref="cwgk:N00017920">R. W. Tompson</persName>
+<lb/><persName ref="cwgk:N00006291">James Kennedy</persName>
+<lb/><persName ref="cwgk:N00017915">Anderson, Brooks</persName>
+<lb/><persName ref="cwgk:N00017919">Willis Snapp</persName><milestone unit="column" n="1"/><pb/></p>
+<p>Governor <persName ref="cwgk:N00000258">MaGoffin</persName>,
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, 
+<lb/><placeName ref="cwgk:P001800">Ky</placeName>.</p>
   </body>
  </text>
 </TEI>
