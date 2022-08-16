@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0211"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,10 @@
  <text>
   <body>
    <p>To His Excellency
-<lb/>Gov B. Magoffin
+<lb/><persName ref="cwgk:N00000258">Gov B. Magoffin</persName>
 <lb/>My Dear Sir</p>
-<p>It is with feelings of the most profound regret that I now tender to you my resignation of the office of Secretary of State -- You will sufficiently understand without more explanation the causes which induce me thus abruptly to sever official relations which to me have been of the most agreable character -- You will know too, the controlling necessity of this step on my part at a time when under other circumstances I would feel especial pride in standing by you with the feeble aid in my power -- </p>
-<p>Allow me to thank you for your uniform kindness, courtesy &amp; friendship. The <hi rend="str">u</hi> invariable confidence you have given me, is appreciated deeply on my part, &amp; will enable me at all times when malignity shall assail or slander attack you, to bear my testimony to the high purpose, the purity of motive, the disinterested patriotism, the perfect integrity, firmness &amp; ability which have characterized your official &amp; private course under circumstances &amp; throughout a period perhaps the most trying, the most perilous, and important ever experienced by the Chief Magistrate of any state of the confederacy. With the deepest interest in your success, the entire confidence that time will demonstrate your noble &amp; pure efforts for the public good and the warmest sympathy with you in all your public &amp; domestic anxieties</p>
+<p>It is with feelings of the most profound regret that I now tender to you my resignation of the <orgName ref="cwgk:O00012489">office of Secretary of State</orgName> -- You will sufficiently understand without more explanation the causes which induce me thus abruptly to sever official relations which to me have been of the most agreable character -- You will know too, the controlling necessity of this step on my part at a time when under other circumstances I would feel especial pride in standing by you with the feeble aid in my power -- </p>
+<p>Allow me to thank you for your uniform kindness, courtesy &amp; friendship. The <hi rend="str">u</hi> invariable confidence you have given me, is appreciated deeply on my part, &amp; will enable me at all times when malignity shall assail or slander attack you, to bear my testimony to the high purpose, the purity of motive, the disinterested patriotism, the perfect integrity, firmness &amp; ability which have characterized your official &amp; private course under circumstances &amp; throughout a period perhaps the most trying, the most perilous, and important ever experienced by the Chief Magistrate of any state of the <placeName ref="cwgk:P001802">confederacy</placeName>. With the deepest interest in your success, the entire confidence that time will demonstrate your noble &amp; pure efforts for the public good and the warmest sympathy with you in all your public &amp; domestic anxieties</p>
 <p>I am most truly, your grateful Friend
 <lb/><hi rend="underline">Thos B. Monroe Jr</hi>.
 <lb/><hi rend="str">Pre</hi><pb/></p>
@@ -77,8 +85,8 @@
 <lb/>B. Magoffin</p>
 <p>His Excellency
 <lb/>B. Magoffin
-<lb/>Frankfort
-<lb/>Ky</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>
+<lb/><placeName ref="cwgk:P001800">Ky</placeName></p>
   </body>
  </text>
 </TEI>
