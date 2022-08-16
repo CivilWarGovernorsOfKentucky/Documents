@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0038"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Ian Iverson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort, Ky. <date when="1863-12-21">Dec 21" 1863</date>
-<lb/>Gen, Boyle
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>. <date when="1863-12-21">Dec 21" 1863</date>
+<lb/><persName ref="cwgk:N00000523">Gen, Boyle</persName>
 <lb/>Sir:</p>
-<p>The money at Mt. Sterling is in the hands of Barnes, White &amp; Co. an Exchange Bank in that place. Capt. Williams left it there. And you will please ^send^ Gov. Bramlette another order on the above named firm for the money.</p>
+<p>The money at <placeName ref="cwgk:P00001936">Mt. Sterling</placeName> is in the hands of <orgName ref="cwgk:O00017996">Barnes, White &amp; Co.</orgName> an Exchange Bank in that place. <persName ref="cwgk:N00018217">Capt. Williams</persName> left it there. And you will please ^send^ <persName ref="cwgk:N001000">Gov. Bramlette</persName> another order on the above named firm for the money.</p>
 <p>I am respectfully
 <lb/>Your ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Watkins<pb/></p>
+<lb/><persName ref="cwgk:N00017992">W<hi rend="underline"><hi rend="sup">m</hi></hi> Watkins</persName><pb/></p>
 <p>H182 (D K) <date when="1863">1863</date><figure type="hr"/></p>
 <p>Frankfort Ky -- 
 <lb/><date when="1863-12-21">Dec 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1863</date><figure type="hr"/></p>
@@ -77,8 +85,8 @@
 <p>Reports that the money at Mount Sterling is in hands of Barnes White and Co. requests that Gov Bramlette be be sent another order for the money<figure type="hr"/></p>
 <p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> H<hi rend="underline"><hi rend="sup">d</hi></hi> Qrs (D K) <date when="--12-22">Dec 22<hi rend="underline"><hi rend="sup">nd</hi></hi> -- </date><figure type="hr"/></p>
 <p>Head Qrs Dist of Ky and 1<hi rend="underline"><hi rend="sup">st</hi></hi> Dist 23<hi rend="underline"><hi rend="sup">rd</hi></hi> A. C.
-<lb/>Louisville, Ky <date when="1863-12-24">Dec<hi rend="sup">r</hi> 24<hi rend="sup">th</hi> 63</date></p>
-<p>Respectfully referred to Gov. Thomas E. Bramlette enclosing orders on Barnes White and Co. Richmond Ky. for the money taken from Keller.</p>
+<lb/><placeName ref="cwgk:P00000337">Louisville</placeName>, Ky <date when="1863-12-24">Dec<hi rend="sup">r</hi> 24<hi rend="sup">th</hi> 63</date></p>
+<p>Respectfully referred to Gov. Thomas E. Bramlette enclosing orders on Barnes White and Co. <placeName ref="cwgk:P00009682">Richmond</placeName> Ky. for the money taken from <persName ref="cwgk:N00017988">Keller</persName>.</p>
 <p><hi rend="underline">J. T. Boyle</hi>
 <lb/>Brig Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Com<hi rend="underline"><hi rend="sup">d</hi></hi>g</p>
   </body>
