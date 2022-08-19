@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0207"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky Whitely County court
+   <p>State of <placeName ref="cwgk:P001800">Kentucky</placeName> <orgName ref="cwgk:O00000725">Whitely County court</orgName>
 <lb/><date when="1861-09">September Term 1861</date></p>
-<p>Thomas Buchannan this day Presented to the court his Resignation as Justice of the Peace in District N<hi rend="sup">o</hi> 6 in Whitly county which was accepted and it is therefore ordered by the court that James, M. Barnet be appointed Justice Pro tem to fill said office</p>
+<p><persName ref="cwgk:N00017785">Thomas Buchannan</persName> this day Presented to the court his Resignation as Justice of the Peace in District N<hi rend="sup">o</hi> 6 in <placeName ref="cwgk:P00002893">Whitly county </placeName>which was accepted and it is therefore ordered by the court that <persName ref="cwgk:N00007577">James, M. Barnet</persName> be appointed Justice Pro tem to fill said office</p>
 <p>a copy
-<lb/>Att J, C, Watkins clk<pb/></p>
+<lb/>Att <persName ref="cwgk:N00007552">J, C, Watkins</persName> clk<pb/></p>
 <p>Whitley Co
 <lb/>J. P.
 <lb/>Cm<hi rend="sup">d</hi> <date when="1861-09-26">Sept 26 1861</date></p>
