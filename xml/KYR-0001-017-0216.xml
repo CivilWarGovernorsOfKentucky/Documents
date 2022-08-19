@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0216"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Cynthiana
+   <p><placeName ref="cwgk:P00005772">Cynthiana</placeName>
 <lb/><date when="1861-10-17">17 October 1861</date>
-<lb/>His Excellency B. Magoffin
+<lb/>His Excellency <persName ref="cwgk:N00000258">B. Magoffin</persName>
 <lb/>Dear Sir</p>
-<p>Miles Wigglesworth a justice of the peace in the Cynthiana or 1<hi rend="underline"><hi rend="sup">st</hi></hi> Magistrates district in this County has removed out of the district and his office has become vacant</p>
-<p>Doctor George A. Perrin a gentleman very well qualified agrees to accept the Office. A better appointment could not be made</p>
+<p><persName ref="cwgk:N00017804">Miles Wigglesworth</persName> a justice of the peace in the Cynthiana or 1<hi rend="underline"><hi rend="sup">st</hi></hi> Magistrates district in this <placeName ref="cwgk:P00002873">County</placeName> has removed out of the district and his office has become vacant</p>
+<p>Doctor <persName ref="cwgk:N00015786">George A. Perrin</persName> a gentleman very well qualified agrees to accept the Office. A better appointment could not be made</p>
 <p>Verry Respectfully
-<lb/>J. R. Curry<pb/></p>
+<lb/><persName ref="cwgk:N00015142">J. R. Curry</persName><pb/></p>
 <p>Harrison Co.
 <lb/>J. P.
 <lb/>Dist N<hi rend="sup">o</hi> 1
