@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0240"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Commonwealth of Kentucky
-<lb/>Caldwell County Court
+   <p><orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>
+<lb/><orgName ref="cwgk:O00000605">Caldwell County Court</orgName>
 <lb/><date when="1861-10">October Term 1861</date>
 <lb/>Monday October <date when="1861-10-21">21st 1861</date>.</p>
-<p>On motion, it is ordered that James M. Harper be and he is hereby appointed as sheriff of this county (for the unexpired time of Jesse stevens who has resigned), whereupon the said Harper took the oath as required by the constitution and laws of the state of Kentucky, and together with James B. Sasseen John F. Morse, William Nichols and Bryant Nichols his sureties, entered into and acknowledged bond payable to the Commonwealth of Kentucky for the faithful discharge of his duty, conditioned according to law.</p>
+<p>On motion, it is ordered that <persName ref="cwgk:N00006272">James M. Harper</persName> be and he is hereby appointed as sheriff of <placeName ref="cwgk:P00002472">this county</placeName> (for the unexpired time of <persName ref="cwgk:N00012363">Jesse stevens</persName> who has resigned), whereupon the said Harper took the oath as required by the constitution and laws of the state of <placeName ref="cwgk:P001800">Kentucky</placeName>, and together with <persName ref="cwgk:N00002474">James B. Sasseen</persName> <persName ref="cwgk:N00016565">John F. Morse</persName>, <persName ref="cwgk:N00014430">William Nichols</persName> and <persName ref="cwgk:N00014158">Bryant Nichols</persName> his sureties, entered into and acknowledged bond payable to the Commonwealth of Kentucky for the faithful discharge of his duty, conditioned according to law.</p>
 <p>A copy
 <lb/>Attest
-<lb/>James C. Weller clk
+<lb/><persName ref="cwgk:N00014047">James C. Weller</persName> clk
 <lb/>Per <hi rend="underline">J. Charles Barnes</hi> D. C.<pb/></p>
 <p>Caldwell Co
 <lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> M Harper
