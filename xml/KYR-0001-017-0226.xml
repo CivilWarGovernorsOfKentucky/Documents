@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0226"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Cincinnati <date when="1861-10-24">24' Oct<hi rend="underline"><hi rend="sup">r</hi></hi> '61</date></p>
-<p><figure type="seal"><ab>ALEX. H. MCGUFFEY
-<lb/>FOR KENTUCKY
-<lb/>COMMISSIONER IN OHIO</ab></figure></p>
-<p>Hon. Tho<hi rend="underline"><hi rend="sup">s</hi></hi> B. Monroe Jr
+   <p><placeName ref="cwgk:P00001208">Cincinnati </placeName><date when="1861-10-24">24' Oct<hi rend="underline"><hi rend="sup">r</hi></hi> '61</date></p>
+<p><figure type="seal"><ab><persName ref="cwgk:N00017891">ALEX. H. MCGUFFEY</persName>
+<lb/>FOR<placeName ref="cwgk:P001800"> KENTUCKY</placeName>
+<lb/>COMMISSIONER IN <placeName ref="cwgk:P001036">OHIO</placeName></ab></figure></p>
+<p>Hon. <persName ref="cwgk:N00002581">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> B. Monroe Jr</persName>
 <lb/>Secretary of State
-<lb/>Frankfort
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>
 <lb/>Kentucky
 <lb/>Sir</p>
 <p>Finding it necessary to have my official seal (as Commissioner in Ohio for Kentucky) re-engraved. I herewith transmit an impression of it, to be filed in your office</p>
