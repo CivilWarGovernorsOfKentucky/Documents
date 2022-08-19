@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0212"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Deposit Bank of Cynthiana,
-<lb/>Cynthiana, Ky., <hi rend="sup">Se</hi> <date when="1861-10-03">Octr <hi rend="str">2</hi>3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1861</date>
-<lb/>Secty of state</p>
-<p>My appointment as Notary Public for this County is about expiring, Please refer and have my commission renewed and I will, if you will state it forward you the required fee,</p>
-<p>Will you be so kind as to enform me whether, Col Hanson forwarded my resignation as 1<hi rend="sup">st</hi> Lieut in the "McDowell Guard" Ky State Guard, &amp; if so whether the resignation was accepted</p>
+   <p><orgName ref="cwgk:O00018373">Deposit Bank of </orgName><placeName ref="cwgk:P00005772"><orgName ref="cwgk:O00018373">Cynthiana</orgName></placeName>,
+<lb/>Cynthiana, <placeName ref="cwgk:P001800">Ky</placeName>., <hi rend="sup">Se</hi> <date when="1861-10-03">Octr <hi rend="str">2</hi>3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1861</date>
+<lb/><persName ref="cwgk:N00002525">Secty of state</persName></p>
+<p>My appointment as Notary Public for this <placeName ref="cwgk:P00002873">County</placeName> is about expiring, Please refer and have my commission renewed and I will, if you will state it forward you the required fee,</p>
+<p>Will you be so kind as to enform me whether, <persName ref="cwgk:N00017788">Col Hanson</persName> forwarded my resignation as 1<hi rend="sup">st</hi> Lieut in the "McDowell Guard" Ky State Guard, &amp; if so whether the resignation was accepted</p>
 <p>Very Ry
 <lb/><hi rend="underline">J S Withers</hi><pb/></p>
 <p>Harrison Co
