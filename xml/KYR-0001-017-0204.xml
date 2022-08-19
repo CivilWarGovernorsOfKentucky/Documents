@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0204"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>The Commonwealth of Kentucky Breathitt County Sct</p>
-<p>We A B Patrick E C Strong &amp; Richard L South duly authorized to compare the poll Books for the County of Breathitt do certify that at an Election held in said County in District No 4 that John Gwin was duly Elected to fill the office of Justice of the peace in said District for an unexpired Term</p>
+   <p>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> Breathitt County Sct</p>
+<p>We <persName ref="cwgk:N00017746">A B Patrick</persName> <persName ref="cwgk:N00017749">E C Strong</persName> &amp; <persName ref="cwgk:N00017750">Richard L South</persName> duly authorized to compare the poll Books for the <placeName ref="cwgk:P00001048">County of Breathitt</placeName> do certify that at an Election held in said County in District No 4 that <persName ref="cwgk:N00017759">John Gwin</persName> was duly Elected to fill the office of Justice of the peace in said District for an unexpired Term</p>
 <p>Given under our hands this <date when="1861-08-08">8<hi rend="sup">th</hi> day of August 1861</date></p>
 <p>A. B. Patrick C. B. C. C
 <lb/>R L South S B C
