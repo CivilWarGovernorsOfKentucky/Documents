@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0223"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Burlington <date when="1861-10-18">18 Octo. 1861</date>
+   <p><placeName ref="cwgk:P00002010">Burlington</placeName> <date when="1861-10-18">18 Octo. 1861</date>
 <lb/>To His Excellency
-<lb/>Beriah Magoffin Govenor of the Commonwealth Ky
+<lb/><persName ref="cwgk:N00000258">Beriah Magoffin</persName> Govenor of the <orgName ref="cwgk:O001025">Commonwealth Ky</orgName>
 <lb/>Sir</p>
-<p>Be kind enough to commission Thomas N Stephens a Justice of the Peace for Boone County in the 5<hi rend="sup">th</hi> district in the place of William T. Pepper who has removed from the state</p>
-<p>and commission Robert K. Conner Justice of the Peace for Boone county in the 8<hi rend="underline"><hi rend="sup">th</hi></hi> district in the place of J Milton Stansifer resigned</p>
+<p>Be kind enough to commission <persName ref="cwgk:N00017848">Thomas N Stephens</persName> a Justice of the Peace for <placeName ref="cwgk:P00001194">Boone County</placeName> in the 5<hi rend="sup">th</hi> district in the place of <persName ref="cwgk:N00017849">William T. Pepper </persName>who has removed from the state</p>
+<p>and commission<persName ref="cwgk:N00017850"> Robert K. Conner</persName> Justice of the Peace for Boone county in the 8<hi rend="underline"><hi rend="sup">th</hi></hi> district in the place of <persName ref="cwgk:N00017853">J Milton Stansifer</persName> resigned</p>
 <p>Very Respictfully
-<lb/>M. Hamilton
-<lb/>Clerk Boone Cir Court.</p>
-<p>Will my friends P. U Major and J W. Tate Esqrs attend to the above</p>
+<lb/><persName ref="cwgk:N00002013">M. Hamilton</persName>
+<lb/>Clerk <orgName ref="cwgk:O00000355">Boone Cir Court.</orgName></p>
+<p>Will my friends <persName ref="cwgk:N00001172">P. U Major</persName> and<persName ref="cwgk:N00001223"> J W. Tate</persName> Esqrs attend to the above</p>
 <p>M Hamilton<pb/></p>
 <p>Boone Co.<figure type="hr"/></p>
 <p>J. P.
