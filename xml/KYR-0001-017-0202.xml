@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0202"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,13 +72,13 @@
  <text>
   <body>
    <p>111 Broadway
-<lb/>N.Y. City <date when="1861-09-20">Sept 20/61</date>
-<lb/>James W Tate Esq
+<lb/><placeName ref="cwgk:P00002569">N.Y. City</placeName> <date when="1861-09-20">Sept 20/61</date>
+<lb/><persName ref="cwgk:N00001223">James W Tate</persName> Esq
 <lb/>Asst. Sec of State</p>
-<p>Frankfort, Ky. Dear Sir. Yours dated the <date when="1861-09-12">12<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> calling my attention to my Ky. Commission is to hand -- I am much obliged to you -- I made the oath of office at the time I received the commission &amp; supposed it had been forwarded -- I send it herewith also the fee of five Dollars -- Please inform me of its receipt &amp; of the filing of my oath of office 
+<p><placeName ref="cwgk:P00000308">Frankfort</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>. Dear Sir. Yours dated the <date when="1861-09-12">12<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> calling my attention to my Ky. Commission is to hand -- I am much obliged to you -- I made the oath of office at the time I received the commission &amp; supposed it had been forwarded -- I send it herewith also the fee of five Dollars -- Please inform me of its receipt &amp; of the filing of my oath of office 
 <lb/>                     
 <lb/>Respectfully Yours
-<lb/>Charles Nettleton
+<lb/><persName ref="cwgk:N00006729">Charles Nettleton</persName>
 <lb/></p>
   </body>
  </text>
