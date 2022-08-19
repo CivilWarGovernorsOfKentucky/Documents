@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0237"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +67,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Ohio
-<lb/>Hamilton County
-<lb/>and City of Cincinnati ss</p>
-<p>I, John G. Douglass a Commissioner appointed by the Governor of the State of Kentucky in the State of Ohio do make solemn oath that I will well and truly execute and perform all the duties of said office according to the best of my ability</p>
+   <p>State of <placeName ref="cwgk:P001036">Ohio</placeName>
+<lb/><placeName ref="cwgk:P00001873">Hamilton County</placeName>
+<lb/>and City of <placeName ref="cwgk:P00001208">Cincinnati</placeName> ss</p>
+<p>I, <persName ref="cwgk:N00005358">John G. Douglass</persName> a Commissioner appointed by the <persName ref="cwgk:N00000258">Governor of the State of Kentucky</persName> in the State of Ohio do make solemn oath that I will well and truly execute and perform all the duties of said office according to the best of my ability</p>
 <p>John G <hi rend="underline">Douglass</hi></p>
 <p>Signed in my presence &amp; sworn to by John G. Douglass before me this <date when="1861-10-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> day of October 1861 -- </date>as witness my hand &amp; official seal at Cincinnati</p>
-<p>John W. Applegate,
-<lb/>Commissioner of Kentucky,
+<p><persName ref="cwgk:N00018421">John W. Applegate</persName>,
+<lb/>Commissioner of <placeName ref="cwgk:P001800">Kentucky</placeName>,
 <lb/>in the State of Ohio,</p>
 <p><figure type="seal"><ab>JOHN W. APPLEGATE
 <lb/>COMMISSIONER
