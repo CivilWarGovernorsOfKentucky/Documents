@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0218"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Balto, <date when="1861-10-18">October 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+   <p><placeName ref="cwgk:P00003303">Balto</placeName>, <date when="1861-10-18">October 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
 <lb/>Dear Sir,</p>
-<p>Your Circular letter to me as Com<hi rend="sup">r</hi> of Ky is received</p>
+<p>Your Circular letter to me as Com<hi rend="sup">r</hi> of <placeName ref="cwgk:P001800">Ky</placeName> is received</p>
 <p>I desire a renewal of my Commission and here with enclose the requisite fee or state tax of five dolls.</p>
 <p>Please forward new commission at once and Oblige</p>
 <p>Yours Resp<hi rend="sup">y</hi>
 <lb/><hi rend="underline">Jabez D Pratt</hi></p>
-<p>To J. W Tate Esq
-<lb/>Frankfort Ky
+<p>To <persName ref="cwgk:N00001223">J. W Tate </persName>Esq
+<lb/><placeName ref="cwgk:P00000308">Frankfort </placeName>Ky
 <lb/>Ass<hi rend="underline"><hi rend="sup">t</hi></hi> Sec<hi rend="underline"><hi rend="sup">y</hi></hi> of State<pb/></p>
 <p>Maryland<figure type="hr"/></p>
 <p>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
