@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0235"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,16 +68,16 @@
  <text>
   <body>
    <p><note place="header">E</note>
-<lb/>Indianapolis <date when="1861-10-28">Oct 28' 61</date>
+<lb/><placeName ref="cwgk:P001820">Indianapolis</placeName> <date when="1861-10-28">Oct 28' 61</date>
 <lb/>Hon
-<lb/>Secretary of State
-<lb/>Frankfort Kentucky
+<lb/><persName ref="cwgk:N00002525">Secretary of State</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> <placeName ref="cwgk:P001800">Kentucky</placeName>
 <lb/>Dr Sir -- </p>
-<p>My commission as "Commissioner of Deeds" resident in this State having nearly expired -- I would respectfully request a renewal of same -- and herewith enclose the fee of &#36;5.00 as requested in your commmunication of <date when="1861-10-15">15<hi rend="underline"><hi rend="sup">th</hi></hi></date></p>
+<p>My commission as "Commissioner of Deeds" resident in this State having nearly expired -- I would respectfully request a renewal of same -- and herewith enclose the fee of $5.00 as requested in your commmunication of <date when="1861-10-15">15<hi rend="underline"><hi rend="sup">th</hi></hi></date></p>
 <p>Yours Truly
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Y. Wiley
-<lb/>by Martin<pb/></p>
-<p>Indiana<figure type="hr"/></p>
+<lb/><persName ref="cwgk:N00018411">W<hi rend="underline"><hi rend="sup">m</hi></hi> Y. Wiley</persName>
+<lb/>by <persName ref="cwgk:N00018415">Martin</persName><pb/></p>
+<p><placeName ref="cwgk:P001818">Indiana</placeName><figure type="hr"/></p>
 <p>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Y. Wiley
 <lb/>Indianapolis</p>
