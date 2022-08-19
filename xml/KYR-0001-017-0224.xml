@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0224"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Cincinnati, Ohio.
+   <p><placeName ref="cwgk:P00001208">Cincinnati</placeName>, <placeName ref="cwgk:P001036">Ohio</placeName>.
 <lb/><date when="1861-10-17">October 17th. 1861.</date>
-<lb/>Hon. James W. Tate,
+<lb/>Hon. <persName ref="cwgk:N00001223">James W. Tate</persName>,
 <lb/>Ass<hi rend="underline"><hi rend="sup">t</hi></hi> Secretary of State,
-<lb/>Frankfort, Ky.
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>,<placeName ref="cwgk:P001800"> Ky</placeName>.
 <lb/>Dear Sir:</p>
-<p>Your favor of the <date when="1861-10-15">15th inst</date> respecting the renewal of my commission as Commissioner of Deeds &amp;c: for Kentucky, is received. -- I desire to have it renewed, and herewith enclose the State Tax of Five Dollars, as suggested. -- On receipt of Commission, I will forward my official oath &amp;c. -- When will it be issued? If not at once, please advise me of the safe receipt of the &#36;5. -- </p>
+<p>Your favor of the <date when="1861-10-15">15th inst</date> respecting the renewal of my commission as Commissioner of Deeds &amp;c: for Kentucky, is received. -- I desire to have it renewed, and herewith enclose the State Tax of Five Dollars, as suggested. -- On receipt of Commission, I will forward my official oath &amp;c. -- When will it be issued? If not at once, please advise me of the safe receipt of the $5. -- </p>
 <p>Yours Respectfully,
 <lb/><hi rend="underline">Sam</hi><hi rend="underline"><hi rend="sup">l</hi></hi><hi rend="underline"> S. Carpenter</hi>.<pb/></p>
 <p>Ohio<figure type="hr"/></p>
