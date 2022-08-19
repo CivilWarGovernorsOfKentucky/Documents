@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0217"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office of JOHN G. DOUGLASS,
+   <p>Office of <persName ref="cwgk:N00005358">JOHN G. DOUGLASS,</persName>
 <lb/>Attorney and Counsellor,
 <lb/>No. 42 WEST FOURTH STREET.
-<lb/>Cincinnati, <date when="1861-10-17">Oct 17' 1861.</date>
-<lb/>J. W. Tate <unclear>Ast</unclear></p>
-<p>Find enclosed &#36;5 -- for renewal of commission -- as commissioner for Kentucky in Ohio</p>
+<lb/><placeName ref="cwgk:P00001208">Cincinnati</placeName>, <date when="1861-10-17">Oct 17' 1861.</date>
+<lb/><persName ref="cwgk:N00001223">J. W. Tate</persName> <unclear>Ast</unclear></p>
+<p>Find enclosed $5 -- for renewal of commission -- as commissioner for <placeName ref="cwgk:P001800">Kentucky</placeName> in <placeName ref="cwgk:P001036">Ohio</placeName></p>
 <p>J G. Douglass<pb/></p>
 <p>Ohio<figure type="hr"/></p>
 <p>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
