@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0219"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Covington Ky <date when="1861-10-23">Oct 23<hi rend="underline"><hi rend="sup">rd</hi></hi> 1861</date>
-<lb/>Hon. Beriah Magoffin
+   <p><placeName ref="cwgk:P00000936">Covington</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1861-10-23">Oct 23<hi rend="underline"><hi rend="sup">rd</hi></hi> 1861</date>
+<lb/>Hon. <persName ref="cwgk:N00000258">Beriah Magoffin</persName>
 <lb/>Governor &amp;c
 <lb/>My Dear Sir</p>
-<p>I learn that a number of the most reputable &amp; influential Citizens of this place desire to secure the appointment of James B. Gray, a worthy member of the Bar of this County, to fill a vacancy in the magistracy in the 1<hi rend="underline"><hi rend="sup">st</hi></hi> District in this city, created by the removal to Lexington Ky of the late worthy incumbent, John G. Shrock Esq I have reason to believe that his appointment would be acceptable to Mr Gray -- and hence I have been induced to offer my recommendation of Mr Gray as a gentleman at once honest, capable and faithful and to express the hope that your Excellency will deem it in harmony with the public interest to appoint him</p>
+<p>I learn that a number of the most reputable &amp; influential Citizens of this place desire to secure the appointment of <persName ref="cwgk:N00004620">James B. Gray</persName>, a worthy member of the Bar of this <placeName ref="cwgk:P00000937">County</placeName>, to fill a vacancy in the magistracy in the 1<hi rend="underline"><hi rend="sup">st</hi></hi> District in this city, created by the removal to <placeName ref="cwgk:P001002">Lexington</placeName> Ky of the late worthy incumbent, <persName ref="cwgk:N00017806">John G. Shrock </persName>Esq I have reason to believe that his appointment would be acceptable to Mr Gray -- and hence I have been induced to offer my recommendation of Mr Gray as a gentleman at once honest, capable and faithful and to express the hope that your Excellency will deem it in harmony with the public interest to appoint him</p>
 <p>with great respect
 <lb/>Yours truly
-<lb/>W. E. Arthur<pb/></p>
+<lb/><persName ref="cwgk:N00004274">W. E. Arthur</persName><pb/></p>
 <p>Issue Commission
 <lb/>B. M</p>
   </body>
