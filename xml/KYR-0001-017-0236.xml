@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0236"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +67,14 @@
  </teiHeader>
  <text>
   <body>
-   <p><unclear>Saint Louis, January</unclear> <unclear/>, A. D. <unclear/>
-<lb/>New York City <date when="1861-10-14">Oct. 14th 1861</date><figure type="hr"/>
-<lb/>C. C. BURT,
+   <p><unclear><placeName ref="cwgk:P00003268">Saint Louis</placeName>, January</unclear> <unclear/>, A. D. <unclear/>
+<lb/><placeName ref="cwgk:P00002569"><placeName ref="cwgk:P001007">New York</placeName> City</placeName> <date when="1861-10-14">Oct. 14th 1861</date><figure type="hr"/>
+<lb/><persName ref="cwgk:N00018416">C. C. BURT</persName>,
 <lb/>ATTORNEY AND COUNSELLOR AT LAW,
-<lb/>IN ALL THE COURTS OF THE STATE OF MISSOURI. and New York
-<lb/>To his Excellency, the Governor of the State of Kentucky
+<lb/>IN ALL THE COURTS OF THE STATE OF <placeName ref="cwgk:P00001883">MISSOURI</placeName>. and New York
+<lb/>To his Excellency, the <persName ref="cwgk:N00000258">Governor of the State of Kentucky</persName>
 <lb/>Honorable Sir:</p>
-<p>Having changed my residence and place of business to this city, I would most respectfully solicit that your Excellency would do me the favor and honor to change my commission as Commissioner of Deeds, &amp;c., for the State of Kentucky residing in this State. Having been, for many years, a Commissioner of Deeds for most of the several States in the United States, I trust I shall be able (as I formerly have done) to perform the duties of said Commissioner faithfully, and for the benefit and convenience of all such as may entrust such Business to my care. This is a large Commercial City, and will doubtless, have much of this kind of business to do for this, and your own City and State.</p>
+<p>Having changed my residence and place of business to this city, I would most respectfully solicit that your Excellency would do me the favor and honor to change my commission as Commissioner of Deeds, &amp;c., for the State of <placeName ref="cwgk:P001800">Kentucky</placeName> residing in this State. Having been, for many years, a Commissioner of Deeds for most of the several States in the United States, I trust I shall be able (as I formerly have done) to perform the duties of said Commissioner faithfully, and for the benefit and convenience of all such as may entrust such Business to my care. This is a large Commercial City, and will doubtless, have much of this kind of business to do for this, and your own City and State.</p>
 <p>With many thannks to you, and the late executive officers of your State, for favors conferred, permit me to subcribe myself,</p>
 <p>Respectfully, your Humble Servant.
 <lb/>Calvin.C. Burt
