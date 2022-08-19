@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0225"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Covington, Ky
+   <p><placeName ref="cwgk:P00000936">Covington</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>
 <lb/><date when="1861-10-25">Oct 25 1861</date>
 <lb/>Dear Gov.</p>
-<p>J. B. Gray, Esq, an attorney at our bar has, at the request of his friends, become an applicant for the appointment of Justice of the Peace in place of Esqr Shrock resigned -- Mr Gray is well qualified for the position &amp; we would like much to have him appointed; and if you can give him the place I am satisfied that he will so discharge its duties as to leave no cause for complaint in any quarter</p>
+<p><persName ref="cwgk:N00004620">J. B. Gray</persName>, Esq, an attorney at our bar has, at the request of his friends, become an applicant for the appointment of Justice of the Peace in place of <persName ref="cwgk:N00017806">Esqr Shrock </persName>resigned -- Mr Gray is well qualified for the position &amp; we would like much to have him appointed; and if you can give him the place I am satisfied that he will so discharge its duties as to leave no cause for complaint in any quarter</p>
 <p>Yours Truly
-<lb/>J G Carlisle</p>
-<p>Hon. B Magoffin </p>
+<lb/><persName ref="cwgk:N00002785">J G Carlisle</persName></p>
+<p>Hon. <persName ref="cwgk:N00000258">B Magoffin</persName> </p>
   </body>
  </text>
 </TEI>
