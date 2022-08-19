@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0213"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mayfield <date when="1861-10-04">Oct 4<hi rend="sup">th</hi> 1861</date>
-<lb/>S H Jenkins &amp; others
-<lb/>Members of Kentucky Senate</p>
-<p>Gentlemen -- we need an additional notary public in our County to protest bills notes &amp;C all having left on account of the disturbed Condition of the Country. and I would recommend that W G Blount of this place be appointed to that position he being in all respects qualified and likely to stay here as long as the Country last &amp; hope you will take such Steps as is necessary to secure his appointment</p>
+   <p><placeName ref="cwgk:P00003915">Mayfield</placeName> <date when="1861-10-04">Oct 4<hi rend="sup">th</hi> 1861</date>
+<lb/><persName ref="cwgk:N00001293">S H Jenkins</persName> &amp; others
+<lb/>Members of <orgName ref="cwgk:O001019">Kentucky Senate</orgName></p>
+<p>Gentlemen -- we need an additional notary public in our <placeName ref="cwgk:P00000908">County</placeName> to protest bills notes &amp;C all having left on account of the disturbed Condition of the <placeName ref="cwgk:P001802">Country</placeName>. and I would recommend that <persName ref="cwgk:N00017790">W G Blount</persName> of this place be appointed to that position he being in all respects qualified and likely to stay here as long as the Country last &amp; hope you will take such Steps as is necessary to secure his appointment</p>
 <p>Truly yours
 <lb/><hi rend="underline">Luc Anderson</hi><pb/></p>
 <p>S H Jenkins &amp; others
-<lb/>members of Ky Senate
-<lb/>Frankfort
+<lb/>members of <placeName ref="cwgk:P001800">Ky</placeName> Senate
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>
 <lb/>Ky</p>
   </body>
  </text>
