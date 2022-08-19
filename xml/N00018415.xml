@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018415">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Luther R. Martin</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018415">
+                    <persName>
+                      Luther R. Martin
+                        (Indianapolis, Indiana, clerk and real estate agent.)
+                    </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="death"  when="1875-10-23"  ><ab>1875-10-23</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Indianapolis, Marion County, Indiana, clerk and real estate agent. Baltimore, Baltimore County, Maryland, native. Son of David Martin and Catharine Martin. Married to Louise C. Staats Martin. Father of Margaret Martin. Resident of Baltimore, Baltimore County, Maryland, in 1850. Clerk in Indianapolis, Marion County, Indiana, in 1860. Real estate agent in Indianapolis, Marion County, Indiana, in 1861. Real estate broker in Marion County, Indiana in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Maryland, Baltimore County, Baltimore, Ward 14, pp. 432A-432B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Marion County, Indianapolis, Ward 2, p. 113.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Marion County, Indianapolis, Ward 1, p. 4A. <lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Marion County, IN, June 1863, p. 424.<lb/>
+&quot;Death of Luther R. Martin,&quot; <hi rend="italic">The Evening News</hi> (Indianapolis, Indiana), October 25, 1875.<lb/>
+<hi rend="italic">Indiana Death Certificates, 1900–2011</hi>, Indiana State Department of Health and Vital Records, Indiana Archives and Records Administration, Indianapolis, IN, Certificate #17274.<lb/>
+<hi rend="italic">Indianapolis Directory, and Business Mirror, for 1861</hi> ed. James Sutherland (Indianapolis: Bowen, Stewart &amp; Co., Publishers and Booksellers, 1861), 192.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
