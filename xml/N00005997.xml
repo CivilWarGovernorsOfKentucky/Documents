@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">P. H. Conant</title>
+        <title level="a" type="main">Peter Horace Conant</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -47,10 +55,11 @@
         <particDesc>
                 <person xml:id="N00005997">
                     <persName>
-                      P. H. Conant
+                      Peter Horace Conant
                         (farmer, Livingston County)
                     </persName>
                         <event type="birth"  when="1809"  cert="medium" ><ab>c1809</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,11 +67,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Livingston County, Kentucky, farmer and judge. Massachusetts native. Farmer in Livingston County in 1860. Election judge for Precinct No. 1 with Jesse Thompson. </p>
+        <p>Livingston County, Kentucky, farmer and judge. Massachusetts native. Son of Joseph Conant and Patience Sawyer Conant. Married to Mary Ann Bowers Conant in Leominster County, Massachusetts, on February 9, 1832. Father of Horace Conant, George H. Conant, John H, Conant, Abby M. Conant, Peter A. Conant, Charles W. Conant, and Edward T. Conant. Tannery proprietor in Livingston County, Kentucky, in 1850. Farmer in Livingston County in 1860. Election judge for Precinct No. 1 with Jesse Thompson. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Livingston, Division 3, p. 149. KYR-0001-005-0032. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Livingston County, Smithland, p. 384A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Livingston, Division 3, p. 149. KYR-0001-005-0032. <lb/>
+<hi rend="italic">Massachusetts, US., Town and Vital Records, 1620-1988</hi>, Massachusetts Vital and Town Records, Holbrook, MA, Leominster County Marriages, 1620-1988, p. 185.<lb/>
+Frederick Odell, <hi rend="italic">A History and Genealogy of the Conant Family in England and America: Thirteen Generations, 1520-1887: Containing also some Genealogical Notes on the Connet, Connett, and Connit Families</hi> (Portland, Maine: Harris &amp; Williams, 1887) 189.
 </bibl></ab>
     </back>
 </text>
