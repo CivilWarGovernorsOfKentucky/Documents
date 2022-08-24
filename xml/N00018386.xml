@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018386">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Ward Orme</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018386">
+                    <persName>
+                      William Ward Orme
+                        (McLean County, Illinois, lawyer and brigadier general)
+                    </persName>
+                        <event type="birth"  when="1832-02-17"  ><ab>1832-02-17</ab></event>
+                        <event type="death"  when="1866-09-13"  ><ab>1866-09-13</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>McLean County, Illinois, attorney, soldier, and government official. Washington D.C., native. Son of William Clark Orme and Jane Frances Ward Orme. Married to Nancy McCullough Dyson Orme in McLean County, Illinois, on October 27, 1853. Father of William McCullough Orme, Mary Bernadine Orme Smith, Lucy Orme Morgan, and Edwin D. Orme. Attended Mount St. Mary’s College in Emmetsburg, Frederick County, Maryland. Attorney in McLean County, Illinois, in 1860. Delegate to the Illinois State Constitutional Convention of 1862. Served in the Illinois 94th Volunteer Infantry (U.S.A.) as colonel from August 20, 1862 to November 29, 1862. Promoted to brigadier general of volunteers on November 29, 1862. Commanded a Brigade in the XVII Corps of the Union Army in 1863. Served as commander of Chicago and commandant of Camp Douglas. Resigned due to medical disability on April 26, 1864. Served as a supervising agent for the United States Treasury Department at Memphis, Shelby County, Tennessee from circa May 1864 to November 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, McLean County, Bloomington/Ward 1, p. 644.<lb/>
+<hi rend="italic">Illinois Marriage Records, 1815-1935</hi>, McLean County Marriages, Film #007625299, p. 702.<lb/>
+<hi rend="italic">Illinois Marriage Records, 1815-1935</hi>, McLean County Marriages, Film #007625297, p. 307.<lb/>
+<hi rend="italic">Illinois Marriage Records, 1815-1935</hi>, McLean County Marriages, Film #007625297, p. 499.<lb/>
+<hi rend="italic">Washington D.C., U.S., Wills and Probate Records, 1737-1952</hi>, District of Columbia, District, and Probate Courts, District of Columbia Administrators Bonds, 1801-1930, p. 859.<lb/>
+<hi rend="italic">The History of McLean County, Illinois</hi>(Chicago: William Le Baron, Jr., 1879), 808-9.<lb/>
+“Orme, William Ward,&quot; <hi rend="italic">Appleton&#39;s Cyclopædia of American Biography</hi>, vol. IV, eds. John Fiske and James Grant Wilson (New York: Appleton, 1889), 619.<lb/>
+&quot;William Ward Orme (1832-1866),&quot; Find A Grave, Memorial #5895173, accessed August 7, 2022, https://www.findagrave.com/memorial/5895173. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
