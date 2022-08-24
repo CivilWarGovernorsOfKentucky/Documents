@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018122">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Allen Campbell</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018122">
+                    <persName>
+                      John Allen Campbell
+                        (Ohio soldier.)
+                    </persName>
+                        <event type="birth"  when="1835-10-08"  ><ab>1835-10-08</ab></event>
+                        <event type="death"  when="1880-07-14"  ><ab>1880-07-14</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Ohio soldier. Salem, Columbiana County, Ohio, native. Son of John Campbell and Rebecca Snodgrass Campbell. Served in the 1st Ohio Volunteer Infantry (U.S.A.) as first lieutenant from October 31, 1861 to October 27, 1862. Promoted to major and assistant adjutant general of volunteers on October 27, 1862. Promoted to lieutenant colonel on January 31, 1865. Subsequently brevetted colonel and brigadier general. </p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;A Noble Woman Gone,&quot; <hi rend="italic">The Salem Daily News</hi> (Salem, Ohio), January 5, 1892, p. 3.<lb/>
+James Grant Wilson and John Fiske, ed. <hi rend="italic">Appletons&#39; Cyclopedia of American Biography</hi> Vol. I (New York: D. Appleton and Company, 1888), 514.<lb/>
+&quot;Death of Hon. John A. Campbell, &quot;<hi rend="italic">Harrisburg Telegraph</hi>July 14, 1880, p. 1.<lb/>
+Francis Bernard Heitman, <hi rend="italic">Historical Register and Dictionary of the United States Army, from its Organization, September 29, 1789 to March 2, 1903</hi> Volume 1, Part 2 (Washington: Government Printing Office, 1903), 278.<lb/>
+&quot;John Allen Campbell (1835-1880),&quot; Find A Grave, Memorial #21458, Accessed August 24, 2022, https://www.findagrave.com/memorial/21458/john-allen-campbell.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
