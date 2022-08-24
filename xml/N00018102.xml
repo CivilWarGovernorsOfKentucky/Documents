@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018102">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John D. Bertolette</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018102">
+                    <persName>
+                      John D. Bertolette
+                        (Pennsylvania soldier.)
+                    </persName>
+                        <event type="birth"  when="1839-06-11"  ><ab>1839-06-11</ab></event>
+                        <event type="death"  when="1881-04-17"  ><ab>1881-04-17</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Pennsylvania soldier. Pennsylvania native. Son of John Bertolette and Margaret Bertolette. Resident of Reading, Berks County, Pennsylvania, in 1850. Law student in Reading in 1860. Served as a second lieutenant in the 6th Pennsylvania Infantry (U.S.A) from April 22, 1861 to July 26, 1861. Served as a first lieutenant and adjutant in the 48th Pennsylvania Infantry (U.S.A.) from October 1, 1861 until February 25, 1862. Promoted to captain and assistant adjutant general of volunteers on February 25, 1862. Subsequently brevetted to the ranks of major, lieutenant colonel, and colonel. Wounded on August 29, 1862, at the Second Battle of Bull Run. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Pennsylvania, Berks County, Reading Northwest Ward, p. 235A<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Pennsylvania, Berks County, Reading Northwest Ward, p. 1090.<lb/>
+&quot;From the County Seat,&quot; <hi rend="italic">Carbon Advocate</hi>(Lehighton, Pennsylvania), April 23, 1881, p. 3. <lb/>
+Francis Bernard Heitman, <hi rend="italic">Historical Register and Dictionary of the United States Army, from its Organization, September 29, 1789 to March 2, 1903</hi> Volume 1, Part 2 (Washington: Government Printing Office, 1903), 215.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
