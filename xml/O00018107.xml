@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00018107">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Shapleigh, Day, &amp; Co.</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00018107">
+                    <orgName>Shapleigh, Day, &amp; Co.</orgName>
+                        <event type="begun"  when="1850"  cert="medium" ><ab>c1850</ab></event>
+                        <event type="ended"  when="1868"  cert="medium" ><ab>c1868</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Wholesale hardware retailer in St. Louis, Missouri. Operated c1850-c1868. Owned by A.P. Shapleigh, Thomas D. Day, R. Wood Cruttenden, and William H. Markham.</p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;Shapleigh, Day, and Co,&quot; <hi rend="italic">Springfield Advertiser</hi> (Springfield, MO), June 22, 1850, Newspapers.com, 3.<lb/>
+&quot;Hardware and Cutlery,&quot; _ Daily Missouri Democrat_ (St. Louis, MO), August 4, 1854, Newspapers.com, 4.<lb/>
+&quot;Edge tools,&quot; <hi rend="italic">Daily Missouri Republican</hi> (St. Louis, MO), October 7, 1868, Newspapers.com, 1.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
