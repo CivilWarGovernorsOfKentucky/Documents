@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00018448">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Camp Douglas</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00018448">
+                    <orgName>Camp Douglas</orgName>
+                        <event type="begun"  when="1861-11"  cert="medium" ><ab>c1861-11</ab></event>
+                        <event type="ended"  when="1865"  ><ab>1865</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Organized at Chicago, Illinois, in the fall of 1861. Served as a Union Army recruiting center from November 1861 until March 1862. Served as a military prison for Confederate prisoners of war from March 1862 until November 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Theodore J. Karamanski, “Camp Douglas,” Encyclopedia of Chicago, accessed August 19, 2022, http://www.encyclopedia.chicagohistory.org/pages/207.html. <lb/>
+Kelly Pucci, <hi rend="italic">Camp Douglas: Chicago’s Civil War Prison</hi> (Charleston, SC: Arcadia Publishing, 2007).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
