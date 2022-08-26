@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017992">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018127">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">William Watkins</title>
+        <title level="a" type="main">Emanuel Spence</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>MontanaWilliamson</name>
+            <name>Ian Iverson</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Charles Welsko</name>
+            <name>Brian M. Trump</name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Ian Iverson</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>MontanaWilliamson</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -49,11 +45,12 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00017992">
+                <person xml:id="N00018127">
                     <persName>
-                      William Watkins
-                        (Kentucky soldier, murdered Confederate guerilla James Keller)
+                      Emanuel Spence
+                        (Lawrence County, Kentucky, farmer and solider.)
                     </persName>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -62,12 +59,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky soldier. Served in the 9th Kentucky Volunteer Cavalry (U.S.A.) as a private from August 14, 1862 to September 11, 1863. Mustered out September 11, 1863. Killed Confederate guerilla James B. Keller in Montgomery County, Kentucky in October 1863.</p>
+        <p>Lawrence County, Kentucky, farmer and solider. Virginia native. Married to Zelphina Spence. Father of Wallace Bailey Spence, Elizabeth Spence, and James Spence. Farmer in Lawrence County, Kentucky, in 1860. Served in the 68th Kentucky Enrolled Militia as a corporal from May 21, 1864 to June 22, 1864. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 238.<lb/>
-&quot;Major Wileman&#39;s Murderers Captured, &quot; <hi rend="italic">Louisville Journal</hi> (Louisville, KY), October 20, 1863, p.1.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lawrence County, p. 605<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lawrence County, Precinct 7, p. 248A.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 893.<lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Kentucky, Application 546195, Certificate 410880.
 </bibl></ab>
     </back>
 </text>

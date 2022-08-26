@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00003268">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00018120">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">St. Louis, Missouri</title>
+        <title level="a" type="main">Wood, Bacon, &amp; Co.</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Samuel T. Whittaker</name>
+            <name>MontanaWilliamson</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
@@ -14,19 +14,7 @@
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>James Bartek</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
+            <name>MontanaWilliamson</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -53,28 +41,26 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="type">Place</term>
+                    <term type="type">Organization</term>
                 </keywords>
             </textClass>
-            <settingDesc>
-                <place xml:id="P00003268">
-                    <placeName>
-                        <location>
-                              <geo>38.627 -90.1994</geo>
-                            <settlement>St. Louis, Missouri</settlement>
-                        </location>
-                    </placeName>
-                </place> 
-            </settingDesc>    
+            <particDesc>
+                <org xml:id="O00018120">
+                    <orgName>Wood, Bacon, &amp; Co.</orgName>
+                        <event type="begun"  when="1854"  cert="medium" ><ab>c1854</ab></event>
+                        <event type="ended"  when="1885"  ><ab>1885</ab></event>
+                </org>
+            </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>City in east-central Missouri. Located on the Mississippi River.</p>
+        <p>Wholesale merchant in Philadelphia, Pennsylvania. Operated c1854-1885. Owned by Richard Wood, Richard W. Bacon, Henry Henderson, Samuel P. Godwin, Josiah N. Bacon, and Henry Bacon.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">USGS: Earth Explorer</hi>, &quot;St. Louis, Missouri,&quot; https://earthexplorer.usgs.gov/ (accessed on May 4, 2020).
+        <ab><bibl>&quot;Aid to the Savannah Sufferers,&quot; <hi rend="italic">The Public Ledger</hi> (Philadelphia, PA), September 13, 1854, 1.<lb/>
+&quot;Dissolution,&quot; <hi rend="italic">The Philadelphia Times</hi> (Philadelphia, PA), January 1, 1885, 3.
 </bibl></ab>
     </back>
 </text>

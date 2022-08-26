@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00003268">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00018107">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">St. Louis, Missouri</title>
+        <title level="a" type="main">Shapleigh, Day, &amp; Co.</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Samuel T. Whittaker</name>
+            <name>MontanaWilliamson</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
@@ -14,19 +14,7 @@
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>James Bartek</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
+            <name>MontanaWilliamson</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -53,28 +41,27 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="type">Place</term>
+                    <term type="type">Organization</term>
                 </keywords>
             </textClass>
-            <settingDesc>
-                <place xml:id="P00003268">
-                    <placeName>
-                        <location>
-                              <geo>38.627 -90.1994</geo>
-                            <settlement>St. Louis, Missouri</settlement>
-                        </location>
-                    </placeName>
-                </place> 
-            </settingDesc>    
+            <particDesc>
+                <org xml:id="O00018107">
+                    <orgName>Shapleigh, Day, &amp; Co.</orgName>
+                        <event type="begun"  when="1850"  cert="medium" ><ab>c1850</ab></event>
+                        <event type="ended"  when="1868"  cert="medium" ><ab>c1868</ab></event>
+                </org>
+            </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>City in east-central Missouri. Located on the Mississippi River.</p>
+        <p>Wholesale hardware retailer in St. Louis, Missouri. Operated c1850-c1868. Owned by A.P. Shapleigh, Thomas D. Day, R. Wood Cruttenden, and William H. Markham.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">USGS: Earth Explorer</hi>, &quot;St. Louis, Missouri,&quot; https://earthexplorer.usgs.gov/ (accessed on May 4, 2020).
+        <ab><bibl>&quot;Shapleigh, Day, and Co,&quot; <hi rend="italic">Springfield Advertiser</hi> (Springfield, MO), June 22, 1850, p. 3.<lb/>
+&quot;Hardware and Cutlery,&quot; _ Daily Missouri Democrat_ (St. Louis, MO), August 4, 1854, p. 4.<lb/>
+&quot;Edge tools,&quot; <hi rend="italic">Daily Missouri Republican</hi> (St. Louis, MO), October 7, 1868, p. 1.
 </bibl></ab>
     </back>
 </text>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00003268">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00018096">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">St. Louis, Missouri</title>
+        <title level="a" type="main">Child, Pratt, &amp; Fox</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Samuel T. Whittaker</name>
+            <name>MontanaWilliamson</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
@@ -14,19 +14,7 @@
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>James Bartek</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
+            <name>MontanaWilliamson</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -53,28 +41,26 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="type">Place</term>
+                    <term type="type">Organization</term>
                 </keywords>
             </textClass>
-            <settingDesc>
-                <place xml:id="P00003268">
-                    <placeName>
-                        <location>
-                              <geo>38.627 -90.1994</geo>
-                            <settlement>St. Louis, Missouri</settlement>
-                        </location>
-                    </placeName>
-                </place> 
-            </settingDesc>    
+            <particDesc>
+                <org xml:id="O00018096">
+                    <orgName>Child, Pratt, &amp; Fox</orgName>
+                        <event type="begun"  when="1860"  ><ab>1860</ab></event>
+                        <event type="ended"  when="1864"  ><ab>1864</ab></event>
+                </org>
+            </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>City in east-central Missouri. Located on the Mississippi River.</p>
+        <p>Wholesale hardware and gun retailer in St. Louis, Missouri. Operated c1860-1864. Owned by Elon G. Pratt, Pearley A. Child, Alonzo Child, and E. Williams Fox.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">USGS: Earth Explorer</hi>, &quot;St. Louis, Missouri,&quot; https://earthexplorer.usgs.gov/ (accessed on May 4, 2020).
+        <ab><bibl>&quot;Child, Pratt, &amp; Fox,&quot; <hi rend="italic">Daily Missouri Democrat</hi> (St. Louis, MO), February 10, 1860, p. 2.<lb/>
+&quot;Pratt &amp; Fox,&quot; <hi rend="italic">Missouri State Times</hi> (Jefferson City, MO), June 4, 1864, p. 4.
 </bibl></ab>
     </back>
 </text>

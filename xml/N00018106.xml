@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017992">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018106">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">William Watkins</title>
+        <title level="a" type="main">Lewis Dorsheimer</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>MontanaWilliamson</name>
           </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Charles Welsko</name>
-          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Ian Iverson</name>
@@ -49,11 +45,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00017992">
+                <person xml:id="N00018106">
                     <persName>
-                      William Watkins
-                        (Kentucky soldier, murdered Confederate guerilla James Keller)
+                      Lewis Dorsheimer
+                        (St. Louis County, Missouri, saddler. )
                     </persName>
+                        <event type="birth"  when="1819"  ><ab>1819</ab></event>
+                        <event type="death"  when="1892-11-15"  ><ab>1892-11-15</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -62,12 +60,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky soldier. Served in the 9th Kentucky Volunteer Cavalry (U.S.A.) as a private from August 14, 1862 to September 11, 1863. Mustered out September 11, 1863. Killed Confederate guerilla James B. Keller in Montgomery County, Kentucky in October 1863.</p>
+        <p>St. Louis, St. Louis County, Missouri, saddler. Pennsylvania native. Married to Eugenia Close Dorsheimer in St. Louis County, Missouri, on January 30, 1851. Father of Ella Morris Dorsheimer and Lulu Dorsheimer. Saddler in St. Louis, St. Louis County, Missouri, in 1850. Saddler in St. Louis in 1860. Employed Brigette Witte and Delia Haven as servants in St. Louis in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 238.<lb/>
-&quot;Major Wileman&#39;s Murderers Captured, &quot; <hi rend="italic">Louisville Journal</hi> (Louisville, KY), October 20, 1863, p.1.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Missouri, St. Louis County, St. Louis/Ward 3, p. 10.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Missouri, St. Louis County, St. Louis/Ward 4, p. 146.<lb/>
+<hi rend="italic">Missouri, County Marriages, Naturalization, and Court Records (1800-1991)</hi>, Missouri State Archives, Jefferson City, MO, St. Louis County Marriages, p. 89.<lb/>
+&quot;Died,&quot; <hi rend="italic">St. Louis Globe-Democrat</hi> (St. Louis, MO), November 17, 1892, p. 7.
 </bibl></ab>
     </back>
 </text>

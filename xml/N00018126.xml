@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017992">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018126">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">William Watkins</title>
+        <title level="a" type="main">Anna Russell</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>MontanaWilliamson</name>
+            <name>Ian Iverson</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Charles Welsko</name>
+            <name>Brian M. Trump</name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Ian Iverson</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>MontanaWilliamson</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -49,25 +45,27 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00017992">
+                <person xml:id="N00018126">
                     <persName>
-                      William Watkins
-                        (Kentucky soldier, murdered Confederate guerilla James Keller)
+                      Anna Russell
+                        (Lawrence County, Kentucky, resident.)
                     </persName>
+                        <event type="birth"  when="1855"  ><ab>1855</ab></event>
+                        <event type="death"  when="1924"  ><ab>1924</ab></event>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M"/>
+                      <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky soldier. Served in the 9th Kentucky Volunteer Cavalry (U.S.A.) as a private from August 14, 1862 to September 11, 1863. Mustered out September 11, 1863. Killed Confederate guerilla James B. Keller in Montgomery County, Kentucky in October 1863.</p>
+        <p>Lawrence County, Kentucky, resident. Kentucky native. Daughter of Thomas Russell and Jean Yates Russell. Resident of Lawrence County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 238.<lb/>
-&quot;Major Wileman&#39;s Murderers Captured, &quot; <hi rend="italic">Louisville Journal</hi> (Louisville, KY), October 20, 1863, p.1.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lawrence County, pp. 604-605.<lb/>
+ &quot;Anna R. Moats (1855-1924),&quot; Find A Grave, Memorial #99106828, accessed July 13, 2022, https://www.findagrave.com/memorial/99106828/anna-r-moats.
 </bibl></ab>
     </back>
 </text>

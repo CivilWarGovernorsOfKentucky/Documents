@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00003268">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00018448">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">St. Louis, Missouri</title>
+        <title level="a" type="main">Camp Douglas</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Samuel T. Whittaker</name>
+            <name>Abigail Stephens</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Ian Iverson</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>James Bartek</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -53,28 +37,26 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="type">Place</term>
+                    <term type="type">Organization</term>
                 </keywords>
             </textClass>
-            <settingDesc>
-                <place xml:id="P00003268">
-                    <placeName>
-                        <location>
-                              <geo>38.627 -90.1994</geo>
-                            <settlement>St. Louis, Missouri</settlement>
-                        </location>
-                    </placeName>
-                </place> 
-            </settingDesc>    
+            <particDesc>
+                <org xml:id="O00018448">
+                    <orgName>Camp Douglas</orgName>
+                        <event type="begun"  when="1861-11"  cert="medium" ><ab>c1861-11</ab></event>
+                        <event type="ended"  when="1865"  ><ab>1865</ab></event>
+                </org>
+            </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>City in east-central Missouri. Located on the Mississippi River.</p>
+        <p>Organized at Chicago, Illinois, in the fall of 1861. Served as a Union Army recruiting center from November 1861 until March 1862. Served as a military prison for Confederate prisoners of war from March 1862 until November 1865.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">USGS: Earth Explorer</hi>, &quot;St. Louis, Missouri,&quot; https://earthexplorer.usgs.gov/ (accessed on May 4, 2020).
+        <ab><bibl>Theodore J. Karamanski, “Camp Douglas,” Encyclopedia of Chicago, accessed August 19, 2022, http://www.encyclopedia.chicagohistory.org/pages/207.html. <lb/>
+Kelly Pucci, <hi rend="italic">Camp Douglas: Chicago’s Civil War Prison</hi> (Charleston, SC: Arcadia Publishing, 2007).
 </bibl></ab>
     </back>
 </text>

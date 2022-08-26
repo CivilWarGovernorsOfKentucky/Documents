@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00003268">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00018109">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">St. Louis, Missouri</title>
+        <title level="a" type="main">Martin &amp; Brother</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Samuel T. Whittaker</name>
+            <name>MontanaWilliamson</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
@@ -14,19 +14,7 @@
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>James Bartek</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
+            <name>MontanaWilliamson</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -53,28 +41,26 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="type">Place</term>
+                    <term type="type">Organization</term>
                 </keywords>
             </textClass>
-            <settingDesc>
-                <place xml:id="P00003268">
-                    <placeName>
-                        <location>
-                              <geo>38.627 -90.1994</geo>
-                            <settlement>St. Louis, Missouri</settlement>
-                        </location>
-                    </placeName>
-                </place> 
-            </settingDesc>    
+            <particDesc>
+                <org xml:id="O00018109">
+                    <orgName>Martin &amp; Brother</orgName>
+                        <event type="begun"  when="1852"  cert="medium" ><ab>c1852</ab></event>
+                        <event type="ended"  when="1868"  cert="medium" ><ab>c1868</ab></event>
+                </org>
+            </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>City in east-central Missouri. Located on the Mississippi River.</p>
+        <p>Wholesale clothing retailer in St. Louis, Missouri. Operated c.1852-c1868. Owned by Charles G. Martin and William R. Martin.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">USGS: Earth Explorer</hi>, &quot;St. Louis, Missouri,&quot; https://earthexplorer.usgs.gov/ (accessed on May 4, 2020).
+        <ab><bibl>&quot;Martin and Brother,&quot; <hi rend="italic">Hannibal Journal</hi> (Hannibal, MO), April 15, 1852, 4.<lb/>
+&quot;Ladies and Gentlemen’s List,&quot; <hi rend="italic">Daily Missouri Republican</hi> (St. Louis, MO), February 2, 1868, 4.
 </bibl></ab>
     </back>
 </text>
