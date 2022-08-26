@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017625">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles Lee Stancliff</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017625">
+                    <persName>
+                      Charles Lee Stancliff
+                        (Jefferson County, Kentucky, architect and police chief. )
+                    </persName>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
+                        <event type="death"  when="1873-01-10"  ><ab>1873-01-10</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, architect and police chief. Connecticut, native. Married to Caroline G. Read Stancliff in Jefferson County, Kentucky, on December 24, 1844. Father of Maria Stancliff, Mary Stancliff, Joseph Stuart Stancliffe, Albert Stancliff, Anna Stancliff, and Clay Stancliff. Architect in Jefferson County in 1860. Employed Mina Stroeman and Josephine Barger in Jefferson County in 1860. Appointed chief of police in Louisville, Kentucky, on May 8, 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville/Ward 8, p. 744.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville/Ward 11, p. 499B. <lb/>
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport (before 1911)</hi>, KDLA, Frankfort, KY, Roll #7007126, Jefferson County Deaths, p. 249.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film #000817888, p. 28.<lb/>
+&quot;Board of Common Council,&quot; <hi rend="italic">Louisville Daily Journal</hi> (Louisville, KY), May 12, 1862, p. 1.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
