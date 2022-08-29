@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0274"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,31 +71,31 @@
  </teiHeader>
  <text>
   <body>
-   <p><date when="1861-01-07">1861
-<lb/>Pokeville Ky Janury 7th</date></p>
-<p>we the underSidgned most respectfully <unclear/> agree with mr g D Manen in all respects yours most respectively</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>S Thomas
-<lb/>g. W. Thomas
-<lb/>Orr. Strange
-<lb/>John. P. Lowe
-<lb/>G. Halmes
-<lb/>Joseph Mannen
-<lb/>H. H. Lowe
-<lb/>Robbert Dodd
-<lb/>Jo Robbison
-<lb/>H. W. Gardner
-<lb/>Nat. Beckam
-<lb/><cb n="2"/>Jessee Greathouse
-<lb/>t. j. <unclear>Petillow</unclear>
-<lb/>J. W. Underhill
-<lb/>J. S. Thomas
-<lb/>Andy. Thomas
-<lb/>Sidney. Greathouse
-<lb/>Jerry <unclear>Glassville</unclear>
-<lb/>Jessee Smith
-<lb/>Thomas <unclear>Larlond</unclear>
-<lb/>James Petillow
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Meeks<milestone unit="column" n="1"/><pb/></p>
+   <p><date>1861
+<lb/><placeName ref="cwgk:P00017858">Pokeville Ky</placeName> Janury 7th</date></p>
+<p>we the underSidgned most respectfully <unclear/> agree with mr <persName ref="cwgk:N00002039">g D Manen</persName> in all respects yours most respectively</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00017912">S Thomas</persName>
+<lb/><persName ref="cwgk:N00017910">g. W. Thomas</persName>
+<lb/><persName ref="cwgk:N00017927">Orr. Strange</persName>
+<lb/><persName ref="cwgk:N00017932">John. P. Lowe</persName>
+<lb/><persName ref="cwgk:N00017931">G. Halmes</persName>
+<lb/><persName ref="cwgk:N00017859">Joseph Mannen</persName>
+<lb/><persName ref="cwgk:N00017878">H. H. Lowe</persName>
+<lb/><persName ref="cwgk:N00017900">Robbert Dodd</persName>
+<lb/><persName ref="cwgk:N00017930">Jo Robbison</persName>
+<lb/><persName ref="cwgk:N00017885">H. W. Gardner</persName>
+<lb/><persName ref="cwgk:N00017881">Nat. Beckam</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00017924">Jessee Greathouse</persName>
+<lb/><persName ref="cwgk:N00017890">t. j. <unclear>Petillow</unclear></persName>
+<lb/><persName ref="cwgk:N00017875">J. W. Underhill</persName>
+<lb/><persName ref="cwgk:N00017916">J. S. Thomas</persName>
+<lb/><persName ref="cwgk:N00017914">Andy. Thomas</persName>
+<lb/><persName ref="cwgk:N00017897">Sidney. Greathouse</persName>
+<lb/><persName ref="cwgk:N00017904">Jerry <unclear>Glassville</unclear></persName>
+<lb/><persName ref="cwgk:N00017926">Jessee Smith</persName>
+<lb/><persName ref="cwgk:N00017921">Thomas <unclear>Larlond</unclear></persName>
+<lb/><persName ref="cwgk:N00017888">James Petillow</persName>
+<lb/><persName ref="cwgk:N00017894">W<hi rend="underline"><hi rend="sup">m</hi></hi> Meeks</persName><milestone unit="column" n="1"/><pb/></p>
 <p><table rend="rules">
 <row>
 	<cell>10 37</cell>
