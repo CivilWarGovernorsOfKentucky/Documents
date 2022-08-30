@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN001813">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">LeRoy D. Fitch</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N001813">
+                    <persName>
+                      LeRoy D. Fitch
+                        (Cass County, Indiana, naval lieutenant. )
+                    </persName>
+                        <event type="birth"  when="1835-10"  ><ab>1835-10</ab></event>
+                        <event type="death"  when="1875-04-13"  ><ab>1875-04-13</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Cass County, Indiana, naval lieutenant. Indiana native. Son of Frederick Fitch. Married to Mary Smith Fitch. Father of Marie Lee Fitch. Graduate of the United States Naval Academy in Annapolis, Anne Arundel County, Maryland, in 1856. Served in the United States Navy as a master, lieutenant, and commander, mustered in 1856.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Cass County, Logansport, p. 199A. <lb/>
+<hi rend="italic">Case Files of Approved Pension Applications of Widows and Other Dependents of Civil War Veterans, ca. 1861 – ca. 1910</hi>, NARA RG 15, Application #2428.<lb/>
+&quot;Telegraph News,&quot; <hi rend="italic">The Evening News</hi> (Indianapolis, IN), April 14, 1875, p. 2.<lb/>
+&quot;Fitch, Leroy,&quot; <hi rend="italic">Appleton&#39;s Cyclopædia of American Biography</hi>, vol. II, eds. John Fiske and James Grant Wilson (New York: Appleton, 1889), 472.<lb/>
+Emma C. Brewster Jones, <hi rend="italic">The Brewster Genealogy, 1566-1907: A Record of the Descendants of William Brewster of the “Mayflower,” Ruling Elder of the Pilgrim Church Which Founded Plymouth Colony in 1620</hi> (New York: The Grafton Press, 1908) 440.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
