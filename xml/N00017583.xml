@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017583">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Elias Russell</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017583">
+                    <persName>
+                      Elias Russell
+                        (Marion County, Kentucky, farmer.)
+                    </persName>
+                        <event type="birth"  when="1792-11-22"  ><ab>1792-11-22</ab></event>
+                        <event type="death"  when="1872-01-27"  ><ab>1872-01-27</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Marion County, Kentucky, farmer and soldier. Washington County, Kentucky, native. Son of Charles Lewis Russell and Jane Mattingly Russell. Married to Elizabeth Clarke Russell in Washington County, Kentucky, on April 19, 1817. Father of Mary Ann Russell, Jane R. Rusell, John C. Russell, Elias Russell, Jr., Mary Ellen Russell, Sarah Ann Russell, Elizabeth E. Russell, Cordelia Ann Russell, and Charles Ignatius Russell. Served in the 9th Regiment Mounted Kentucky Volunteers as a corporal during the War of 1812. Farmer in Marion County in 1850. Farmer in Marion County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, District 1, p. 354A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, District 1, p. 617.<lb/>
+<hi rend="italic">Index to Compiled Service Records of Volunteer Soldiers Who Served During the War of 1812</hi>, NARA RG94, Microfilm Series M602, Roll #0181.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Washington County Marriages, Film #000241382.<lb/>
+Gerald Thompson, &quot;Elias Russell, Sr.,&quot; in <hi rend="italic">Washington County, Kentucky Bicentennial History, 1792-1992</hi>, ed. Washington County History Book Committee, (Paducah, KY: Turner Publishing Company, 1991), p. 388.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
