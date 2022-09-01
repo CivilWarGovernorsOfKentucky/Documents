@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018486">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert W. McFarland</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018486">
+                    <persName>
+                      Robert W. McFarland
+                        (Champaign County, Ohio, teacher, professor, and soldier)
+                    </persName>
+                        <event type="birth"  when="1825-06-16"  ><ab>1825-06-16</ab></event>
+                        <event type="death"  when="1910-10-23"  ><ab>1910-10-23</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Champaign County, Ohio, teacher, professor, and soldier. Champaign County, Ohio, native. Married to Mary Ann Smart McFarland in Highland County, Ohio, on March 19, 1851. Father of Eliza McFarland and Frances &quot;Fanny&quot; McFarland. Graduated from Ohio Wesleyan University in 1847. Public school teacher in Ohio from 1847-1851. Professor of mathematics at Madison College in Guernsey County from 1851 to 1856. Professor and Chair of mathematics at Miami University in Butler County from 1856 to 1862. Employed Bridget Flanigan as a servant in Butler County. Served in the 86th Ohio Regiment (U.S.A.) as a captain from June 1862 to September 1862. Served in the 86 Ohio Regiment Reorganized (U.S.A.) as a lieutenant colonel from July 1863 to February 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Butler County, Oxford, p. 235.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Butler County, Oxford, p. 354A.<lb/>
+<hi rend="italic">Ohio Marriage Records, 1774-1993</hi>, Highland County Marriages, Film #000570613, p. 56. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Ohio</hi>, NARA RG 94, Microfilm Series M397, Roll 0071.<lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Kentucky, Application #1254189, Certificate #1017399.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Butler County, OH, June 1863.<lb/>
+“Dr. MacFarland Dead”,<hi rend="italic">Chillicothe Gazette</hi>(Chillicothe, Ohio), October 25, 1910, p. 5.<lb/>
+<hi rend="italic">Alumni and Former Student Catalog of Miami University, 1809-1892</hi>(Oxford, Ohio: The Oxford News, 1892), p. xiv.<lb/>
+&quot;Robert White McFarland (1825-1910),&quot; Find A Grave, Memorial #48331227, accessed August 31, 2022, http://www.findagrave.com/memorial/48331227.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
