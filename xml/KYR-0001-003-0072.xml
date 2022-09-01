@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0072"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Ian Iverson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>U. S. Com<hi rend="underline"><hi rend="sup">s</hi></hi> office at Paducah Ky,,
+   <p><orgName ref="cwgk:O00018512">U. S. Com<hi rend="underline"><hi rend="sup">s</hi></hi> office</orgName> at <placeName ref="cwgk:P00001227">Paducah</placeName> <placeName ref="cwgk:P001800">Ky</placeName>,,
 <lb/><date when="1864-02-10">February 10<hi rend="sup">th</hi> 1864</date>
 <lb/>To His Excellency
-<lb/>Thomas E Bramlett
-<lb/>Governer of Kentucky
+<lb/><persName ref="cwgk:N001000">Thomas E Bramlett</persName>
+<lb/>Governer of <orgName ref="cwgk:O001025">Kentucky</orgName>
 <lb/>Dear Sir</p>
-<p>The recruiting of negro Soldiers at this point, and more especially the <hi rend="underline">manner</hi> of recruiting is very damaging to our union Cause, and is in violation of the President,s proclomation, the laws of Congress, and the laws of the State</p>
-<p>When <hi rend="underline">armed negroes</hi> are permited to go with impunity into the Dwellings of true and Loyal men use insolent language to the family and take by force the only Servent of the family in oposition to the expresed wish of that servent -- it is not very encouraging to union men</p>
-<p>Such was the case at Dr Cape's of this City Yesterday morning and there is not a more <hi rend="underline">Loyal</hi> <hi rend="underline">true</hi> <hi rend="underline">Patriot</hi> than D<hi rend="sup">r</hi> Cope on the american continent</p>
-<p>J. M. Mackenzie
+<p>The recruiting of negro Soldiers at this point, and more especially the <hi rend="underline">manner</hi> of recruiting is very damaging to our union Cause, and is in violation of the <persName ref="cwgk:N001760">President,s</persName> proclomation, the laws of <orgName ref="cwgk:O00005496">Congress</orgName>, and the laws of the State</p>
+<p>When <hi rend="underline">armed negroes</hi> are permited to go with impunity into the Dwellings of true and Loyal men use insolent language to the family and take by force the only <persName ref="cwgk:N00018528">Servent</persName> of the family in oposition to the expresed wish of that servent -- it is not very encouraging to union men</p>
+<p>Such was the case at <persName ref="cwgk:N00018503">Dr Cape</persName>'s of this City Yesterday morning and there is not a more <hi rend="underline">Loyal</hi> <hi rend="underline">true</hi> <hi rend="underline">Patriot</hi> than D<hi rend="sup">r</hi> Cope on the american continent</p>
+<p><persName ref="cwgk:N00018504">J. M. Mackenzie</persName>
 <lb/>Capt &amp; C S U S Army</p>
   </body>
  </text>
