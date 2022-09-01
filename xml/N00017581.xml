@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017581">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Lloyd Thompson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017581">
+                    <persName>
+                      Lloyd Thompson
+                        (Marion County, Kentucky, farmer and slaveholder.)
+                    </persName>
+                        <event type="birth"  when="1809-10-19"  ><ab>1809-10-19</ab></event>
+                        <event type="death"  when="1864-05-20"  ><ab>1864-05-20</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Marion County, Kentucky, farmer. Nelson County, Kentucky, native. Son of Charles Lloyd Thompson and Elizabeth Thompson. Married to Eleanor Goodrum Thompson in Washington County, Kentucky, on November 21, 1832. Father of John S. Thompson, Mary Thompson, Charles W. Thompson, William L. Thompson, Richard Thompson, Margaret Thompson, Thomas Thompson, and George Thompson. Farmer in Marion County in 1850. Owned one enslaved person in Marion County in 1850. Owned Henry Jackson in Marion County in 1853. Farmer in Marion County in 1860. Owned five enslaved persons, including Mary A. Thompson, in Marion County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, District 1, p. 356B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Marion County.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, District 1, p. 566.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Marion County, District 1, p. 478B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Loretto, p. 116A. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994047, Marion County Births.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Washington County Marriages, Film #000551244.<lb/>
+&quot;Lloyd Stanislaus Thompson (1809-1864),&quot; Find A Grave, Memorial #26701822, Accessed May 15, 2022, https://www.findagrave.com/memorial/26701822/lloyd-stanislaus-thompson.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
