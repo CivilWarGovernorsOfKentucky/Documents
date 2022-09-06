@@ -10,6 +10,14 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +52,11 @@
                 <person xml:id="N00004970">
                     <persName>
                       John Shuck
-                        (Marion County, Kentucky, resident)
+                        (Marion County, Kentucky, lawyer and slaveholder.)
                     </persName>
+                        <event type="birth"  when="1807-12-10"  ><ab>1807-12-10</ab></event>
+                        <event type="death"  when="1873-01-09"  ><ab>1873-01-09</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,13 +64,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed Marion County, Kentucky, petition of William M. Bowman in September 1861. Signed petition on behalf of C. F. Jenkins in Marion County in 1861.</p>
+        <p>Marion County, Kentucky, attorney. Kentucky native. Married to Lucretia Finley Shuck. Father of Joseph Shuck, Octavia Shuck, Susan Shuck, Finley Shuck, Mary Shuck, Fannie Shuck, and Minerva Shuck. Attorney in Marion County, Kentucky, in 1850. Owned four enslaved persons, including Charlotte [Unknown], in Marion County, Kentucky, in 1850. Lawyer in Marion County in 1860. Owned nine enslaved persons, including Charlotte [Unknown] and Hagar Shuck, in Marion County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1400.
-
-KYR-0001-020-1446.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, Lebanon, p. 399B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Marion County.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon, p. 738.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Marion County, District 2, p. 499A.<lb/>
+<hi rend="italic">Kentucky, Wills and Probate Records, 1774-1989</hi>, Kentucky County, District, and Probate Courts, Marion County Wills, vol. 1-2, 1863-1949, p. 122.<lb/>
+&quot;John Shuck (1807-1873),&quot; Find A Grave, Memorial #113531517, accessed May 16, 2022, https://www.findagrave.com/memorial/113531517/john-shuck.
 </bibl></ab>
     </back>
 </text>
