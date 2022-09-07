@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Thomas Valandingham</title>
+        <title level="a" type="main">Thomas Vallandingham</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name></name>
@@ -43,10 +47,12 @@
         <particDesc>
                 <person xml:id="N00008648">
                     <persName>
-                      Thomas Valandingham
+                      Thomas Vallandingham
                         (Ballard Co. farmer)
                     </persName>
-                        <event type="birth"  when="1818"  cert="medium" ><ab>c1818</ab></event>
+                        <event type="birth"  when="1818-04-20"  ><ab>1818-04-20</ab></event>
+                        <event type="death"  when="1887-04-18"  ><ab>1887-04-18</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,12 +60,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Ballard County, Kentucky, farmer. Kentucky native. Married to Mary Valandingham. Father of Charles T. Valandingham, Joseph Valandingham, Richard Valandingham, William Valandingham, and George Valandingham. Farmer in Ballard County in 1860. Owned two enslaved persons in Ballard County in 1860.</p>
+        <p>Ballard County, Kentucky, farmer. Kentucky native. Married to Mary Thomas Vallandingham. Father of Charles T. Vallandingham, Joseph Vallandingham, Richard Vallandingham, William Vallandingham, and George Vallandingham. Farmer in Ballard County, Kentucky, in 1850. Owned one enslaved person in Ballard County in 1850. Farmer in Ballard County in 1860. Owned two enslaved persons in Ballard County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Picketts District, p. 52-53.<lb/>
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Ballard County, Picketts District, p. 8.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 262B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Ballard County, City/District, p. 120.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Picketts District, p. 52-53.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Ballard County, Picketts District, p. 43B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll #994027, Ballard County Births.<lb/>
+&quot;Thomas Vallandingham (1819-1897),&quot; Find A Grave, Memorial #118829645, Accessed September 7, 2022, https://www.findagrave.com/memorial/118829645/thomas-vallandingham.
 </bibl></ab>
     </back>
 </text>
