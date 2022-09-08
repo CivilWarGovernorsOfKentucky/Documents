@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0078"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,7 +67,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>List of men enlisted for the Regular Army to be credited on the quota of the following Districts for the State of Kentucky between the <date when="1864-01-20">20 Jany'</date> and <date when="1864-02-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> February 1864</date>. as required by instructions from War Department A. G. O. Washington <date when="1864-02-18">January 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.</p>
+   <p>List of men enlisted for the <orgName ref="cwgk:O00001186">Regular Army</orgName> to be credited on the quota of the following Districts for the State of <placeName ref="cwgk:P001800">Kentucky</placeName> between the <date when="1864-01-20">20 Jany'</date> and <date when="1864-02-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> February 1864</date>. as required by instructions from <orgName ref="cwgk:O00005118">War Department</orgName> A. G. O. Washington <date when="1864-02-18">January 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.</p>
 <p><table rend="rules">
 <row>
 	<cell>N<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
@@ -75,16 +79,16 @@
 </row>
 <row>
 	<cell>1</cell>
-	<cell>Oscar Brown</cell>
+	<cell><persName ref="cwgk:N00018513">Oscar Brown</persName></cell>
 	<cell>Kentucky</cell>
-	<cell>6<hi rend="underline"><hi rend="sup">th</hi></hi> District</cell>
+	<cell><orgName ref="cwgk:O00006221">6<hi rend="underline"><hi rend="sup">th</hi></hi> District</orgName></cell>
 	<cell/>
-	<cell>Newport.</cell>
+	<cell><placeName ref="cwgk:P00004717">Newport.</placeName></cell>
 </row>
 </table></p>
-<p>Fort Columbus. N. Y.
+<p><orgName ref="cwgk:O00018514">Fort Columbus</orgName>. <placeName ref="cwgk:P001007">N. Y.</placeName>
 <lb/><date when="1864-02-10">February 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
-<p>H S Loomis
+<p><persName ref="cwgk:N00018515">H S Loomis</persName>
 <lb/>Col. U, S, A,
 <lb/>J. R. S.</p>
   </body>
