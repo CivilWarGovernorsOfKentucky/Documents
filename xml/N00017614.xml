@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017614">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert Milligan</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017614">
+                    <persName>
+                      Robert Milligan
+                        (Mercer County, Kentucky, professor and university president. President of Kentucky University)
+                    </persName>
+                        <event type="birth"  when="1814-07-25"  ><ab>1814-07-25</ab></event>
+                        <event type="death"  when="1875-03-20"  ><ab>1875-03-20</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mercer County, Kentucky, professor and university president. Native of Ireland. Son of John Milligan and Margaret Milligan. Married Eleanor Blaine Russell Milligan in Washington County, Pennsylvania, in 1842. Father of Alexander Reed Milligan and Isabella Reed Milligan Coleman. Graduate of Washington College in Washington, Washington County, Pennsylvania, in 1840. Professor at Washington College from 1840 to 1850. Professor at Indiana University in Bloomington, Monroe County, Indiana, from 1850 to 1854. Professor at Bethany College in Bethany, Brooke County, West Virginia, from 1854 to 1857. Inaugurated as President of Kentucky University in Harrodsburg, Mercer County, Kentucky, in 1859.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Pennsylvania, Washington County, Washington Borough,  p. 367A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, p. 731.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, p. 306A<lb/>
+&quot;Milligan, Robert,&quot; <hi rend="italic">Appleton&#39;s Cyclopædia of American Biography</hi>, vol. IV, eds. John Fiske and James Grant Wilson (New York: Appleton, 1889), 356.<lb/>
+John T. Brown, <hi rend="italic">Churches of Christ: A Historical, Biographical, and Pictorial History of Churches of Christ in the United States, Australasia, England and Canada</hi>, (Louisville, KY: John P. Morton and Company, 1904), pp. 418-420.<lb/>
+&quot;Robert Milligan (1814-1875),&quot; Find A Grave, Memorial #42982724, accessed May 19, 2022, https://www.findagrave.com/memorial/42982724/robert-milligan.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
