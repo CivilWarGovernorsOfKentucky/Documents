@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017613">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Calvin Mason</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017613">
+                    <persName>
+                      John Calvin Mason
+                        (Bath County, Kentucky, attorney, congressman, and soldier.)
+                    </persName>
+                        <event type="birth"  when="1802-08-04"  ><ab>1802-08-04</ab></event>
+                        <event type="death"  when="1865-08-04"  ><ab>1865-08-04</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Bath County, Kentucky, attorney, congressman, and soldier. Montgomery County, Kentucky, native. Son of James Mason and Elizabeth Fishback Mason. Married to Ann Eliza Owings Mason in Bath County, Kentucky, in 1847. Father of Charcilla Mason, Thomas Mason, Fannie Mason, Colegate Mason, Elizabeth Mason, John Calvin Mason, Jr., James Mason, Anne Mason, Mary Mason, Caroline Mason, George Mason, Robert Mason, and Owings Mason. Served in the Mexican-American War. Served as a congressman from 1849 to 1853, and from 1857 to 1859. Attorney in Bath County in 1860. Owned three enslaved persons in Bath County, Kentucky, in 1860. Served with the Texas State Troops (C.S.A.) from 1863 to 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bath County, Owingsville, p. 6.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Bath County, Owingsville, p. 74B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Bath County Marriages, Film #000273005.<lb/>
+Willis Miller Kemper, <hi rend="italic">Genealogy of the Fishback Family in America: The Descendants of John Fishback, the Emigrant, with an Historical Sketch of His Family and of the Colony at Germanna and Germantown, Virginia, 1714-1914</hi> (New York: Thomas Madison Taylor, 1914), 119, 156, 157.<lb/>
+J.A. Richards, <hi rend="italic">A History of Bath County, Kentucky</hi>, (Yuma, AZ: Southwest Printers, 1961), pp. 511-512.<lb/>
+&quot;John Calvin Mason (1802-1865),&quot; Find A Grave, Memorial #7648345, accessed September 12, 2022, https://www.findagrave.com/memorial/7648345/john-calvin-mason.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
