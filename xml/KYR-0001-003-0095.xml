@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0095"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Ian Iverson</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington Ky <date when="1864-10-11">Oct 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
-<lb/>Secretary of State
-<lb/>Frankfort
-<lb/>Ky.</p>
-<p>My Battery is stationed at this post, and among the men, of which it is composed are some, who, when they enlisted, were residents of other states than Kentucky, on the <date when="1863-10-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> of this month one year ago</date>, they were mustered into the service of the United States. Since which time they have not been out of the state only excepting a few days, when some were absent on reenlistment furlough.</p>
+   <p><placeName ref="cwgk:P001002">Lexington</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1864-10-11">Oct 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
+<lb/><persName ref="cwgk:N001777">Secretary of State</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>
+<lb/><placeName ref="cwgk:P001800">Ky.</placeName></p>
+<p>My Battery is stationed at this post, and among the men, of which it is composed are some, who, when they enlisted, were residents of other states than Kentucky, on the <date when="1863-10-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> of this month one year ago</date>, they were mustered into the service of the <orgName ref="cwgk:O00002945">United States</orgName>. Since which time they have not been out of the state only excepting a few days, when some were absent on reenlistment furlough.</p>
 <p>They have been within the city of Lexington Ky since the <date when="--06-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of June</date> -- Now, Sir, in view of the above state of case, <hi rend="str">does not have</hi> ^has not^ each and every voter in my Battery the privilege of voting at this city: and is not each and every one of them a citizen of Ky. by virtue of having been in the state one year</p>
 <p>Any information which you can give me upon the subject will be highly appreciated.</p>
 <p>I am, Sir,
 <lb/>Very Respectfully
 <lb/>Your Obedient Servant
-<lb/>John. J. Hawes
+<lb/><persName ref="cwgk:N00013911">John. J. Hawes</persName>
 <lb/>Capt. 5<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Battery</p>
   </body>
  </text>
