@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018200">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Jared D. Kerlin</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018200">
+                    <persName>
+                      Jared D. Kerlin
+                        (Fined in Henry County Circuit Court in January 1860.)
+                    </persName>
+                        <event type="birth"  when="1835-06-12"  ><ab>1835-06-12</ab></event>
+                        <event type="death"  when="1885-03-25"  ><ab>1885-03-25</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kentucky soldier. Kentucky native. Married to Matilda Kerlin. Father of William Kerlin. Fined in Henry County Circuit Court in January 1860. Served in the 8th Kentucky Cavalry Regiment (C.S.A.) from September Captured in Chester, Meigs County, Ohio, on July 19, 1863. Prisoner of war at Camp Chase, Ohio from July 26, 1863 to August 20, 1863. Prisoner of war at Camp Douglas, Illinois, from August 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Henry County, Eminence District, p. 282B. <lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0045.<lb/>
+&quot;Jared D. Kerlin (1835-1885),&quot; Find A Grave, Memorial 200172847, Accessed July 18, 2022, https://www.findagrave.com/memorial/200172847/jared-d-kerlin.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
