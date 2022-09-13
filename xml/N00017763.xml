@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017763">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Josiah Winden Staggs</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017763">
+                    <persName>
+                      Josiah Winden Staggs
+                        (Lewis County, Kentucky, farmer. )
+                    </persName>
+                        <event type="birth"  when="1817-06-13"  ><ab>1817-06-13</ab></event>
+                        <event type="death"  when="1894-01-11"  ><ab>1894-01-11</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lewis County, Kentucky, farmer. Kentucky native. Married to Mary Yewlett Staggs in Lewis County, Kentucky, in 1840. Father of James R. Staggs, Serepta A. Staggs, Nancy J. Staggs, Alfred Staggs, Thomas Staggs, Granville Staggs, Sarah R. Staggs, and John B. Staggs. Farmer in Lewis County in 1850. Farmer in Lewis County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lewis County, District No 1, p. 236A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lewis County, p. 915.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lewis County, Laurel Precinct, p. 475B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Lewis County Marriages, Film 000344051.<lb/>
+Lewis County Historical Society, <hi rend="italic">Pioneer Families of Lewis County, Kentucky, Indexed</hi>, (Mt. Vernon, IN: Windmill Publications, 1996), 190.<lb/>
+&quot;Josiah Wilden Staggs (1817-1894),&quot; Find A Grave, Memorial 81691353, accessed September 13, 2022, http://www.findagrave.com/memorial/81691353.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
