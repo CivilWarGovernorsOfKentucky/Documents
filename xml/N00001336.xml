@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
           <respStmt>
@@ -55,6 +59,7 @@
                         (Ballard Co. Carpenter)
                     </persName>
                         <event type="birth"  when="1832"  cert="medium" ><ab>c1832</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -62,11 +67,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Ballard County, Kentucky, carpenter. Kentucky native. Carpenter in Ballard County in 1860.</p>
+        <p>Ballard County, Kentucky, carpenter. Kentucky native. Carpenter in Ballard County, Kentucky, in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Picketts District, p. 61.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Picketts District, p. 621.
 </bibl></ab>
     </back>
 </text>
