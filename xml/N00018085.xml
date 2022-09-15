@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018085">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Alvin Peterson Hovey</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018085">
+                    <persName>
+                      Alvin Peterson Hovey
+                        (Indiana attorney, politician, and soldier.)
+                    </persName>
+                        <event type="birth"  when="1821-09-06"  ><ab>1821-09-06</ab></event>
+                        <event type="death"  when="1891-11-23"  ><ab>1891-11-23</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Indiana attorney, politician, and soldier. Posey County, Indiana, native. Son of Abiel Hovey and Frances Peterson Hovey. Married to Mary Ann James on November 24, 1844. Father of Esther Hovey, Enoch James Hovey, Charles James Hovey, and Mary Anne Hovey. Served on the Indiana Supreme Court from May 8, 1854 to December 10, 1855. Served as a United States District Attorney from 1856 to 1858. Unsuccessful Republican candidate for the U.S. House of Representatives in 1858. Attorney in Mount Vernon, Posey County, Indiana, in 1860. Served in the 24th Indiana Volunteer Infantry (U.S.A.) as colonel from July 31, 1861 to April 28, 1862. Promoted to Brigadier General of Volunteers on April 28, 1862. Brevetted Major General of Volunteers to date from July 4, 1864. Commanded the Military District of Indiana. Resigned on October 7, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Posey County, Mount Vernon, p. 658.<lb/>
+Bernard Heitman, <hi rend="italic">Historical Register and Dictionary of the United States Army, from its Organization, September 29, 1789 to March 2, 1903</hi> Volume 1, Part 2 (Washington: Government Printing Office, 1903), 545.<lb/>
+Robert Sobel and John Raimo, eds., <hi rend="italic">Biographical Directory of the Governors of the United States 1789-1978</hi>Vol. 1 (Westport, CT: Meckler Books, 1978), 409. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
