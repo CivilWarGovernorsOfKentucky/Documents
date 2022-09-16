@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">T. J. Sparks</title>
+        <title level="a" type="main">Thomas J. Sparks</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>James Bartek</name>
@@ -43,10 +51,10 @@
         <particDesc>
                 <person xml:id="N00006984">
                     <persName>
-                      T. J. Sparks
-                        (Henry County)
+                      Thomas J. Sparks
+                        (Henry County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
+                        <event type="birth"  when="1805"  cert="medium" ><ab>c1805</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +63,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Henry County, Kentucky, resident. Kentucky native. Son of Humphrey and Eliza Ann Sparks. Resident of Henry County in 1860. </p>
+        <p>Henry County, Kentucky, farmer. Virginia native. Married to Mariah Sparks. Father of Abram Sparks. Married to Mildred Sparks in Owen County, Kentucky, on November 10, 1856. Farmer in Henry County in 1850. Farmer in Henry County in 1860. Owned three enslaved persons in Henry County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henry County, p. 353.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henry County, District 1, p. 426B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henry County, Subdivision 1, p. 340.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Henry County, Subdivision 1, p. 187A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Owen County Marriages, Film 000272769.
 </bibl></ab>
     </back>
 </text>
