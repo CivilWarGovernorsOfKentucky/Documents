@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018087">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Francis McGinnis</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018087">
+                    <persName>
+                      George Francis McGinnis
+                        (Indiana soldier)
+                    </persName>
+                        <event type="birth"  when="1826-03-19"  ><ab>1826-03-19</ab></event>
+                        <event type="death"  when="1910-05-29"  ><ab>1910-05-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Indiana soldier. Boston, Suffolk County, Massachusetts, native. Son of Alexander McGinnis and Hannah Smith McGinnis. Married to Josephine Rapor McGinnis in Chillicothe, Ross County, Ohio, on November 30, 1849. Father of Frank McGinnis. Hatter in Chillicothe in 1846. Served in the 2nd Ohio Volunteer Infantry as first lieutenant during the Mexican-American War from May 29, 1846, to June 21, 1847. Served in the 5th Ohio Volunteer Infantry as captain during the Mexican-American War from July 16, 1847 to July 25, 1848. Hatter in Indianapolis, Marion County, Indiana, in 1850. Hatter in Indianapolis in 1860. Served in the 11th Indiana Volunteer Infantry (U.S.A.) as a captain, lieutenant colonel, and colonel, from April 16, 1861 until November 29, 1862. Promoted to Brigadier General of Volunteers on November 29, 1862. Commanded United States Forces at the Mouth of the White River in the Department of Arkansas. Mustered out on August 24, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Marion County, Indianapolis, p. 226B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Marion County, Indianapolis, North Center Township, p. 761<lb/>
+<hi rend="italic">Indiana Death Certificates, 1900–2011</hi>, Indiana State Department of Health and Vital Records, Indiana Archives and Records Administration, Indianapolis, IN, Certificate #1706.<lb/>
+<hi rend="italic">Commemorative Biographical Record of Prominent and Representative Men of Indiana and its Vicinity</hi>(Chicago: J.H Beers &amp; Co., 1908), 439.<lb/>
+Francis Bernard Heitman, <hi rend="italic">Historical Register and Dictionary of the United States Army, from its Organization, September 29, 1789 to March 2, 1903</hi> Volume 1, Part 2 (Washington: Government Printing Office, 1903), 666.<lb/>
+John F. Megginess, <hi rend="italic">Origin and History of the Magennis Family</hi> (Williamsport, PA: Heller Bros.&#39; Printing House, 1891), 227<lb/>
+Frank J. Welcher, <hi rend="italic">The Union Army, 1861-1865: Organization and Operations, Volume II The Western Theater</hi>(Bloomington, IN: Indiana University Press, 1993), 372. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
