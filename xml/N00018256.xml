@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018256">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Elisha Bishop</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018256">
+                    <persName>
+                      Elisha Bishop
+                        (Henry and Bullitt County, Kentucky, farmer.)
+                    </persName>
+                        <event type="birth"  when="1805-01-03"  ><ab>1805-01-03</ab></event>
+                        <event type="death"  when="1863-10-26"  ><ab>1863-10-26</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Henry and Bullitt County, Kentucky, farmer. Kentucky native. Married to Jemima Lindsay Bishop. Father to William Bishop, Eliza Louisa Bishop, Elisha Bishop, James S. Bishop, Isaac W. Bishop, and Keziah E. Bishop. Resident of Henry County, Kentucky in 1840. Owned three enslaved persons in Henry County in 1840. Resident of Henry County in 1850. Employed Joseph Kelley as a laborer and Sally [Unknown]. Owned seven enslaved persons in Henry County in 1850. Farmer in Bullitt County in 1860. Employed Sarah Grigsby in Bullitt County in 1860. Owned twelve enslaved persons in Bullitt County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Sixth Manuscript Census of the United States</hi>(1840), Population Schedules, Kentucky, Henry County, p. 268.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henry County, District 1, p. 435A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Henry County, District 1.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bullitt County, District 1, p. 703.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Bullitt County, District 1, p. 194A.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 10759.<lb/>
+Kentucky Historical Society, <hi rend="italic">Kentucky Cemetery Records Project: Henry County, Kentucky</hi>, Vol. 2 (Frankfort, KY: 1986).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
