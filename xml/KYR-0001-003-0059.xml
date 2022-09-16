@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0059"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Ian Iverson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,19 +69,19 @@
   <body>
    <p>(A Copy)
 <lb/>Head Quarters 4<hi rend="underline"><hi rend="sup">th</hi></hi> Div. 13<hi rend="underline"><hi rend="sup">th</hi></hi> Army Corps
-<lb/>Matagorda Bay Texas
+<lb/><geogName ref="cwgk:G00018060">Matagorda Bay</geogName> <placeName ref="cwgk:P00002520">Texas</placeName>
 <lb/><date when="1864-01-16">January 16<hi rend="sup">th</hi> 1864</date>
-<lb/>Hon<hi rend="underline"><hi rend="sup">l</hi></hi> W. H. Randall M. C.
-<lb/>Washington D. C.
+<lb/>Hon<hi rend="underline"><hi rend="sup">l</hi></hi> <persName ref="cwgk:N00000824">W. H. Randall</persName> M. C.
+<lb/><placeName ref="cwgk:P00001134">Washington D. C</placeName>.
 <lb/>Dear Sir:</p>
-<p>I take the liberty of addressing you on behalf of Col. W<hi rend="underline"><hi rend="sup">m</hi></hi> J. Landram 19<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Infty, who commands the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Brigade of my Division; and to ask your influence in favor of his promotion. Col. Landram was among the first to volunteer from your state and has commanded a Brigade or Division in the field for about two years reflecting credit upon his state and doing the country able service. He was engaged with his command at the battles of "Chickasaw Bayou," "Raymond," "Arkansas Post," "Port Gibson," "Champion Hills" "Black River Bridge" -- the seige of Vicksburg, and the battles at Jackson Miss., and in the arduous campaigns<pb/>
+<p>I take the liberty of addressing you on behalf of Col. <persName ref="cwgk:N00009931">W<hi rend="underline"><hi rend="sup">m</hi></hi> J. Landram</persName> <orgName ref="cwgk:O00018059">19<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Infty</orgName>, who commands the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Brigade of my Division; and to ask your influence in favor of his promotion. Col. Landram was among the first to volunteer from your state and has commanded a Brigade or Division in the field for about two years reflecting credit upon his state and doing the country able service. He was engaged with his command at the battles of "<placeName ref="cwgk:P00018471">Chickasaw Bayou</placeName>," "Raymond," "<placeName ref="cwgk:P00018526">Arkansas Post</placeName>," "<placeName ref="cwgk:P00018473">Port Gibson</placeName>," "Champion Hills" "<placeName ref="cwgk:P00018472">Black River Bridge</placeName>" -- the seige of <placeName ref="cwgk:P00008270">Vicksburg</placeName>, and the battles at <placeName ref="cwgk:P00018398">Jackson</placeName> <placeName ref="cwgk:P00000918">Miss</placeName>., and in the arduous campaigns<pb/>
 <lb/>in the West for two years -- distinguishing himself always for coolness and generalship where such qualities were indispensable; always popular with his troops and uniformly receiving the commendation of his superior officers.</p>
-<p>After the fall of Vicksburg, General's Grant, Sherman, Logan, M<hi rend="underline"><hi rend="sup">c</hi></hi>Pherson, M<hi rend="underline"><hi rend="sup">c</hi></hi>Clernand, A. J. Smith, Carr, Hovey, M<hi rend="underline"><hi rend="sup">c</hi></hi>Ginnis and other prominent officers united in a recommendation for his promotion to Brig. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Vols.</p>
-<p>I trust this Congress will not adjourn without showing its appreciatiion of the really meritorius services of this gallant officer; and I ask you as his Representative in Congress to press his just claims upon their attention until his promotiion is secured.</p>
-<p>Maj. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> C. C. Washburne, lately in command of this Corps -- now on leave of absence -- will visit Washington this winter. He will do all he can for Col. Landram and can throw much of the Western influence in his favor</p>
+<p>After the fall of Vicksburg, General's <persName ref="cwgk:N00011819">Grant</persName>, <persName ref="cwgk:N00002379">Sherman</persName>, <persName ref="cwgk:N00018078">Logan</persName>, <persName ref="cwgk:N00007395">M<hi rend="underline"><hi rend="sup">c</hi></hi>Pherson</persName>, <persName ref="cwgk:N00018063">M<hi rend="underline"><hi rend="sup">c</hi></hi>Clernand</persName>,<persName ref="cwgk:N00018079"> A. J. Smith</persName>, <persName ref="cwgk:N00018082">Carr</persName>, <persName ref="cwgk:N00018085">Hovey</persName>, <persName ref="cwgk:N00018087">M<hi rend="underline"><hi rend="sup">c</hi></hi>Ginnis</persName> and other prominent officers united in a recommendation for his promotion to Brig. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Vols.</p>
+<p>I trust this <orgName ref="cwgk:O00005496">Congress</orgName> will not adjourn without showing its appreciatiion of the really meritorius services of this gallant officer; and I ask you as his Representative in Congress to press his just claims upon their attention until his promotiion is secured.</p>
+<p>Maj. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> <persName ref="cwgk:N00018083">C. C. Washburne</persName>, lately in command of this Corps -- now on leave of absence -- will visit Washington this winter. He will do all he can for Col. Landram and can throw much of the Western influence in his favor</p>
 <p>I have the honor to be
 <lb/>Very Respectfully Your Obedient Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
-<lb/>signed T. E. G. Ransom
+<lb/>signed <persName ref="cwgk:N00018088">T. E. G. Ransom</persName>
 <lb/>Brig. Gen. Vols.</p>
 <p>(A copy)</p>
   </body>
