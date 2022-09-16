@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018088">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas Edward Greenfield Ransom</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018088">
+                    <persName>
+                      Thomas Edward Greenfield Ransom
+                        (Illinois soldier)
+                    </persName>
+                        <event type="birth"  when="1834-11-29"  ><ab>1834-11-29</ab></event>
+                        <event type="death"  when="1864-10-29"  ><ab>1864-10-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>llinois soldier. Norwhich, Windsor County, Vermont, native. Son of Truman B. Ransom and Margaret W. Ransom. Graduated from Norwich University in Norwich, Windsor County, Vermont, in 1851. Engineer in Vandalia, Illinois, in 1861. Served in the 11th Illinois Volunteer Infantry (U.S.A) as a captain, major, lieutenant colonel, and colonel, from April 24, 1861 to November 29, 1862. Wounded at Battles of Fort Donelson and Shiloh, Tennessee. Promoted to Brigadier General of Volunteers on November 29, 1862. Commanded the XVII Corps of the Union Army. Died of disease in Rome, Floyd County, Georgia on October 29, 1864. Posthumously promoted to Brevet Major General of Volunteers. </p>
+
+    </body>
+    <back>
+        <ab><bibl>New England Historic Genealogical Society, Boston, Massachusetts, <hi rend="italic">State of Vermont. Vermont Vital Records through 1870</hi>.<lb/>
+Francis Bernard Heitman, <hi rend="italic">Historical Register and Dictionary of the United States Army, from its Organization, September 29, 1789 to March 2, 1903</hi> Volume 1, Part 2 (Washington: Government Printing Office, 1903), 816.<lb/>
+Ezra J. Warner, <hi rend="italic">Generals in Blue: Lives of Union Commanders</hi>, (Baton Rogue: Louisiana State University Press, 1964), 389-390.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
