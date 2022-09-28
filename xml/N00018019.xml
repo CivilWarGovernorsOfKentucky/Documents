@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018019">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Noel Sweeney</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018019">
+                    <persName>
+                      Noel Sweeney
+                        (Warren County, Kentucky, farmer.)
+                    </persName>
+                        <event type="birth"  when="1798-06-29"  ><ab>1798-06-29</ab></event>
+                        <event type="death"  when="1888-10-28"  ><ab>1888-10-28</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Warren County, Kentucky, farmer. Kentucky native. Married Jane Moorman in Warren County in August 1829. Father of Thomas J. Sweeney, Georgeanna Sweeney, Mary J. Sweeney, William Sweeney, Jesse Sweeney, and Nancy Sweeney. Resident of Warren County in 1830. Owned six enslaved persons in 1830. Resident of Warren County in 1840. Owned eleven enslaved persons in Warren County in1840. Farmer in Warren County in 1850. Owned fifteen enslaved persons in Warren County in 1850. Owned Louisa [Unknown] in Warren County in 1852. Owned Wesley [Unknown] in Warren County in 1858. Resident of Warren County in 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Fifth Manuscript Census of the United States</hi>(1830),Population Schedules, Kentucky, Warren County, p. 69.<lb/>
+<hi rend="italic">Sixth Manuscript Census of the United States</hi>(1840), Population Schedules, Kentucky, Warren County, p. 81<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Warren County, District 1, p. 46B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Warren County, District 1.<lb/>
+<hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 2, Warren County, Kentucky, 1864, p. 56.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994057, Warren County Births.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Warren County Marriages, Film 000164003.<lb/>
+&quot;Noel Sweeney(1798-1888),&quot; Find A Grave, Memorial 105802378, accessed July 7, 2022, http://www.findagrave.com/memorial/105802378.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
