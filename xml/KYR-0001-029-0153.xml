@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0153"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Barren County Ky
+   <p><placeName ref="cwgk:P00000558">Barren County Ky</placeName>
 <lb/><date when="1863-01">Jany 1863</date>
-<lb/>Hon: James F Robertson</p>
-<p>Dear Sir -- I am a close neighbor and acquaintance of your Petitioner James M Doty -- I have read his petition to your Excellency and know the statements therein ^made^ are true -- During the origin and progress of this revolution -- I have been an anxious observer of men and things in the neighbourhood in which I live -- And it affords me pleasure to State, that whilst your Petitioner was recognized as belonging to the revolutionary part -- he was never active, save in smoothing its asperation, and in his efforts to secure the personal and pecuniary safety, of the loyal men of his neighbourhood -- In the absence of any protection from the government, the loyal men around him, had nothing to shield them from violence -- during that terrible and ever memorable reign of terror -- but the considerable kindness and interposition of your Petitioner -- This was exercised by him to such an extent, as to cause him to be suspected by his party -- And I doubt not, that he was compelled the risk of taking office at their hands, to Secure his own Safety -- Now let me assure your Excellency, that the exercise of your Clemency in granting a full pardon, to your Petitioner in the premises -- will be as gratefully and as kindly acknowledged by the loyal men of his neighbourhood as by himself and family -- </p>
-   <p>Your obedient Servant <hi rend="underline">W G Rodes</hi></p>
+<lb/>Hon: <persName ref="cwgk:N001004">James F Robertson</persName></p>
+<p>Dear Sir -- I am a close neighbor and acquaintance of your Petitioner <persName ref="cwgk:N00017048">James M Doty</persName> -- I have read his petition to your Excellency and know the statements therein ^made^ are true -- During the origin and progress of this revolution -- I have been an anxious observer of men and things in the neighbourhood in which I live -- And it affords me pleasure to State, that whilst your Petitioner was recognized as belonging to the <orgName ref="cwgk:O00003030">revolutionary part</orgName> -- he was never active, save in smoothing its asperation, and in his efforts to secure the personal and pecuniary safety, of the loyal men of his neighbourhood -- In the absence of any protection from the government, the loyal men around him, had nothing to shield them from violence -- during that terrible and ever memorable reign of terror -- but the considerable kindness and interposition of your Petitioner -- This was exercised by him to such an extent, as to cause him to be suspected by his party -- And I doubt not, that he was compelled the risk of taking office at their hands, to Secure his own Safety -- Now let me assure your Excellency, that the exercise of your Clemency in granting a full pardon, to your Petitioner in the premises -- will be as gratefully and as kindly acknowledged by the loyal men of his neighbourhood as by himself and family -- </p>
+   <p>Your obedient Servant <hi><persName ref="cwgk:N00017733">W G Rodes</persName></hi></p>
 <p>To his Excellency
 <lb/>J F Robertson Governor of Ky<pb/></p>
 <p>J. M. Doty of Barren pettn to pardon for offenses of usurpation of Office</p>
