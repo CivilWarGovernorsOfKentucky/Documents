@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0254"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Platte County
+   <p><placeName ref="cwgk:P00017967">Platte County</placeName>
 <lb/>State of Missouri</p>
-<p>William M<hi rend="underline"><hi rend="sup">c</hi></hi>Neill Clough, having been appointed by the Governor of the Commonwealth of Kentucky, Commissioner of Deeds for the State of Missouri, &amp; being duly sworn, makes oath &amp; states, he will well &amp; truly execute &amp; perform all the duties of his station, as such Commissioner.</p>
+<p><persName ref="cwgk:N00017965">William M<hi rend="underline"><hi rend="sup">c</hi></hi>Neill Clough</persName>, having been appointed by the <persName ref="cwgk:N00000258">Governor</persName> of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>, Commissioner of Deeds for the State of Missouri, &amp; being duly sworn, makes oath &amp; states, he will well &amp; truly execute &amp; perform all the duties of his station, as such Commissioner.</p>
 <p><hi rend="underline">William M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Neill Clough</hi></p>
 <p>Subscribed &amp; sworn to before me, a Notary Public within &amp; for the County of Platte &amp; State of Missouri, this <date when="1861-11-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of November 1861. -- </date></p>
-<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Clough.
+<p><persName ref="cwgk:N00018722">W<hi rend="underline"><hi rend="sup">m</hi></hi> Clough</persName>.
 <lb/>Notary Public</p>
 <p><figure type="seal"><ab>WILLIAM CLOUGH
 <lb/>NOTARY
 <lb/>PUBLIC
-<lb/>PARKVILLE
-<lb/>PLATTE CO. MO.</ab></figure><pb/></p>
+<lb/><placeName ref="cwgk:P00017966">PARKVILLE</placeName>
+<lb/>PLATTE CO. <placeName ref="cwgk:P00001883">MO</placeName>.</ab></figure><pb/></p>
 <p>Missouri<figure type="hr"/></p>
 <p>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>Oath of 
