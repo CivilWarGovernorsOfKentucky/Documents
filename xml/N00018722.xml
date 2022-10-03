@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018722">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Clough</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018722">
+                    <persName>
+                      William Clough
+                        (Pettis, Missouri, teacher and notary public)
+                    </persName>
+                        <event type="birth"  when="1797-06-25"  ><ab>1797-06-25</ab></event>
+                        <event type="death"  when="1866-08-10"  ><ab>1866-08-10</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Pettis, Missouri, teacher and notary public. Massachusetts native. Married to Mary A. Clough. Father of William McNeill Clough. Teacher in St. Charles County, Missouri, in 1850. Notary Public in Platte County in 1860. Resident in Leavenworth, Kansas, in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Missouri, St. Charles County, District 78, p. 53A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Missouri, Platte County, Pettis, p. 636.<lb/>
+<hi rend="italic">Kansas State Census</hi> (1865), Population Schedules, Kansas, Leavenworth County, Leavenworth, Ward 1, p. 32-3.<lb/>
+&quot;William Eben Clough (1787-1866),&quot; Find A Grave, Memorial #39826933, accessed October 3, 2022, http://www.findagrave.com/memorial/39826933.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
