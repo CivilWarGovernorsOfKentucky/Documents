@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018728">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert E. Finnell</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018728">
+                    <persName>
+                      Robert E. Finnell
+                        (Franklin County, landlord and resident)
+                    </persName>
+                        <event type="birth"  when="1807"  cert="medium" ><ab>c1807</ab></event>
+                        <event type="death"  when="1879-07"  ><ab>1879-07</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Franklin County, landlord and resident. Kentucky native. Married to Susan Finnell. Father of Sarah J. Finnell, Mary J. Finnell, Lewis Finnell, George T. Finnell, and James Finnell. Resident in Franklin County, Kentucky, in 1840. Owned one enslaved person in Franklin County in 1840. Landlord in Shelby County, Kentucky, in 1850. Owned one enslaved person in Shelby County in 1850. Resident in Franklin County in 1860. Appointed as a secret policemen for the State of Kentucky in March 1864. Appointment cancelled by Governor Thomas Bramlette in April 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Kentucky, Franklin County, p. 3<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Shelby County, District 2, p. 345A-345B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Shelby County, District 2, p. 737.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 254.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 104B. <lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Mortality Schedules, Kentucky, Franklin County, Frankfort, p. 316.<lb/>
+KYR-0001-003-0093.<lb/>
+KYR-0001-007-0127.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
