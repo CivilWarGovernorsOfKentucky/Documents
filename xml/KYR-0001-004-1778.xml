@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,12 +68,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>At a Circuit Court began and held for Ohio County at the Court House in Hartford at the <date when="1863-09">September Term 1863</date>. The following Judgments were rendered against Moses Baer.
+   <p>At a <orgName ref="cwgk:O00000484">Circuit Court</orgName> began and held for <placeName ref="cwgk:P00002417">Ohio County</placeName> at the Court House in <placeName ref="cwgk:P001000">Hartford</placeName> at the <date when="1863-09">September Term 1863</date>. The following Judgments were rendered against <persName ref="cwgk:N00002805">Moses Baer</persName>.
 <lb/>viz</p>
-<p>Comth vs Moses Baer= Indict for Tippling House Judgment for $20 -- and Cost</p>
-<p>2 Indictments for selling liquor to a slave &amp; Judgment for $25 -- each and costs.</p>
+<p><orgName ref="cwgk:O001025">Comth</orgName> vs Moses Baer= Indict for Tippling House Judgment for $20 -- and Cost</p>
+<p>2 Indictments for selling liquor to a <persName ref="cwgk:N00018470">slave</persName> &amp; Judgment for $25 -- each and costs.</p>
 <p>All the Costs including attorneys thirty per cent has been paid by said Baer,</p>
-<p><hi rend="str">May</hi> ^<date when="1865-06-01">June ^ 1<hi rend="sup">st</hi> 1865</date> Att A. L Morton clerk
+<p><hi rend="str">May</hi> ^<date when="1865-06-01">June ^ 1<hi rend="sup">st</hi> 1865</date> Att <persName ref="cwgk:N00001691">A. L Morton</persName> clerk
 <lb/>Ohio Circuit Court</p>
   </body>
  </text>
