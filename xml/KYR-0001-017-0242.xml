@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0242"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Indianapolis Ind <date when="1861-11-02">Nov 2,, "61</date>
-<lb/>Secretary of State
-<lb/>Frankfort Ken -- 
+   <p><placeName ref="cwgk:P001820"><placeName ref="cwgk:P001818">Ind</placeName>ianapolis</placeName> Ind <date when="1861-11-02">Nov 2,, "61</date>
+<lb/><persName ref="cwgk:N00002525">Secretary of State</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> <placeName ref="cwgk:P001800">Ken</placeName> -- 
 <lb/>Dr Sir</p>
 <p>Being in receipt of Commission bearing date <date when="1861-10-30">Oct 30" 1861</date>. I herewith transmit my oath of Office as "Commissioner of Deeds" for the State of Kentucky -- </p>
 <p>Yours Truly
-<lb/>William Y. Wiley<pb/></p>
+<lb/><persName ref="cwgk:N00018411">William Y. Wiley</persName><pb/></p>
 <p>State of Indiana
-<lb/>County of Marion
-<lb/>City of Indianapolis &#125; ss</p>
-<p>Be it remembered that on this <date when="1861-11-02">second day of November A D 1861</date>. before me Luther R Martin a Notary Public in and for the County and State aforesaid personally came William Y. Wiley personally to me Known who being first by me duly sworn upon his oath says that he will well and faithfully execute and perform all the duties of his office of "Commissioner" of Deeds" for the State of Kentucky in Indiana -- </p>
+<lb/><placeName ref="cwgk:P00005186">County of Marion</placeName>
+<lb/>City of Indianapolis } ss</p>
+<p>Be it remembered that on this <date when="1861-11-02">second day of November A D 1861</date>. before me <persName ref="cwgk:N00018415">Luther R Martin</persName> a Notary Public in and for the County and State aforesaid personally came William Y. Wiley personally to me Known who being first by me duly sworn upon his oath says that he will well and faithfully execute and perform all the duties of his office of "Commissioner" of Deeds" for the State of Kentucky in Indiana -- </p>
 <p>William Y. Wiley</p>
 <p><figure type="seal"><ab>NOTARY PUBLIC SEAL
 <lb/><unclear>INDIANAPOLIS</unclear>
