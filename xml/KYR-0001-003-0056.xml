@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0056"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,38 +71,38 @@
  <text>
   <body>
    <p>North
-<lb/>Knoxville
+<lb/><placeName ref="cwgk:P00005704">Knoxville</placeName>
 <lb/>Campbell S<unclear/>
 <lb/>Battle Ground
-<lb/>Road to Kingston
-<lb/>Longstreets rout to Knoxville to intercept <unclear>Burnside's</unclear> troops <unclear/> <unclear/>
+<lb/>Road to <placeName ref="cwgk:P00018647">Kingston</placeName>
+<lb/><persName ref="cwgk:N00018666">Longstreets</persName> rout to Knoxville to intercept <unclear>Burnside's</unclear> troops <unclear/> <unclear/>
 <lb/><unclear/>
 <lb/>Reb<hi rend="sup">s</hi> press up <unclear>this</unclear> <unclear/>
-<lb/>Rebel Fortification
-<lb/>Tennessee River
+<lb/><orgName ref="cwgk:O00000506">Rebel</orgName> Fortification
+<lb/><geogName ref="cwgk:G00000917">Tennessee River</geogName>
 <lb/>Road to Knoxville
-<lb/>and by Lenoir this <unclear>Route</unclear>
-<lb/>Federals retire by the R<unclear/>
+<lb/>and by <placeName ref="cwgk:P00018651">Lenoir</placeName> this <unclear>Route</unclear>
+<lb/><orgName ref="cwgk:O00001186">Federals</orgName> retire by the R<unclear/>
 <lb/>Rebel Fortification
 <lb/>Little Tennessee River
 <lb/><unclear>Huffs</unclear> Ferry 
 <lb/><unclear>Battle</unclear> Ground
 <lb/>Rebel Fortification
 <lb/>R R 
-<lb/>Bridge at Loudon
+<lb/>Bridge at <placeName ref="cwgk:P00018648">Loudon</placeName>
 <lb/>Rebel Pontoon
 <lb/>Huffs Ferry
 <lb/>Loudon
-<lb/>Morganton
+<lb/><placeName ref="cwgk:P00018650">Morganton</placeName>
 <lb/>Kingston Road
 <lb/>East Tennessee R R
-<lb/>Philadelphia</p>
-<p><unclear>Sherman</unclear> <unclear>advanced</unclear> to Philadelphia <unclear/> <unclear>Corps</unclear> to Loudon in pursuit <unclear/> <unclear>Corps</unclear> to Morganton, to cut off <unclear/> <unclear/> retreat <unclear/> Bragg. through North Carolina, and Georgia</p>
+<lb/><placeName ref="cwgk:P00018563">Philadelphia</placeName></p>
+<p><unclear><persName ref="cwgk:N00002379">Sherman</persName></unclear> <unclear>advanced</unclear> to Philadelphia <unclear/> <unclear>Corps</unclear> to Loudon in pursuit <unclear/> <unclear>Corps</unclear> to Morganton, to cut off <unclear/> <unclear/> retreat <unclear/> <persName ref="cwgk:N00003001">Bragg.</persName> through <placeName ref="cwgk:P00002518">North Carolina</placeName>, and <placeName ref="cwgk:P001008">Georgia</placeName></p>
 <p>Morganton Road
 <lb/>South
 <lb/>Not drawn -- by any scale -- positions, near Loudon</p>
-<p>Top<hi rend="sup">o</hi> by Col W E Hobson
-<lb/>13" Ky Vol.</p>
+<p>Top<hi rend="sup">o</hi> by <persName ref="cwgk:N00018208">Col W E Hobson</persName>
+<lb/><orgName ref="cwgk:O00006065">13" Ky Vol.</orgName></p>
   </body>
  </text>
 </TEI>
