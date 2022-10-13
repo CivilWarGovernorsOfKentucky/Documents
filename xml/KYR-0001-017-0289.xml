@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0289"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Philadelphia, <date when="1862-01-03">Jan<hi rend="underline"><hi rend="sup">y</hi></hi> 3. 1862</date>
+   <p><placeName ref="cwgk:P00001701">Philadelphia</placeName>, <date when="1862-01-03">Jan<hi rend="underline"><hi rend="sup">y</hi></hi> 3. 1862</date>
 <lb/>No. 243 South 5<hi rend="underline"><hi rend="sup">th</hi></hi> Street
 <lb/>His Excellency
-<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Beriah Magoffin
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N00000258">Beriah Magoffin</persName>
 <lb/>Dear Sir</p>
-<p>As my Commission as a Commissioner of Deeds for the State of Kentucky in Pennsylvania will expire on the <date when="1862-01-07">7<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date>. permit me to solicit at Your Excellency's hand, a re-appointment to that office, and to say that if this should have your Excellency's approval, I shall thereby be very greatly obliged. I have the honor to remain</p>
+<p>As my Commission as a Commissioner of Deeds for the State of <orgName ref="cwgk:O001025">Kentucky</orgName> in <placeName ref="cwgk:P001006">Pennsylvania</placeName> will expire on the <date when="1862-01-07">7<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date>. permit me to solicit at Your Excellency's hand, a re-appointment to that office, and to say that if this should have your Excellency's approval, I shall thereby be very greatly obliged. I have the honor to remain</p>
 <p>Very Respy &amp; Truly
 <lb/>Your Mo Obedt Sevt
-<lb/>Arthur M. Burton</p>
+<lb/><persName ref="cwgk:N001781">Arthur M. Burton</persName></p>
   </body>
  </text>
 </TEI>
