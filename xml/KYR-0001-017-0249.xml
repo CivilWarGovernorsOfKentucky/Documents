@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0249"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Territory of Colorado
-<lb/>First Judicial District &#125; SS</p>
-<p>I, Isaac I. Moore, of the city of Denver in said Territory, do solemnly swear, that I will Support the Constitution of the United States of America, the Constitution of the State of Kentucky and the Organic Law of the Territory of Colorado, and that I will in all things to the best of my ability execute and perform the duties of Commissioner of Deeds for the Commonwealth of Kentucky while residing in the said Territory, so help me God.</p>
+   <p>Territory of <placeName ref="cwgk:P00014385">Colorado</placeName>
+<lb/><orgName ref="cwgk:O00018767">First Judicial District</orgName> } SS</p>
+<p>I, <persName ref="cwgk:N00017803">Isaac I. Moore</persName>, of the city of <placeName ref="cwgk:P00009425">Denver</placeName> in said Territory, do solemnly swear, that I will Support the Constitution of the <placeName ref="cwgk:P001802">United States of America</placeName>, the Constitution of the <placeName ref="cwgk:P001800">State of Kentucky</placeName> and the Organic Law of the Territory of Colorado, and that I will in all things to the best of my ability execute and perform the duties of Commissioner of Deeds for the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> while residing in the said Territory, so help me God.</p>
 <p>Isaac I. Moore</p>
 <p>Territory of Colorado
-<lb/>First Judicial District &#125; SS</p>
-<p>I, B. B. Stiles Clerk of the Supreme Court of the United States of America within and for said Territory hereby certify, that, Isaac I Moore who is personally known to me to be the same person who subscribed the above instrument in writing, appeared before me this day and took the oath, as required by the Law of said Territory.</p>
+<lb/>First Judicial District } SS</p>
+<p>I, <persName ref="cwgk:N00018766">B. B. Stiles</persName> Clerk of the <orgName ref="cwgk:O00011810">Supreme Court</orgName> of the <orgName ref="cwgk:O00002945">United States of America</orgName> within and for said Territory hereby certify, that, Isaac I Moore who is personally known to me to be the same person who subscribed the above instrument in writing, appeared before me this day and took the oath, as required by the Law of said Territory.</p>
 <p>Witness my hand and the seal of said Supreme Court at Denver in said Teritory this <date when="1861-10-23">23<hi rend="underline"><hi rend="sup">d</hi></hi> day of Octo. AD 1861</date></p>
 <p>B. B. Stiles Clerk</p>
 <p><figure type="seal"/><pb/></p>
