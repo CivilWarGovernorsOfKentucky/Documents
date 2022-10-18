@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0267"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,12 +73,12 @@
    <p><hi rend="underline">Notaries</hi></p>
 <p><table rend="rules">
 <row>
-	<cell>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> B. Lyne</cell>
-	<cell>Henderson</cell>
+	<cell><persName ref="cwgk:N00018537">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> B. Lyne</persName></cell>
+	<cell><placeName ref="cwgk:P00002891">Henderson</placeName></cell>
 </row>
 <row>
-	<cell>Geo. P. ODonnell</cell>
-	<cell>Jefferson</cell>
+	<cell><persName ref="cwgk:N00018794">Geo. P. ODonnell</persName></cell>
+	<cell><placeName ref="cwgk:P001005">Jefferson</placeName></cell>
 </row>
 </table><pb/></p>
 <p>Notaries
