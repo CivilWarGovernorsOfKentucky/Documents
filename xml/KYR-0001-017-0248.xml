@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0248"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,20 +71,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1861-11">Nov. 1861</date>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-11">Nov. 1861</date>
 <lb/>To His Excellency
-<lb/>Gov. Magoffin</p>
-<p>The undersigned respectfully petitions your Excellency to grant him a Commission to act as Notary Public for the County of Jefferson, and pledges his fidelity to the faithful discharge of the duties appertaining to the office</p>
+<lb/>Gov. <persName ref="cwgk:N00000258">Magoffin</persName></p>
+<p>The undersigned respectfully petitions your Excellency to grant him a Commission to act as Notary Public for the County of <placeName ref="cwgk:P001005">Jefferson</placeName>, and pledges his fidelity to the faithful discharge of the duties appertaining to the office</p>
 <p>Very Respectfully
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. Warner</p>
 <p>We know W<hi rend="sup">m</hi> A Warner, the above applicant, and cheerfully recommend your Excellency to grant his petition; being perfectly satisfied that he will faithfully truly and honestly discharge the duties of Notary Public.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">Hite &amp; Small</hi>
 <lb/><hi rend="underline">Brent.</hi> <hi rend="underline">Hopkins</hi>
 <lb/><cb n="2"/><hi rend="underline">Mark &amp; Downs</hi>
-<lb/>A. V. duPont &amp; Co
-<lb/>Morris &amp; Hogg
-<lb/>Kitts &amp; Werne
-<lb/>A Craig<milestone unit="column" n="1"/><pb/></p>
+<lb/><orgName ref="cwgk:O00018754">A. V. duPont &amp; Co</orgName>
+<lb/><orgName ref="cwgk:O00018757">Morris &amp; Hogg</orgName>
+<lb/><orgName ref="cwgk:O00018756">Kitts &amp; Werne</orgName>
+<lb/><persName ref="cwgk:N00017638">A Craig</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Jefferson Co<figure type="hr"/></p>
 <p>Notary
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. Warner
