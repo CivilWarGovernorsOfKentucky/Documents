@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0263"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Carlisle, <date when="1861-12-09">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 9, 1861</date>
-<lb/>John W. Campbell, Esq.</p>
+   <p><placeName ref="cwgk:P00000537">Carlisle</placeName>, <date when="1861-12-09">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 9, 1861</date>
+<lb/><persName ref="cwgk:N00012519">John W. Campbell</persName>, Esq.</p>
 <p>We have not yet heard from you in relation to 'Squire Geohegan's Commission; as a Justice of the peace. Have you forgotten to attend to it? 
-<lb/>Be so good as to see the Governor, and tell him the district stands much in need of a Justice, and the sooner the Commission is sent up the better.</p>
+<lb/>Be so good as to see the <persName ref="cwgk:N00000258">Governor</persName>, and tell him the district stands much in need of a Justice, and the sooner the Commission is sent up the better.</p>
 <p>We have no news here.</p>
 <p>Your's &amp;c
-<lb/>W. Norvell.<pb/></p>
-<p>Nicholas Co<figure type="hr"/></p>
+<lb/><persName ref="cwgk:N00006646">W. Norvell</persName>.<pb/></p>
+<p><placeName ref="cwgk:P00000539">Nicholas Co</placeName><figure type="hr"/></p>
 <p>J. P.
 <lb/>Dist N<hi rend="sup">o</hi> 2
-<lb/>M. Geohegan
+<lb/><persName ref="cwgk:N00017870">M. Geohegan</persName>
 <lb/>Com Iss<hi rend="sup">d</hi> <date when="1861-12-11">Decr. <hi rend="str">9. </hi>11<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
   </body>
  </text>
