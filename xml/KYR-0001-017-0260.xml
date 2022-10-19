@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0260"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Missouri
-<lb/>County of S<hi rend="underline"><hi rend="sup">t</hi></hi> Louis. &#125; ss;</p>
-<p>Be it remembered that on this the <date when="1861-12-02">Second day of December A.D. 1861</date> before me the undersigned Secretary of the Board of County Commissioners, and Ex officio County Clerk of said County personally came Rudolph Mackwitz who being duly sworn on his oath says that he will well and truly execute and perform all the duties of Commissioner of Deeds for the State of Kentucky, within the State of Missouri,</p>
+   <p><orgName ref="cwgk:O00018723">State of Missouri</orgName>
+<lb/><placeName ref="cwgk:P00018791">County of S<hi rend="underline"><hi rend="sup">t</hi></hi> Louis</placeName>. } ss;</p>
+<p>Be it remembered that on this the <date when="1861-12-02">Second day of December A.D. 1861</date> before me the undersigned Secretary of the Board of County Commissioners, and Ex officio County Clerk of said County personally came <persName ref="cwgk:N00018782">Rudolph Mackwitz</persName> who being duly sworn on his oath says that he will well and truly execute and perform all the duties of Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, within the State of Missouri,</p>
 <p>R Mackwitz</p>
 <p>Subscribed and sworn to before me at the City of S<hi rend="underline"><hi rend="sup">t</hi></hi> Louis, the date aforesaid</p>
 <p>Witness my hand and Official Seal,</p>
-<p>Sam<hi rend="sup">l</hi> N. Eager Jr
+<p><persName ref="cwgk:N00006531">Sam<hi rend="sup">l</hi> N. Eager Jr</persName>
 <lb/>Secretary &amp; Ex officio Clerk
 <lb/>of St. Louis County
 <lb/>Missouri,</p>
