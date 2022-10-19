@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018726">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry Martin</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018726">
+                    <persName>
+                      Henry Martin
+                        (Providence County, Rhode Island, justice of the peace, notary public, and commissioner of deeds)
+                    </persName>
+                        <event type="birth"  when="1792-06-11"  ><ab>1792-06-11</ab></event>
+                        <event type="death"  when="1879-03-05"  ><ab>1879-03-05</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Providence County, Rhode Island, conveyancer, justice of the peace, notary public, and commissioner of deeds. Rhode Island native. Married to Marcy Sheldon Martin in Providence County, Rhode Island, on October 6, 1811. Father of Julia H. Martin and Sarah S. Martin Fogg. Conveyancer in Providence County, Rhode Island, in 1850. Notary public in Providence County in 1853. Justice of the peace in in Providence County in 1853. Commissioner of deeds in Providence County in 1853. Notary public in Providence County in 1860. Justice of the peace in Providence County in 1860. Commissioner of deeds in Providence County in 1860. Notary public in Providence County in 1861. Commissioner of deeds for Kentucky in Rhode Island in 1862. Notary public in Providence County in 1863. Justice of the peace in Providence County in 1863. Notary public in Providence County in 1865. Justice of the peace in Providence County in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Providence County, Providence, Ward 4, p. 227B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Providence County, Providence, District 2, p. 5.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Providence County, Providence, District 2, p. 238B-239A. <lb/>
+<hi rend="italic">Rhode Island Vital Extracts, 1636-1850</hi> Narragansett Historical Publishing Company, Providence, Rhode Island, vol. 17, p. 469. <lb/>
+<hi rend="italic">The Providence Directory Containing Names of the Inhabitants, Their Occupations, Places of Business and of Residence,</hi> (Providence: H.H. Brown, 1853), 207.<lb/>
+<hi rend="italic">The Providence Directory, Containing a General Directory of the Citizens, Business Directory and City Record and a Variety of Useful Information,</hi> (Providence: Adams, Sampson &amp; Co., 1860), 97. <lb/>
+<hi rend="italic">The Providence Directory, Containing a General Directory of the Citizens, Business Directory and City Record and a Variety of Useful Information,</hi> (Providence: Adams, Sampson &amp; Co., 1861), 184.<lb/>
+<hi rend="italic">The Providence Directory, Containing a General Directory of the Citizens, Business Directory and City Record of the City Government,</hi> (Providence: Adams, Sampson &amp; Co., 1863), 95.<lb/>
+<hi rend="italic">The Providence Directory, Containing a General Directory of the Citizens, Business Directory and City Record of the City Government,</hi> (Providence: Adams, Sampson &amp; Co., 1865), 104.<lb/>
+&quot;Henry Martin (1792-1879),&quot; Find A Grave, Memorial 33496753, accessed October 3, 2022, http://www.findagrave.com/memorial/33496753.<lb/>
+KYR-0001-017-0291
+</bibl></ab>
+    </back>
+</text>
+</TEI>
