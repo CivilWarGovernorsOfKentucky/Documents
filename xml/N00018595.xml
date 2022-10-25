@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018595">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George W. Noble</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018595">
+                    <persName>
+                      George W. Noble
+                        (Union County, Ohio, boot and shoe maker.)
+                    </persName>
+                        <event type="birth"  when="1835-05-02"  ><ab>1835-05-02</ab></event>
+                        <event type="death"  when="1905-04-05"  ><ab>1905-04-05</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Union County, Ohio, boot and shoemaker. Allegheny County, Pennsylvania, native. Married to Ruth Young Noble in Meade County, Kentucky, on October 22, 1857. Father of Sarah E. Noble, Francis Noble, George Noble, and Susan Noble. Boot and shoemaker in Union County, Ohio, in 1860. Served in the 15th Ohio Infantry (U.S.A.) as a private.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Union County, Muskingum, p. 477.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Guernsey County, Cambridge, p. 385B. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Meade County Marriages, Film 000390323, p. 378.<lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Ohio, Roll 1158, Application 155020, Certificate 112436.<lb/>
+&quot;George Noble (1835-1905),&quot; Find A Grave, Memorial 102071680, accessed September 15, 2022, https://www.findagrave.com/memorial/102071680.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
