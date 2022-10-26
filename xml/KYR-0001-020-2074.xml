@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2074"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,22 +70,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>Whereas it is contemplated to apply to the Governor of Kentucky, for a pardon for Jordan, a slave formerly the property of R M Ewing of Scott County, and Abner, a slave, both now confined in the Penitentiary of Ky for life. Now this writing witnesseth that the said Jordan, and the said Abner, severally agree to accept a pardon and agree to be again restored to their original condition of servitude by sale as provided by the act of the General Assembly of the Commonwealth of Kentucky approved <date when="1862-03-17">March 17<hi rend="sup">th</hi> 1862</date> entitled an act to amend Section 25 Chapter 93 of Revised Statutes</p>
+   <p>Whereas it is contemplated to apply to the <persName ref="cwgk:N00000258">Governor of Kentucky</persName>, for a pardon for <persName ref="cwgk:N00018320">Jordan</persName>, a slave formerly the property of <persName ref="cwgk:N00018232">R M Ewing</persName> of <placeName ref="cwgk:P001030">Scott County</placeName>, and <persName ref="cwgk:N00018333">Abner</persName>, a slave, both now confined in the <orgName ref="cwgk:O00000266">Penitentiary of Ky</orgName> for life. Now this writing witnesseth that the said Jordan, and the said Abner, severally agree to accept a pardon and agree to be again restored to their original condition of servitude by sale as provided by the act of the <orgName ref="cwgk:O00000923">General Assembly</orgName> of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> approved <date when="1862-03-17">March 17<hi rend="sup">th</hi> 1862</date> entitled an act to amend Section 25 Chapter 93 of Revised Statutes</p>
 <p>Witness our hands 
 <lb/><date when="1862-07-21">July 21<hi rend="sup">st</hi> 1862</date></p>
 <p>Abner ^his X mark^
 <lb/>Jordan ^his X mark^</p>
 <p>This writing was read to and explained to Abner and Jordan the slaves above named and they consented as above stated and desired that their consent and agreement be signified by the above writing to which their names were placed in their presence by their<pb/>
 <lb/>request <date when="1862-07-21">July 21<hi rend="sup">st</hi> 1862</date></p>
-<p>Samuel,, South
-<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W Tate
-<lb/>Jas S <unclear>Saurs</unclear>
-<lb/>Robert W Lawler<pb/></p>
-<p>Graves Cir. Ct.
+<p><persName ref="cwgk:N00017460">Samuel,, South</persName>
+<lb/><persName ref="cwgk:N00001223">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W Tate</persName>
+<lb/><persName ref="cwgk:N00000463">Jas S <unclear>Saurs</unclear></persName>
+<lb/><persName ref="cwgk:N00000462">Robert W Lawler</persName><pb/></p>
+<p><orgName ref="cwgk:O00000382">Graves Cir. Ct.</orgName>
 <lb/>Abner (a Slave)
 <lb/>Manslaughter
 <lb/>Sentence "<hi rend="underline">for</hi> life"<figure type="hr"/></p>
-<p>Scott Cir Ct.
+<p><orgName ref="cwgk:O00000576">Scott Cir Ct.</orgName>
 <lb/>Jordan (a Slave)
 <lb/>Manslaughter
 <lb/>Sentence "for life"</p>
