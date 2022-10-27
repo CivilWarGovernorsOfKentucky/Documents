@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0178"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency the Governor of Kentucky
+   <p>To his Excellency the <persName ref="cwgk:N00000258">Governor of Kentucky</persName>
 <lb/> 
-<lb/>The undersigned would respectfully represent that at the <date when="1857-11">Nov<hi rend="sup">r</hi> term 1857</date> of the Muhlenberg circuit Court a judg<hi rend="underline"><hi rend="sup">t</hi></hi> was rendered against Joseph Willey on an Indictment charging him with the offense of giving or selling spirituous liquor to a slave named William, the property of Rebecca Salsbury. The verdict was obtained on the testimony of John C. Gibbs, who testified in substance that he, squatting down at his gate back of his saddle shop in Greenville, saw the deft hand from the back door of his grocery a bottle to said slave who took a drink therefrom and returned the bottle to the deft. That the deft was standing in his door at the time and that he did not see ^him^ elsewhere than in the door. A black smith shop interevened between said gate and the grocery, and from actual examination <hi rend="str">by</hi> made by the undersigned since the trial, they find it to be impossible for any one, <hi rend="str">stand</hi> whether standing, stooping or lying flat on the ground at the gate to see a man standing in the back door of the grocery or to see any part of the door in which said Gibbs stated the deft stood when the offense was said to have been committed. There had been a personal difficulty between Gibbs &amp; the deft and unfriendly feelings existed between them <hi rend="str">when the Indictment was</hi> at the time the prosecution was commenced. The deft was <hi rend="str">at that time</hi> a naturalized citizen being a German. The witness Gibbs was a bitter proscriptive "Know Nothing", and a man of weak mind and the most violent prejudices. One of the undersigned was of counsel for the deft in said prosecution and having attentively heard the testimony vouches for the foregoing statement thereof. No other witness testified to the main fact, and but the one offense or violation of the law was attempted to be proved. The undersigned, deeming that injustice has<pb/>
-<lb/>been done the deft, earnestly recommend him to Executive clemency, and ask that his fine, which now stands replevied, may be remitted. The deft <hi rend="str">his</hi> &amp; his family reside at Louisville, and he has not been in the county since the trial. He has a worthy family who are needy. They make the application at the request of the defts wife made through an acquaintance residing in Louisville, and are not influenced by any personal consideration in so doing, nor have they any interest therein. <hi rend="str">as they cann</hi> </p>
-<p>Charles Eaves
-<lb/>R S Russell
-<lb/>J. R Matthews</p>
+<lb/>The undersigned would respectfully represent that at the <date when="1857-11">Nov<hi rend="sup">r</hi> term 1857</date> of the <orgName ref="cwgk:O00000421">Muhlenberg circuit Court</orgName> a judg<hi rend="underline"><hi rend="sup">t</hi></hi> was rendered against <persName ref="cwgk:N00018813">Joseph Willey</persName> on an Indictment charging him with the offense of giving or selling spirituous liquor to a slave named <persName ref="cwgk:N00018612">William</persName>, the property of <persName ref="cwgk:N00018604">Rebecca Salsbury.</persName> The verdict was obtained on the testimony of<persName ref="cwgk:N00018603"> John C. Gibbs</persName>, who testified in substance that he, squatting down at his gate back of his saddle shop in <placeName ref="cwgk:P00000557">Greenville</placeName>, saw the deft hand from the back door of his grocery a bottle to said slave who took a drink therefrom and returned the bottle to the deft. That the deft was standing in his door at the time and that he did not see ^him^ elsewhere than in the door. A black smith shop interevened between said gate and the grocery, and from actual examination <hi rend="str">by</hi> made by the undersigned since the trial, they find it to be impossible for any one, <hi rend="str">stand</hi> whether standing, stooping or lying flat on the ground at the gate to see a man standing in the back door of the grocery or to see any part of the door in which said Gibbs stated the deft stood when the offense was said to have been committed. There had been a personal difficulty between Gibbs &amp; the deft and unfriendly feelings existed between them <hi rend="str">when the Indictment was</hi> at the time the prosecution was commenced. The deft was <hi rend="str">at that time</hi> a naturalized citizen being a German. The witness Gibbs was a bitter proscriptive "Know Nothing", and a man of weak mind and the most violent prejudices. One of the undersigned was of counsel for the deft in said prosecution and having attentively heard the testimony vouches for the foregoing statement thereof. No other witness testified to the main fact, and but the one offense or violation of the law was attempted to be proved. The undersigned, deeming that injustice has<pb/>
+<lb/>been done the deft, earnestly recommend him to Executive clemency, and ask that his fine, which now stands replevied, may be remitted. The deft <hi rend="str">his</hi> &amp; his family reside at <placeName ref="cwgk:P00000337">Louisville</placeName>, and he has not been in the <placeName ref="cwgk:P00000445">county</placeName> since the trial. He has a worthy family who are needy. They make the application at the request of the defts wife made through an acquaintance residing in Louisville, and are not influenced by any personal consideration in so doing, nor have they any interest therein. <hi rend="str">as they cann</hi> </p>
+<p><persName ref="cwgk:N00001730">Charles Eaves</persName>
+<lb/><persName ref="cwgk:N00001731">R S Russell</persName>
+<lb/><persName ref="cwgk:N00018611">J. R Matthews</persName></p>
 <p>Greenville Ky
 <lb/><date when="1860-05-08">May 8, 1860</date><pb/></p>
 <p>Muhlenburg cir ct</p>
@@ -77,7 +85,7 @@
 <lb/>Fine. Selling liquor to a slave -- 
 <lb/>Remitted
 <lb/>B. M.</p>
-<p>&#36;50. &#125; selling liquor to a slave
+<p>$50. } selling liquor to a slave
 <lb/>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Willey
 <lb/>Iss<hi rend="sup">d</hi> <date when="1860-11-22">Nov 22, 1860</date></p>
   </body>
