@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0261"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Albany, <date when="1861-12-02">December 2d, 1861.</date></p>
+   <p><placeName ref="cwgk:P00004971">Albany,</placeName> <date when="1861-12-02">December 2d, 1861.</date></p>
 <p>The undersigned have this day associated themselves, as partners, under the firm name of 
-<lb/>WOLFORD &amp; FROTHINGHAM,
-<lb/>in the Practice of Law, in all its branches, in the State and United States Courts. They will also give prompt attention to Collections, Investing Moneys, Negociating Loans, Conveyancing, &amp;c., &amp;c.; and, having Correspondents at Boston, Providence, Philadelphia, Cleveland, Detroit, Milwaukee, Iowa City and St. Paul, they will give their attention to such Legal Business as may arise in those localities, and which may be intrusted to their care.</p>
-<p>GEORGE WOLFORD.
-<lb/>WORTHINGTON FROTHINGHAM.</p>
-<p>N. B. -- Office No. 69 State Street, where hereafter Mr. Wolford will have his Chambers for the transaction of his official business as Albany County Judge.
+<lb/><orgName ref="cwgk:O00018806">WOLFORD &amp; FROTHINGHAM</orgName>,
+<lb/>in the Practice of Law, in all its branches, in the <orgName ref="cwgk:O00014237">State</orgName> and <orgName ref="cwgk:O00002945">United States</orgName> Courts. They will also give prompt attention to Collections, Investing Moneys, Negociating Loans, Conveyancing, &amp;c., &amp;c.; and, having Correspondents at <placeName ref="cwgk:P00000524">Boston</placeName>, <placeName ref="cwgk:P00018725">Providence</placeName>, <placeName ref="cwgk:P00001701">Philadelphia</placeName>, <placeName ref="cwgk:P00007358">Cleveland</placeName>, <placeName ref="cwgk:P00003302">Detroit</placeName>, <placeName ref="cwgk:P00005575">Milwaukee</placeName>, <placeName ref="cwgk:P00018808">Iowa City</placeName> and <placeName ref="cwgk:P00018809">St. Paul</placeName>, they will give their attention to such Legal Business as may arise in those localities, and which may be intrusted to their care.</p>
+<p><persName ref="cwgk:N00018807">GEORGE WOLFORD</persName>.
+<lb/><persName ref="cwgk:N00018802">WORTHINGTON FROTHINGHAM</persName>.</p>
+<p>N. B. -- Office No. 69 State Street, where hereafter Mr. Wolford will have his Chambers for the transaction of his official business as <placeName ref="cwgk:P00018804">Albany County</placeName> Judge.
 <lb/></p>
   </body>
  </text>
