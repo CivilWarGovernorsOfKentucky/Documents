@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018186">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Thomas Croxton</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018186">
+                    <persName>
+                      John Thomas Croxton
+                        (Bourbon County, Kentucky, attorney and soldier. )
+                    </persName>
+                        <event type="birth"  when="1836-11-20"  ><ab>1836-11-20</ab></event>
+                        <event type="death"  when="1874-04-16"  ><ab>1874-04-16</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Bourbon County, Kentucky, attorney and soldier. Bourbon County, Kentucky, native. Son of Henry Croxton and Ann K. Redmon Croxton. Married to Carrie A. Rogers Croxton in Bourbon County, Kentucky, on April 10, 1860. Father of Harry Croxton. Resident of Bourbon County in 1850. Household owned nine enslaved persons in 1850. Graduated from Yale College in New Haven, Connecticut, in 1857. Attorney in Bourbon County, Kentucky, in 1860. Served  in the 4th Kentucky Volunteer Infantry (U.S.A) as a lieutenant colonel and colonel from October 9, 1861 to July 30, 1864. Promoted to Brigadier General of Volunteers, July 30, 1864. Brevetted to Major General of Volunteers. Resigned December 26, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bourbon County, District 2, p. 238B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Bourbon County, District 2.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 485.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Bourbon County, Centerville, p. 270A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Bourbon County Marriages, Film 000183089.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 628-629.<lb/>
+&quot;John Thomas Croxton (1837-1874),&quot; Find A Grave, Memorial #5894083, accessed July 15, 2022, http://www.findagrave.com/memorial/5894083.<lb/>
+Francis Bernard Heitman<hi rend="italic">Historical Register and Dictionary of the United States Army, from its Organization, September 29, 1789 to March 2, 1903</hi> Volume 1, Part 2 (Washington: Government Printing Office, 1903), 342.<lb/>
+Rex Miller, &quot;John Thomas Croxton: Scholar, Lawyer, Soldier, Military Governor, Newspaperman, Diplomat and Mason,&quot; _The Register of the Kentucky Historical Society 74, No. 4 (October 1976): 281-299. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
