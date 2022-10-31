@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0656"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington <date when="1861-02-27">Feb 27 1861</date>
-<lb/>Gov. Magoffin
+   <p><placeName ref="cwgk:P001002">Lexington</placeName> <date when="1861-02-27">Feb 27 1861</date>
+<lb/><persName ref="cwgk:N00000258">Gov. Magoffin</persName>
 <lb/>D<hi rend="sup">r</hi> Sir,</p>
-<p>At the present Term of this Court an Indictment was found against Dennis Mulligan for Giving Liquor to a slave of O A Reynolds. I was present in the very town where the evidence was detailed. There was no proof of sale. Mulligan is a respectable grocer who does a large business, and I never heard him suspected of any thing of this sort before. He acknowledges that he gave the liquor to the slave, but says and I believe the statement that he intended no violation of the law. still it was a violation, and with the permission of the Court, he confessed Judgment for &#36;50 -- As I know Mulligan, and do not think he intended to do wrong, I have thought proper at his request to say this much to your excellency with the hope that you will grant him remission</p>
+<p>At the present Term of this <orgName ref="cwgk:O00000377">Court</orgName> an Indictment was found against <persName ref="cwgk:N00018762">Dennis Mulligan</persName> for Giving Liquor to a <persName ref="cwgk:N00018763">slave</persName> of <persName ref="cwgk:N00006296">O A Reynolds</persName>. I was present in the very town where the evidence was detailed. There was no proof of sale. Mulligan is a respectable grocer who does a large business, and I never heard him suspected of any thing of this sort before. He acknowledges that he gave the liquor to the slave, but says and I believe the statement that he intended no violation of the law. still it was a violation, and with the permission of the Court, he confessed Judgment for $50 -- As I know Mulligan, and do not think he intended to do wrong, I have thought proper at his request to say this much to your excellency with the hope that you will grant him remission</p>
 <p>Respectfully
-<lb/>W. S Downey
+<lb/><persName ref="cwgk:N00006117">W. S Downey</persName>
 <lb/>Com atty</p>
 <p>I concur in the above -- </p>
-<p>W C Goodloe
+<p><persName ref="cwgk:N00005270">W C Goodloe</persName>
 <lb/>Crct Judge<pb/></p>
-<p>Fayette</p>
+<p><placeName ref="cwgk:P001031">Fayette</placeName></p>
 <p>Remitted
 <lb/>B. M.</p>
 <p>Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-02-28">Feby 28 1861</date></p>
