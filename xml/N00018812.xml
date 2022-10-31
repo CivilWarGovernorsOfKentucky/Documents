@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018812">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas L. Sturgeon</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018812">
+                    <persName>
+                      Thomas L. Sturgeon
+                        (St. Louis, Missouri, lumberman)
+                    </persName>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
+                        <event type="death"  when="1875-07-11"  ><ab>1875-07-11</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>St. Louis, St. Louis County, Missouri, lumberman. Kentucky native. Son of Thomas Sturgeon and Eliza Tyler Sturgeon. Lumberman in St. Louis, Missouri, in 1860. Household owned one enslaved person in St. Louis in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Missouri, St. Louis County, St. Louis Ward 10, p. 434.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Missouri, St. Louis County, St. Louis Ward 10, p. 353A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Missouri, St. Louis County, St. Louis Ward 7, p. 595A.<lb/>
+&quot;Death of Thomas L. Sturgeon,&quot; <hi rend="italic">The St. Louis Republican</hi> (St. Louis, MO), July 14, 1875, p. 4.<lb/>
+Richard Edwards and M. Hopewell, <hi rend="italic">Edward&#39;s Great West and Her Commercial Metropolis, Embracing a General View of the West, and a Complete History of St. Louis, from the Landing of Ligueste, in 1764, to the Present Time; with Portraits and Biographies of Some of the Old Settlers, and Many of the Most Prominent Business Men</hi>, (St. Louis, MO: Edward&#39;s Monthly, 1860) p. 468.<lb/>
+John Robert Hume, <hi rend="italic">History of the Hume Family</hi> (St. Louis, MO: Hume Genealogical Association, 1903), pp. 174-177.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
