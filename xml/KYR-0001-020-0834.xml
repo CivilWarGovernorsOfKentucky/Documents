@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0834"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hopkinsville
+   <p><placeName ref="cwgk:P00002431">Hopkinsville</placeName>
 <lb/><date when="1861-03-22">March 22<hi rend="sup">d</hi> 1861</date>
-<lb/>Gov. Magoffin
-<lb/>Frankfort
-<lb/>Ky.
+<lb/><persName ref="cwgk:N00000258">Gov. Magoffin</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>
+<lb/><placeName ref="cwgk:P001800">Ky</placeName>.
 <lb/>My dear sir</p>
-<p>At the present term of the Christian Circuit one George Long -- a free man of color -- born and raised in our town was convicted of a misdemeanor and sentenced to pay a fine and to three months imprisonment in the County Jail.</p>
-<p>The offense with which he was charged was an assault upon a white man.</p>
+<p>At the present term of the <orgName ref="cwgk:O00000362">Christian Circuit</orgName> one <persName ref="cwgk:N00018780">George Long</persName> -- a free man of color -- born and raised in our town was convicted of a misdemeanor and sentenced to pay a fine and to three months imprisonment in the <orgName ref="cwgk:O00018781">County Jail</orgName>.</p>
+<p>The offense with which he was charged was an assault upon a white <persName ref="cwgk:N00018778">man</persName>.</p>
 <p>I am not accurately or minutely informed as to the facts -- that is -- I did not hear the trial. But from the statements of those who were present at the trial and cognizant of the facts I am well persuaded that George<hi rend="sup">s</hi> case <hi rend="str">presents</hi> ^is^ one that is entitled to executive clemency.</p>
 <p>I have known him from childhood. He belonged for many years to a highly respectable family of this place and with whom I have always been intimate. George has always been remarkable for his good behavior and especially for his humility and politeness. His former-owners say that he never was insolent or insubordinant and I have no doubt of the truth of their statements. For many years he lived a close neighbor to me and a more polite humble or better behaved boy I never<pb/>
 <lb/>knew. And until charged with this offense -- although he has been free for many years -- he has never been suspected of any impropriety even the least.</p>
 <p>I believe the community here would be highly gratified that he should be pardoned -- indeed there is a very decided desire that he should. And from my knowledge of George and the information I have of the facts, I do believe his case merits and should recieve the favorable consideration of your excellency</p>
 <p>Very Respfly
 <lb/>Yr friend
-<lb/>Henry J. Stites</p>
+<lb/><persName ref="cwgk:N00014370">Henry J. Stites</persName></p>
   </body>
  </text>
 </TEI>
