@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018795">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Samuel Read Anderson </title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018795">
+                    <persName>
+                      Samuel Read Anderson 
+                        (Nashville, Tennessee, soldier, bank cashier, and postmaster)
+                    </persName>
+                        <event type="birth"  when="1804"  ><ab>1804</ab></event>
+                        <event type="death"  when="1883-01-02"  ><ab>1883-01-02</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Nashville, Davidson County, Tennessee, soldier, bank cashier, and postmaster. Virginia native. Son of Robert Anderson. Married to Susan Miller Anderson. Father of Robert Anderson. Married to Mary J. Parker Turner Anderson. Father of Mary E. Anderson. Married to Married to Susan Trousdale Allen in Shelby County, Tennessee, on February 13, 1856. Father of May Anderson and Aaron Brown Anderson. Served in the 1st Tennessee Infantry as lieutenant colonel in the Mexican-American War. Bank Cashier in Nashville, Davidson County, Tennessee, in 1850. Owned nine enslaved persons in Nashville in 1850. Appointed postmaster in Nashville in 1857. Postmaster in Nashville in 1860. Owned three enslaved persons in Nashville in 1860. Commissioned Brigadier in the provisional army of the Confederate States of America on July 9, 1861. Recommissioned Brigadier General on November 4, 1864. Signed a loyalty oath to the U.S. government on June 5, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Davidson County, Nashville, p. 251A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Tennessee, Davidson County, South Nashville.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Davidson County, Nashville Ward 6, p. 451.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Tennessee, Davidson County, Nashville Ward 6, p. 256B.<lb/>
+<hi rend="italic">Case Files of Applications from Former Confederates for Presidential Pardons (&quot;Amnesty Papers&quot;), 1865-1867</hi>, NARA RG 94, Microfilm Series M1003, Roll 0048.<lb/>
+<hi rend="italic">Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men</hi>, NARA RG109, Microfilm Series M331, Roll 0007.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Soldiers Who Served During the Mexican War in Organizations from the State of Tennessee</hi>, NARA RG 94, Microfilm Series M638, Roll 0001.<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi> Records of the Post Office Department, NARA Series M841, RG 28, Davidson County, Tennessee, vol. 28, p. 31.<lb/>
+<hi rend="italic">Tennessee State Marriages, 1780-2002</hi>, Tennessee State Library and Archives, Nashville, TN, Shelby County, Volume 1, May 1820 - June 1858, p. 400.<lb/>
+Jay Guy Cisco ,<hi rend="italic">Historic Sumner County, Tennessee: With Genealogies of the Bledsoe, Cage, and Dougless Families and Genealogical Notes of Other Sumner County Families</hi> (Nashville, Tennessee: Folk-Keelin Printing Company, 1909), pg. 220.<lb/>
+&quot;Mary E. Anderson (1845-1847),&quot; Find A Grave, Memorial 8951148, accessed October 31, 2022, https://www.findagrave.com/memorial/8951148.<lb/>
+&quot;Samuel Read Anderson (1804-1883),&quot; Find A Grave, Memorial 9462009, accessed October 31, 2022, https://www.findagrave.com/memorial/9462009.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
