@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0244"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,20 +71,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>San Francisco <date when="1861-10-16">October 16th 1861</date>.
+   <p><placeName ref="cwgk:P00006526">San Francisco</placeName> <date when="1861-10-16">October 16th 1861</date>.
 <lb/>His Excellency
-<lb/>Hon Beriah Magoffin
-<lb/>Governor of the State of Kentucky,
+<lb/>Hon <persName ref="cwgk:N00000258">Beriah Magoffin</persName>
+<lb/>Governor of the State of <orgName ref="cwgk:O001025">Kentucky</orgName>,
 <lb/>Dear Sir.</p>
-<p>The undersigned a citizen of the state of California since <date when="1849">1849</date>, and a Notary Public in and for the County of San Francisco, would most respectfully but urgently request at the hands of your Excellency to be appointed a commissioner (resident in California) to take proofs and acknowledgments to be used in the state of Kentucky</p>
-<p>It would prehaps be unnecessary for me to refer your Excellency to third parties with reference to my standing as a citizen or my ability to fulfill the duties incumbent on such a commissioner -- from the fact that I now hold two commissions -- one from the Governor of the State of California as a Notary Public and one from the Governor of the state of Ohio as a commissioner for said state resident in California</p>
+<p>The undersigned a citizen of the state of <placeName ref="cwgk:P00002428">California</placeName> since <date when="1849">1849</date>, and a Notary Public in and for the County of San Francisco, would most respectfully but urgently request at the hands of your Excellency to be appointed a commissioner (resident in California) to take proofs and acknowledgments to be used in the state of <placeName ref="cwgk:P001800">Kentucky</placeName></p>
+<p>It would prehaps be unnecessary for me to refer your Excellency to third parties with reference to my standing as a citizen or my ability to fulfill the duties incumbent on such a commissioner -- from the fact that I now hold two commissions -- one from the <persName ref="cwgk:N00018825">Governor of the State of California</persName> as a Notary Public and one from the <persName ref="cwgk:N00014444">Governor of the state of Ohio</persName> as a commissioner for said state resident in California</p>
 <p>I have been induced to make this application to your Excellency -- for the reason that<pb/>
 <lb/>the bestowment of such a commission would be a source of profit to me -- but also a matter of great convenience to my friends and the public generally</p>
 <p>Your Excellency would therefore confer a great obligation upon the undersigned by giving this application a favorable consideration</p>
 <p>I have the honer to be
 <lb/>Your Excellency's
 <lb/>Obt Servt
-<lb/>James R. Garniss
+<lb/><persName ref="cwgk:N00018822">James R. Garniss</persName>
 <lb/>526 Sansome str.<pb/></p>
 <p>California<figure type="hr"/></p>
 <p>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
