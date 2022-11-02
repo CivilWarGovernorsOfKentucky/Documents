@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0270"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p><milestone unit="column" n="3"/><cb n="1"/>Geo. E. Harding. Prest.<cb n="2"/>CAPITAL &#36;1.500.000 <cb n="3"/>J. B. Cates, Cashier<milestone unit="column" n="1"/>
-<lb/>Union Bank of Missouri
-<lb/>St. Louis <date when="1861-12-03">Decr 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1861</date>
-<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Tate Esqr
-<lb/>ass sec of State of Ky
-<lb/>Frankfort
+   <p><milestone unit="column" n="3"/><cb n="1"/><persName ref="cwgk:N00018776">Geo. E. Harding</persName>. Prest.<cb n="2"/>CAPITAL $1.500.000 <cb n="3"/><persName ref="cwgk:N00018777">J. B. Cates</persName>, Cashier<milestone unit="column" n="1"/>
+<lb/><orgName ref="cwgk:O00018783">Union Bank of Missouri</orgName>
+<lb/><placeName ref="cwgk:P00003268">St. Louis</placeName> <date when="1861-12-03">Decr 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1861</date>
+<lb/><persName ref="cwgk:N00001223">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Tate</persName> Esqr
+<lb/>ass sec of State of <orgName ref="cwgk:O001025">Ky</orgName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>
 <lb/>D<hi rend="sup">r</hi> Sir,</p>
-<p>Yours of <date when="1860-11-29">29" ult rec<hi rend="sup">d</hi></date> this A.M. enclosing commission for Mr Rudolph Mackwitz,,</p>
+<p>Yours of <date when="1860-11-29">29" ult rec<hi rend="sup">d</hi></date> this A.M. enclosing commission for Mr <persName ref="cwgk:N00018782">Rudolph Mackwitz</persName>,,</p>
 <p>I herein return You his oath of office, and also five Dollars State Tax</p>
 <p>Yours Respt
 <lb/><hi rend="underline">Geo. E. Harding</hi><pb/></p>
-<p>Missouri<figure type="hr"/></p>
+<p><placeName ref="cwgk:P00001883">Missouri</placeName><figure type="hr"/></p>
 <p>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>Rudolph Mackwitz
 <lb/>Oath<figure type="hr"/></p>
