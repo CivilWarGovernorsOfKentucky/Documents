@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0281"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,7 +70,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>Make out Commission for M<hi rend="underline"><hi rend="sup">r</hi></hi> Abe Boyd as Notary public of M<hi rend="sup">c</hi>Cracken County</p>
+   <p>Make out Commission for M<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N00002433">Abe Boyd</persName> as Notary public of <placeName ref="cwgk:P00000909">M<hi rend="sup">c</hi>Cracken County</placeName></p>
   </body>
  </text>
 </TEI>
