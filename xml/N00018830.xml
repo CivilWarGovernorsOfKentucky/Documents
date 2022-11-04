@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018830">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas E. Moss</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018830">
+                    <persName>
+                      Thomas E. Moss
+                        (McCracken County, Kentucky, notary public and soldier)
+                    </persName>
+                        <event type="birth"  when="1839-02-14"  ><ab>1839-02-14</ab></event>
+                        <event type="death"  when="1905-08-02"  ><ab>1905-08-02</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>McCracken County, Kentucky, notary public and soldier. Kentucky native. Notary public in McCracken County, Kentucky. Served in the 2nd Kentucky Volunteer Infantry Regiment (C.S.A.) as a private, sergeant major, adjutant, and first lieutenant from July 5, 1861 to 1865.<lb/>
+Wounded and captured at Battle of Fort Donelson, Tennessee. Prisoner of war at Fort Donelson, Tennessee on February 16, 1862 to April 10, 1862. Prisoner of war on Johnson&#39;s Island, Ohio, from April 10, 1862 to September 1, 1862. Returned to Confederate service in October 1862. Wounded and captured at the Battle of Murfreesboro, Tennessee, on January 2, 1863. Prisoner of war at Military Prison at Louisville, Kentucky on May 2, 1863 to May 8, 1863. Prisoner of war at Fort Delaware, Delaware, on May 8. 1863. Wounded near Atlanta, Georgia, on August 20, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, McCracken County, Paducah, p. 130A. <lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0085.<lb/>
+&quot;Major Thomas Edward Moss (1839-1905),&quot; Find A Grave, Memorial 87602972, accessed November 1, 2022, http://www.findagrave.com/memorial/87602972.<lb/>
+KYR-0001-017-0279. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
