@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018834">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Daniel H. Hughes</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Matthew Roberts</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018834">
+                    <persName>
+                      Daniel H. Hughes
+                        (Morganfield, Kentucky, resident, attorney, and notary public)
+                    </persName>
+                        <event type="birth"  when="1833-07-17"  ><ab>1833-07-17</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Union County, Kentucky, resident, attorney, and notary public. Springfield, Kentucky native. Son of John Reed Hughes and Martha Nantz Hughes. Married to Wright Parker Hughes in Union County, Kentucky, on December 18, 1855. Father of Bettie Hughes, Mattie Hughes, Henry Hughes, and George P. Hughes. Graduated from Central College at Boyle County on June 26, 1852. Resident of Washington County in 1850. Household owned nineteen enslaved persons in Washington County in 1850. Attorney in the law firm of Hughes, Dallam, &amp; Hughes in Union County in 1860. Owned three enslaved persons in Union County in 1860. Notary public in Union County.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Washington County, p. 230B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Kentucky, Washington County, p. 32.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, Morganfield, p. 528.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Union County, Morganfield, p. 416A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Union County, Morganfield, p. 350B. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Union County Marriages, Film 000562202.<lb/>
+Mary Cooley Bassett, <hi rend="italic">Lineage Book: National Society of the Daughters of the American Revolution</hi> (Harrisburg, PA: Telegraph Printing Company, 1912), pg. 5.<lb/>
+<hi rend="italic">History of Union County, Kentucky</hi>, (Evansville, IND: Courier Co., Printers, Binders and Engravers, 1886), v. 1, pgs. 192-193.<lb/>
+KYR-0001-017-0279.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
