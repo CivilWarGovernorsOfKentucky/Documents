@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017678">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Farris Scott</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>MontanaWilliamson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017678">
+                    <persName>
+                      William Farris Scott
+                        (Pulaski County, Kentucky, physician.)
+                    </persName>
+                        <event type="birth"  when="1828-03-07"  ><ab>1828-03-07</ab></event>
+                        <event type="death"  when="1910-10-26"  ><ab>1910-10-26</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Pulaski County, Kentucky, physician and surgeon. Kentucky native. Married to Margaret Bradley Scott in Pulaski County, Kentucky, on December 9, 1858. Father of John Dowell Scott and Anne C. Scott. Physician in Pulaski County in 1860. Served in the 32nd Kentucky Volunteer Infantry (U.S.A.) as a surgeon from February 17, 1863, to August 12, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pulaski County, Somerset, p. 151.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Pulaski County, Somerset, p. 384B. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0402.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Pulaski County Marriages, Film 000804052.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 302, 950.<lb/>
+&quot;Finger of Death Touches Pulse of Aged Physician,&quot; <hi rend="italic">The Lexington Herald</hi> (Lexington, KY), October 27, 1910, p. 1.<lb/>
+&quot;Dr. William Farris Scott (1828-1910),&quot; Find A Grave, Memorial 12300871, accessed June 2, 2022, https://www.findagrave.com/memorial/12300871.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
