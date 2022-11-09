@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0279"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,24 +72,24 @@
   <body>
    <p><table rend="rules">
 <row>
-	<cell>J. J. Hawes</cell>
+	<cell><persName ref="cwgk:N00013911">J. J. Hawes</persName></cell>
 	<cell>Notary</cell>
-	<cell>Jefferson &#x2713; Co</cell>
+	<cell><placeName ref="cwgk:P001005">Jefferson ✓ Co</placeName></cell>
 </row>
 <row>
-	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Muir</cell>
+	<cell><persName ref="cwgk:N00018815">W<hi rend="underline"><hi rend="sup">m</hi></hi> Muir</persName></cell>
 	<cell>"</cell>
-	<cell>" &#x2713;</cell>
+	<cell>" ✓</cell>
 </row>
 <row>
-	<cell>J. F Bullitt</cell>
+	<cell><persName ref="cwgk:N00002032">J. F Bullitt</persName></cell>
 	<cell>"</cell>
-	<cell>" &#x2713;</cell>
+	<cell>" ✓</cell>
 </row>
 <row>
-	<cell>J. R, Montgomery</cell>
+	<cell><persName ref="cwgk:N00018821">J. R, Montgomery</persName></cell>
 	<cell>"</cell>
-	<cell>" &#x2713;</cell>
+	<cell>" ✓</cell>
 </row>
 <row>
 	<cell><hi rend="str">Noah Spears</hi></cell>
@@ -89,54 +97,54 @@
 	<cell>"</cell>
 </row>
 <row>
-	<cell>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Alcom</cell>
+	<cell><persName ref="cwgk:N00018826">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Alcom</persName></cell>
 	<cell/>
-	<cell>Lincoln &#x2713;</cell>
+	<cell><placeName ref="cwgk:P00005395">Lincoln</placeName> ✓</cell>
 </row>
 <row>
-	<cell>John M<hi rend="underline"><hi rend="sup">c</hi></hi>Neal</cell>
+	<cell><persName ref="cwgk:N00018827">John M<hi rend="underline"><hi rend="sup">c</hi></hi>Neal</persName></cell>
 	<cell/>
-	<cell>Shelby &#x2713;</cell>
+	<cell><placeName ref="cwgk:P001013">Shelby </placeName>✓</cell>
 </row>
 <row>
-	<cell>Tho. E. Moss</cell>
+	<cell><persName ref="cwgk:N00018830">Tho. E. Moss</persName></cell>
 	<cell> -- </cell>
-	<cell>M<hi rend="underline"><hi rend="sup">c</hi></hi>Cracken &#x2713;</cell>
+	<cell><placeName ref="cwgk:P00000909">M<hi rend="underline"><hi rend="sup">c</hi></hi>Cracken</placeName> ✓</cell>
 </row>
 <row>
-	<cell>C. H. Barclay </cell>
+	<cell><persName ref="cwgk:N00018831">C. H. Barclay</persName> </cell>
 	<cell> -- </cell>
-	<cell>Jefferson &#x2713;</cell>
+	<cell>Jefferson ✓</cell>
 </row>
 <row>
-	<cell>W, R, Welch</cell>
+	<cell><persName ref="cwgk:N00018832">W, R, Welch</persName></cell>
 	<cell/>
-	<cell>Jessamine &#x2713;</cell>
+	<cell><placeName ref="cwgk:P00003416">Jessamine</placeName> ✓</cell>
 </row>
 <row>
-	<cell>D. H. Hughes</cell>
+	<cell><persName ref="cwgk:N00018834">D. H. Hughes</persName></cell>
 	<cell/>
-	<cell>Union &#x2713;</cell>
+	<cell><placeName ref="cwgk:P00001845">Union</placeName> ✓</cell>
 </row>
 <row>
-	<cell>Noah Spears</cell>
+	<cell><persName ref="cwgk:N00018835">Noah Spears</persName></cell>
 	<cell/>
-	<cell>Scott &#x2713;</cell>
+	<cell><placeName ref="cwgk:P001030">Scott</placeName> ✓</cell>
 </row>
 <row>
-	<cell>Jno C Hansbro</cell>
+	<cell><persName ref="cwgk:N00003232">Jno C Hansbro</persName></cell>
 	<cell/>
-	<cell>Fayette &#x2713;</cell>
+	<cell><placeName ref="cwgk:P001031">Fayette</placeName> ✓</cell>
 </row>
 <row>
-	<cell>Sherrod Burten</cell>
+	<cell><persName ref="cwgk:N00018383">Sherrod Burten</persName></cell>
 	<cell/>
-	<cell>Boyle &#x2713;</cell>
+	<cell><placeName ref="cwgk:P00002353">Boyle</placeName> ✓</cell>
 </row>
 <row>
-	<cell>P. B Poindexter</cell>
+	<cell><persName ref="cwgk:N00018836">P. B Poindexter</persName></cell>
 	<cell/>
-	<cell>Jefferson &#x2713;</cell>
+	<cell>Jefferson ✓</cell>
 </row>
 </table></p>
   </body>
