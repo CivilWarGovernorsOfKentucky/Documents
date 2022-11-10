@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">G. W. Robb</title>
+        <title level="a" type="main">George W. Robb</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,11 @@
         <particDesc>
                 <person xml:id="N00009268">
                     <persName>
-                      G. W. Robb
+                      George W. Robb
                         (Franklin County Merchant)
                     </persName>
-                        <event type="birth"  when="1830"  ><ab>1830</ab></event>
+                        <event type="birth"  when="1825-03-13"  ><ab>1825-03-13</ab></event>
+                        <event type="death"  when="1892-03-25"  ><ab>1892-03-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,11 +56,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Franklin County, Kentucky, merchant. Kentucky native. Merchant in Franklin County in 1860.</p>
+        <p>Franklin County, Kentucky, merchant. Kentucky native. Married to Elizabeth Macklin Robb. Father of Mattie Robb, Mary Robb, and Willis Robb. Clerk in Franklin County, Kentucky, in 1850. Merchant in Franklin County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 246.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 52A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 246.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Woodford County, Milville, p. 488A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994034, Franklin County Births.<lb/>
+&quot;Death of George W. Robb,&quot; <hi rend="italic">The Courier-Journal</hi> (Louisville, KY), March 26, 1892, p. 2.<lb/>
+&quot;George W. Robb (1825-1892),&quot; Find A Grave, Memorial 42390634, accessed November 10, 2022, https://www.findagrave.com/memorial/42390634.
 </bibl></ab>
     </back>
 </text>
