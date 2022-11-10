@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0134"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Flemingsburg <date when="1862-12-15">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
-<lb/>To His Excellency James F. Robinson -- 
-<lb/>Gov. of Kentucky
+   <p><placeName ref="cwgk:P00000538">Flemingsburg</placeName> <date when="1862-12-15">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/>To His Excellency <persName ref="cwgk:N001004">James F. Robinson</persName> -- 
+<lb/>Gov. of <orgName ref="cwgk:O001025">Kentucky</orgName>
 <lb/>Dear Sir</p>
-<p>I enclose herewith the verified petition of William Beaucamp as also a petition signed by a good number of his neighbours asking your Excellency to reprieve said Beaucamp from the prosecution two Indictments pending against him in the Fleming Circuit Court. And I would respectfully state that I am personally acquainted with Beaucamp and all or nearly all the persons who have signed his petition -- I was also to some extent cognizant of the affray between Beaucamp and Keithly -- and I am of the opinion that Beaucamp tells the truth about it in his petition -- I moreover believe that his prosecution is not desired, and that as he desires to leave the state I respectfully unite with others <hi rend="str">a</hi> in praying your Excellency to reprieve him -- Beaucamp is a mechanic, industrious and respectable -- with a large and helpless family of little children -- Keithly is a very disreputable, bad man -- I trust you will consider it consistent with your duty to reprieve Beaucamp -- </p>
+<p>I enclose herewith the verified petition of <persName ref="cwgk:N00007119">William Beaucamp</persName> as also a petition signed by a good number of his neighbours asking your Excellency to reprieve said Beaucamp from the prosecution two Indictments pending against him in the <orgName ref="cwgk:O00000379">Fleming Circuit Court</orgName>. And I would respectfully <placeName ref="cwgk:P001800">state</placeName> that I am personally acquainted with Beaucamp and all or nearly all the persons who have signed his petition -- I was also to some extent cognizant of the affray between Beaucamp and <persName ref="cwgk:N00007120">Keithly</persName> -- and I am of the opinion that Beaucamp tells the truth about it in his petition -- I moreover believe that his prosecution is not desired, and that as he desires to leave the state I respectfully unite with others <hi rend="str">a</hi> in praying your Excellency to reprieve him -- Beaucamp is a mechanic, industrious and respectable -- with a large and helpless family of little children -- Keithly is a very disreputable, bad man -- I trust you will consider it consistent with your duty to reprieve Beaucamp -- </p>
 <p>I am Dear Sir
 <lb/>Your ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
 <lb/><hi rend="underline">L. M. Cox</hi><pb/></p>
 <p>L M Cox letter &amp; Pettn</p>
 <p>His Excellency Jas. F. Robinson
 <lb/>Gov. of Ky,
-<lb/>Frankfort
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>
 <lb/>Ky.</p>
 <p>Examined
 <lb/>The grounds for relief in this case are all reliable before a Jury &amp; will in all probability there avail -- It is a very dangerous exercise of Executive power to omit the trial by jury. Surely no ground that it is inconvenient to the accused to await &amp; atttend the trial -- The Executive in my opinion should not interfere in the <unclear>present</unclear> prosecution of this case</p>
