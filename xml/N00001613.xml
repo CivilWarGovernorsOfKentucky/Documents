@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">A Kahr</title>
+        <title level="a" type="main">Adam Kahr</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Courtney Buchkoski</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Emily D. Moses</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00001613">
                     <persName>
-                      A Kahr
+                      Adam Kahr
                         (Franklin County, Kentucky)
                     </persName>
+                        <event type="birth"  when="1826-12-15"  ><ab>1826-12-15</ab></event>
+                        <event type="death"  when="1884-11-24"  ><ab>1884-11-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on bahalf of Michael Scott in Franklin County in 1860.</p>
+        <p>Frankfort, Franklin County, Kentucky, grocer and basket maker. Native of Germany. Married to Margaret Buchter Kahr in Jefferson County, Kentucky, on May 20, 1849. Father of Diana Kahr, Margaret Kahr, Elizabeth Kahr, Wilhelmina Kahr, Catharine Kahr, Adam Kahr, and Mary Kahr. Basket marker in Louisville, Jefferson County, Kentucky, in 1850. Grocer in Frankfort in 1860. Basket maker in Frankfort in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1490
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville District 3, p. 286B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort District 1, p. 248.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 16B. <lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Franklin County, KY, July 1863, p. 7.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film 000482707.<lb/>
+&quot;Our Dead,&quot; <hi rend="italic">The Frankfort Roundabout</hi> (Frankfort, KY), November 29, 1884, p. 2.<lb/>
+&quot;Adam Kahr (1826-1884),&quot; Find A Grave, Memorial 148700231, accessed November 14, 2022, https://www.findagrave.com/memorial/148700231.
 </bibl></ab>
     </back>
 </text>
