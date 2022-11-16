@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. W. Lawler</title>
+        <title level="a" type="main">Robert W. Lawler</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
@@ -47,9 +55,11 @@
         <particDesc>
                 <person xml:id="N00000462">
                     <persName>
-                      R. W. Lawler
-                        (Employee of the Kentucky State Penitentiary in Frankfort, Kentucky)
+                      Robert W. Lawler
+                        (Franklin County, Kentucky, prison guard)
                     </persName>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
+                        <event type="death"  when="1884"  ><ab>1884</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -58,11 +68,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Employee of the Kentucky State Penitentiary in Frankfort, Kentucky, in 1863.</p>
+        <p>Franklin County, Kentucky, prison guard. Kentucky native. Married to Martha J. Reese Lawler. Father of Sarah Lawler and Addie Lawler. Resident of Franklin County, Kentucky, in 1860. Prison guard in Franklin County in 1863. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0524
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 271.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 143A.<lb/>
+<hi rend="italic">Consolidated List of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Franklin County, KY, July 1863, p. 8.<lb/>
+&quot;Resolution of Respect,&quot; <hi rend="italic">The Frankfort Roundabout</hi> (Frankfort, KY), April 26, 1884, p. 3.
 </bibl></ab>
     </back>
 </text>
