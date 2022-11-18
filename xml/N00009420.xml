@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,10 @@
                 <person xml:id="N00009420">
                     <persName>
                       John K. Faulkner
-                        (Colonel USA 7th Cavalry Kentucky)
+                        (Garrard County, Kentucky, farmer and soldier.)
                     </persName>
+                        <event type="birth"  when="1838-12-27"  ><ab>1838-12-27</ab></event>
+                        <event type="death"  when="1895-01-07"  ><ab>1895-01-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky soldier. Colonel in the 7th Kentucky Volunteer Cavalry Regiment (U.S.A.) from May 7, 1863 to July 10, 1865. </p>
+        <p>Garrard County, Kentucky, farmer and soldier. Married to Elizabeth Bell Faulkner in Cincinnati, Hamilton County, Ohio, on September 7, 1859. Father of John Faulkner. Farmer in Garrard County, Kentucky, in 1860. Owned eighteen enslaved persons in Garrard County in 1860. Served in the 7th Kentucky Volunteer Cavalry Regiment (U.S.A.) as a major, lieutenant colonel, and colonel from April 16, 1862 to July 10, 1865. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 180-181.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Garrard County, p. 765.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Garrard County, p. 34B.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0078.<lb/>
+<hi rend="italic">Ohio Marriage Records, 1774-1993</hi>, Hamilton County Marriages, Film 001689805, p. 43.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 180-181.<lb/>
+&quot;John Kavanaugh Faulkner (1838-1895),&quot; Find A Grave, Memorial 10434738, accessed November 11, 2022, http://www.findagrave.com/memorial/10434738.
 </bibl></ab>
     </back>
 </text>
