@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0017"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Ian Iverson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,98 +73,98 @@
   <body>
    <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
 <lb/>KENTUCKY.</ab></figure>
-<lb/>Head-Quarters Kentucky Volunteers,
-<lb/>ADJUTANT GENERAL'S OFFICE,
-<lb/>Frankfort, <date when="1863-11-11">November 11<hi rend="underline"><hi rend="sup">th</hi></hi><hi rend="sup"> </hi>1863</date>.
+<lb/>Head-Quarters <orgName ref="cwgk:O00000870">Kentucky Volunteers</orgName>,
+<lb/><orgName ref="cwgk:O00000388">ADJUTANT GENERAL'S OFFICE</orgName>,
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1863-11-11">November 11<hi rend="underline"><hi rend="sup">th</hi></hi><hi rend="sup"> </hi>1863</date>.
 <lb/>His Excellency
-<lb/>Governor Tho<hi rend="sup">s </hi>E Bramlette
+<lb/>Governor <persName ref="cwgk:N001000">Tho<hi rend="sup">s </hi>E Bramlette</persName>
 <lb/>Sir,</p>
 <p>I have the honor to report that the following are the Regiments whose time of service expires in 1864 and 1865 with the respective dates of each -- </p>
 <p><table rend="rules">
 <row>
 	<cell>*</cell>
-	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Cav<hi rend="underline"><hi rend="sup">y</hi></hi></cell>
-	<cell>Wolford (D. O)</cell>
+	<cell><orgName ref="cwgk:O00005136">1<hi rend="underline"><hi rend="sup">st</hi></hi> Cav<hi rend="underline"><hi rend="sup">y</hi></hi></orgName></cell>
+	<cell><persName ref="cwgk:N00005137">Wolford</persName> <orgName ref="cwgk:O001001">(D. O)</orgName></cell>
 	<cell><date when="1864-10-28">October 28. 1864</date>.</cell>
 </row>
 <row>
 	<cell>*</cell>
 	<cell><hi rend="str">2</hi><hi rend="underline"><hi rend="sup">nd</hi></hi> "</cell>
-	<cell>Board (D C)</cell>
+	<cell><persName ref="cwgk:N00018182">Board</persName> <orgName ref="cwgk:O00000733">(D C)</orgName></cell>
 	<cell><date when="1864-09-09">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 9. 1864</date>.</cell>
 </row>
 <row>
 	<cell>*</cell>
 	<cell><hi rend="str">3</hi><hi rend="underline"><hi rend="sup">rd</hi></hi> "</cell>
-	<cell>Murray (D. C)</cell>
+	<cell><persName ref="cwgk:N00013530">Murray</persName> (D. C)</cell>
 	<cell><date when="1864-12-13">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 13. 1864</date>.</cell>
 </row>
 <row>
 	<cell>*</cell>
 	<cell><hi rend="str">4</hi><hi rend="underline"><hi rend="sup">th</hi></hi> "</cell>
-	<cell>Cooper. (D. C)</cell>
+	<cell><persName ref="cwgk:N00008423">Cooper</persName>. (D. C)</cell>
 	<cell><date when="1864-12-13">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 13 1864</date>.</cell>
 </row>
 <row>
 	<cell/>
-	<cell>5<hi rend="underline"><hi rend="sup">th</hi></hi> "</cell>
-	<cell>Haggard. (D. C)</cell>
+	<cell><orgName ref="cwgk:O00005302">5<hi rend="underline"><hi rend="sup">th</hi></hi> "</orgName></cell>
+	<cell><persName ref="cwgk:N00005324">Haggard</persName>. (D. C)</cell>
 	<cell><date when="1865-03-31">March 31. 1865</date>.</cell>
 </row>
 <row>
 	<cell/>
-	<cell>6<hi rend="underline"><hi rend="sup">th</hi></hi> "</cell>
-	<cell>Watkins (D. C)</cell>
+	<cell><orgName ref="cwgk:O00009378">6<hi rend="underline"><hi rend="sup">th</hi></hi> "</orgName></cell>
+	<cell><persName ref="cwgk:N00005765">Watkins</persName> (D. C)</cell>
 	<cell><date when="1864-12-23">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 23. 1864</date> &amp; <date when="1865-09-15">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 15. 1865</date></cell>
 </row>
 <row>
 	<cell/>
-	<cell>7<hi rend="underline"><hi rend="sup">th</hi></hi> "</cell>
-	<cell>Faulkner (D. C)</cell>
+	<cell><orgName ref="cwgk:O00006342">7<hi rend="underline"><hi rend="sup">th</hi></hi> "</orgName></cell>
+	<cell><persName ref="cwgk:N00009420">Faulkner</persName> (D. C)</cell>
 	<cell><date when="1865-08-16">Aug<hi rend="underline"><hi rend="sup">t</hi></hi> 16<hi rend="underline"><hi rend="sup">th</hi></hi></date> <date when="1865-08-19">19<hi rend="underline"><hi rend="sup">th</hi></hi></date> &amp; <date when="1865-09-29">Sept<hi rend="sup">r</hi> 29. 1865</date>.</cell>
 </row>
 <row>
 	<cell/>
-	<cell>11<hi rend="underline"><hi rend="sup">th</hi></hi> "</cell>
-	<cell>Alexander (D. O)</cell>
+	<cell><orgName ref="cwgk:O00005233">11<hi rend="underline"><hi rend="sup">th</hi></hi> "</orgName></cell>
+	<cell><persName ref="cwgk:N00005792">Alexander</persName> (D. O)</cell>
 	<cell><date when="1865-09-22">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 22. 1865</date>.</cell>
 </row>
 </table></p>
 <p><table rend="rules">
 <row>
 	<cell>*</cell>
-	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Infantry</cell>
-	<cell>Enyart (D. C)</cell>
+	<cell><orgName ref="cwgk:O00010542">1<hi rend="underline"><hi rend="sup">st</hi></hi> Infantry</orgName></cell>
+	<cell><persName ref="cwgk:N00012999">Enyart</persName> (D. C)</cell>
 	<cell><date when="1864-06-04">June 4<hi rend="underline"><hi rend="sup">th</hi></hi></date> to <date when="1864-06-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></cell>
 </row>
 <row>
 	<cell>*</cell>
-	<cell>2<hi rend="underline"><hi rend="sup">d</hi></hi> "</cell>
-	<cell>Sedgewick (D. C)</cell>
+	<cell><orgName ref="cwgk:O00009977">2<hi rend="underline"><hi rend="sup">d</hi></hi> "</orgName></cell>
+	<cell><persName ref="cwgk:N00018185">Sedgewick</persName> (D. C)</cell>
 	<cell><date when="1864-05-31">May 31</date>. to <date when="1864-06-13">June 13. 1864</date></cell>
 </row>
 <row>
 	<cell>*</cell>
 	<cell><hi rend="str">3</hi><hi rend="underline"><hi rend="sup">th</hi></hi> "</cell>
-	<cell>Dunlap (D. C)</cell>
+	<cell><persName ref="cwgk:N00010050">Dunlap</persName> (D. C)</cell>
 	<cell><date when="1864-10-08">October 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.</cell>
 </row>
 <row>
 	<cell>*</cell>
 	<cell><hi rend="str">4</hi><hi rend="underline"><hi rend="sup">th</hi></hi> "</cell>
-	<cell>Croxton (D. C)</cell>
+	<cell><persName ref="cwgk:N00018186">Croxton</persName> (D. C)</cell>
 	<cell><date when="1864-10-09">October 9. 1864</date></cell>
 </row>
 <row>
 	<cell>*</cell>
 	<cell><hi rend="str">5</hi><hi rend="underline"><hi rend="sup">th</hi></hi> "</cell>
-	<cell>Berry (D. C)</cell>
+	<cell><persName ref="cwgk:N00018193">Berry</persName> (D. C)</cell>
 	<cell><date when="1864-09-09">Sept. 9. 1864</date></cell>
 </row>
 <row>
 	<cell>*</cell>
 	<cell><hi rend="str">6</hi><hi rend="underline"><hi rend="sup">th</hi></hi> "</cell>
-	<cell>Shackleford (D. C)</cell>
+	<cell><persName ref="cwgk:N00013200">Shackleford</persName> (D. C)</cell>
 	<cell><date when="1864-09-09">Sept 9<hi rend="underline"><hi rend="sup">th</hi></hi></date> &amp; <date when="1864-12-24">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 24. 1864</date></cell>
 </row>
 </table><pb/></p>
@@ -164,133 +172,133 @@
 <row>
 	<cell>*</cell>
 	<cell><hi rend="str">7</hi><hi rend="underline"><hi rend="sup">"</hi></hi> Infantry</cell>
-	<cell>May (D. G)</cell>
+	<cell><persName ref="cwgk:N00018197">May</persName><orgName ref="cwgk:O00018190"> (D. G)</orgName></cell>
 	<cell><date when="1864-09-22">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 22. 1864</date>.</cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>8<hi rend="underline"><hi rend="sup">"</hi></hi> "</cell>
-	<cell>Barnes. (D. C)</cell>
+	<cell><orgName ref="cwgk:O00018189">8<hi rend="underline"><hi rend="sup">"</hi></hi> "</orgName></cell>
+	<cell><persName ref="cwgk:N00018198">Barnes</persName>. (D. C)</cell>
 	<cell><date when="1865-01-15">Jan<hi rend="sup">y</hi> 15. 1865</date></cell>
 </row>
 <row>
 	<cell>*</cell>
 	<cell><hi rend="str">9</hi><hi rend="underline"><hi rend="sup">"</hi></hi> "</cell>
-	<cell>Cram. (D C)</cell>
+	<cell><persName ref="cwgk:N00018201">Cram</persName>. (D C)</cell>
 	<cell><date when="1864-11-26">November 26<hi rend="underline"><hi rend="sup">"</hi></hi> 1864</date></cell>
 </row>
 <row>
 	<cell>*</cell>
 	<cell><hi rend="str">10</hi><hi rend="underline"><hi rend="sup">"</hi></hi> "</cell>
-	<cell>Hays. (D. C)</cell>
+	<cell><persName ref="cwgk:N00001581">Hays</persName>. (D. C)</cell>
 	<cell><date when="1864-11-24">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 24<hi rend="underline"><hi rend="sup">"</hi></hi> 1864</date></cell>
 </row>
 <row>
 	<cell>*</cell>
-	<cell>11<hi rend="sup">"</hi> "</cell>
-	<cell>Hawkins (D. O)</cell>
+	<cell><orgName ref="cwgk:O00002636">11<hi rend="sup">"</hi> "</orgName></cell>
+	<cell><persName ref="cwgk:N00002638">Hawkins</persName> (D. O)</cell>
 	<cell><date when="1864-12-09">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 9<hi rend="underline"><hi rend="sup">"</hi></hi> 1864</date></cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>12" "</cell>
-	<cell>Hoskins. (D. O)</cell>
+	<cell><orgName ref="cwgk:O00013049">12" "</orgName></cell>
+	<cell><persName ref="cwgk:N00013326">Hoskins</persName>. (D. O)</cell>
 	<cell><date when="1865-01-31">Jan<hi rend="sup">y</hi> 31 1865</date></cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>13<hi rend="sup">"</hi> "</cell>
-	<cell>Hobson. (D. O.)</cell>
+	<cell><orgName ref="cwgk:O00006065">13<hi rend="sup">"</hi> "</orgName></cell>
+	<cell><persName ref="cwgk:N00018208">Hobson</persName>. (D. O.)</cell>
 	<cell><date when="1865-01-01">" 1. 1865</date></cell>
 </row>
 <row>
 	<cell>*</cell>
-	<cell>14- "</cell>
-	<cell>Moore (D. O)</cell>
+	<cell><orgName ref="cwgk:O00006265">14- "</orgName></cell>
+	<cell><persName ref="cwgk:N00000825">Moore</persName> (D. O)</cell>
 	<cell><date when="1864-12-10">Dec<hi rend="sup">r</hi> 10. 1864</date></cell>
 </row>
 <row>
 	<cell>*</cell>
 	<cell><hi rend="str">15</hi>- "</cell>
-	<cell>Taylor. (D. C)</cell>
+	<cell><persName ref="cwgk:N00007416">Taylor</persName>. (D. C)</cell>
 	<cell><date when="1864-12-14">Dec<hi rend="sup">r</hi> 14. 1864</date></cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>16 "</cell>
-	<cell>Gault. (D. O)</cell>
+	<cell><orgName ref="cwgk:O00008605">16 "</orgName></cell>
+	<cell><persName ref="cwgk:N00012376">Gault</persName>. (D. O)</cell>
 	<cell><date when="1865-01-27">Jan<hi rend="sup">y</hi> 27. 1865.</date></cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>17<hi rend="underline"><hi rend="sup">"</hi></hi> "</cell>
-	<cell>Stout. (D. C.)</cell>
+	<cell><orgName ref="cwgk:O00002664">17<hi rend="underline"><hi rend="sup">"</hi></hi> "</orgName></cell>
+	<cell><persName ref="cwgk:N00018211">Stout</persName>. (D. C.)</cell>
 	<cell><date when="1865-01-03">Jan<hi rend="sup">y</hi> 3</date> to <date when="1865-02-03">Feb<hi rend="sup">y</hi> 3. 1865</date></cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>18<hi rend="underline"><hi rend="sup">"</hi></hi> "</cell>
-	<cell>Warner. (D. C.)</cell>
+	<cell><orgName ref="cwgk:O00002378">18<hi rend="underline"><hi rend="sup">"</hi></hi> "</orgName></cell>
+	<cell><persName ref="cwgk:N00018213">Warner</persName>. (D. C.)</cell>
 	<cell><date when="1865-02-08">Feb<hi rend="sup">y</hi> 8<hi rend="underline"><hi rend="sup">"</hi></hi> 1865</date></cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>19<hi rend="sup">"</hi> "</cell>
-	<cell>Landrum (D. G.)</cell>
+	<cell><orgName ref="cwgk:O00009930">19<hi rend="sup">"</hi> "</orgName></cell>
+	<cell><persName ref="cwgk:N00009931">Landrum</persName> (D. G.)</cell>
 	<cell><date when="1865-01-02">Jan<hi rend="sup">y</hi> 2<hi rend="sup">nd</hi> 1865</date>.</cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>20. "</cell>
-	<cell>Bruce (D. C)</cell>
+	<cell><orgName ref="cwgk:O00006140">20. "</orgName></cell>
+	<cell><persName ref="cwgk:N00007424">Bruce</persName> (D. C)</cell>
 	<cell>not. Known about <date when="1865-01">Jan<hi rend="sup">y</hi> 1865</date></cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>21 "</cell>
-	<cell>Price. (D. C)</cell>
+	<cell><orgName ref="cwgk:O00009038">21 "</orgName></cell>
+	<cell><persName ref="cwgk:N00013927">Price</persName>. (D. C)</cell>
 	<cell><date when="1865-01-02">Jan<hi rend="underline"><hi rend="sup">y</hi></hi> 2. 1865</date>.</cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>22 "</cell>
-	<cell>Lindsey (D. G)</cell>
+	<cell><orgName ref="cwgk:O00011396">22 "</orgName></cell>
+	<cell><persName ref="cwgk:N00000873">Lindsey</persName> (D. G)</cell>
 	<cell><date when="1865-01-10">Jan<hi rend="underline"><hi rend="sup">y</hi></hi> 10. 1865</date>.</cell>
 </row>
 <row>
-	<cell></cell>
-	<cell>23 "</cell>
-	<cell>Munday (D. C)</cell>
+	<cell/>
+	<cell><orgName ref="cwgk:O00006534">23 "</orgName></cell>
+	<cell><persName ref="cwgk:N00000239">Munday</persName> (D. C)</cell>
 	<cell><date when="1864-12-08">Dec<hi rend="sup">r</hi> 8/64</date> to <date when="1865-01-02">Jan<hi rend="sup">y</hi> 2/65</date></cell>
 </row>
 	<row>
 	<cell> </cell>
-	<cell>24 "</cell>
-	<cell>Hurt. (D. O).</cell>
+	<cell><orgName ref="cwgk:O00006977">24 "</orgName></cell>
+	<cell><persName ref="cwgk:N00006976">Hurt</persName>. (D. O).</cell>
 	<cell><date when="1864-12-16">Dec<hi rend="sup">r</hi> 16/64</date> to <date when="1865-01-06">Jan<hi rend="sup">y</hi> 6/65</date></cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>25 "</cell>
-	<cell>Shackleford -- </cell>
+	<cell><orgName ref="cwgk:O00013857">25 "</orgName></cell>
+	<cell><persName ref="cwgk:N00007836">Shackleford</persName> -- </cell>
 	<cell>This Regiment consolidated</cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>26 "</cell>
-	<cell>Burbridge (D. C)</cell>
+	<cell><orgName ref="cwgk:O00009777">26 "</orgName></cell>
+	<cell><persName ref="cwgk:N001014">Burbridge</persName> (D. C)</cell>
 	<cell><date when="1865-03-25">March 25. 186<hi rend="str">4</hi>5</date>.</cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>27. "</cell>
-	<cell>Pennebaker (D. C)</cell>
+	<cell><orgName ref="cwgk:O00001585">27. "</orgName></cell>
+	<cell><persName ref="cwgk:N00002582">Pennebaker</persName> (D. C)</cell>
 	<cell><date when="1865-03-21">March 21. 1865</date></cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>28' "</cell>
-	<cell>Boone (D C)</cell>
+	<cell><orgName ref="cwgk:O00008814">28' "</orgName></cell>
+	<cell><persName ref="cwgk:N00009749">Boone</persName> (D C)</cell>
 	<cell><date when="1865-01-23">Jan<hi rend="sup">y</hi> 23. 1865</date>.</cell>
 </row>
 </table></p>
