@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018407">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Leonard L. Hall</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018407">
+                    <persName>
+                      Leonard L. Hall
+                        ( Powell County, Kentucky, farmer.)
+                    </persName>
+                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Powell County, Kentucky, farmer. Kentucky native. Married to Angelina Hammon Hall. Father of William Hall, Green Hall, John Hall, Thomas Hall, Nancy Hall, Elizabeth Hall, Zachary Hall, Mary E. Hall, Martha Hall, Sanford R. Hall, Henry C. Hall, Arminta Hall, and Ella Hall. Farmer in Owsley County, Kentucky, in 1850. Farmer in Powell County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Owsley County, District of Kentucky, p. 292A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Powell County, City/District, p. 48.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Powell County, Precinct No. 2, p. 136B. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994053, Powell County Births.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
