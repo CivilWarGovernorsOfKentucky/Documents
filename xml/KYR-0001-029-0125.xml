@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0125"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,23 +72,23 @@
  <text>
   <body>
    <p>Office of the County Judge of <hi rend="str">the</hi> Franklin County Sct.
-<lb/>Commonwealth
-<lb/>vs &#125; Warrant for peddling without License
-<lb/>Chs. Freese
+<lb/><orgName ref="cwgk:O001025">Commonwealth</orgName>
+<lb/>vs } Warrant for peddling without License
+<lb/><persName ref="cwgk:N00018046">Chs. Freese</persName>
 <lb/>Copy of Judgment"</p>
 <p>Upon hearing of the within Complaint It being duly proven before me that the defendant Chs. Freese is guilty of the charge of peddling without License, and the sum of One Hundred Dollars being the amount of the fine for Said offence, it is now adjudged by the court that the said Freese shall pay the said fine of One Hundred Dollars together with <gap/> dollars and <gap/> cents costs -- </p>
 <p>A copy attest
-<lb/>Witness -- J. Swigert presiding Judge of Franklin Cty:<pb/></p>
+<lb/>Witness -- <persName ref="cwgk:N00001651">J. Swigert</persName> presiding Judge of <placeName ref="cwgk:P001019">Franklin Cty</placeName>:<pb/></p>
 <p>Commonwealth
-<lb/><hi rend="underline">vs</hi> &#125; copy of Judgt</p>
+<lb/><hi rend="underline">vs</hi> } copy of Judgt</p>
 <p>Franklin Cir. Ct.
-<lb/>&#36;100 &#125; Peddliing</p>
+<lb/>$100 } Peddliing</p>
 <p>The within fine is remitted upon statement of Comths Atty &amp; others</p>
-<p>J F Robinson
+<p><persName ref="cwgk:N001004">J F Robinson</persName>
 <lb/><date when="1861-11-04">4 Nov. 1861</date></p>
 <p>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Freese
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-11-03">Nov. 3<hi rend="underline"><hi rend="sup">d</hi></hi> 1862</date><figure type="hr"/></p>
-<p><hi rend="underline">W, H, Sneed</hi> County attorney Franklin Co</p>
+<p><hi><persName ref="cwgk:N00018051">W, H, Sneed</persName></hi> County attorney Franklin Co</p>
   </body>
  </text>
 </TEI>
