@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,11 @@
                 <person xml:id="N00001462">
                     <persName>
                       John S. Seay
-                        (Ballard County, Kentucky, petitioner)
+                        (Ballard County, Kentucky, medical student.)
                     </persName>
+                        <event type="birth"  when="1843-04-26"  ><ab>1843-04-26</ab></event>
+                        <event type="death"  when="1917-11-14"  ><ab>1917-11-14</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of James McCawley and Wesley Garrett in Ballard County, Kentucky, in October 1863. Signed a petition on behalf of John Mansfield in Ballard County, Kentucky, on October 6, 1863. </p>
+        <p>Ballard County, Kentucky, medical student. Kentucky native. Hickman County, Kentucky, native. Son of John Seay and Ann Eliza Thompson Seay Adams. Stepson of W. W. Adams. Resident of Ballard County, Kentucky, in 1850. Household owned four enslaved persons in Ballard County in 1850. Medical student in Ballard County in 1860. Household owned five enslaved persons in Ballard County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0143. KYR-0001-004-0154. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 288B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Ballard County.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Blandville District, p. 586.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Ballard County, Blandville District, p. 36B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, Blandville, p. 412B.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 29371.
 </bibl></ab>
     </back>
 </text>
