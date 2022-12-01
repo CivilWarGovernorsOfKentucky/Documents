@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0075"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Ordnance Department
-<lb/>Camp Nelson
+   <p><orgName ref="cwgk:O00012696">Ordnance Department</orgName>
+<lb/><orgName ref="cwgk:O00010592">Camp Nelson</orgName>
 <lb/><date when="1864-02-25">February 25<hi rend="underline"><hi rend="sup">th</hi></hi>1864</date>
 <lb/>To" His", Excellency,
-<lb/>Governor", Bramlette,
-<lb/>Governor of Kentucky
-<lb/>Dear Sir</p>
-<p>Having served my Country as an Officer &amp; Soldier for nearly three years, as an Infantry Soldier &amp; having bin disabled by the loss of my right Arm while engaged in the line of duty at the battle of Richmond Ky, I am disabled as an instructer becaus I cannot handle a musket, &amp; my regiment having reenlisted for three years I am anxious to continue in the Service if I can do my Country any good whatever,</p>
+<lb/><persName ref="cwgk:N001000">Governor", Bramlette</persName>,
+<lb/>Governor of <orgName ref="cwgk:O001025">Kentucky
+</orgName><lb/>Dear Sir</p>
+<p>Having served my <placeName ref="cwgk:P001802">Country</placeName> as an Officer &amp; Soldier for nearly three years, as an Infantry Soldier &amp; having bin disabled by the loss of my right Arm while engaged in the line of duty at the battle of <placeName ref="cwgk:P00009682">Richmond</placeName> <placeName ref="cwgk:P001800">Ky</placeName>, I am disabled as an instructer becaus I cannot handle a musket, &amp; my regiment having reenlisted for three years I am anxious to continue in the Service if I can do my Country any good whatever,</p>
 <p>In view of the facts above stated, I have the honor to request that you grant me permission to recruit a company of, Heavy, Artilary as a defense for the state of Ky,</p>
 <p>I have the honor to be
 <lb/>Very Respt your obt servt
-<lb/>Lieut, W, H, Ridenour
+<lb/>Lieut, <persName ref="cwgk:N00018943">W, H, Ridenour</persName>
 <lb/>18<hi rend="underline"><hi rend="sup">th</hi></hi>\ Ky Vol Inft, &amp; act ord offiser</p>
   </body>
  </text>
