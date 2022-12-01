@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018943">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William H. Ridenour</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018943">
+                    <persName>
+                      William H. Ridenour
+                        (Hamilton County, Ohio, resident and soldier)
+                    </persName>
+                        <event type="birth"  when="1841-03-11"  ><ab>1841-03-11</ab></event>
+                        <event type="death"  when="1923-12-09"  ><ab>1923-12-09</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hamilton County, Ohio, resident and soldier. Ohio native. Son of Jacob Ridenour and Julia Ridenour. Married to Elizabeth Ridenour. Father of Elijah Ridenour. Resident of Hamilton County, Ohio, in 1850. Served in the 18th Kentucky Volunteer Infantry Regiment (U.S.A.) as a private, first sergeant, and second lieutenant from February 8, 1862 to May 29, 1864. Wounded and captured at the Battle of Richmond, Madison County, Kentucky, on August 3, 1862. Paroled August 30, 1862. Served as acting ordnance officer at Lexington from January 1863 to April 1864. Resigned from service dated May 29, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Hamilton County, Millcreek, p. 30B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Fulton County, Rochester, p. 134A. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0316.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 16.<lb/>
+&quot;Mortuary Record,&quot; <hi rend="italic">The South Bend Tribune</hi>, (South Bend, IN), December 11, 1923, p. 5. <lb/>
+&quot;William H. Ridenour (1841-1923),&quot; Find A Grave, Memorial 34865537, accessed November 30, 2022, http://www.findagrave.com/memorial/34865537.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
