@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0453"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,16 +72,16 @@
  <text>
   <body>
    <p>To his Excellency
-<lb/>Governor Bramlette
-<lb/>of Kentucky</p>
-<p>The undersigned Robert S. Taylor a free person of color respectfully represents that he was born in Lexington Fayette Co Kentucky resided there in the family of his parents John &amp; Charlotte Taylor until <date when="1862-09">Sept.. 1862</date> and removed to the city of Springfield in Clark County Ohio on or about the <date when="1862-10-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of October AD 1862</date></p>
+<lb/><persName ref="cwgk:N001000">Governor Bramlette</persName>
+<lb/>of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>The undersigned <persName ref="cwgk:N00017094">Robert S. Taylor</persName> a free person of color respectfully represents that he was born in <placeName ref="cwgk:P001002">Lexington</placeName> <placeName ref="cwgk:P001031">Fayette Co </placeName><placeName ref="cwgk:P001800">Kentucky</placeName> resided there in the family of his parents <persName ref="cwgk:N00017096">John</persName> &amp; <persName ref="cwgk:N00017095">Charlotte Taylor</persName> until <date when="1862-09">Sept.. 1862</date> and removed to the city of<placeName ref="cwgk:P00017114"> Springfield </placeName>in<placeName ref="cwgk:P00017115"> Clark County </placeName><placeName ref="cwgk:P001036">Ohio</placeName> on or about the <date when="1862-10-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of October AD 1862</date></p>
 <p>His Father has since deceased and his Mother still resides in said City of Lexington Ky- His Father left Real Estate in said city, to which in part this applicant is an heir And he is desirous of returning to said place (viz Lexington) for the purpose of settling up his said Fathers estate &amp; disposing of his (applicant) interest therein</p>
 <p>He therefore solicits from your Excellency such a permit or pass as will enable him to accomplish said purpose with security and as in duty bound will</p>
 <p>Ever Pray &amp;c
 <lb/>R S Taylor</p>
 <p>Springfield Ohio
 <lb/><date when="1864-01-15">January 15" 1864</date></p>
-<p>State of Ohio 
+<p><orgName ref="cwgk:O00014700">State of Ohio</orgName> 
 <lb/>Clark County 
 <lb/>City of Springfield</p>
 <p>This is to
@@ -82,7 +90,7 @@
 <p>Applicants age is Thirty Years- Married- of light color- Black Hair, Greyish Eyes and Five feet Ten &amp; <hi rend="sup">3</hi>/<hi rend="sub">4</hi> inches high</p>
 <p>Attest
 <lb/>My hand &amp; official seal on this <date when="1864-01-15">15<hi rend="sup">th</hi> day of January in the year A.D. 1864</date>
-<lb/>James J. Snyder
+<lb/><persName ref="cwgk:N00017113">James J. Snyder</persName>
 <lb/>Mayor of the City of Springfied O</p>
 <p><figure type="seal"><ab>SEAL OF THE CITY OF SPRINGFIELD OHIO
 <lb/>INCORPORATED, 1850</ab></figure></p>
