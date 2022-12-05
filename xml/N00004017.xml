@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,11 @@
                 <person xml:id="N00004017">
                     <persName>
                       David F. Wolf
-                        (Fayette County)
+                        (Lexington, Fayette County, Kentucky, brewer and city councilman.)
                     </persName>
                         <event type="birth"  when="1832"  cert="medium" ><ab>c1832</ab></event>
+                        <event type="death"  when="1896-09-16"  ><ab>1896-09-16</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,12 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Lexington, Kentucky, brewer. Native of Germany. Married to Julia A. Wolf. Father of Charles E. Wolf. Frederick W. Wolf, Ella S. Wolf, and Clara E. Wolf. Brewer in Lexington in 1860. </p>
+        <p>Lexington, Fayette County, Kentucky, brewer and city councilman. Native of Germany. Married to Julia Amelia Wolf. Father of Charles E. Wolf. Frederick W. Wolf, and Ella S. Wolf. Brewer in Lexington in 1860. Elected to the Lexington City Council in 1862. Member of the Lexington City Council in 1864.</p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette, Lexington, Ward 3, p. 156.<lb/>
-<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette, Lexington, Ward 3, p. 85.
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette, Lexington Ward 3, p. 293A.<lb/>
+&quot;D. F. Wolf Dead,&quot; <hi rend="italic">The Daily Leader</hi> (Lexington, KY), September 17, 1896, p. 8.<lb/>
+&quot;Lexington City Election,&quot; <hi rend="italic">The Louisville Daily Journal</hi> (Louisville, KY), January 9, 1862, p. 1.<lb/>
+&quot;D Frederick Wolf (Unknown-1896),&quot; Find A Grave, Memorial 98812130, accessed December 5, 2022, https://www.findagrave.com/memorial/98812130.
 </bibl></ab>
     </back>
 </text>
