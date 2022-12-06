@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018632">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Albert Bergen</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018632">
+                    <persName>
+                      Albert Bergen
+                        (Shelby County, Kentucky, farmer.)
+                    </persName>
+                        <event type="birth"  when="1820-09-22"  ><ab>1820-09-22</ab></event>
+                        <event type="death"  when="1893-09-10"  ><ab>1893-09-10</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Shelby County, Kentucky, farmer. Kentucky native. Married to Mary Jane Gibson Bergen in Shelby County, Kentucky, on March 23, 1843. Father of George W. Bergen, John S. Bergen, Annie R. Bergen, Albert N. Bergen, Joseph W. Bergen, Samuel Curtis Bergen, Robert G. Bergen, and Minnie W. Bergen. Farmer in Shelby County in 1850. Farmer in Shelby County in 1860. Owned one enslaved person in Shelby County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Shelby County, District 1, p. 338A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Shelby County, District 2, p. 109.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Shelby County, District 2, p. 288B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Shelby County, Christiansburg, p. 458B. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Shelby County Marriages, Film 000259274.<lb/>
+Teunis G. Bergen, <hi rend="italic">The Bergen Family: or the Descendants of Hans Hansen Bergen, One of the Earliest Settlers of New York and Brooklyn, L.I.</hi> (Albany, NY: Joel Munsell, 1876), p. 484.<lb/>
+&quot;Albert Bergen (1820-1893),&quot; Find A Grave, Memorial 28113004, accessed September 22, 2022, http://www.findagrave.com/memorial/28113004.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
