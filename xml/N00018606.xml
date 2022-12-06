@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018606">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James W. Roberts</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018606">
+                    <persName>
+                      James W. Roberts
+                        (Henry County, Kentucky, farmer.)
+                    </persName>
+                        <event type="birth"  when="1818"  ><ab>1818</ab></event>
+                        <event type="death"  when="1891"  ><ab>1891</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Henry County, Kentucky, farmer. Kentucky native. Married to Ann Eliza Pryor Roberts in Carroll County, Kentucky, on March 14, 1843. Father of Mary Roberts, William Roberts, Anne E. Roberts, and Elizabeth Roberts. Farmer in Henry County in 1850. Owned twelve enslaved persons in Henry County in 1850. Owned Nancy [Unknown] and Dick [Unknown] in 1854. Owned Marshall [Unknown], Turpen [Unknown], and Hannah [Unknown] in 1855. Owned Harriett [Unknown] in 1856. Farmer in Henry County in 1860. Employed John Garrity as a laborer in Henry County in 1860. Owned nineteen enslaved persons in Henry County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henry County, District 1, p. 368B-369A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Henry County, District 1.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Subdivision 1, p. 324.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Henry County, Subdivision 1, p. 182A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994038, Henry County Births.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Carroll County Marriages, Film 000414689.<lb/>
+&quot;James W Roberts (1818-1891),&quot; Find A Grave, Memorial 110626075, accessed December 6, 2022, https://www.findagrave.com/memorial/110626075.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
