@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018639">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John R. Woodfill</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018639">
+                    <persName>
+                      John R. Woodfill
+                        (Henry County, Kentucky, merchant and postmaster)
+                    </persName>
+                        <event type="birth"  when="1836-10-10"  ><ab>1836-10-10</ab></event>
+                        <event type="death"  when="1865-01-25"  ><ab>1865-01-25</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Henry County, Kentucky, merchant and postmaster. Indiana native. Married to Sarah Gardner Woodfill. Father of Lena Woodfill. Served as postmaster for Bethlehem in Henry County, Kentucky, from January 18, 1860 to May 16, 1862. Merchant in Henry Count in 1860. Owned one enslaved person in Henry County in 1860. Merchant in Henry County in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henry County, Subdivision 1, p. 293.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Henry County, Subdivision 1, p. 177A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Henry County, Bethlehem Precinct, p. 249A.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Henry County, KY, July 1863, p. 446.<lb/>
+<hi rend="italic">Kentucky Cemetery Records Project, Henry County, Kentucky</hi>, vol. II (Frankfort, KY: Kentucky Historical Society, 1986)<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 23713.<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, Records of the Post Office Department, NARA Series M841, RG 28, Henry County, Kentucky, vol. 28, p. 96.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
