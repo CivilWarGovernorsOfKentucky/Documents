@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015470">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Louis Frank</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015470">
+                    <persName>
+                      Louis Frank
+                        (Bourbon County, Kentucky, merchant)
+                    </persName>
+                        <event type="birth"  when="1832-05-18"  ><ab>1832-05-18</ab></event>
+                        <event type="death"  when="1910-10-07"  ><ab>1910-10-07</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Bourbon County, Kentucky, merchant. Native of Germany. Married to Julia Amende Frank in Bourbon County, Kentucky, in 1863. Peddler in Bourbon County in 1860. Opened Shiffman and Frank dry goods firm in Bourbon County in 1861. Merchant in Bourbon County in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 494.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Bourbon County, Paris Ward 1, p. 419A. <lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Bourbon County, KY, July 1863, p. 9.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Bourbon County Marriages, Film 000183145, p. 132.<lb/>
+&quot;L. Frank Retires from Business,&quot; <hi rend="italic">The Bourbon News</hi> (Paris, KY), January 1, 1910, p. 1.<lb/>
+&quot;Louis Frank is Buried,&quot; <hi rend="italic">The Lexington Herald</hi> (Lexington, KY), October 10, 1910, p. 2.<lb/>
+&quot;Prominent Paris Dry Goods Man is Dead,&quot; <hi rend="italic">The Lexington Herald</hi> (Lexington, KY), October 8, 1910, p. 2.<lb/>
+<hi rend="italic">U.S. Passport Applications, 1795-1925</hi>, Washington D.C., NARA Roll 235, 01 June 1880- 30 June 1880, p. 86.<lb/>
+&quot;Louis Frank (1832-1910),&quot; Find A Grave, Memorial 133733197, accessed August 25, 2021, http://www.findagrave.com/memorial/133733197.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
