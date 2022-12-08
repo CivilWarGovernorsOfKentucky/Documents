@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -47,6 +51,7 @@
                         (Greenup County, Kentucky, farmer)
                     </persName>
                         <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -54,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Greenup County, Kentucky, farmer. Pennsylvania native. Married to Mahala McGary. Father of Samantha A. McGarey, Mary F. McGarey, and John W. McGarey. Farmer in Greenup County in 1860. </p>
+        <p>Greenup County, Kentucky, farmer. Pennsylvania native. Married to Mahala McDowell McGarey in Lewis County, Kentucky, in February 1852. Father of Samantha A. McGarey, Mary F. McGarey, John W. McGarey, Frank McGarey, and Martin McGarey. Farmer in Greenup County in 1860. Employed Elizabeth McDowell as a servant in Greenup County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup, p. 30.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup, p. 732.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Greenup County, Precinct 3, p. 80B. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, X County Marriages, Film 000344052, p. 118.
 </bibl></ab>
     </back>
 </text>
