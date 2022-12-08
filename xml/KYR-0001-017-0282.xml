@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0282"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,20 +70,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Hon, J C Adams</p>
-<p>Sir your petitioners would respectfully represent, that whereas a vacancy exists in this (3,<hi rend="underline"><hi rend="sup">rd</hi></hi>) Justice's district occasioned by the removal of T T Smith Therefore we would nominate Jeremiah Moor, to fill said vacancy, Hoping that it will be favorably considered by your Honor, and the Greenup County court,,</p>
+   <p>To the Hon, <persName ref="cwgk:N00017479">J C Adams</persName></p>
+<p>Sir your petitioners would respectfully represent, that whereas a vacancy exists in this (3,<hi rend="underline"><hi rend="sup">rd</hi></hi>) Justice's district occasioned by the removal of <persName ref="cwgk:N00002469">T T Smith</persName> Therefore we would nominate <persName ref="cwgk:N00002470">Jeremiah Moor</persName>, to fill said vacancy, Hoping that it will be favorably considered by your Honor, and the <orgName ref="cwgk:O00000627">Greenup County court</orgName>,,</p>
 <p>Petitioners Names</p>
-<p>M L Thompson
-<lb/>Charles Smith
-<lb/>James Frisby,
-<lb/>J J Thompson
-<lb/>G W Truitt
-<lb/>James Waring
-<lb/>T m gambol
-<lb/>P. m<hi rend="underline"><hi rend="sup">c</hi></hi> garey
-<lb/><hi rend="str">A S meek</hi>
+<p><persName ref="cwgk:N00004589">M L Thompson</persName>
+<lb/><persName ref="cwgk:N00018964">Charles Smith</persName>
+<lb/><persName ref="cwgk:N00018839">James Frisby</persName>,
+<lb/><persName ref="cwgk:N00018865">J J Thompson</persName>
+<lb/><persName ref="cwgk:N00005823">G W Truitt</persName>
+<lb/><persName ref="cwgk:N00018965">James Waring</persName>
+<lb/><persName ref="cwgk:N00004591">T m gambol</persName>
+<lb/><persName ref="cwgk:N00004603">P. m<hi rend="underline"><hi rend="sup">c</hi></hi> garey</persName>
+<lb/><persName ref="cwgk:N00018861"><hi rend="str">A S meek</hi></persName>
 <lb/>A S meek<pb/>
-<lb/>Jonathan Williams</p>
+<lb/><persName ref="cwgk:N00018967">Jonathan Williams</persName></p>
   </body>
  </text>
 </TEI>
