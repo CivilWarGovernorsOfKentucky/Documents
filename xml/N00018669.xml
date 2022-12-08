@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018669">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas Ecton</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Ian Iverson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018669">
+                    <persName>
+                      Thomas Ecton
+                        (Henry County, Kentucky, farmer.)
+                    </persName>
+                        <event type="birth"  when="1796-04-09"  ><ab>1796-04-09</ab></event>
+                        <event type="death"  when="1881-04-04"  ><ab>1881-04-04</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Henry County, Kentucky, farmer. Maryland native. Son of Smallwood Ecton and Mary Wilson Ecton. Married to Sarah &quot;Sally&quot; Kelly Ecton in Clark County, Kentucky, on May 29, 1817. Father of Smallwood Ecton. Farmer in Henry County in 1850. Owned eleven enslaved persons in Henry County in 1850. Farmer in Henry County in 1860. Owned ten enslaved persons in Henry County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henry County, District 1, p. 422A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Henry County, District 1. <lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henry County, Subdivision 1 p. 374.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Henry County, Subdivision 1, p. 185A-185B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Clark County Marriages, Film 001943687.<lb/>
+<hi rend="italic">Sons of the American Revolution Membership Applications, 1889-1970</hi>, National Society of the Sons of the American Revolution, Louisville, KY, National 90623, State 1164.<lb/>
+&quot;Thomas Ecton (1796-1881),&quot; Find A Grave, Memorial 138045230, accessed September 27, 2022, http://www.findagrave.com/memorial/138045230.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
