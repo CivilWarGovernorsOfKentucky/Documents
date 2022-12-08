@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -46,6 +50,8 @@
                       Thomas M. Gambol
                         (Greenup County)
                     </persName>
+                        <event type="birth"  when="1821"  cert="medium" ><ab>c1821</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signs a note in Greenup County, Kentucky.</p>
+        <p>Greenup County, Kentucky, resident. Missouri native. Married to Elizabeth Foster Gambol in Greenup County, Kentucky, on August 6, 1863. Resident of Greenup County in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1590.
+        <ab><bibl><hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Greenup County Marriages,005552778, p. 340.<lb/>
+KYR-0001-020-1590.
 </bibl></ab>
     </back>
 </text>
