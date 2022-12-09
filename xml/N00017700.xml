@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Brian M. Trump</name>
           </respStmt>
     </titleStmt>
@@ -46,6 +50,7 @@
                       John Ford
                         (Mentioned in an Ohio County, Kentucky, court document related to Moses Baer.)
                     </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Mentioned in an Ohio County, Kentucky, court document.</p>
+        <p>Ohio County, Kentucky, barkeeper and farmer. Kentucky native. Barkeeper in Ohio County, Kentucky, in 1860. Farmer in Ohio County in 1863. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-2008.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ohio County, Hartford, p. 787.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Ohio County, KY, July 1863, p. 20.
 </bibl></ab>
     </back>
 </text>
