@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2061"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Matthew Roberts</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Cumberland Circuit Court
-<lb/>The Commonwealth of Ky Plff
-<lb/>vs' &#125; Indictment for Arson,
-<lb/>Jack a Slave Deft</p>
-<p>It appearing that Asa Elliott has been duly Summoned to answer for the forfeiture of the bail Bond executed in this prosecution, and he failing to answer, it is therefore ordered and adjudged by the Court that Plff recover of Said Deft Elliott the Sum of Two Hundred and Fifty dollars and the costs herein expended and Execution may issue &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
-<p>I J. M. Boles clerk of the Cumberland circuit court certify that the above is a true copy of a Judgement rendered in Said court at its <date when="1865-04">April Term 1865</date>.</p>
+   <p>State of <placeName ref="cwgk:P001800">Kentucky</placeName>
+<lb/><orgName ref="cwgk:O00000368">Cumberland Circuit Court</orgName>
+<lb/><orgName ref="cwgk:O001025">The Commonwealth of Ky</orgName> Plff
+<lb/>vs' } Indictment for Arson,
+<lb/><persName ref="cwgk:N00018864">Jack a Slave</persName> Deft</p>
+<p>It appearing that <persName ref="cwgk:N00018867">Asa Elliott</persName> has been duly Summoned to answer for the forfeiture of the bail Bond executed in this prosecution, and he failing to answer, it is therefore ordered and adjudged by the Court that Plff recover of Said Deft Elliott the Sum of Two Hundred and Fifty dollars and the costs herein expended and Execution may issue &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
+<p>I <persName ref="cwgk:N00018871">J. M. Boles</persName> clerk of the Cumberland circuit court certify that the above is a true copy of a Judgement rendered in Said court at its <date when="1865-04">April Term 1865</date>.</p>
 <p>J. M. Boles clk,<pb/></p>
 <p>Comwlth Plff
-<lb/>v &#125; copy Ind.
+<lb/>v } copy Ind.
 <lb/>Asa Elliott</p>
   </body>
  </text>
