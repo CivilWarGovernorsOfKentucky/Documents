@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0286"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Caseyville Ky <date when="1862-01-06">Jany 6th 1862</date>
-<lb/>Hon Beriah McGoffin
-<lb/>Gov of Comth of Ky
+   <p><placeName ref="cwgk:P00003878">Caseyville</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1862-01-06">Jany 6th 1862</date>
+<lb/>Hon <persName ref="cwgk:N00000258">Beriah McGoffin</persName>
+<lb/>Gov of <orgName ref="cwgk:O001025">Comth of Ky</orgName>
 <lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>About the <date when="1861-09-01">1st of Sept</date> last I resigned my office as police Judge of Caseyville since which time I have been chiefly in the Southern Confederacy. my resignation was duly published in our County paper the Union Town News. I am Informed that it requires the Gov to be duly notified of it. Supposing that a notice of it in a publick Journal was sufficient. I neglected to do so. Mr H A Ransom of this place has been duly elected in my stead and Cannot act until he receves his Commission for the unexpired term. by forwarding it to him You will verry much oblige your</p>
+<p>About the <date when="1861-09-01">1st of Sept</date> last I resigned my office as police Judge of Caseyville since which time I have been chiefly in the Southern <orgName ref="cwgk:O00003030">Confederacy</orgName>. my resignation was duly published in our <placeName ref="cwgk:P00001845">County</placeName> paper the <orgName ref="cwgk:O00019022">Union Town News</orgName>. I am Informed that it requires the Gov to be duly notified of it. Supposing that a notice of it in a publick Journal was sufficient. I neglected to do so. Mr <persName ref="cwgk:N00018975">H A Ransom</persName> of this place has been duly elected in my stead and Cannot act until he receves his Commission for the unexpired term. by forwarding it to him You will verry much oblige your</p>
 <p>obiat Servt
-<lb/>B M Winston<pb/></p>
+<lb/><persName ref="cwgk:N00003857">B M Winston</persName><pb/></p>
 <p>Caseyville <date when="1862-01-06">Jany 6th 1862</date>
 <lb/>Hon Beriah McGoffin
 <lb/>Gov of the Comth of Kentucky</p>
