@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00000566">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00019022">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Manchester, Kentucky</title>
+        <title level="a" type="main">Uniontown News</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Stephen Powell</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
             <name>Brian M. Trump</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name></name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Stephen Powell</name>
-          </respStmt>
+          </respStmt>        
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -45,28 +33,23 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="type">Place</term>
+                    <term type="type">Organization</term>
                 </keywords>
             </textClass>
-            <settingDesc>
-                <place xml:id="P00000566">
-                    <placeName>
-                        <location>
-                              <geo>37.1537 -83.7619</geo>
-                            <settlement>Manchester, Kentucky</settlement>
-                        </location>
-                    </placeName>
-                </place> 
-            </settingDesc>    
+            <particDesc>
+                <org xml:id="O00019022">
+                    <orgName>Uniontown News</orgName>
+                </org>
+            </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Seat of Clay County. </p>
+        <p>Newspaper published in Uniontown, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl>Robert M. Rennick, <hi rend="italic">Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 1988), 186.
+        <ab><bibl><hi rend="italic">Union County: Past and Present</hi>, comp. Workers of the Kentucky Writer&#39;s Project of the Work Projects Administration (Louisville, KY: Schumann Printing Company, 1941): p. 156.
 </bibl></ab>
     </back>
 </text>
