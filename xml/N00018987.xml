@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018987">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Jefferson Pigg</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018987">
+                    <persName>
+                      William Jefferson Pigg
+                        (Lawrence County, Kentucky, resident and farmer.)
+                    </persName>
+                        <event type="birth"  when="1832-14-11"  ><ab>1832-14-11</ab></event>
+                        <event type="death"  when="1913-08-28"  ><ab>1913-08-28</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lawrence County, Kentucky, farmer. Floyd County, Kentucky, native. Son of James Pigg and Sarah Ratcliffe Pigg. Married to Elizabeth Chapman Pigg in Lawrence County on February 3, 1853. Father of Peris T. Pigg, Daniel L. Pigg, Lindsey E. Pigg, Ezekiel S. Pigg, and Catherine Pigg. Resident of Lawrence County in 1850. Farmer in Lawrence County in 1860. Employed Harry Calloway as a farmhand in Lawrence County in 1860. Farmer in Lawrence County in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lawrence County, p. 496.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lawrence County, Precinct No. 9, p. 279A.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Lawrence County, KY, October 1863, p. 295.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994044, Lawrence County Marriages.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 23387.<lb/>
+&quot;Aged Minister Dead,&quot; <hi rend="italic">The Big Sandy News</hi> (Louisa, Kentucky), September 5, 1913, p. 1.<lb/>
+&quot;William Jefferson Pigg (1832-1913),&quot; Find A Grave, Memorial 93593209, accessed December 12, 2022, https://www.findagrave.com/memorial/93593209.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
