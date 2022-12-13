@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0287"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisa Ky <date when="1862-01-14">Jan the 14<hi rend="sup">th</hi> day 1862</date>
+   <p><placeName ref="cwgk:P00000553">Louisa</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1862-01-14">Jan the 14<hi rend="sup">th</hi> day 1862</date>
 <lb/>Sir</p>
-<p>The county Judge recomend the following persons for Justice of the peace for Lawrency County W<hi rend="sup">m</hi> Pigg ^6.^ in place of Henry Diamond <hi rend="underline">Dec</hi> W<hi rend="sup">m</hi> Hays ^5.^ in place of O D Botner Resined Jas Short ^3^ in place of A J Marcum in the <hi rend="underline">Rible</hi> <hi rend="underline">army</hi>. Green Kenner ^1^ in place of George Buckhannon John Thompson ^9^ in place of W<hi rend="sup">m</hi>.J. Pennington Joined the army. you will please foward the com<hi rend="sup">s</hi>. to me immediantly</p>
+<p>The <persName ref="cwgk:N00015342">county Judge</persName> recomend the following persons for Justice of the peace for <placeName ref="cwgk:P00000552">Lawrency County</placeName> <persName ref="cwgk:N00018987">W<hi rend="sup">m</hi> Pigg</persName> ^6.^ in place of <persName ref="cwgk:N00018989">Henry Diamond</persName> <hi rend="underline">Dec</hi> <persName ref="cwgk:N00019005">W<hi rend="sup">m</hi> Hays</persName> ^5.^ in place of <persName ref="cwgk:N00018993">O D Botner</persName> Resined <persName ref="cwgk:N00018990">Jas Short</persName> ^3^ in place of <persName ref="cwgk:N00018980">A J Marcum</persName> in the <hi rend="underline">Rible</hi> <orgName ref="cwgk:O00001186"><hi rend="underline">army</hi></orgName>. <persName ref="cwgk:N00018994">Green Kenner</persName> ^1^ in place of <persName ref="cwgk:N00019003">George Buckhannon</persName> <persName ref="cwgk:N00019023">John Thompson</persName> ^9^ in place of <persName ref="cwgk:N00018982">W<hi rend="sup">m</hi>.J. Pennington</persName> Joined the army. you will please foward the com<hi rend="sup">s</hi>. to me immediantly</p>
 <p>Yours &amp;c
 <lb/><hi rend="underline">M B Goble C. L. C. C. </hi></p>
   </body>
