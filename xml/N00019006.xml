@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00003504">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019006">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C. D. Butler</title>
+        <title level="a" type="main">James Black</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Krista Kinslow</name>
+            <name>Matthew Roberts</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Natalie Smith</name>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Matthew Roberts</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,13 +45,12 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00003504">
+                <person xml:id="N00019006">
                     <persName>
-                      C. D. Butler
-                        (Taylor County, Kentucky, resident)
+                      James Black
+                        (Pike County, Kentucky, enslaved man.)
                     </persName>
-                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
-                        <trait type="race" subtype="White"/>
+                        <trait type="race" subtype="Black"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -55,11 +58,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Taylor County, Kentucky, resident. Russell County, Kentucky, native. Son of Ruben Butler and Cynthia Butler. Married to Sarah E. Carson Butler in Taylor County on June 28, 1860. Resident in Taylor County in 1860.</p>
+        <p>Pike County, Kentucky, enslaved man. Enslaved in Pike County in 1865. Indicted for tippling in Pike Circuit Court in 1865.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, p. 2-3.
+        <ab><bibl>KYR-0001-004-2826.
 </bibl></ab>
     </back>
 </text>
