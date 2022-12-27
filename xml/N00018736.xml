@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018736">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Yancy Eaker</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018736">
+                    <persName>
+                      William Yancy Eaker
+                        (Graves County, Kentucky, postmaster, student, and farmer)
+                    </persName>
+                        <event type="birth"  when="1830-12-27"  ><ab>1830-12-27</ab></event>
+                        <event type="death"  when="1914-07-28"  ><ab>1914-07-28</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Graves County, Kentucky, postmaster, student, and farmer. Kentucky native. Married to Martha Eugenia Haslem Eaker. Father of John Eaker, May Eaker, Lilly Eaker, and Rosa Eaker. Postmaster for Leander in Graves County from December 10, 1849, to May 27, 1850. Cadet at the United States Military Academy in Orange County, New York, from 1850 to 1854. Resident of Graves County in 1857. Farmer in Graves County in 1860. Owned one enslaved person in Graves County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Graves County, p. 260.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Graves County, p. 43B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Graves County, Feliciana, p. 91B. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994035, Graves County Births.<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, Records of the Post Office Department, NARA Series M841, RG 28, Graves County, Kentucky, vol. 14, p. 620.<lb/>
+<hi rend="italic">U.S. Military Academy Cadet Application Papers, 1805-1866,</hi> No. 22, 1849-1850; NARA Series M688, RG 94. <lb/>
+<hi rend="italic">Register of Cadet Applications, 1819-67,</hi> Vol. 1850, File 078-161; NARA Series M2037, RG 94. <lb/>
+<hi rend="italic">Official Register of the Officers and cadets of the U.S. Military Academy</hi> (West Point, 1887), 25. <lb/>
+&quot;William Yancy Eaker (1830-1914),&quot; Find A Grave, Memorial 30432283, accessed October 4, 2022, http://www.findagrave.com/memorial/30432283.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
