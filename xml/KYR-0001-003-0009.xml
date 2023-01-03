@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0009"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,7 +73,7 @@
   <body>
    <p>No 1.<figure type="hr"/></p>
 <p>MONTHLY SUMMARY STATEMENT,
-<lb/>Dr. <hi rend="italic">The</hi> <hi rend="str">UNITED STATES</hi>State of Kentucky, <hi rend="italic">in account with</hi> S G Suddarth Q M General <hi rend="italic"><hi rend="str">Quartermaster</hi></hi><hi rend="str"> </hi><hi rend="italic">Kentucky Volunteers, at</hi> Frankfort <hi rend="italic">in the month of</hi> <date when="1863-09">September 1863</date>. Cr.</p>
+<lb/>Dr. <hi rend="italic">The</hi> <hi rend="str">UNITED STATES</hi><orgName ref="cwgk:O001025">State of Kentucky</orgName>, <hi rend="italic">in account with</hi> <persName ref="cwgk:N00000946">S G Suddarth</persName> Q M General <hi rend="italic"><hi rend="str">Quartermaster</hi></hi><hi rend="str"> </hi><hi rend="italic">Kentucky Volunteers, at</hi> <placeName ref="cwgk:P00000308">Frankfort</placeName> <hi rend="italic">in the month of</hi> <date when="1863-09">September 1863</date>. Cr.</p>
 <p><table rend="rules">
 <row>
 	<cell>DATE.</cell>
@@ -93,8 +101,8 @@
 	<cell>8054</cell>
 	<cell>36</cell>
 	<cell><date when="1863-09-03">Sept 3</date></cell>
-	<cell>By cash received from Tho E. Bramlette Gov<hi rend="sup">r</hi></cell>
-	<cell>&#36;20000</cell>
+	<cell>By cash received from <persName ref="cwgk:N001000">Tho E. Bramlette</persName> Gov<hi rend="sup">r</hi></cell>
+	<cell>$20000</cell>
 	<cell>00</cell>
 </row>
 <row>
@@ -130,15 +138,15 @@
 <row>
 	<cell/>
 	<cell/>
-	<cell>&#36;50147</cell>
+	<cell>$50147</cell>
 	<cell>75</cell>
 	<cell/>
 	<cell/>
-	<cell>&#36;50147</cell>
+	<cell>$50147</cell>
 	<cell>75</cell>
 </row>
 </table></p>
-<p>I CERTIFY that the above is a true statement of all the moneys which have come into my hands, on account of the Quartermaster's Department, during the month of <date when="1863-09">September, 1863</date> and that the disbursements have been faithfully made. The balance due the State of Kentucky, is in Currency, and is deposited in BK of Ky at Frankfort</p>
+<p>I CERTIFY that the above is a true statement of all the moneys which have come into my hands, on account of the <orgName ref="cwgk:O00000389">Quartermaster's Department</orgName>, during the month of <date when="1863-09">September, 1863</date> and that the disbursements have been faithfully made. The balance due the State of Kentucky, is in Currency, and is deposited in <orgName ref="cwgk:O00005211">BK of Ky</orgName> at Frankfort</p>
 <p>S G Suddarth Q. M. G
 <lb/><hi rend="italic">Quartermaster</hi>
 <lb/>Genl of Ky<pb/></p>
