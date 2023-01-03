@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0007"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Abigail Stephens</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,7 +72,7 @@
  <text>
   <body>
    <p>NO. 13, (ABSTRACT <gap/>.)
-<lb/>Abstract of Expenditures on account of the <hi rend="str">Quarter Master's Department</hi>Recruiting Service, by S G. Suddarth Q<hi rend="sup">r</hi> M Genl at Frankfort, in the <hi rend="str">Quarter</hi>Month ending on the <date when="1863-09-30">30 of Sept 1863</date>.</p>
+<lb/>Abstract of Expenditures on account of the <hi rend="str">Quarter Master's Department</hi>Recruiting Service, by <persName ref="cwgk:N00000946">S G. Suddarth</persName> Q<hi rend="sup">r</hi> M Genl at <placeName ref="cwgk:P00000308">Frankfort</placeName>, in the <hi rend="str">Quarter</hi>Month ending on the <date when="1863-09-30">30 of Sept 1863</date>.</p>
 <p><table rend="rules">
 <row>
 	<cell>Date of payment.</cell>
@@ -86,7 +94,7 @@
 	<cell/>
 	<cell/>
 	<cell>Sundry Parties</cell>
-	<cell>Arsenal</cell>
+	<cell><orgName ref="cwgk:O00010811">Arsenal</orgName></cell>
 	<cell>467</cell>
 	<cell>43</cell>
 </row>
@@ -174,7 +182,7 @@
 	<cell/>
 	<cell/>
 	<cell>do do</cell>
-	<cell>State Gaurd</cell>
+	<cell><orgName ref="cwgk:O00000303">State Gaurd</orgName></cell>
 	<cell>7</cell>
 	<cell>50</cell>
 </row>
@@ -215,7 +223,7 @@
 	<cell/>
 	<cell>Total</cell>
 	<cell/>
-	<cell>&#36;8054</cell>
+	<cell>$8054</cell>
 	<cell>36</cell>
 </row>
 </table></p>
@@ -225,7 +233,7 @@
 <p>Abstract A, 
 <lb/>FOR THE 
 <lb/><hi rend="str">Quarter</hi>Month ending <date when="1863-09-30">30 Sept, 1863</date>
-	<lb/>&#36;8054<hi rend="underline"><hi rend="sup">36</hi></hi></p>
+	<lb/>$8054<hi rend="underline"><hi rend="sup">36</hi></hi></p>
 <p>Recruiting Service</p>
   </body>
  </text>
