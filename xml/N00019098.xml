@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019098">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry Clay King</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019098">
+                    <persName>
+                      Henry Clay King
+                        (Shelby County, Tennessee, attorney, captain, colonel and major (C.S.A.))
+                    </persName>
+                        <event type="birth"  when="1831-07-28"  ><ab>1831-07-28</ab></event>
+                        <event type="death"  when="1903-12-10"  ><ab>1903-12-10</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Shelby County, Tennessee, attorney and soldier. Kentucky native. Married to Maria J. Dallum King in McCracken County, Kentucky, on June 9, 1856. Married to Sarah Eliza Haughton King in Monroe County, Mississippi, on April 19, 1865. Attorney in McCracken County, Kentucky, in 1856. Partners with John Q. A. King in the law firm King &amp; King in McCracken County in 1856. Attorney in Shelby County, Tennessee, in 1860. Owned three enslaved persons in Shelby County in 1860. Served in the 21st Tennessee Infantry (C.S.A.) as captain from June 1861 to September 1861. Served in King&#39;s Kentucky Cavalry (C.S.A.) as major from September 1861 to April 1862. Served in the 12th Cavalry (C.S.A.) as colonel and major from April 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Shelby County, Memphis, District 3, p. 98.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Tennessee, Shelby County, Memphis, District 3, p. 3.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Tennessee, Shelby County, District 14, p. 402B. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994046, McCracken County Marriages, p. 29.<lb/>
+<hi rend="italic">Mississippi County Records,</hi> Mississippi Department of Archives and History, Archives and Records Services Division, Jackson, MS, Microfilm 13758, Volume 1, 1865-1867, Monroe County Marriages, p. 278.<lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Tennessee, NARA RG 109, Microfilm Series M268, Roll 0205.<lb/>
+_United States Confederate Officers Card Index, 1861-1865.</hi> Salt Lake City, UT, USA: FamilySearch, 2019.<lb/>
+John Livingston, <hi rend="italic">Livingston&#39;s Law Register: Containing a Complete List of Lawyers in the United States,</hi> (New York: Subscription Publishers, 1856), 136. <lb/>
+Berry Craig, &quot;Jackson Purchase Confederate Troops in the Civil War,&quot; <hi rend="italic">Jackson Purchase Historical Society</hi>: Vol. 2, No. 1. (1974), pp. 4-11.<lb/>
+&quot;Mid-Day Tragedy,&quot; <hi rend="italic">The Memphis Daily Commercial</hi> (Memphis, TN), March 11, 1891, p. 1. <lb/>
+&quot;Col Henry Clay King (1831-1903),&quot; Find A Grave, Memorial 18566577, accessed December 19, 2022, http://www.findagrave.com/memorial/18566577.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
