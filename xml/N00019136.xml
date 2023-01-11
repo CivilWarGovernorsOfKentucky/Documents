@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019136">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John C. Wilson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019136">
+                    <persName>
+                      John C. Wilson
+                        (Washington, D.C., printer and clerk.)
+                    </persName>
+                        <event type="birth"  when="1813"  cert="medium" ><ab>c1813</ab></event>
+                        <event type="death"  when="1879-06-16"  ><ab>1879-06-16</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Washington, D.C., printer and clerk. Concord, New Hampshire, native. Son of Sarah F. Wilson. Married to Susan G. Abbot Wilson on November 17, 1839. Father of Charles Colby Wilson, John F. Wilson, and Mary W. Wilson. Printer in Concord, New Hampshire, in 1850. Employed E. E. Sturlevant as a printer in Concord in 1850. Employed Thomas H. Miller as printer in Concord in 1850. Employed Margaret E. Morgan in Concord in 1850. Clerk in Washington, D.C. in 1860. Auditor in the United States Treasury Department in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, New Hampshire, Merrimack County, Concord, p. 1B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Maryland, Washington County, 4th Ward District Columbia, p. 181.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Columbia, Washington County, 5th Ward, p. 79A.<lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Mortality Schedules, District of Columbia, Washington, p. 29.<lb/>
+<hi rend="italic">Birth Certificates (1631-1920)</hi>, New Hampshire Department of State, Concord, NH.<lb/>
+<hi rend="italic">New Hampshire Marriage Records (1700-1971)</hi>, New Hampshire Department of Health, Concord, NH, Box 740.<lb/>
+&quot;Name (1813-1879),&quot; Find A Grave, Memorial 231006475, accessed January 4, 2023, http://www.findagrave.com/memorial/231006475.<lb/>
+KYR-0001-003-0098.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
