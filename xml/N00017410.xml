@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017410">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James H. Howard</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017410">
+                    <persName>
+                      James H. Howard
+                        (Taylor County, Kentucky, resident and soldier (13th KY Inf))
+                    </persName>
+                        <event type="birth"  when="1838"  ><ab>1838</ab></event>
+                        <event type="death"  when="1901-09-08"  ><ab>1901-09-08</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Taylor County, Kentucky, resident and soldier. Taylor County, Kentucky, native. Son of Pleasant C. Howard and Katharine Howard. Resident of Taylor County in 1860. Served in the 13th Kentucky Volunteer Infantry Regiment (U.S.A.) as a corporal from December 31, 1861 to January 12, 1865. Wounded in battle in Tennessee in November 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Taylor County, Division 2, p. 648.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kansas<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0265.<lb/>
+&quot;A Good Man at Rest,&quot; <hi rend="italic">South Kansas Tribune</hi> (Independence, KS), September 11, 1901, p. 2.<lb/>
+&quot;Mustered Out,&quot; <hi rend="italic">Cherryvale Republican</hi> (Cherryvale, KS), September 13, 1901, p. 4.<lb/>
+&quot;James H. Howard (1838-1901),&quot; Find A Grave, Memorial 25142503, accessed April 5, 2022, http://www.findagrave.com/memorial/25142503.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
