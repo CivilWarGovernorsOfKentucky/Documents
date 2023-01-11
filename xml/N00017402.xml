@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017402">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Waitsville Perryman</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017402">
+                    <persName>
+                      Waitsville Perryman
+                        (Adair County, Kentucky, student, day laborer, and soldier (13 KY Inf))
+                    </persName>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
+                        <event type="death"  when="1905"  ><ab>1905</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Adair County, Kentucky, student, day laborer, and soldier. Kentucky native. Son of William Perryman and Sabrina Perryman. Married to Nancy Blair Perryman in Adair County, Kentucky, in 1858. Father of Charlotte A. Perryman and Emily J. Perryman. Student in Russell County in 1850. Day laborer in Adair County in 1860. Served in the 13th Kentucky Volunteer Infantry Regiment (U.S.A.) as a second sergeant and a private from December 31, 1861 to January 12, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Russell County, District 1, p.233A-B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Adair County, Division 2, p. 62.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Adair County, White Oak, p. 139A. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0267.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Adair County Marriages, Film 000830577.<lb/>
+&quot;A Good Citizen Gone,&quot; <hi rend="italic">The Adair County News</hi> (Columbia, KY), December 6, 1905, p. 5.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
