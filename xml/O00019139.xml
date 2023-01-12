@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00019139">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Exchange Hotel</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00019139">
+                    <orgName>Exchange Hotel</orgName>
+                        <event type="begun"  when="1847"  cert="medium" ><ab>c1847</ab></event>
+                        <event type="ended"  when="1904-11-10"  ><ab>1904-11-10</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hotel in Montgomery, Alabama. Operated from 1847 to November 10, 1904. Owner(s): J. J. Stewart, Joseph G. Field, Sterling Lanier &amp; Son, and Bulger, Hukill &amp; Company.</p>
+
+    </body>
+    <back>
+        <ab><bibl>“Demolition of the old Exchange Hotel in Montgomery, Alabama,” Alabama Department of Archives &amp; History, accessed January 6, 2023, https://digital.archives.alabama.gov/digital/collection/photo/id/6178.<lb/>
+James Frederick Sulzby, <hi rend="italic">Historic Alabama Hotels and Resorts</hi> (Tuscaloosa, Alabama: University of Alabama Press, 1960), 124-30.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
