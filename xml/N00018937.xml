@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018937">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Samuel J. Cabell</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018937">
+                    <persName>
+                      Samuel J. Cabell
+                        (Green County, Kentucky, farmhand and soldier)
+                    </persName>
+                        <event type="birth"  when="1840-05-04"  ><ab>1840-05-04</ab></event>
+                        <event type="death"  when="1864-03-06"  ><ab>1864-03-06</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Green County, Kentucky, farmhand and soldier. Kentucky native. Son of Frederick Cabell and Paulina Cabell. Resident of Green County, Kentucky, in 1850. Household owned nineteen enslaved persons in Green County in 1850. Farmhand in Green County in 1860. Household owned fourteen enslaved persons in Green County in 1860. Served in the 13th Kentucky Volunteer Infantry Regiment (U.S.A.) as a corporal, first sergeant, and first lieutenant from December 31, 1861 to March 1864. Wounded at the Battle of Huff&#39;s Ferry, Roane County, Tennessee, on November 14, 1863. Died in March 1864 of wounds received at the Battle of Huff&#39;s Ferry. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Green County, District 1, p. 109B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Green County, District 1.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Green County, District 2, p. 568.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Green County, District 2, p. 74A.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 865-6.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0263.<lb/>
+&quot;Lieut Samuel J. Cabell (1840-1864),&quot; Find A Grave, Memorial 98197080, accessed November 29, 2022, http://www.findagrave.com/memorial/98197080.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
