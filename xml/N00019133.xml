@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019133">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles Hildreth Lewis</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Abigail Stephens</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019133">
+                    <persName>
+                      Charles Hildreth Lewis
+                        (Waterboro, Maine, farmer and soldier.)
+                    </persName>
+                        <event type="birth"  when="1838-08-05"  ><ab>1838-08-05</ab></event>
+                        <event type="death"  when="1906-12-03"  ><ab>1906-12-03</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Penobscot County, Maine, soldier. Penobscot County, Maine, native. Son of William Lewis and Jane B. Lewis. Married to Orianna Pendleton Lewis in Middlesex County, Massachusetts, on October 20, 1863. Father of Charles Lewis and Leonora Lewis. Attended school in Penobscot County in 1850. Attended the Norwich Military University in Windsor County, Vermont. Graduated from the Norwich Military University in 1855. Served in the 16th U.S. Infantry Regiment as a captain.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Maine, Penobscot County, Bangor, p. 57B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, New York, Queens County, Astoria, p. 217B. <lb/>
+&quot;College Chum of Dewey,&quot; <hi rend="italic">Hartford Courant</hi>, (Hartford, Connecticut), July 29, 1898, p. 5. <lb/>
+&quot;Married,&quot; <hi rend="italic">Bangor Daily Whig and Courier</hi>, (Bangor, Maine), October 24, 1863. p. 2.<lb/>
+<hi rend="italic">Roster of Graduates and Past Cadest of Norwich University: The Military College of the State of Vermont, 1819-1907</hi>, ed. William A. Ellis, (Bradford, VT: The Opinion Press, 1907), 30. <lb/>
+<hi rend="italic">Sons of the American Revolution Membership Applications, 1889-1970</hi>, National Society of the Sons of the American Revolution, Louisville, Kentucky, National 29136, State 3661.<lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T289, United States, Application 591412, Certificate 846927.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
