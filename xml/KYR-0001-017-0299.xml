@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0299"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,9 +70,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>W<hi rend="sup">m</hi> Hays in place of O D Botner resigned Wm Pigg in place of Henry Diamond <hi rend="underline">Dec</hi> Green Kener in place of George Buckhannon resigned John Thompson in place of W<hi rend="underline"><hi rend="sup">m</hi></hi> J. Penington resigned is recomended as Justices of the peace by the County Judge</p>
+   <p><persName ref="cwgk:N00019005">W<hi rend="sup">m</hi> Hays</persName> in place of <persName ref="cwgk:N00018993">O D Botner</persName> resigned <persName ref="cwgk:N00018987">Wm Pigg </persName>in place of<persName ref="cwgk:N00018989"> Henry Diamond </persName><hi rend="underline">Dec</hi> <persName ref="cwgk:N00018994">Green Kener </persName>in place of <persName ref="cwgk:N00019003">George Buckhannon</persName> resigned <persName ref="cwgk:N00013671">John Thompson</persName> in place of <persName ref="cwgk:N00018982">W<hi rend="underline"><hi rend="sup">m</hi></hi> J. Penington</persName> resigned is recomended as Justices of the peace by the <persName ref="cwgk:N00015342">County Judge</persName></p>
 <p><date when="1862-01-17">Jan 17/62</date></p>
-<p>M B Goble C L C C</p>
+<p><persName ref="cwgk:N00018981">M B Goble</persName> C <orgName ref="cwgk:O00000653">L C C</orgName></p>
   </body>
  </text>
 </TEI>
