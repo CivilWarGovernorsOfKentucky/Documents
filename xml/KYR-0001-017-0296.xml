@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0296"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Philadelphia, <date when="1862-01-10">January 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+   <p><placeName ref="cwgk:P00001701">Philadelphia</placeName>, <date when="1862-01-10">January 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
 <lb/>No. 243 South Fifth Street
-<lb/>Hon. Jas W. Tate
+<lb/>Hon. <persName ref="cwgk:N00001223">Jas W. Tate</persName>
 <lb/>Ass<hi rend="sup">t</hi> Secretary of State
-<lb/>Frankfort Ky
+<lb/><placeName ref="cwgk:P00000308">Frankfort </placeName><placeName ref="cwgk:P001800">Ky</placeName>
 <lb/>Dear Sir,</p>
-<p>Your favor of the <date when="1862-01-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> is just received, in which it is stated that my Commission as a Commissioner of Deeds for Kentucky will be renewed upon your receipt of Five Dollars the State Tax thereon. This amount is herewith remitted in a United States Treasury Note. I remain</p>
+<p>Your favor of the <date when="1862-01-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> is just received, in which it is stated that my Commission as a Commissioner of Deeds for <orgName ref="cwgk:O001025">Kentucky</orgName> will be renewed upon your receipt of Five Dollars the State Tax thereon. This amount is herewith remitted in a <orgName ref="cwgk:O00010587">United States Treasury</orgName> Note. I remain</p>
 <p>Very Resply
 <lb/>Your obed<hi rend="underline"><hi rend="sup">t</hi></hi> Servt
-<lb/>Arthur M. Burton<pb/></p>
-<p>Pennsylvania<figure type="hr"/></p>
+<lb/><persName ref="cwgk:N001781">Arthur M. Burton</persName><pb/></p>
+<p><placeName ref="cwgk:P001006">Pennsylvania</placeName><figure type="hr"/></p>
 <p>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>A. M. Burton
 <lb/>Phila<hi rend="sup">d</hi>
