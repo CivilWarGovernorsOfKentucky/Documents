@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0294"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Rhode Island, &amp;c.
-<lb/>Secretary's Office, Providence,</p>
+   <p><orgName ref="cwgk:O00018838">State of Rhode Island</orgName>, &amp;c.
+<lb/>Secretary's Office, <placeName ref="cwgk:P00018725">Providence</placeName>,</p>
 <p><date when="1861-12-30">December 30<hi rend="sup">th</hi> A.D. 1861</date>
-<lb/>Nat. Gaither Esqr
+<lb/><persName ref="cwgk:N00002525">Nat. Gaither </persName>Esqr
 <lb/>Secretary of State
 <lb/>Sir</p>
-<p>Mr Henry Martin, of this city, who has been for several years a commissioner of Deeds for Kentucky desires to be re-appointed</p>
+<p>Mr <persName ref="cwgk:N00018726">Henry Martin</persName>, of this city, who has been for several years a commissioner of Deeds for <orgName ref="cwgk:O001025">Kentucky</orgName> desires to be re-appointed</p>
 <p>Mr Martin is well known to me, and I take great pleasure in recommending him as an efficient officer, and every way qualified to fill the office of Commissioner</p>
 <p>I am very respectfully
 <lb/>Your obedient servant
-<lb/>John R. Bartlett
+<lb/><persName ref="cwgk:N00019162">John R. Bartlett</persName>
 <lb/>Sec'y of State<pb/></p>
-<p>Rhode Island<figure type="hr"/></p>
+<p><placeName ref="cwgk:P00002519">Rhode Island</placeName><figure type="hr"/></p>
 <p>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>Henry Martin
 <lb/>Providence
