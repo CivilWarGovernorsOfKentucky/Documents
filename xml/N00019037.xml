@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019037">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Marshall Wright Chapin</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019037">
+                    <persName>
+                      Marshall Wright Chapin
+                        (Monroe County, Michigan, farmer and soldier.)
+                    </persName>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <event type="death"  when="1873-01-13"  ><ab>1873-01-13</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Monroe County, Michigan, farmer and soldier. Michigan native. Married to Louisa Vreeland Chapin. Father of Helen Chapin and Mary Chapin. Farmer in Monroe County, Michigan, in 1860. Employed John Kipp as a farm laborer in Monroe County in 1860. Served in the 4th Michigan Volunteer Infantry Regiment (U.S.A.) as a first lieutenant and captain from June 20, 1861. Served in the 23rd Michigan Volunteer Infantry Regiment (U.S.A.) as a colonel. Commanded the Thirty-Eighth Brigade of the 12th Division of the Army of the Ohio (U.S.A.) in October and November 1862. Commanded the Second Brigade of the 23rd Corps (U.S.A.) from July 1863 to April 15, 1864. Resigned on account of disability on April 15, 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Michigain, Monroe County, Ash, p. 468.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Monroe County, Berlin, p. 220A-B.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Michigan</hi>, NARA RG 94, Microfilm Series M545, Roll 0007.<lb/>
+<hi rend="italic">Record of Service of Michigan Volunteers in the Civil War, 1861-1865</hi>, (Kalamazoo, MI: Ihling Bros. &amp; Everard, 1905), 24.<lb/>
+Frank J. Welcher, <hi rend="italic">The Union Army, 1861-1865, Organizations and Operations: Volume II, The Western Theater</hi>, (Bloomington: Indiana University Press, 1993), 205, 208, 334-9, 640.<lb/>
+&quot;A Soldier&#39;s Grave,&quot; <hi rend="italic">The Salt Lake Daily Tribune</hi> (Salt Lake City, UT), May 23, 1888, p. 2.<lb/>
+&quot;Col. Marshall Wright Chapin (1831-1873),&quot; Find A Grave, Memorial 64229324, accessed January 19, 2023, https://www.findagrave.com/memorial/64229324.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
