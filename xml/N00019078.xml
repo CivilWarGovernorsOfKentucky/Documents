@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019078">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Samuel N. Benjamin</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019078">
+                    <persName>
+                      Samuel N. Benjamin
+                        (Orange County, New York, soldier)
+                    </persName>
+                        <event type="birth"  when="1839-01-03"  ><ab>1839-01-03</ab></event>
+                        <event type="death"  when="1886-05-15"  ><ab>1886-05-15</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Orange County, New York, soldier. New York native. Son of Sarah J. Benjamin. Cadet at the United States Military Academy at West Point, Orange County, New York, from July 1, 1856 to May 6, 1861. Served in Battery &quot;E&quot; 2nd U.S. Artillery as a second lieutenant, first lieutenant, and captain from May 1861 to September 1865. Brevet major and assistant professor of Mathematics at the United States Military Academy from September 12, 1864 to August 5, 1865. Brevet lieutenant colonel at San Francisco, California, from September 1865 to April 1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, New York, Orange County, West Point Town Cornwall, p. 50.<lb/>
+George W. Cullum&#39;s <hi rend="italic">Biographical Register of the Officers and Graduates of the U. S. Military Academy at West point, N. Y., from its establishment in 1802, to 1890</hi>, Volume II (Boston: Houghton Mifflin, 1891), 781-2.<lb/>
+<hi rend="italic">Official Army Register for 1863</hi>, (Washington, D.C.: Government Printing Office, 1863), 25.<lb/>
+&quot;Samuel Nicholl Benjamin (1839-1886),&quot; Find A Grave, Memorial 7869914, accessed January 9, 2023, http://www.findagrave.com/memorial/7869914.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
