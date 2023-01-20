@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0297"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,17 +70,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency B Magoffin</p>
-<p>Whereas there is a vacancy in the office of magistrate in the 2<hi rend="underline"><hi rend="sup">nd</hi></hi> District of Rockcastle County Ky. occassioned by the resignation of Tolbert Bowman Esqr. now we the undersigned being neighbors of Newton Whitehead and desiring to have some qualified person to fill said vacancy -- do hereby recommend the said Whitehead to your Excellencys consideration as a fit and proper person to fill the same</p>
+   <p>To His Excellency <persName ref="cwgk:N00000258">B Magoffin</persName></p>
+<p>Whereas there is a vacancy in the office of magistrate in the 2<hi rend="underline"><hi rend="sup">nd</hi></hi> District of <placeName ref="cwgk:P00000906">Rockcastle County </placeName><placeName ref="cwgk:P001800">Ky</placeName>. occassioned by the resignation of <persName ref="cwgk:N00019166">Tolbert Bowman </persName>Esqr. now we the undersigned being neighbors of <persName ref="cwgk:N00015654">Newton Whitehead</persName> and desiring to have some qualified person to fill said vacancy -- do hereby recommend the said Whitehead to your Excellencys consideration as a fit and proper person to fill the same</p>
 <p><date when="1862-01-08">Jany 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
 <p>Names
-<lb/>F B M<hi rend="sup">c</hi>Clary. Atto
-<lb/>James. M. Smith
-<lb/>Ja<hi rend="sup">s</hi> C. Jones
+<lb/><persName ref="cwgk:N00002705">F B M<hi rend="sup">c</hi>Clary</persName>. Atto
+<lb/><persName ref="cwgk:N00019167">James. M. Smith</persName>
+<lb/><persName ref="cwgk:N00000453">Ja<hi rend="sup">s</hi> C. Jones</persName>
 <lb/>Cty Atty
-<lb/>B K Bethurum Judge
-<lb/>of the Rockcastle court
-<lb/>D G Colyer Co clk<pb/></p>
+<lb/><persName ref="cwgk:N00012782">B K Bethurum </persName>Judge
+<lb/>of the <orgName ref="cwgk:O00000711">Rockcastle court</orgName>
+<lb/><persName ref="cwgk:N00002703">D G Colyer </persName>Co clk<pb/></p>
 <p>Rockcastle Co.<figure type="hr"/></p>
 <p>J. P.
 <lb/>N. Whitehead
