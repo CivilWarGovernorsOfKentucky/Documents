@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019190">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Lewis Crumbaugh</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019190">
+                    <persName>
+                      William Lewis Crumbaugh
+                        (Lyon County, Kentucky, farmer.)
+                    </persName>
+                        <event type="birth"  when="1835-04-25"  ><ab>1835-04-25</ab></event>
+                        <event type="death"  when="1925-03-12"  ><ab>1925-03-12</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lyon County, Kentucky, farmer. Logan County, Kentucky, native. Son of Eli Crumbaugh and Elizabeth Townsend Crumbaugh. Married to Virginia C. Lander Crumbaugh in Lyon County, Kentucky, on August 3, 1856. Father of Mary Crumbaugh, Nannie Crumbaugh, and Cleo Crumbaugh. Resident of Caldwell County in 1850. Household owned fifteen enslaved persons in Caldwell County in 1850. Farmer in Lyon County in 1860. Owned five enslaved persons in Lyon County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 339B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Caldwell County, District 1, p. 846.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, p. 690.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Lyon County, p. 411B.<lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Lyon County, Eddyville, p. 6C.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Lyon County Marriages, Film 000321364.<lb/>
+&quot;Ex-Lyon County Judge is Dead,&quot; <hi rend="italic">The Courier-Journal</hi> (Louisville, KY), March 14, 1925, p. 6.<lb/>
+&quot;Oldest Kuttawa Resident Dead,&quot; <hi rend="italic">The Paducah Evening News</hi> (Paducah, KY), March 21, 1925, p. 5.<lb/>
+<hi rend="italic">Memorial Record of Western Kentucky</hi>, vol. 1 (Chicago: The Lewis Publishing Company, 1904), 13-14.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
