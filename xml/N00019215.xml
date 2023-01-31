@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019215">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert C. Thompson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019215">
+                    <persName>
+                      Robert C. Thompson
+                        (Lyon County, Kentucky, farmer)
+                    </persName>
+                        <event type="birth"  when="1801"  cert="medium" ><ab>c1801</ab></event>
+                        <event type="death"  when="1872"  ><ab>1872</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lyon County, Kentucky, farmer. Kentucky native. Married to Sarah Wrigglesworth Thompson in Jefferson County, Kentucky, in September 1831. Father of Mary F. Thompson, Agnes Thompson, Harrison Thompson, Robert C. Thompson, Sidney Thompson, and Phillip R. Thompson. Custom House Officer in Louisville, Jefferson County, Kentucky, in 1850. Owned six enslaved persons in Louisville in 1850. Farmer in Lyon County in 1860. Owned eighteen enslaved persons in Lyon County in 1860. Owned Mary Jane [Unknown] in Lyon County in 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville District 2, p. 167B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Jefferson County, Louisville District 2.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 767.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Lyon County, Eddyville, p. 416A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lyon County, Eddyville, p. 42A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994046, Lyon County Births.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film 000482706.<lb/>
+&quot;Robert Coleman Thompson (180101872),&quot; Find A Grave, Memorial 6656659, accessed January 24, 2023, https://www.findagrave.com/memorial/6656659.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
