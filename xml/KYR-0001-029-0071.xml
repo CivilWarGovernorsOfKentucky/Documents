@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0071"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,75 +71,75 @@
  </teiHeader>
  <text>
   <body>
-   <p>Eddyville Ky.
+   <p><placeName ref="cwgk:P00003025">Eddyville</placeName> <placeName ref="cwgk:P001800">Ky</placeName>.
 <lb/><date when="1862-10-18">Oct. 18 1862</date>
-<lb/>To his Excellency J. F Robertson
-<lb/>Governor of Kentucky</p>
-<p>The undersigned Citizens of Lyon County would respectfully represent to Your Excellency that at the <date when="1856-10">October term 1856</date> of the Lyon Circuit Court a judgement was obtained against J V Hildreth and W W Hildreth for the Sum of &#36;100. each upon a forfeiture of a recognizance bond and that application was made to Gov<hi rend="sup">r</hi> Morehad for a remission of the same, which was by him respited for 6 months, and afterwards for 6 months longer, but no remission of the fine was ever made the records of the Circuit Clerks office shows that the fees of the Commonwealth attorney &amp; officers of the Court have all been paid and the party being poor and having larger families to support &amp; executions now pressing the parties, we most respectfully ask that under the Circumstances your excellincy will extend to them that clemency which we think is due to them, that is, that you remit the fines of each, as we are well satisfied the money cannot be collected without distressing their families</p>
+<lb/>To his Excellency <persName ref="cwgk:N001004">J. F Robertson</persName>
+<lb/>Governor of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>The undersigned Citizens of <placeName ref="cwgk:P00002081">Lyon County</placeName> would respectfully represent to Your Excellency that at the <date when="1856-10">October term 1856</date> of the <orgName ref="cwgk:O00000412">Lyon Circuit Court</orgName> a judgement was obtained against <persName ref="cwgk:N00019181">J V Hildreth</persName> and <persName ref="cwgk:N00019029">W W Hildreth</persName> for the Sum of $100. each upon a forfeiture of a recognizance bond and that application was made to <persName ref="cwgk:N00002722">Gov<hi rend="sup">r</hi> Morehad</persName> for a remission of the same, which was by him respited for 6 months, and afterwards for 6 months longer, but no remission of the fine was ever made the records of the Circuit Clerks office shows that the fees of the Commonwealth attorney &amp; officers of the Court have all been paid and the party being poor and having larger families to support &amp; executions now pressing the parties, we most respectfully ask that under the Circumstances your excellincy will extend to them that clemency which we think is due to them, that is, that you remit the fines of each, as we are well satisfied the money cannot be collected without distressing their families</p>
 <p>Respectfully</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>F Harrison
-<lb/>Williamson <unclear>Brimening</unclear>
-<lb/>Andy M<hi rend="sup">c</hi>Crea
-<lb/>G, M, Huggans
-<lb/>L. M. Cobb
-<lb/><cb n="2"/>Robert. A, Dickson
-<lb/>John Mayhugh
-<lb/>Giles Barrett
-<lb/>L F Cash<pb/>
-<lb/><cb n="1"/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> P,, Paine
-<lb/>W B Wadlington
-<lb/>J M Etheridge
-<lb/>P M Hildreth
-<lb/>S P. L Marshall Jr
-<lb/>A H Dudly clk Lyon Circuit Court
-<lb/>W <unclear/> Bowman
-<lb/>Robt Boyd
-<lb/>Ja<hi rend="sup">s</hi> Stone
-<lb/>J. M. Bigham
-<lb/>J H Holloway
-<lb/>John W Burt
-<lb/>D, L, Gardner
-<lb/>John H Brock
-<lb/>A. E. Holland
-<lb/>J. N. Holloway
-<lb/>J. H. Catlett
-<lb/>C,, I,, Stern
-<lb/>Wm C. Bigham
-<lb/>A H Champion
-<lb/>John Stacker Jr -- 
-<lb/>John Long
-<lb/>E Z Smith
-<lb/>B G Morris
-<lb/>H Smith
-<lb/>J Piles
-<lb/>Henry Lady
-<lb/>A B, Louis
-<lb/>J T Young
-<lb/>C U Penfield
-<lb/>Thomas Love
-<lb/><cb n="2"/>A. M, Fleming
-<lb/>W. W. Hollman
-<lb/>R, T, Hannis
-<lb/>Samuel Tucker
-<lb/>Archd. Hunter
-<lb/>J. D Jones
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00019209">F Harrison</persName>
+<lb/><persName ref="cwgk:N00019178">Williamson <unclear>Brimening</unclear></persName>
+<lb/><persName ref="cwgk:N00014090">Andy M<hi rend="sup">c</hi>Crea</persName>
+<lb/><persName ref="cwgk:N00006365">G, M, Huggans</persName>
+<lb/><persName ref="cwgk:N00006394">L. M. Cobb</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00007246">Robert. A, Dickson</persName>
+<lb/><persName ref="cwgk:N00019163">John Mayhugh</persName>
+<lb/><persName ref="cwgk:N00019164">Giles Barrett</persName>
+<lb/><persName ref="cwgk:N00006373">L F Cash</persName><pb/>
+<lb/><cb n="1"/><persName ref="cwgk:N00006388">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> P,, Paine</persName>
+<lb/><persName ref="cwgk:N00006403">W B Wadlington</persName>
+<lb/><persName ref="cwgk:N00014120">J M Etheridge</persName>
+<lb/><persName ref="cwgk:N00006369">P M Hildreth</persName>
+<lb/><persName ref="cwgk:N00019165">S P. L Marshall Jr</persName>
+<lb/><persName ref="cwgk:N00002700">A H Dudly </persName>clk Lyon Circuit Court
+<lb/><persName ref="cwgk:N00006415">W <unclear/> Bowman</persName>
+<lb/><persName ref="cwgk:N00019173">Robt Boyd</persName>
+<lb/><persName ref="cwgk:N00019232">Ja<hi rend="sup">s</hi> Stone</persName>
+<lb/><persName ref="cwgk:N00007223">J. M. Bigham</persName>
+<lb/><persName ref="cwgk:N00019174">J H Holloway</persName>
+<lb/><persName ref="cwgk:N00014053">John W Burt</persName>
+<lb/><persName ref="cwgk:N00006382">D, L, Gardner</persName>
+<lb/><persName ref="cwgk:N00007244">John H Brock</persName>
+<lb/><persName ref="cwgk:N00015622">A. E. Holland</persName>
+<lb/><persName ref="cwgk:N00006407">J. N. Holloway</persName>
+<lb/><persName ref="cwgk:N00007225">J. H. Catlett</persName>
+<lb/><persName ref="cwgk:N00019175">C,, I,, Stern</persName>
+<lb/><persName ref="cwgk:N00006411">Wm C. Bigham</persName>
+<lb/><persName ref="cwgk:N00006383">A H Champion</persName>
+<lb/><persName ref="cwgk:N00012889">John Stacker Jr --</persName> 
+<lb/><persName ref="cwgk:N00014049">John Long</persName>
+<lb/><persName ref="cwgk:N00006422">E Z Smith</persName>
+<lb/><persName ref="cwgk:N00007230">B G Morris</persName>
+<lb/><persName ref="cwgk:N00019231">H Smith</persName>
+<lb/><persName ref="cwgk:N00019180">J Piles</persName>
+<lb/><persName ref="cwgk:N00019179">Henry Lady</persName>
+<lb/><persName ref="cwgk:N00019183">A B, Louis</persName>
+<lb/><persName ref="cwgk:N00003016">J T Young</persName>
+<lb/><persName ref="cwgk:N00012873">C U Penfield</persName>
+<lb/><persName ref="cwgk:N00019226">Thomas Love
+</persName><lb/><cb n="2"/><persName ref="cwgk:N00006370">A. M, Fleming</persName>
+<lb/><persName ref="cwgk:N00006368">W. W. Hollman</persName>
+<lb/><persName ref="cwgk:N00019188">R, T, Hannis</persName>
+<lb/><persName ref="cwgk:N00019206">Samuel Tucker</persName>
+<lb/><persName ref="cwgk:N00016391">Archd. Hunter</persName>
+<lb/><persName ref="cwgk:N00019228">J. D Jones</persName>
 <lb/><hi rend="underline">O M. Jenkins</hi>
-<lb/>S C Oliver
-<lb/>F. H. Skinner
-<lb/>R, R, O'Hara
-<lb/>J, H, Hunter
-<lb/>James O'Hara
-<lb/>Harrison P. Smith
-<lb/>W. W. Pinner
-<lb/>N F. Braswell
-<lb/>R C Thompson
-<lb/>Ja<hi rend="sup">s</hi> N Gracey
-<lb/>W L Crumbaugh
-<lb/>Urey. Henry
+<lb/><persName ref="cwgk:N00019205">S C Oliver</persName>
+<lb/><persName ref="cwgk:N00006362">F. H. Skinner</persName>
+<lb/><persName ref="cwgk:N00006363">R, R, O'Hara</persName>
+<lb/><persName ref="cwgk:N00019212">J, H, Hunter</persName>
+<lb/><persName ref="cwgk:N00007248">James O'Hara</persName>
+<lb/><persName ref="cwgk:N00019176">Harrison P. Smith</persName>
+<lb/><persName ref="cwgk:N00006391">W. W. Pinner</persName>
+<lb/><persName ref="cwgk:N00012689">N F. Braswell</persName>
+<lb/><persName ref="cwgk:N00019215">R C Thompson</persName>
+<lb/><persName ref="cwgk:N00006409">Ja<hi rend="sup">s</hi> N Gracey</persName>
+<lb/><persName ref="cwgk:N00019190">W L Crumbaugh</persName>
+<lb/><persName ref="cwgk:N00006408">Urey. Henry</persName>
 <lb/><hi rend="underline">Rob</hi><hi rend="underline"><hi rend="sup">t</hi></hi><hi rend="underline"> L Cobb</hi>
-<lb/>J,, C,, Cobb
-<lb/>J. L Stubbs
-<lb/>&amp;#9758; Jonas Martin Member of the Ky Legislature from the Countys of Lyon and Livingston<pb/></p>
+<lb/><persName ref="cwgk:N00019191">J,, C,, Cobb</persName>
+<lb/><persName ref="cwgk:N00006366">J. L Stubbs</persName>
+<lb/>&amp;#9758; <persName ref="cwgk:N00000209">Jonas Martin</persName> Member of the <orgName ref="cwgk:O00000923">Ky Legislature </orgName>from the Countys of Lyon and <placeName ref="cwgk:P00002063">Livingston</placeName><pb/></p>
 <p><milestone unit="column" n="1"/>Smithland Ky <date when="1862-10-31">Oct 31 -- 1862</date>
 <lb/>Gov Robinson Dear Sir</p>
 <p>at the Request of several of my Constituants of Lyon County I have Signed the enclosed Petition beleaving it to be true Just and proper. the gentlemen that the Petition is in faver of are good &amp; worthy Citazens and men of limated means and are absolutely unable to pay the fine Beleaveing that you could confur a favor on none more. worthey and none that would feel more greatful. after presenting my kindest personal Regards to you And hopeing to hear from you soon on this Sugect I Reman your</p>
@@ -145,7 +153,7 @@
 <p>Upon the representation of J. Martin as to the facts in the case I remit one half of the fine <date when="1863-01-28">28 Jan 1863</date></p>
 <p><hi rend="underline">J F Robinson</hi><figure type="hr"/></p>
 <p>Lyon Cir Ct
-<lb/>&#36;100 &#125; Recog
+<lb/>$100 } Recog
 <lb/>Is<hi rend="sup">d</hi> <date when="1863-01-28">Jany 28 1863</date></p>
   </body>
  </text>
