@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. A. Brawser</title>
+        <title level="a" type="main">Robert A. Brawner</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +47,10 @@
         <particDesc>
                 <person xml:id="N00009261">
                     <persName>
-                      R. A. Brawser
-                        (Franklin County Resident)
+                      Robert A. Brawner
+                        (Franklin County, KY, brick and stonemason)
                     </persName>
+                        <event type="birth"  when="1803"  cert="medium" ><ab>c1803</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +59,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Michael Scott in Franklin County in 1861. </p>
+        <p>Franklin County, Kentucky, brick and stonemason. Maryland native. Married to Catherine Murray Brawner. Father of Alexander Brawner, Agnes L. Brawner, Thomas Brawner, Henry K. Brawner, Lavenia Brawner, and James G. Brawner. Stonemason in Franklin County, Kentucky, in 1850. Owned sixteen enslaved persons in Franklin County in 1850. Brick and stonemason in Franklin County in 1860. Owned seven enslaved persons in Franklin County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1490
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 42A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Franklin County, District 1, p. 867.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 244.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Franklin County, Frankfort, p. 490A.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 21703.<lb/>
+KYR-0001-020-1490.
 </bibl></ab>
     </back>
 </text>
