@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Ben Luckett</title>
+        <title level="a" type="main">Benjamin Luckett</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Emily D. Moses</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,10 @@
         <particDesc>
                 <person xml:id="N00009280">
                     <persName>
-                      Ben Luckett
-                        (Franklin County Resident)
+                      Benjamin Luckett
+                        (Franklin County, Kentucky, jailer.)
                     </persName>
+                        <event type="birth"  when="1788"  cert="medium" ><ab>c1788</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +55,20 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed petition on behalf of Michael Scott in 1860 in Franklin County. </p>
+        <p>Franklin County, Kentucky, jailer. Maryland native. Married to Mariah Holton Luckett in Franklin County, Kentucky, on June 16, 1814. Father of Mary E. Luckett, Monarcha E. Luckett Taylor, and Anne Fenwick Luckett. Resident of Franklin County, Kentucky, in 1830. Owned six enslaved persons in Franklin County in 1830. Resident of Franklin County in 1840. Owned four enslaved persons in Franklin County in 1840. County jailer in Franklin County in 1850. Owned ten enslaved persons in Franklin County in 1850. Owned Ben [Unknown] in Franklin County in 1855. Owned Tom [Unknown] in Franklin County in 1859. Resident of Frankfort, Franklin County, in 1860. Household owned one enslaved person in Frankfort in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-1490
+        <ab><bibl><hi rend="italic">Fifth Manuscript Census of the United States</hi> (1830), Population Schedules, Franklin County, Northern Division, p. 122.<lb/>
+<hi rend="italic">Sixth Manuscript Census of the United States</hi> (1840), Population Schedules, Franklin County, North Division, p. 317.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 106A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Franklin County, District 2.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 253.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Franklin County, Frankfort, p. 491A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994034, Franklin County Births.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994034, Franklin County Deaths.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 4010.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Franklin County Marriages, Film 000266192.
 </bibl></ab>
     </back>
 </text>
