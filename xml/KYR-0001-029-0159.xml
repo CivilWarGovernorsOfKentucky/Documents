@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0159"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,27 +70,27 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bazell Hall Forgery Two years nine months Madison <date when="1860-06">June Term 1860</date>
+   <p><persName ref="cwgk:N00006972">Bazell Hall</persName> Forgery Two years nine months <placeName ref="cwgk:P00006506">Madison</placeName> <date when="1860-06">June Term 1860</date>
 <lb/>Time Expires <date when="1863-04-03">Apl 3<hi rend="sup">d</hi> 1863</date></p>
 <p>The prisoner has behaved well and we recommend his Pardon</p>
-<p><hi rend="underline">Jas L L Sneed</hi>
-<lb/>Clk Ky Penty
-<lb/>L P Prentiss
+<p><hi><persName ref="cwgk:N00000463">Jas L L Sneed</persName></hi>
+<lb/>Clk <placeName ref="cwgk:P001800">Ky</placeName> <orgName ref="cwgk:O00000266">Penty</orgName>
+<lb/><persName ref="cwgk:N00019398">L P Prentiss</persName>
 <lb/>Assistant keaper -- 
-<lb/>R W Lawler assistant keeper
-<lb/>J. L. Hockensmith Guard
-<lb/>R K Taylor " "
-<lb/>J. Gallahue " "
-<lb/>L. Tobias
-<lb/>Thos. J. Frazier
-<lb/>R W Wilhoit</p>
-<p>I was the attorney for the Commonwealth who prosecuted the prisoner to conviction, and I most earnestly submit his discharge.</p>
-<p>W. S. Downey
+<lb/><persName ref="cwgk:N00000462">R W Lawler</persName> assistant keeper
+<lb/><persName ref="cwgk:N00019399">J. L. Hockensmith</persName> Guard
+<lb/><persName ref="cwgk:N00019488">R K Taylor</persName> " "
+<lb/><persName ref="cwgk:N00019489">J. Gallahue</persName> " "
+<lb/><persName ref="cwgk:N00019491">L. Tobias</persName>
+<lb/><persName ref="cwgk:N00001157">Thos. J. Frazier</persName>
+<lb/><persName ref="cwgk:N00017515">R W Wilhoit</persName></p>
+<p>I was the attorney for the <orgName ref="cwgk:O001025">Commonwealth</orgName> who prosecuted the prisoner to conviction, and I most earnestly submit his discharge.</p>
+<p><persName ref="cwgk:N00006117">W. S. Downey</persName>
 <lb/>Comm atty
 <lb/>13<hi rend="sup">th</hi> Jud Dist -- <pb/></p>
-<p>Madison Cir Ct</p>
+<p><orgName ref="cwgk:O00000422">Madison Cir Ct</orgName></p>
 <p>I am of opinion upon all the facts to me testified that the within named Bazall Hall should now be pardoned &amp; direct a pardon to issue accordingly <date when="1863-01-30">30 Jany 1863</date></p>
-<p><hi rend="underline">J F Robinson</hi></p>
+<p><hi><persName ref="cwgk:N001004">J F Robinson</persName></hi></p>
 <p>Forgery
 <lb/>2 yrs. 9 mos
 <lb/>Basil Hall
