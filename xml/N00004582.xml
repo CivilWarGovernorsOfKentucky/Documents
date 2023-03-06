@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -47,6 +51,7 @@
                         (lawyer, fleming county)
                     </persName>
                         <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <event type="death"  when="1901"  ><ab>1901</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Fleming County, Kentucky, attorney. Kentucky native. Attorney in Fleming County in 1860. </p>
+        <p>Fleming County, Kentucky, attorney. Kentucky native. Married to Elizabeth Metcalf Alexander. Father of Eliza Alexander, Abram Alexander, and Rosannah Alexander. Attorney in Fleming County, Kentucky, in 1850. Attorney in Fleming County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 17. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, Flemingsburg, p. 256B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 627.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Flemingsburg, p. 408B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994034, Fleming County Births.<lb/>
+&quot;Judge Alexander,&quot; <hi rend="italic">The Evening Bulletin</hi> (Maysville, KY), February 21, 1901, p. 3.
 </bibl></ab>
     </back>
 </text>
