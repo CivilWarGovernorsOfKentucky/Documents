@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0183"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,20 +71,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excelency Jas F Robinson
-<lb/>Governor of the Commonwealth of Ky</p>
-<p>The undersigned Petitioners Beg leave to Represent to youre Excelency that at the <date when="1858-09">Sept Term 1858</date> of the Powell Circuit Court that the Commonwealth of Ky obtained a Judgement against James H. Muncey for Twenty dollars for unlawful gaming </p>
-<p>and we would further Represent to youre Excelencey that Said Muncey is now in the Service of the United States and has been ever since <date when="1861-08">August 1861</date> and has Left a Family dependent upon him for Suport and in view of his Service to his Country we would Respictufuly Beg of youre Excelencey to Remit Said fines </p>
+   <p>To his Excelency <persName ref="cwgk:N001004">Jas F Robinson</persName>
+<lb/>Governor of the <orgName ref="cwgk:O001025">Commonwealth</orgName> of <placeName ref="cwgk:P001800">Ky</placeName></p>
+<p>The undersigned Petitioners Beg leave to Represent to youre Excelency that at the <date when="1858-09">Sept Term 1858</date> of the <orgName ref="cwgk:O00000491">Powell Circuit Court</orgName> that the Commonwealth of Ky obtained a Judgement against <persName ref="cwgk:N00019538">James H. Muncey</persName> for Twenty dollars for unlawful gaming </p>
+<p>and we would further Represent to youre Excelencey that Said Muncey is now in the <orgName ref="cwgk:O00001186">Service of the United States</orgName> and has been ever since <date when="1861-08">August 1861</date> and has Left a Family dependent upon him for Suport and in view of his Service to his Country we would Respictufuly Beg of youre Excelencey to Remit Said fines </p>
 <p><date when="1863-01-24">Jan 24<hi rend="sup">th</hi> 1863</date>
-<lb/>J N B Hardwick J P C C
-<lb/>C J Creed. C. P. C
-<lb/>M Steward
-<lb/>Johnson, A. Dawson D, S, P, C
-<lb/>Th<hi rend="underline"><hi rend="sup">os</hi></hi> C Judy Clerk P. C. C<pb/></p>
+<lb/><persName ref="cwgk:N00006960">J N B Hardwick</persName> J P C C
+<lb/><persName ref="cwgk:N00006966">C J Creed</persName>. C. P. C
+<lb/><persName ref="cwgk:N00017634">M Steward</persName>
+<lb/><persName ref="cwgk:N00017633">Johnson, A. Dawson</persName> D, S, P, C
+<lb/><persName ref="cwgk:N00006959">Th<hi rend="underline"><hi rend="sup">os</hi></hi> C Judy</persName> Clerk P. C. C<pb/></p>
 <p>Powell Cir. Ct</p>
 <p>Fine remitted
 <lb/>J F Robinson</p>
-<p>&#36;20. &#125; Gaming
+<p>$20. } Gaming
 <lb/>James F Muncey
 <lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-03">Feby 3<hi rend="underline"><hi rend="sup">d</hi></hi> 1863</date><figure type="hr"/></p>
 <p><table rend="rules">
