@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0181"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,22 +67,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excelincy Jas F Robinson
-<lb/>Governor of the Commonwealth of Ky</p>
-<p>The undersigned would Represent to youre Excelincy that ^at the^ <date when="1858-09">Sept. Term of the Powell Circuit Court 1858</date> that the Commonwealth obtained a Judgement against John Woodward for unlawful gaming ^for thirty dollars^ and that J N B Hardwick to Prevent him from going to Jail Repleved the Same for him</p>
-<p>and they would further represent that Said Woodward has since left the State without Paying Said fine and that the Sheriff is now endevoring to make the Same out of Said Hardwick which if made will be very oppressive on him and we would humbly aske youre Excelincy to remit Said fine.</p>
+   <p>To his Excelincy <persName ref="cwgk:N001004">Jas F Robinson</persName>
+<lb/>Governor of the <orgName ref="cwgk:O001025">Commonwealth of Ky</orgName></p>
+<p>The undersigned would Represent to youre Excelincy that ^at the^ <date>Sept. Term of the <orgName ref="cwgk:O00000491">Powell Circuit Court</orgName> 1858</date> that the Commonwealth obtained a Judgement against <persName ref="cwgk:N00019535">John Woodward</persName> for unlawful gaming ^for thirty dollars^ and that <persName ref="cwgk:N00006960">J N B Hardwick</persName> to Prevent him from going to Jail Repleved the Same for him</p>
+<p>and they would further represent that Said Woodward has since left the <placeName ref="cwgk:P001800">State</placeName> without Paying Said fine and that the <persName ref="cwgk:N00002895">Sheriff</persName> is now endevoring to make the Same out of Said Hardwick which if made will be very oppressive on him and we would humbly aske youre Excelincy to remit Said fine.</p>
 <p>Yours with respect
 <lb/><date when="1863-01-24">Jan 24<hi rend="sup">th</hi> 1863</date>.</p>
-<p>J. B Scholl
-<lb/>Johnson, A, Dawson D S. P. C
-<lb/>John F. Hatten J P C
-<lb/>C D Creed. C. P. C
-<lb/>M Steward
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> C Judy <hi rend="underline">C. P. C C</hi><pb/></p>
+<p><persName ref="cwgk:N00006963">J. B Scholl</persName>
+<lb/><persName ref="cwgk:N00017633">Johnson, A, Dawson</persName> D S. P. C
+<lb/><persName ref="cwgk:N00006961">John F. Hatten</persName> J P C
+<lb/><persName ref="cwgk:N00006966">C D Creed</persName>. C. P. C
+<lb/><persName ref="cwgk:N00017634">M Steward</persName>
+<lb/><persName ref="cwgk:N00006959">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> C Judy</persName> <hi rend="underline">C. P. C C</hi><pb/></p>
 <p>Powell Cir. Ct</p>
 <p>One half remitted
 <lb/>J F Robinson</p>
-<p>&#36;30. &#125; Gaming
+<p>$30. } Gaming
 <lb/>John Woodward
 <lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-03">Feby 3<hi rend="sup">d</hi> 1863</date></p>
   </body>
