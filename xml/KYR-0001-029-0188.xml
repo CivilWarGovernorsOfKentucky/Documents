@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0188"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniel Farrell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +71,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1863-01-22">Jan 22<hi rend="underline"><hi rend="sup">d</hi></hi> 1863</date>.
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1863-01-22">Jan 22<hi rend="underline"><hi rend="sup">d</hi></hi> 1863</date>.
 <lb/>His Excellency
-<lb/>Gov Jas F. Robinson
+<lb/><persName ref="cwgk:N001004">Gov Jas F. Robinson</persName>
 <lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir</p>
-<p>Mrs Kearny was fined in two cases in the city court at the last Term &#36;75. that is &#36;25 in one case &amp; &#36;50 in the other; you have respited the collection for six months &amp; Mrs Kearney has requested me to state to you her character &amp; Standing here, she is a widow &amp; has always been regarded as a civil orderly &amp; well behaved woman, she never was arrested before on any charge nor for any Misdemeanor, &amp; I presume she is wholy unable to pay the fines; I have no reccollection that he Husband was ever arrested or charged with any violation of the Penal Laws</p>
+<p><persName ref="cwgk:N00012569">Mrs Kearny</persName> was fined in two cases in the city court at the last Term $75. that is $25 in one case &amp; $50 in the other; you have respited the collection for six months &amp; Mrs Kearney has requested me to state to you her character &amp; Standing here, she is a widow &amp; has always been regarded as a civil orderly &amp; well behaved woman, she never was arrested before on any charge nor for any Misdemeanor, &amp; I presume she is wholy unable to pay the fines; I have no reccollection that he <persName ref="cwgk:N00012644">Husband</persName> was ever arrested or charged with any violation of the Penal Laws</p>
 <p>Very Respectfully your
 <lb/>ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
-<lb/>Geo. W. Johnston.
+<lb/><persName ref="cwgk:N00001155">Geo. W. Johnston</persName>.
 <lb/><note place="footer">(over)</note><pb/></p>
-<p>The Draftsman of the Petition made a mistake in stating that the fine was &#36;75 in Each case It was that amount in the two cases. &#36;25 in one case &amp; &#36;50 in the other case.</p>
+<p>The Draftsman of the Petition made a mistake in stating that the fine was $75 in Each case It was that amount in the two cases. $25 in one case &amp; $50 in the other case.</p>
 <p>I do not <hi rend="underline">recollect</hi> that Mrs <hi rend="underline">Kearny</hi> was Ever fined <hi rend="underline">for</hi> <hi rend="underline">any</hi> <hi rend="underline">violation</hi> of <hi rend="underline">the law</hi> before the time herein mentioned</p>
-<p>W. G, Reasor</p>
+<p><persName ref="cwgk:N002029">W. G, Reasor</persName></p>
   </body>
  </text>
 </TEI>
