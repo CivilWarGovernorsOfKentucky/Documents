@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[Unknown] Owsley</title>
+        <title level="a" type="main">John S. Owsley</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Melissa DeVelvis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
@@ -43,9 +47,12 @@
         <particDesc>
                 <person xml:id="N00010701">
                     <persName>
-                      [Unknown] Owsley
-                        (Crab Orchard, Kentucky, resident)
+                      John S. Owsley
+                        (Lincoln County, Kentucky, )
                     </persName>
+                        <event type="birth"  when="1840-10-03"  ><ab>1840-10-03</ab></event>
+                        <event type="death"  when="1914-01-24"  ><ab>1914-01-24</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +60,18 @@
     </teiHeader>
     <text>
     <body>
-        <p>Crab Orchard, Kentucky, resident. Mentioned as victim of theft in a letter to James F. Robinson from Hamilton Pope on April 9, 1863.</p>
+        <p>Lincoln County, Kentucky, resident. Lincoln County, Kentucky, native. Son of Samuel Owsley and Eliza W. Owsley. Married to Susan Malinda Miller Owsley in Madison County, Kentucky, on October 15, 1861. Father of Mary E. Owsley. Resident of Lincoln County, Kentucky, in 1850. Household owned twenty-nine enslaved persons in Lincoln County in 1850. Resident of Lincoln County in 1860. Household owned twenty-nine enslaved persons in Lincoln County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-033-0039.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lincoln County, District 2, p. 303A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Lincoln County, District 2.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lincoln County, Crab Orchard, p. 59.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Lincoln County, pp. 346A-B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lincoln County, Stanford Precinct, p. 98B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Madison County Marriages, Film 000183317.<lb/>
+&quot;Mr. J.S. Owsley Passes Away,&quot; <hi rend="italic">Lexington Leader</hi> (Lexington, KY), January 24, 1914), p. 1.<lb/>
+&quot;John Samuel Owsley Sr. (1840-1914),&quot; Find A Grave, Memorial 39900723, accessed April 3, 2023, https://www.findagrave.com/memorial/39900723.
 </bibl></ab>
     </back>
 </text>
