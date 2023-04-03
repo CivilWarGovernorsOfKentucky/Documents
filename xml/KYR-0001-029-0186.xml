@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0186"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniel Farrell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,24 +70,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>STATE AND COMMONWEALTH OF KENTUCKY,
-<lb/>JEFFERSON COUNTY AND CIRCUIT, SCT.
-<lb/>Against Lyman Guinnip and C G Bradshaw
+   <p><placeName ref="cwgk:P001800">STATE</placeName> AND <orgName ref="cwgk:O001025">COMMONWEALTH OF KENTUCKY</orgName>,
+<lb/><placeName ref="cwgk:P001005">JEFFERSON COUNTY</placeName> AND <orgName ref="cwgk:O001000">CIRCUIT, SCT</orgName>.
+<lb/>Against <persName ref="cwgk:N00010702">Lyman Guinnip</persName> and <persName ref="cwgk:N00010703">C G Bradshaw</persName>
 <lb/><date when="1863-01">January Term of the Jefferson Circuit Court, in the year of our Lord, one thousand eight hundred and sixty-three</date></p>
-<p>The Jurors of the Grand Jury, impannelled and sworn to inquire in and for the body of the County of Jefferson, in the name and by the authority of the Commonwealth of Kentucky, on their oath, present that Lyman Guinnip and C G Bradshaw late of said County, on the <date when="1862-10-17">17<hi rend="underline"><hi rend="sup">th</hi></hi> day of October in the year eighteen hundred and sixty-two</date> in the said County of Jefferson, and State of Kentucky, <hi rend="str">with force and arms </hi>committed the crime of Grand Larceny as follows towit. The said Lyman Guinnip and C G Bradshaw on the <date when="1862-10-17">17<hi rend="sup">th</hi> day of October A D 1862</date> in the County aforesaid, One buggy and one set of harness of the value of One hundred dollars. of the goods and chattels of John S. Owsley then and there being and found, feloniously did steal, take, and carry away, contrary to the form of the Statute, in that case made and provided, and against the peace and dignity of the Commonwealth of Kentucky:</p>
-<p>J R Dupuy.
+<p>The Jurors of the Grand Jury, impannelled and sworn to inquire in and for the body of the County of Jefferson, in the name and by the authority of the Commonwealth of Kentucky, on their oath, present that Lyman Guinnip and C G Bradshaw late of said County, on the <date when="1862-10-17">17<hi rend="underline"><hi rend="sup">th</hi></hi> day of October in the year eighteen hundred and sixty-two</date> in the said County of Jefferson, and State of Kentucky, <hi rend="str">with force and arms </hi>committed the crime of Grand Larceny as follows towit. The said Lyman Guinnip and C G Bradshaw on the <date when="1862-10-17">17<hi rend="sup">th</hi> day of October A D 1862</date> in the County aforesaid, One buggy and one set of harness of the value of One hundred dollars. of the goods and chattels of <persName ref="cwgk:N00010701">John S. Owsley</persName> then and there being and found, feloniously did steal, take, and carry away, contrary to the form of the Statute, in that case made and provided, and against the peace and dignity of the Commonwealth of Kentucky:</p>
+<p><persName ref="cwgk:N002002">J R Dupuy</persName>.
 <lb/>Comth atty.</p>
 <p><hi rend="italic">Witnesses for the Commonwealth:</hi>
 <lb/>Jno S Owsley
-<lb/>Charles Ovington
-<lb/>Thomas Reaugh.</p>
+<lb/><persName ref="cwgk:N00019562">Charles Ovington</persName>
+<lb/><persName ref="cwgk:N00010728">Thomas Reaugh</persName>.</p>
 <p>A Copy
 <lb/>att <hi rend="underline">J P Chambers</hi><pb/></p>
 <p>Commonwealth
-<lb/>vs. &#125; Indictment Grand Larceny</p>
+<lb/>vs. } Indictment Grand Larceny</p>
 <p>Lyman Guinnip &amp; C G Bradshaw
 <lb/>A true bill
-<lb/>J G Carter
+<lb/><persName ref="cwgk:N00005663">J G Carter</persName>
 <lb/>Foreman</p>
 <p><date when="1863-01-13">1863 Jany 13</date> Rec<hi rend="underline"><hi rend="sup">d</hi></hi> from Grand jury &amp; filed 16 reco of Guinnip forft &amp; money deposited in lieu of bail as credited to Jury fund &amp; cont &amp; caps <date when="1863-01-23">" Jany 23</date> Reco of Bradshaw forfeited, Sci fa awd &amp; money deposited in lieu of bail accredited to jury fund &amp; cont &amp; caps.</p>
 <p>att copy att J P Chambers</p>
