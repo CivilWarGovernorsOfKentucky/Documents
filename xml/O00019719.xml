@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00019719">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Johnson &amp; Bradford</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00019719">
+                    <orgName>Johnson &amp; Bradford</orgName>
+                        <event type="begun"  when="1841"  ><ab>1841</ab></event>
+                        <event type="ended"  when="1869"  ><ab>1869</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Publishing house and bookstore in Springfield, Sangamon County, Illinois. Formerly Burchell &amp; Johnson. Operated from 1841 to 1869. Partners: John H. Johnson and John S. Bradford.</p>
+
+    </body>
+    <back>
+        <ab><bibl>John Carroll Power, <hi rend="italic">History of Springfield, Illinois: Its Attractions as a Home and Advantages for Business, Manufacturing, Etc.</hi> (Springfield, IL: Illinois State Journal Print, 1871), pp. 74-5.<lb/>
+John Carroll Power and S. A. Power, <hi rend="italic">History of the Early Settlers of Sangamon County, Illinois</hi> (Springfield, IL: Edwin A. Wilson &amp; Co., 1876), pp. 130-1.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
