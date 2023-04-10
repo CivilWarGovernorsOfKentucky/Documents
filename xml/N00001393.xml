@@ -3,11 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Manering B. Lowery</title>
+        <title level="a" type="main">Mannering Towery</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name></name>
@@ -43,10 +51,11 @@
         <particDesc>
                 <person xml:id="N00001393">
                     <persName>
-                      Manering B. Lowery
-                        (Crittenden County Farmer)
+                      Mannering Towery
+                        (Crittenden County, KY, farmer)
                     </persName>
-                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="birth"  when="1801"  cert="medium" ><ab>c1801</ab></event>
+                        <event type="death"  when="1863"  ><ab>1863</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +64,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Farmer in Marion, Kentucky. Married Lucy C. Lowery.</p>
+        <p>Crittenden County, Kentucky, farmer. South Carolina native. Married to Rebecca Towery. Father of Edward Towery, George H. Towery, Ben F. Towery, Sibby Towery, Malinda Towery, and Aaron Towery. Farmer in Crittenden County, Kentucky, in 1850. Owned two enslaved persons in Crittenden County in 1850. Farmer in Crittenden County in 1860. Owned six enslaved persons in Crittenden County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Crittenden, Precinct 1, p. 346A.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Crittenden County, District 2, p. 271B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Crittenden County, District 2, p. 363.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Crittenden County, District 1, p. 459.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Crittenden County, District 1, p. 355B.<lb/>
+<hi rend="italic">Kentucky, Wills and Probate Records, 1774-1989</hi>, Kentucky County, District, and Probate Courts, Crittenden County Administrators Bonds, 1843-1878, p. 387.
 </bibl></ab>
     </back>
 </text>
