@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00019711">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Morgan County, Illinois</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Place</term>
+                </keywords>
+            </textClass>
+            <settingDesc>
+                <place xml:id="P00019711">
+                    <placeName>
+                        <location>
+                              <geo>39.7156 -90.2015</geo>
+                            <settlement>Morgan County, Illinois</settlement>
+                        </location>
+                    </placeName>
+                </place> 
+            </settingDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>County in west central Illinois. Seat at Jacksonville, Illinois. Established January 31, 1823. Population of 22,112 (21,937 white residents and 175 free African American residents) in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;Morgan County,&quot; Office of the Illinois Secretary of State, accessed April 7, 2023, https://www.ilsos.gov/departments/archives/IRAD/morgan.html. <lb/>
+&quot;Morgan County, Illinois,&quot; USGS: Earth Explorer, accessed April 7, 2023, https://earthexplorer.usgs.gov/.<lb/>
+&quot;Classified Population of the States and Territories, by Counties, on the First Day of June, 1860: State of Illinois,&quot; <hi rend="italic">Population of the United States in 1860; Compiled from the Original Returns of the Eight Census, Under the Direction of the Secretary of the Interior</hi>, (Washington: Government Printing Office, 1864), 80-3. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
