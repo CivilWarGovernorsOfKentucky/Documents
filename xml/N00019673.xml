@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019673">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James S. Athon</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019673">
+                    <persName>
+                      James S. Athon
+                        (Marion County, IN, physician and Secretary of State)
+                    </persName>
+                        <event type="birth"  when="1811-04-11"  ><ab>1811-04-11</ab></event>
+                        <event type="death"  when="1875-10-25"  ><ab>1875-10-25</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Marion County, Indiana, physician and politician. Louden County, Virginia, native. Married to Rebecca Athon. Father of Henrietta W. Athon, Marietta W. Athon, and James S. Athon, Jr. Married to Lavenia D. Athon. Physician in Clark County, Indiana, in 1850. Served as the Superintendent of the Indiana Hospital for the Insane in Marion County, Indiana, from 1853 to 1861. Physician in Marion County in 1860. Served as the Secretary of State for the State of Indiana from 1863 to 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Clark County, Charlestown, p. 100A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Marion County, Wayne Township, p. 648.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Marion County, Wayne Township, pp. 731-9.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Marion County, Indianapolis Ward 2, p. 48B.<lb/>
+John Curwen, <hi rend="italic">History of the Association of Medical Superintendents of American Institutions for the Insane, from 1844 to 1884, Inclusive: With a List of the Different Hospitals for the Insane, and the Names and Dates of Appointment and Resignation of the Medical Superintendents</hi> (Warren, PA: E. Cowan &amp; Co., 1885), 201.<lb/>
+William Wesley Woollen, <hi rend="italic">Biographical and Historical Sketches of Early Indiana</hi> (Indianapolis: Hammond &amp; Co., 1883), 478-9.<lb/>
+&quot;Dr James Sanderson Athon (1811-1875),&quot; Find A Grave, Memorial 17720708, accessed March 30, 2023, http://www.findagrave.com/memorial/17720708.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
