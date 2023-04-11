@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019702">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Joseph W. Adams</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019702">
+                    <persName>
+                      Joseph W. Adams
+                        (Crittenden County, Kentucky, blacksmith and jailer.)
+                    </persName>
+                        <event type="birth"  when="1826-10-10"  ><ab>1826-10-10</ab></event>
+                        <event type="death"  when="1908-01-01"  ><ab>1908-01-01</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Crittenden County, Kentucky, blacksmith and jailer. Knox County, Tennessee, native. Married to Sarah Jane Wheeler Adams in Crittenden County, Kentucky, on September 23, 1854. Father of John Henry Adams. Married to Josephine Dean Adams in 1858. Father of Nancy B. Adams and Mary E. Adams. Blacksmith in Crittenden County, Kentucky, in 1860. Jailer in Crittenden County from 1862 to 1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Crittenden County, Marion (West Half), p. 405.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Crittenden County, Precinct 1, p. 358A. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994032, Crittenden County Births.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Crittenden County Marriages, Film 000558428.<lb/>
+&quot;J.W. Adams Dead,&quot; <hi rend="italic">Crittenden Record-Press</hi> (Marion, KY), January 2, 1908, p. 1.<lb/>
+Fohs Hall Community Arts Foundation, <hi rend="italic">Crittenden County, Kentucky: History and Families, 1842-1991</hi>, vol. I (Marion, KY: Riverbend Publishing Co., 1991), 438-9.<lb/>
+Brenda Travis Underdown, <hi rend="italic">Forgotten Passages: Crittenden County History and Genealogy</hi>, vol. II (Evansville, IN: Evansville Bindery, Inc., 2008), 10.<lb/>
+&quot;Joseph Wilson Adams (1826-1908),&quot; Find A Grave, Memorial 66170898, accessed April 11, 2023, https://www.findagrave.com/memorial/66170898.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
