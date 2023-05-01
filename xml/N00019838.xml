@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019838">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Wilson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniel Farrell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019838">
+                    <persName>
+                      John Wilson
+                        (Scioto County, Ohio, attorney and politician.)
+                    </persName>
+                        <event type="birth"  when="1806-06-12"  ><ab>1806-06-12</ab></event>
+                        <event type="death"  when="1872-02-11"  ><ab>1872-02-11</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Scioto County, Ohio, attorney and politician. Pennsylvania native. Married to Nancy &quot;Ann&quot; Alexander Wilson in Belmont County, Ohio, on January 28, 1830. Father of James Wilson, Nancy Wilson, Alexander Wilson, Mary Wilson, William Wilson, George Wilson, Henry C. Wilson, Margaret Elizabeth Wilson, Josephine Wilson, Romaine Wilson, and Lydia Viola Wilson. Attorney in Gallia County, Ohio, in 1850. Attorney in Boyd County, Kentucky, in 1860. Mayor of Portsmouth, Scioto County, Ohio from 1865 to 1867.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Gallia County, Green Township, p. 29B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boyd County, Catlettsburg, p. 799.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Scioto County, Portsmouth Ward 1, p. 515B. <lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 20814.<lb/>
+<hi rend="italic">Ohio, County Marriages, 1789-2016</hi>, Genealogical Society of Salt Lake City, Salt Lake City, UT, Belmont County Marriages, Film 317291.<lb/>
+&quot;Deaths,&quot; <hi rend="italic">The Portsmouth Times</hi> (Portsmouth, OH), February 17, 1872, p. 2.<lb/>
+Nelson W. Evans, <hi rend="italic">A History of Scioto County, Ohio, Together with a Pioneer Record of Southern Ohio</hi> (Portsmouth, OH: Nelson W. Evans, 1903), 464.<lb/>
+&quot;John Wilson (1806-1872),&quot; Find A Grave, Memorial 99963895, accessed May 1, 2023, https://www.findagrave.com/memorial/99963895.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
