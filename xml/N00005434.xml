@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
     </titleStmt>
@@ -46,6 +50,7 @@
                       James Slaughter
                         (Garrard County, Kentucky, resident.)
                     </persName>
+                        <event type="birth"  when="1846"  cert="medium" ><ab>c1846</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +59,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Garrard County, Kentucky, resident. Accused of murdering Absalom Pollard, Jr. </p>
+        <p>Garrard County, Kentucky, resident. Indicted by the Garrard Circuit Court for the murder of Absalom Pollard, Jr., in Garrard County, Kentucky, in February 1865.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0129
+        <ab><bibl>&quot;Proclamation by the Governor.&quot; <hi rend="italic">Louisville Journal</hi> (Louisville, KY), January, 20 1866, p. 4.<lb/>
+KYR-0001-005-0129.
 </bibl></ab>
     </back>
 </text>
