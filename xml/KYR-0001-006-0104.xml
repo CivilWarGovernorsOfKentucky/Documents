@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0104"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniel Farrell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,10 +70,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Requisition upon Gov of Indiana for Green &amp; Jas Slaughter
-<lb/>Indicted for murder in the Garrard Cir Ct
+   <p>Requisition upon Gov of Indiana for <persName ref="cwgk:N00005433">Green</persName> &amp; <persName ref="cwgk:N00005434">Jas Slaughter</persName>
+<lb/>Indicted for murder in the <orgName ref="cwgk:O00000386">Garrard Cir Ct</orgName>
 <lb/>issued <date when="1865-12-08">6<hi rend="sup">th</hi> Dec/65</date>
-<lb/>&amp; Cha<hi rend="sup">s</hi> W White appt<hi rend="underline"><hi rend="sup">d</hi></hi> Agent</p>
+<lb/>&amp; <persName ref="cwgk:N00019853">Cha<hi rend="sup">s</hi> W White</persName> appt<hi rend="underline"><hi rend="sup">d</hi></hi> Agent</p>
   </body>
  </text>
 </TEI>
