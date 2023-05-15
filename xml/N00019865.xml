@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019865">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Maxwell</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019865">
+                    <persName>
+                      George Maxwell
+                        (Montgomery County, Ohio, resident and indicted murderer)
+                    </persName>
+                        <event type="birth"  when="1847"  cert="medium" ><ab>c1847</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Montgomery County, Ohio, clerk. Native of Ohio. Son of Ebenezer C. Maxwell and Elizabeth Maxwell. Resident of Union County, Ohio, in 1850. Resident of Montgomery County, Ohio, in 1860. Killed Augustus A. Van Houten in Montgomery County on October 6, 1864. Indicted for the murder of Augustus A. Van Houten in Montgomery County in November 1864. Fugitive from justice in Kentucky in 1865. Arrested in Fleming County, Kentucky, in September 1865. Remanded to the State of Ohio on September 25, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Union County, Center Township, p. 636A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Montgomery County, Dayton, 2nd Ward, p. 246.<lb/>
+&quot;Shocking Affair,&quot; <hi rend="italic">The Daily Empire</hi> (Dayton, Ohio), October 7, 1864, p. 3.<lb/>
+&quot;Trial of Maxwell,&quot; <hi rend="italic">The Daily Empire</hi> (Dayton, Ohio), January 10, 1867, p. 3.<lb/>
+&quot;Admitted to Bail,&quot; <hi rend="italic">The Daily Empire</hi> (Dayton, Ohio), January 25, 1867, p. 3.<lb/>
+KYR-0001-006-0076.<lb/>
+KYR-0001-006-0078.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
