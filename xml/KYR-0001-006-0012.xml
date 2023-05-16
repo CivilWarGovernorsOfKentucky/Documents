@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0012"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +67,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office Garrard Circuit Court
+   <p>Office <orgName ref="cwgk:O00000386">Garrard Circuit Court</orgName>
 <lb/><date when="1863-12-18">Decr 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1863.</date>
-<lb/>Hon<hi rend="underline"><hi rend="sup">l</hi></hi> Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette.
+<lb/>Hon<hi rend="underline"><hi rend="sup">l</hi></hi> <persName ref="cwgk:N001000">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette</persName>.
 <lb/>Sir.</p>
-<p>I send you herewith, a copy of an Indictment, found at the <date when="1863-02">Feby term 1863</date> of this Court vs John Brown -- Said Brown fled from the officers and is now in Orange County Indiana.</p>
-<p>I would suggest Agrippa Scott, of Paoli Indiana, as a suitable person to act as agent in conveying said Brown when apprehended to this jail -- he is well acquainted with Brown, and was a witness before the grand jury -- it is through <hi rend="str">th</hi> said Scott that I get the information of Browns whereabouts -- </p>
+<p>I send you herewith, a copy of an Indictment, found at the <date when="1863-02">Feby term 1863</date> of this Court vs <persName ref="cwgk:N00019792">John Brown</persName> -- Said Brown fled from the officers and is now in <placeName ref="cwgk:P00019790">Orange County</placeName> <placeName ref="cwgk:P001818">Indiana</placeName>.</p>
+<p>I would suggest <persName ref="cwgk:N00019793">Agrippa Scott</persName>, of <placeName ref="cwgk:P00019791">Paoli</placeName> Indiana, as a suitable person to act as agent in conveying said Brown when apprehended to <orgName ref="cwgk:O00020003">this jail</orgName> -- he is well acquainted with Brown, and was a witness before the grand jury -- it is through <hi rend="str">th</hi> said Scott that I get the information of Browns whereabouts -- </p>
 <p>Respectfully.
-<lb/>W. D. Hopper clk
+<lb/><persName ref="cwgk:N00012429">W. D. Hopper</persName> clk
 <lb/>Garrard Circuit Court<pb/></p>
 <p>Requisition 
 <lb/>on 
-<lb/>Indiana 
+<lb/><orgName ref="cwgk:O00002499">Indiana</orgName> 
 <lb/>for
 <lb/>John Brown
 <lb/><date when="1863-12-23">23<hi rend="sup">d</hi> Dec/63</date></p>
