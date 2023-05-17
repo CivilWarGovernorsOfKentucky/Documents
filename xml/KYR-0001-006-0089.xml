@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0089"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniel Farrell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,16 +72,16 @@
  <text>
   <body>
    <p>Morganfield Ky. <date when="1865-10-28">Oct. 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
-<lb/>Gov. Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlett
+<lb/><persName ref="cwgk:N001000">Gov. Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlett</persName>
 <lb/>Dear Sir</p>
 <p>Please find enclosed copy of Indictment found in this court against <gap/> Guess and others for robery, the same notorious personage who is the subject of a recent corrispondence.</p>
-<p>Information is received here, that he is now in Evansville Indiana; and has been for some days, and perhaps intends remainig there. He and the most of his band, as the civil officers inform me, have fled the comth.</p>
-<p>The object is to get a requisition upon the Governor of Indiana and have him brought to Ky. to answer.</p>
-<p>Mr Barnett &amp; Mr Clay are both absent &amp; would if either were here have performed this duty.</p>
+<p>Information is received here, that he is now in Evansville Indiana; and has been for some days, and perhaps intends remainig there. He and the most of his band, as the civil officers inform me, have fled the <orgName ref="cwgk:O001025">comth</orgName>.</p>
+<p>The object is to get a requisition upon the <persName ref="cwgk:N00005190">Governor of Indiana</persName> and have him brought to Ky. to answer.</p>
+<p><persName ref="cwgk:N00019915">Mr Barnett</persName> &amp; <persName ref="cwgk:N00019916">Mr Clay</persName> are both absent &amp; would if either were here have performed this duty.</p>
 <p>Most respectfully
 <lb/>Your frd &amp; obdt Servt
-<lb/>W. P. Fowler<pb/></p>
-<p>Requisition upon Gov of Indiana for James Guest &amp; <gap/> appt<hi rend="underline"><hi rend="sup">d</hi></hi> Agent
+<lb/><persName ref="cwgk:N00006111">W. P. Fowler</persName><pb/></p>
+<p>Requisition upon Gov of <orgName ref="cwgk:O00002499">Indiana</orgName> for <persName ref="cwgk:N00006095">James Guest</persName> &amp; <gap/> appt<hi rend="underline"><hi rend="sup">d</hi></hi> Agent
 <lb/><date when="1865-11-04">4<hi rend="sup">th</hi> Nov 1865</date></p>
   </body>
  </text>
