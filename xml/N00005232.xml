@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
           <respStmt>
@@ -48,8 +52,11 @@
                 <person xml:id="N00005232">
                     <persName>
                       William H. Bell
-                        (soldier)
+                        (Washington County, Kentucky, farmer, carpenter, and soldier)
                     </persName>
+                        <event type="birth"  when="1826-10-03"  ><ab>1826-10-03</ab></event>
+                        <event type="death"  when="1892-03-13"  ><ab>1892-03-13</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +64,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky soldier. Captain in the 11th Kentucky Volunteer Calvary Regiment (U.S.A.) from July 19, 1862 to July 13, 1865. </p>
+        <p>Washington County, Kentucky, farmer, carpenter, and soldier. Son of Phoebe Bell. Married to Anne M. Scott Bell in Washington County, Kentucky, on February 11, 1853. Father of Bettie T. Bell, William C. Bell, Mary G. Bell, Edwin M. Bell, and John Bell. Farmer in Anderson County in 1850. Carpenter in Washington County in 1860. Served in the 11th Kentucky Volunteer Calvary Regiment (U.S.A.) as a first lieutenant and captain from September 22, 1862 to July 13, 1865. </p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 282.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Anderson County, p. 212B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Washington County, Springfield, p. 226.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Washington County, North, p. 347A. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994057, Washington County Marriages.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 282.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0105<lb/>
+&quot;William Henry &quot;W. H.&quot; Bell,&quot; (1828-1892),&quot; Find A Grave, Memorial 119024937, accessed May 22, 2023, http://www.findagrave.com/memorial/119024937.
 </bibl></ab>
     </back>
 </text>
