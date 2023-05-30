@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00020073">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Louisville City Railway Company</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00020073">
+                    <orgName>Louisville City Railway Company</orgName>
+                        <event type="begun"  when="1859"  ><ab>1859</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Streetcar company in Louisville, Jefferson County, Kentucky. Chartered in 1859. President: Jeremiah Tilford Boyle (1864-1866).</p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;Louisville Interurban Trolley System,&quot; <hi rend="italic">La Grange Railroad Museum</hi>, Ohio Valley Railroad Historical Foundation, Inc. Accessed May 22, 2023, https://lagrangerailroadmuseum.org/qr-4-int-4-interurban-1.<lb/>
+&quot;Board of Common Council&quot; <hi rend="italic">Louisville Journal</hi> (Louisville, KY), March 7, 1864, p. 1.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
