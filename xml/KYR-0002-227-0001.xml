@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0001"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,26 +71,26 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington Kentucky
+   <p><placeName ref="cwgk:P001002">Lexington</placeName> <placeName ref="cwgk:P001800">Kentucky</placeName>
 <lb/><date when="1864-12-08">December 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
 <p>To His Excellency
-<lb/>Tho<hi rend="sup">s</hi> E Bramlette Go<hi rend="sup">vr</hi> of Ky
+<lb/><persName ref="cwgk:N001000">Tho<hi rend="sup">s</hi> E Bramlette</persName> Go<hi rend="sup">vr</hi> of <orgName ref="cwgk:O001025">Ky</orgName>
 <lb/>Dear Sir</p>
-<p>Not long since you issued three commissions to the following named persons in the 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Ca<hi rend="sup">v</hi>, to wit, William Mangan as Major, Thomas Bradbourn as 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut C<hi rend="sup">o</hi> "H," James Powell 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut C<hi rend="sup">o</hi> "B" All issued upon the recommendation of Lieut Co<hi rend="sup">l</hi> William O Boyle without consulting me,</p>
-<p>I have since learned that Lieut Co<hi rend="sup">l</hi> Boyle represented himself to you as comd<hi rend="sup">r</hi> of the Regiment at the time he made the recommendation<hi rend="sup">s</hi> and that he promised my approval of them should be obtained and forwarded to you, If so, the Co<hi rend="sup">l</hi> was greatly mistaken as I was commanding the Regiment myself at that time he being on Brev<hi rend="sup">t</hi> Maj Genl Burbridge'<hi rend="sup">s</hi> staff, And I assure you that my approval can never be given on such recommendations,<pb/>
+<p>Not long since you issued three commissions to the following named persons in the <orgName ref="cwgk:O00005233">11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Ca<hi rend="sup">v</hi></orgName>, to wit, <persName ref="cwgk:N00020037">William Mangan</persName> as Major, <persName ref="cwgk:N00020081">Thomas Bradbourn</persName> as 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut C<hi rend="sup">o</hi> "H," <persName ref="cwgk:N00020044">James Powell</persName> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut C<hi rend="sup">o</hi> "B" All issued upon the recommendation of Lieut Co<hi rend="sup">l</hi> <persName ref="cwgk:N00020036">William O Boyle</persName> without consulting me,</p>
+<p>I have since learned that Lieut Co<hi rend="sup">l</hi> Boyle represented himself to you as comd<hi rend="sup">r</hi> of the Regiment at the time he made the recommendation<hi rend="sup">s</hi> and that he promised my approval of them should be obtained and forwarded to you, If so, the Co<hi rend="sup">l</hi> was greatly mistaken as I was commanding the Regiment myself at that time he being on Brev<hi rend="sup">t</hi> <persName ref="cwgk:N001014">Maj Genl Burbridge</persName>'<hi rend="sup">s</hi> staff, And I assure you that my approval can never be given on such recommendations,<pb/>
 <lb/>There are others in the Regiment much better qualified for the positions and it would be a gross disregard of merit and seniority for them not the receive the promotions,</p>
-<p>James Powell was once a confederate soldier, taken prisoner, and released from his imprisonment upon condition that he take the oath and enlist in our service, and therefore it is impossible for him to take the requisite oath upon being mustered on the commission he has received,</p>
-<p>Go<hi rend="sup">v</hi> I have written to you relition to this matter on two other occasions but I have not only failed to have the commissions revoked but failed to elicit a reply from you, for fear my letters did not reach you I send this one by Capt <gap/> who will more fully explain my reasons for having these commissions revoked,</p>
-<p>I have the honor to recommend that the following commissions be issued to the following named persons to wit Capt W<hi rend="sup">m</hi> H Bell as Major vice Boyle promoted or Mangan ^canselled^ Com<hi rend="sup">s</hi> 2 Lt John Burton as Capt C<hi rend="sup">o</hi> D vice Bell promoted<pb/></p>
-<p><hi rend="str">Hspt</hi><hi rend="str"><hi rend="sup">l</hi></hi><hi rend="str"> Stew Sabret Scruggs as 1</hi><hi rend="str"><hi rend="sup">st</hi></hi><hi rend="str"> L</hi><hi rend="str"><hi rend="sup">t</hi></hi><hi rend="str"> C</hi><hi rend="str"><hi rend="sup">o</hi></hi><hi rend="str"> D vice Robinson dismissed</hi>
+<p>James Powell was once a <orgName ref="cwgk:O00000506">confederate</orgName> soldier, taken prisoner, and released from his imprisonment upon condition that he take the oath and enlist in our service, and therefore it is impossible for him to take the requisite oath upon being mustered on the commission he has received,</p>
+<p>Go<hi rend="sup">v</hi> I have written to you relition to this matter on two other occasions but I have not only failed to have the commissions revoked but failed to elicit a reply from you, for fear my letters did not reach you I send this one by <persName ref="cwgk:N00020015">Capt</persName> <gap/> who will more fully explain my reasons for having these commissions revoked,</p>
+<p>I have the honor to recommend that the following commissions be issued to the following named persons to wit Capt <persName ref="cwgk:N00005232">W<hi rend="sup">m</hi> H Bell</persName> as Major vice Boyle promoted or Mangan ^canselled^ Com<hi rend="sup">s</hi> 2 Lt <persName ref="cwgk:N00020008">John Burton</persName> as Capt C<hi rend="sup">o</hi> D vice Bell promoted<pb/></p>
+<p><hi rend="str">Hspt</hi><hi rend="str"><hi rend="sup">l</hi></hi><hi rend="str"> Stew </hi><persName ref="cwgk:N00020006"><hi rend="str">Sabret Scruggs</hi></persName><hi rend="str"> as 1</hi><hi rend="str"><hi rend="sup">st</hi></hi><hi rend="str"> L</hi><hi rend="str"><hi rend="sup">t</hi></hi><hi rend="str"> C</hi><hi rend="str"><hi rend="sup">o</hi></hi><hi rend="str"> D vice Robinson dismissed</hi>
 <lb/>Hspt Stew Sabret Scruggs as 2" L<hi rend="sup">t</hi> C<hi rend="sup">o</hi> D vice Burton promoted
-<lb/>2<hi rend="underline"><hi rend="sup">nd</hi></hi> <hi rend="str">Sarg</hi><hi rend="str"><hi rend="sup">t</hi></hi><hi rend="str"> <unclear/></hi> Lieut Abraham W Stone as 1<hi rend="sup">st</hi> Lieut ^C<hi rend="sup">o</hi> B^ vice Hansbrough promoted ^or Powells com canseled^
-<lb/>Sarg<hi rend="sup">t</hi> Ja<hi rend="sup">s</hi> H Dunn as 2" Lieut ^C<hi rend="sup">o</hi> B^ vice Stone promoted
-<lb/>Com<hi rend="sup">s</hi> M B Pulliam as Capt C<hi rend="sup">o</hi> F vice Curd died when a prisoner, Pulliam is now a prisoner
-<lb/>Com<hi rend="sup">s</hi> Sargt Simeon Wortham as Com<hi rend="sup">s</hi> vice Pulliam promoted</p>
+<lb/>2<hi rend="underline"><hi rend="sup">nd</hi></hi> <hi rend="str">Sarg</hi><hi rend="str"><hi rend="sup">t</hi></hi><hi rend="str"> <unclear/></hi> Lieut <persName ref="cwgk:N00019732">Abraham W Stone</persName> as 1<hi rend="sup">st</hi> Lieut ^C<hi rend="sup">o</hi> B^ vice <persName ref="cwgk:N00020012">Hansbrough</persName> promoted ^or Powells com canseled^
+<lb/>Sarg<hi rend="sup">t</hi> <persName ref="cwgk:N00020014">Ja<hi rend="sup">s</hi> H Dunn</persName> as 2" Lieut ^C<hi rend="sup">o</hi> B^ vice Stone promoted
+<lb/>Com<hi rend="sup">s</hi> <persName ref="cwgk:N00009118">M B Pulliam</persName> as Capt C<hi rend="sup">o</hi> F vice <persName ref="cwgk:N00020041">Curd</persName> died when a prisoner, Pulliam is now a prisoner
+<lb/>Com<hi rend="sup">s</hi> Sargt <persName ref="cwgk:N00020009">Simeon Wortham</persName> as Com<hi rend="sup">s</hi> vice Pulliam promoted</p>
 <p>Very Respt
 <lb/>Your Ob<hi rend="sup">t</hi> Ser<hi rend="sup">vt</hi>
-<lb/>M. Graham Col
+<lb/><persName ref="cwgk:N00011728">M. Graham</persName> Col
 <lb/>11<hi rend="sup">th</hi> Ky Cav<pb/></p>
 <p>Lexington Ky
 <lb/><date when="1864-11-08">Dec 8" 1864</date><figure type="hr"/></p>
@@ -91,7 +99,7 @@
 <p>To The Gov -- <figure type="hr"/></p>
 <p>says he is unwilling to approve the recommendations made by Lt. Col. W. O. Boyles &amp; asks that the com<hi rend="underline"><hi rend="sup">ns</hi></hi> issued be cancelled -- Recommends the promotion of officers &amp; noncom<hi rend="underline"><hi rend="sup">od</hi></hi> officers to fill vacancies in his reg<hi rend="sup">t</hi> -- <figure type="hr"/></p>
 <p>L B N<hi rend="sup">o</hi> 8 -- <date when="1864">1864</date> P. 496<figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-12-23">Dec 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1864</date></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O.</orgName> <date when="1864-12-23">Dec 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1864</date></p>
   </body>
  </text>
 </TEI>
