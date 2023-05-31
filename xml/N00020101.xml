@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020101">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Rufus Somerby</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020101">
+                    <persName>
+                      Rufus Somerby
+                        (Louisville, Jefferson County, Kentucky, clerk and soldier - 2nd Lt. 11th Ky. Cav.)
+                    </persName>
+                        <event type="birth"  when="1841"  cert="medium" ><ab>c1841</ab></event>
+                        <event type="death"  when="1882-12-06"  ><ab>1882-12-06</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Jefferson County, Kentucky, clerk and soldier. Kentucky native. Son of Rufus Somerby and Johana Somerby. Attended in school in Louisville, Kentucky, in 1850. Household owned three enslaved persons in Louisville in 1850. Clerk in Louisville in 1860. Household owned one enslaved person in Louisville in 1860. Clerk in Louisville in 1861. Served in the 9th Kentucky Volunteer Infantry Regiment (U.S.A.) a first lieutenant and captain from May 10, 1862 to June 10, 1863. Served in the 11th Kentucky Volunteer Cavalry Regiment (U.S.A.) as a private, sergeant major, and second lieutenant from October 30, 1863 to July 2, 1865. Prisoner of War from July 31, 1864 to September 28, 1864. Charged with disobedience of orders at the Battle of Marion, Smyth County, Virginia, on December 18, 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 3, p. 318B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Jefferson County, Louisville, District 3, p. 842.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 4, p. 87.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jefferson County, Louisville Ward 4, p. 269B.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0111.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0234.<lb/>
+<hi rend="italic">Registers of Deaths in the Regular Army, Compiled 1860-1889</hi>Records of the Adjutant General&#39;s Office, NARA RG 94, Vol. 13, Box 5, p. 156-7. <lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 272.<lb/>
+<hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 232.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
