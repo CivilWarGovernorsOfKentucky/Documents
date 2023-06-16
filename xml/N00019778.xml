@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019778">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James E. Thompson, Sr.</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019778">
+                    <persName>
+                      James E. Thompson, Sr.
+                        (Trigg County, Kentucky, judge, merchant, and politician.)
+                    </persName>
+                        <event type="birth"  when="1805-02-25"  ><ab>1805-02-25</ab></event>
+                        <event type="death"  when="1881-10-05"  ><ab>1881-10-05</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Trigg County, Kentucky, judge, merchant, and politician. Kentucky native. Married to Jane Hill Thompson in Trigg County, Kentucky, on October 30, 1828. Father of Zebulon Thompson, George V. Thompson, Elizabeth C. Thompson, Cornelia J. Thompson, and Thomas C. Thompson. Married to Ann Elizabeth Burbridge Thompson in Trigg County, Kentucky, on March 6, 1844. Father of Walter S. Thompson, James E. Thompson, Jr., and Sarah Thompson. Member of the House of Representatives of the Commonwealth of Kentucky from Trigg County in 1832. Clerk in Trigg County in 1850. Owned twenty-eight enslaved persons in Trigg County in 1850. County judge in Trigg County from 1851 to 1858. Owned Susan [Unknown], Mariah [Unknown], Catharine [Unknown], and Mary [Unknown] in Trigg County in 1852. Merchant in Trigg County in 1860. Owned twenty-two enslaved persons in Trigg County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District 1, pp. 292B-293A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Trigg County, District 1.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trigg County, Cadiz, p. 189.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Trigg County, Cadiz, p. 391B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Trigg County, Cadiz, p. 53B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994056, Trigg County Births.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Trigg County Marriages, Film 000321335, p. 26.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Trigg County Marriages, Film 000321335, p. 99.<lb/>
+Wiliam Henry Perrin, ed. <hi rend="italic">Counties of Christian and Trigg, Kentucky. Historical and Biographical.</hi> (Chicago &amp; Louisville: F.A. Battey Publishing Company, 1884), 31.<lb/>
+Trigg County Historical and Preservation Society, <hi rend="italic">Trigg County History: The Past 100 Years, 1885-1895</hi>, vol. 1 (Dallas, TX: Taylor Publishing Company, 1986), 57.<lb/>
+&quot;James Edward Thompson Sr. (1805-1881),&quot; Find A Grave, Memorial 50563423, accessed April 18, 2023, https://www.findagrave.com/memorial/50563423.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
