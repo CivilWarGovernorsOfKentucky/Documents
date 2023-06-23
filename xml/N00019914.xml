@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019914">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Milus E. McKenzie</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019914">
+                    <persName>
+                      Milus E. McKenzie
+                        (Trigg County, Kentucky, schoolteacher.)
+                    </persName>
+                        <event type="birth"  when="1828-10-07"  ><ab>1828-10-07</ab></event>
+                        <event type="death"  when="1884-02-29"  ><ab>1884-02-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Trigg County, Kentucky, schoolteacher. Tennessee native. Married to Sarah Ann Crews McKenzie in Christian County, Kentucky, in January 1850. Father of William A. McKenzie, Francis T. McKenzie, Charles B. McKenzie, Mary V. McKenzie, and James R. McKenzie. Schoolteacher in Christian County, Kentucky, in 1850. Household owned five enslaved persons in Christian County in 1850. Schoolteacher in Trigg County, Kentucky, in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Christian County, District 1, p. 439A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Trigg County, District 1.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trigg County, p. 101.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Trigg County, Golden Pond Precinct, p. 89A. <lb/>
+<hi rend="italic">Kentucky, County Marriages, 1797-1954</hi>, Genealogical Society of Salt Lake City, Salt Lake City, UT, Christian County Marriages, Film 001942941.<lb/>
+David Sumner, Kim Fortner, Pam Metts, and Charles Morris, <hi rend="italic">Cemeteries of Cadiz and Trigg County, Kentucky</hi> (Sumforme Publishing, 2008), 75.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
