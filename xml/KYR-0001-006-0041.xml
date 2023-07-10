@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0041"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Illinois
-<lb/>Sangamon County &#125; SS.</p>
-<p>Isaac. J. Ketcham being first duly sworne according to law upon oath says, that he is a resident of the County of Morgan and said State of Illinois, That the said Robert Pullum mentioned in the complaint and writ hereto attached is a fugitive from justice.</p>
-<p>Affiant further says that he has good reason to believe that said Robert Pullum is in the State of Kentucky, for the purpose of evading -- and escaping, just punishment for the crime of murder, committed in the said county of Morgan and state of Illinois as alledged in the complaint of R R Smith hereto attached,</p>
+   <p><orgName ref="cwgk:O00014696">State of Illinois</orgName>
+<lb/><placeName ref="cwgk:P00020299">Sangamon County</placeName> } SS.</p>
+<p><persName ref="cwgk:N00020301">Isaac. J. Ketcham</persName> being first duly sworne according to law upon oath says, that he is a resident of the <placeName ref="cwgk:P00019711">County of Morgan</placeName> and said State of <placeName ref="cwgk:P00004765">Illinois</placeName>, That the said <persName ref="cwgk:N00019710">Robert Pullum</persName> mentioned in the complaint and writ hereto attached is a fugitive from justice.</p>
+<p>Affiant further says that he has good reason to believe that said Robert Pullum is in the <placeName ref="cwgk:P001800">State of Kentucky</placeName>, for the purpose of evading -- and escaping, just punishment for the crime of murder, committed in the said county of Morgan and state of Illinois as alledged in the complaint of <persName ref="cwgk:N00019718">R R Smith</persName> hereto attached,</p>
 <p>Isaac. J. Ketcham</p>
 <p>Subscribed and sworn to before me this <date when="1864-07-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> day of July 1864.</date></p>
-<p>S. S. Whitehurst clerk
-<lb/>Sangamon County Circuit Court</p>
+<p><persName ref="cwgk:N00020302">S. S. Whitehurst</persName> clerk
+<lb/><orgName ref="cwgk:O00020304">Sangamon County Circuit Court</orgName></p>
 <p><figure type="seal"><ab>SANGAMON COUNTY CIRCUIT COURT ILL
 <lb/>1818</ab></figure>
 <lb/><stamp type="revenue"/><note place="stamp"><unclear/></note><pb/></p>
-<p>Hon. O. M. Hatch
+<p>Hon. <persName ref="cwgk:N00015393">O. M. Hatch</persName>
 <lb/>Sec. of State</p>
 <p>Please issue writ of requisition for return of Robert Pulluam upon mentioned in within Affidavit <date when="1864-07-29">July 29<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
-<p>Rich<hi rend="sup">d</hi> Yates Governor</p>
+<p><persName ref="cwgk:N00014450">Rich<hi rend="sup">d</hi> Yates</persName> Governor</p>
   </body>
  </text>
 </TEI>
