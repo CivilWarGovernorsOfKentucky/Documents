@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00019925">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Walnut St. Station Methodist Episcopal Church</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniel Farrell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00019925">
+                    <orgName>Walnut St. Station Methodist Episcopal Church</orgName>
+                        <event type="begun"  when="1853"  ><ab>1853</ab></event>
+                        <event type="ended"  when="1907"  ><ab>1907</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Jefferson County, Kentucky, Methodist church. Active from 1853 to 1907. Pastor(s): Charles Booth Parsons.</p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;Walnut Street Methodist Church,&quot; <hi rend="italic">The Louisville Daily Courier</hi> (Louisville, KY), October 15, 1853, p. 3.<lb/>
+“Methodist Episcopal Church, South (Louisville, Ky.) Records, 1837-1901,” Filson Historical Society, accessed May 8, 2023,  https://filsonhistorical.org/research-doc/methodist-episcopal-church-south-louisville-ky-records-1837-1901/.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
