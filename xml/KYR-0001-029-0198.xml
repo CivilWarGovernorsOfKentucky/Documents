@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0198"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniel Farrell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1862-01-21">Jan 21. 1862</date> ^<date when="1863-01-21">[1863]</date>^
-<lb/>To His Excellency Gov. Robinson
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1862-01-21">Jan 21. 1862</date> ^<date when="1863-01-21">[1863]</date>^
+<lb/>To His Excellency <persName ref="cwgk:N001004">Gov. Robinson</persName>
 <lb/>Executive of Kentucky &amp;c
 <lb/>Dear Sir</p>
-<p>It is not a common thing with me to intermeddle myself with the proceedings of legal courts, or even to throw, even a suggestion obstacle, in the way of free &amp; equal justice. But learning that the Jury, -- or most of them, -- in the case of Montgomery, -- recently convicted of Homicide &amp; sentenced to the Penitentiary for the term of two years, have petitioned your Excellency for his Pardon, I would respectfully urge the same thing. Montgomery has been a member of the Church over which I preside, for many years &amp; has enjoyed the confidence of the community, as a modest &amp; honest man. We do not think that he <hi rend="underline">intended</hi> the crime, of which he stands convicted, &amp; feel will assured his incarceration in the Prison, at Frankfort, -- though demanded by Law, -- would not meet the ends of Justice. We hope your Excellency will listen to the Prayer of your Petitioners &amp; grant the Pardon asked for</p>
+<p>It is not a common thing with me to intermeddle myself with the proceedings of legal courts, or even to throw, even a suggestion obstacle, in the way of free &amp; equal justice. But learning that the Jury, -- or most of them, -- in the case of <persName ref="cwgk:N00019640">Montgomery</persName>, -- recently convicted of Homicide &amp; sentenced to the <orgName ref="cwgk:O00000266">Penitentiary</orgName> for the term of two years, have petitioned your Excellency for his Pardon, I would respectfully urge the same thing. Montgomery has been a member of the Church over which I preside, for many years &amp; has enjoyed the confidence of the community, as a modest &amp; honest man. We do not think that he <hi rend="underline">intended</hi> the crime, of which he stands convicted, &amp; feel will assured his incarceration in the Prison, at <placeName ref="cwgk:P00000308">Frankfort</placeName>, -- though demanded by Law, -- would not meet the ends of Justice. We hope your Excellency will listen to the Prayer of your Petitioners &amp; grant the Pardon asked for</p>
 <p>Very respectfully &amp;c
-<lb/>C. B. Parsons
-<lb/>Pastor of Walnut St. M. E. Church</p>
+<lb/><persName ref="cwgk:N00019927">C. B. Parsons</persName>
+<lb/>Pastor of <orgName ref="cwgk:O00019925">Walnut St. M. E. Church</orgName></p>
   </body>
  </text>
 </TEI>
