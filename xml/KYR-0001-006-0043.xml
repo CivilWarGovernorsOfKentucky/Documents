@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0043"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Newport Ky <date when="1864-09-25">Sep 30/64</date>
-<lb/>Th<hi rend="underline"><hi rend="sup">o</hi></hi> E Bramlette
+   <p><placeName ref="cwgk:P00004717">Newport</placeName> <orgName ref="cwgk:O001025">Ky</orgName> <date when="1864-09-25">Sep 30/64</date>
+<lb/><persName ref="cwgk:N001000">Th<hi rend="underline"><hi rend="sup">o</hi></hi> E Bramlette</persName>
 <lb/>Gov of Ky
 <lb/>Sir</p>
-<p>Herewith I send you a copy of an indictment found in our court against Henry Holt -- He has fled from this state and is in the state of Ill as I am informed and believe -- It is desired by parties here who wish to have him brought to justice to obtain from you upon the Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Ill a Requisition for the fugitive <hi rend="str">&amp;</hi> I write this in view of such proceeding </p>
-<p>I would suggest as a proper person to act as the agent of this state in the behalf M Cook Esqr who is City Marshal of this place<pb/>
+<p>Herewith I send you a copy of an indictment found in our <orgName ref="cwgk:O00000361">court</orgName> against <persName ref="cwgk:N00020284">Henry Holt</persName> -- He has fled from this state and is in the state of <placeName ref="cwgk:P00004765">Ill</placeName> as I am informed and believe -- It is desired by parties here who wish to have him brought to justice to obtain from you upon the Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Ill a Requisition for the fugitive <hi rend="str">&amp;</hi> I write this in view of such proceeding </p>
+<p>I would suggest as a proper person to act as the agent of this state in the behalf M <persName ref="cwgk:N00006116">Cook</persName> Esqr who is City Marshal of this place<pb/>
 <lb/>and who will I have no doubt be efficient and diligent in the discharge of Such duty -- </p>
 <p>I am most respectfully &amp;c
-<lb/>F. M. Webster
+<lb/><persName ref="cwgk:N00004738">F. M. Webster</persName>
 <lb/><hi rend="underline">City Atty Newport</hi><pb/></p>
 <p>Requisition Gov<hi rend="sup">r</hi> Illinois 
 <lb/>appt<hi rend="underline"><hi rend="sup">d</hi></hi> M. Cook Agent
