@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0042"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office Chief of Police,
-<lb/>Louisville, Ky., <date when="1864-09-19">Sept 19th 1864</date>
+   <p><orgName ref="cwgk:O00012619">Office Chief of Police</orgName>,
+<lb/><placeName ref="cwgk:P00000337">Louisville</placeName>, <placeName ref="cwgk:P001800">Ky.</placeName>, <date when="1864-09-19">Sept 19th 1864</date>
 <lb/>Hon'ble the 
-<lb/>Sec<hi rend="sup">y</hi> of State
-<lb/>Frankfort Ky,
+<lb/><persName ref="cwgk:N001777">Sec<hi rend="sup">y</hi> of State</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky,
 <lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>Enclosed you will find copy of Indictment against Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Woodward, who is charged with murder. You will please send requisition for him on the Gov. of Iowa, appointing Delos. T. Bligh agent to convey him here.</p>
+<p>Enclosed you will find copy of Indictment against <persName ref="cwgk:N00010682">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Woodward</persName>, who is charged with murder. You will please send requisition for him on the <persName ref="cwgk:N00020428">Gov</persName>. of <orgName ref="cwgk:O00020427">Iowa</orgName>, appointing <persName ref="cwgk:N00005178">Delos. T. Bligh</persName> agent to convey him here.</p>
 <p>Respectfully
-<lb/>Rich<hi rend="sup">d</hi> O Priest
+<lb/><persName ref="cwgk:N00012445">Rich<hi rend="sup">d</hi> O Priest</persName>
 <lb/>Chief of Police<pb/></p>
-<p>Requisition Gov<hi rend="sup">r</hi> Iowa for Tho<hi rend="sup">s</hi> Woodward<figure type="hr"/></p>
+<p>Requisition Gov<hi rend="sup">r</hi> <placeName ref="cwgk:P001009">Iowa</placeName> for Tho<hi rend="sup">s</hi> Woodward<figure type="hr"/></p>
 <p>Delos T. Bligh Agent
 <lb/><date when="1864-09-20">20<hi rend="sup">th</hi>, Sept 1864</date></p>
   </body>
