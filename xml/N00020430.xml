@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020430">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Willard Preble Hall</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020430">
+                    <persName>
+                      Willard Preble Hall
+                        (17th Governor of the State of Missouri, attorney, soldier, and politician.)
+                    </persName>
+                        <event type="birth"  when="1820-05-09"  ><ab>1820-05-09</ab></event>
+                        <event type="death"  when="1882-11-02"  ><ab>1882-11-02</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>17th Governor of the State of Missouri, attorney, soldier, and politician. Jefferson County, Virginia, native. Son of John Hall and Statira Preble Hall. Married to Ann Eliza Richardson Hall in Buchanan County, Missouri, on October 28, 1847. Father of William R. Hall, Willard P. Hall, John Hall, and M. Hall. Married to Olla F. Oliver Hall in Cole County, Missouri, on June 22, 1864. Father of George O. Hall. Graduated from Yale University in New Haven, Connecticut, in 1839. Resident of Missouri in 1840. Admitted to the bar in 1841. Circuit attorney in Buchanan County, Missouri, in 1843. Served in the 1st Missouri Cavalry Regiment (U.S.A.) as a private and first lieutenant from 1846 to 1847. Member of the United States House of Representatives from Missouri from 1847 to 1853. Household owned seven enslaved persons in Buchanan County in 1850. Attorney in Buchanan County in 1854. Attorney in Buchanan County in 1860. Owned twenty-two enslaved persons in Buchanan County in 1860. Republican Provisional Lieutenant Governor of the State of Missouri from July 31, 1861, to January 31, 1864. Provisional Governor of the State of Missouri from January 31, 1864, to January 2, 1865, following the death of Hamilton Rowan Gamble.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Missouri, Buchanan County, Washington Township, p. 37A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Missouri, Buchanan County, District 9.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Missouri, Buchanan County, Washington Township, pp. 334-335.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Missouri, Buchanan County, Washington Township, p. 74B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Missouri, Buchanan County, St. Joseph Ward 4, p. 607B.<lb/>
+<hi rend="italic">Missouri, U.S., Marriage Records, 1805-2002</hi>, Missouri State Archives, Jefferson City, MO, Buchanan County, 1839-1879.<lb/>
+<hi rend="italic">Missouri, U.S., Marriage Records, 1805-2002</hi>, Missouri State Archives, Jefferson City, MO, Cole County, 1821-1919.<lb/>
+&quot;Gov. Willard P. Hall,&quot; <hi rend="italic">St. Joseph Weekly Herald</hi> (St. Joseph, MO), November 9, 1882, p. 6.<lb/>
+John F. Phillips, &quot;Gov. Willard Preble Hall,&quot; <hi rend="italic">Missouri Historical Review</hi>, vol. 5, no. 2 (Oct. 1910 - July 1911), 69-82.<lb/>
+Carrie Westlake Whitney, <hi rend="italic">Kansas City, Missouri: Its History and Its People, 1800-1908</hi>, vol. II (Chicago: The S.J. Clarke Publishing Co., 1908), 139-40.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
