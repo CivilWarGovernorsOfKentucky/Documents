@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0003"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Jeffersonville, Indiana
+   <p><placeName ref="cwgk:P00013820">Jeffersonville</placeName>, <placeName ref="cwgk:P001818">Indiana</placeName>
 <lb/><date when="1865-01-27">January 27" 1865</date>
-<lb/>Govenor Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette.
+<lb/>Govenor <persName ref="cwgk:N001000">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette</persName>.
 <lb/>Sir.</p>
-<p>I received to day the recommendation herewith transmitted. This recommendation was kindly furnished me without soliciation on my part, which, coming from the distinguished source it does, is rendered doubly valuable to me. The position refered to in the Petition has been filled by your Excellency, and the sellection of Major Frederick Slater, was an excellent one. He is not only a perfect Gentleman but a gallant and honerable Officer.</p>
+<p>I received to day the recommendation herewith transmitted. This recommendation was kindly furnished me without soliciation on my part, which, coming from the distinguished source it does, is rendered doubly valuable to me. The position refered to in the Petition has been filled by your Excellency, and the sellection of Major <persName ref="cwgk:N00020034">Frederick Slater</persName>, was an excellent one. He is not only a perfect Gentleman but a gallant and honerable Officer.</p>
 <p>I however forward the recommendation to your Excellency, and if a position of a higher rank than the one I now occupy should become vacant, and you deem me worthy, I <hi rend="str">w</hi>should be pleased to have the Petition recognized by my appointment thereto.</p>
 <p>I am Govenor
 <lb/>Very Respectfully
@@ -78,7 +86,7 @@
 <p>Green Edward H.<figure type="hr"/></p>
 <p>To the Gov -- <figure type="hr"/></p>
 <p>Says the position refered to in the encolsed peitition has been filled, but asks that you will consider the petition, if a position of a higher rank than the one he now occupies, should become vacant -- <figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-01-30">30 Jany 1865</date></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O</orgName>. <placeName ref="cwgk:P001800">Ky</placeName> <date when="1865-01-30">30 Jany 1865</date></p>
   </body>
  </text>
 </TEI>
