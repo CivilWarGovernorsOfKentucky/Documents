@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John Brady</title>
+        <title level="a" type="main">John A. Brady</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Courtney Buchkoski</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00005791">
                     <persName>
-                      John Brady
-                        (Surgeon in 1st Kentucky Volunteers.)
+                      John A. Brady
+                        (Washington County, Kentucky, physician and surgeon. 1st Kentucky Cavalry)
                     </persName>
+                        <event type="birth"  when="1832-09-13"  ><ab>1832-09-13</ab></event>
+                        <event type="death"  when="1892-01-03"  ><ab>1892-01-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky soldier. Surgeon in the 1st Kentucky Volunteer Cavalry Regiment (U.S.A.) from October 28, 1861, to December 26, 1862. </p>
+        <p>Washington County, Kentucky, physician and surgeon. Washington County, Kentucky, native. Son of Milton A. Brady and Eliza Brady. Married to Martha J. Peter in Washington County, Kentucky, on October 14, 1856. Father of Frank L. Brady. Resident of Washington County in 1850. Household owned three enslaved persons in Washington County in 1850. Graduated from New York University in New York City in 1856. Physician in Washington County in 1860.<lb/>
+Served in the 1st Kentucky Volunteer Cavalry Regiment (U.S.A.) as a surgeon from  October 28, 1861, to December 26, 1862. Surgeon at the Louisville Hospital from 1863 to 1864.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 2-3.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Washington County, pp. 146A-B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Washington County.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Washington County, Mackville, p. 94.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 6, pp. 641A-B.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0002.<lb/>
+&quot;Doctors Must Die Too,&quot; <hi rend="italic">The Courier-Journal</hi> (Louisville, KY), January 3, 1892, p. 6.<lb/>
+&quot;Lawyer and Doctor Go,&quot; <hi rend="italic">The Courier-Journal</hi> (Louisville, KY), January 4, 1892, p. 8.<lb/>
+<hi rend="italic">History of the Ohio Falls Cities and Their Counties, with Illustrations and Biographical Sketches</hi>, vol. I (Cleveland, OH: L. A. Williams &amp; Co., 1882), 473.
 </bibl></ab>
     </back>
 </text>
