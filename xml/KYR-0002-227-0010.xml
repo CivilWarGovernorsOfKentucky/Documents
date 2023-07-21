@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0010"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hd Qrts 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cav
-<lb/>Lexington Ky <date when="1864-09-21">Sept 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date>
-<lb/>Gov Tho<hi rend="sup">s</hi> E Bramlette
+   <p>Hd Qrts <orgName ref="cwgk:O00005233">11<hi rend="underline"><hi rend="sup">th</hi></hi> <placeName ref="cwgk:P001800">Ky</placeName> Cav</orgName>
+<lb/><placeName ref="cwgk:P001002">Lexington</placeName> Ky <date when="1864-09-21">Sept 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date>
+<lb/>Gov <persName ref="cwgk:N001000">Tho<hi rend="sup">s</hi> E Bramlette</persName>
 <lb/>Govenor</p>
-<p>Permit me to recommend to your Excellency. / For the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieutenancy of Co. C. 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cav Private Cha<hi rend="sup">s</hi> H. Edwards of same Regt. ^vice Saml P. Debaum res'g <date when="1864-09-21">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 21. 1864</date>^ // He is a soldier in every sense of the word &amp; well worthy of promotion.</p>
+<p>Permit me to recommend to your Excellency. / For the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieutenancy of Co. C. 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cav Private <persName ref="cwgk:N00020066">Cha<hi rend="sup">s</hi> H. Edwards</persName> of same Regt. ^vice <persName ref="cwgk:N00020069">Saml P. Debaum</persName> res'g <date when="1864-09-21">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 21. 1864</date>^ // He is a soldier in every sense of the word &amp; well worthy of promotion.</p>
 <p>I am Gov your Most obt servt
 <lb/><hi rend="underline">W. O. Boyle
 <lb/></hi>Lt Col 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cav</p>
@@ -79,10 +87,10 @@
 <lb/>Lieut Col.<figure type="hr"/></p>
 <p>Recommends Private Cha<hi rend="sup">s</hi> H. Edwards for the position of 1" Lieut Comp<hi rend="sup">y</hi> C. 11" Ky Cav<hi rend="sup">y</hi><figure type="hr"/></p>
 <p>Issue if vacancy
-<lb/>D W Lindsey</p>
+<lb/><persName ref="cwgk:N00000873">D W Lindsey</persName></p>
 <p>Com iss<hi rend="sup">d</hi> &amp; forw<hi rend="sup">d</hi>
 <lb/><date when="1864-09-21">Sept<hi rend="sup">r</hi> 21. 1864</date><figure type="hr"/></p>
-<p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-09-21">Sept<hi rend="sup">r</hi> 21. 1864</date></p>
+<p>Rec<hi rend="sup">d</hi> <orgName ref="cwgk:O00000388">A. G. O.</orgName> <date when="1864-09-21">Sept<hi rend="sup">r</hi> 21. 1864</date></p>
 <p>Issue Commission
 <lb/>T. E. Bramlette</p>
   </body>
