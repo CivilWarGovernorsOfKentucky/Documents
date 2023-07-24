@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0014"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mossey Creek Tenn
+   <p><placeName ref="cwgk:P00020082">Mossey Creek</placeName> <placeName ref="cwgk:P001001">Tenn</placeName>
 <lb/><date when="1865-03-21">March 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1865</date>
-<lb/>D. Lindsey
-<lb/>Adjt. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky Vol.
+<lb/><persName ref="cwgk:N00000873">D. Lindsey</persName>
+<lb/><orgName ref="cwgk:O00000388">Adjt. Gen</orgName><hi rend="underline"><hi rend="sup">l</hi></hi> <orgName ref="cwgk:O00000870">Ky Vol.</orgName>
 <lb/>Gen<hi rend="underline"><hi rend="sup">l</hi></hi></p>
-<p>I have to honor to state that you Commissioned me as first Lieut. in Company. D. 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cav on the <date when="1864-11-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864</date> since which time I have performed the duty of such up to the present time and am now informed by Lt. Col. Slator that I cannot be mustered in the Company owing to the Company having but six months to serve</p>
+<p>I have to honor to state that you Commissioned me as first Lieut. in Company. D. <orgName ref="cwgk:O00005233">11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cav</orgName> on the <date when="1864-11-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864</date> since which time I have performed the duty of such up to the present time and am now informed by Lt. Col. <persName ref="cwgk:N00020034">Slator</persName> that I cannot be mustered in the Company owing to the Company having but six months to serve</p>
 <p>I would also beg leave to state that the commission I now hold gives me a great deal of trouble to draw my pay as Sergt. and trust that you will not think hard of me to ask that you cancel my commission and I will wait untill some future time that promotion might offer in my own Company</p>
 <p>Verry Respectfully
 <lb/>Your Obt. Servant
-<lb/>John Bradburn<pb/></p>
+<lb/><persName ref="cwgk:N00020081">John Bradburn</persName><pb/></p>
    <p><hi rend="underline">11 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi></p>
 <p>Mossey Creek Tenn.
 <lb/><date when="1865-03-21">Mar. 21. 1865</date><figure type="hr"/></p>
@@ -80,7 +88,7 @@
 <p>Says he cannot get mustered on enclosed commission, and asks that the same be cancelled -- <figure type="hr"/></p>
 <p>cancel this commission and "by request" and notify him of same
 <lb/>D W Lindsey
-<lb/>Adj Gen<hi rend="sup">l</hi> Ky</p>
+<lb/>Adj Gen<hi rend="sup">l</hi> <orgName ref="cwgk:O001025">Ky</orgName></p>
 <p>cancelled &amp; notification of same sent to him
 <lb/><date when="1865-04-03">Apl 3/65</date><figure type="hr"/></p>
 <p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-03-31">31 Mar. 1865</date></p>
