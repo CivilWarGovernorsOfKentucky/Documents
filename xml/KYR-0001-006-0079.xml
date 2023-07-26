@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0079"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +67,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Franklin Simpson County Ky
+   <p><placeName ref="cwgk:P00005293">Franklin</placeName> <placeName ref="cwgk:P00005295">Simpson County</placeName> <placeName ref="cwgk:P001800">Ky</placeName>
 <lb/><date when="1865-09-23">23<hi rend="sup">d</hi> Septr 1865.</date>
-<lb/>Gov Bramlette,
+<lb/><persName ref="cwgk:N001000">Gov Bramlette</persName>,
 <lb/>Dear Sir,</p>
-<p>I enclose you copies of two Indictments pending in the Allen cCrcuit Court one against David Hunt, The other against A A Harris and Jerry Ramsey.</p>
-<p>I wish a requisition on the governor of Tennessee for the arrest of the defts in both cases, Hunt can be arrested any time at the Hermitage near Nashville, Harris can be arrested at Lebanon Ten, and Ramsey is a fugitive somewhere in Tennessee.</p>
-<p>I would Suggest that Geoge W Dalton of Franklin Ky be appointed agent of the governor to receive the criminals. I suggest this for the reasons 1<hi rend="sup">st</hi> that Dalton is a true and good man is Sheriff of Simpson County, and understands his business. 2<hi rend="sup">d</hi> It is more Convenient, to the Authorities in Tennessee to deliver them at Franklin on the railroad<pb/>
-<lb/>3<hi rend="sup">d</hi> Sheriff Dalton has the Bench warrants in both cases, to execute, and has bench warrants against Harris &amp; Hunt each in another case which he desires to execute. Send requisitions to me. I will forward to Gov Brownlow, with Information of the residence of Harris &amp; Hunt</p>
+<p>I enclose you copies of two Indictments pending in the <orgName ref="cwgk:O00000339">Allen cCrcuit Court</orgName> one against <persName ref="cwgk:N00019895">David Hunt</persName>, The other against <persName ref="cwgk:N00019894">A A Harris</persName> and <persName ref="cwgk:N00019890">Jerry Ramsey</persName>.</p>
+<p>I wish a requisition on the governor of <placeName ref="cwgk:P001001">Ten</placeName>nessee for the arrest of the defts in both cases, Hunt can be arrested any time at the Hermitage near <placeName ref="cwgk:P001004">Nashville</placeName>, Harris can be arrested at <placeName ref="cwgk:P00019887">Lebanon</placeName> Ten, and Ramsey is a fugitive somewhere in Tennessee.</p>
+<p>I would Suggest that <persName ref="cwgk:N00005300">Geoge W Dalton</persName> of Franklin Ky be appointed agent of the governor to receive the criminals. I suggest this for the reasons 1<hi rend="sup">st</hi> that Dalton is a true and good man is Sheriff of Simpson County, and understands his business. 2<hi rend="sup">d</hi> It is more Convenient, to the Authorities in Tennessee to deliver them at Franklin on the railroad<pb/>
+<lb/>3<hi rend="sup">d</hi> Sheriff Dalton has the Bench warrants in both cases, to execute, and has bench warrants against Harris &amp; Hunt each in another case which he desires to execute. Send requisitions to me. I will forward to <persName ref="cwgk:N00005294">Gov Brownlow</persName>, with Information of the residence of Harris &amp; Hunt</p>
 <p>Your friend
-<lb/>W<hi rend="sup">m</hi> B Jones Atty
-<lb/>for the Comth,</p>
+<lb/><persName ref="cwgk:N00005301">W<hi rend="sup">m</hi> B Jones</persName> Atty
+<lb/>for the <orgName ref="cwgk:O001025">Comth</orgName>,</p>
 <p>Requisition upon Gov Tennessee 
 <lb/>&amp; 
 <lb/>G. W. Dalton appt<hi rend="underline"><hi rend="sup">d</hi></hi> Agent
