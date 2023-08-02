@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. H. J. Goddard</title>
+        <title level="a" type="main">Robert Hale Ives Goddard</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Courtney Buchkoski</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00005703">
                     <persName>
-                      R. H. J. Goddard
-                        (Acting Assistant Adjutant General in 1862. )
+                      Robert Hale Ives Goddard
+                        (Providence, Rhode Island, soldier. Staff of Ambrose E. Burnside.)
                     </persName>
+                        <event type="birth"  when="1837-09-01"  ><ab>1837-09-01</ab></event>
+                        <event type="death"  when="1916-04-22"  ><ab>1916-04-22</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Acting Assistant Adjutant General for General Burnside in 1862. </p>
+        <p>Providence, Rhode Island, soldier. Rhode Island native. Son of William Giles Goddard and Charlotte Rhoda Ives Goddard. Student in Providence, Rhode Island, in 1850. Graduated from Brown University in Providence in 1858. Resident of Providence in 1860. Served in the 1st Rhode Island Volunteer Infantry Regiment (U.S.A.) as a private from May 2, 1861, to August 2, 1861. Served on the staff of Major-General Ambrose E. Burnside from September 11, 1862, to May 25, 1869.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0002-033-0008.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Rhode Island, Providence County, Providence Ward 2, p. 113B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Rhode Island, Providence County, Providence Ward 2, p. 40.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Rhode Island, Providence County, Providence Ward 2, p. 266A.<lb/>
+&quot;Colonel R. H. I. Goddard Found Dead in Bed,&quot; <hi rend="italic">The New York Times</hi> (New York, New York), April 24, 1916, p. 13.<lb/>
+William Richard Cutter, ed., <hi rend="italic">New England Families, Genealogical and Memorial: A Record of the Achievements of Her People in the Making of Commonwealths and the Founding of a Nation</hi>, vol. IV (New York: Lewis Historical Publishing Company, 1914), 1835-7.
 </bibl></ab>
     </back>
 </text>
