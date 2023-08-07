@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020137">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James William Patterson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020137">
+                    <persName>
+                      James William Patterson
+                        (Harrodsburg, Mercer County, Kentucky, carpenter)
+                    </persName>
+                        <event type="birth"  when="1840-09-28"  ><ab>1840-09-28</ab></event>
+                        <event type="death"  when="1865-09-19"  ><ab>1865-09-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mercer County, Kentucky, carpenter. Kentucky native. Son of Benjamin Patterson and Mary Patterson. Attended school in Mercer County, Kentucky, in 1850. Household owned three enslaved persons in Mercer County in 1850. Attended Kentucky University in Mercer County in 1859. Resident of Mercer County in 1860. Household owned three enslaved persons in Mercer County in 1860. Carpenter in Mercer County in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 366A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Mercer County, Harrodsburg.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 691.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mercer County, Harrodsburg, p. 46B.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Mercer County, KY, August 1863, p. 22.<lb/>
+<hi rend="italic">First Annual Announcement of Kentucky University, 1859</hi>, Louisville, Ky.: Morton and Griswold Printers, 1859, p. 32<lb/>
+&quot;James W. Patterson (1840-1865),&quot; Find A Grave, Memorial 59503857, accessed May 30, 2023, http://www.findagrave.com/memorial/59503857.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
