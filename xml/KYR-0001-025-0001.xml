@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0001"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -66,24 +74,24 @@
    <p><note place="header">141</note></p>
 <p><date when="1860">1860</date> Executive Journal</p>
 <p><date when="1860-11-01">Nov 1</date> 
-<lb/>The Governor appointed A. M. Gazlay Notary Public for the County of Jefferson until the end of the next session of the General Assembly.
-<lb/>He caused to be filed the Oath of office of W<hi rend="underline"><hi rend="sup">m</hi></hi> V Archer Com<hi rend="sup">r</hi> of Deeds for Pennsylvania</p>
-<p>He respited a Judgment of the Graves Circuit Court against W. Carter of &#36;40. for a breach of the peace, for twelve months</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> appointed <persName ref="cwgk:N001782">A. M. Gazlay</persName> Notary Public for the <placeName ref="cwgk:P001005">County of Jefferson</placeName> until the end of the next session of the <orgName ref="cwgk:O00000923">General Assembly.</orgName>
+<lb/>He caused to be filed the Oath of office of <persName ref="cwgk:N001780">W<hi rend="underline"><hi rend="sup">m</hi></hi> V Archer</persName> Com<hi rend="sup">r</hi> of Deeds for <placeName ref="cwgk:P001006">Pennsylvania</placeName></p>
+<p>He respited a Judgment of the <orgName ref="cwgk:O00000382">Graves Circuit Court</orgName> against <persName ref="cwgk:N00020519">W. Carter</persName> of $40. for a breach of the peace, for twelve months</p>
 <p>He remitted the following Judgments, to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>Madison Cir. Ct. vs. Allen Hunter</cell>
-	<cell>&#36;50. -- </cell>
+	<cell><orgName ref="cwgk:O00000422">Madison Cir. Ct.</orgName> vs. <persName ref="cwgk:N00020521">Allen Hunter</persName></cell>
+	<cell>$50. -- </cell>
 	<cell>Concealed Weapons</cell>
 </row>
 <row>
-	<cell>Do Do Do " Aaron Horn</cell>
-	<cell>&#36;20.</cell>
+	<cell>Do Do Do " <persName ref="cwgk:N00020524">Aaron Horn</persName></cell>
+	<cell>$20.</cell>
 	<cell>Gaming</cell>
 </row>
 <row>
-	<cell>Russell Do Do " W<hi rend="underline"><hi rend="sup">m</hi></hi> Reynolds</cell>
-	<cell>&#36;200 -- </cell>
+	<cell><orgName ref="cwgk:O00000573">Russell</orgName> Do Do " <persName ref="cwgk:N00020621">W<hi rend="underline"><hi rend="sup">m</hi></hi> Reynolds</persName></cell>
+	<cell>$200 -- </cell>
 	<cell>Exhibiting Show without license</cell>
 </row>
 </table>
