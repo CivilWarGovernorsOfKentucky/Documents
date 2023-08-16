@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020079">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Curren G. Neal</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020079">
+                    <persName>
+                      Curren G. Neal
+                        (Adams County, Illinois, farmer and soldier - Cpt. 11th Ky. Inf.)
+                    </persName>
+                        <event type="birth"  when="1841"  cert="medium" ><ab>c1841</ab></event>
+                        <event type="death"  when="1900-04-19"  ><ab>1900-04-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Adams County, Illinois, farmer and soldier. Kentucky native. Son of Preston Neal and Emily Neal. Married to Mary E. Monroe Neal in Butler County, Kentucky, on April 5, 1863. Father of Loretta Neal. Attended school in Adams County, Illinois, in 1850. Farmer in Adams County in 1860. Served in the 11th Kentucky Volunteer Infantry Regiment (U.S.A.) as a first sergeant, first lieutenant, and captain, from December 9, 1864, to January 13, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Illinois, Adams County, Fall Creek Township, p. 88A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, Adams County, Fall Creek Township, p. 621.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ohio County, Cromwell Precinct, p. 409B.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0249.<lb/>
+<hi rend="italic">Kentucky, County Marriages, 1797-1954</hi>, Genealogical Society of Salt Lake City, Salt Lake City, UT, Butler County Marriages, Film 000367209.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 827.<lb/>
+&quot;Dead,&quot; <hi rend="italic">The County Democrat</hi> (Tecumseh, OK Territory), April 27, 1900, p. 3.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
