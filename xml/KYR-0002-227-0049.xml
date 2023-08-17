@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0049"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Headquarters Department of the Ohio,
+   <p>Headquarters <orgName ref="cwgk:O001001">Department of the Ohio</orgName>,
 <lb/><hi rend="italic">Knoxville, Tenn.</hi>, <date when="1864-04-12">April 12<hi rend="sup">th</hi> 1864</date>.
 <lb/>SPECIAL ORDERS,
 <lb/><hi rend="underline">No. 103</hi></p>
-<p>4. The resignation of 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt. <hi rend="underline">Geo. J. Burgess</hi>, 11 Ky. Cav<hi rend="sup">y</hi> Volunteers, tendered on account of Physical disability is hereby accepted to take effect <date when="1864-04-15">April 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.</p>
-<p>Any balance of pay due him at that time, will be suspended until satisfactory evidence is furnished to the Paymaster, that he is not indebted to the United States Government.</p>
-<p>BY COMMAND OF MAJOR GENERAL <hi rend="str">FOSTER</hi> ^Schofield^:
-<lb/>R. Morrow
+<p>4. The resignation of 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt. <hi><persName ref="cwgk:N00020063">Geo. J. Burgess</persName></hi>, <orgName ref="cwgk:O00005233">11 Ky. Cav<hi rend="sup">y</hi> Volunteers</orgName>, tendered on account of Physical disability is hereby accepted to take effect <date when="1864-04-15">April 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.</p>
+<p>Any balance of pay due him at that time, will be suspended until satisfactory evidence is furnished to the <orgName ref="cwgk:O00018493">Paymaster</orgName>, that he is not indebted to the <orgName ref="cwgk:O00002945">United States Government</orgName>.</p>
+<p>BY COMMAND OF MAJOR GENERAL <hi><persName ref="cwgk:N00005705">FOSTER</persName></hi> ^<persName ref="cwgk:N00012695">Schofield</persName>^:
+<lb/><persName ref="cwgk:N00005915">R. Morrow</persName>
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
 <p>1. 2. 3.</p>
 <p>His Excellency
@@ -79,7 +87,7 @@
 <p>Burgess <hi rend="str">John</hi> George J.
 <lb/>2 Lieut<figure type="hr"/></p>
 <p>Order accepting Resignation<figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-04-20">April 20. 1864</date></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O.</orgName> <date when="1864-04-20">April 20. 1864</date></p>
   </body>
  </text>
 </TEI>
