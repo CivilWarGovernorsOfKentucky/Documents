@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0017"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Marietta, Georgia,
+   <p><placeName ref="cwgk:P00020114">Marietta</placeName>, <placeName ref="cwgk:P001008">Georgia</placeName>,
 <lb/><date when="1864-08-09">August 9" 1864</date>
-<lb/>Gov. Tho<hi rend="sup">s</hi>. E. Bramlette,
+<lb/>Gov. <persName ref="cwgk:N001000">Tho<hi rend="sup">s</hi>. E. Bramlette</persName>,
 <lb/>Sir: -- </p>
-<p>I hereby earnestly recommend that 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut Edward H. Green, Company "E" 11" Ky. Vol. Cavalry be promoted Captain of said Company. <hi rend="underline">Vice</hi> Capt Frederick Slater, promoted Major.</p>
-<p>Also 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut Dunn R. Stage, to be 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut of said company, <hi rend="underline">vice</hi>, Lieut Green, promoted Captain.</p>
-<p>Also, 1<hi rend="underline"><hi rend="sup">st</hi></hi> Sergeant Solomon Huffman to be 2<hi rend="sup">d</hi> Lieut of said Company, <hi rend="underline">vice</hi> Lieut Stage promoted.</p>
+<p>I hereby earnestly recommend that 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut <persName ref="cwgk:N00020035">Edward H. Green</persName>, Company "E" <orgName ref="cwgk:O00005233">11" Ky. Vol. Cavalry</orgName> be promoted Captain of said Company. <hi rend="underline">Vice</hi> Capt <persName ref="cwgk:N00020034">Frederick Slater</persName>, promoted Major.</p>
+<p>Also 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut <persName ref="cwgk:N00020088">Dunn R. Stage</persName>, to be 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut of said company, <hi rend="underline">vice</hi>, Lieut Green, promoted Captain.</p>
+<p>Also, 1<hi rend="underline"><hi rend="sup">st</hi></hi> Sergeant <persName ref="cwgk:N00020115">Solomon Huffman</persName> to be 2<hi rend="sup">d</hi> Lieut of said Company, <hi rend="underline">vice</hi> Lieut Stage promoted.</p>
 <p>I make these recommendations fully estimating the worth and merrit of the Officers above recommended.</p>
-<p>W. O. Boyle
+<p><persName ref="cwgk:N00020036">W. O. Boyle</persName>
 <lb/>Maj 11 Ky Cav Comdg<pb/></p>
    <p><hi rend="underline">11 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi></p>
 <p>Marietta Ga
@@ -80,8 +88,8 @@
 <lb/>Maj Com<hi rend="sup">d</hi> 11<hi rend="sup">th</hi> Cav<figure type="hr"/></p>
 <p>Recommend 1<hi rend="sup">st</hi> Lt E H Green Co 'E" to be comssioned Cap<hi rend="sup">t</hi> same Co vice Slater promoted &amp; Dunn R Stage to be 1<hi rend="sup">st</hi> Lt vice Green, and S Huffman to be 2<hi rend="sup">d</hi> Lt. vice Stage.<figure type="hr"/></p>
 <p>Issue
-<lb/>D W Lindsey
-<lb/>Insp &amp; A G Ky</p>
+<lb/><persName ref="cwgk:N00000873">D W Lindsey</persName>
+<lb/>Insp &amp; A G <orgName ref="cwgk:O001025">Ky</orgName></p>
 <p>Com iss<hi rend="sup">d</hi> &amp; forw<hi rend="sup">d</hi>.
 <lb/><date when="1864-08-19">Aug 19. 1864</date><figure type="hr"/></p>
 <p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G O <date when="1864-08-15">15 Aug 1864</date><pb/></p>
