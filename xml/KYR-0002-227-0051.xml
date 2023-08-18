@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0051"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington Ky <date when="1864-01-01">Jan 1 1864</date>
-<lb/>Adgent General Ky
+   <p><placeName ref="cwgk:P001002">Lexington</placeName> <orgName ref="cwgk:O001025">Ky</orgName> <date when="1864-01-01">Jan 1 1864</date>
+<lb/><persName ref="cwgk:N00000879">Adgent General</persName> Ky
 <lb/>Sir</p>
 <p>I Do hearby Respectfly <hi rend="str">my</hi> Return my Comission The reason of Its not being Done before was that my Rigiment being at Front and Its being very unsafe to Send anny Papers of Value that I deemed it to wait untill I Returned to the State of Ky and this is my First Oportunity of Doing So</p>
 <p>Your Obedient Servant
-<lb/>James Powell 3<hi rend="sup">rd</hi> Sarg Co I
-<lb/>11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavlry<pb/></p>
+<lb/><persName ref="cwgk:N00020044">James Powell</persName> 3<hi rend="sup">rd</hi> Sarg Co I
+<lb/><orgName ref="cwgk:O00005233">11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavlry</orgName><pb/></p>
 <p><hi rend="underline">11 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi>
 <lb/>Lexington Ky
 <lb/><date when="1864-01-01">Jany 1" 1864</date><figure type="hr"/></p>
@@ -77,10 +85,10 @@
 <lb/>3<hi rend="underline"><hi rend="sup">d</hi></hi> Sgt. Co. I. 11" Ky Cav.<figure type="hr"/></p>
 <p>Returns his commission as 1" Lt 11" Ky Cavy. -- <figure type="hr"/></p>
 <p>Cancel Commission
-<lb/>D W Lindsey
+<lb/><persName ref="cwgk:N00000873">D W Lindsey</persName>
 <lb/>Insp &amp; Adjt Gen<hi rend="underline"><hi rend="sup">l
 <lb/></hi></hi>for nonacceptance<figure type="hr"/></p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-01-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> Jany 1865</date></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O.</orgName> Ky <date when="1865-01-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> Jany 1865</date></p>
   </body>
  </text>
 </TEI>
