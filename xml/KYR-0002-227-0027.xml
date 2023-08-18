@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0027"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,16 +70,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>James F. Peyton com. Assistant Surgeon 11 Cav Reg<hi rend="underline"><hi rend="sup">t</hi></hi> Ky Vols 15. <date when="1863-08">August 1863</date>. vice John F. Rodgers. discharged. <hi rend="str">service</hi>.</p>
+   <p><persName ref="cwgk:N00020089">James F. Peyton</persName> com. Assistant Surgeon <orgName ref="cwgk:O00005233">11 Cav Reg<hi rend="underline"><hi rend="sup">t</hi></hi> Ky Vols</orgName> 15. <date when="1863-08">August 1863</date>. vice <persName ref="cwgk:N00013194">John F. Rodgers</persName>. discharged. <hi rend="str">service</hi>.</p>
 <p>make the above appointment
-<lb/>J F Robinson</p>
+<lb/><persName ref="cwgk:N001004">J F Robinson</persName></p>
 <p>1 2. 3. 4. 5. 6. 7. 8. 9.<pb/></p>
 <p>11Cav<hi rend="sup">y</hi><figure type="hr"/></p>
 <p>Asst. Surg.
 <lb/>Peyton<figure type="hr"/></p>
 <p>Com. iss<hi rend="sup">d</hi> &amp; del<hi rend="sup">d</hi>
 <lb/><date when="1863-08-19">Aug 19. 1863</date>
-<lb/>CH</p>
+<lb/><persName ref="cwgk:N00000871">CH</persName></p>
   </body>
  </text>
 </TEI>
