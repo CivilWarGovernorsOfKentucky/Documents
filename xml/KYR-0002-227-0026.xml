@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0026"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Camp Chase. Ohio <date when="1863-02-18">Feb 18<hi rend="sup">th</hi> 1863</date>
+   <p><orgName ref="cwgk:O00009501">Camp Chase</orgName>. <placeName ref="cwgk:P001036">Ohio</placeName> <date when="1863-02-18">Feb 18<hi rend="sup">th</hi> 1863</date>
 <lb/>To his Excellency
-<lb/>James F Robinson
-<lb/>Gov. of Ky
+<lb/><persName ref="cwgk:N001004">James F Robinson</persName>
+<lb/>Gov. of <orgName ref="cwgk:O001025">Ky</orgName>
 <lb/>Dear Sir</p>
-<p>I was commissioned by you as 1<hi rend="sup">st</hi> Lieut 11<hi rend="sup">th</hi> Reg Ky Cav on the <date when="1862-09-04">4<hi rend="sup">th</hi> day of September 1862</date>, on the <date when="1862-12-07">7<hi rend="sup">th</hi> day of December last</date>, I lost my commission at Hartsville, Tennessee, during the engagement there between our Troops and the confederates, I would be thankful to you if you will cause to be issued to me another commission in its stead. Gov. I was over one month recruiting my company I commenced in the last of July and had my company at Louisville by the <date when="1862-09-02">2<hi rend="sup">ond</hi> of September</date> I think that I ought to be paid for my services. I think that my commission should be dated at the commencement of my services, say the <date when="1862-08-01">1<hi rend="sup">st</hi> day of August 1862</date>. I have never had any pay yet from Uncle Sam. and if I had the commission dated back I could receive<pb/>
+<p>I was commissioned by you as 1<hi rend="sup">st</hi> Lieut <orgName ref="cwgk:O00005233">11<hi rend="sup">th</hi> Reg Ky Cav</orgName> on the <date when="1862-09-04">4<hi rend="sup">th</hi> day of September 1862</date>, on the <date when="1862-12-07">7<hi rend="sup">th</hi> day of December last</date>, I lost my commission at <placeName ref="cwgk:P00012496">Hartsville</placeName>, <placeName ref="cwgk:P001001">Tennessee</placeName>, during the engagement there between <orgName ref="cwgk:O00001186">our Troops</orgName> and the <orgName ref="cwgk:O00000506">confederates</orgName>, I would be thankful to you if you will cause to be issued to me another commission in its stead. Gov. I was over one month recruiting my company I commenced in the last of July and had my company at <placeName ref="cwgk:P00000337">Louisville</placeName> by the <date when="1862-09-02">2<hi rend="sup">ond</hi> of September</date> I think that I ought to be paid for my services. I think that my commission should be dated at the commencement of my services, say the <date when="1862-08-01">1<hi rend="sup">st</hi> day of August 1862</date>. I have never had any pay yet from Uncle Sam. and if I had the commission dated back I could receive<pb/>
 <lb/>pay on the commission from its date. viz <date when="1862-08-01">1<hi rend="sup">st</hi> of Aug 1862</date> -- I was captured paroled and have been exchanged I supposed will soon be sent to the field. </p>
 <p>With respect your
 <lb/>Obedient Servt
-<lb/>Robert Terrill
+<lb/><persName ref="cwgk:N00020122">Robert Terrill</persName>
 <lb/>1<hi rend="sup">st</hi> Lieut Co E 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cav</p>
 <p><hi rend="underline">11 Cav:</hi>
 <lb/>Lt: Terrill
