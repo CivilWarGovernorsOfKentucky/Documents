@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0053"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head Quarters 11" Ky C<hi rend="sup">v</hi>
-<lb/>Knoxville Tenn <date when="1863-09-14">Sept 14"/63</date>
+   <p>Head Quarters <orgName ref="cwgk:O00005233">11" <placeName ref="cwgk:P001800">Ky</placeName> C<hi rend="sup">v</hi></orgName>
+<lb/><placeName ref="cwgk:P00005704">Knoxville</placeName> <placeName ref="cwgk:P001001">Tenn</placeName> <date when="1863-09-14">Sept 14"/63</date>
 <lb/>To his Excellency
 <lb/>The Govonor of Ky
-<lb/>Frankfort Ky,
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky,
 <lb/>Dear Sir</p>
-<p>I have the honor to recommend as a sutible person to fill the post of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut Co F, ^this Regt,^ vacant by the resignation of Lieut B F Blimcoe, 2 Lieut John H Dickinson same company,</p>
+<p>I have the honor to recommend as a sutible person to fill the post of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut Co F, ^this Regt,^ vacant by the resignation of Lieut <persName ref="cwgk:N00020204">B F Blimcoe</persName>, 2 Lieut <persName ref="cwgk:N00020103">John H Dickinson</persName> same company,</p>
 <p>Lieut Dickinson has served faithfully &amp; is worthy of the promotion,</p>
 <p>Most Resp<hi rend="sup">t</hi>
 <lb/>Your Ob<hi rend="sup">t</hi> Serv<hi rend="sup">t</hi>
-<lb/>M, Graham
+<lb/><persName ref="cwgk:N00011728">M, Graham</persName>
 <lb/>Maj, Comdg Reg't<figure type="hr"/></p>
 <p>2 Lieut John H. Dickirson com. 1 Lieut Co<hi rend="sup">y</hi> F. 11<hi rend="underline"><hi rend="sup">th</hi></hi> Cav<hi rend="sup">y</hi> Vols <date when="1863-09-14">Septr 14. 1863</date>, vice B. F. Blincoe resig:</p>
 <p>1. 2. 3. 4 5 6. 7. 8. 9. 10.<pb/></p>
@@ -81,7 +89,7 @@
 <p>Lt. <hi rend="underline">Dickerson
 <lb/></hi>Com. iss<hi rend="sup">d</hi> &amp; forw<hi rend="sup">d</hi>
 <lb/><date when="1863-10-14"><hi rend="underline">Oct 14. 1863</hi></date></p>
-<p>Refer<hi rend="sup">d</hi> to Adj<hi rend="sup">t</hi> Genl
+<p>Refer<hi rend="sup">d</hi> to <persName ref="cwgk:N00000879">Adj<hi rend="sup">t</hi> Genl</persName>
 <lb/>Bramlette Gov<hi rend="sup">r</hi></p>
 <p>Issue if office is vacant, shown by our records.</p>
 <p><hi rend="underline">Boyle</hi></p>
