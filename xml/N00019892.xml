@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019892">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Sharon Tyndale</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniel Farrell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019892">
+                    <persName>
+                      Sharon Tyndale
+                        (Illinois, engineer, County surveyor, Postmaster and Secretary of State. )
+                    </persName>
+                        <event type="birth"  when="1816-01-19"  ><ab>1816-01-19</ab></event>
+                        <event type="death"  when="1871-04-29"  ><ab>1871-04-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>St. Clair County, Illinois, engineer, postmaster, and politician. Philadelphia, Pennsylvania, native. Resident of St. Clair County, Illinois, in 1834. Married to Mary Dorathea Hilgard Tyndale in St. Clair County, Illinois, in May 1839. Father of Emma Tyndale, Troilus Tyndale, Julius Tyndale, Theodore Tyndale, and Hector Tyndale. Engineer in St. Clair County, Illinois, in 1850. Surveyor in St. Clair County in 1860. Postmaster for Belleville in St. Clair County from March 27, 1861, to January 8, 1865. Member of the Republican Party. Secretary of State for the State of Illinois from 1865 to 1869.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Illinois, St. Clair County, Ridge Prairie District, p. 498A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, St. Clair County, Township 1 Range 8, p. 612.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Illinois, Sangamon County, Springfield, p. 437B. <lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, Records of the Post Office Department, NARA Series M841, RG 28, St. Clair County, Illinois, vol. 32, p. 400.<lb/>
+<hi rend="italic">Illinois, County Marriages, 1810-1940</hi>, Genealogical Society of Salt Lake City, Salt Lake City, UT, St. Clair County Marriages, Film 002169353.<lb/>
+&quot;Fearful Tragedy,&quot; <hi rend="italic">The Chicago Tribune</hi> (Chicago, IL), May 1, 1871, p. 2.<lb/>
+&quot;The Tyndale Murder,&quot; <hi rend="italic">Decatur Republican</hi> (Decatur, IL), May 4, 1871, p. 4.<lb/>
+Francis M. Shonkwiler, et al., eds., <hi rend="italic">Encyclopedia of Illinois</hi>, vol. 1 (Chicago: Munsell Publishing Company, 1917), 473.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
