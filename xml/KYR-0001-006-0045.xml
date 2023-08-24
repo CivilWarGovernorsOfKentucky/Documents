@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0045"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office Chief of Police,
-<lb/>Louisville, Ky., <date when="1864-10-24">Oct 24th 1864</date>
+   <p><orgName ref="cwgk:O00012619">Office Chief of Police</orgName>,
+<lb/><placeName ref="cwgk:P00000337">Louisville</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>., <date when="1864-10-24">Oct 24th 1864</date>
 <lb/>To the
-<lb/>Sec<hi rend="sup">y</hi> of State
-<lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>Enclosed you will find the necessary paper or affidavit for which you will please obtain for me a requisition on the Gov of Tennessee, appointing Joseph Swinney Agent, By attending to this you will much oblige</p>
+<lb/><orgName ref="cwgk:O00012489">Sec<hi rend="sup">y</hi> of State</orgName>
+<lb/>D<hi rend="sup">r</hi> <persName ref="cwgk:N001777">Sir</persName></p>
+<p>Enclosed you will find the necessary paper or affidavit for which you will please obtain for me a requisition on the Gov of Tennessee, appointing <persName ref="cwgk:N00020286">Joseph Swinney</persName> Agent, By attending to this you will much oblige</p>
 <p>Respectfully
-<lb/>Rich<hi rend="sup">d</hi> O. Priest
+<lb/><persName ref="cwgk:N00012445">Rich<hi rend="sup">d</hi> O. Priest</persName>
 <lb/>Cheif of Police<pb/></p>
-<p>Requisition On Tennessee for Emma Morris
+<p>Requisition On Tennessee for <persName ref="cwgk:N00020287">Emma Morris</persName>
 <lb/>Jos Swinney appt<hi rend="underline"><hi rend="sup">d</hi></hi> Agent
 <lb/><date when="1864-10-25">25<hi rend="sup">th</hi> Oct/64</date></p>
   </body>
