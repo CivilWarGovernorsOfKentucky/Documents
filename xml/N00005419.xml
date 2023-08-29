@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
           <respStmt>
@@ -48,8 +52,10 @@
                 <person xml:id="N00005419">
                     <persName>
                       Ben Johnson
-                        (Hart County, Kentucky, murderer)
+                        (Hart County, Kentucky, saddler and fugitive from justice.)
                     </persName>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +63,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Accused of fatally shooting Samuel Mansfield in Hart County, Kentucky on November 7, 1865. </p>
+        <p>Hart County, Kentucky, saddler and fugitive from justice. Shot Samuel Mansfield in Hart County, Kentucky, in November 1865. Fugitive from justice in November 1865.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0118.
+        <ab><bibl><hi rend="italic">The Louisville Daily Journal</hi> (Louisville, KY), November 14, 1865.<lb/>
+&quot;Proclamation by the Governor. $250 Reward,&quot; <hi rend="italic">The Louisville Daily Journal</hi> (Louisville, KY), December 5, 1865, p. 4.<lb/>
+KYR-0001-005-0118.<lb/>
+KYR-0001-006-0107.
 </bibl></ab>
     </back>
 </text>
