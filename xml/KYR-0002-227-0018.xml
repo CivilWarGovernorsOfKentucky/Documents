@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0018"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,36 +71,36 @@
  </teiHeader>
  <text>
   <body>
-   <p>Camp 11<hi rend="sup">th</hi> Ky Vol. Cavalry
-<lb/>near Powder Spring, Ga.
+   <p>Camp <orgName ref="cwgk:O00005233">11<hi rend="sup">th</hi> Ky Vol. Cavalry</orgName>
+<lb/>near <placeName ref="cwgk:P00005238">Powder Spring</placeName>, <placeName ref="cwgk:P001008">Ga</placeName>.
 <lb/><date when="1864-06-23">June 23<hi rend="underline"><hi rend="sup">d</hi></hi>, 1864</date>
 <lb/>To his Excellency
-<lb/>Thomas E. Bramlette
-<lb/>Governor of Kentucky,
+<lb/><persName ref="cwgk:N001000">Thomas E. Bramlette</persName>
+<lb/>Governor of <orgName ref="cwgk:O001025">Kentucky</orgName>,
 <lb/>Sir,</p>
-<p>Having obtained information of the resignation of A. J. Alexander, Lieut. Col. of the 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Cav. and the acceptance thereof, we most respectfully beg leave to petition your excellency to fill the vacancy thus created by the promotion of our 1<hi rend="underline"><hi rend="sup">st</hi></hi> Major, Milton Graham; and in event of his inability to accept the position, by reason of his ill health occassioned by a wound received during the East Tennessee Campaign, we <hi rend="underline">earnestly</hi> request the appointment of Frederick Slater, Captain of Company "E" of said regiment to the Lieutenant Colonelcy; and if Major Graham's health permits and you acceed to our request in his appointment as aforesaid, then we petition for the promotion of said Captain Slater to a Majority thus made vacant.</p>
-<p>We further petition that William P. Pierce Adjutant of said regiment be appointed to the Captaincy of Company "A", made vacant by the resignation of Captain John G. Pond, ^without regard to previous ^appointments^ that may have been made for said positions^ We heartily recommend the above appointments knowing the men to be high-toned Gentlemen, and in every particular eminently worthy of the positions for which we have placed them as aspirants</p>
+<p>Having obtained information of the resignation of <persName ref="cwgk:N00005792">A. J. Alexander</persName>, Lieut. Col. of the 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Cav. and the acceptance thereof, we most respectfully beg leave to petition your excellency to fill the vacancy thus created by the promotion of our 1<hi rend="underline"><hi rend="sup">st</hi></hi> Major, <persName ref="cwgk:N00011728">Milton Graham</persName>; and in event of his inability to accept the position, by reason of his ill health occassioned by a wound received during the East Tennessee Campaign, we <hi rend="underline">earnestly</hi> request the appointment of <persName ref="cwgk:N00020034">Frederick Slater</persName>, Captain of Company "E" of said regiment to the Lieutenant Colonelcy; and if Major Graham's health permits and you acceed to our request in his appointment as aforesaid, then we petition for the promotion of said Captain Slater to a Majority thus made vacant.</p>
+<p>We further petition that <persName ref="cwgk:N00020090">William P. Pierce</persName> Adjutant of said regiment be appointed to the Captaincy of Company "A", made vacant by the resignation of Captain <persName ref="cwgk:N00020116">John G. Pond</persName>, ^without regard to previous ^appointments^ that may have been made for said positions^ We heartily recommend the above appointments knowing the men to be high-toned Gentlemen, and in every particular eminently worthy of the positions for which we have placed them as aspirants</p>
 <p>Hoping that this petition may meet with your favorable consideration.</p>
 <p>We are Govenor
 <lb/>Your Obe't Serv'ts</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>W H. Bell Capt <hi rend="underline"><hi rend="sup">CO</hi></hi> D 11. Ky Cav
-<lb/>Duval English Maj 11<hi rend="sup">th</hi> Ky Cav
-<lb/>Joseph. Lawson Capt Com Co G
-<lb/>P. F. Hansbrough 1<hi rend="sup">st</hi> Lut Comdg Co, B,
-<lb/>Ed. H. Green, 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt Co "E". 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Cav
-<lb/>James W Robinson 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt Comd Co D
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H Norton Lt Co "C" 11<hi rend="sup">st</hi> Ky Cav
-<lb/>John M, Cotton 2 Lieut Co A 11 Ky Cav
-<lb/>J. M. <unclear>Willamin</unclear> Lt Co G' A, QM
-<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> H. Harris Lt Co K
-<lb/>Geo H Wheeler, Capt, Co, H,
-<lb/>P. W. Hall 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt. Co. "L"
-<lb/>D. E. W. Smith,, 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut Co H 11<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cavl
-<lb/><cb n="2"/>W. H. Ritchey 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt. Co M.
-<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Y. Peyton Serg 11<hi rend="sup">th</hi> Ky. Ca, vols
-<lb/>Dunn, R, Stage,, 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lt,, Co,, E
-<lb/>S. L. Alexander 2<hi rend="sup">nd</hi> Lt Co L 11 Ky C
-<lb/>John J Curtis 2<hi rend="sup">nd</hi> L<hi rend="sup">t</hi> Co F 11<hi rend="sup">th</hi> Ky Cav<milestone unit="column" n="1"/><pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00005232">W H. Bell</persName> Capt <hi rend="underline"><hi rend="sup">CO</hi></hi> D 11. Ky Cav
+<lb/><persName ref="cwgk:N00020117">Duval English</persName> Maj 11<hi rend="sup">th</hi> Ky Cav
+<lb/><persName ref="cwgk:N00020093">Joseph. Lawson</persName> Capt Com Co G
+<lb/><persName ref="cwgk:N00020012">P. F. Hansbrough</persName> 1<hi rend="sup">st</hi> Lut Comdg Co, B,
+<lb/><persName ref="cwgk:N00020035">Ed. H. Green</persName>, 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt Co "E". 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Cav
+<lb/><persName ref="cwgk:N00020087">James W Robinson</persName> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt Comd Co D
+<lb/><persName ref="cwgk:N00013790">W<hi rend="underline"><hi rend="sup">m</hi></hi> H Norton</persName> Lt Co "C" 11<hi rend="sup">st</hi> Ky Cav
+<lb/><persName ref="cwgk:N00020098">John M, Cotton</persName> 2 Lieut Co A 11 Ky Cav
+<lb/><persName ref="cwgk:N00020096">J. M. <unclear>Willamin</unclear></persName> Lt Co G' A, QM
+<lb/><persName ref="cwgk:N00013789">Cha<hi rend="underline"><hi rend="sup">s</hi></hi> H. Harris</persName> Lt Co K
+<lb/><persName ref="cwgk:N00020118">Geo H Wheeler</persName>, Capt, Co, H,
+<lb/><persName ref="cwgk:N00020119">P. W. Hall</persName> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt. Co. "L"
+<lb/><persName ref="cwgk:N00020095">D. E. W. Smith</persName>,, 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut Co H 11<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cavl
+<lb/><cb n="2"/><persName ref="cwgk:N00020120">W. H. Ritchey</persName> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt. Co M.
+<lb/><persName ref="cwgk:N00020089">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Y. Peyton</persName> Serg 11<hi rend="sup">th</hi> Ky. Ca, vols
+<lb/><persName ref="cwgk:N00020088">Dunn, R, Stage</persName>,, 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lt,, Co,, E
+<lb/><persName ref="cwgk:N00020121">S. L. Alexander</persName> 2<hi rend="sup">nd</hi> Lt Co L 11 Ky C
+<lb/><persName ref="cwgk:N00020094">John J Curtis</persName> 2<hi rend="sup">nd</hi> L<hi rend="sup">t</hi> Co F 11<hi rend="sup">th</hi> Ky Cav<milestone unit="column" n="1"/><pb/></p>
 <p>Camp 11, Ky Vol. Cav<hi rend="sup">y</hi>
 <lb/>n<hi rend="underline"><hi rend="sup">r</hi></hi> Powder Spring Ga.
 <lb/><date when="1864-06-23">June 23. 1864</date>.<figure type="hr"/></p>
@@ -103,7 +111,7 @@
 <p>(Endorsed Envelope)
 <lb/>Maj Graham must be commissioned Lt. Col. when the notice of vacancy is received
 <lb/>(sgd) Tho<hi rend="sup">s</hi> E Bramlette<figure type="hr"/></p>
-<p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-07-06">July 6. 1864</date></p>
+<p>Rec<hi rend="sup">d</hi> <orgName ref="cwgk:O00000388">A. G. O.</orgName> <date when="1864-07-06">July 6. 1864</date></p>
   </body>
  </text>
 </TEI>
