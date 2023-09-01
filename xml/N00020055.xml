@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020055">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Addison Cravens</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020055">
+                    <persName>
+                      James Addison Cravens
+                        (Washington County, Indiana, farmer and representative)
+                    </persName>
+                        <event type="birth"  when="1818-11-04"  ><ab>1818-11-04</ab></event>
+                        <event type="death"  when="1893-06-20"  ><ab>1893-06-20</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Washington County, Indiana, farmer and representative. Rockingham County, Virginia native. Married to Susan Cravens. Father of Aaron Cravens, Benjamin H. Cravens, Bryson Cravens, Virginia Cravens, John Cravens, Sarah Cravens, and Marie Cravens. Served as a major in the 2nd Indiana Volunteer Infantry Regiment (U.S.A.) in the Mexican-American War from 1846 to 1847. Member of the House of Representatives of the State of Indiana from Washington County from 1848 to 1849. Farmer in Washington County in 1850. Member of the Senate of the State of Indiana from Washington County from 1850 to 1853. Served as Brigadier General of the Indiana State Militia in 1854. Farmer in Washington County in 1860. Employed Malinda Shepherd and Lucetta Houghton as seamstresses in Washington County in 1860. Employed Greenberry Sudduth as a farm hand in Washington County in 1860. Member of the House of Representatives of the United States from Indiana from March 4, 1861 to March 3, 1865. Member of the Democratic Party. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Washington County, Posey Township, p. 246B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Washington County, Madison Township, p. 423.<lb/>
+&quot;Craven, James Addison,&quot; <hi rend="italic">Biographical Directory of the United States Congress</hi> United States House of Representatives, Accessed May 19, 2023, https://bioguide.congress.gov/search/bio/C000883.<lb/>
+&quot;James Addison Cravens (1818-1893),&quot; Find A Grave, Memorial 21449016, accessed May 19, 2023, http://www.findagrave.com/memorial/21449016.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
