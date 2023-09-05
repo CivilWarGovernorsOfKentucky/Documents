@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020056">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry William Harrington</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020056">
+                    <persName>
+                      Henry William Harrington
+                        (Jefferson County, Indiana, attorney and representative)
+                    </persName>
+                        <event type="birth"  when="1825-09-12"  ><ab>1825-09-12</ab></event>
+                        <event type="death"  when="1882-03-20"  ><ab>1882-03-20</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Indiana, attorney and congressman. New York native. Married to Adaline Harrison Harrington in Livingston County, New York, on December 11, 1847. Father of Adalade Harrington and Emma Harrington. Married to Emma Harrington in 1860. Father of Henry Harrington. Attended school at Temple Hill Academy in Livingston County, New York, from 1845 to 1848. Attorney in Cattaraugus County, New York, in 1850. Attorney in Cattaraugus County in 1855. Attorney in Jefferson County, Indiana, in 1860. Member of the Democratic Party. Delegate to the Democratic National Convention from Indiana in Baltimore, Maryland in 1860. Member of the House of Representatives of the United States from Indiana from March 4, 1863 to March 3, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, New York, Cattaraugus County, Ellicottville, p. 232B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Jefferson County, Madison, p.479.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Jefferson County, Madison, p. 360B. <lb/>
+<hi rend="italic">Census of the State of New York</hi>(1855). Population Schedules, Cattaraugus County, Ellicottville, p. 193.<lb/>
+<hi rend="italic">New York, County Marriages, 1847-1849</hi>, Genealogical Society of Salt Lake City, Salt Lake City, UT, Livingston County Marriages, Film 000989259.<lb/>
+&quot;Harrington, Henry William,&quot; <hi rend="italic">Biographical Directory of the United States Congress</hi>, United States House of Representatives, Accessed May 19, 2023, https://history.house.gov/People/Listing/H/HARRINGTON,-Henry-William-(H000229)/.<lb/>
+&quot;Henry William Harrington (1825-1885),&quot; Find A Grave, Memorial 7423667, accessed May 19, 2023, http://www.findagrave.com/memorial/7423667.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
