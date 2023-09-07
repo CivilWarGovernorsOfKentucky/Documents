@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0002"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,24 +70,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Governor Bram<hi rend="str">blett</hi>lette
+   <p>To His Excellency Governor <persName ref="cwgk:N001000">Bram<hi rend="str">blett</hi>lette</persName>
 <lb/>Sir</p>
-<p>The undersigned would very respectfully recommend the appointment of Captain Edward H. Green of the 11<hi rend="underline"><hi rend="sup">th</hi></hi> Regiment of Kentucky Cavalry as Lieu Col of that Regiment the position recently held in that Regiment by the Lamented Lieutenant Co<hi rend="sup">l</hi> Boyle</p>
+<p>The undersigned would very respectfully recommend the appointment of Captain <persName ref="cwgk:N00020035">Edward H. Green</persName> of the <orgName ref="cwgk:O00005233">11<hi rend="underline"><hi rend="sup">th</hi></hi> Regiment of Kentucky Cavalry</orgName> as Lieu Col of that Regiment the position recently held in that Regiment by the Lamented Lieutenant Co<hi rend="sup">l</hi> <persName ref="cwgk:N00020036">Boyle</persName></p>
 <p>Captain Green has been an Officer of the Regiment ever since its organization. He is a Gentleman of intelligence. prudence and great energy of Character and injoys the reputation of a true and gallant Soldier We trust you will deem it consistent with the public interist to reword the gallant services of Captain Green by this appointment.</p>
-<p>L W Powell
+<p><persName ref="cwgk:N00000830">L W Powell</persName>
 <lb/><hi rend="underline">Garrett Davis
 <lb/>A. Harding</hi>
-<lb/>R Mallory
-<lb/>H. Grider
+<lb/><persName ref="cwgk:N00000817">R Mallory</persName>
+<lb/><persName ref="cwgk:N00000777">H. Grider</persName>
 <lb/><hi rend="underline">Brutus J. Clay</hi>
-<lb/>Lee Anderson</p>
+<lb/><persName ref="cwgk:N00000809">Lee Anderson</persName></p>
 <p>(over)<pb/></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> A. Hendriks
-<lb/>W<hi rend="sup">m</hi> S. Holeman
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00020054">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> A. Hendriks</persName>
+<lb/><persName ref="cwgk:N00020050">W<hi rend="sup">m</hi> S. Holeman</persName>
 <lb/><hi rend="underline">John Law</hi>
-<lb/>J, A, Cravens
-<lb/>H W Harrington<cb n="2"/>
-<lb/>D W Voorhees</p>
+<lb/><persName ref="cwgk:N00020055">J, A, Cravens</persName>
+<lb/><persName ref="cwgk:N00020056">H W Harrington</persName><cb n="2"/>
+<lb/><persName ref="cwgk:N00001705">D W Voorhees</persName></p>
   </body>
  </text>
 </TEI>
