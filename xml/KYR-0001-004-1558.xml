@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1558"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Unknown, Note</title>
+    <title level="a" type="main">Unknown Envelope, Note</title>
     <title level="a" type="parallel">CWG6195</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,10 +31,9 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
-     <name>Patrick A. Lewis</name>
+     <name>Charles R. Welsko</name>
     </respStmt>
    </seriesStmt>
    <sourceDesc>
@@ -59,16 +62,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Barren Cir Ct
+   <p>Barren Cir Ct,
 <lb/>vs
-<lb/>James James
-<lb/>Rejected</p>
+<lb/>James James</p>
+<p>Rejected</p>
 <p><hi rend="str">W F Evans
-<lb/>Glasgow K</hi>
-<lb/><figure type="postmark"><ab>CAVE CITY
-<lb/>FEB
-<lb/>5
-<lb/>KY</ab></figure></p>
+<lb/>Glasgow Ky</hi></p>
+<p><figure type="postmark"><listPlace><place><placeName>CAVE CITY
+<lb/><date when="1865-02-05">FEB
+<lb/>5</date>
+<lb/>KY</placeName></place></listPlace></figure></p>
   </body>
  </text>
 </TEI>
