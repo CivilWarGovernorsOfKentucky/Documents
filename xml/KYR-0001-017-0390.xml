@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0390"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,10 +31,9 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
-     <name>Patrick A. Lewis</name>
+     <name>Charles R. Welsko</name>
     </respStmt>
    </seriesStmt>
    <sourceDesc>
@@ -60,13 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort. <date when="1862-03-14">March 14<hi rend="sup">th</hi> 62</date>
+   <p>Frankfort. <date when="1862-03-14">March 14<hi rend="underline"><hi rend="sup">th</hi></hi> 62</date>
 <lb/>Gov<hi rend="sup">r</hi> Magoffin</p>
 <p>I recommend to your favourable notice Robert Boyd of Whitley County as one Suitably qualified for the office of Notary Public in &amp; for Said County</p>
 <p>Very Respectfully
 <lb/><hi rend="underline">W. C Gilliss</hi><pb/></p>
-<p>Notary Public<figure type="hr"/>
-<lb/><date when="1862-03-15">Mar. 15. 1862</date></p>
+<p>Notary Public<figure type="hr"/></p>
+<p><date when="1862-03-15">Mar. 15. 1862</date></p>
   </body>
  </text>
 </TEI>

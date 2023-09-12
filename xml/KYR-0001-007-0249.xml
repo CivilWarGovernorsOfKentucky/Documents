@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0249"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,10 +31,9 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
-     <name>Patrick A. Lewis</name>
+     <name>Charles R. Welsko</name>
     </respStmt>
    </seriesStmt>
    <sourceDesc>
@@ -60,23 +63,30 @@
  </teiHeader>
  <text>
   <body>
-   <p>MUTUAL Life Insurance Co. NEW YORK. Agency for California.</p>
-<p>Office N. E. corner Montgomery and Merchant Streets,
-<lb/>MONTGOMERY BLOCK.</p>
-<p>H. S. HOMANS, NOTARY PUBLIC, CONVERYANCER, &amp;c.</p>
-<p>San Francisco, <date when="1864-07-24">July 27 1864</date>
+   <p><milestone unit="column" n="3"/><cb n="1"/>MUTUAL 
+<lb/>Life Insurance Co. 
+<lb/><hi rend="underline">NEW YORK.</hi> 
+<lb/>Agency for California.
+<lb/><cb n="2"/>Office N. E. corner Montgomery and Merchant Streets,
+<lb/><hi rend="underline">MONTGOMERY BLOCK.</hi>
+<lb/><cb n="3"/>H. S. HOMANS, 
+<lb/>NOTARY PUBLIC, 
+<lb/>Conveyancer, &amp;c.<milestone unit="column" n="1"/></p>
+<p>San Francisco, <date when="1864-07-24">July 27 -- 1864</date>
 <lb/>To His Excellency
-<lb/>Tho<hi rend="sup">s</hi>. E. Bramlette
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
 <lb/>Governor of Kentucky
 <lb/>Frankfort
 <lb/>Sir</p>
 <p>I respectfully request from your Excellency an appointment as Commissioner of Deeds for the State of Kentucky in California. Such an appointment being almost an imperative necessity in connection with my businness as a Notary Public</p>
 <p>I am Sir
-<lb/>Your Obt Servt
+<lb/>Your Obt Serv<hi rend="sup">t</hi>
 <lb/>H. S. Homans<pb/></p>
-<p>Comr of Deeds for California
+<p>Com<hi rend="sup">r</hi> of Deeds 
+<lb/>for 
+<lb/>California
 <lb/>H. S. Homans
-<lb/>Appt<hi rend="sup">d</hi>.
+<lb/>Appt<hi rend="underline"><hi rend="sup">d</hi></hi>
 <lb/><date when="1864-08-26">26<hi rend="sup">th</hi> Aug/64</date></p>
   </body>
  </text>
