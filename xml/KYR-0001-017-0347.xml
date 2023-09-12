@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0347"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,10 +31,9 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
-     <name>Patrick A. Lewis</name>
+     <name>Charles R. Welsko</name>
     </respStmt>
    </seriesStmt>
    <sourceDesc>
@@ -61,20 +64,36 @@
  <text>
   <body>
    <p>EXECUTIVE DEPARTMENT,
-<lb/>Frankfort, Ky., <date when="1862-02-19">Feby 19<hi rend="sup">th</hi>, 1862.</date>
+<lb/>Frankfort, Ky., <date when="1862-02-19">Feby 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>.
 <lb/><hi rend="str">Dear Sir</hi>
 <lb/>Gentlemen of the Senate:</p>
 <p>I nominate for your advice and consent Edwin R. Cook Esq to be a Manager of the Western Lunatic Asylum to fill vacancy occasioned by the expiration of his term:</p>
 <p>Also the following persons as Notaries Public. William Hardin for Kenton and J. L. Clemens for Jefferson County </p>
-<p>B. Magoffin</p>
-<p>C. M. Harwood Shelby. Co.
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> G. Bount Graves "
-<lb/>R. A. Mayes " "
-<lb/>E. F. Burns Owen "
-<lb/>Jno. H Nelson Campbell "<pb/></p>
-<p>Manager West<hi rend="sup">n</hi>
-<lb/>Lunatic Asylum &amp; Notaries
-<lb/>appt. <date when="1862-02-20">Feby 20 1862</date></p>
+<p><table rend="rules">
+<row>
+	<cell>C. M. Harwood</cell>
+	<cell>Shelby. Co.</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Blount</cell>
+	<cell>Graves "</cell>
+</row>
+<row>
+	<cell>R. A. Mayes</cell>
+	<cell>" "</cell>
+</row>
+<row>
+	<cell>E F. Burns</cell>
+	<cell>Owen "</cell>
+</row>
+<row>
+	<cell>Jno H Nelson</cell>
+	<cell>Campbell "</cell>
+</row>
+</table></p>
+<p><hi rend="underline">B. Magoffin</hi><pb/></p>
+<p>Manager West<hi rend="sup">n</hi> Lunatic Asylum &amp; Notaries</p>
+<p>app<hi rend="underline"><hi rend="sup">t</hi></hi> <date when="1862-02-20">Feby 20 <hi rend="underline">1862</hi></date></p>
   </body>
  </text>
 </TEI>
