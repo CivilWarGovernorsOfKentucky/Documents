@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0310"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,10 +31,9 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
-     <name>Patrick A. Lewis</name>
+     <name>Charles R. Welsko</name>
     </respStmt>
    </seriesStmt>
    <sourceDesc>
@@ -61,8 +64,8 @@
  <text>
   <body>
    <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
-<lb/>KENTUCKY.</ab></figure>
-<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>KENTUCKY.</ab></figure></p>
+<p>Head-Quarters Kentucky Volunteer Militia,
 <lb/>ADJUTANT GENERAL'S OFFICE,
 <lb/>Frankfort, <date when="1862-05-26">26 May 1862</date>.</p>
 <p>Hon: 
@@ -73,12 +76,12 @@
 <lb/>John H. Mellen &amp;
 <lb/>Robert A. Moffet
 <lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Kentucky Artillery
-<lb/>Stones Battery-</p>
+<lb/>Stones Battery -- </p>
 <p>I am 
-<lb/>Very Resp<hi rend="sup">ly</hi>
+<lb/>Very Resp<hi rend="underline"><hi rend="sup">ly</hi></hi>
 <lb/>John W. Finnell
-<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi><pb/></p>
-<p>Entered <date when="1862-05-26">May 26 1862</date></p>
+<lb/><hi rend="underline">Adj</hi><hi rend="underline"><hi rend="sup">t</hi></hi><hi rend="underline"> Gen</hi><hi rend="underline"><hi rend="sup">l</hi></hi><pb/></p>
+<p>Entered <date when="1862-05-26">May 26 <hi rend="underline">1862</hi></date></p>
   </body>
  </text>
 </TEI>

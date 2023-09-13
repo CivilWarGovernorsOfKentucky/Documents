@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0309"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,10 +31,9 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
-     <name>Patrick A. Lewis</name>
+     <name>Charles R. Welsko</name>
     </respStmt>
    </seriesStmt>
    <sourceDesc>
@@ -61,19 +64,19 @@
  <text>
   <body>
    <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
-<lb/>KENTUCKY.</ab></figure>
-<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>KENTUCKY.</ab></figure></p>
+<p>Head-Quarters Kentucky Volunteer Militia,
 <lb/>ADJUTANT GENERAL'S OFFICE,
 <lb/>Frankfort, <date when="1862-05-26">26 May 1862</date>.</p>
 <p>Hon: 
 <lb/>Nat Gaither Jr
 <lb/>Sec: of State
 <lb/>Sir</p>
-<p>Lieut: Col<hi rend="sup">o</hi> Joseph R. Brown is dead (Com: dated <date when="1861-11-19">19 Nov 1861</date>) Col<hi rend="sup">o</hi> Charles A. Marshall has resigned (Com: <date when="1862-01-09">9 Jan 1862</date>)_</p>
+<p>Lieut: Col<hi rend="underline"><hi rend="sup">o</hi></hi> Joseph R. Brown &#x2713; is dead (Com: dated <date when="1861-11-19">19 Nov 1861</date>) Col<hi rend="underline"><hi rend="sup">o</hi></hi> Charles A. Marshall has resigned (Com: <date when="1862-01-09">9 Jan 1862</date>)_</p>
 <p>I am
 <lb/>Very Resp<hi rend="sup">ly</hi>
 <lb/>John W. Finnell
-<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+<lb/><hi rend="underline">Adj</hi><hi rend="underline"><hi rend="sup">t</hi></hi><hi rend="underline"> Gen</hi><hi rend="underline"><hi rend="sup">l</hi></hi></p>
   </body>
  </text>
 </TEI>
