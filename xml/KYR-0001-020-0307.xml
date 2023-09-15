@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0307"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,23 +71,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>Breckinridge Circuit Court
-<lb/>The Commonwealth of Kentucky
+   <p><orgName ref="cwgk:O00000353">Breckinridge Circuit Court</orgName>
+<lb/><orgName ref="cwgk:O001025">The Commonwealth of Kentucky</orgName>
 <lb/>against
-<lb/>Samuel Bland</p>
-<p>The Grand Jury of Breckinridge County, in the name &amp; by the authority of the Commonwealth of Kentucky, accuse Samuel Bland of the Offense of keeping a Tippling house -- committed as follows viz=</p>
+<lb/><persName ref="cwgk:N00020146">Samuel Bland</persName></p>
+<p>The Grand Jury of <placeName ref="cwgk:P001810">Breckinridge County</placeName>, in the name &amp; by the authority of the Commonwealth of Kentucky, accuse Samuel Bland of the Offense of keeping a Tippling house -- committed as follows viz=</p>
 <p>The said Samuel Bland on the <date when="1859-05-01">first day of May 1859</date>, and divers days since, in the county aforesaid, kept a tippling house against the peace and dignity of the Commonwealth of Kentucky.</p>
-<p>Cicero Maxwell Atty for the Commonwealth</p>
+<p><persName ref="cwgk:N00003696">Cicero Maxwell</persName> Atty for the Commonwealth</p>
 <p>Witnesses
-<lb/>John C. Wheatly
-<lb/>John H. Blake
-<lb/>Geo. W. Wheatly
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Blake</p>
+<lb/><persName ref="cwgk:N00020145">John C. Wheatly</persName>
+<lb/><persName ref="cwgk:N00020142">John H. Blake</persName>
+<lb/><persName ref="cwgk:N00020134">Geo. W. Wheatly</persName>
+<lb/><persName ref="cwgk:N00020143">W<hi rend="underline"><hi rend="sup">m</hi></hi> Blake</persName></p>
 <p>A copy
-<lb/>Att R. H. Bowmer D. C.
-<lb/>G P Jolly clk<pb/></p>
+<lb/>Att <persName ref="cwgk:N00020144">R. H. Bowmer</persName> D. C.
+<lb/><persName ref="cwgk:N00005843">G P Jolly</persName> clk<pb/></p>
 <p>Commonwealth
-<lb/>vs &#125; copy Indictment
+<lb/>vs } copy Indictment
 <lb/>Samuel Bland</p>
   </body>
  </text>
