@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0010"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,9 +72,9 @@
  <text>
   <body>
    <p><date when="1860-11-15">15</date> 
-<lb/>The Governor offered a reward of &#36;250. for the apprehension of James Williams for the murder of Dan. B. Calvert in the county of Caldwell on the 2<hi rend="underline"><hi rend="sup">d</hi></hi> of March 1858</p>
-<p>Also a reward of &#36;200 for the apprehension of Isaac Hall and Henry King who escaped from the Montogmery county Jail</p>
-<p>He appointed U. V. Williams Justice of the Peace for Franklin county District N<hi rend="sup">o</hi> 4 in place of A. Crockett resigned.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> offered a reward of $250. for the apprehension of <persName ref="cwgk:N00010694">James Williams</persName> for the murder of <persName ref="cwgk:N00014420">Dan. B. Calvert</persName> in the <placeName ref="cwgk:P00002472">county of Caldwell</placeName> on the 2<hi rend="underline"><hi rend="sup">d</hi></hi> of March 1858</p>
+<p>Also a reward of $200 for the apprehension of <persName ref="cwgk:N00014421">Isaac Hall</persName> and <persName ref="cwgk:N00015071">Henry King</persName> who escaped from the <placeName ref="cwgk:P00000869">Montogmery</placeName> <orgName ref="cwgk:O00015073">county Jail</orgName></p>
+<p>He appointed <persName ref="cwgk:N00001739">U. V. Williams</persName> Justice of the Peace for <placeName ref="cwgk:P001019">Franklin county</placeName> District N<hi rend="sup">o</hi> 4 in place of <persName ref="cwgk:N00001740">A. Crockett</persName> resigned.</p>
   </body>
  </text>
 </TEI>
