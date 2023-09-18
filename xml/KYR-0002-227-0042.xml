@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0042"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniel Farrell</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniel Farrell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,25 +72,25 @@
  <text>
   <body>
    <p>SPECIAL ORDERS,
-<lb/>No. 246. &#125; WAR DEPARTMENT,
-<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>No. 246. } <orgName ref="cwgk:O00005118">WAR DEPARTMENT</orgName>,
+<lb/><orgName ref="cwgk:O00010608">ADJUTANT GENERAL'S OFFICE</orgName>,
 <lb/><hi rend="italic">Washington, </hi><date when="1864-07-23"><hi rend="italic">July </hi>23<hi rend="italic">d</hi>, 1864.</date></p>
 <p>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>
-<p>46. 1st Lieutenant <hi rend="italic">James W. Robinson</hi>, 11th Kentucky Cavalry, having tendered his resignation on insufficient grounds, whilst his command was in front of the enemy, is, by direction of the President, hereby dishonorably dismissed the service of the United States.</p>
-<p>He will receive no final payments until he has satisfied the Pay Department that he is not indebted to the Government.<figure type="hr"/></p>
-<p>By order of the Secretary of War:
-<lb/>E. D. TOWNSEND,
+<p>46. 1st Lieutenant <hi><persName ref="cwgk:N00020087">James W. Robinson</persName></hi>, <orgName ref="cwgk:O00005233">11th Kentucky Cavalry</orgName>, having tendered his resignation on insufficient grounds, whilst his command was in front of the <orgName ref="cwgk:O00000506">enemy</orgName>, is, by direction of the <persName ref="cwgk:N001760">President</persName>, hereby dishonorably dismissed the <orgName ref="cwgk:O00001186">service of the United States</orgName>.</p>
+<p>He will receive no final payments until he has satisfied the <orgName ref="cwgk:O00018493">Pay Department</orgName> that he is not indebted to the <orgName ref="cwgk:O00002945">Government</orgName>.<figure type="hr"/></p>
+<p>By order of the <persName ref="cwgk:N00002647">Secretary of War</persName>:
+<lb/><persName ref="cwgk:N00005757">E. D. TOWNSEND</persName>,
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
 <p>OFFICIAL:
 <lb/>E D Townsend
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
-<p>Governor of Kentucky.<pb/></p>
+<p><persName ref="cwgk:N001000">Governor</persName> of <orgName ref="cwgk:O001025">Kentucky</orgName>.<pb/></p>
 <p>11 Cav<hi rend="underline"><hi rend="sup">y </hi></hi><figure type="hr"/></p>
 <p>Robinson James W.
 <lb/>1 Lieut<figure type="hr"/></p>
 <p>order<figure type="hr"/></p>
 <p>dishonorably dismissing him the service.<figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-07-30">July 30. 1864</date>.</p>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <orgName ref="cwgk:O00000388">A. G. O</orgName>. <date when="1864-07-30">July 30. 1864</date>.</p>
   </body>
  </text>
 </TEI>
