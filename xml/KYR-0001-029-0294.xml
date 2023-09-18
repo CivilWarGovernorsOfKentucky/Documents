@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0294"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,10 +31,9 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
-     <name>Patrick A. Lewis</name>
+     <name>Charles R. Welsko</name>
     </respStmt>
    </seriesStmt>
    <sourceDesc>
@@ -48,6 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
     <date when="1863-03-05">5 March 1863</date>
    </creation>
    <textClass>
@@ -60,33 +64,32 @@
  <text>
   <body>
    <p>John S. Roberts
-<lb/>Sheriff Shelby County
-<lb/>Revenue <date when="1861">1861</date>
-<lb/><table rend="rules">
+<lb/>Sheriff Shelby County</p>
+<p>Revenue <date when="1861">1861</date></p>
+<p><table rend="rules">
 <row>
 	<cell>Amt of Judgment</cell>
 	<cell>(Principal)</cell>
-	<cell><hi rend="underline">$7.316.98</hi></cell>
+	<cell><hi rend="underline">&#36;7.316.98</hi></cell>
 </row>
 <row>
 	<cell>" " "</cell>
 	<cell>(Damages)</cell>
-	<cell>$1.463.39</cell>
+	<cell>&#36;1.463.39</cell>
 </row>
-</table>
-<lb/>Paid in full except Damages
-<lb/>Attest
+</table></p>
+<p>Paid in full except Damages</p>
+<p>Attest
 <lb/>C. Bailey
-<lb/>Asst Aud<figure type="hr"/>
-<lb/><date when="1863-03-05">Mar 5 1863</date><figure type="hr"/><pb/></p>
-<p>Franklin Cir. Ct
-<lb/>Damages Remitted
-<lb/>J F Robinson
-<lb/>$1465.39 } Damages
+<lb/><hi rend="underline">Asst Aud</hi></p>
+<p><date when="1863-03-05"><hi rend="underline">Mar 5 1863</hi></date><pb/></p>
+<p>Franklin Cir. Ct</p>
+<p>Damgs. Remitted
+<lb/>J F Robinson</p>
+<p>&#36;1463.39 &#125; Damages
 <lb/>Jno. S. Roberts
-<lb/>Shff &amp;c
-<lb/>Shelby Co
-<lb/>Iss<hi rend="sup">d</hi> <date when="1863-03-05">Mar. 5. 1863</date></p>
+<lb/>Shff Shelby Co
+<lb/>Iss' <date when="1863-03-05"><hi rend="underline">Mar. 5. 186</hi>3</date></p>
   </body>
  </text>
 </TEI>
