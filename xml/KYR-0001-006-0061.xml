@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0061"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Evansville Ind<hi rend="underline"><hi rend="sup">a
-<lb/></hi></hi><date when="1865-05-15">May 15. 1865</date>
-<lb/>Gov. Morton</p>
-<p>Enclosed I hand you copy of a record in a case of the State vs John W. Rutherford who has fled into Crittenden County State of Kentucky, with the request that you grant a requsition upon Governor Bramlette for the rendition of the fugitive to the end that he may be brought into this County for trial</p>
-<p>I respectfully recommend R. A. Dowell Esq as a suitable person to act as your Agent to receive the fugitive from the authorities in Kentucky and to bring him into Indiana</p>
+   <p><placeName ref="cwgk:P00000393">Evansville</placeName> <placeName ref="cwgk:P001818">Ind<hi rend="underline"><hi rend="sup">a</hi></hi></placeName><hi rend="underline">
+<lb/></hi><date when="1865-05-15">May 15. 1865</date>
+<lb/>Gov. <persName ref="cwgk:N00005190">Morton</persName></p>
+<p>Enclosed I hand you copy of a record in a case of the <orgName ref="cwgk:O00002499">State</orgName> vs <persName ref="cwgk:N00019889">John W. Rutherford</persName> who has fled into <placeName ref="cwgk:P00006094">Crittenden <placeName ref="cwgk:P00019833">County</placeName></placeName> <orgName ref="cwgk:O001025">State of Kentucky</orgName>, with the request that you grant a requsition upon Governor <persName ref="cwgk:N001000">Bramlette</persName> for the rendition of the fugitive to the end that he may be brought into this County for trial</p>
+<p>I respectfully recommend <persName ref="cwgk:N00019834">R. A. Dowell</persName> Esq as a suitable person to act as your Agent to receive the fugitive from the authorities in <placeName ref="cwgk:P001800">Kentucky</placeName> and to bring him into Indiana</p>
 <p>You will please have the requsition <hi rend="str">sent</hi><unclear>with</unclear> sen<hi rend="str">d</hi>t direct<pb/>
 <lb/>to Gov B. with the request that the warrant for the apprehension of Rutherford may be sent to <hi rend="underline">me</hi> at this place and I will see that they are forwarded to the proper officer in Crittenden County</p>
 <p>Very Resp<hi rend="sup">y</hi> &amp; truly
-<lb/>A. L. Robinson<pb/></p>
+<lb/><persName ref="cwgk:N00006818">A. L. Robinson</persName><pb/></p>
 <p>J. W. Rutherford
 <lb/><hi rend="underline">Requisition</hi> <hi rend="underline">for</hi></p>
   </body>
