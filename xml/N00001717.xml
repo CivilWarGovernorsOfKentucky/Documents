@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>
     </titleStmt>
@@ -44,9 +48,10 @@
                 <person xml:id="N00001717">
                     <persName>
                       George W. Brownfield
-                        (Hodgenville blacksmith)
+                        (LaRue County, Kentucky, blacksmith)
                     </persName>
-                        <event type="birth"  when="1817"  ><ab>1817</ab></event>
+                        <event type="birth"  when="1817-01-12"  ><ab>1817-01-12</ab></event>
+                        <event type="death"  when="1899-02-10"  ><ab>1899-02-10</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +60,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Hodgenville, Kentucky, blacksmith. Kentucky native. Married M. J. Brownfield. Father of Frank Brownfield, A. Brownfield, Thomas M. Brownfield, G. A. Brownfield, Henry Brownfield, F. R. Brownfield, and C. B. Brownfield. Blacksmith in Hodgenville in 1860.</p>
+        <p>LaRue County, Kentucky, blacksmith. Kentucky native. Married Mary Jane Hagan Brownfield in Nelson County, Kentucky, in November 1838. Father of Frank Brownfield, A. Brownfield, Thomas M. Brownfield, G. A. Brownfield, Henry Brownfield, Fielding R. Brownfield, and Charlie B. Brownfield.  Blacksmith in LaRue County in 1850. Blacksmith in LaRue County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, LaRue County, Hodgenville, p. 149.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, LaRue County, Hamiltons, p. 399B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, LaRue County, Hodgenville, p. 331.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 11, p. 532B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Nelson County Marriages, Film 000009668.<lb/>
+&quot;George W. Brownfield (1817-1899),&quot; Find A Grave, Memorial 148711447, accessed September 19, 2023, http://www.findagrave.com/memorial/148711447.
 </bibl></ab>
     </back>
 </text>
