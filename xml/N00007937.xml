@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">B. P. Wilson</title>
+        <title level="a" type="main">Benjamin P. Wilson</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00007937">
                     <persName>
-                      B. P. Wilson
-                        (Allen co)
+                      Benjamin P. Wilson
+                        (Allen County, Kentucky, preacher and farmer)
                     </persName>
+                        <event type="birth"  when="1810"  cert="medium" ><ab>c1810</ab></event>
+                        <event type="death"  when="1877"  cert="medium" ><ab>c1877</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -50,11 +56,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Justice of the Peace in the Allen County Court until 1860.</p>
+        <p>Allen County, Kentucky, preacher and farmer. Kentucky native. Married to Letha Turner Wilson in Sumner County, Tennessee, in March 1830. Father of M. A. Wilson, A. J. Wilson, M. E. Wilson, L. M. Wilson, J. M. Wilson, Emily F. Wilson, and George Wilson. Methodist minister in Allen County, Kentucky, in 1850. Farmer and preacher in Allen County in 1860. Justice of the Peace in the Allen County Court in Allen County in 1860. Owned one enslaved person in Allen County in 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-017-0004.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Allen County, p. 167A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Allen County, Buttersville, p. 223.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Allen County, Buttersville, p. 15A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Allen County, District 6, p. 257B. <lb/>
+<hi rend="italic">Kentucky, Wills and Probate Records, 1774-1989</hi>, Kentucky County, District, and Probate Courts, Allen County Wills, vol. D-E, 1825-1902.<lb/>
+<hi rend="italic">Tennessee State Marriages, 1780-2002</hi>, Tennessee State Library and Archives, Nashville, TN, Sumner County, 1830-1839: Marriages (Loose Rec) N-Z.<lb/>
+KYR-0001-017-0004.
 </bibl></ab>
     </back>
 </text>
