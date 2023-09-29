@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. White </title>
+        <title level="a" type="main">Willis White</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hailey Brangers</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Hailey Brangers</name>
@@ -47,9 +51,11 @@
         <particDesc>
                 <person xml:id="N00013300">
                     <persName>
-                      W. White 
+                      Willis White
                         (Hickman County, Kentucky)
                     </persName>
+                        <event type="birth"  when="1805-02-26"  ><ab>1805-02-26</ab></event>
+                        <event type="death"  when="1891-01-18"  ><ab>1891-01-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -58,12 +64,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Hickman County, Kentucky, police judge. Signed a petition on behalf of John Sanders in Hickman County. Signed a petition on behalf of John Davis in Hickman County. Police judge in Hickman County in 1864.</p>
+        <p>Hickman County, Kentucky, minister and judge. North Carolina native. Married to Harriet L. Richmond White. Father of Wilson W. White, Sarah White, Mary White, Thomas B. White, Robert T. White, Hattie B. White, and Mettie W. White. Minister in Ballard County, Kentucky, in 1850. Minister in Hickman County in 1860. Judge of the Hickman County Court from 1862 to 1865. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-004-0398.<lb/>
-KYR-0001-004-0416.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 279B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hickman County, Clinton, p. 517.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hickman County, p. 386B. <lb/>
+&quot;Elder Willis White Dead,&quot; <hi rend="italic">Hickman Courier</hi>, (Hickman, KY), January 23, 1891, p. 3.<lb/>
+ &quot;Willis White (1805-1891), Find A Grave, Memorial 63577358, accessed July 19, 2021, http://www.findagrave.com/memorial/63577358.
 </bibl></ab>
     </back>
 </text>
