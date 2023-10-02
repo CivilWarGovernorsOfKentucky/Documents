@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020790">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Reuben F. Scott</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020790">
+                    <persName>
+                      Reuben F. Scott
+                        (Madison County, Kentucky, farmer and )
+                    </persName>
+                        <event type="birth"  when="1828-03-08"  ><ab>1828-03-08</ab></event>
+                        <event type="death"  when="1907-02-16"  ><ab>1907-02-16</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Madison County, Kentucky, farmer and soldier. Kentucky native. Son of Susan Scott. Resident of Madison County, Kentucky, in 1850. Household owned six enslaved persons in Madison County in 1850. Farmer in Madison County in 1860. Household eight enslaved persons in Madison County in 1860. Served in the 11th Kentucky Volunteer Cavalry Regiment (U.S.A.) as a first lieutenant from September 22, 1862 to July 12, 1865. Captured in Monroe County, Tennessee, on October 20, 1863. Prisoner of war in Richmond, Virginia from November 1, 1863 to May 7, 1864. Prisoner of war in Macon, Georgia from May 7, 1864 to March 1, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Madison County, District 1, p. 223A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Madison County, District 1.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Madison County, District 1, p. 344.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Madison County, District 1, p. 454B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Garrard County, Lancaster, District 3, p. 405B. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0111.<lb/>
+&quot;Reuben Frances &quot;R.F.&quot; Scott (1828-1907),&quot; Find A Grave, Memorial 154589629, accessed September 28, 2023, http://www.findagrave.com/memorial/154589629.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
