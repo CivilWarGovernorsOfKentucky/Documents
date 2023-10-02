@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">G. P. Williams</title>
+        <title level="a" type="main">George P. Williams </title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>James Bartek</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Charles Welsko</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00010876">
                     <persName>
-                      G. P. Williams
-                        (Louisville, Kentucky, resident)
+                      George P. Williams 
+                        (Louisville, Kentucky, carpenter)
                     </persName>
+                        <event type="birth"  when="1818-02"  ><ab>1818-02</ab></event>
+                        <event type="death"  when="1902-01"  ><ab>1902-01</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -54,11 +60,17 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, resident. Signed a petition to Beriah Magoffin on behalf William Stewart on January 22, 1861.</p>
+        <p>Louisville, Kentucky, carpenter. Virginia native. Married to Isabella Williams. Father of Charles Williams, Arabella Williams, James Williams, Kate Williams, Penelope Williams, and George Williams. Farmer in Louisville, Kentucky, in 1850. Carpenter in Louisville in 1858. Carpenter in Louisville in 1860. Hired one enslaved person in Louisville in 1860. Carpenter in Louisville in 1861. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-0552
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 142B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, District 8, p. 865.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jefferson County, Louisville, District 8, p. 289B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Warren County, Bowling Green, p. 19B. <lb/>
+ <hi rend="italic">Louisville City Directory and Business Mirror for 1858-9,</hi> (Louisville: Hurd &amp; Burrows, 1859), 186.<lb/>
+ <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 264.<lb/>
+&quot;George P. Williams (1818-1902),&quot; Find A Grave, Memorial 118362856 , accessed June 26, 2023, http://www.findagrave.com/memorial/118362856 .
 </bibl></ab>
     </back>
 </text>
