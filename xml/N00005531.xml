@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Charles G. Jones</title>
+        <title level="a" type="main">Charles Gillespie Jones</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Deborah J. Thompson</name>
@@ -47,9 +51,11 @@
         <particDesc>
                 <person xml:id="N00005531">
                     <persName>
-                      Charles G. Jones
-                        (Louisville, Kentucky)
+                      Charles Gillespie Jones
+                        (Louisville, Kentucky, clothing merchant )
                     </persName>
+                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +63,22 @@
     </teiHeader>
     <text>
     <body>
-        <p>Appeared in correspondence between Jacob B. Ehrich and Ephraim L. Van Winkle in December 1864. </p>
+        <p>Louisville, Kentucky, clothing merchant. Tennessee native. Married to Alice Hardeman Jones in Williamson County, Tennessee, on May 15, 1860. Father of Charles Franklin Jones. Merchant in Nashville, Tennessee, in 1850. Clothing merchant in partnership with W. H. Webb and J. Webb Smith in W. H. Webb &amp; Company in Nashville from 1857 to 1861. Clerk in Nashville in 1860. Household owned  one enslaved person in Nashville in 1860. Clothing merchant in Louisville, Kentucky, in 1863. Clothing merchant in partnership with Charles A. Graves in C. G. Jones &amp; Company in Louisville in 1864. Clothing merchant in partnership with Presley H. Tapp in Louisville from 1864 to 1867. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0041.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Davidson County, Nashville, p. 160A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Davidson County, Nashville, District 5, p. 420.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Tennessee, Davidson County, Nashville, District 5, p. 254A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, District 9, p. 206A. <lb/>
+<hi rend="italic">Tennessee State Marriages, 1780-2002</hi>, Tennessee State Library and Archives, Nashville, TN, Williamson County, 1800- 1866: Marriage Records vol. 5, p. 4. <lb/>
+&quot;New Firm,&quot; <hi rend="italic">Republican Banner</hi>, (Nashville, TN), 20 Dec 1857, p. 2.<lb/>
+&quot;Dissolution,&quot; <hi rend="italic">The Tennessean</hi> (Nashville, TN), 9 July 1861, p. 2. <lb/>
+&quot;C. G. Jones,&quot; <hi rend="italic">Courier-Journal</hi>, (Louisville, KY), 23 Nov 1863, p. 4. <lb/>
+&quot;C. G. Jones &amp; Co.,&quot; <hi rend="italic">Courier-Journal</hi>, (Louisville, KY), 15 March 1864, p. 4. <lb/>
+&quot;Dissolution,&quot; <hi rend="italic">Courier-Journal</hi>, (Louisville, KY), 25 Aug 1864, p. 4. <lb/>
+&quot;C.F. Jones, 65, Foreign Board Founder, Dead,&quot; <hi rend="italic">Miami News</hi>, (Miami, FL), 27 Aug 1930, p. 5. <lb/>
+<hi rend="italic">Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</hi> (Louisville: Edwards, Greenough &amp; Deved, 1866), 374-375.
 </bibl></ab>
     </back>
 </text>
