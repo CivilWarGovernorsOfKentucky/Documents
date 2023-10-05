@@ -14,6 +14,10 @@
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Natalie Smith</name>
           </respStmt>
           <respStmt>
@@ -54,7 +58,8 @@
                       James McDermott
                         (Louisville, Kentucky, grocer)
                     </persName>
-                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
+                        <event type="birth"  when="1828"  ><ab>1828</ab></event>
+                        <event type="death"  when="1884-02-10"  ><ab>1884-02-10</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,12 +68,15 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, grocer. Native of Ireland. Clerk in Louisville, Kentucky, in 1850. Grocer in Louisville in 1860.</p>
+        <p>Louisville, Kentucky, grocer. Native of Ireland. Married to Mary Meng McDermott in Louisville, Kentucky, on September 4, 1859. Clerk in Louisville in 1850. Grocer in Louisville in 1860. Grocer in Louisville in 1861. </p>
 
     </body>
     <back>
         <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville District 3, p. 317A. <lb/>
-<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 404.
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 404.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994040, Jefferson County Marriages, p. 163.<lb/>
+ <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 160.<lb/>
+&quot;James McDermott (1828-1884),&quot; Find A Grave, Memorial 245956520, accessed June 27, 2023, http://www.findagrave.com/memorial/245956520.
 </bibl></ab>
     </back>
 </text>

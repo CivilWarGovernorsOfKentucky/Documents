@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0004"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,14 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,50 +71,51 @@
  <text>
   <body>
    <p><date when="1860-11-08">8</date> 
-<lb/>The Governor appointed Geo. W. Thompson Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for Indiana (Rockville)</p>
-<p>He accepted and caused to be filed the resignation of John T. Peden Justice of the Peace for Barren County Dist N<hi rend="sup">o</hi> 9</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> appointed <persName ref="cwgk:N00001703">Geo. W. Thompson</persName> Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for <placeName ref="cwgk:P001818">Indiana</placeName> (<placeName ref="cwgk:P00001744">Rockville</placeName>)</p>
+<p>He accepted and caused to be filed the resignation of <persName ref="cwgk:N00001714">John T. Peden</persName> Justice of the Peace for <placeName ref="cwgk:P00000558">Barren County</placeName> Dist N<hi rend="sup">o</hi> 9</p>
 <p>He appointed the following Justices of the Peace</p>
 <p><table rend="rules">
 <row>
-	<cell>Larue County -- </cell>
+	<cell><placeName ref="cwgk:P00001718">Larue County</placeName> -- </cell>
 	<cell>Dist No. 1.</cell>
-	<cell>G. W. Brownfiled</cell>
+	<cell><persName ref="cwgk:N00001717">G. W. Brownfiled</persName></cell>
 	<cell><hi rend="underline">vice</hi></cell>
-	<cell>L. Read</cell>
+	<cell><persName ref="cwgk:N00001716">L. Read</persName></cell>
 </row>
 <row>
-	<cell>Allen Do</cell>
+	<cell><placeName ref="cwgk:P001025">Allen</placeName> Do</cell>
 	<cell>Do " 2. -- </cell>
-	<cell>E. C. Moore</cell>
+	<cell><persName ref="cwgk:N00001707">E. C. Moore</persName></cell>
 	<cell>"</cell>
-	<cell>B P Wilson</cell>
+	<cell><persName ref="cwgk:N00007937">B P Wilson</persName></cell>
 </row>
 </table></p>
-<p>He commissioned Jesse Gray Police Judge of the town of Foster, Bracken County</p>
-<p>He respited for twelve months two Judgments each of &#36;20 against C. C Rodgers for gaming -- Bourbon Cir. Court</p>
+<p>He commissioned <persName ref="cwgk:N00001710">Jesse Gray</persName> Police Judge of the town of <placeName ref="cwgk:P00008058">Foster</placeName>, <placeName ref="cwgk:P00000319">Bracken County</placeName></p>
+<p>He respited for twelve months two Judgments each of $20 against <persName ref="cwgk:N00020611">C. C Rodgers</persName> for gaming -- <orgName ref="cwgk:O00000350">Bourbon Cir. Court</orgName></p>
 <p>He remitted the following Judgments, to with:</p>
 <p><table rend="rules">
 <row>
-	<cell>Clay Cir. Ct. vs John Bowling</cell>
-	<cell>&#36;50. -- </cell>
+	<cell><orgName ref="cwgk:O00000372">Clay Cir. Ct.</orgName> vs</cell> 
+	<cell><persName ref="cwgk:N00020612">John Bowling</persName></cell>
+	<cell>$50. -- </cell>
 	<cell>Concealed Weapons -- </cell>
 </row>
 <row>
-	<cell>Edmonson " " "</cell>
- <cell>J. J. Briant </cell>
-	<cell>&#36;50. -- </cell>
+	<cell><orgName ref="cwgk:O00000374">Edmonson</orgName> " " "</cell>
+ <cell><persName ref="cwgk:N00020613">J. J. Briant</persName></cell>
+	<cell>$50. -- </cell>
 	<cell>Assault -- </cell>
 </row>
 <row>
-	<cell>Harlan " " "</cell>
- <cell>Saylor &amp; Hall</cell>
-	<cell>&#36;300 -- </cell>
+	<cell><orgName ref="cwgk:O00000402">Harlan</orgName> " " "</cell>
+ <cell><persName ref="cwgk:N00020614">Saylor</persName> &amp; <persName ref="cwgk:N00020615">Hall</persName></cell>
+	<cell>$300 -- </cell>
 	<cell>Forgeited recognizance</cell>
 </row>
 <row>
 	<cell>Bourbon " " "</cell>
-<cell> E. L. <unclear>Cowles</unclear></cell>
-	<cell>&#36;20. 2 Judgts -- </cell>
+ <cell><persName ref="cwgk:N00020616">E. L. Cowles</persName></cell>
+	<cell>$20. 2 Judgts -- </cell>
 	<cell>Gaming</cell>
 </row>
 </table></p>
