@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0008"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,60 +72,60 @@
  <text>
   <body>
    <p><date when="1860-11-13">13</date> 
-<lb/>The Governor pardoned a Judgment of the Louisville City sentencing John Mulcay to Six months imprisonment for a misdemeaner<pb/></p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> pardoned a Judgment of the <orgName ref="cwgk:O001838">Louisville City</orgName> sentencing <persName ref="cwgk:N00020697">John Mulcay</persName> to Six months imprisonment for a misdemeaner<pb/></p>
 <p><note place="header">143</note></p>
 <p><date when="1860">1860</date> Executive Journal </p>
 <p><date when="1860-11-13">Nov 13</date> 
 <lb/>The Governor remitted the following Judgments, to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>Lawrence Cir Ct vs J R. Davis</cell>
-	<cell>&#36;10,</cell>
+	<cell><orgName ref="cwgk:O00000418">Lawrence Cir Ct</orgName> vs <persName ref="cwgk:N00020698">J R. Davis</persName></cell>
+	<cell>$10,</cell>
 	<cell>Selling liquor.</cell>
 </row>
 <row>
-	<cell>Calloway " " " G. W. Sullivan</cell>
-	<cell>&#36;50 -- </cell>
+	<cell><orgName ref="cwgk:O00000371">Calloway</orgName> " " " <persName ref="cwgk:N00007536">G. W. Sullivan</persName></cell>
+	<cell>$50 -- </cell>
 	<cell>Misdemeanor.</cell>
 </row>
 <row>
-	<cell>Harlan " " " Hez Jennings</cell>
-	<cell>&#36;60 -- </cell>
+	<cell><orgName ref="cwgk:O00000402">Harlan</orgName> " " " <persName ref="cwgk:N00002866">Hez Jennings</persName></cell>
+	<cell>$60 -- </cell>
 	<cell>Tipling</cell>
 </row>
 <row>
-	<cell>Franklin " " " John Sebree</cell>
-	<cell>&#36;30.</cell>
+	<cell><orgName ref="cwgk:O00000376">Franklin</orgName> " " " <persName ref="cwgk:N00020624">John Sebree</persName></cell>
+	<cell>$30.</cell>
 	<cell>Misdemeanor</cell>
 </row>
 <row>
-	<cell>Muhlenberg " " " Russell &amp; Eaves</cell>
-	<cell>2 Indictments each &#36;20. -- </cell>
+	<cell><orgName ref="cwgk:O00000421">Muhlenberg</orgName> " " " <persName ref="cwgk:N00001731">Russell</persName> &amp; <persName ref="cwgk:N00001730">Eaves</persName></cell>
+	<cell>2 Indictments each $20. -- </cell>
 	<cell>Gaming</cell>
 </row>
 <row>
-	<cell>Knox " " " G. S<hi rend="sup">t</hi> John</cell>
-	<cell>&#36;20</cell>
+	<cell><orgName ref="cwgk:O00000411">Knox</orgName> " " " <persName ref="cwgk:N00020699">G. S<hi rend="sup">t</hi> John</persName></cell>
+	<cell>$20</cell>
 	<cell>Gaming</cell>
 </row>
 <row>
-	<cell>Logan " " " Jesse Mansfield -- </cell>
-	<cell>&#36;1000 -- </cell>
+	<cell><orgName ref="cwgk:O00000419">Logan</orgName> " " " <persName ref="cwgk:N00020701">Jesse Mansfield</persName> -- </cell>
+	<cell>$1000 -- </cell>
 	<cell>Forfeited recognizance</cell>
 </row>
 <row>
-	<cell>Jessamine Co " " Tho Clutter</cell>
-	<cell>&#36;30,</cell>
+	<cell><orgName ref="cwgk:O00000408">Jessamine Co</orgName> " " <persName ref="cwgk:N00020702">Tho Clutter</persName></cell>
+	<cell>$30,</cell>
 	<cell>Misdemeanor</cell>
 </row>
 <row>
-	<cell>Louisville City " " Henry Conley</cell>
-	<cell>&#36;100 -- </cell>
+	<cell>Louisville City " " <persName ref="cwgk:N00020623">Henry Conley</persName></cell>
+	<cell>$100 -- </cell>
 	<cell>Forfeited recognizance</cell>
 </row>
 <row>
-	<cell>Danville Po " " G. W. Collins</cell>
-	<cell>&#36;5<hi rend="sup">88</hi>/<hi rend="sub">100</hi> -- </cell>
+	<cell><orgName ref="cwgk:O00013581">Danville</orgName> Po " " <persName ref="cwgk:N00020703">G. W. Collins</persName></cell>
+	<cell>$5<hi rend="sup">88</hi>/<hi rend="sub">100</hi> -- </cell>
 	<cell>Breach of the peace -- </cell>
 </row>
 </table></p>
