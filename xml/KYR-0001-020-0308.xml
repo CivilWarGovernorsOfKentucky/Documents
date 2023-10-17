@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0308"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,9 +66,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>In a case from Boyle of Mitchell I believe is the name send remission <hi rend="str">of punish</hi> of confinement to Wellington Harlan Danville. </p>
-<p>J. Harlan<figure type="hr"/></p>
-<p>For M<hi rend="sup">r</hi> Tate</p>
+   <p>In a case from <placeName ref="cwgk:P00002353">Boyle</placeName> of <persName ref="cwgk:N00019150">Mitchell</persName> I believe is the name send remission <hi rend="str">of punish</hi> of confinement to <persName ref="cwgk:N00020165">Wellington Harlan</persName> <placeName ref="cwgk:P00005549">Danville</placeName>. </p>
+<p><persName ref="cwgk:N00002635">J. Harlan</persName><figure type="hr"/></p>
+<p>For M<hi rend="sup">r</hi> <persName ref="cwgk:N00001223">Tate</persName></p>
   </body>
  </text>
 </TEI>
