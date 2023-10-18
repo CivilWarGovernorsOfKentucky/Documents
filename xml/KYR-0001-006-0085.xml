@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0085"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Morganfield Kentucky
+   <p><placeName ref="cwgk:P00001832">Morganfield</placeName> <placeName ref="cwgk:P001800">Kentucky</placeName>
 <lb/><date when="1865-10-13">October 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1865.</date>
-<lb/>Hon Tho<hi rend="sup">s</hi> E. Bramlette
-<lb/>Gov of Ky
-<lb/>Frankfort Ky
+<lb/>Hon <persName ref="cwgk:N001000">Tho<hi rend="sup">s</hi> E. Bramlette</persName>
+<lb/>Gov of <orgName ref="cwgk:O001025">Ky</orgName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky
 <lb/>Dear Sir.</p>
-<p>Information has been furnished me as Commonwealths atty pro tem that Nicholas Jones &amp; William Jones who have been indicted for the crime of murder at the present term (October) of the Union Circuit Court are now in the town of Mount Vernon, Indianna One of them is quite sick and unable to get away -- but it is his intention so soon as he recovers to leave for parts unknown. I therefore ask that you make a requisition upon the Gov of Indianna for <hi rend="str">his</hi>their arrest &amp;c</p>
+<p>Information has been furnished me as Commonwealths atty pro tem that <persName ref="cwgk:N00020000">Nicholas Jones</persName> &amp; <persName ref="cwgk:N00020001">William Jones</persName> who have been indicted for the crime of murder at the present term (October) of the <orgName ref="cwgk:O00000582">Union Circuit Court</orgName> are now in the town of <placeName ref="cwgk:P00015454">Mount Vernon</placeName>, <placeName ref="cwgk:P001818">Indianna</placeName> One of them is quite sick and unable to get away -- but it is his intention so soon as he recovers to leave for parts unknown. I therefore ask that you make a requisition upon the Gov of Indianna for <hi rend="str">his</hi>their arrest &amp;c</p>
 <p>Enclosed you will find a certified copy of the indictment -- </p>
 <p>It is regarded a very cold blooded murder and your immediate attention is solicited</p>
 <p>Yours &amp;c
-<lb/>Ja<hi rend="sup">s</hi> F. Clay
+<lb/><persName ref="cwgk:N00011938">Ja<hi rend="sup">s</hi> F. Clay</persName>
 <lb/>Com atty pro tem
-<lb/>14<hi rend="sup">th</hi> Jud Dis -- <pb/></p>
+<lb/><orgName ref="cwgk:O00000333">14<hi rend="sup">th</hi> Jud Dis</orgName> -- <pb/></p>
 <p>Requsition on Gov<hi rend="sup">r</hi> of Indiana for Nicholas &amp; W<hi rend="sup">m</hi> Jones issued &amp; appt<hi rend="underline"><hi rend="sup">d</hi></hi> Agent
 <lb/><date when="1865-10-17">17 Oct/65</date></p>
   </body>
