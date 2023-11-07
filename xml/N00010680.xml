@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Sarah Haywood</name>
           </respStmt>
     </titleStmt>
@@ -44,8 +48,9 @@
                 <person xml:id="N00010680">
                     <persName>
                       Jane [Unknown]
-                        (Owen County, Kentucky, enslaved woman)
+                        (Henry County, Kentucky, enslaved woman)
                     </persName>
+                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
                         <trait type="race" subtype="Black"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -54,11 +59,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Owen County, Kentucky, enslaved woman. Sentenced to death for murder in Owen County. </p>
+        <p>Henry County, Kentucky, enslaved woman. Enslaved by Edward Smith in Henry County, Kentucky. Indicted for the murder of Mary Jane Porter in Henry County in January 1858. Sentenced to be hanged in the Owen Circuit Court on December 14, 1860. Escaped from the Gallatin County jail on December 13, 1860. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-0252. 
+        <ab><bibl>KYR-0001-020-0252. <lb/>
+KYR-0001-020-0248.<lb/>
+KYR-0001-020-0249.
 </bibl></ab>
     </back>
 </text>
