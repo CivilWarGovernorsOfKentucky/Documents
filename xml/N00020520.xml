@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020520">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William N. Smith</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniel Farrell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniel Farrell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020520">
+                    <persName>
+                      William N. Smith
+                        (Williamson County, Tennessee, farmer and justice of the peace.)
+                    </persName>
+                        <event type="birth"  when="1818-05-05"  ><ab>1818-05-05</ab></event>
+                        <event type="death"  when="1896-01-20"  ><ab>1896-01-20</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Williamson County, Tennessee, farmer and justice of the peace. Tennessee native. Married to Martha A. Giles Smith in Williamson County, Kentucky, on June 8, 1842. Father of Thomas J. Smith, Isaac Smith, Samuel H. Smith, Mary B. Smith, William L. Smith, Martha E. Smith, Sarah J. Smith, Lucy A. Smith, John G. Smith, and James O. Smith. Farmer in Williamson County, Tennessee, in 1850. Farmer in Williamson County in 1860. Justice of the peace in Williamson County in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Williamson County, District 23, pp. 231A-B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Williamson County, District 1, pp. 178B-179A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Tennessee, Williamson County, District 22, pp. 332A-B.<lb/>
+<hi rend="italic">Tennessee State Marriages, 1780-2002</hi>, Tennessee State Library and Archives, Nashville, TN, Williamson County, 1800-1866: Marriage Records Vol. 3, p. 75.<lb/>
+&quot;William N Smith (1818-1896),&quot; Find A Grave, Memorial 101987115, accessed November 7, 2023, https://www.findagrave.com/memorial/101987115.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
