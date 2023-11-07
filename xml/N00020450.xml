@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020450">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James E. Clarke</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020450">
+                    <persName>
+                      James E. Clarke
+                        (Rowan County, Kentucky, court clerk and attorney)
+                    </persName>
+                        <event type="birth"  when="1838"  cert="medium" ><ab>c1838</ab></event>
+                        <event type="death"  when="1913-09-09"  ><ab>1913-09-09</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Rowan County, Kentucky, clerk and attorney. Nicholas County, Kentucky, native. Son of Fielding Clark and Rebecca Sadler Clark. Married to Mary Goodan Oxley Clarke. Father of Jennie Clark and Leslie Clark. Attended school in Bath County, Kentucky, in 1850. Attorney in Montgomery County in 1861. Deputy clerk of the Montgomery Circuit Court in 1862. Attorney in Rowan County in 1863. County attorney of Rowan County in 1865. Assistant U.S. Assessor in Rowan County in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath County, District 2, p. 32B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rowan County, Morehead, p. 113A. <lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 16525. <lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 25345. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994053, Rowan County Marriages.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Rowan County, KY, September 1863, p. 71.<lb/>
+&quot;James E. Clark.&quot; <hi rend="italic">Courier-Journal</hi>, (Louisville, KY), 12 Sep 1913, p. 2. <lb/>
+KYR-0001-020-0666.<lb/>
+KYR-0001-020-1676<lb/>
+KYR-0001-004-3142<lb/>
+KYR-0001-004-3143<lb/>
+KYR-0001-004-3194<lb/>
+KYR-0001-004-2642<lb/>
+KYR-0001-004-2432
+</bibl></ab>
+    </back>
+</text>
+</TEI>
