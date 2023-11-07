@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0317"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,19 +72,19 @@
  <text>
   <body>
    <p>To his Excellency
-<lb/>Gov Megoffin</p>
-<p>The undersigned members of the bar at Mount Sterling and officers of the Court would respectfully ask the Govern to pardon James Anderson who has been Convicted during the present term of this Court of Manslaughter -- for the Killing of a negro man Andrew -- </p>
-<p>J W Moore
-<lb/>K Farrow
-<lb/>A. C. Daniel
-<lb/>Thos Turner
+<lb/><persName ref="cwgk:N00000258">Gov Megoffin</persName></p>
+<p>The undersigned members of the bar at <placeName ref="cwgk:P00001936">Mount Sterling</placeName> and officers of the <orgName ref="cwgk:O00011050">Court</orgName> would respectfully ask the Govern to pardon <persName ref="cwgk:N00013909">James Anderson</persName> who has been Convicted during the present term of this Court of Manslaughter -- for the Killing of a negro man <persName ref="cwgk:N00020454">Andrew</persName> -- </p>
+<p><persName ref="cwgk:N00000847">J W Moore</persName>
+<lb/><persName ref="cwgk:N00020448">K Farrow</persName>
+<lb/><persName ref="cwgk:N00020449">A. C. Daniel</persName>
+<lb/><persName ref="cwgk:N00004780">Thos Turner</persName>
 <lb/><hi rend="underline">J. M Crawford clk. M. C. C.</hi>
-<lb/>Saml McKee
-<lb/>B. A. Seaver
-<lb/>J. E. Clarke
-<lb/>J. S. Dury.
-<lb/>B J Peters
-<lb/>Thomas Metcalfe</p>
+<lb/><persName ref="cwgk:N00000827">Saml McKee</persName>
+<lb/><persName ref="cwgk:N00017688">B. A. Seaver</persName>
+<lb/><persName ref="cwgk:N00020450">J. E. Clarke</persName>
+<lb/><persName ref="cwgk:N00005291">J. S. Dury</persName>.
+<lb/><persName ref="cwgk:N00020451">B J Peters</persName>
+<lb/><persName ref="cwgk:N00020452">Thomas Metcalfe</persName></p>
   </body>
  </text>
 </TEI>
