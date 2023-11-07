@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020529">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">David Ralston</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniel Farrell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020529">
+                    <persName>
+                      David Ralston
+                        (Williamson County, Tennessee, resident.)
+                    </persName>
+                        <event type="birth"  when="1830-12-19"  ><ab>1830-12-19</ab></event>
+                        <event type="death"  when="1913-04-30"  ><ab>1913-04-30</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Williamson County, Tennessee, resident. Tennessee native. Married to Mary S. Sutton Ralston in Williamson County, Tennessee, on November 18, 1863. Resident of Williamson County, Tennessee, in 1860. Household owned four enslaved persons in Williamson County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Williamson County, Eastern Subdivision, p. 247.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Tennessee, Williamson County, Eastern Subdivision, p. 558B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Tennessee, Rutherford County, District 8, p. 334A.<lb/>
+<hi rend="italic">Tennessee State Marriages, 1780-2002</hi>, Tennessee State Library and Archives, Nashville, TN, Williamson County, 1860-1869: Marriage License Bonds (Mo-Yo).<lb/>
+&quot;David Ralston (1930-1913),&quot; Find A Grave, Memorial 149269969, accessed July 31, 2023, http://www.findagrave.com/memorial/ 149269969.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
