@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0031"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniel Farrell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,23 +71,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>War Department,
-<lb/>Adjutant General's Office,
-<lb/>Washington, <date when="1863-05-22">May 22<hi rend="underline"><hi rend="sup">d</hi></hi> 1863</date>.
+   <p><orgName ref="cwgk:O00005118">War Department</orgName>,
+<lb/><orgName ref="cwgk:O00010608">Adjutant General's Office</orgName>,
+<lb/><placeName ref="cwgk:P00001134">Washington</placeName>, <date when="1863-05-22">May 22<hi rend="underline"><hi rend="sup">d</hi></hi> 1863</date>.
 <lb/>Special Orders,
 <lb/>No. 229
 <lb/>Extract.</p>
-<p>12. Surgeon<hi rend="underline"> L. L. Pinkerton</hi>, 11<hi rend="underline"><hi rend="sup">th</hi></hi> Kentucky Cavalry, is hereby mustered out and discharged the service of the United States to date <date when="1863-02-28">February 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>. to which date he has been paid, he having since his date of muster in, rendered but little service to the Government, in consequence of being absent from his command on account of sickness.</p>
+<p>12. Surgeon<hi> <persName ref="cwgk:N00013193">L. L. Pinkerton</persName></hi>, <orgName ref="cwgk:O00005233">11<hi rend="underline"><hi rend="sup">th</hi></hi> Kentucky Cavalry</orgName>, is hereby mustered out and discharged the service of the <orgName ref="cwgk:O00001186">United States</orgName> to date <date when="1863-02-28">February 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>. to which date he has been paid, he having since his date of muster in, rendered but little service to the <orgName ref="cwgk:O00002945">Government</orgName>, in consequence of being absent from his command on account of sickness.</p>
 <p><note place="left margin">1. 2. 3. 4 5. 6</note><figure type="hr"/>
 <lb/>Surg. Pinkertons
 <lb/>Com. dated <date when="1862-09-18">Sept. 18. 1862</date>
 <lb/>11 Ky Cav<hi rend="sup">y</hi><figure type="hr"/></p>
-<p>13. Asst. Surgeon <hi rend="underline">J. T. Rogers</hi>, 11<hi rend="sup">th</hi> Kentucky Cavalry, is hereby discharged the service from date of his appoinrtment by the Governor, he having refused to be mustered into the service of the United States.<figure type="hr"/></p>
+<p>13. Asst. Surgeon <hi><persName ref="cwgk:N00013194">J. T. Rogers</persName></hi>, 11<hi rend="sup">th</hi> Kentucky Cavalry, is hereby discharged the service from date of his appoinrtment by the <persName ref="cwgk:N001000">Governor</persName>, he having refused to be mustered into the service of the United States.<figure type="hr"/></p>
 <p><note place="left margin">1. 2. 3. 4. 5. 6.</note><figure type="hr"/></p>
 <p>Asst. Surg. Robert
 <lb/>com issued <date when="1862-09-18">Sept. 18. 1862</date><figure type="hr"/></p>
-<p>By order of the Secretary of War:
-<lb/>E D Townsend
+<p>By order of the <persName ref="cwgk:N00002647">Secretary of War</persName>:
+<lb/><persName ref="cwgk:N00005757">E D Townsend</persName>
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
 <p>Governor of Kentucky <pb/></p>
    <p>11 Cavy<figure type="hr"/></p>
