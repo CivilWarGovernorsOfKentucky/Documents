@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0318"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  <text>
   <body>
    <p>To his Excellency
-<lb/>Gov. M<hi rend="sup">c</hi>Goffin
+<lb/><persName ref="cwgk:N00000258">Gov. M<hi rend="sup">c</hi>Goffin</persName>
 <lb/>Dear Sir</p>
-<p>The bearer Mr J. B. M<hi rend="sup">c</hi>Grath visits you for the purpose of asking Executive Clemency in his behalf= Mr M<hi rend="sup">c</hi>Grath like many a good &amp; perhaps too indulgent a Father is forced to ask this of you on account of a son: who like many other boys, is very desireous of being considered a man &amp; to accomplish all these points of course must -- Carry a pistol as one of the requisits -- his Father as is stated in the pition is a very "poor man -- yet as honst a man as lives in our midst &amp; is only Enabled to support his family by diligently working at his trade -- &amp; if I am any judge: I think this one of the Cases when the Commonwealth can with propriety -- yield up her interest &amp; I am quite sure -- that should you find it Compatable with your viws of proprity to remit the fine that it will be properly appreciated by your petitioner -- &amp; also its numerous signers -- for the further corroboration of my statements I refer you our mutual friend Colo. -- T. P. Porter -- </p>
+<p>The bearer Mr <persName ref="cwgk:N00020455">J. B. M<hi rend="sup">c</hi>Grath</persName> visits you for the purpose of asking Executive Clemency in his behalf= Mr M<hi rend="sup">c</hi>Grath like many a good &amp; perhaps too indulgent a Father is forced to ask this of you on account of a <persName ref="cwgk:N00020456">son</persName>: who like many other boys, is very desireous of being considered a man &amp; to accomplish all these points of course must -- Carry a pistol as one of the requisits -- his Father as is stated in the pition is a very "poor man -- yet as honst a man as lives in our midst &amp; is only Enabled to support his family by diligently working at his trade -- &amp; if I am any judge: I think this one of the Cases when the <orgName ref="cwgk:O001025">Commonwealth</orgName> can with propriety -- yield up her interest &amp; I am quite sure -- that should you find it Compatable with your viws of proprity to remit the fine that it will be properly appreciated by your petitioner -- &amp; also its numerous signers -- for the further corroboration of my statements I refer you our mutual friend Colo. -- <persName ref="cwgk:N00020457">T. P. Porter</persName> -- </p>
 <p>yours very Respectfully
-<lb/>Zeb Ward</p>
+<lb/><persName ref="cwgk:N00000212">Zeb Ward</persName></p>
   </body>
  </text>
 </TEI>
