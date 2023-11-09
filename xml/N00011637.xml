@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">[Unknown] Edrington</title>
+        <title level="a" type="main">Malinda Lawell Edrington</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Charles Welsko</name>
@@ -47,9 +51,11 @@
         <particDesc>
                 <person xml:id="N00011637">
                     <persName>
-                      [Unknown] Edrington
-                        (Jefferson County resident)
+                      Malinda Lawell Edrington
+                        (Louisville, Kentucky, seamstress)
                     </persName>
+                        <event type="birth"  when="1812"  cert="medium" ><ab>c1812</ab></event>
+                        <event type="death"  when="1876-12-01"  ><ab>1876-12-01</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -58,11 +64,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Jefferson County, Kentucky, resident. Mother of Thomas Edrington.</p>
+        <p>Louisville, Kentucky, seamstress. Lexington, Kentucky, native. Daughter of Peter Lawell and Jemima Coons Lawell. Married to Jeremiah Edrington. Mother of Thomas Edrington, William Edrington, and Ella Edrington. Seamstress in Louisville, Kentucky, in 1860. Seamstress in Louisville in 1861. Resident of Louisville in 1865. </p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0618
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 599.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, District 5, p. 532B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994041, Jefferson County Deaths, p. 202.<lb/>
+ <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 80.<lb/>
+<hi rend="italic">Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</hi> (Louisville: Edwards, Greenough &amp; Deved, 1866), 285.<lb/>
+KYR-0001-029-0618.
 </bibl></ab>
     </back>
 </text>
