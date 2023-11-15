@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019637">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William L. Pearce</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019637">
+                    <persName>
+                      William L. Pearce
+                        (Mason County, Kentucky, book merchant and grocer)
+                    </persName>
+                        <event type="birth"  when="1836"  cert="medium" ><ab>c1836</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mason County, Kentucky, book merchant and grocer. Kentucky native. Son of Hiram Pearce and Minerva Pearce. Married to Anna Belle Tieseman Pearce in Mason County, Kentucky, in October 1860. Attended school in Mason County in 1850. Household owned five enslaved persons in Mason County in 1850. Book merchant in Mason County in 1860. Household owned five enslaved persons in Mason County in 1860. Book merchant in W.L. Pearce &amp; Company in Mason County from 1862 to 1863. Grocery and liquor merchant in partnership with James L. Pearce in Mason County in 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, Maysville, p. 109A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Mason County, District 2, p. 757.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, District 2, p. 179.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mason County, District 2, p. 16A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Maysville, p. 424B. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Mason County Marriages, Film 000281847, p. 341.<lb/>
+<hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 15, Mason County, Kentucky, 1862, p. 10.<lb/>
+<hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 15, Mason County, Kentucky, 1864, p. 67.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Mason County, KY, September 1863.<lb/>
+&quot;New Books,&quot; <hi rend="italic">Weekly Bulletin</hi>, (Maysville, KY), 26 June 1862, p. 4.<lb/>
+&quot;Books and Stationary House,&quot; <hi rend="italic">Weekly Bulletin</hi>, (Maysville, KY), 3 Dec 1863, p. 3.<lb/>
+&quot;New Firm,&quot; <hi rend="italic">Weekly Bulletin</hi>, (Maysville, KY), 28 Jan 1864, p. 3.<lb/>
+&quot;Groceries and Liquors,&quot; <hi rend="italic">Weekly Bulletin</hi>, (Maysville, KY), 14 April 1864, p. 3. <lb/>
+&quot;Former Maysville Woman Dies Suddenly in Cincinnati,&quot; <hi rend="italic">Public Ledger</hi>, (Maysville, KY), 13 Sep 1920, p. 1. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
