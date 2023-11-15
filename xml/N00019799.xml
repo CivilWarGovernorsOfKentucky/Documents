@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019799">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William E. Reed</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniel Farrell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019799">
+                    <persName>
+                      William E. Reed
+                        (Clark County, Kentucky, carpenter and soldier.)
+                    </persName>
+                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
+                        <event type="death"  when="1903-08-02"  ><ab>1903-08-02</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Clark County, Kentucky, carpenter and soldier. Kentucky native. Married to Mary Reed. Father of Samuel E. Reed, John W. Reed, Rebecca Reed, Edmond A. Reed, Martha M. Reed and Mariah Reed. Carpenter in Clark County, Kentucky, in 1850. Carpenter in Clark County in 1860. Served in the 26th Kentucky Volunteer Infantry Regiment (U.S.A.) as a first sergeant from January 27, 1864 to July 10, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Clark County, District, 1 p. 76A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clark County, District 1, p. 901.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Clark County, Kiddville, p. 78A. <lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 712.<lb/>
+&quot;Deaths,&quot; <hi rend="italic">The Sun-Sentinel</hi> (Winchester, Kentucky), August 6, 1903.<lb/>
+&quot;Sgt William Reed (9 Aug 1816-2 Aug 1903),&quot; Find A Grave, Memorial 89094051, accessed April 20, 2023, http://www.findagrave.com/memorial/89094051.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
