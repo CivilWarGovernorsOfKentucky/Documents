@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021105">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Adam J. Surface</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021105">
+                    <persName>
+                      Adam J. Surface
+                        (Preble County, Ohio, farmer and fugitive from justice.)
+                    </persName>
+                        <event type="birth"  when="1821-09-05"  ><ab>1821-09-05</ab></event>
+                        <event type="death"  when="1910-02-03"  ><ab>1910-02-03</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Preble County, Ohio, farmer and fugitive from justice. Ohio native. Married to Sarah Irick Surface in Preble County, Ohio, in September 1840. Father of Andrew J. Surface, Lucinda Surface, Noah Surface, Huldah Surface, Susana Surface, Jacob Surface, Rhoda Surface, and Amanda Surface. Married to Elizabeth Snyder Surface in Kenton County, Kentucky, on March 19, 1864. Father of James Surface. Farmer in Cass County, Indiana, in 1860. Farmer in Preble County, Ohio, in 1863. Accused of bigamy in Kenton County, Kentucky, in 1865. Fugitive from justice in August 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Cass County, Tipton Township, p. 594.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Montgomery County, Wayne Township, p. 816B. <lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Preble County, OH, June 1863, p. 13.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Kenton County Marriages, Film 001943299.<lb/>
+&quot;Adam Surface is Dead,&quot; <hi rend="italic">The Evening Star</hi> (Independence, KS), February 7, 1910, p. 10.<lb/>
+L. Wallace Duncan, <hi rend="italic">History of Montgomery County, Kansas: By Its Own People</hi> (Iola, KS: Iola Register, 1903), 718.<lb/>
+&quot;Adam J. Surface (1821-1910),&quot; Find A Grave, Memorial 30260062, accessed November 15, 2023, https://www.findagrave.com/memorial/30260062.<lb/>
+KYR-0001-006-0073.<lb/>
+KYR-0001-006-0075.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
