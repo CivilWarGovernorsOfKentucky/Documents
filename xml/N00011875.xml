@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">C. P. McGuire</title>
+        <title level="a" type="main">Commodore P. McGuire</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Carl Creason</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00011875">
                     <persName>
-                      C. P. McGuire
-                        ()
+                      Commodore P. McGuire
+                        (Carter County, Kentucky, farmer and soldier.)
                     </persName>
+                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,19 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of Stephen H. Young in Carter County in 1863.</p>
+        <p>Carter County, Kentucky, farmer and soldier. Kentucky native. Son of Temperance McGuire. Married to Elizabeth Harris McGuire in Carter County, Kentucky, on February 16, 1861. Father of Laban McGuire, Juda McGuire, and Mary Janetta McGuire. Resident of Carter County, Kentucky, in 1850. Household owned four enslaved persons in Carter County in 1850. Farmhand in Carter County in 1860. Household owned eight enslaved persons in Carter County in 1860. Farmer in Carter County in 1863. Served in the 40th Kentucky Volunteer Infantry (U.S.A.) as a private and second sergeant from September 25, 1863, to December 30, 1864.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0179
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Carter County, District 1, p. 269B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Carter County.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carter County, p. 271.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Carter County, pp. 249A-B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Carter County, Precinct 1, p. 89B.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0433.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Carter County, KY, September 1863, p. 205.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994030, Carter County Births.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Carter County Marriages, Film 001759301.
 </bibl></ab>
     </back>
 </text>
