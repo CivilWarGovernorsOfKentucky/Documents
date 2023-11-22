@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0009"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,25 +72,25 @@
  <text>
   <body>
    <p><date when="1860-11-14">14</date> 
-<lb/>The Governor approved to the City of Frankfort the following Gas accounts for <date when="1860-10">October</date></p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> approved to the <placeName ref="cwgk:P00000308">City of Frankfort</placeName> the following Gas accounts for <date when="1860-10">October</date></p>
 <p><table rend="rules">
 <row>
 	<cell>Governors House</cell>
-	<cell>&#36;30.60.</cell>
+	<cell>$30.60.</cell>
 </row>
 <row>
-	<cell>Gov &amp; Secy's Office</cell>
+	<cell>Gov &amp; <orgName ref="cwgk:O00012489">Secy's</orgName> Office</cell>
 	<cell>5.40</cell>
 </row>
 <row>
-	<cell>Aud. &amp; Treas "</cell>
+	<cell><orgName ref="cwgk:O00004702">Aud.</orgName> &amp; <orgName ref="cwgk:O00018494">Treas</orgName> "</cell>
 	<cell>25.65</cell>
 </row>
 </table></p>
-<p>He respited a judgment of the Lexington City for Six months of &#36;500 against H. W. Hieronymous for dealing Faro</p>
-<p>He respitedfor twelve months a judgment of the Harrodsburg Polic Court of &#36;20, against Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Patterson for a breach of the peace.</p>
-<p>He appointed and commissioned Jamed G Craig Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for Ohio (Cincinnati)</p>
-<p></p>
+<p>He respited a judgment of the <orgName ref="cwgk:O00000729">Lexington City</orgName> for Six months of $500 against <persName ref="cwgk:N00020732">H. W. Hieronymous</persName> for dealing Faro</p>
+<p>He respitedfor twelve months a judgment of the <orgName ref="cwgk:O00003265">Harrodsburg Polic Court</orgName> of $20, against <persName ref="cwgk:N00020137">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Patterson</persName> for a breach of the peace.</p>
+<p>He appointed and commissioned <persName ref="cwgk:N00001726">Jamed G Craig</persName> Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for <placeName ref="cwgk:P001036">Ohio</placeName> (<placeName ref="cwgk:P00001208">Cincinnati</placeName>)</p>
+<p/>
   </body>
  </text>
 </TEI>
