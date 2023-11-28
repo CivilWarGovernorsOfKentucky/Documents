@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00011878">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021110">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Eli Boggs</title>
+        <title level="a" type="main">Sarah Irick Surface</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Carl Creason</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
             <name>Brian M. Trump</name>
-          </respStmt>
+          </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Charles Welsko</name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Carl Creason</name>
+            <name>Brian M. Trump</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -49,12 +45,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00011878">
+                <person xml:id="N00021110">
                     <persName>
-                      Eli Boggs
-                        (Carter County, Kentucky, farmhand.)
+                      Sarah Irick Surface
+                        (Ohio resident.)
                     </persName>
-                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <event type="birth"  when="1815"  ><ab>1815</ab></event>
+                        <event type="death"  when="1900"  ><ab>1900</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,11 +60,14 @@
     </teiHeader>
     <text>
     <body>
-        <p>Carter County, Kentucky, farmhand. Kentucky native. Farmhand in Carter County, Kentucky, in 1860.</p>
+        <p>Ohio, resident. Ohio native. Married to Adam J. Surface in Preble County, Ohio, in September 1840. Mother of Andrew J. Surface, Lucinda Surface, Noah Surface, Huldah Surface, Susana Surface, Jacob Surface, Rhoda Surface, and Amanda Surface. Resident of Cass County, Indiana, in 1860. Resident of Ohio in 1864.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carter County, p. 179.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Cass County, Tipton Township, p. 594.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Preble County, Monroe Township, p. 180A. <lb/>
+&quot;Sarah J. &#39;Sally&#39; Irick Surface (1815-1900),&quot; Find A Grave, Memorial 24738210, accessed November 15, 2023, https://www.findagrave.com/memorial/24738210.<lb/>
+KYR-0001-006-0073.
 </bibl></ab>
     </back>
 </text>
