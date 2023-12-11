@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019977">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William S. Randolph</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019977">
+                    <persName>
+                      William S. Randolph
+                        (Trigg County, Kentucky, schoolteacher.)
+                    </persName>
+                        <event type="birth"  when="1836"  ><ab>1836</ab></event>
+                        <event type="death"  when="1905-09-19"  ><ab>1905-09-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Trigg County, Kentucky, schoolteacher. Kentucky native. Son of Alexander Randolph and Malinda Randolph. Married to Margaret A. Jenkins Randolph in Caldwell County, Kentucky, on April 14, 1864. Father of M.M. Randolph. Resident of Trigg County, Kentucky, in 1850. Household owned one enslaved person in Trigg County in 1850. Schoolteacher in Trigg County in 1860. Resident of Caldwell County in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District 1, p. 306B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Trigg County, District 1.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Trigg County, Cadiz, p. 193.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Caldwell County, Princeton Precinct, p. 480B.<lb/>
+<hi rend="italic">Kentucky, County Marriages, 1797-1954</hi>, Genealogical Society of Salt Lake City, Salt Lake City, UT, Caldwell County Marriages, Film 001929339.<lb/>
+&quot;Judge W.S. Randolph Buried,&quot; <hi rend="italic">Owensboro Weekly Enquirer</hi> (Owensboro, KY), September 22, 1905, p. 1.<lb/>
+&quot;William S Randolph (1836-1909),&quot; Find A Grave, Memorial 66699670, accessed May 15, 2023, https://www.findagrave.com/memorial/66699670.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
