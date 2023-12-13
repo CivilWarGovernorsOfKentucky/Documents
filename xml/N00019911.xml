@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019911">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William W. O&#39;Brien</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniel Farrell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019911">
+                    <persName>
+                      William W. O&#39;Brien
+                        (Peoria, Peoria County, Illinois, attorney. )
+                    </persName>
+                        <event type="birth"  when="1834-05-22"  ><ab>1834-05-22</ab></event>
+                        <event type="death"  when="1885-01-13"  ><ab>1885-01-13</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Peoria County, Illinois, attorney and politician. Native of County Leitrim, Ireland. Married to Ellen Hannah O&#39;Brien on September 5, 1861. Father of Mary O&#39;Brien. Immigrated to the United States in 1854. City attorney of Peoria, Illinois, from 1861 to 1864. Member of the House of Representatives of the State of Illinois from Peoria County from 1863 to 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, Peoria County, Peoria Ward 3, p. 201.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Illinois, Peoria County, Peoria Ward 3, p. 328B. <lb/>
+&quot;William W. O&#39;Brien,&quot; <hi rend="italic">The Daily Inter Ocean</hi> (Chicago, IL), January 14, 1885, p. 2.<lb/>
+<hi rend="italic">The History of Peoria County, Illinois</hi> (Chicago: Johnson &amp; Company, 1880), 637.<lb/>
+James A. Rose, <hi rend="italic">Blue Book of the State of Illinois, 1909</hi> (Danville, IL: Illinois Printing Company, 1909), 19-20.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
