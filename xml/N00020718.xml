@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020718">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas Readenour</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020718">
+                    <persName>
+                      Thomas Readenour
+                        (Grant County, Kentucky, farm laborer and soldier (11th KY Cav USA))
+                    </persName>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
+                        <event type="death"  when="1864-02-22"  ><ab>1864-02-22</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Grant County, Kentucky, farm laborer and soldier. Kentucky native. Son of John Readenour and Mary Readenour. Married to Malinda Readenour. Father of Emma Belle Readenour. Guardian of Malinda Collins. Laborer in Fleming County in 1850. Attended school in Fleming County in 1850. Farm laborer in Grant County in 1860. Served in the 11th Kentucky Volunteers Cavalry Regiment (U.S.A.) as a teamster, private, and corporal from September 22, 1862 to February 22, 1864. Reported as deserted from Marion County, Kentucky, on January 8, 1863. Captured at the Battle of Philadelphia in Monroe County, Tennessee, on October 20, 1863. Prisoner of war from October 20, 1863 to February 22, 1864. Died in Richmond, Virginia on February 22, 1864</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, District 1, p. 344B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grant County, p. 826.<lb/>
+<hi rend="italic">Case Files of Approved Pension Applications of Widows and Other Dependents of Civil War Veterans, ca. 1861 – ca. 1910</hi>, NARA RG 15, Application 10.2.261.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0111.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
