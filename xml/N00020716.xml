@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020716">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edwin N. Vallandingham</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020716">
+                    <persName>
+                      Edwin N. Vallandingham
+                        (Owen County, Kentucky, farm laborer and soldier (11th KY Cav and 53rd Inf))
+                    </persName>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="death"  when="1889-01-20"  ><ab>1889-01-20</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Owen County, Kentucky, farm laborer and soldier. Owen County, Kentucky, native. Son of George B. Vallandingham and Winifred Vallandingham. Married to Eliza J. Sullivan Vallandingham in Jefferson County, Indiana, on November 9, 1865. Resident of Owen County, Kentucky, in 1850. Farm laborer in Mahaska County, Iowa in 1860. Served in the 11th Kentucky Volunteer Cavalry Regiment (U.S.A.) as a private and sergeant from September 22, 1862 to March 19, 1863. Discharged on March 19, 1863, on account of disability. Served in the 53rd Kentucky Volunteer Infantry Regiment (U.S.A.) as a second lieutenant from November 25, 1864 to September 20, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Owen County, District 2, p. 168A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Iowa, Mahaska County, Monroe, p. 215.<lb/>
+<hi rend="italic">Indiana Marriage Records, 1801-1952</hi>, Indiana Archives and Record Administration, Jefferson County Courthouse, Madison, Indiana. Marriage Records, Roll 4, 1861-1865, p. 474.<lb/>
+Vallandingham, Edwin N. <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0459.<lb/>
+Valandingham, Edwin N. <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0112.<lb/>
+&quot;Indiana State News,&quot; <hi rend="italic">The Franklin Republicans</hi> (Franklin, IN), January 25, 1889, p. 7.<lb/>
+&quot;Round About,&quot; <hi rend="italic">Evansville Courier and Press</hi> (Evansville, IN), January 22, 1889, p. 4.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
