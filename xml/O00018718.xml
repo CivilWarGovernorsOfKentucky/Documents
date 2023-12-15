@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00018718">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Louisville Legion</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00018718">
+                    <orgName>Louisville Legion</orgName>
+                        <event type="begun"  when="1836"  ><ab>1836</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>State militia regiment organized in Louisville, Kentucky, in 1836. Chartered by the General Assembly of the Commonwealth of Kentucky in 1839. Mustered into federal service during the U.S.-Mexican War from 1846 to 1847, and the U.S. Civil War from 1861 to 1864.</p>
+
+<p>Mustered into federal service as the 1st Kentucky Volunteer Infantry Regiment in May 1846. Mustered out at New Orleans, Louisiana, on May 17, 1847. Commander: Stephen Ormsby.</p>
+
+<p>Mustered into federal service as the 5th Kentucky Volunteer Infantry Regiment (U.S.A.) on September 9, 1861. Mustered out at Louisville on September 14, 1864. Commander(s): Lovell H. Rousseau and William Berry.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Acts of the General Assembly of the Commonwealth of Kentucky: December Session, 1838</hi> (Frankfort, KY: A. G. Hodges, 1839), 61-2.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 684.<lb/>
+Nicky Hughes, &quot;Louisville Legion&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, ed. John E. Kleber. (Lexington: University Press of Kentucky, 1992), 583.<lb/>
+Ernest MacPherson, &quot;History of the Louisville Legion,&quot; in <hi rend="italic">Memorial History of Louisville from Its First Settlement to the Year 1896</hi>, vol. I, ed. J. Stoddard Johnston (Chicago: American Biographical Publishing Co., 1896), 220-8.<lb/>
+John B. Wilson, <hi rend="italic">Armies, Corps, Divisions, and Separate Brigades</hi> (Washington, D.C.: Center of Military History, 1999), 351-4.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
