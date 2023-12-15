@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020013">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Washington Wicks</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020013">
+                    <persName>
+                      George Washington Wicks
+                        (Louisville, Kentucky, grocer and banker)
+                    </persName>
+                        <event type="birth"  when="1825"  ><ab>1825</ab></event>
+                        <event type="death"  when="1895-11-29"  ><ab>1895-11-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, grocer and banker. Indiana native. Son of Joseph Lewis Wicks and Delilah Alexander Wicks. Married to Sarah Jane Wible Wicks in Floyd County, Indiana, on June 18, 1845. Father of Annie Wicks. Married to Mary F. Dean Wicks in Madison County, Kentucky, on June 5, 1855. Father of Lizzie Wicks and Kate Wicks. Grocer in Louisville, Kentucky, in 1860. Hired two enslaved persons in Louisville in 1860. Member of the Merchant Bank of Kentucky&#39;s Board of Directors in Louisville in 1864. Member of the Merchant Bank of Kentucky&#39;s Board of Directors in Louisville in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, District 5, p. 125.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jefferson County, Louisville, District 5, p. 273A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, District 9, p. 200A. <lb/>
+<hi rend="italic">Indiana Marriage Certificates</hi>, Indiana Commission on Public Records, Indianapolis, IN, Floyd County Marriages, Vol. 3, 1845-1853, p 8.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994047, Madison County Marriages.<lb/>
+&quot;Untitled,&quot; <hi rend="italic">The Louisville Daily Journal</hi> (Louisville, KY), September 9, 1864, p. 3. <lb/>
+&quot;Weekly Review of the Market,&quot; <hi rend="italic">The Louisville Daily Journal</hi> (Louisville, KY), April 11, 1865, p. 4.<lb/>
+<hi rend="italic">Lineage Book: National Society of the Daughters of the American Revolution</hi>, vol. LXXV (Washington, D.C.: Judd &amp; Detweiler, Inc., 1924), 245.<lb/>
+&quot;George Washington Wicks Sr. (1825-1895),&quot; Find A Grave, Memorial 127393860 , accessed may 17, 2023, http://www.findagrave.com/memorial/127393860.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
