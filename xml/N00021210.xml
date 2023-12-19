@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021210">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Wilson M. May</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021210">
+                    <persName>
+                      Wilson M. May
+                        (Jessamine County, Kentucky, farmer and soldier (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1833-05-13"  ><ab>1833-05-13</ab></event>
+                        <event type="death"  when="1901-01-04"  ><ab>1901-01-04</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jessamine County, Kentucky, farmer and soldier. Estill County, Kentucky, native. Married to Mary Ball May in Jessamine County, Kentucky, on July 30, 1860. Served in the 11th Kentucky Volunteer Cavalry Regiment (U.S.A.) as a private and corporal from September 22, 1862 to October 24, 1862. Reported as deserted at Frankfort on October 24, 1862. Farmer in Jessamine County in 1863. Served in the 1st Kentucky Volunteer Light Artillery Regiment (U.S.A.) as a private from October 6, 1863, to October 5, 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Cass County, Washington, p. 310A.<lb/>
+&quot;May, Wilson M.&quot; <hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Kentucky, Roll 319, Application 747808, Certificate 527831.<lb/>
+&quot;May, Wilson M.,&quot; <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0508.<lb/>
+&quot;May, Wilson,&quot; <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0109.<lb/>
+&quot;May, Wilson M.,&quot; <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0479.<lb/>
+&quot;May, Wilson M.,&quot; <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0149.<lb/>
+&quot;Three Old Residents Gone,&quot; <hi rend="italic">Lyndon Record</hi>, (Lyndon, KS), January 10, 1901, p. 1.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
