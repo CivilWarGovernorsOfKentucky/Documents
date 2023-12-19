@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020104">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert L. Egerton</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020104">
+                    <persName>
+                      Robert L. Egerton
+                        (Louisville, Kentucky, merchant)
+                    </persName>
+                        <event type="birth"  when="1832-07-22"  ><ab>1832-07-22</ab></event>
+                        <event type="death"  when="1879-12-17"  ><ab>1879-12-17</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, merchant. Virginia native. Son of Robert Chesley Egerton and Clarinda Susan Smith Egerton. Married to Josephine L. Buckles Egerton. Father of Mary Egerton and Virginia Wilder Egerton. Merchant in Louisville, Kentucky, in 1860. Household owned five enslaved persons in Louisville in 1860. Merchant in Louisville in 1861. Merchant in Louisville in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, District 6, p. 259-60.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, X County, Louisville, District 6, p. 278A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, District 9, p. 217A-B. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994040, Jefferson County Births.<lb/>
+<hi rend="italic">Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</hi> (Louisville: Edwards, Greenough &amp; Deved, 1866), 286.<lb/>
+<hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 81.<lb/>
+H. Allen Smith, <hi rend="italic">A Genealogical History of the Descendants of the Rev. Nehemiah Smith of New London County, Conn., with Mention of his Brother John and Nephew Edward, 1638-1888</hi> (Albany, NY: Joel Munsell&#39;s Sons, 1889), 198.<lb/>
+&quot;Robert Lee Egerton (1832-1879),&quot; Find A Grave, Memorial 155901102 , accessed December 19, 2023, http://www.findagrave.com/memorial/155901102.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
