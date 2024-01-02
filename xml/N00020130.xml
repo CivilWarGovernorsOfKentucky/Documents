@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020130">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Kearsley Carter</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020130">
+                    <persName>
+                      Kearsley Carter
+                        (Louisville, Kentucky, merchant)
+                    </persName>
+                        <event type="birth"  when="1832-03-04"  ><ab>1832-03-04</ab></event>
+                        <event type="death"  when="1916-01-26"  ><ab>1916-01-26</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, merchant. Virginia native. Son of Isaac N. Carter and Ann Margaret Kearsley Carter. Married to Sally R. Douglass Carter in Jefferson County, Kentucky, on January 30, 1856. Father of W. D. Carter, Kearsley Carter, Jr., and Drusilla Carter. Attended school in Jefferson County, Virginia, in 1850. Merchant in partnership with James Buchanan in Carter &amp; Buchanan in Louisville from 1859 to 1862. Merchant in Louisville from 1862 to 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Virginia, Jefferson County, Charlestown, p.293B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, District 7, p. 43B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994040, Jefferson County Marriages, p. 159.<lb/>
+<hi rend="italic">Virginia Death Certificates, 1912-2014</hi>, Virginia Department of Health, Richmond, VA, File No. 2470. <lb/>
+<hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 10, Jefferson County, Kentucky, 1864, p. 93.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Jefferson County, KY, July 1863, p. 107.<lb/>
+ <hi rend="italic">Louisville City Directory and Business Mirror for 1858-9,</hi> (Louisville: Hurd &amp; Burrows, 1859), 40.<lb/>
+ <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 52.<lb/>
+<hi rend="italic">Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</hi> (Louisville: Edwards, Greenough &amp; Deved, 1866), 240.<lb/>
+&quot;Family Flour,&quot; <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), September 5, 1856, p. 3.<lb/>
+&quot;Kearsley Carter,&quot; <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), February 4, 1857, p. 4.<lb/>
+&quot;Carter &amp; Buchanan,&quot; <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), November 12, 1859,  p. 2.<lb/>
+&quot;Carter &amp; Buchanan,&quot; <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), January 20, 1860, p. 2. <lb/>
+&quot;Carter &amp; Buchanan,&quot; <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), March 12, 1861, p. 2.<lb/>
+&quot;Pumpkin Seed!&quot; <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), June 21, 1862, p. 2.<lb/>
+&quot;Seeds! Seeds!&quot; <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), March 20, 1863, p. 3. <lb/>
+John Bennett Boddie, <hi rend="italic">Historical Southern Families</hi>, vol. 5 (Baltimore: Clearfield Company, Inc, 1993), 258.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
