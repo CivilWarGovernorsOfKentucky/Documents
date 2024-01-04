@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Thomas Steven</title>
+        <title level="a" type="main">Thomas Slevin</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Carl Creason</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Carl Creason</name>
@@ -43,9 +47,11 @@
         <particDesc>
                 <person xml:id="N00012643">
                     <persName>
-                      Thomas Steven
-                        (Unknown (Jefferson County - see research folder))
+                      Thomas Slevin
+                        (Louisville, Kentucky, dry goods merchant. )
                     </persName>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -53,11 +59,16 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition on behalf of Bridget Kearney in Louisville, Jefferson County, Kentucky. </p>
+        <p>Louisville, Kentucky, dry goods merchant. Native of Ireland. Merchant in Louisville, Kentucky, in 1860. Dry Goods Merchant in partnership with Thomas P. Cain and Richard D. Slevin in T. &amp; R. Slevin &amp; Cain in Louisville from 1854 to 1877.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0164
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 6, p. 246.<lb/>
+Henry Tanner, ed., <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 228.<lb/>
+“T. &amp; R. Slevin &amp; Cain,” <hi rend="italic">The Louisville Daily Courier</hi> (Louisville, Ky.), September 9, 1854, p. 2.<lb/>
+“Clothing Department, ” <hi rend="italic">The Courier-Journal</hi> (Louisville, Ky.), May 11, 1872, p. 4.<lb/>
+“By Thos. Anderson &amp; Co, Auctioneers,” <hi rend="italic">The Courier-Journal</hi> (Louisville, Ky.), March 21, 1877, p. 4.<lb/>
+KYR-0001-029-0164.
 </bibl></ab>
     </back>
 </text>
