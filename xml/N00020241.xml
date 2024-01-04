@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020241">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Egbert G. Cole</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020241">
+                    <persName>
+                      Egbert G. Cole
+                        (Louisville, Kentucky, carpenter, lumber merchant, and saw miller)
+                    </persName>
+                        <event type="birth"  when="1817"  ><ab>1817</ab></event>
+                        <event type="death"  when="1863-06"  ><ab>1863-06</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, carpenter, lumber merchant, and saw miller. Native of Canada. Married to Lucilla Davis Cole in Jefferson County, Kentucky, on June 7, 1846. Father of Merrill Cole, Levi Cole, and Ida Cole. Carpenter in Louisville in 1850. Lumber merchant in Louisville in 1860. Saw miller in partnership with James White in White &amp; Cole in Louisville in 1858 through 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 170B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 521-522. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film 000482707, p. 122.<lb/>
+ <hi rend="italic">Louisville City Directory and Business Mirror for 1858-9,</hi> (Louisville: Hurd &amp; Burrows, 1859), 44.<lb/>
+ <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 58, 261.<lb/>
+&quot;Burglarious Operation,&quot; <hi rend="italic">Louisville Daily Courier</hi>, (Louisville, KY), 1November 19, 1858, p. 1.<lb/>
+&quot;Claims Allowed,&quot; <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), September 3, 1859, p. 1.<lb/>
+&quot;Our Water-works,&quot;  <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), November 2, 1860, p. 3.<lb/>
+&quot;Board of Common Council,&quot;  <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), February 3, 1862, p. 1. <lb/>
+&quot;Egbert G. Cole (1817-1863),&quot; Find A Grave, Memorial 155181108 , accessed June 12, 2023, http://www.findagrave.com/memorial/155181108 .
+</bibl></ab>
+    </back>
+</text>
+</TEI>
