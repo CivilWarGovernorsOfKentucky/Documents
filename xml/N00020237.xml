@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020237">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles Fais</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020237">
+                    <persName>
+                      Charles Fais
+                        (Louisville, Kentucky, druggist)
+                    </persName>
+                        <event type="birth"  when="1835"  ><ab>1835</ab></event>
+                        <event type="death"  when="1898-10-18"  ><ab>1898-10-18</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, druggist. Kentucky native. Son of Charles Fais and Sabrina Alexander Fais McLaughlin. Married to Eliza Cross Fais in Jefferson County, Kentucky, on March 3, 1858. Father of Jacob Fais. Attended school in Louisville in 1850. Druggist in Louisville in 1860. Druggist in Louisville in 1861. Druggist in Louisville in 1864. Druggist in Louisville in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 1, p. 35B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 520.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994040, Jefferson County Marriages.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994041, Jefferson County Deaths.<lb/>
+ <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 84.<lb/>
+ <hi rend="italic">J.D. Campbell&#39;s Louisville Business Directory for 1864,</hi> (Louisville: L.A. Civill, 1864), 142. <lb/>
+<hi rend="italic">Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</hi> (Louisville: Edwards, Greenough &amp; Deved, 1866), 293.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
