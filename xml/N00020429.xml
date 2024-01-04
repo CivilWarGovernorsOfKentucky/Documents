@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020429">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Frank D. Garrety </title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020429">
+                    <persName>
+                      Frank D. Garrety 
+                        (Louisville, Kentucky, shoemaker and first lieutenant (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1832"  cert="medium" ><ab>c1832</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, shoemaker and soldier. Native of Ireland. Son of Edward Garrety and Catharine Garrety. Married to Alice O&#39;Hearn Garrety. Father of Eddie Garrety, John M. Garrety, Mary A. Garrety, Cecelia Garrety, Kate Garrety, and Frank J. Garrety. Shoemaker in Philadelphia, Pennsylvania, in 1850. Shoemaker in Louisville, Kentucky, in 1860. Shoemaker in Louisville in 1861. Served in the 15th Kentucky Volunteer Infantry (U.S.A.) as first and second Lieutenant from December 14, 1861, to June 27, 1863. Wounded at the Battle of Perryville in Boyle County, Kentucky, on October 8, 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Pennsylvania County, Philadelphia, Southwark District 4, p. 258B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, District 6, p. 297.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Iowa, Tama County, Toledo, p. 389B. <lb/>
+<hi rend="italic">Minnesota Death Certificates, 1900-2001</hi>, Gale Family Library, Minnesota Historical Society, St. Paul, MN, Ramsay County, No. 1290. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0283.<lb/>
+ <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 97.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
