@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020344">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Theodore E. Elliott</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020344">
+                    <persName>
+                      Theodore E. Elliott
+                        (Louisville, Kentucky, merchant, clerk, and 2nd Lieutenant (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1839-04-21"  ><ab>1839-04-21</ab></event>
+                        <event type="death"  when="1915-01-29"  ><ab>1915-01-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, merchant, clerk, and soldier. Indiana native. Son of William C. Elliott and Eliza Coleman Elliott. Married to Caroline A. Elliott. Attended school in Daviess County, Indiana, in 1850. Merchant in Louisville in 1858. Served in the Kentucky State Guard as a 3rd Lieutenant in April 1860. Clerk in Louisville in 1860. Merchant in Louisville in 1861. Served in the 5th Kentucky Volunteer Infantry (U.S.A.) as a 2nd Lieutenant from September 9, 1861, to May 17, 1862. Merchant in partnership with Preston L. Bland in Louisville in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Daviess County, Washington, p. 92B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, District 6, p. 239.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Hamilton County, Cincinnati, District 16, p. 42B.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0195.<lb/>
+<hi rend="italic">Indiana Death Certificates, 1900–2011</hi>, Indiana State Department of Health and Vital Records, Indiana Archives and Records Administration, Indianapolis, IN, Certificate 294.<lb/>
+ <hi rend="italic">Louisville City Directory and Business Mirror for 1858-9,</hi> (Louisville: Hurd &amp; Burrows, 1859), 58.<lb/>
+ <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 82.<lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Kentucky, Roll 140, Application 1316387, Certificate 1041799.<lb/>
+&quot;Mustered into Service,&quot; <hi rend="italic">Louisville Daily Courier</hi>, (Louisville, KY), April 4, 1860, p. 1. <lb/>
+&quot;Dissolution,&quot; <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), July 6, 1863, p. 2. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
