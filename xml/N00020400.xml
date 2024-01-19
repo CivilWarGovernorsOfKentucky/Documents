@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020400">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Cornelius Pering</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020400">
+                    <persName>
+                      Cornelius Pering
+                        (Louisville, Kentucky, founder Louisville Female Institute)
+                    </persName>
+                        <event type="birth"  when="1881-11-28"  ><ab>1881-11-28</ab></event>
+                        <event type="death"  when="1806-11-05"  ><ab>1806-11-05</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, teacher and principal. Native of England. Married to Susan Hine Pering in Dorset, England, on August 24, 1828. Father of Cornelius H. Pering, Alfred Pering, Zenobia Pering, James G. Pering, Cornelia Pering and William H. Pering. Married to Charlotte Carmichael Pering in Jefferson County, Kentucky, on August 8, 1846. Attended the Royal Academy of London in London, England. Immigrated to the United States on August 26, 1832. Received an honorary Masters of Arts from Indiana University in Bloomington, Indiana, in 1837. Principal of the Monroe County Female Institute in Monroe County, Indiana, from 1835 to 1846. Founded the Louisville Female Institute in Louisville, Kentucky, in 1847. Principal of the Louisville Female Institute from 1847 through 1865. Owned one enslaved person in Louisville in 1850. Hired one enslaved person in Louisville in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 158B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Jefferson County, Louisville, District 2.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, District 4, p. 64.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jefferson County, Louisville, District 4, p. 267B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, District 6, p. 612A. <lb/>
+<hi rend="italic">Beaminster, Marriages and Banns, 1813-1921</hi>, Dorset Church of England Parish Registers, Dorset History Centre, Dorchester, England,  No. 153. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film 000818482.<lb/>
+<hi rend="italic">New York, U.S. Arriving Passenger and Crew Lists, 1820-1957</hi>, Passenger Arrival Lists (1817-1897), NARA Series M237, RG 36, Ship <hi rend="italic">Woodman</hi>, 1832. <lb/>
+<hi rend="italic">Register of Graduates of Indiana University</hi> (Bloomington: The University, 1911), p. 9.<lb/>
+&quot;Louisville Female Institute,&quot; <hi rend="italic">Louisville Daily Courier</hi>, (Louisville, KY), August 31, 1847, p. 3.<lb/>
+&quot;Louisville Female Institute,&quot; <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), August 30, 1864, p. 2.<lb/>
+ <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 193.<lb/>
+<hi rend="italic">Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</hi> (Louisville: Edwards, Greenough &amp; Deved, 1866), 475.<lb/>
+<hi rend="italic">Counties of Morgan, Monroe and Brown, Indiana: Historical and Biographical</hi>, (Chicago: F.A. Battey &amp; Co., 1884,) 472-3. <lb/>
+“Cornelius Pering,” Indiana University: The First 200, Honorary Degrees, accessed July 5, 2023. https://first200.iu.edu/honorary-recipients/pering-cornelius.html.<lb/>
+&quot;Cornelius Pering (1806-1881),&quot; Find A Grave, Memorial 28426659 , accessed July 5, 2023, http://www.findagrave.com/memorial/28426659 .
+</bibl></ab>
+    </back>
+</text>
+</TEI>
