@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020411">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Leon Kahn</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020411">
+                    <persName>
+                      Leon Kahn
+                        (Louisville, Kentucky, shoemaker, merchant, and auctioneer)
+                    </persName>
+                        <event type="birth"  when="1832-07-23"  ><ab>1832-07-23</ab></event>
+                        <event type="death"  when="1912-02-08"  ><ab>1912-02-08</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, shoemaker, merchant, and auctioneer. Native of France. Son of Emanuel Kahn. Married to Sarah Grauman Kahn in Jefferson County, Kentucky, on October 2, 1860. Father of David Kahn, Esther Kahn, and Emanuel Kahn. Boot and shoemaker in Louisville in 1858. Auctioneer and commercial merchant in partnership with Isadore Grauman in L. Kahn &amp; Company in Louisville from 1860 to 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Marion County, Indianapolis, District 1, p. 19B. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film 000482709.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 4302.<lb/><lb/>
+<hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), March 27, 1860, p. 3.<lb/>
+ &quot;Special and Large Auction Sale,&quot;  <hi rend="italic">The Louisville Daily Journal</hi>, (Louisville, KY), January 22, 1863, p. 3.<lb/>
+&quot;Pneumonia Fatal to Aged Retired Merchant,&quot;  <hi rend="italic">The Courier-Journal</hi>, (Louisville, KY), February 9, 1912, p. 4.<lb/>
+ <hi rend="italic">Louisville City Directory and Business Mirror for 1858-9,</hi> (Louisville: Hurd &amp; Burrows, 1859), 95.<lb/>
+ <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 135.<lb/>
+&quot;Leon Kahn (1832-1912),&quot; Find A Grave, Memorial 67366548 , accessed July 7, 2023, http://www.findagrave.com/memorial/67366548.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
