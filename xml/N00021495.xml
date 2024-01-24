@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021495">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Jean Victor Marie Moreau</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniel Farrell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021495">
+                    <persName>
+                      Jean Victor Marie Moreau
+                        (France, Napoleonic-era General.)
+                    </persName>
+                        <event type="birth"  when="1763-02-14"  ><ab>1763-02-14</ab></event>
+                        <event type="death"  when="1813-10-02"  ><ab>1813-10-02</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>France, Napoleonic-era General. Native of France. Married to Eugénie Hulot in Paris on November 9, 1800. Served as Brigadier General and General for the First French Republic from December 20, 1793, to December 25, 1800. Arrested in 1804 for plotting to overthrow the First Consul. Exiled to the United States in 1804. Served in the Russian army as a General from August 17, 1813, until August 27, 1813. Mortally wounded at the Battle of Dresden on August 27, 1813.</p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;Moreau, Jean-Victor,&quot; Foundation Napoleon, accessed January 23, 2024, https://www.napoleon.org/en/history-of-the-two-empires/biographies/moreau-jean-victor/ 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
