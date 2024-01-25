@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0032"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -66,23 +74,23 @@
    <p><note place="header">151</note></p>
 <p><date when="1860">1860</date> Executive Journal </p>
 <p><date when="1860-12-14">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 14</date> 
-<lb/>The Governor approved to Capt S. Goins an account of &#36;50. for services at State Arsenal, certified as correct by the Q<hi rend="underline"><hi rend="sup">r</hi></hi> M<hi rend="underline"><hi rend="sup">r</hi></hi> General</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> approved to Capt <persName ref="cwgk:N00009355">S. Goins</persName> an account of $50. for services at <orgName ref="cwgk:O00010811">State Arsenal</orgName>, certified as correct by the <persName ref="cwgk:N00002598">Q<hi rend="underline"><hi rend="sup">r</hi></hi> M<hi rend="underline"><hi rend="sup">r</hi></hi> General</persName></p>
 <p>He remitted the following Judgments, to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>Carroll Cir. Ct vs. Tho Dugan -- </cell>
-	<cell>&#36;50. -- </cell>
+	<cell><orgName ref="cwgk:O00000365">Carroll Cir. Ct</orgName> vs. <persName ref="cwgk:N00002571">Tho Dugan</persName> -- </cell>
+	<cell>$50. -- </cell>
 	<cell>Selling liquor to a minor</cell>
 </row>
 <row>
-	<cell>Trimble Co " " J H. Lane</cell>
-	<cell>&#36;19 -- </cell>
+	<cell><orgName ref="cwgk:O00000720">Trimble Co</orgName> " " <persName ref="cwgk:N00001512">J H. Lane</persName></cell>
+	<cell>$19 -- </cell>
 	<cell>Breach of the peace.</cell>
 </row>
 </table></p>
-<p>He accepted and caused to be filed the resignation of W. L. Clarke First Lieutenant of the Natural Blues.</p>
-<p>He commissioned the officers of the Enrolled Militia for the county of Monroe, duly elected.</p>
-<p>He appointed F T Fox Jr a Notary Public for Boyle county until the end of the next session of the General Assembly</p>
+<p>He accepted and caused to be filed the resignation of <persName ref="cwgk:N00021301">W. L. Clarke</persName> First Lieutenant of the <orgName ref="cwgk:O00000916">Natural Blues.</orgName></p>
+<p>He commissioned the officers of the Enrolled Militia for the county of <placeName ref="cwgk:P00008528">Monroe</placeName>, duly elected.</p>
+<p>He appointed <persName ref="cwgk:N00002352">F T Fox Jr</persName> a Notary Public for <placeName ref="cwgk:P00002353">Boyle county</placeName> until the end of the next session of the <orgName ref="cwgk:O00000923">General Assembly</orgName></p>
   </body>
  </text>
 </TEI>
