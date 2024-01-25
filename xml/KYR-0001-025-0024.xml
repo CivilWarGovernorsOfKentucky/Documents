@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0024"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,7 +68,7 @@
  <text>
   <body>
    <p><date when="1860-12-04">4</date> 
-<lb/>The Governer approved an account of &#36;467.<hi rend="sup">75</hi>/<hi rend="sub">100</hi> to the Commonwealths office for printing sundry offers of Reward and Proclamations by the Governor certified by the Assistant Secretary as correct.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governer</persName> approved an account of $467.<hi rend="sup">75</hi>/<hi rend="sub">100</hi> to <orgName ref="cwgk:O00006282">the Commonwealth</orgName>s office for printing sundry offers of Reward and Proclamations by the Governor certified by the <persName ref="cwgk:N001778">Assistant Secretary</persName> as correct.</p>
   </body>
  </text>
 </TEI>
