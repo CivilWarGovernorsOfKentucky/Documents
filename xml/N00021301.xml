@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021301">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Logan Clarke</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021301">
+                    <persName>
+                      William Logan Clarke
+                        (Louisville, Kentucky, clerk and soldier (C.S.A.))
+                    </persName>
+                        <event type="birth"  when="1838"  ><ab>1838</ab></event>
+                        <event type="death"  when="1895-01-19"  ><ab>1895-01-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Jefferson County, Kentucky, clerk and soldier. Kentucky native. Son of Charles Clarke and Jane L. Clarke. Married to Sarah Helms Clarke in Barren County, Kentucky, on December 16, 1862. Father of W.H. Clarke. Attended school in Louisville, Kentucky, in 1850. Household owned five enslaved persons in Louisville in 1850. Custom house clerk in Louisville in 1860. Owned one enslaved person in Louisville in 1860. Household owned five enslaved persons in Louisville in 1860. Served in the National Blues, Kentucky State Militia, as a first lieutenant in 1860. Served in the 6th Kentucky Volunteer Infantry Regiment (C.S.A.) as a first lieutenant and lieutenant colonel from October 7, 1861 to May 3, 1865. Wounded at the Battle of Stone&#39;s River in Rutherford County, Tennessee, in December 1862. Wounded at the Battle of New Hope Church in Paulding County, Georgia, on May 27, 1864. Hospitalized in Richmond County from May 1864 to January 1865. Signed a loyalty oath to the U. S. government on May 14, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 349B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 865.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 531.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 287A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jefferson County, Louisville, p. 271B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 5, p. 545A. <lb/>
+“Clarke, William,” <hi rend="italic">Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0115.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Barren County Marriages, Film 000216816.<lb/>
+<hi rend="italic">Tennessee Death Records, 1908-1958</hi>, Tennessee State Library and Archives, Nashville, TN, Davidson County Death Certificates, File 146.<lb/>
+&quot;William Logan Clarke (1838-1895),&quot; Find A Grave, Memorial 148685735, accessed January 3, 2023, http://www.findagrave.com/memorial/148685735.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
