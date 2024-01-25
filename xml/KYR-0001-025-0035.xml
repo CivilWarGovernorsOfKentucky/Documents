@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0035"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,7 +72,7 @@
  <text>
   <body>
    <p><date when="1860-12-20">20</date> 
-<lb/>The Governor remitted to Rolly Watsen a Judgment of the Morgan Circuit Court of &#36;250. upon a forfeited recognizance</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> remitted to <persName ref="cwgk:N00021297">Rolly Watsen</persName> a Judgment of the <orgName ref="cwgk:O00000434">Morgan Circuit Court</orgName> of $250. upon a forfeited recognizance</p>
   </body>
  </text>
 </TEI>
