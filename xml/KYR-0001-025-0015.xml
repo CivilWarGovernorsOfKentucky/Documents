@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0015"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,7 +72,7 @@
  <text>
   <body>
    <p><date when="1860-11-21">21</date> 
-<lb/>The Governor caused to be filed the Oath of G. E. Harris. Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deedss for Mississippi</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> caused to be filed the Oath of <persName ref="cwgk:N00001750">G. E. Harris</persName>. Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deedss for <placeName ref="cwgk:P00000918">Mississippi</placeName></p>
   </body>
  </text>
 </TEI>
