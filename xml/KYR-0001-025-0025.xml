@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0025"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -66,8 +74,8 @@
    <p><note place="header">148</note></p>
 <p><date when="1860">1860</date> Executive Journal</p>
 <p><date when="1860-12-05">Dec. 5</date> 
-<lb/>The Governor caused to be filed the Oath of Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Abraham Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for Ohio</p>
-<p>He approved an account of &#36;12. to W. P. Jones and one of &#36;12 to Sanford Goin for work done at State Arsenal certified to be correct by the Q<hi rend="sup">r</hi> M<hi rend="underline"><hi rend="sup">r</hi></hi> General</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> caused to be filed the Oath of <persName ref="cwgk:N00001875">Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Abraham</persName> Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for <placeName ref="cwgk:P001036">Ohio</placeName></p>
+<p>He approved an account of $12. to <persName ref="cwgk:N00021291">W. P. Jones</persName> and one of $12 to <persName ref="cwgk:N00009355">Sanford Goin</persName> for work done at <orgName ref="cwgk:O00010811">State Arsenal</orgName> certified to be correct by the <persName ref="cwgk:N00002598">Q<hi rend="sup">r</hi> M<hi rend="underline"><hi rend="sup">r</hi></hi> General</persName></p>
   </body>
  </text>
 </TEI>
