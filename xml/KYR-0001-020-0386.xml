@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0386"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,23 +71,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>Princeton Caldwell Co Ky
+   <p><placeName ref="cwgk:P00002273">Princeton</placeName> <placeName ref="cwgk:P00002472">Caldwell Co</placeName> <placeName ref="cwgk:P001800">Ky</placeName>
 <lb/><date when="1861-01-26">Jany 26 1861</date>
-<lb/>Hon Beriah M<hi rend="sup">c</hi>Goffin
-<lb/>Frankfort Ky</p>
-<p>D<hi rend="sup">r</hi> Sir Petitions have been circulated in Caldwell Trigg, Lyon &amp; Christian counties praying for the pardon of Tho<hi rend="underline"><hi rend="sup">s</hi></hi> B Wadlington who was convicted at the last term of the Caldwell Circuit Court of the murder of Milton, A, Cartwright -- the said petitions have been gotten up secretely in order to forestall public opinion in Caldwell County, representing that the persons signing said petition are citizens of Caldwell Co when in fact they are citizens of other Counties -- unfa<hi rend="str">f</hi>miliar with the facts of the case and circumstances attending the Killing of "Cartwright" we desire to remonstrate against the pardon of T. B. Wadlington and are apprehensive that the Petitions will reach you before<pb/>
+<lb/>Hon <persName ref="cwgk:N00000258">Beriah M<hi rend="sup">c</hi>Goffin</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky</p>
+<p>D<hi rend="sup">r</hi> Sir Petitions have been circulated in Caldwell <placeName ref="cwgk:P00000549">Trigg</placeName>, <placeName ref="cwgk:P00002081">Lyon</placeName> &amp; <placeName ref="cwgk:P00001918">Christian</placeName> counties praying for the pardon of <persName ref="cwgk:N00011764">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> B Wadlington</persName> who was convicted at the last term of the <orgName ref="cwgk:O00000363">Caldwell Circuit Court</orgName> of the murder of <persName ref="cwgk:N00011760">Milton, A, Cartwright</persName> -- the said petitions have been gotten up secretely in order to forestall public opinion in Caldwell County, representing that the persons signing said petition are citizens of Caldwell Co when in fact they are citizens of other Counties -- unfa<hi rend="str">f</hi>miliar with the facts of the case and circumstances attending the Killing of "Cartwright" we desire to remonstrate against the pardon of T. B. Wadlington and are apprehensive that the Petitions will reach you before<pb/>
 <lb/>we can send a remonstrance </p>
 <p>We hope therefore you will withhold any action or opinion until we can obtain a remonstrance of the people of <hi rend="underline">Caldwell Co</hi> who are of opinion that, the finding of the Jury and the judgment of the Court are correct and that Wadlington justly deserves the punishment due to his crime we will send a remonstrance in a few days</p>
 <p>Yours very Respy
-<lb/>E, P,, Campbell Comth atty
-<lb/>J, P, Gracey
-<lb/>L, J, Cartwright
-<lb/>E R Farrow
-<lb/>W<hi rend="sup">m</hi> O'Hara
-<lb/>A, C, Black
-<lb/>R H Lander
-<lb/>P, Barnes
-<lb/>W<hi rend="sup">m</hi> Cash</p>
+<lb/><persName ref="cwgk:N00002633">E, P,, Campbell</persName> <orgName ref="cwgk:O001025">Comth</orgName> atty
+<lb/><persName ref="cwgk:N00014908">J, P, Gracey</persName>
+<lb/><persName ref="cwgk:N00014371">L, J, Cartwright</persName>
+<lb/><persName ref="cwgk:N00014909">E R Farrow</persName>
+<lb/><persName ref="cwgk:N00011762">W<hi rend="sup">m</hi> O'Hara</persName>
+<lb/><persName ref="cwgk:N00014910">A, C, Black</persName>
+<lb/><persName ref="cwgk:N00021138">R H Lander</persName>
+<lb/><persName ref="cwgk:N00015827">P, Barnes</persName>
+<lb/><persName ref="cwgk:N00014503">W<hi rend="sup">m</hi> Cash</persName></p>
   </body>
  </text>
 </TEI>
