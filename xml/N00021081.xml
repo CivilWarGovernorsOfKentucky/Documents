@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021081">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Albert Seaton Berry</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021081">
+                    <persName>
+                      Albert Seaton Berry
+                        (Campbell County, KY, attorney and soldier)
+                    </persName>
+                        <event type="birth"  when="1836-05-13"  ><ab>1836-05-13</ab></event>
+                        <event type="death"  when="1908-01-06"  ><ab>1908-01-06</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Campbell County, Kentucky, attorney and soldier. Campbell County, Kentucky, native. Son of James Taylor Berry and Elizabeth Wise Berry. Graduated from Miami University in Butler County, Ohio, in 1855. Graduated from the Cincinnati Law School in Cincinnati in 1858. Attended school in Campbell County, Kentucky, in 1850. Household owned four enslaved persons in Campbell County in 1850. Attorney in Campbell County in 1860. Household owned one enslaved person in Campbell County in 1860. Served in the 13th Kentucky Volunteer Cavalry Regiment (C.S.A.) as a private from 1862 to 1863. Served in the Confederate States Marine Corps as a second lieutenant from February 14, 1863, to April 6, 1865. Captured at the Battle of Sailor&#39;s Creek, Prince Edward County, Virginia, on April 6, 1865. Prisoner of war at Old Capitol Prison, Washington, D.C, and Johnson&#39;s Island, Erie County, Ohio, from April 1865 to June 5, 1865. Signed a loyalty oath to the U.S. government on July 1, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Campbell County, District 2, p. 149A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Campbell County, District 2, p. 883.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Campbell County, Newport, p. 597.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Campbell County, Newport, p. 237A.<lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0065.<lb/>
+<hi rend="italic">Confederate Applications for Pardon and Amnesty</hi>, NARA RG 94, Microfilm Series M1003, Roll 0025.<lb/>
+Ralph W. Donnelly, <hi rend="italic">The Confederate States Marine Corps: The Rebel Leathernecks</hi> (Shippensburg, PA: Whine Mane Pub. Co., 1989), 237.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
