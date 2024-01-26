@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0387"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Beriah Magoffin,
-<lb/>GOVERNOR OF THE COMMONWEALTH OF KENTUCKY,
+   <p><persName ref="cwgk:N00000258">Beriah Magoffin</persName>,
+<lb/>GOVERNOR OF THE <orgName ref="cwgk:O001025">COMMONWEALTH OF KENTUCKY</orgName>,
 <lb/>TO ALL WHO SHALL SEE THESE PRESENTS, GREETING:</p>
-<p>WHEREAS, A judgment has been rendered by the Estill Circuit Court for &#36;50 &amp; Six months imprisoment in the County Jail -- against Anderson Tyre, for "Malicious Stabbing" AND WHEREAS, It appears from satisfactory evidence that the case of said A Tyre presents strong considerations for interposition and indulgence of the Executive:</p>
+<p>WHEREAS, A judgment has been rendered by the <orgName ref="cwgk:O00000375">Estill Circuit Court</orgName> for $50 &amp; Six months imprisoment in the <orgName ref="cwgk:O00021140">County Jail</orgName> -- against <persName ref="cwgk:N00021139">Anderson Tyre</persName>, for "Malicious Stabbing" AND WHEREAS, It appears from satisfactory evidence that the case of said A Tyre presents strong considerations for interposition and indulgence of the Executive:</p>
 <p>Now, Know Ye, That in consideration of the premises, and by virtue of the power vested in me by the Constitutiuon, I have thought proper to RESPITE, and do, by these presents, stay and respite the collection of said judgement except fees &amp; costs for the term of twelve months from the date hereof; and do hereby enjoin all officers to respect this RESPITE, and govern themselves accordingly.</p>
-<p><figure type="seal"><ab>SEAL OF KENTUCKY
+<p><figure type="seal"><ab>SEAL OF <placeName ref="cwgk:P001800">KENTUCKY</placeName>
 <lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
-<p>In Testimony Whereof, I have hereunto set my hand, and caused the Seal of the Commonwealth to be affixed, at FRANKFORT, on the <date when="1859-11-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> day of Nov, in the year of our Lord one thousand eight hundred and fifty nine</date>, and in the 68<hi rend="underline"><hi rend="sup">th</hi></hi> year of the Commonwealth.</p>
+<p>In Testimony Whereof, I have hereunto set my hand, and caused the Seal of the Commonwealth to be affixed, at <placeName ref="cwgk:P00000308">FRANKFORT</placeName>, on the <date when="1859-11-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> day of Nov, in the year of our Lord one thousand eight hundred and fifty nine</date>, and in the 68<hi rend="underline"><hi rend="sup">th</hi></hi> year of the Commonwealth.</p>
 <p>BY THE GOVERNOR:
 <lb/>B. Magoffin</p>
-<p>Tho. B Monroe Jr SECRETARY OF STATE.
-<lb/>By Ja<hi rend="sup">s</hi> W Tate Asst. Secy<figure type="hr"/></p>
-<p>"Yeoman" Office -- J. B. MAJOR, State Printer.<pb/></p>
+<p><persName ref="cwgk:N00002581">Tho. B Monroe Jr</persName> SECRETARY OF STATE.
+<lb/>By <persName ref="cwgk:N00001223">Ja<hi rend="sup">s</hi> W Tate</persName> Asst. Secy<figure type="hr"/></p>
+<p>"<orgName ref="cwgk:O00015519">Yeoman</orgName>" Office -- <persName ref="cwgk:N00003956">J. B. MAJOR</persName>, State Printer.<pb/></p>
 <p>Estill Cir. Ct
-<lb/>&#36;50. &amp; 6 Mo. Impt.</p>
+<lb/>$50. &amp; 6 Mo. Impt.</p>
 <p>Remitted
 <lb/>B. M</p>
 <p>Anderson Tyre
