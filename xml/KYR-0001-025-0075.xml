@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0075"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,29 +72,29 @@
  <text>
   <body>
    <p><date when="1861-02-13">13</date> 
-<lb/>The Governor commissioned Theodore Kuiven Mayor of Jamestown, (campbell county)</p>
-<p>He commissioned W. H. Wilson Police Judge of the town of Williamsburg.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> commissioned <persName ref="cwgk:N00006874">Theodore Kuiven</persName> Mayor of <placeName ref="cwgk:P00006910">Jamestown</placeName>, (<placeName ref="cwgk:P00001874">campbell county</placeName>)</p>
+<p>He commissioned <persName ref="cwgk:N00021327">W. H. Wilson</persName> Police Judge of the town of <placeName ref="cwgk:P00007583">Williamsburg</placeName>.</p>
 <p>He appointed the following Justices of the Peace</p>
 <p><table rend="rules">
 <row>
-	<cell>Greenup Co. Dist N<hi rend="underline"><hi rend="sup">o</hi></hi> 3.</cell>
-	<cell>Jese. Moore vice S. S. Smith</cell>
+	<cell><placeName ref="cwgk:P001759">Greenup Co.</placeName> Dist N<hi rend="underline"><hi rend="sup">o</hi></hi> 3.</cell>
+	<cell><persName ref="cwgk:N00002470">Jese. Moore</persName> vice <persName ref="cwgk:N00002469">S. S. Smith</persName></cell>
 </row>
 <row>
-	<cell>Caldwell " " " 1</cell>
-	<cell>J B. Sasseen " M. Dudley</cell>
+	<cell><placeName ref="cwgk:P00002472">Caldwell</placeName> " " " 1</cell>
+	<cell><persName ref="cwgk:N00002474">J B. Sasseen</persName> " <persName ref="cwgk:N00002473">M. Dudley</persName></cell>
 </row>
 <row>
-	<cell>Trigg " " " 4</cell>
-	<cell>W. S. Watwood</cell>
+	<cell><placeName ref="cwgk:P00000549">Trigg</placeName> " " " 4</cell>
+	<cell><persName ref="cwgk:N00002461">W. S. Watwood</persName></cell>
 </row>
 <row>
-	<cell>Shelby " " " 5</cell>
-	<cell>W. A. M<hi rend="sup">c</hi>Dowel " H. B. Oliver,</cell>
+	<cell><placeName ref="cwgk:P001013">Shelby</placeName> " " " 5</cell>
+	<cell><persName ref="cwgk:N00002453">W. A. M<hi rend="sup">c</hi>Dowel</persName> " <persName ref="cwgk:N00002451">H. B. Oliver</persName>,</cell>
 </row>
 </table></p>
-<p>He remitted to Tho. J Smith a Judgment of the Washington Circuit Court of &#36;65. for carrying concealed Weapons</p>
-<p>He approved an account of &#36;2<hi rend="underline"><hi rend="sup">70</hi></hi> to Robb &amp; Dehoney for articles furnished the Secretary's Office</p>
+<p>He remitted to <persName ref="cwgk:N00021328">Tho. J Smith</persName> a Judgment of the <orgName ref="cwgk:O00000587">Washington Circuit Court</orgName> of $65. for carrying concealed Weapons</p>
+<p>He approved an account of $2<hi rend="underline"><hi rend="sup">70</hi></hi> to <persName ref="cwgk:N00009268">Robb</persName> &amp; <persName ref="cwgk:N00009267">Dehoney</persName> for articles furnished the <orgName ref="cwgk:O00012489">Secretary's Office</orgName></p>
   </body>
  </text>
 </TEI>
