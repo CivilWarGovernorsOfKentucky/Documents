@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021333">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George W. Johnson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021333">
+                    <persName>
+                      George W. Johnson
+                        (Louisville, Kentucky, (traveling) methodist minister)
+                    </persName>
+                        <event type="birth"  when="1832"  ><ab>1832</ab></event>
+                        <event type="death"  when="1903"  ><ab>1903</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, Methodist minister. Pennsylvania native. Married to Eveline Hutchins Johnson in Mason County, Kentucky, on March 19, 1861. Father of Edward S. Johnson. Charged with breach of peace in the Magoffin County Court in 1860. Remitted by Governor Beriah Magoffin on January 26, 1861. Minister in Mason County in 1861. Methodist minister in Louisville, Kentucky, in 1865. Served in the 12th Kentucky Volunteer Infantry Regiment (U.S.A.) as chaplain from December 19, 1864, to July 11, 1865. Served in the 13th United States Colored Heavy Artillery Regiment as chaplain from August 18, 1865, to November 18, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Stark County, Alliance, p. 313B. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994048, Mason County, Marriages, p. <lb/>
+“Johnson, George W.,” <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0257.<lb/>
+&quot;Johnson, George W.,” <hi rend="italic">Compiled Military Service Records of Volunteer Union Soldiers Who Served in United States Colored Troops: Artillery Organizations, 1861-1865</hi>, NARA RG 94, Roll 0254. <lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Kentucky, Roll 244, Application 893679, Certificate 663887.<lb/>
+&quot;Rev. George W. Johnson (1832-1906),&quot; Find A Grave, Memorial 67305617 accessed January 26, 2024, http://www.findagrave.com/memorial/67305617.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
