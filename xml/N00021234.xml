@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021234">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Adam Reinbold</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021234">
+                    <persName>
+                      Adam Reinbold
+                        (Louisville, Kentucky, tavernkeeper )
+                    </persName>
+                        <event type="birth"  when="1836"  cert="medium" ><ab>c1836</ab></event>
+                        <event type="death"  when="1895-06-17"  ><ab>1895-06-17</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, tavernkeeper. Native of Prussia. Married to Theresa Woldenmeyer Reinbold in Jefferson County, Kentucky, on August 29, 1858. Father of William Reinbold and Benjamin Reinbold. Barkeeper in Louisville, Kentucky, in 1858. Barkeeper in Louisville in 1859. Tavernkeeper in Louisville from 1860 to 1864. Tavernkeeper in partnership with Phillip Jacobs in Louisville in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 20B.<lb/>
+<hi rend="italic">Birth and Death Records: Covington, Lexington, Louisville, and Newport (before 1911)</hi>, KDLA, Frankfort, KY, Roll 7007129: Jefferson County Books 9-11, Book 9, p. 53.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Jefferson County Marriages, Film 000482708.<lb/>
+<hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 11, Jefferson County, Kentucky, 1862.<lb/>
+&quot;Lunch at the Eldorado Exchange,&quot; <hi rend="italic">The Louisville Daily Journal</hi> (Louisville, KY), September 24, 1860, p. 2. <lb/>
+&quot;Board of Common Council,&quot; <hi rend="italic">The Louisville Daily Journal</hi> (Louisville, KY), March 19, 1863, p. 4. <lb/>
+<hi rend="italic">J.D. Campbell&#39;s Louisville Business Directory for 1864,</hi> (Louisville: L.A. Civill, 1864), 266.<lb/>
+<hi rend="italic">Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</hi> (Louisville: Edwards, Greenough &amp; Deved, 1866), 492.<lb/>
+<hi rend="italic">Louisville City Directory and Business Mirror for 1858-9,</hi> (Louisville: Hurd &amp; Burrows, 1859), 143.<lb/>
+ <hi rend="italic">Tanner&#39;s Louisville City Directory and Business Advertiser for 1859-1860</hi> (Louisville: Maxwell &amp; Company, 1859), 191.<lb/>
+<hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 203.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
