@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020995">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Owen Corrigan</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020995">
+                    <persName>
+                      Owen Corrigan
+                        (Louisville, Kentucky, carpenter)
+                    </persName>
+                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
+                        <event type="death"  when="1892-08-12"  ><ab>1892-08-12</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, carpenter. Native of Ireland. Married to Ann O&#39;Laughlin Corrigan. Father of Susan Carrigan and Sarah Carrigan. Married to Catherine Milly Corrigan in Washington, D.C., on July 5, 1853. Father of William Corrigan, Mary C. Corrigan, Ellen Corrigan, Margaret Corrigan, Owen J. Corrigan, Bernard Corrigan, and Francis Corrigan. Immigrated to the United States in 1848. House carpenter in Philadelphia, Pennsylvania, in 1850. Carpenter in Louisville, Kentucky, in 1860. Carpenter in Louisville in 1861. Carpenter in Louisville in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Pennsylvania, Philadelphia, Moyamensing Ward 1, p. 167B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 2, p. 461. <lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 1, p. 416B.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Jefferson County, KY, July 1863, p. 90.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994041, Jefferson County Deaths.<lb/>
+&quot;Thomas J. Corrigan,&quot; <hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 18224.<lb/>
+<hi rend="italic">New York, U.S. Arriving Passenger and Crew Lists, 1820-1957</hi>, Passenger Arrival Lists (1817-1897), NARA Series M237, RG 85, Ship <hi rend="italic">Enterprise</hi>, 1848. <lb/>
+_Washington, D.C., Marriages, Genealogical Society of Salt Lake City, Salt Lake City, UT, Washington, D.C. Marriages, Film 24339213.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
