@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0042"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,22 +72,22 @@
  <text>
   <body>
    <p><date when="1861-01-02">2</date> 
-<lb/>The Governor approved the following accounts, to wit:</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> approved the following accounts, to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>Lou &amp; Frkft R. R freight on 1 Cannon</cell>
-	<cell>&#36;5.<hi rend="underline">50</hi></cell>
+	<cell><orgName ref="cwgk:O00010775">Lou &amp; Frkft R. R</orgName> freight on 1 Cannon</cell>
+	<cell>$5.<hi rend="underline">50</hi></cell>
 </row>
 <row>
-	<cell>Q<hi rend="underline"><hi rend="sup">r</hi></hi> Master Gen<hi rend="underline"><hi rend="sup">l</hi></hi>'s Postage account</cell>
+	<cell><persName ref="cwgk:N00002598">Q<hi rend="underline"><hi rend="sup">r</hi></hi> Master Gen<hi rend="underline"><hi rend="sup">l</hi></hi></persName>'s Postage account</cell>
 	<cell>5.</cell>
 </row>
 <row>
-	<cell>Steamer Doves' freight on arms shiped to S<hi rend="sup">t</hi> Louis</cell>
+	<cell>Steamer <orgName ref="cwgk:O00021516">Dove</orgName>s' freight on arms shiped to <placeName ref="cwgk:P00003268">S<hi rend="sup">t</hi> Louis</placeName></cell>
 	<cell>19.20</cell>
 </row>
 <row>
-	<cell>John Haly repairs at Auditors office</cell>
+	<cell><persName ref="cwgk:N00006827">John Haly</persName> repairs at <persName ref="cwgk:N00000466">Auditor</persName>s office</cell>
 	<cell>33.39</cell>
 </row>
 <row>
@@ -91,10 +99,10 @@
 	<cell>16.36.</cell>
 </row>
 </table></p>
-<p>He commissioned the following Majors for Clinton County W<hi rend="underline"><hi rend="sup">m</hi></hi> C. Wood and W<hi rend="underline"><hi rend="sup">m</hi></hi> Morrison</p>
-<p>Also Ja<hi rend="underline"><hi rend="sup">s</hi></hi> A. Hawkins, Paymaster, Geo. N Mathews Quarter Master, Geo. W. Goodman, Surgeon of Anderson County</p>
-<p>He issued a Requisition on the Governor of Indiana for Isaac Rosenbaum, under an indictment in the Jefferson Circuit Court for Felony and appointed Rob<hi rend="sup">t</hi> A. Seay, Agent.</p>
-<p>He approved the Constitution and By-laws of the Bozzan's Grays a Military Company of Germantown under modifcations made by Inspector General.</p>
+<p>He commissioned the following Majors for <placeName ref="cwgk:P001032">Clinton County</placeName> <persName ref="cwgk:N00021503">W<hi rend="underline"><hi rend="sup">m</hi></hi> C. Wood</persName> and <persName ref="cwgk:N00021504">W<hi rend="underline"><hi rend="sup">m</hi></hi> Morrison</persName></p>
+<p>Also <persName ref="cwgk:N00021514">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> A. Hawkins</persName>, Paymaster, <persName ref="cwgk:N00003483">Geo. N Mathews</persName> Quarter Master, <persName ref="cwgk:N00021515">Geo. W. Goodman</persName>, Surgeon of <placeName ref="cwgk:P00003188">Anderson County</placeName></p>
+<p>He issued a Requisition on the <persName ref="cwgk:N00001754">Governor</persName> of <orgName ref="cwgk:O00002499">Indiana</orgName> for <persName ref="cwgk:N00015078">Isaac Rosenbaum</persName>, under an indictment in the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> for Felony and appointed <persName ref="cwgk:N00015080">Rob<hi rend="sup">t</hi> A. Seay</persName>, Agent.</p>
+<p>He approved the Constitution and By-laws of the <orgName ref="cwgk:O00000916">Bozzan's Grays</orgName> a Military Company of <placeName ref="cwgk:P00001050">Germantown</placeName> under modifcations made by <persName ref="cwgk:N00002592">Inspector General</persName>.</p>
   </body>
  </text>
 </TEI>
