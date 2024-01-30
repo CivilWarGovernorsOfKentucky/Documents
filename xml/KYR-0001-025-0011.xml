@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0011"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,22 +72,22 @@
  <text>
   <body>
    <p><date when="1860-11-16">16</date> 
-<lb/>The Governor approved an account to W. A. Gale for &#36;16.<hi rend="sup">75</hi>/<hi rend="sub">100</hi> on work done for the State certified by the Librarian as correct</p>
-<p>He commissioned the officers of the Enrolled Militia for Letcher county, duly elected.<pb/></p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> approved an account to <persName ref="cwgk:N00020989">W. A. Gale</persName> for $16.<hi rend="sup">75</hi>/<hi rend="sub">100</hi> on work done for the <orgName ref="cwgk:O001025">State</orgName> certified by the <persName ref="cwgk:N00001596">Librarian</persName> as correct</p>
+<p>He commissioned the officers of the <orgName ref="cwgk:O00000916">Enrolled Militia</orgName> for <placeName ref="cwgk:P00005320">Letcher county</placeName>, duly elected.<pb/></p>
 <p><note place="header">144</note></p>
 <p><date when="1860">1860</date> Executive Journal</p>
-<p><date when="1860-11-16">>Nov 16</date> 
-<lb/>The Governor issued a requisition on Missouri for the apprehension of Jno R. R. Watkins charged with obtaining money under false pretenses</p>
+<p><date when="1860-11-16">&gt;Nov 16</date> 
+<lb/>The Governor issued a requisition on <placeName ref="cwgk:P00001883">Missouri</placeName> for the apprehension of <persName ref="cwgk:N00005065">Jno R. R. Watkins</persName> charged with obtaining money under false pretenses</p>
 <p>He respited for twelve months the following Judgments</p>
 <p><table rend="rules">
 <row>
-	<cell>Mason Cir. Ct vs I Canghlen &amp; Wife -- </cell>
-	<cell>2 Judgts each <hi rend="underline">&#36;50</hi>.</cell>
+	<cell><orgName ref="cwgk:O00000426">Mason Cir. Ct</orgName> vs <persName ref="cwgk:N00020996">I Canghlen</persName> &amp; <persName ref="cwgk:N00020997">Wife</persName> -- </cell>
+	<cell>2 Judgts each <hi rend="underline">$50</hi>.</cell>
 	<cell>selling liquor to slave</cell>
 </row>
 <row>
-	<cell>Louisville City " " A Mason -- </cell>
-	<cell>&#36;500 -- </cell>
+	<cell><orgName ref="cwgk:O001838">Louisville City</orgName> " " <persName ref="cwgk:N00020998">A Mason</persName> -- </cell>
+	<cell>$500 -- </cell>
 	<cell>Faro. -- </cell>
 </row>
 </table></p>
