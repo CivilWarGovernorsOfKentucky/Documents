@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0038"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniel Farrell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lebanon Ky. <date when="1862-02-03">Feb 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1862</date>
+   <p><placeName ref="cwgk:P00002553">Lebanon Ky</placeName>. <date when="1862-02-03">Feb 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1862</date>
 <lb/>Dear, Sir:</p>
-<p>I have seen Dr. Pinkerton he is perfectly unwell so much so as to be entirely unable to follow the Reg<hi rend="sup">t</hi>.You shall have the appointment. You can join the Reg<hi rend="sup">t</hi>. immediately at Nashville Dr. Rodgers, is sick, at home leaving the Reg<hi rend="underline"><hi rend="sup">t</hi></hi> at this time totaly without a Physician</p>
+<p>I have seen <persName ref="cwgk:N00013193">Dr. Pinkerton</persName> he is perfectly unwell so much so as to be entirely unable to follow the Reg<hi rend="sup">t</hi>.You shall have the appointment. You can join the Reg<hi rend="sup">t</hi>. immediately at <placeName ref="cwgk:P001004">Nashville</placeName> <persName ref="cwgk:N00013194">Dr. Rodgers</persName>, is sick, at home leaving the Reg<hi rend="underline"><hi rend="sup">t</hi></hi> at this time totaly without a Physician</p>
 <p>If you decline the appointment to this position you will inform me immediately so that I can procure another</p>
 <p>Yours &amp;c
-<lb/>Col. W. E. Riley
-<lb/>11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Cav -- </p>
-<p>Dr. Peyton</p>
-<p>P. S. Address me at Haysville Marion Co Ky<pb/></p>
-<p>Theresa Peyton
-<lb/>John F Carter Jo
+<lb/><persName ref="cwgk:N00009438">Col. W. E. Riley</persName>
+<lb/><orgName ref="cwgk:O00005233">11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Cav</orgName> -- </p>
+<p><persName ref="cwgk:N00021489">Dr. Peyton</persName></p>
+<p>P. S. Address me at <placeName ref="cwgk:P00010541">Haysville</placeName> <placeName ref="cwgk:P00002413">Marion Co</placeName> Ky<pb/></p>
+<p><persName ref="cwgk:N00021493">Theresa Peyton</persName>
+<lb/><persName ref="cwgk:N00021494">John F Carter</persName> Jo
 <lb/>J Theresa Dear John
 <lb/>John F
 <lb/>Thers
@@ -86,8 +94,8 @@
 <lb/>John
 <lb/>Dear John, you come down to town
 <lb/>John Q<pb/></p>
-<p>Gen J. W. Finnell
-<lb/>Frankfort Ky</p>
+<p><persName ref="cwgk:N00000228">Gen J. W. Finnell</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName></p>
 <p>Colo. Riley of 11"
 <lb/>Recommending &amp;c<pb/></p>
 <p>11 Cav:<figure type="hr"/></p>
@@ -95,9 +103,9 @@
 <lb/>11th Ky Cavalry
 <lb/><date when="1863-03-22">22<hi rend="sup">nd</hi> March. 1863</date>
 <lb/>Residence Frankft
-<lb/>By order of Governor
+<lb/>By order of <persName ref="cwgk:N001004">Governor</persName>
 <lb/>Jno W Finnell
-<lb/>AjGenl</p>
+<lb/><orgName ref="cwgk:O00000388">AjGenl</orgName></p>
 <p>1 2 3 4 5 6 7 8 9 10</p>
 <p>Del<hi rend="underline"><hi rend="sup">d</hi></hi> to
 <lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> Peyton
