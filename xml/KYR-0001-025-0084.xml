@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0084"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,9 +72,9 @@
  <text>
   <body>
    <p><date when="1861-02-23">23</date> 
-<lb/>The Governor Commissioned the Captains, First Second and Third Lieutenants elected in the Enrolled Militia of the Counties of Ballard and Union.</p>
-<p>He pardoned Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Bridgeford convicted of the crime of Forgery by the Fayette Circuit Court and sentenced to two years Confinement in the Penitentiary</p>
-<p>He appointed Geo. Brobston an Aid to the Governor with the Rank of Colonel.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> Commissioned the Captains, First Second and Third Lieutenants elected in the <orgName ref="cwgk:O00000916">Enrolled Militia</orgName> of the Counties of <placeName ref="cwgk:P001035">Ballard</placeName> and <placeName ref="cwgk:P00001845">Union</placeName>.</p>
+<p>He pardoned <persName ref="cwgk:N00021563">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Bridgeford</persName> convicted of the crime of Forgery by the <orgName ref="cwgk:O00000377">Fayette Circuit Court</orgName> and sentenced to two years Confinement in the <orgName ref="cwgk:O00000266">Penitentiary</orgName></p>
+<p>He appointed <persName ref="cwgk:N00002506">Geo. Brobston</persName> an Aid to the Governor with the Rank of Colonel.</p>
 <p>
 <lb/></p>
   </body>
