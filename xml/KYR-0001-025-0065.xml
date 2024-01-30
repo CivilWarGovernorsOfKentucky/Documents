@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0065"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -66,7 +74,7 @@
    <p><note place="header">169</note></p>
 <p><date when="1861">1861</date> Executive Journal</p>
 <p><date when="1861-02-01">Feby 1</date> 
-<lb/>The Governor respited for twelve months sundry fines of the Danville Police Court against Tho<hi rend="sup">s</hi> Kelly amounting to &#36;35. for misdemeanors.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> respited for twelve months sundry fines of the <orgName ref="cwgk:O00013581">Danville Police Court</orgName> against <persName ref="cwgk:N00021295">Tho<hi rend="sup">s</hi> Kelly</persName> amounting to $35. for misdemeanors.</p>
 <p>He approved and signed enrolled bills Chapter 22 also enrolled resolution N<hi rend="sup">o</hi> 4.</p>
   </body>
  </text>
