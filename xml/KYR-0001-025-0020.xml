@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0020"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,9 +72,9 @@
  <text>
   <body>
    <p><date when="1860-11-27">27</date> 
-<lb/>The Governor appointed O. C. Curry a Justice of the Peace for Jefferson county Hays Spring District in place of J. Mills dec<hi rend="underline"><hi rend="sup">d</hi></hi></p>
-<p>He appointed James Ayres Jr. a Notary Public for Kenton County until the end of the next session of the General Assembly.</p>
-<p>He remitted to Indiana Clark adm<hi rend="underline"><hi rend="sup">r</hi></hi> of Young Clark Dec<hi rend="sup">d</hi> a Judgment of the Hickman Equity and Criminal Court of &#36;106. for a breach of the peace.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> appointed <persName ref="cwgk:N00001759">O. C. Curry</persName> a Justice of the Peace for <placeName ref="cwgk:P001005">Jefferson county</placeName> Hays Spring District in place of <persName ref="cwgk:N00001758">J. Mills</persName> dec<hi rend="underline"><hi rend="sup">d</hi></hi></p>
+<p>He appointed <persName ref="cwgk:N00006549">James Ayres Jr.</persName> a Notary Public for <placeName ref="cwgk:P00000937">Kenton County</placeName> until the end of the next session of the <orgName ref="cwgk:O00000923">General Assembly</orgName>.</p>
+<p>He remitted to <persName ref="cwgk:N00021269">Indiana Clark</persName> adm<hi rend="underline"><hi rend="sup">r</hi></hi> of <persName ref="cwgk:N00021268">Young Clark</persName> Dec<hi rend="sup">d</hi> a Judgment of the <orgName ref="cwgk:O00000406">Hickman Equity and Criminal Court</orgName> of $106. for a breach of the peace.</p>
   </body>
  </text>
 </TEI>
