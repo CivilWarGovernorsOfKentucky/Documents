@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00021610">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">State of Michigan</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00021610">
+                    <orgName>State of Michigan</orgName>
+                        <event type="begun"  when="1837-01-26"  ><ab>1837-01-26</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Administrative body of the state of Michigan. Capital at Lansing. Governors(s): Moses Wisner (January 5, 1859 - January 1, 1861), Austin Blair (January 2, 1861 - January 3, 1865), and Henry H. Crap (January 4, 1865 - January 5, 1869).</p>
+
+    </body>
+    <back>
+        <ab><bibl>Washington Gardner, <hi rend="italic">Official Directory and Legislative Manual of the State of Michigan for the Years 1895-96</hi>, 2nd edition (Lansing: Robert Smith &amp; Co., 1895), 146.<lb/>
+Charles Richard Tuttle, <hi rend="italic">General History of the State of Michigan</hi> (Detroit: R. D. S. Tyler &amp; Co, 1874).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
