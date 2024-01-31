@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021465">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Quintus Quincy Quigley</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021465">
+                    <persName>
+                      Quintus Quincy Quigley
+                        (McCracken County, KY, lawyer)
+                    </persName>
+                        <event type="birth"  when="1828-07-17"  ><ab>1828-07-17</ab></event>
+                        <event type="death"  when="1910-12-19"  ><ab>1910-12-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>McCracken County, Kentucky, lawyer. Henry County, Tennessee, native. Son of James B. Quigley and Martha Ogburn Quigley. Married to Mary E. Husbands Quigley in 1853. Father of Bruce Quigley, Isaac M. Quigley, Quintus S. Quigley, John H. Quigley, and Mary J. Quigley. Attorney in Ballard County, Kentucky, in 1850. Household owned twelve enslaved persons in Ballard County in 1850. Attorney in McCracken County in 1851. Member of the Board of Trustees for the incorporation of Paducah in 1856. Attorney in Paducah in 1860. Owned four enslaved persons in McCracken County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 305A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Ballard County, p. 133.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McCracken County, Paducah, p. 895.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, McCracken County, Paducah, p. 421B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, McCracken County, Precinct 3, p. 29B. <lb/>
+&quot;Col. Q. Q. Quigley Dean of Paducah Bar Passes Away,&quot; <hi rend="italic">The Paducah Evening Sun</hi> (Paducah, KY), December 19, 1910, p. 1.<lb/>
+&quot;Col Quintus Quincy Quigley (1828-1910),&quot; Find A Grave, Memorial 61627235, accessed January 19, 2024, http://www.findagrave.com/memorial/61627235.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
