@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0017"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,11 +72,11 @@
  <text>
   <body>
    <p><date when="1860-11-23">23</date> 
-<lb/>The Governor commissioned W. S. Dehoney captain in the Quarter Masters Department with the Rank of Captain.</p>
-<p>He respited for twelve months a judgment of a Justice of the Peace for Franklin county for &#36;30 against William Moore for a breach of the peace</p>
-<p>He commissioned the officers of the Enrolled Militia for the county of Johnson (duty elected)</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> commissioned <persName ref="cwgk:N00009267">W. S. Dehoney</persName> captain in the <orgName ref="cwgk:O00000389">Quarter Masters Department</orgName> with the Rank of Captain.</p>
+<p>He respited for twelve months a judgment of a <persName ref="cwgk:N00021618">Justice of the Peace</persName> for <placeName ref="cwgk:P001019">Franklin county</placeName> for $30 against <persName ref="cwgk:N00021262">William Moore</persName> for a breach of the peace</p>
+<p>He commissioned the officers of the <orgName ref="cwgk:O00000916">Enrolled Militia</orgName> for the county of <placeName ref="cwgk:P00002566">Johnson</placeName> (duty elected)</p>
 <p><hi rend="str">He issued commissiones to the officers of the following companies to wit:</hi></p>
-<p>He commissioned the following Justices of the Peace in and for Perry County William Stewart for District N<hi rend="sup">o</hi> 4 in place of John Holliday, and Roger Carnett in District N<hi rend="underline"><hi rend="sup">o</hi></hi> 6 in place of Hiram Pratt, removed from district</p>
+<p>He commissioned the following Justices of the Peace in and for <placeName ref="cwgk:P00001755">Perry County</placeName> <persName ref="cwgk:N00021258">William Stewart</persName> for District N<hi rend="sup">o</hi> 4 in place of <persName ref="cwgk:N00021259">John Holliday</persName>, and <persName ref="cwgk:N00021260">Roger Carnett</persName> in District N<hi rend="underline"><hi rend="sup">o</hi></hi> 6 in place of <persName ref="cwgk:N00021261">Hiram Pratt</persName>, removed from district</p>
   </body>
  </text>
 </TEI>
