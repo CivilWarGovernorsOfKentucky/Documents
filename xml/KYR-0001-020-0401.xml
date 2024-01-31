@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0401"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Logan Equity &amp; Criminal Court. <date when="1861-01">January Term 1861</date>.
-<lb/>The Commonwealth of Kentucky Plaintiff
-<lb/>against (3) &#125; Indictment Keeping a Tipling House.
-<lb/>M. M. Clark Defendant</p>
-<p>This day came the attorney for the Commonwealth, &amp; the defendant appeared &amp; acknowledged himself guilty of the offense charged in the indictment, it is therefore adjudged by the Court that the defendant make his fine to the Commonwealth by the payment of Sixty Dollars, &amp; that he pay the Cost of this prosecution &amp; it is ordered that a Capias pro fine issue therefor.</p>
-<p>A Copy -- Attest: Dan<hi rend="sup">l</hi> Morton
+   <p><orgName ref="cwgk:O00000419">Logan Equity &amp; Criminal Court</orgName>. <date when="1861-01">January Term 1861</date>.
+<lb/>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> Plaintiff
+<lb/>against (3) } Indictment Keeping a Tipling House.
+<lb/><persName ref="cwgk:N00021102">M. M. Clark</persName> Defendant</p>
+<p>This day came the <persName ref="cwgk:N00005301">attorney</persName> for the Commonwealth, &amp; the defendant appeared &amp; acknowledged himself guilty of the offense charged in the indictment, it is therefore adjudged by the Court that the defendant make his fine to the Commonwealth by the payment of Sixty Dollars, &amp; that he pay the Cost of this prosecution &amp; it is ordered that a Capias pro fine issue therefor.</p>
+<p>A Copy -- Attest: <persName ref="cwgk:N00021101">Dan<hi rend="sup">l</hi> Morton</persName>
 <lb/><hi rend="underline">Clerk of said Court.</hi></p>
 <p>Logan Equity &amp; Criminal Court, <date when="1861-01">January term 1861</date>.
 <lb/>The Commonwealth of Kentucky, Plaintiff
-<lb/>against (4) &#125; Indictment Keeping a Tipling House
+<lb/>against (4) } Indictment Keeping a Tipling House
 <lb/>M. M. Clark Defendant</p>
 <p>This day came the attorney for the Commonwealth &amp; the defendant appeared &amp; acknowledged himself guilty of the offense charged in the indictment, it is therefore adjudged by the Court that the defendant make his fine to the Commonwealth by the payment of Sixty dollars, &amp; that he pay the cost of this prosecution,. &amp; it is ordered that a Capias profine issue therefor, </p>
-<p>A Copy Attest M. B. Morton jr
+<p>A Copy Attest <persName ref="cwgk:N00021616">M. B. Morton jr</persName>
 <lb/>D C for Dan<hi rend="sup">l</hi> Morton Clerk, of Said Court</p>
   </body>
  </text>
