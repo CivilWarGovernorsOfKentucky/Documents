@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0026"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,8 @@
  <text>
   <body>
    <p><date when="186012-06">6</date> 
-<lb/>The Governor approved an account of &#36;2<hi rend="sup">50</hi>/<hi rend="sub">100</hi> to John Henderson for hauling Public Books &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> to State Arsenal</p>
-<p>He remitted any judgment that might be rendered in the M<hi rend="underline"><hi rend="sup">c</hi></hi>Cracken Equity and Criminal Court against Q. Q. Quigley as security upon the Bail Bonds of B. Pryor.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> approved an account of $2<hi rend="sup">50</hi>/<hi rend="sub">100</hi> to <persName ref="cwgk:N00021463">John Henderson</persName> for hauling Public Books &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> to <orgName ref="cwgk:O00010811">State Arsenal</orgName></p>
+<p>He remitted any judgment that might be rendered in the <orgName ref="cwgk:O00000429">M<hi rend="underline"><hi rend="sup">c</hi></hi>Cracken Equity and Criminal Court</orgName> against <persName ref="cwgk:N00021465">Q. Q. Quigley</persName> as security upon the Bail Bonds of <persName ref="cwgk:N00021464">B. Pryor</persName>.</p>
   </body>
  </text>
 </TEI>
