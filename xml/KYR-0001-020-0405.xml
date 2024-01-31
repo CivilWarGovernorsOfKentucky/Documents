@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0405"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Newport <date when="1861-01-16">January 16<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+   <p><placeName ref="cwgk:P00004717">Newport</placeName> <date when="1861-01-16">January 16<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
 <lb/>To
-<lb/>His Excellency Beriah Magoffin
+<lb/>His Excellency <persName ref="cwgk:N00000258">Beriah Magoffin</persName>
 <lb/>Dear Sir.</p>
-<p>There was some feeling the other day in our town on the occasion of firing guns for Major Anderson which met with the hearty disapproval of Many persons especially of the Breckinridge men which came very near resulting in a serious difficulty. My brother James T. <hi rend="underline">Berry</hi> who is a <hi rend="underline">minute</hi> <hi rend="underline">man</hi> at Memphis happened to be in town on the occasion and his wearing a <hi rend="underline">Blue</hi> Cockade seemed to excite some persons <hi rend="underline">very</hi> <hi rend="underline">much</hi> who have been constantly abusing him &amp; calling him ^a^ traitor. and by the advice of his friends he carried a ^small^ pistol which some of the <hi rend="underline">dirty</hi> submissionits in this benighted abolition Corner of my native state felt was a great outrage against law &amp; order he had not drown it upon any one nor has he Ever been before a legal tribunal in this State for any offence before=is the reason I ask the interposition of executive clemency, The fine was 15&#36;. inflicted before E W Hawkins, Mayor of the city on the <date when="1861-01-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of Jany 1861</date>.</p>
+<p>There was some feeling the other day in our town on the occasion of firing guns for <persName ref="cwgk:N00008358">Major Anderson</persName> which met with the hearty disapproval of Many persons especially of the <persName ref="cwgk:N001789">Breckinridge</persName> men which came very near resulting in a serious difficulty. My brother <persName ref="cwgk:N00021082">James T. <hi rend="underline">Berry</hi></persName> who is a <hi rend="underline">minute</hi> <hi rend="underline">man</hi> at <placeName ref="cwgk:P001003">Memphis</placeName> happened to be in town on the occasion and his wearing a <hi rend="underline">Blue</hi> Cockade seemed to excite some persons <hi rend="underline">very</hi> <hi rend="underline">much</hi> who have been constantly abusing him &amp; calling him ^a^ traitor. and by the advice of his friends he carried a ^small^ pistol which some of the <hi rend="underline">dirty</hi> submissionits in this benighted abolition Corner of my native <placeName ref="cwgk:P001800">state</placeName> felt was a great outrage against law &amp; order he had not drown it upon any one nor has he Ever been before a legal tribunal in this State for any offence before=is the reason I ask the interposition of executive clemency, The fine was 15$. inflicted before <persName ref="cwgk:N00004720">E W Hawkins</persName>, Mayor of the city on the <date when="1861-01-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of Jany 1861</date>.</p>
 <p>Most Respectfully your friend
-<lb/>A s Berry<pb/></p>
-<p>Newport City Ct
-<lb/>&#36;15.
+<lb/><persName ref="cwgk:N00021081">A s Berry</persName><pb/></p>
+<p><orgName ref="cwgk:O00012745">Newport City Ct</orgName>
+<lb/>$15.
 <lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> T. Berry
 <lb/>Respite 6 Mo<hi rend="sup">s</hi>
 <lb/>B. M
