@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0038"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,27 +72,27 @@
  <text>
   <body>
    <p><date when="1860-12-24">24</date> 
-<lb/>The Governor approved an account of &#36;271. to E. L. Bumpass for bringing a Fugitive from the Justice of this State under his Requisition upon the Governor of Missouri and his delivery to the Jailer of Greenup county.</p>
-<p>He respited for twelve months three judgments each of &#36;500, by the Madison Circuit Court against Silas Hill James Maupin and Thomas H. Barnes upon forfeited recognizances.</p>
-<p>He appointed Jo<hi rend="underline"><hi rend="sup">s</hi></hi> A Hamilton a Notary Public for Jefferson County until the end of the next session of the General Assembly.</p>
+<lb/>The <persName ref="cwgk:N00021477">Governor</persName> approved an account of $271. to <persName ref="cwgk:N00014702">E. L. Bumpass</persName> for bringing a <persName ref="cwgk:N00005065">Fugitive</persName> from the Justice of this <orgName ref="cwgk:O001025">State</orgName> under his Requisition upon the Governor of <orgName ref="cwgk:O00018723">Missouri</orgName> and his delivery to the <persName ref="cwgk:N00021472">Jailer</persName> of <placeName ref="cwgk:P001759">Greenup county</placeName>.</p>
+<p>He respited for twelve months three judgments each of $500, by the <orgName ref="cwgk:O00000422">Madison Circuit Court</orgName> against <persName ref="cwgk:N00021473">Silas Hill</persName> <persName ref="cwgk:N00021474">James Maupin</persName> and <persName ref="cwgk:N00014994">Thomas H. Barnes</persName> upon forfeited recognizances.</p>
+<p>He appointed <persName ref="cwgk:N00001909">Jo<hi rend="underline"><hi rend="sup">s</hi></hi> A Hamilton</persName> a Notary Public for <placeName ref="cwgk:P001005">Jefferson County</placeName> until the end of the next session of the <orgName ref="cwgk:O00000923">General Assembly</orgName>.</p>
 <p>He respited for twelve months the following judgments, to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>Lexington City Court. vs. R. J. Breckinridge -- </cell>
-	<cell>&#36;150 -- </cell>
+	<cell><orgName ref="cwgk:O00000729">Lexington City Court</orgName>. vs. <persName ref="cwgk:N00000849">R. J. Breckinridge</persName> -- </cell>
+	<cell>$150 -- </cell>
 	<cell>Forfeited recognizance</cell>
 </row>
 <row>
-	<cell>Pulaski Cir. " " D. A. Davis -- </cell>
-	<cell>&#36;20.</cell>
+	<cell><orgName ref="cwgk:O00000269">Pulaski Cir.</orgName> " " <persName ref="cwgk:N00021475">D. A. Davis</persName> -- </cell>
+	<cell>$20.</cell>
 	<cell>Gaming -- </cell>
 </row>
 </table></p>
-<p>He remitted to M. Sparks a judgment of a Justice of the Peace for Jessamine County of &#36;6.<hi rend="underline">66</hi>, for a breach. of the peace.<pb/></p>
+<p>He remitted to <persName ref="cwgk:N00021476">M. Sparks</persName> a judgment of a Justice of the Peace for <placeName ref="cwgk:P00003416">Jessamine County</placeName> of $6.<hi rend="underline">66</hi>, for a breach. of the peace.<pb/></p>
 <p><note place="header">154</note></p>
 <p><date when="1860">1860</date> Executive Journal</p>
 <p><date when="1860-12-24">Dec 24<hi rend="underline"><hi rend="sup">th</hi></hi></date> 
-<lb/>The Governor issued a Requisition on Tennessee for William Foster under Indictment in the Knox Circuit Court for Grand Larceny; and appointed Calvin Brogan his Agent to make the demand.</p>
+<lb/>The Governor issued a Requisition on <orgName ref="cwgk:O00014342">Tennessee</orgName> for <persName ref="cwgk:N00017266">William Foster</persName> under Indictment in the <orgName ref="cwgk:O00000411">Knox Circuit Court</orgName> for Grand Larceny; and appointed <persName ref="cwgk:N00015085">Calvin Brogan</persName> his Agent to make the demand.</p>
   </body>
  </text>
 </TEI>
