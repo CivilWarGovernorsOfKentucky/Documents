@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0031"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,61 +72,61 @@
  <text>
   <body>
    <p><date when="1860-12-13">13</date> 
-<lb/>The Governor commissioned John J Dennis Police Judge of Calhoun duly elected</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> commissioned <persName ref="cwgk:N00021334">John J Dennis</persName> Police Judge of <placeName ref="cwgk:P00001064">Calhoun</placeName> duly elected</p>
 <p>He appointed the following Justices of the Peace to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>Mercer county Dist N<hi rend="sup">o</hi> 5.</cell>
-	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Crutcher</cell>
+	<cell><placeName ref="cwgk:P00000556">Mercer county</placeName> Dist N<hi rend="sup">o</hi> 5.</cell>
+	<cell><persName ref="cwgk:N00001865">W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Crutcher</persName></cell>
 	<cell>vice</cell>
-	<cell>J. W. Hawkins</cell>
+	<cell><persName ref="cwgk:N00001864">J. W. Hawkins</persName></cell>
 </row>
 <row>
-	<cell>Clarke " " " 5</cell>
-	<cell>C. Lisle</cell>
+	<cell><placeName ref="cwgk:P001786">Clarke</placeName> " " " 5</cell>
+	<cell><persName ref="cwgk:N001784">C. Lisle</persName></cell>
 	<cell>"</cell>
-	<cell>A. J Tribble</cell>
+	<cell><persName ref="cwgk:N00001870">A. J Tribble</persName></cell>
 </row>
 <row>
-	<cell>Anderson " " " 1</cell>
-	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> M. Bowen</cell>
+	<cell><placeName ref="cwgk:P00003188">Anderson</placeName> " " " 1</cell>
+	<cell><persName ref="cwgk:N00001868">W<hi rend="underline"><hi rend="sup">m</hi></hi> M. Bowen</persName></cell>
 	<cell>"</cell>
-	<cell>H. H. Maddox</cell>
+	<cell><persName ref="cwgk:N00001869">H. H. Maddox</persName></cell>
 </row>
 </table></p>
 <p>He respited for twelve months the following Judgments, to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>John Cir Ct. vs R Shavers -- </cell>
-	<cell>&#36;50. -- </cell>
+	<cell><orgName ref="cwgk:O00000409">John Cir Ct.</orgName> vs <persName ref="cwgk:N00021340">R Shavers</persName> -- </cell>
+	<cell>$50. -- </cell>
 	<cell>Concealed weapons</cell>
 </row>
 <row>
-	<cell>Graves " " " J. W. Perry -- </cell>
-	<cell>&#36;300 -- </cell>
+	<cell><orgName ref="cwgk:O00000382">Graves</orgName> " " " <persName ref="cwgk:N00021312">J. W. Perry</persName> -- </cell>
+	<cell>$300 -- </cell>
 	<cell>breach of tavern bond</cell>
 </row>
 </table></p>
 <p>He remitted the following Judgments, to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>Pike Cir. Ct. vs Nancy Adkins -- </cell>
-	<cell>&#36;60 -- </cell>
+	<cell><orgName ref="cwgk:O00000488">Pike Cir. Ct.</orgName> vs <persName ref="cwgk:N00021337">Nancy Adkins</persName> -- </cell>
+	<cell>$60 -- </cell>
 	<cell>Tipling</cell>
 </row>
 <row>
-	<cell>Louisville City " " Jane Laws -- </cell>
-	<cell>&#36;60.</cell>
+	<cell><orgName ref="cwgk:O001838">Louisville City</orgName> " " <persName ref="cwgk:N00021338">Jane Laws</persName> -- </cell>
+	<cell>$60.</cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>" " " " T Jack Conn -- </cell>
-	<cell>&#36;50.</cell>
+	<cell>" " " " <persName ref="cwgk:N002025">T Jack Conn</persName> -- </cell>
+	<cell>$50.</cell>
 	<cell>Concealed Weapons</cell>
 </row>
 <row>
-	<cell>" " " " J. P. Russ -- </cell>
-	<cell>&#36;35.</cell>
+	<cell>" " " " <persName ref="cwgk:N00021339">J. P. Russ</persName> -- </cell>
+	<cell>$35.</cell>
 	<cell>Assault</cell>
 </row>
 </table></p>
