@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021279">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Joseph P. Murray</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021279">
+                    <persName>
+                      Joseph P. Murray
+                        (Clay County, KY, farmer and sailor)
+                    </persName>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <event type="death"  when="1864-05-13"  ><ab>1864-05-13</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Clay County, Kentucky, farmer and sailor. North Carolina native. Married to Juellda Phipps Murray in Clay County, Kentucky, on April 6, 1850. Father of Catherine Murray, Sarah Murray, Celia F. Murray, John W. Murray, Martha J. Murray, Mary A. Murray, and Moozy A. Murray. Resident of Clay County, Kentucky, in 1850. Farmer in Clay County in 1860. Served in the 7th Kentucky Volunteer Infantry Regiment (U.S.A.) as corporal and first sergeant from September 22, 1861, to July 4, 1862. Reported as deserted near Bell County, Kentucky, on July 4, 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Clay County, p. 136A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clay County, p. 17.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jackson County, Coyle, p. 186B. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Clay  County Marriages, Film 007728051.<lb/>
+“Murray, Joseph P.,” <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0216.<lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, Kentucky, Roll 343, Application 373199.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
