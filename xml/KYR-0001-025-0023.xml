@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0023"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,105 +72,105 @@
  <text>
   <body>
    <p><date when="1860-12-01">Dec 1</date>. 
-<lb/>The Governor approved the constitution and By-Laws of the Henderson Cavalry.</p>
-<p>He appointed S. H. C. Lewis a Justice of the Peace for the County of Hancock District N<hi rend="underline"><hi rend="sup">o</hi></hi> 4 in place of M. Hughes.</p>
-<p>He remitted to James Boyd &#36;15. of a Judgment of a Justice of the Peace of Boone county of &#36;15. and fifteen days imprisonment for a breach of the peace</p>
-<p>He appointed the following Notary Public until the end of the next session of the General Assembly.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> approved the constitution and By-Laws of the <orgName ref="cwgk:O00021290">Henderson Cavalry</orgName>.</p>
+<p>He appointed <persName ref="cwgk:N00001787">S. H. C. Lewis</persName> a Justice of the Peace for the <placeName ref="cwgk:P001816">County of Hancock</placeName> District N<hi rend="underline"><hi rend="sup">o</hi></hi> 4 in place of <persName ref="cwgk:N00001786">M. Hughes</persName>.</p>
+<p>He remitted to <persName ref="cwgk:N00021276">James Boyd</persName> $15. of a Judgment of a Justice of the Peace of <placeName ref="cwgk:P00001194">Boone county</placeName> of $15. and fifteen days imprisonment for a breach of the peace</p>
+<p>He appointed the following Notary Public until the end of the next session of the <orgName ref="cwgk:O00000923">General Assembly</orgName>.</p>
 <p><table rend="rules">
 <row>
-	<cell>A. C. M<hi rend="sup">c</hi>Elroy</cell>
+	<cell><persName ref="cwgk:N00001848">A. C. M<hi rend="sup">c</hi>Elroy</persName></cell>
 	<cell>for the county of </cell>
-	<cell>Washington</cell>
+	<cell><placeName ref="cwgk:P00005027">Washington</placeName></cell>
 </row>
 <row>
-	<cell>H. V. Sanders</cell>
+	<cell><persName ref="cwgk:N00001849">H. V. Sanders</persName></cell>
 	<cell>" " " "</cell>
-	<cell>Jefferson</cell>
+	<cell><placeName ref="cwgk:P001005">Jefferson</placeName></cell>
 </row>
 <row>
-	<cell>L. W. Long</cell>
+	<cell><persName ref="cwgk:N00001846">L. W. Long</persName></cell>
 	<cell>" " " " </cell>
-	<cell>Union</cell>
+	<cell><placeName ref="cwgk:P00001845">Union</placeName></cell>
 </row>
 </table></p>
 <p>He respited for twelve months the following Judgments</p>
 <p><table rend="rules">
 <row>
-	<cell>Louisville. City Ct. vs. John Magenty -- </cell>
-	<cell>&#36;100 -- </cell>
+	<cell><orgName ref="cwgk:O001838">Louisville. City Ct</orgName>. vs. <persName ref="cwgk:N00021277">John Magenty</persName> -- </cell>
+	<cell>$100 -- </cell>
 	<cell>Misdemeanor.</cell>
 </row>
 <row>
-	<cell>Marshall Cir " " Walters &amp; Dishman </cell>
-	<cell>&#36;200 each -- </cell>
+	<cell><orgName ref="cwgk:O00000428">Marshall Cir</orgName> " " <persName ref="cwgk:N00009050">Walters</persName> &amp; <persName ref="cwgk:N00009051">Dishman</persName> </cell>
+	<cell>$200 each -- </cell>
 	<cell>Assault</cell>
 </row>
 <row>
-	<cell>Clay " " " Shelton &amp; Jones</cell>
-	<cell>&#36;20. " </cell>
+	<cell><orgName ref="cwgk:O00000372">Clay</orgName> " " " <persName ref="cwgk:N00018886">Shelton</persName> &amp; <persName ref="cwgk:N00021278">Jones</persName></cell>
+	<cell>$20. " </cell>
 	<cell>Gaming</cell>
 </row>
 <row>
 	<cell>" " " " Smith &amp; others</cell>
-	<cell>&#36;20 " </cell>
+	<cell>$20 " </cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>" " " " Jo<hi rend="underline"><hi rend="sup">s</hi></hi> P. Murry</cell>
-	<cell>&#36;50.</cell>
+	<cell>" " " " <persName ref="cwgk:N00021279">Jo<hi rend="underline"><hi rend="sup">s</hi></hi> P. Murry</persName></cell>
+	<cell>$50.</cell>
 	<cell>Concealed weapons</cell>
 </row>
 <row>
-	<cell>Lawrence " " " W. Ketchum</cell>
-	<cell>&#36;60.</cell>
+	<cell><orgName ref="cwgk:O00000418">Lawrence</orgName> " " " <persName ref="cwgk:N00021280">W. Ketchum</persName></cell>
+	<cell>$60.</cell>
 	<cell>Tipling.</cell>
 </row>
 <row>
-	<cell>Jackson " " " N. J. Hews</cell>
-	<cell>&#36;100 -- </cell>
+	<cell><orgName ref="cwgk:O00000407">Jackson</orgName> " " " <persName ref="cwgk:N00021281">N. J. Hews</persName></cell>
+	<cell>$100 -- </cell>
 	<cell>Misdemeanor</cell>
 </row>
 <row>
-	<cell>Harrodsburg Po. " " C. M. Cunningham</cell>
-	<cell>&#36;50. -- </cell>
+	<cell><orgName ref="cwgk:O00003265">Harrodsburg Po</orgName>. " " <persName ref="cwgk:N00021282">C. M. Cunningham</persName></cell>
+	<cell>$50. -- </cell>
 	<cell>concealed weapons</cell>
 </row>
 </table></p>
 <p>He remitted the following judgments, to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>Rockcastle Cir. Ct. vs. Sam<hi rend="sup">l</hi> Maden</cell>
-	<cell>&#36;50.</cell>
+	<cell><orgName ref="cwgk:O00000572">Rockcastle Cir. Ct</orgName>. vs. <persName ref="cwgk:N00021283">Sam<hi rend="sup">l</hi> Maden</persName></cell>
+	<cell>$50.</cell>
 	<cell>concealed Weapons.</cell>
 </row>
 <row>
-	<cell>Knox " " " John Coff</cell>
-	<cell>&#36;20</cell>
+	<cell><orgName ref="cwgk:O00000411">Knox</orgName> " " " <persName ref="cwgk:N00021287">John Coff</persName></cell>
+	<cell>$20</cell>
 	<cell>Gaming</cell>
 </row>
 <row>
-	<cell>Clay " " " W. Sizemore -- </cell>
+	<cell>Clay " " " <persName ref="cwgk:N00021288">W. Sizemore</persName> -- </cell>
 	<cell>six months imprisonment</cell>
 	<cell> </cell>
 </row>
 <row>
-	<cell>Trimble Co " " S. Mead</cell>
-	<cell>&#36;15.</cell>
+	<cell><orgName ref="cwgk:O00000720">Trimble Co</orgName> " " <persName ref="cwgk:N00001956">S. Mead</persName></cell>
+	<cell>$15.</cell>
 	<cell>breach of the peace</cell>
 </row>
 <row>
-	<cell>Letcher J. P. " " S. &amp; I Whitaker -- </cell>
-	<cell>&#36;5. each</cell>
+	<cell><placeName ref="cwgk:P00005320">Letcher</placeName> J. P. " " <persName ref="cwgk:N00021284">S.</persName> &amp; <persName ref="cwgk:N00021286">I Whitaker</persName> -- </cell>
+	<cell>$5. each</cell>
 	<cell>" " "</cell>
 </row>
 <row>
-	<cell>Do " " " J Whitaker</cell>
-	<cell>&#36;10.</cell>
+	<cell>Do " " " <persName ref="cwgk:N00021285">J Whitaker</persName></cell>
+	<cell>$10.</cell>
 	<cell>" " "</cell>
 </row>
 <row>
-	<cell>Magoffin " " " John Blanton</cell>
-	<cell>&#36;12.<hi rend="sup">50</hi>/<hi rend="sub">100</hi></cell>
+	<cell><orgName ref="cwgk:O00000427">Magoffin</orgName> " " " <persName ref="cwgk:N00021289">John Blanton</persName></cell>
+	<cell>$12.<hi rend="sup">50</hi>/<hi rend="sub">100</hi></cell>
 	<cell>" " "</cell>
 </row>
 </table></p>
