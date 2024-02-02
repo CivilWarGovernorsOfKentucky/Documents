@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0080"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,12 +72,12 @@
  <text>
   <body>
    <p><date when="1861-02-19">19</date> 
-<lb/>The Governor approved an account of &#36;15. to F M<hi rend="sup">c</hi>Quillen for work done at State Arsenal certified as correct by the Q<hi rend="underline"><hi rend="sup">r</hi></hi> M<hi rend="underline"><hi rend="sup">r</hi></hi> Gen<hi rend="underline"><hi rend="sup">l</hi></hi></p>
-<p>He respited for twelve months three judgments of the Louisville City Court on of &#36;600. the other two of &#36;50 each against Geo. Walker. for assaults.<pb/></p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> approved an account of $15. to <persName ref="cwgk:N00019369">F M<hi rend="sup">c</hi>Quillen</persName> for work done at <orgName ref="cwgk:O00010811">State Arsenal</orgName> certified as correct by the <persName ref="cwgk:N00002598">Q<hi rend="underline"><hi rend="sup">r</hi></hi> M<hi rend="underline"><hi rend="sup">r</hi></hi> Gen<hi rend="underline"><hi rend="sup">l</hi></hi></persName></p>
+<p>He respited for twelve months three judgments of the <orgName ref="cwgk:O001838">Louisville City Court</orgName> on of $600. the other two of $50 each against <persName ref="cwgk:N00021558">Geo. Walker</persName>. for assaults.<pb/></p>
 <p><note place="header">177</note></p>
 <p><date when="1861">1861</date> Executive Journal</p>
 <p><date when="1861-02-19">Feby 19</date> 
-<lb/>The Governor remitted to D. Griffin a Judgment of the Franklin Circuit Court of &#36;100. and Six months imprisonment for shooting at one Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Barton</p>
+<lb/>The Governor remitted to <persName ref="cwgk:N00021534">D. Griffin</persName> a Judgment of the <orgName ref="cwgk:O00000376">Franklin Circuit Court</orgName> of $100. and Six months imprisonment for shooting at one <persName ref="cwgk:N00021559">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Barton</persName></p>
   </body>
  </text>
 </TEI>
