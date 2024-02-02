@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0381"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excellency Beriah Maggoffin
-<lb/>Govenor of the Commonwealth of Kentucky</p>
-<p>Your petitioner <hi rend="underline">Jesse</hi> <hi rend="underline">Meek</hi> States that at the <date when="--04">Last aprile term</date> of the Lawrence Circuit court there was a fine of twenty Dollars (&#36;20) adjudged against him for gaiming he states that the attorney for the commonwealth <hi rend="underline">James</hi> M <hi rend="underline">Nesbitt</hi> immediately drew a letter to your excellency and also Hon Jas M Rice united in the same asking the fine to be remitted which Letter in <date when="--05">May Last</date> was forwarded to your excellency your petitioner asks that you will interpose in his behalf he states that the Gaiming for which he was fined took place one night in the county Jail while they was guarding the Same (The other two in the game was W<hi rend="underline"><hi rend="sup">m</hi></hi> Vinson and Clabourn Hyten) he states that they had no intention while in the game to gamble for gain but for past time he says the fine is oppressive and he asks your clemency and will ever &amp;c</p>
+   <p>To his excellency <persName ref="cwgk:N00000258">Beriah Maggoffin</persName>
+<lb/>Govenor of the <orgName ref="cwgk:O001025">Commonwealth</orgName> of <placeName ref="cwgk:P001800">Kentucky</placeName></p>
+<p>Your petitioner <hi rend="underline">Jesse</hi> <hi rend="underline">Meek</hi> States that at the <date when="--04">Last aprile term</date> of the <orgName ref="cwgk:O00000418">Lawrence Circuit court</orgName> there was a fine of twenty Dollars ($20) adjudged against him for gaiming he states that the attorney for the commonwealth <hi rend="underline">James</hi> M <hi rend="underline">Nesbitt</hi> immediately drew a letter to your excellency and also Hon <persName ref="cwgk:N00010482">Jas M Rice</persName> united in the same asking the fine to be remitted which Letter in <date when="--05">May Last</date> was forwarded to your excellency your petitioner asks that you will interpose in his behalf he states that the Gaiming for which he was fined took place one night in the <orgName ref="cwgk:O00020375">county Jail</orgName> while they was guarding the Same (The other two in the game was <persName ref="cwgk:N00004888">W<hi rend="underline"><hi rend="sup">m</hi></hi> Vinson</persName> and <persName ref="cwgk:N00020373">Clabourn Hyten</persName>) he states that they had no intention while in the game to gamble for gain but for past time he says the fine is oppressive and he asks your clemency and will ever &amp;c</p>
 <p>Jesse Meek</p>
 <p>We whose names are here unto assigned most respectfully ask that the fine be remitted</p>
-<p>Jake Rice
+<p><persName ref="cwgk:N00020371">Jake Rice</persName>
 <lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> M, Rice</p>
   </body>
  </text>
