@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0081"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,23 +72,23 @@
  <text>
   <body>
    <p><date when="1861-02-20">20</date> 
-<lb/>The Governor approved an account of &#36;25. to Thomas Hobsen Jailer of Nashville his fees for keeping one Jno. Luster a Fugitive from Justice which was omitted by the Agent making the demand for the fugitive.</p>
-<p>He appointed H. W. M<hi rend="sup">c</hi>Kinley and Tho<hi rend="sup">s</hi> D. Wright Aids with the rank of Colonel</p>
-<p>He accepted and caused to be filed the resignation of G. J. Bileford a Justice of the Peace for Fulton county in District N<hi rend="sup">o</hi> 1.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> approved an account of $25. to <persName ref="cwgk:N00021560">Thomas Hobsen</persName> Jailer of <placeName ref="cwgk:P001004">Nashville</placeName> his fees for keeping one <persName ref="cwgk:N00021561">Jno. Luster</persName> a Fugitive from Justice which was omitted by the <persName ref="cwgk:N00021562">Agent</persName> making the demand for the fugitive.</p>
+<p>He appointed <persName ref="cwgk:N00002482">H. W. M<hi rend="sup">c</hi>Kinley</persName> and <persName ref="cwgk:N00004927">Tho<hi rend="sup">s</hi> D. Wright</persName> Aids with the rank of Colonel</p>
+<p>He accepted and caused to be filed the resignation of <persName ref="cwgk:N00002503">G. J. Bileford</persName> a Justice of the Peace for <placeName ref="cwgk:P00000889">Fulton county</placeName> in District N<hi rend="sup">o</hi> 1.</p>
 <p>He appointed the following Justices in the counties named, to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>Nelson County</cell>
+	<cell><placeName ref="cwgk:P001012">Nelson County</placeName></cell>
 	<cell>Dist. N<hi rend="sup">o</hi> 1.</cell>
-	<cell>Jno C. Scifres <hi rend="underline">vice</hi> J. M. Nickolls</cell>
+	<cell><persName ref="cwgk:N00002491">Jno C. Scifres</persName> <hi rend="underline">vice</hi> <persName ref="cwgk:N00002490">J. M. Nickolls</persName></cell>
 </row>
 <row>
-	<cell>Clarke "</cell>
+	<cell><placeName ref="cwgk:P001786">Clarke</placeName> "</cell>
 	<cell>" " 2</cell>
-	<cell>L. Beall " A. Eubank</cell>
+	<cell><persName ref="cwgk:N00002502">L. Beall</persName> " <persName ref="cwgk:N00002501">A. Eubank</persName></cell>
 </row>
 </table></p>
-<p>He appointed Jno. A. Staley Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for Georgia (Savannah)</p>
+<p>He appointed <persName ref="cwgk:N00002477">Jno. A. Staley</persName> Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for <placeName ref="cwgk:P001008">Georgia</placeName> (<placeName ref="cwgk:P00002476">Savannah</placeName>)</p>
 <p>He approved and signed enrolled bill Chapter 176.</p>
   </body>
  </text>
