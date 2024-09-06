@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">W. A. Foster</title>
+        <title level="a" type="main">William A. Foster</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Kristen Bailey</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Deborah J. Thompson</name>
@@ -43,10 +47,11 @@
         <particDesc>
                 <person xml:id="N00012678">
                     <persName>
-                      W. A. Foster
-                        (Catlettsburg, Boyd County, Kentucky, clerk)
+                      William A. Foster
+                        (Boyd County, Kentucky, merchant and clerk.)
                     </persName>
-                        <event type="birth"  when="1804"  cert="medium" ><ab>c1804</ab></event>
+                        <event type="birth"  when="1804"  ><ab>1804</ab></event>
+                        <event type="death"  when="1883-06-22"  ><ab>1883-06-22</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +60,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Catlettsburg, Kentucky, clerk. Pennsylvania native. Married to Maria Foster. Father of Alice Isabella Foster. Clerk in Catlettsburg in 1860.</p>
+        <p>Boyd County, Kentucky, merchant and clerk. Pennsylvania native. Married to Maria Hurst Foster. Father of Henry H. Foster, Genoa Foster, and Alice Isabella Foster. Merchant in Lawrence County, Kentucky, in 1850. Clerk in Boyd County, Kentucky, in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boyd County, Catlettsburg, p. 801.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lawrence County, p. 89A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boyd County, Catlettsburg, p. 801.<lb/>
+&quot;William A. Foster (1804-1883),&quot; Find A Grave, Memorial 48034616, accessed September 6, 2024, https://www.findagrave.com/memorial/48034616/william-a-foster.
 </bibl></ab>
     </back>
 </text>
