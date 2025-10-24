@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020183">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Wiley McQuinn</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020183">
+                    <persName>
+                      Wiley McQuinn
+                        (Breathitt County, Kentucky, farmer and soldier. 5th Kentucky C.S.A.)
+                    </persName>
+                        <event type="birth"  when="1813"  ><ab>1813</ab></event>
+                        <event type="death"  when="1865"  ><ab>1865</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Breathitt County, Kentucky, farmer and soldier. Perry County, Kentucky, native. Married to Sarah W. &quot;Sally&quot; McQuinn. Father of Josephine McQuinn, Minerva McQuinn, Elmira McQuinn, Julian McQuinn, Nancy McQuinn, Armina McQuinn, and Vavena McQuinn. Farmer in Breathitt County, Kentucky, in 1850. Farmer in Breathitt County in 1860. Enlisted in the 13th Kentucky Volunteer Cavalry Regiment (C.S.A.) as a private on February 12, 1863. Enlisted in the 5th Kentucky Volunteer Infantry Regiment (C.S.A.) as a private on May 25, 1863. Captured in Magoffin County, Kentucky, on February 22, 1864. Suspected of guerrilla activity. Prisoner of war at Louisville, Jefferson County, Kentucky, from March 6, 1864, to March 9, 1864. Prisoner of war at Camp Chase, Columbus, Franklin County, Ohio, from March 11, 1864, to May 8, 1865. Signed an oath of loyalty to the U.S. government on May 13, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breathitt County, District 1, p. 28B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breathitt County, District 1, p. 383.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breathitt County, Precinct 1, pp. 391A-B.<lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0067.<lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0111.<lb/>
+&quot;Roll of Prisoners of War of Military Prison Louisville Kentucky,&quot; Vol. 6, <hi rend="italic">U.S. Civil War Prisoner of War Records, 1861-1865</hi>, NARA RG 109, Microfilm Series M598, War Department Collection of Confederate Records, p. 50.<lb/>
+&quot;Pvt Wiley McQuinn (1813-1865),&quot; Find A Grave, Memorial 41031549, accessed June 2, 2023, https://www.findagrave.com/memorial/41031549.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
