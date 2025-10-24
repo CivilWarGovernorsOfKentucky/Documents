@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019330">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Alexander Adair</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019330">
+                    <persName>
+                      John Alexander Adair
+                        (Green County, Kentucky, druggist and soldier.)
+                    </persName>
+                        <event type="birth"  when="1827"  ><ab>1827</ab></event>
+                        <event type="death"  when="1898-11-27"  ><ab>1898-11-27</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Green County, Kentucky, druggist and soldier. Green County, Kentucky, native. Son of Alexander Adair and Elizabeth W. Monroe Adair. Married to Mary Bird Stockton. Father of Kate Adair and William Adair. Resident of Green County, Kentucky, in 1850. Druggist in Green County in 1860. Served in the 4th Kentucky Mounted Infantry Regiment (C.S.A.) as a captain and lieutenant colonel from September 14, 1861, to August 31, 1863. Wounded at the Battle of Shiloh, Hardin County, Tennessee, on April 6, 1862. Resigned on account of disability.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Green County, District 1, p. 119A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Green County, Greensburg, p. 625.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hart County, Precinct 3, p. 311B.<lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0096.<lb/>
+&quot;Deaths,&quot; <hi rend="italic">The Courier-Journal</hi> (Louisville, KY), December 5, 1898, p. 5.<lb/>
+James Barnett Adair, <hi rend="italic">Adair History and Genealogy</hi> (Los Angeles, CA: Boylam and Boylam, 1924), 50-1.<lb/>
+&quot;Col John Alexander Adair (1827-1898),&quot; Find A Grave, Memorial 98682277, accessed February 9, 2023, https://www.findagrave.com/memorial/98682277.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
