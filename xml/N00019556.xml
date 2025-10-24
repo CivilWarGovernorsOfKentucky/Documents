@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019556">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Oliver J. Epperson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019556">
+                    <persName>
+                      Oliver J. Epperson
+                        (Green County, Kentucky, plasterer and soldier.)
+                    </persName>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
+                        <event type="death"  when="1861-11-20"  ><ab>1861-11-20</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Green County, Kentucky, plasterer and soldier. Kentucky native. Son of Mary Epperson. Married to Elizabeth F. Workman Epperson in Green County, Kentucky, on June 3, 1856. Father of Mary B. Epperson and Ann Jane Epperson. House plasterer in Adair County, Kentucky, in 1850. Plasterer in Green County in 1860. Enlisted in the 13th Kentucky Volunteer Infantry Regiment (U.S.A.) as a private on October 19, 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Adair County, District 1, p. 12B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Green County, District 2, p. 543.<lb/>
+<hi rend="italic">Case Files of Approved Pension Applications of Widows and Other Dependents of Civil War Veterans, ca. 1861 – ca. 1910</hi>, NARA RG 15, Application WC104387.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0264.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994036, Green County Births.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994036, Green County Deaths.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994036, Green County Marriages.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
