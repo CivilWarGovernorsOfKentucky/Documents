@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020843">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Judy</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020843">
+                    <persName>
+                      William Judy
+                        (Montgomery County, Kentucky, farmer)
+                    </persName>
+                        <event type="birth"  when="1820-03-16"  ><ab>1820-03-16</ab></event>
+                        <event type="death"  when="1887-11-25"  ><ab>1887-11-25</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Montgomery County, Kentucky, farmer. Kentucky native. Married to Delia A. Haden Judy. Father of Samuel H. Judy, Andrew H. Judy, Elizabeth Jane Judy, Margaret Catherine Judy, Thomas Judy, Mary F. Judy, Ida E. Judy, and Eddie Judy. Farmer in Montgomery County, Kentucky, in 1850. Employed John W. Mason, Abram Olson, and Peter Hart as laborers in Montgomery County in 1850. Owned five enslaved persons in Montgomery County in 1850. Farmer in Montgomery County in 1860. Owned six enslaved persons in Montgomery County in 1860. Hired one enslaved person, Dallas, from John R. Wilson in Montgomery County for 1862. Hired one enslaved person, Dall, from John R. Wilson in Montgomery County for 1863. Farmer in Montgomery County in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 1, p. 14A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Montgomery County, District 1, p.41.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Montgomery County, p. 255.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Montgomery County, p. 9.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Montgomery County, Jeffersonville, p. 261B-262A. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994049, Montgomery County Births. <lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Montgomery County, KY, October 1863.<lb/>
+L.C. Jeffries, <hi rend="italic">Diary of Doctor Luther Calvin Jeffries</hi>, Part 2, 1860-1870, Montgomery County History Museum, Mt. Sterling, KY. <lb/>
+&quot;William Judy (1820-1887),&quot; Find A Grave, Memorial 84921039, accessed October 9, 2023, http://www.findagrave.com/memorial/84921039.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
