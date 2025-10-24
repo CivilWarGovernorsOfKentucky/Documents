@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020181">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Alexander L. Patton</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020181">
+                    <persName>
+                      Alexander L. Patton
+                        (Green County, Kentucky, farmer and soldier - Pvt. 7th Ky. Cav. (C.S.A.))
+                    </persName>
+                        <event type="birth"  when="1840"  ><ab>1840</ab></event>
+                        <event type="death"  when="1922"  ><ab>1922</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Green County, Kentucky, farmer and soldier. Green County, Kentucky, native. Son of William Patton and Margaret Patton. Household owned ten enslaved persons in Green County, Kentucky, in 1850. Farmer in Green County in 1860. Household owned eleven enslaved persons in Green County in 1860. Served in the 7th Kentucky Volunteer Cavalry Regiment (C.S.A.) as a private from September 17, 1862 to June 10, 1864. Captured by the United States Army at Mount Sterling, Montgomery County, Kentucky, on June 10, 1864. Signed a loyalty oath to the U. S. government on January 3, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Green County, District 1, p. 80B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Green County, District 1.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Green County, District 1, p. 653.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Green County, District 1, p. 4B.<lb/>
+&quot;Alexander Lee Patton, Sr.&quot; (1840-1922),&quot; Find A Grave, Memorial 10688546, accessed June 1, 2023, http://www.findagrave.com/memorial/10688546.<lb/>
+<hi rend="italic">Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0307.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
