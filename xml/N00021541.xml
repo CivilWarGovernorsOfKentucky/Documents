@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021541">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">T. Liveaudais</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kayla Adams</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kayla Adams</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021541">
+                    <persName>
+                      T. Liveaudais
+                        (New Orleans, Louisiana, merchant)
+                    </persName>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
+                        <event type="death"  when="1871"  ><ab>1871</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>New Orleans, Louisiana, merchant.  Louisiana native. Married to Anna Liveaudais on August 15, 1865. Merchant in New Orleans, Louisiana in 1860.  Dry goods merchant with Giquel &amp; Jamison in 1861 in New Orleans.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Louisiana, New Orleans, Fifth Ward, p. 919.<lb/>
+<hi rend="italic">New Orleans, Louisiana, City Directory, 1861</hi> (U.S., City Directories, 1822-1995 for T. Liveaudais), 281, https://www.ancestrylibrary.com/discoveryui-content/view/803002936:2469?tid=&amp;pid=&amp;queryId=e4186baf-9fab-4f5d-87a6-8b8bc418812f&amp;<hi rend="italic">phsrc=Egq219&amp;</hi>phstart=successSource. <lb/>
+&quot;Louisiana Parish Marriages, 1837-1957&quot;, , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:QKJD-47LD : Mon Oct 23 15:20:44 UTC 2023), Entry for T Liveaudais and Anna Perris Feyne, 15 Aug 1865.<lb/>
+<hi rend="italic">Louisiana, Orleans Parish Death Records and Certificates, 1835-1954</hi>, Orleans Parish City Hall, New Orleans, Louisiana Death Registers, File 007824658-137,https://www.familysearch.org/ark:/61903/1:1:ZH91-TW6Z .
+</bibl></ab>
+    </back>
+</text>
+</TEI>
