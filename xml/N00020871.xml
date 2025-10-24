@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020871">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Howard</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020871">
+                    <persName>
+                      James Howard
+                        (Montgomery County, Kentucky, farmer, clerk, attorney, and postmaster.)
+                    </persName>
+                        <event type="birth"  when="1819-01-31"  ><ab>1819-01-31</ab></event>
+                        <event type="death"  when="1900-12-31"  ><ab>1900-12-31</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Montgomery County, Kentucky, farmer, clerk, attorney, and postmaster. Kentucky native. Son of John Beale Howard, Jr. and Elizabeth Anderson Howard. Married to Theresa Clem Howard in Montgomery County, Kentucky, on December 8, 1861. Farmer in Montgomery County in 1850. Owned at least three enslaved persons in Montgomery County in 1850. Attorney in Montgomery County in 1851. Circuit court clerk in Montgomery County in 1855. Farmer in Montgomery County in 1860. Owned four enslaved persons in Montgomery County in 1860. Household owned an additional nine enslaved persons in Montgomery County in 1860. Farmer in Montgomery County in 1861. Claims agent in Montgomery County in 1862. Farmer in Montgomery County in 1863. Attorney in Montgomery County in 1863. United States postmaster general in Montgomery County from July 28, 1864, through 1875. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 1, p. 22A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Montgomery County, District 1, p. 95.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Montgomery County, p. 218-219.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Montgomery County,  p. 75B-76A.<lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Montgomery County, Howard&#39;s Mills, District 078, p. 386D.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994039, Montgomery County Marriages.<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, Records of the Post Office Department, NARA Series M841, RG 28, Montgomery County, Kentucky, vol. 28, p. 145.<lb/>
+<hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 15, Montgomery County, Kentucky, 1862, p. 6.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Montgomery County, KY, October 1863, p. 72.<lb/>
+<hi rend="italic">Case Files of Approved Pension Applications of Widows and Other Dependents of Civil War Veterans, ca. 1861 – ca. 1910</hi>, NARA RG 15, Application 15163.<lb/>
+<hi rend="italic">Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1855</hi> (Frankfort, KY: A.G. Hodges, State Printer, 1856), 355. <lb/>
+John Livingston, <hi rend="italic">The Official Registry of and Law Register for the United States for the Year 1866</hi> (New York: Merchants’ Union Law Company, 1866), p. 66.<lb/>
+<hi rend="italic">Sons of the American Revolution Membership Applications, 1889-1970</hi>, National Society of the Sons of the American Revolution, Louisville, KY, National 74361, State 927.<lb/>
+&quot;James Howard (1819-1900),&quot; Find A Grave, Memorial 84920501, accessed October 12, 2023, http://www.findagrave.com/memorial/84920501.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
