@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020846">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Luther C. Jeffries</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020846">
+                    <persName>
+                      Luther C. Jeffries
+                        (Montgomery County, Kentucky, physician)
+                    </persName>
+                        <event type="birth"  when="1820-03-18"  ><ab>1820-03-18</ab></event>
+                        <event type="death"  when="1892-03-14"  ><ab>1892-03-14</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Montgomery County, Kentucky, physician. Kentucky native. Son of Enoch Jeffries and Nancy Tapp Jeffries. Married to Ann Means Jeffries. Father of Leora C. Jeffries and Breckenridge P. Jeffries. Graduate of Transylvania Medical College in Lexington, Kentucky, in 1849. Physician in Montgomery County in 1850. Household owned three enslaved persons in 1850. Owned at least three enslaved persons, including Mary, in Montgomery County in 1853. Physician in Montgomery County from 1852 through 1865. Owned at least two enslaved persons, including Lucas, in Montgomery County in 1859. Owned six enslaved persons in Montgomery County in 1860. Hired out on behalf of John R. Wilson four enslaved persons, Dallas, Caroline, George Henry, and Mary Dallas, in Montgomery County for 1862. Hired out on behalf of John R. Wilson three enslaved persons, Dallas, Mary, and Caroline, in Montgomery County for 1863. Owned seven enslaved persons, including Mahala, Sally, Sarah, Laura, Lucas, Lucy, and Minerva, in Montgomery County in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 69B<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Montgomery County, District 2, p. 53.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Montgomery County, p. 270.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Montgomery County, p. 79B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Montgomery County, Aaron&#39;s Run, p. 226B. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994049, Montgomery County Births, p. 2.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 1966.<lb/><lb/>
+<hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll16, Montgomery County, Kentucky, 1864, p. 250.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Montgomery County, KY, October 1863, p. 80.<lb/>
+L.C. Jeffries, <hi rend="italic">Diary of Doctor Luther Calvin Jeffries</hi>, Part 1-2, 1852-1870, Montgomery County History Museum, Mt. Sterling, KY. <lb/>
+R.L. Polk, ed. <hi rend="italic">Medical and Surgical Register of the United States</hi>,  (Detroit: R. L. Polk &amp; Company, 1890), p. 477. <lb/>
+Luther C. Jeffries, &quot;Apoplexy,&quot; M.D. thesis, (Transylvania University, 1849). <lb/>
+John Marshall Prewitt, &quot;The Tapp, Wilson, and Prewitt Families of Montgomery County,&quot; <hi rend="italic">Kentucky Ancestors</hi>, vol. 40, no. 2 (Winter 2004): p. 95-96. <lb/>
+&quot;Dr. Luther Calvin Jeffries (1820-1892),&quot; Find A Grave, Memorial 84920778, accessed October 9, 2023, http://www.findagrave.com/memorial/84920778.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
