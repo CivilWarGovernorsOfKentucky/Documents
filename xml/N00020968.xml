@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020968">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John F. Triplett</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020968">
+                    <persName>
+                      John F. Triplett
+                        (Montgomery County, Kentucky, farmer and cattleman)
+                    </persName>
+                        <event type="birth"  when="1804-07-09"  ><ab>1804-07-09</ab></event>
+                        <event type="death"  when="1875-11-09"  ><ab>1875-11-09</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Montgomery County, Kentucky, farmer and cattleman. Virginia native. Son of Thomas Triplett and Elizabeth Triplett. Married to Sarah Ann Wren Triplett. Father of Sarah Elizabeth Triplett Orear, Harriet S. Triplett Howard, Mary Ann Triplett Moss, William H. Triplett, John R. Triplett, Thomas F. Triplett, and Clay Triplett. Farmer in Montgomery County, Kentucky, in 1850. Owned five enslaved persons in Montgomery County in 1850. Farmer in Montgomery County in 1860. Owned three enslaved persons in Montgomery County in 1860. Cattleman in Montgomery County in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 1, p. 34A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Montgomery County, District 1, p. 83.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Montgomery County, p. 286.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Montgomery County, p. 81A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Bath County, Sharpsburg, p. 71A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994028, Bath County Deaths.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 19769. <lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 12005. <lb/>
+<hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 21, Montgomery County, Kentucky, 1865.<lb/>
+&quot;Mrs. Mary Moss, Dead,&quot; <hi rend="italic">Centralia Courier</hi>, (Centralia, MO), 14 March 1929, p. 1. <lb/>
+&quot;John Francis Triplett (1804-1875),&quot; Find A Grave, Memorial 9215358, accessed October 26, 2023, http://www.findagrave.com/memorial/9215358.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
