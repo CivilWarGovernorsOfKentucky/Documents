@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021015">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William McKean Hubbard</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021015">
+                    <persName>
+                      William McKean Hubbard
+                        (Hickman County, Kentucky, merchant.)
+                    </persName>
+                        <event type="birth"  when="1821-08-25"  ><ab>1821-08-25</ab></event>
+                        <event type="death"  when="1902-07-18"  ><ab>1902-07-18</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hickman County, Kentucky, merchant. Massachusetts native. Son of Ebenezer Hubbard and Charlotte Hubbard. Married to Mary Elizabeth McConnell Hubbard. Father of Joseph S. Hubbard and Mary Elizabeth Hubbard. Merchant in Hickman County, Kentucky, in 1850. Merchant in Hickman County in 1860. Merchant in Hickman County in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hickman County, pp. 27B-28A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hickman County, Columbus, p. 467.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky,  County, City/District, p. 431B.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Hickman County, KY, June 1863, p. 9.<lb/>
+Topsfield Historical Society, <hi rend="italic">Vital Records of Middleton, Massachusetts, to the End of the Year 1849</hi> (Salem, MA: Newcomb &amp; Gauss, 1904), 29.<lb/>
+&quot;Mary Elizabeth Hubbard (1862-1863),&quot; Find A Grave, Memorial 80778059, accessed November 3, 2023, https://www.findagrave.com/memorial/80778059.<lb/>
+&quot;William McKean Hubbard (1821-1902),&quot; Find A Grave, Memorial 80778127, accessed November 3, 2023, https://www.findagrave.com/memorial/80778127.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
