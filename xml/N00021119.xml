@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021119">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Meredith F. McGehee</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021119">
+                    <persName>
+                      Meredith F. McGehee
+                        (Daviess County, KY, farmer)
+                    </persName>
+                        <event type="birth"  when="1826-02-09"  ><ab>1826-02-09</ab></event>
+                        <event type="death"  when="1904-02-18"  ><ab>1904-02-18</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Daviess County, Kentucky, farmer. Oldham County, Kentucky, native. Son of Asa McGehee and Bathsheba Wilhite McGehee. Married to Sallie Kelly McGehee in Daviess County, Kentucky, on April 29, 1849. Father of Richard McGehee. Married to Melvina Kelly McGehee in Daviess County on June 22, 1852. Father of Bathsheba McGehee, Zachariah W. McGehee, and Melvina McGehee. Married to Nancy Smith McGehee in Muhlenberg County, Kentucky, on April 16, 1861. Father of Virgie L. McGehee and Mary Airedelle McGehee. Served in the 4th Kentucky Volunteer Infantry Regiment as a private from 1846 to 1848. Farmer in Daviess County in 1850. Farmer in Daviess County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Daviess County, District 1, p. 396A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Daviess County, District 1, p. 729.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Muhlenberg County Marriages, Film 000557316, p. 170.<lb/>
+&quot;Mexican Soldier,&quot; <hi rend="italic">Owensboro Weekly Inquirer</hi> (Owensboro, KY), February 19, 1904, p. 1.<lb/>
+&quot;Meredith Franklin McGehee (1826-1904),&quot; Find A Grave, Memorial 65555849, accessed November 17, 2023, http://www.findagrave.com/memorial/65555849.<lb/>
+<hi rend="italic">History of Daviess County, Kentucky</hi> (Chicago: Inter-State Publishing Co., 1883), 698.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
