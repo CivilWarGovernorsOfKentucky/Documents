@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00021537">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Giquel &amp; Jamison</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kayla Adams</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kayla Adams</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00021537">
+                    <orgName>Giquel &amp; Jamison</orgName>
+                        <event type="begun"  when="1844"  ><ab>1844</ab></event>
+                        <event type="ended"  when="1867"  ><ab>1867</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Dry goods store located in New Orleans, Louisiana. Established October 13, 1844 in New Orleans. Operated from 1844-1867 in New Orleans.   Owner(s): E. Giquel and D. Jamison.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">New Orleans, Louisiana, City Directory, 1867</hi>  (U.S., City Directories, 1822-1995), 172, 251, 465, https://www.ancestrylibrary.com/imageviewer/collections/2469/images/13189850?usePUB=true&amp;<hi rend="italic">phsrc=OiY625. <lb/>
+_New Orleans, Louisiana, City Directory, 1869</hi>  (U.S., City Directories, 1822-1995), 170, https://www.ancestrylibrary.com/discoveryui-content/view/803002936:2469?tid=&amp;pid=&amp;queryId=e4186baf-9fab-4f5d-87a6-8b8bc418812f&amp;<hi rend="italic">phsrc=Egq219&amp;</hi>phstart=successSource. <lb/>
+&quot;Dry Goods–Giquel &amp; Jamison,&quot; <hi rend="italic">The Times Picayune</hi> (Louisville, KY), October 17, 1844, p. 3.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
