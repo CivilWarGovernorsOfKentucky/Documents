@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020944">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Aquilla Young</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020944">
+                    <persName>
+                      Aquilla Young
+                        (Montgomery County, Kentucky, farmer, hotelkeeper, and gentleman)
+                    </persName>
+                        <event type="birth"  when="1793"  cert="medium" ><ab>c1793</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Montgomery County, Kentucky, soldier, hotelkeeper, and gentleman. North Carolina native. Married to Elizabeth C. Rogers Young. Father of Mary J. Young Daniel, Henry Young, Adaline Young, James C. Young, and Mary Louisa Young Anderson. Served in the War of 1812 in Dudley&#39;s Mounted Battalion, Kentucky Volunteers, as a private from 1813 to 1814. Hotelkeeper in Montgomery County, Kentucky, in 1850. Owned three enslaved persons in Montgomery County in 1850. Owned at least two enslaved persons in Montgomery County in 1852. Gentleman in Montgomery County in 1860. Owned one enslaved person in Montgomery County in 1860. Household owned an additional seven enslaved persons in Montgomery County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 1, p. 1A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Montgomery County, District 1, p. 24.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Montgomery County, 177-178.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Montgomery County, p. 89A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Montgomery County, Jeffersonville, p. 261B.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994049, Montgomery County Births, p. 5.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994049, Montgomery County Deaths.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 7970.<lb/><lb/>
+<hi rend="italic">Index to Compiled Service Records of Volunteer Soldiers Who Served During the War of 1812, 1812-1815</hi>, NARA RG 94, Microfilm Series M602, Roll 0234.<lb/>
+<hi rend="italic">War of 1812 Pension and Bounty Land Warrant Application Files, 1812-1815</hi>, NARA RG 15, Box 205. Barrow Hinchea G. W.O. 3382, W.C.15623. <lb/>
+<hi rend="italic">War of 1812 Pension and Bounty Land Warrant Application Files, 1812-1815</hi>, NARA RG 15, Box 308. Bivan, John., W.C.28525. <lb/>
+Daniel Family Bible. Originally owned by Henry Daniel, 1786-1873. <hi rend="italic">Florida Bible and Church Records</hi>, compiled by Florida Genealogical Society, 1948. Microfilmed by the National Library of the Daughters of the American Revolution, Roll 351, p. 25. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
