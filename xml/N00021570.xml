@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021570">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Duncan Harding</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021570">
+                    <persName>
+                      Duncan Harding
+                        (Harrison County, KY, farmer)
+                    </persName>
+                        <event type="birth"  when="1812"  ><ab>1812</ab></event>
+                        <event type="death"  when="1887"  ><ab>1887</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Harrison County, Kentucky, farmer. Kentucky native. Married to Eliza Whitehead Harding in Harrison County, Kentucky, on May 1, 1837. Father of Elizabeth Harding, Sarah Harding, George Ann Harding, Margaret G. Harding, Joanna Harding, John W. Harding, William N. Harding, Louisa Harding, Emma W. Harding, and Madora Harding. Farmer in Harrison County in 1850. Owned one enslaved person in Harrison County in 1850. Farmer in Harrison County in 1860. Owned one enslaved person in Harrison County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Harrison County, District 1, p. 94A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Harrison County, District 1, p. 365.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrison County, p. 694.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Harrison County, p. 128A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Robertson County, Kentontown, p. 405A. <lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Harrison County Marriages, Film 000216884 , p. 748.<lb/>
+&quot;Duncan Harding (1812-1887),&quot; Find A Grave, Memorial 71888893, accessed January 27, 2024, http://www.findagrave.com/memorial/71888893.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
