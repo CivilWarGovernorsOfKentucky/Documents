@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021538">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">J S Morris</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kayla Adams</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kayla Adams</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021538">
+                    <persName>
+                      J S Morris
+                        (Port Gibson, Mississippi, attorney)
+                    </persName>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Port Gibson, Mississippi, attorney.  Mississippi native.  Married to Agnes F. Willis Morris.  Father to R. F. Morris and George Morris.  Post Master in Port Gibson, Mississippi in 1857.  Attorney in Port Gibson in 1860.  Owned 4 enslaved persons in Port Gibson in 1860. Judge of the Claiborne County probate court.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Mississippi, Claiborne County, Port Gibson, p. 495.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Mississippi, Claiborne County, Port Gibson, p. X A/B.<lb/>
+“Benjamin J. Morris,” <hi rend="italic">Illinois, Cook County Deaths, 1871-1998</hi>, Cook County Courthouse, Chicago, Illinois, File 382, https://www.familysearch.org/ark:/61903/1:1:N77N-2MF.<lb/><lb/>
+<hi rend="italic">U.S., Appointments of U.S. Postmasters, 1832-1971</hi> Records of the Post Office Department, Roll Number 67, https://www.ancestrylibrary.com/discoveryui-content/view/638754:1932?tid=&amp;pid=&amp;queryId=e9bc0532-4b35-419c-8a44-b9bae2b53fc6&amp;<hi rend="italic">phsrc=OiY590&amp;</hi>phstart=successSource.<lb/>
+&quot;Political Record of J. S. Morris,&quot; <hi rend="italic">The Clarion</hi> (Jackson, Mississippi), November 1, 1872, p. 1.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
