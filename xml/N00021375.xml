@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021375">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Simeon H. Crain</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021375">
+                    <persName>
+                      Simeon H. Crain
+                        (Bath County, Kentucky, druggist, soldier, and postmaster.)
+                    </persName>
+                        <event type="birth"  when="1834-10-09"  ><ab>1834-10-09</ab></event>
+                        <event type="death"  when="1910-07-01"  ><ab>1910-07-01</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Bath County, Kentucky, druggist, soldier, and postmaster. Kentucky native. Son of Lewis Crain and Elizabeth Crain. Farmer in Fleming County, Kentucky, in 1850. Druggist in Bath County, Kentucky, in 1861. Served in the 7th Kentucky Volunteer Cavalry Regiment (U.S.A.) as a first lieutenant and captain from August 16, 1862, to July 10, 1865. Postmaster for Owingsville in Bath County from September 26, 1865, to November 16, 1869.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, Division 2, p. 393A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Hillsboro, p. 451A. <lb/>
+“Crane, Simeon,” <hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0077.<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, Records of the Post Office Department, NARA Series M841, RG 28, Bath County, Kentucky, vol. 28.<lb/>
+&quot;Crain,&quot; <hi rend="italic">Kentucky Advocate</hi> (Danville, KY), July 23, 1910, p. 3.<lb/>
+&quot;Simeon Henry &#39;Sim&#39; Crain (1834-1910),&quot; Find A Grave, Memorial 44057783, accessed January 11, 2024, https://www.findagrave.com/memorial/44057783.<lb/>
+KYR-0001-020-0533.<lb/>
+KYR-0001-020-1670.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
