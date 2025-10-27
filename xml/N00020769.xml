@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020769">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert D. Cook</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020769">
+                    <persName>
+                      Robert D. Cook
+                        (Rockcastle County, Kentucky, sheriff and soldier.)
+                    </persName>
+                        <event type="birth"  when="1826-12-28"  ><ab>1826-12-28</ab></event>
+                        <event type="death"  when="1901-05-23"  ><ab>1901-05-23</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Rockcastle County, Kentucky, sheriff and soldier. Kentucky native. Married to Matilda Haley Cook in Campbell County, Tennessee, on October 6, 1851. Sheriff in Rockcastle County, Kentucky, in 1860. Household owned eleven enslaved persons in Rockcastle County in 1860. Served in the 4th Kentucky Volunteer Infantry Regiment (U.S.A.) as a first lieutenant from October 9, 1861, to April 26, 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, p. 543.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Rockcastle County, p. 205A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcastle County, Mount Vernon, p. 33A.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0180.<lb/>
+<hi rend="italic">Tennessee State Marriages, 1780-2002</hi>, Tennessee State Library and Archives, Nashville, TN, X County, 1838 - August 1889: Marriages A-C, p. 108.<lb/>
+&quot;Resolutions,&quot; <hi rend="italic">Mount Vernon Signal</hi> (Mount Vernon, KY), June 21, 1901, p. 2.<lb/>
+&quot;1LT Robert Duncan Cook (1826-1901),&quot; Find A Grave, Memorial 5849129, accessed September 25, 2023, https://www.findagrave.com/memorial/5849129.<lb/>
+&quot;Matilda &#39;Tildia&#39; Haley Cook (1837-1865),&quot; Find A Grave, Memorial 5849131, accessed September 25, 2023, https://www.findagrave.com/memorial/5849131.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
