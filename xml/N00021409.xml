@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021409">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas Jefferson Engle</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021409">
+                    <persName>
+                      Thomas Jefferson Engle
+                        (Jackson County, Kentucky, clerk and soldier - Cpt. 47th Ky. Inf. (U.S.A.))
+                    </persName>
+                        <event type="birth"  when="1826-02-19"  ><ab>1826-02-19</ab></event>
+                        <event type="death"  when="1863-12-11"  ><ab>1863-12-11</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jackson County, Kentucky, clerk and soldier. Kentucky native. Married to Eliza Hayes Engle. Father of James Engle, Robert Engle, William Engle, Thomas Engle, and Nancy Engle. Farmer in Laurel County, Kentucky, in 1850. Clerk in Jackson County in 1860. Employed Martha Dean as a domestic servant in 1860. Served in the Forty-Seventh Kentucky Volunteer Infantry Regiment (U.S.A.) as a captain from October 5, 1863 to December 11, 1863. Died of typhoid fever at Camp Nelson, Kentucky, on December 11, 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Laurel County, p. 42A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jackson County, McKee, p. 915.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994044, Laurel County Births, p. 2.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 19718. <lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 468.<lb/>
+&quot;Thomas Jefferson Engle (1826-1863),&quot; Find A Grave, Memorial 5354804, accessed January 15, 2024, http://www.findagrave.com/memorial/5354804.<lb/>
+<hi rend="italic">U. S. Registers of Deaths of Volunteers, Compiled 1861-1865</hi>Washington, DC: NAID, Records of the Adjutant General&#39;s Office, RG 94, Kentucky, Vol. A-K, p. 97.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
