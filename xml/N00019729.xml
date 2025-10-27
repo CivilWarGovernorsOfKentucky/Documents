@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019729">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edward W. Graham</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019729">
+                    <persName>
+                      Edward W. Graham
+                        (Green County, Kentucky, farmer, storekeeper, and soldier.)
+                    </persName>
+                        <event type="birth"  when="1834-01-09"  ><ab>1834-01-09</ab></event>
+                        <event type="death"  when="1862-02-10"  ><ab>1862-02-10</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Green County, Kentucky, farmer, storekeeper, and soldier. Kentucky native. Son of Robert Graham and Elizabeth Young Graham. Farmer in Green County, Kentucky, in 1850. Attended school in Green County in 1850. Household owned three enslaved persons in Green County in 1850. Storekeeper in Green County in 1860. Household owned three enslaved persons in Green County in 1860. Served in the 13th Kentucky Volunteer Infantry Regiment (U.S.A.) as a captain from December 31, 1861, to February 10, 1862. Died on February 10, 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Green County, District 2, p. 137A-B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Green County, District 2.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Green County, District 1, p. 665.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Green County, District 1, p. 65B.<lb/>
+<hi rend="italic">Case Files of Approved Pension Applications of Widows and Other Dependents of Civil War Veterans, ca. 1861 – ca. 1910</hi>, NARA RG 15, Application WC145155.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0264.<lb/>
+&quot;Edward W. Graham (1834-1862),&quot; Find A Grave, Memorial 71214968, accessed April 11, 2023, https://www.findagrave.com/memorial/71214968.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
