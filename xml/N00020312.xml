@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020312">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Engleman</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020312">
+                    <persName>
+                      John Engleman
+                        (Lincoln County, Kentucky, farmer)
+                    </persName>
+                        <event type="birth"  when="1807-12-27"  ><ab>1807-12-27</ab></event>
+                        <event type="death"  when="1877-09-08"  ><ab>1877-09-08</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lincoln County, Kentucky, farmer. Kentucky native. Married to Mary Engleman. Father of Simon G. Engleman, Ruben Engleman, Samuel Engleman, John Engleman, Jacob Engleman, and Christian Engleman. Farmer in Lincoln County, Kentucky, in 1850. Owned nineteen enslaved persons in Lincoln County in 1850. Farmer in Lincoln County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lincoln County, District 2, p. 277B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Lincoln County, District 2, p. 233.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lincoln County, p. 179.<lb/>
+&quot;John Engleman (1807-1877,&quot; Find A Grave, Memorial 76719212, accessed June 23, 2023, http://www.findagrave.com/memorial/76719212.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
