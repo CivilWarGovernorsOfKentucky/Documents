@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021492">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Paschal Meador</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021492">
+                    <persName>
+                      Paschal Meador
+                        (Meade County, Kentucky, farmer and soldier -  2nd Sgt. 58th Va. Inf.)
+                    </persName>
+                        <event type="birth"  when="1810"  cert="medium" ><ab>c1810</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Meade County, Kentucky, farmer and soldier. Virginia native. Married to Quintina Wright Meador in Franklin County, Virginia, on March 15, 1841. Father of John Meador, Nancy Meador, Elizabeth Meador, Susan Meador, John Meador, Abel Meador, Sarah Meador, and Alfred Meador. Farmer in Meade County, Kentucky, in 1850. Owned three enslaved persons in Meade County in 1850. Farmer in Meade County in 1860. Owned two enslaved persons in Meade County in 1860. Served in the 58th Virginia Volunteer Infantry Regiment (C.S.A.) as a second sergeant from July 23, 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Meade County, Kentucky, p. 206B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Meade County, Kentucky, p. 808.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Meade County, p. 410.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Meade County, Brandenburg, p. 28B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Meade County, Ashcrafts, p. 288B. <lb/>
+“Meador, Paschal,” <hi rend="italic">Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Virginia</hi>, NARA RG 109, Microfilm Series M324, Roll 586957.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 230.<lb/>
+<hi rend="italic">Virginia Death Certificates, 1912-2014</hi>Virginia Department of Health, Richmond, VA, File 9516.<lb/>
+<hi rend="italic">Early American Marriages:Virginia to 1850</hi>Jordan R. Dodd et. al. , Precision Indexing Publishers, Bountiful, UT.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
