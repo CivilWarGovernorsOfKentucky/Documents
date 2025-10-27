@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019608">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Gabriel Close</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019608">
+                    <persName>
+                      Gabriel Close
+                        (Green County, Kentucky, farmer and justice of the peace.)
+                    </persName>
+                        <event type="birth"  when="1806-01-11"  ><ab>1806-01-11</ab></event>
+                        <event type="death"  when="1864-12-28"  ><ab>1864-12-28</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Green County, Kentucky, farmer and justice of the peace. Kentucky native. Married to Maroxy Perkins Close in Green County, Kentucky, on December 8, 1827. Father of Jesse Close, Minerva Close, Nancy Close, Elizabeth Close, Jane Close, John Close, Graysen Close, Joseph Close, Mary Close, Ann Close, George Close, and William Close. Farmer in Green County, Kentucky, in 1850. Farmer and justice of the peace in Green County in 1860. Owned four enslaved persons in Green County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Green County, District 2, p. 137B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Green County, District 1, pp. 646-7. .<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Green County, District 1, p. 66B.<lb/>
+<hi rend="italic">Kentucky, County Marriages, 1797-1954</hi>, Genealogical Society of Salt Lake City, Salt Lake City, UT, Green County Marriages, Film 000595013.<lb/>
+&quot;Gabriel Close (1806-1864),&quot; Find A Grave, Memorial 69574095, accessed March 24, 2023, https://www.findagrave.com/memorial/69574095.<lb/>
+KYR-0001-020-0399.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
