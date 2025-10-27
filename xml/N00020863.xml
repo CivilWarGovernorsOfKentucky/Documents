@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00020863">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">David N. Williams</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00020863">
+                    <persName>
+                      David N. Williams
+                        (Rockcastle County, Kentucky, merchant.)
+                    </persName>
+                        <event type="birth"  when="1838-04-27"  ><ab>1838-04-27</ab></event>
+                        <event type="death"  when="1910-04-04"  ><ab>1910-04-04</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Rockcastle County, Kentucky, merchant. Rockcastle County, Kentucky, native. Son of Richard G. Williams and Catherine Holder Williams. Married to Mary E. Haley Williams in Rockcastle County, Kentucky, on April 24, 1860. Father of Casper Williams, McClellan Williams, and Cleopatra Williams. Resident of Rockcastle County in 1850. Household owned one enslaved person in in 1850. Merchant in Rockcastle County in 1860. Merchant in Rockcastle County in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Rockcastle County, Northern District, p. 210B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Rockcastle County, Northern District.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, Mount Vernon, p. 583.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcastle County, District 1, p. 25A. <lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Rockcastle County, KY, June 1863, p. 393.<lb/>
+&quot;Williams,&quot; <hi rend="italic">Mount Vernon Signal</hi> (Mount Vernon, KY), April 8, 1910, p. 3.<lb/>
+W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend="italic">Kentucky: A History of the State</hi>, 8th edition (Louisville, KY: F. A. Battey and Company, 1888), 1012.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
