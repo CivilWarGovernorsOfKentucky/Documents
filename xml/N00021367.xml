@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021367">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">H. D. Helm</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kayla Adams</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021367">
+                    <persName>
+                      H. D. Helm
+                        (Newport, Campbell County, Kentucky, brick mason, sheriff and real estate dealer)
+                    </persName>
+                        <event type="birth"  when="1822"  ><ab>1822</ab></event>
+                        <event type="death"  when="1885"  ><ab>1885</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Newport, Campbell County, Kentucky, brick mason, sheriff and real estate dealer. Kentucky native.  Married to Elizabeth Helm.  Father of Florence Helm, Frank Helm, Susan Helm, Mary Helm, Edwin Helm, Louisa Helm.  Brick mason in Newport, Campbell County in 1850.  Sheriff in Newport, Campbell County, in 1860.  Arrested on suspicion of disloyalty to the US government in Campbell County in 1862.  Prisoner at Camp Chase in Columbus, Ohio in 1862.  Real estate dealer in Campbell County in 1863.   </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Campbell County, 2nd District, p. 147a.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Campbell County, Newport, p. 551.<lb/>
+&quot;Hubbard D. Helm (1822-1885),&quot; Find A Grave, Memorial 73157907, accessed January 10, 2024, http://www.findagrave.com/memorial/73157907.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Campbell County, KY, June-July 1863, p. 107.<lb/>
+_US, Civil War Subversion Investigations, ca. 1861-ca. 1866 _, NARA M797, Roll 0010,  https://www.fold3.com/image/257089971/257089945.  
+</bibl></ab>
+    </back>
+</text>
+</TEI>
