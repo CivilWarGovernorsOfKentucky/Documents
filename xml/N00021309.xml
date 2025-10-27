@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021309">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles H. Harney</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021309">
+                    <persName>
+                      Charles H. Harney
+                        (Lexington, Kentucky, clerk, merchant, and paymaster)
+                    </persName>
+                        <event type="birth"  when="1833-12-05"  ><ab>1833-12-05</ab></event>
+                        <event type="death"  when="1888-04-27"  ><ab>1888-04-27</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lexington, Kentucky, clerk, merchant, paymaster, and soldier. Kentucky native. Married to Mary P. Wallace Harney in Lexington, Kentucky, on October 24, 1854. Clerk in Lexington, Kentucky, in 1850. Hardware merchant in Lexington in 1860. Household owned eight enslaved persons in Lexington in 1860. Served in the Lexington Chasseurs, Kentucky State Militia, as 3rd Lieutenant in 1860. Served in the First Regiment, Kentucky State Guard, as paymaster in 1861. Merchant in Lexington in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fayette County, Lexington, District 1, p. 146A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington, District 4, p. 545.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Fayette County, Lexington, District 4, p. 462A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Fayette County Marriages, Film 000009006.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Fayette County, KY, June/July 1863, p. 110.<lb/>
+&quot;Military,&quot; <hi rend="italic">Daily Journal</hi>, (Louisville, KY), April 2, 1860, p. 3. <lb/>
+&quot;First Kentucky Regiment,&quot; <hi rend="italic">Daily Courier</hi>, (Louisville, KY), January 28, 1861. <lb/>
+&quot;Charles H. Harney (1833-1888),&quot; Find A Grave, Memorial 210329161, accessed January 4, 2024, http://www.findagrave.com/memorial/210329161.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
