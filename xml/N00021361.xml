@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021361">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Brockenbrough Phelps</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>A. J. Blaylock</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021361">
+                    <persName>
+                      William Brockenbrough Phelps
+                        (Covington, Kenton County, Kentucky, attorney and soldier - Lt. 1st Ky Inf.)
+                    </persName>
+                        <event type="birth"  when="1834-10-09"  ><ab>1834-10-09</ab></event>
+                        <event type="death"  when="1862-01-10"  ><ab>1862-01-10</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Covington, Kenton County, Kentucky, attorney and soldier. Kentucky native. Son of James W. Phelps and Elizabeth Phelps. Farmer in Boone County, Missouri, in 1850. Graduated from Lexington Law School in Lexington, Rockbridge County, Virginia, in 1856. Attorney in Covington, Kenton County, Kentucky, in 1860. Attorney in Covington in 1861. Served in the 1st Kentucky Volunteer Infantry Regiment (C.S.A.) as a Lieutenant from 1861 to January 10, 1862. Died from injuries sustained at the Battle of Dranesville, Fairfax County, Virginia, on December 22, 1861. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Missouri, Boone County, District 8, p. 419B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington Ward 2, p. 608.<lb/>
+<hi rend="italic">Applications for Headstones and Markers,  7/1/1970-9/30/1985</hi>NARA RG 15. Records of the Department of Veterans Affairs, 1773-2007. <lb/>
+<hi rend="italic">Catalogue of the Alumni of the Lexington Law School, and of its Successor, the Law Department of Washington and Lee University, 1849-1881</hi>Lynchburg: Virginian Steam Print, 1881, 9.<lb/>
+&quot;William Brockenbrough Phelps (1834-1862),&quot; Find A Grave, Memorial 29100157, accessed January 10, 2024, http://www.findagrave.com/memorial/29100157.<lb/>
+<hi rend="italic">Williams&#39; Covington Directory for 1861</hi> (Covington: Williams &amp; Co., 1861), 449.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
