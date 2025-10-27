@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021096">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Milton P. Newcomb</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Brian M. Trump</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021096">
+                    <persName>
+                      Milton P. Newcomb
+                        (Rockcastle County, Kentucky, postmaster and merchant.)
+                    </persName>
+                        <event type="birth"  when="1828-05-28"  ><ab>1828-05-28</ab></event>
+                        <event type="death"  when="1897-11-24"  ><ab>1897-11-24</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Rockcastle County, Kentucky, postmaster and merchant. Kentucky native. Married to Ann E. Smith Newcomb in Rockcastle County, Kentucky, on November 19, 1856. Father of Mary M. Newcomb, Ann L. Newcomb, and Martha L. Newcomb. Postmaster for Mount Vernon in Rockcastle County, Kentucky, from February 14, 1860, to March 20, 1861. Merchant in Rockcastle County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, Mount Vernon, p. 584.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcastle County, Mount Vernon, p. 35A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994053, Rockcastle County Marriages.<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, Records of the Post Office Department, NARA Series M841, RG 28, Rockcastle County, Kentucky, vol. 28, p. 191.<lb/>
+&quot;Milton Perkins Newcomb (1828-1897),&quot; Find A Grave, Memorial 5997860, accessed November 14, 2023, https://www.findagrave.com/memorial/5997860.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
