@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00021522">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert Wickliffe Woolley</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jeremy Knoll</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00021522">
+                    <persName>
+                      Robert Wickliffe Woolley
+                        (Fayette County, KY, lawyer and soldier)
+                    </persName>
+                        <event type="birth"  when="1828"  ><ab>1828</ab></event>
+                        <event type="death"  when="1905"  ><ab>1905</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Fayette County, Kentucky, lawyer and soldier. Kentucky native. Son of Sallie Woolley. Graduated from Transylvania University in Lexington, Kentucky. Attended Harvard Law School in Cambridge, Massachusetts, in 1848. Lawyer in Fayette County, Kentucky, in 1850. Household owned twenty-eight enslaved persons in Fayette County in 1850. Resident of Lexington, Kentucky, in 1860. Household owned sixteen enslaved persons in Lexington in 1860. Captain on the staff of General James J. Archer (C.S.A.) from August 2, 1862, to January 1, 1863. Colonel on the staff of General Simon Bolivar Buckner.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fayette County, District 1, p. 189A.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Fayette County, District 1, p. 577.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington, p. 435.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Fayette County, Lexington Ward 1, p. 450B.<lb/>
+<hi rend="italic">Catalogue of the Officers and Students of the University at Cambridge, for the Academical Year 1847-48</hi> (Cambridge, MA: Metcalf and Company, 1848), 12.<lb/>
+<hi rend="italic">List of Staff Officers of the Confederate States Army</hi> (Washington: Government Printing Office, 1891), 183.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65</hi>, vol. 2 (Frankfort: Legislature of Kentucky, 1915), p. 414.<lb/>
+&quot;Col Robert Wickliffe Woolley (1829-1905),&quot; Find A Grave, Memorial 118934606, accessed January 31, 2024, http://www.findagrave.com/memorial/118934606.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
