@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013502">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Aaron Turpin</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Sarah Haywood</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013502">
+                    <persName>
+                      Aaron Turpin
+                        (Wayne County, Kentucky, student, farm laborer, shoemaker, and soldier)
+                    </persName>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <event type="death"  when="1914"  cert="medium" ><ab>c1914</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Wayne County, Kentucky, student, farm laborer, shoemaker, and soldier. Kentucky native. Son of William Turpin and Milly Turpin. Married Mary F. Smith Turpin in Wayne County, Kentucky, on February 8, 1855. Father of Susan Catherine Turpin and Alfred A. Turpin. Married Elisabeth Dawse Turpin in Pulaski County on March 27, 1861. Father of Polly J. L. Turpin and George W. W. Turpin. Student in Pulaski County in 1850. Farm laborer in Wayne County in 1860. Shoemaker in Wayne County in 1860. Served in the 30th Kentucky Volunteer Mounted Infantry (U.S.A.) as a first sergeant from April 5, 1864, to April 18, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Pulaski County, Division 2, p. 112A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Wayne County, p. 339 and 378.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Pulaski County, Ganes, p. 210A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994027-58, Wayne County Marriages, p. 6 of 23 on microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Pulaski County Marriages, p. 141 of 302 on microfilm (accessed via Ancestry.com). <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Aaron Turpin (13 Sep 1833-2 Dec 1914),&quot; Memorial #54161231, http://www.findagrave.com/memorial/54161231(accessed September 18, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
