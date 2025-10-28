@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013539">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Alfred Lacey Hough</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013539">
+                    <persName>
+                      Alfred Lacey Hough
+                        (PA merchant, capt. 19th US Inf. chief commissary of musters for the army of the cumberland )
+                    </persName>
+                        <event type="birth"  when="1826-04-23"  ><ab>1826-04-23</ab></event>
+                        <event type="death"  when="1908-04-28"  ><ab>1908-04-28</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Philadelphia, Pennsylvania, merchant and soldier. New Jersey native. Son of Jonathan Hough and Jane Chapman Lacey Hough. Merchant in Philadelphia, Pennsylvania, in 1850. Served in the 17th Pennsylvania Infantry Regiment (U.S.A.) as a sergeant from April 18, 1861 to June 29, 1861. Served in the 19th United States Infantry Regiment as captain from May 14, 1861. Served as Chief Commissary of Musters for the Army of the Cumberland from July 1, 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Pennsylvania, Philadelphia County, North Mulberry Ward, p. 421A.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), V. <lb/>
+Hough, Alfred Lacey, <hi rend="italic">Soldier in the West: The Civil War Letters of Alfred Lacey Hough</hi>, ed. Robert G. Athearn (Pickle Partners Publishing, 2017). <lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Gen Alfred Lacey Hough (1826-1908),&quot; Memorial #10656705, http://www.findagrave.com/memorial/10656705 (accessed November 5, 2020).<lb/>
+ KYR-0002-161-0031.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
