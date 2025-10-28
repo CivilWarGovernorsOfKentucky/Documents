@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019238">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Jesse Shocklett Taylor</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019238">
+                    <persName>
+                      Jesse Shocklett Taylor
+                        (Meade County, Kentucky, lawyer)
+                    </persName>
+                        <event type="birth"  when="1820-01-10"  ><ab>1820-01-10</ab></event>
+                        <event type="death"  when="1888-01-31"  ><ab>1888-01-31</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Meade County, Kentucky, lawyer. Meade County, Kentucky, native. Son of John Hayden Taylor and Hannah Shocklett Taylor. Married to Sophia Harlan Taylor in Henderson County, Kentucky, on January 15, 1852. Father of Emma Belle Taylor, Sally Atlanta Taylor, Kate &quot;Kitty&quot; Annette Taylor, Lizzie Taylor, and J. Harlan Taylor. Lawyer in Meade County, Kentucky, in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Meade County, Brandenberg, p. 377. <lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Union County, Morganfield, p. 349A.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Henderson County Marriages, Film #000576460, p. 133. <lb/>
+Alpheus H. Harlan, <hi rend="italic">The History and Genealogy of the Harlan Family: and Particularly of the descendants of George and Michael Harlan, who Settled in Chester County, PA, 1687</hi> (Baltimore, MD: The Lord Baltimore Press, 1914) 657.  
+</bibl></ab>
+    </back>
+</text>
+</TEI>
