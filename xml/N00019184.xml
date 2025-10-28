@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019184">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Matthew Reilly</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019184">
+                    <persName>
+                      Matthew Reilly
+                        (Hickman County, Kentucky, farmer)
+                    </persName>
+                        <event type="birth"  when="1824-11-17"  ><ab>1824-11-17</ab></event>
+                        <event type="death"  when="1892-11-08"  ><ab>1892-11-08</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hickman County, Kentucky, farmer. Virginia native. Married to Emily Harris Reilly in Mississippi County, Missouri, on July 30, 1846. Father of Ann E. Reilly and Napoleon B. Reilly. Married to Sarah Bryers Rodman Reilly in Hickman County, Kentucky, on October 25, 1857. Father of Oscar C. Reilly, Lilborn Reilly, Josephine Reilly, and Thomas E. Reilly. Farmer in Van Buren County, Iowa, in 1850. Farmer in Hickman County, Kentucky, in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Iowa, Van Buren County, Van Buren, p. 277B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hickman County, Clinton, p. 510.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hickman County, Clinton, p. 401. <lb/>
+<hi rend="italic">Missouri, U.S., Marriage Records, 1805-2002</hi>, Missouri State Archives, Jefferson City, MO, Mississippi County Marriages 1845-1881, p. 10-11. <lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records (1852-1910)</hi>, KDLA, Frankfort, KY, Roll 994039, Hickman County Marriages.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 4576.<lb/><lb/>
+&quot;Matthew Reilly (1824-1892),&quot; Find A Grave, Memorial 48175281, accessed January 23, 2023, http://www.findagrave.com/memorial/48175281.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
