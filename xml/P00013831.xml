@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00013831">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Mammoth Cave, Kentucky</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>AaronMPhillips</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Place</term>
+                </keywords>
+            </textClass>
+            <settingDesc>
+                <place xml:id="P00013831">
+                    <placeName>
+                        <location>
+                              <geo>37.1862 -86.1</geo>
+                            <settlement>Mammoth Cave, Kentucky</settlement>
+                        </location>
+                    </placeName>
+                </place> 
+            </settingDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Unincorporated area in Edmonson County, Kentucky. Mammoth Cave became a tourist attraction in the 1840s, utilizing enslaved labor for the purpose of tours and site maintenance. The first post office in Mammoth Cave was established on December 23, 1842, with Archibald Miller serving as postmaster.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Robert M. Rennick, <hi rend="italic">Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 1984), 186.<lb/>
+Horton H. Hobbs III, et al, eds., <hi rend="italic">Mammoth Cave: A Human and Natural History</hi> (New York: Springer International Publishing, 2017), 39-62.<lb/>
+<hi rend="italic">USGS: Earth Explorer</hi>, &quot;Mammoth Cave, Kentucky,&quot; https://earthexplorer.usgs.gov/ (accessed on December 8, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
