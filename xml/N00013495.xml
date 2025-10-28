@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013495">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Randolph Botts</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Carl Creason</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013495">
+                    <persName>
+                      Randolph Botts
+                        (New York, assistant quartermaster )
+                    </persName>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <event type="death"  when="1898"  cert="medium" ><ab>c1898</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>New York, New York, assistant quartermaster. Virginia native. Son of Alexander L. Botts and Susan F. Botts. Married to Cornelia M. Botts. Father of John R. Botts. Clerk in New York, New York, in 1850. Served in the 13th New York Infantry (U.S.A.) as a private. Appointed as Assistant Quartermaster in the U.S. Army with the rank of captain on July 18, 1862. Reported as a resident of Catlettsburg, Kentucky, in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, New York, New York County, New York Ward 9, District 1, p. 93B.<lb/>
+<hi rend="italic">Census of the State of New York</hi> (1875), New York, Broome County, Binghamton Ward 2, p. 25.<lb/>
+<hi rend="italic">U.S. Civil War Pension Index: General Index to Pension Files, 1861-1934</hi>, NARA RG 15, Microfilm Series T288, New York, Application #954653, Certificate #589974.<lb/>
+&quot;IMPORTANT FROM WASHINGTON.; ADJOURNMENT OF CONGRESS SINE DIE... Approval of the Confiscation Act by President..&quot; The New York Times, July 18, 1862, http://www.nytimes.com.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Randolph Botts (1833-1898),&quot; Memorial #    11674872, http://www.findagrave.com/memorial/11674872 (accessed December 10, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
