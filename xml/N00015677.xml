@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00015677">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Samuel H. Thompson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00015677">
+                    <persName>
+                      Samuel H. Thompson
+                        (Rockcastle County, Kentucky, soldier in 7th Ky US and provost marshal)
+                    </persName>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
+                        <event type="death"  when="1917-01-28"  ><ab>1917-01-28</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Rockcastle County, Kentucky, soldier and provost marshal. Kentucky native. Son of M. Thompson and Lucinda Thompson. Married to Susan C. Thompson. Father of James W. Thompson and Theopholis Thompson. Resident in Rockcastle County, Kentucky, in 1850. Served in Company K of the 7th Kentucky Volunteer Infantry Regiment (U.S.A.) as a first lieutenant from September 22, 1861 to June 26, 1862. Served as Provost Marshal for Rockcastle County. Farmer in Rockcastle County in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Rockcastle  County, Southern District, p. 175B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcastle County, Mount Vernon, p. 34A. <lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Rockcastle  County, KY, 1863, p. 366.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 767.<lb/>
+&quot;Old Citizen Passes Away,&quot; <hi rend="italic">Mount Vernon Signal</hi> (Mount Vernon KY), February 2, 1917, p. 5.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
