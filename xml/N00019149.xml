@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019149">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Quiros Elmo Beckwith</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019149">
+                    <persName>
+                      Quiros Elmo Beckwith
+                        (Mississippi County, Missouri, farmer)
+                    </persName>
+                        <event type="birth"  when="1801-09-25"  ><ab>1801-09-25</ab></event>
+                        <event type="death"  when="1862-09-03"  ><ab>1862-09-03</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mississippi County, Missouri, farmer. Virginia native. Son of Newman Beckwith and Judith A. Neal Beckwith. Married to Susan Johnson Beckwith on April 2, 1839. Father of Thomas Beckwith, Ellen Beckwith, Margaret Beckwith, and Quiros Beckwith. Farmer in Mississippi County, Missouri, in 1850. Owned forty enslaved persons in Mississippi County in 1850. Farmer in Mississippi County in 1860. Owned ninety enslaved persons, including Elijah and James, in Mississippi County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Missouri, Mississippi County, District 57, p. 472A-B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Missouri, Mississippi County, p. 671.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Missouri, Mississippi County, Wolf Island, p. 529.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Missouri, Mississippi County, Wolf Island, p. 88A-B.<lb/>
+Paul Beckwith, <hi rend="italic">The Beckwiths</hi>, (Albany: Joel Munsell&#39;s Sons Publishers, 1891), 66-67.<lb/>
+&quot;Quiros Elmo Beckwith (1801-1862),&quot; Find A Grave, Memorial 246193034, accessed January 16, 2023, http://www.findagrave.com/memorial/246193034.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
