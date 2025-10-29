@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00018712">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Asahel Huntington Patch</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00018712">
+                    <persName>
+                      Asahel Huntington Patch
+                        (Jefferson County, Kentucky, overseer and manufacturer)
+                    </persName>
+                        <event type="birth"  when="1825-11-24"  ><ab>1825-11-24</ab></event>
+                        <event type="death"  when="1909-01-29"  ><ab>1909-01-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, overseer and manufacturer. Massachusetts native. Married to Sarah Marsh Patch. Father of Fannie E. Patch, George M. Patch, and Mary E. Patch. Overseer in Worcester County, Massachusetts, in 1850. Partners with James A. Miller, Reuben A. Wingate, and Joseph A. Moore in Miller in Wingate &amp; Co. agricultural manufactures in Jefferson County, Kentucky, in 1859. Manufacturer in Jefferson County in 1860. Partners with William Allen in A.H. Patch &amp; Co. agricultural works in Jefferson County in 1861. Manufacturer in Jefferson County in 1863. Plow manufacturer in Jefferson County in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Worcester County, Worcester, District 2, p. 136B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, District 4, p. 64.<lb/>
+<hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Tennessee, Montgomery County, District 12, p. 361C.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi>, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA RG 110, Jefferson County, KY, July 1863, p. 116.<lb/>
+<hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1859-1860</hi> ed. Henry Tanner (Louisville: Maxwell &amp; Co, 1859), 180. <lb/>
+<hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 192.<lb/>
+<hi rend="italic">Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</hi> (Louisville: Edwards, Greenough &amp; Deved, 1866), 473.<lb/>
+&quot;A.H. Patch Dies Suddenly.&quot; <hi rend="italic">Leaf-Chronicle.</hi> (Clarksville, TN), January, 30, 1909.<lb/>
+&quot;Asahel Huntington Patch (1825-1909),&quot; Find A Grave, Memorial 11145089, accessed September 29, 2022, http://www.findagrave.com/memorial/11145089.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
