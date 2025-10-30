@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014497">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Joseph Gwynn</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014497">
+                    <persName>
+                      Joseph Gwynn
+                        (Clermont County, Ohio, postmaster and shinglemaker)
+                    </persName>
+                        <event type="birth"  when="1793"  cert="medium" ><ab>c1793</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Clermont County, Ohio, postmaster and shinglemaker. Maryland native. Married to Margaret Carnsen Gwynn in Clermont County, Ohio, on October 11, 1817. Father of Washington Gwynn, Hanson L. Gwynn, and Martin W. Gwynn. Postmaster of Moscow, Ohio, until October 18, 1833. Shinglemaker in Clermont County, Ohio, in 1850. Employed Hanson L. Gwynn as a laborer in Clermont County in 1850. Shinglemaker in Clermont County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Clermont County, Washington Township, p. 34B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Clermont County, Washington Township,Town of Moscow, p. 462.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Clermont County, Washington Township,Town of Moscow,  p. 386B.<lb/>
+<hi rend="italic">Ohio Marriage Records, 1774-1993</hi>, Clermont County Courthouse, Batavia, Clermont County Marriages, 1801-1821, Film #000327559, p. 72, p. 112 of 284 of microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971.</hi> Records of the Post Office Department, NARA Series M841, RG 28, Clermont County, Ohio, Volume 9 (1832-1843), p. 29, p. 328 of 558 of microfilm.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
