@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014113">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William H. Gardner</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014113">
+                    <persName>
+                      William H. Gardner
+                        (Pendleton County, KY, farmer and postmaster)
+                    </persName>
+                        <event type="birth"  when="1822"  ><ab>1822</ab></event>
+                        <event type="death"  when="1872"  ><ab>1872</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Pendleton County, Kentucky, farmer and postmaster. Kentucky native. Married to Elizabeth Kendall Gardner in Grant County, Kentucky, on January 4, 1844. Father of Minerva C. Gardner, Nancy R. Gardner, Ezra K. Gardner, Frances “Fanny” M. Gardner, John W. W. Gardner, Emma D. Gardner, and Anabelle Gardner. Farmer in Pendleton County, Kentucky, in 1860. Employed William Garmon as an apprentice in Pendleton county in 1860. Postmaster of Gardnersville, Kentucky, from September 13, 1861, to January 10, 1865. Farmer in Pendleton County in 1863. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pendleton County, p. 525.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Pendleton County, Precinct 5,  p. 476A-B.<lb/>
+<hi rend="italic">Kentucky Marriage Records, 1783-1965</hi>, Madison County Courthouse, Richmond, Kentucky, Grant County Marriages, 1832-1861, Film #000266220, p. 452 of 532 of microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Kentucky Marriage Records, 1783-1965</hi>, Madison County Courthouse, Richmond, Kentucky, Grant County Marriages, 1820-1865, Film #001490815, p. 556 of 742 of microfilm (accessed via Ancestry.com).<lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971.</hi> Records of the Post Office Department, NARA Series M841, RG 28, Pendleton County, Kentucky,, p. 163.<lb/>
+<hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Pendleton County, KY, June and July 1863, p. 92.<lb/>
+<hi rend="italic">Find A Grave</hi>, “William Gardner (1832-1864),&quot; Memorial # 182684087, https://www.findagrave.com/memorial/182684087/william-gardner (accessed March 17, 2021).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
