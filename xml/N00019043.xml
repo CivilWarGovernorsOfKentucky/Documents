@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019043">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Russell Hawkins</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019043">
+                    <persName>
+                      James Russell Hawkins
+                        (Franklin County, Kentucky, physician and clerk of the Kentucky Senate)
+                    </persName>
+                        <event type="birth"  when="1805-01-30"  ><ab>1805-01-30</ab></event>
+                        <event type="death"  when="1897-02-01"  ><ab>1897-02-01</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Franklin County, Kentucky, physician and clerk. Virginia native. Married to Sarah Adeline Bowles Hawkins in Henrico County, Virginia, on March 9, 1825. Father of Joseph L. Hawkins, Mary E. Hawkins, James R. Hawkins, Jr., Julia L. Hawkins, Susan V. Hawkins, Mildred J. Hawkins, William B. Hawkins, and Hamilton P. Hawkins. Physician in Boone County, Kentucky, in 1850. Member of the Board of Visitors for the Kentucky Military Institute in Franklin County in 1853. Member of the Board of Visitors for the Kentucky Military Institute in Franklin County in 1855. Clerk of the Senate of the Commonwealth of Kentucky from 1854 through 1859. Physician in Franklin County in 1860. Owned one enslaved person in Franklin County in 1860. Assistant clerk of the Senate of the Commonwealth of Kentucky in 1861. Clerk of the Senate of the Commonwealth of Kentucky from 1864 through 1866. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Boone County, District 1, p. 142B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District 2, p. 313.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Franklin County, District 2, p.498 A.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Bridgeport, p. 55B. <lb/>
+<hi rend="italic">Virginia Marriage Records,</hi> Henrico County Marriages, Virginia Department of Health, Office of Vital Statistics, Richmond, Virginia, Film #007578986.<lb/>
+&quot;General Assembly of Kentucky,&quot; <hi rend="italic">Louisville Daily Courier,</hi> (Louisville, KY), January 1, 1856. <lb/>
+&quot;Kentucky Legislature,&quot; <hi rend="italic">Louisville Daily Courier,</hi> (Louisville, KY), December 8, 1857. <lb/>
+&quot;Kentucky Legislature,&quot; <hi rend="italic">Louisville Daily Courier,</hi> (Louisville, KY), December 6, 1859. <lb/>
+&quot;Special <lb/>
+&quot;Hawkins Dead,&quot; <hi rend="italic">Lexington Herald-Leader,</hi> (Lexington, KY), February 2, 1897. <lb/>
+<hi rend="italic">Catalogue of the Officers and Cadets of the Kentucky Military Institute.</hi> (Frankfort: Albert Hodges &amp; Co, 1853). <lb/>
+<hi rend="italic">Catalogue of the Officers and Cadets of the Kentucky Military Institute.</hi> (Frankfort: Albert Hodges &amp; Co, 1855). <lb/>
+<hi rend="italic">The American Almanac and Repository of Useful Knowledge for the year 1854.</hi> (Boston: Phillips, Sampson, &amp; Company, 1854), 292. <lb/>
+&quot;Dr. James Russell Hawkins (1805-1897),&quot; Find A Grave, Memorial 97864563, accessed December 12, 2022, http://www.findagrave.com/memorial/97864563.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
