@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019061">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Hugh Irvine</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Daniele Celano</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019061">
+                    <persName>
+                      Hugh Irvine
+                        (Louisville, Kentucky, farmer, merchant, councilman, and state representative)
+                    </persName>
+                        <event type="birth"  when="1807-02-05"  ><ab>1807-02-05</ab></event>
+                        <event type="death"  when="1864-04-19"  ><ab>1864-04-19</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, farmer, lumber merchant, councilman, and state representative. Pennsylvania native. Married to Anne Caruthers Irvine. Father of Elizabeth Irvine, William Irvine, Mary Irvine, Nancy J. Irvine, James Irvine, and John B. Irvine. Farmer in Westmoreland County, Pennsylvania, in 1850. Lumber merchant in Louisville, Kentucky, in 1860. Lumber merchant in Louisville in 1861. Merchant in Lousiville in 1863. Councilman for the First Ward of the Louisville City Council from 1861 to 1863. Delegate to the Congressional Convention for the Fifth Congressional District of Kentucky in 1863.  Member of the House of Representatives of the Commonwealth of Kentucky from the City of Louisville from 1863 to 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Pennsylvania, Westmoreland County, Franklin, p. 285A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Lousiville, District 1, p. 346.<lb/>
+<hi rend="italic">Kentucky Death Certificates, 1911-1965</hi>, Kentucky Office of Vital Statistics, KDLA, Frankfort, KY, File 5795.<lb/><lb/>
+<hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 09, Jefferson County, Kentucky, 1863, p. 11.<lb/>
+<hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> ed. Henry Tanner (Louisville: Directory Publication and Advertising Agency, 1861), 130.<lb/>
+&quot;For Councilman,&quot; <hi rend="italic">Courier-Journal,</hi> (Louisville, KY), April 1, 1861.<lb/>
+&quot;Meeting in the... First, Tenth, and Eleventh Wards at the Working Men&#39;s Hall,&quot; <hi rend="italic">Courier-Journal,</hi> (Louisville, KY), March 14, 1863. <lb/>
+&quot;Untitled,&quot; <hi rend="italic">Courier-Journal,</hi> (Louisville, KY), July 7, 1863. <lb/>
+Kentucky, General Assembly. House of Representatives, &quot;Journal of the House of Representatives of the Commonwealth of Kentucky, December 7, 1863 - February 22, 1864&quot; (1863). <hi rend="italic">Journals of the General Assembly of the Commonwealth of Kentucky.</hi> https://uknowledge.uky.edu/ky<hi rend="italic">state</hi>journals/42 <lb/>
+&quot;Hugh Irvine (1807-1864),&quot; Find A Grave, Memorial 93970009, accessed December 15, 2022, http://www.findagrave.com/memorial/93970009.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
