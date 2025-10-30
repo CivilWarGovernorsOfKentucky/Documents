@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013315">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George A. Tapscott</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013315">
+                    <persName>
+                      George A. Tapscott
+                        (Simpson County, Kentucky, farmer)
+                    </persName>
+                        <event type="birth"  when="1812-12-07"  ><ab>1812-12-07</ab></event>
+                        <event type="death"  when="1901-10-05"  ><ab>1901-10-05</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Simpson County, Kentucky, farmer. Virginia native. Married to Mary Jane Harvey Tapscott in Edmonson County, Kentucky, on November 15, 1838. Father of Charles Tapscott, Walter R.Tapscott, Alexander Tapscott, Edward Tapscott, Mary A. Tapscott, and Martha H. Tapscott. Farmer in Simpson County, Kentucky, in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Simpson County, p. 88.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Simpson County, Lake Spring, p. 30B.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Edmonson County Marriages, Film #001904232, p. 4.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;George A. Tapscott (7 Dec 1812-5 Oct 1901),&quot; Memorial #203734732 , http://www.findagrave.com/memorial/203734732 (accessed August 24, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
