@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00013414">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Nathan R. Harris</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hailey Brangers</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00013414">
+                    <persName>
+                      Nathan R. Harris
+                        (Simpson County, Kentucky, farmer)
+                    </persName>
+                        <event type="birth"  when="1805-09-23"  ><ab>1805-09-23</ab></event>
+                        <event type="death"  when="1881-03-30"  ><ab>1881-03-30</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Simpson County, Kentucky, farmer. Virginia native. Married to Elizabeth Harris. Father of G. Susan C. Harris, George T. Harris, Mary R. Harris, Sarah E. Harris, Nathan D. Harris, S. G. Harris, Emily F. Harris, James Harris, Louisa Harris, John Harris, Robert Harris, and Eudorah Harris. Married to Mary Harris. Farmer in Simpson County, Kentucky, in 1850. Owned eighteen enslaved persons in Simpson County in 1850. Farmer in Simpson County in 1860. Owned twenty-one enslaved persons in Simpson County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Simpson County, p. 15B.<lb/>
+<hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Simpson County, p. 849.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Simpson County, p. 41.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Simpson County, p. 302B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Simpson County, Sub District No. 150,, p. 39A.<lb/>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, KDLA, Roll #994055, Simpson, Spencer, Taylor, County Deaths, p. 2.<lb/>
+<hi rend="italic">Find A Grave</hi>, &quot;Nathan Robert Harris (23 Sep 1805-30 Mar 1881),&quot; Memorial #42408356, http://www.findagrave.com/memorial/42408356 (accessed September 8, 2020).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
