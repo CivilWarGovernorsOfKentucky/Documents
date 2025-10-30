@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00014489">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Fossett</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Deborah J. Thompson</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00014489">
+                    <persName>
+                      William Fossett
+                        (Pendleton County, KY, farmworker)
+                    </persName>
+                        <event type="birth"  when="1843-10-10"  ><ab>1843-10-10</ab></event>
+                        <event type="death"  when="1923-04-27"  ><ab>1923-04-27</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Pendleton County, Kentucky, farmworker. Kentucky native. Son of Daniel Fossett and Louisa Fossett. Student in Pendleton County in 1850. Farmworker with Samuel W. Fossett for Daniel Fossett in Pendleton County in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Pendleton County, District 1, p. 373A.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pendleton County, p. 648.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Pendleton County, Precinct 4,  p. 445B.<lb/>
+<hi rend="italic">Vital Statistics Original Death Certificates – Microfilm (1911-1965)</hi>, KDLA, Film 7017481: All Counties: Pendleton County, 1923, File #12132, p. 2640 of 3313 of microfilm.<lb/>
+<hi rend="italic">Find A Grave</hi>, “William Henry Fossett (1842-1923),&quot; Memorial #68226667, https://www.findagrave.com/memorial/68226667/william-henry-fossett  (accessed May 18, 2021).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
