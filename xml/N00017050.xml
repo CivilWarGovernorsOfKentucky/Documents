@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00017050">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James F. Lauck</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00017050">
+                    <persName>
+                      James F. Lauck
+                        (Franklin County, Kentucky, teacher of languages, lawyer, and lieutenant colonel )
+                    </persName>
+                        <event type="birth"  when="1830-10-10"  ><ab>1830-10-10</ab></event>
+                        <event type="death"  when="1896-06-09"  ><ab>1896-06-09</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Simpson County, Kentucky, teacher of languages, lawyer, and lieutenant colonel. Brooke County, [West] Virginia, native. Married to Mary E. Harris Lauck in Simpson County, Kentucky, on April 16, 1857. Father of Robin E. Lauck, Edward E. Lauck, and Lucy J. Lauck. Graduate of Bethany College in Brooke County, [West] Virginia, in 1851. Teacher of languages in Simpson County, Kentucky, in 1860. Household owned seven enslaved persons in Simpson County in 1860. Lawyer in Simpson County in 1861. Raised and served in the 33rd Kentucky Volunteer Infantry Regiment (U.S.A.) as lieutenant colonel from August 16, 1862, to February 16, 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Simpson County, Franklin, p. 7-8.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Simpson County, Franklin, p. 295B.<lb/>
+<hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kansas, Butler County, Augusta, p. 664B. <lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0404.<lb/>
+&quot;Judge Lauck Dead,&quot; <hi rend="italic">The Wichita Beacon</hi> (Wichita, KS), June 10, 1896, p. 1.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
