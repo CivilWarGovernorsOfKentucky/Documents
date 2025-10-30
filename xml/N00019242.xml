@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00019242">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Julia Dent Grant </title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Rachael Nicholas</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00019242">
+                    <persName>
+                      Julia Dent Grant 
+                        (Jo Daviess County, Illinois, resident)
+                    </persName>
+                        <event type="birth"  when="1826"  ><ab>1826</ab></event>
+                        <event type="death"  when="1902-12-14"  ><ab>1902-12-14</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="F"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jo Daviess County, Illinois, resident. St. Louis, Missouri, native. Daughter of Frederick Dent and Ellen Wrenshall Dent. Married to Ulysses S. Grant in St. Louis, Missouri, on September 10, 1848. Mother of Frederick Dent Grant, Ulysses S. Grant, Jr., Ellen W. Grant, and Jesse Grant. Resident in St. Louis in 1850. Resident in Jo Daviess, County, Illinois in 1860. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Missouri, St. Louis County, St. Louis Ward 3, p. 232B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, Jo Daviess County, Galena Ward 3, p. 415.<lb/>
+&quot;Julia D. Grant,&quot; <hi rend="italic">Messenger-Inquirer</hi> (Owensboro, KY), December 16, 1902, p. 1. <lb/>
+<hi rend="italic">Missouri Marriage Records</hi>, Missouri State Archives, Jefferson City, Missouri, St. Louis County Marriages, 1847-1852, p. 72 of 545 of microfilm. 
+</bibl></ab>
+    </back>
+</text>
+</TEI>
