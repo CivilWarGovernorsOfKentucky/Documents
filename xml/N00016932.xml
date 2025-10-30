@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00016932">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James M. Adams</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Charles Welsko</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Kevin McPartland</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00016932">
+                    <persName>
+                      James M. Adams
+                        (Larue County, Kentucky, blacksmith and officer in the 33rd and 27th KY )
+                    </persName>
+                        <event type="birth"  when="1821"  ><ab>1821</ab></event>
+                        <event type="death"  when="1912"  ><ab>1912</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Larue County, Kentucky, blacksmith and soldier. Illinois native. Married to Mary Kastor Adams in Larue County, Kentucky, on August 1, 1846. Father of N. B. Adams, James Adams, W. A. Adams, Alvey Adams, and Sam Adams. Farmer in Larue County in 1850. Blacksmith in Larue County in 1860. Served in the 7th Kentucky Cavalry (U.S.A.) as a 1st Lieutenant from August 19, 1862, to September 16, 1862. Served in Company C, 33rd Kentucky Volunteer Infantry (U.S.A.) as a first Lieutenant from September 16, 1862, to April 7, 1864. Served in Company I 26th Kentucky Volunteer Infantry (U.S.A.) as a 1st Lieutenant from April 7, 1864 to March 17, 1865. Served in Company I 26th Kentucky Volunteer Infantry (U.S.A.) as a Captain from March 17, 1865, to June 30, 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Larue County, Hamiltons, p. 441B.<lb/>
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Larue County, Hodgenville, p. 332.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 403.<lb/>
+<hi rend="italic">Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From the State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 374.<lb/>
+<hi rend="italic">Kentucky Marriage Records</hi>, Madison County Courthouse, Richmond, Kentucky, Larue County Marriages, Film #000409559.<lb/>
+<hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 224.<lb/>
+&quot;James M. Adams (1821-1912),&quot; Find A Grave, Memorial #24482543, accessed January 5, 2022, http://www.findagrave.com/memorial/24482543.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
