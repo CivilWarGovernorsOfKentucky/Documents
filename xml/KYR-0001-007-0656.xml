@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0656"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bureau Refugees, Freedmen and Abandoned Lands,
-<lb/>States of Kentucky, Tennessee and Nor. Alabama.<figure type="hr"/></p>
+   <p><orgName ref="cwgk:O00012105">Bureau Refugees, Freedmen and Abandoned Lands,</orgName>
+<lb/>States of <placeName ref="cwgk:P001800">Kentucky</placeName>, <placeName ref="cwgk:P001001">Tennessee</placeName> and Nor. <placeName ref="cwgk:P00002509">Alabama</placeName>.<figure type="hr"/></p>
 <p>ASSISTANT COMMISSIONER'S OFFICE,
-<lb/>Nashville Tenn <date when="1865-12-30">Dec 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
-<lb/>Hon Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
+<lb/><placeName ref="cwgk:P001004">Nashville</placeName> Tenn <date when="1865-12-30">Dec 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>Hon <persName ref="cwgk:N001000">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette</persName>
 <lb/>Gov of Kentucky
-<lb/>Frankfort Ky</p>
-<p>I have the honor to request that you appoint David T. Terry Esq of New. York. a "Commissioner of Deeds &amp;c for Kentucky -- Captain Terry has been a faithful soldier in the late war -- is a good lawyer and a christian gentleman. I will thank you for his Commission. which may be sent to myself or to him direct at No 200 Mulberry S<hi rend="underline"><hi rend="sup">t</hi></hi> New. York.</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky</p>
+<p>I have the honor to request that you appoint <persName ref="cwgk:N00012108">David T. Terry</persName> Esq of New. York. a "Commissioner of Deeds &amp;c for Kentucky -- Captain Terry has been a faithful soldier in the late war -- is a good lawyer and a christian gentleman. I will thank you for his Commission. which may be sent to myself or to him direct at No 200 Mulberry S<hi rend="underline"><hi rend="sup">t</hi></hi> New. York.</p>
 <p>I am Sir with great Respect
 <lb/>Your Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Servant
-<lb/>Clinton B. Fisk
+<lb/><persName ref="cwgk:N00012107">Clinton B. Fisk</persName>
 <lb/>Brevet Maj Genl
-<lb/>U. S. Vols<pb/></p>
+<lb/><orgName ref="cwgk:O00001186">U. S. Vols</orgName><pb/></p>
 <p>Co<hi rend="sup">m</hi>r of Deeds
 <lb/>New York
 <lb/>David T. Terry
