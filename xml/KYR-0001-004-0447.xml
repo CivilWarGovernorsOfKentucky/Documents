@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0447"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,28 +71,28 @@
  </teiHeader>
  <text>
   <body>
-   <p>Dixon Ky <date when="1864-01-30">Jany 30<hi rend="sup">th</hi>/ 64</date>
+   <p><placeName ref="cwgk:P00002311">Dixon </placeName><placeName ref="cwgk:P001800">Ky </placeName><date when="1864-01-30">Jany 30<hi rend="sup">th</hi>/ 64</date>
 <lb/>To his Excelency
-<lb/>Thomas E Bramlet
-<lb/>Govenor of Kentucky</p>
-<p>We the under signed Jurors who were empanelled at the <date when="1863-09">September Term of the Webster Circuit Court for 1863</date> to try Elijah Hayden upon an indictment which charged said Hayden of fellony would respectfully Represent to your Honor that said charge was only sustained by the confession of the accused and that we are satisfied and believe that under ordinary Circumstances the accused would never have commited any fellony or have been guilty of any crime and that what he done was more for the sake of self preservation than for gain or peculation</p>
+<lb/><persName ref="cwgk:N001000">Thomas E Bramlet</persName>
+<lb/>Govenor of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>We the under signed Jurors who were empanelled at the <date>September Term of the <orgName ref="cwgk:O00000588">Webster Circuit Court</orgName> for 1863</date> to try <persName ref="cwgk:N00017195">Elijah Hayden</persName> upon an indictment which charged said Hayden of fellony would respectfully Represent to your Honor that said charge was only sustained by the confession of the accused and that we are satisfied and believe that under ordinary Circumstances the accused would never have commited any fellony or have been guilty of any crime and that what he done was more for the sake of self preservation than for gain or peculation</p>
 <p>Where fore We in connection with <hi rend="str">with</hi> the Judge who tried the cause and those who gave the information would respectfully ask of your excelency that <hi rend="str">that</hi> the said Elijah Hayden be granted a reprieve and that your Honor will pardon the accused and<pb/>
 <lb/>that he be permitted to return to his family where fore we will ever pray</p>
-<p>James M Rice
-<lb/>Jesuh Rice
+<p><persName ref="cwgk:N00017162">James M Rice</persName>
+<lb/><persName ref="cwgk:N00008292">Jesuh Rice</persName>
 <lb/><hi rend="str">J C Baker</hi>
-<lb/>Samuel W. Cavanah
-<lb/>Alfard ^his x mark^ Williams
-<lb/>Alexander Cates
-<lb/>W. R. Staples
-<lb/>Isaac Baker
-<lb/>Anderson Boster
-<lb/>A.. Cannal
-<lb/>Lemmel Overly
-<lb/>Squiers Mooney
-<lb/>S U Woodson
-<lb/>James R Johnson
-<lb/>E D M<hi rend="sup">c</hi>Bride J,H,C
+<lb/><persName ref="cwgk:N00016662">Samuel W. Cavanah</persName>
+<lb/><persName ref="cwgk:N00017186">Alfard ^his x mark^ Williams</persName>
+<lb/><persName ref="cwgk:N00002529">Alexander Cates</persName>
+<lb/><persName ref="cwgk:N00017193">W. R. Staples</persName>
+<lb/><persName ref="cwgk:N00001063">Isaac Baker</persName>
+<lb/><persName ref="cwgk:N00017174">Anderson Boster</persName>
+<lb/><persName ref="cwgk:N00017185">A.. Cannal</persName>
+<lb/><persName ref="cwgk:N00016760">Lemmel Overly</persName>
+<lb/><persName ref="cwgk:N00017170">Squiers Mooney</persName>
+<lb/><persName ref="cwgk:N00013597">S U Woodson</persName>
+<lb/><persName ref="cwgk:N00016747">James R Johnson</persName>
+<lb/><persName ref="cwgk:N00017173">E D M<hi rend="sup">c</hi>Bride J,H,C</persName>
 <lb/><note place="right margin">Jurors</note><pb/></p>
 <p>Webster Cir Ct
 <lb/>vs
