@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0090"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kayla Adams</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,8 @@
  <text>
   <body>
    <p><date when="1861-03-07">7</date> 
-<lb/>The Governor appointed Thomas Dugan Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for Ohio. (Portsmouth.)</p>
-<p>He commissioned Henry J. Lyons Captain in the Quartermaster Department, with the Rank of Colonel.
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> appointed <persName ref="cwgk:N00002571">Thomas Dugan</persName> Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for Ohio. (<placeName ref="cwgk:P00002578">Portsmouth</placeName>.)</p>
+<p>He commissioned <persName ref="cwgk:N00011603">Henry J. Lyons</persName> Captain in the Quartermaster Department, with the Rank of Colonel.
 <lb/></p>
   </body>
  </text>
