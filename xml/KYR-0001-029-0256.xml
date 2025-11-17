@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0256"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,28 +71,28 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Governor Robinson</p>
-<p>Your petitioner Reuben Malone (a free man of color) states he was induced to become the surety in a recognisance of Betsey Cowan (a free woman of color) conditioned that she should appear to answer a charge of felony at the <date when="1862-05">May Term 1862</date> of the Adair Circuit Court in having enticed away a slave the property of D. C. Hardin Esq -- The bail bond was for the sum of One Hundred Dollars -- </p>
-<p>Your petitioner was induced to beleive the woman Betsey Cowan was innocent of the charge against her -- He is satisfied no sufficient proof of guilt could have been brought against her on final trial from talking with Attorneys who prosecuted and defended the said negro, He has made diligent efforts to have said negro brought to justice and trial, He is very old, not able to pay the amount of the fine without serious inconvenience, his home now being levied on by the Sheriff to satisfy the fine aforesaid -- therefore he prays that said fine &amp; forfeited recognisance be remitted -- </p>
+   <p>To his Excellency <persName ref="cwgk:N001004">Governor Robinson</persName></p>
+<p>Your petitioner <persName ref="cwgk:N00019117">Reuben Malone</persName> (a free man of color) states he was induced to become the surety in a recognisance of <persName ref="cwgk:N00019118">Betsey Cowan</persName> (a free woman of color) conditioned that she should appear to answer a charge of felony at the <date when="1862-05">May Term 1862</date> of the <orgName ref="cwgk:O00000338">Adair Circuit Court</orgName> in having enticed away a <persName ref="cwgk:N00019119">slave</persName> the property of <persName ref="cwgk:N00012706">D. C. Hardin</persName> Esq -- The bail bond was for the sum of One Hundred Dollars -- </p>
+<p>Your petitioner was induced to beleive the woman Betsey Cowan was innocent of the charge against her -- He is satisfied no sufficient proof of guilt could have been brought against her on final trial from talking with Attorneys who prosecuted and defended the said negro, He has made diligent efforts to have said negro brought to justice and trial, He is very old, not able to pay the amount of the fine without serious inconvenience, his home now being levied on by the <persName ref="cwgk:N00019114">Sheriff</persName> to satisfy the fine aforesaid -- therefore he prays that said fine &amp; forfeited recognisance be remitted -- </p>
 <p>Reuben Malone</p>
 <p>We join in the above
-<lb/>W<hi rend="sup">m</hi> E Russell
-<lb/>J, T, Bramlette Cty, Atty.
-<lb/>P W Hardin
-<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> A. Peebles
-<lb/>W<hi rend="sup">m</hi> O. Murrue<pb/></p>
-<p>This petition is signed by both the Attorneys who prosecuted &amp; defended in the case referred to, and also by P W Hardin the principal witness for the Com"th -- who is son to the Prosecutor and a practising Attorney -- </p>
+<lb/><persName ref="cwgk:N00003616">W<hi rend="sup">m</hi> E Russell</persName>
+<lb/><persName ref="cwgk:N00007275">J, T, Bramlette</persName> Cty, Atty.
+<lb/><persName ref="cwgk:N00019113">P W Hardin</persName>
+<lb/><persName ref="cwgk:N00019115">Jn<hi rend="underline"><hi rend="sup">o</hi></hi> A. Peebles</persName>
+<lb/><persName ref="cwgk:N00019116">W<hi rend="sup">m</hi> O. Murrue</persName><pb/></p>
+<p>This petition is signed by both the Attorneys who prosecuted &amp; defended in the case referred to, and also by P W Hardin the principal witness for the <orgName ref="cwgk:O001025">Com"th</orgName> -- who is son to the Prosecutor and a practising Attorney -- </p>
 <p>I am satisfied it is a meritorious Case and if it suits the views of your Excellency to remit the fine it would gratify -- </p>
 <p>Yours Truly
-<lb/>Nat Gaither<pb/></p>
-<p>Adair Co<figure type="hr"/></p>
+<lb/><persName ref="cwgk:N00002525">Nat Gaither</persName><pb/></p>
+<p><placeName ref="cwgk:P001017">Adair Co</placeName><figure type="hr"/></p>
 <p>Reuben Malone
-<lb/>To &#125; Petition to Remit Fine
+<lb/>To } Petition to Remit Fine
 <lb/>Gov<hi rend="sup">r</hi> Robinson<figure type="hr"/></p>
 <p>One half remitted &amp; respite six months for ballance
 <lb/>J F Robinson</p>
 <p>Iss<hi rend="sup">d</hi> <date when="1863-02-09">Feby 9. 1863</date><figure type="hr"/></p>
-<p>&#36;100 &#125; Bail Bond</p>
+<p>$100 } Bail Bond</p>
   </body>
  </text>
 </TEI>
