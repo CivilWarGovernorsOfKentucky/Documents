@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0051"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,18 +72,18 @@
  <text>
   <body>
    <p><date when="1861-01-16">16</date> 
-<lb/>The Governor accepted the resignations of H. H. Culbertson W. H. Cressy, Jo<hi rend="sup">s</hi> C. Bailey &amp; W. G. Stone, Capt. 1<hi rend="underline"><hi rend="sup">st</hi></hi> 2<hi rend="underline"><hi rend="sup">d</hi></hi> &amp; 3<hi rend="sup">d</hi> Lieut of the Woodford Blues<pb/></p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> accepted the resignations of <persName ref="cwgk:N00013976">H. H. Culbertson</persName> <persName ref="cwgk:N00021555">W. H. Cressy</persName>, <persName ref="cwgk:N00021557">Jo<hi rend="sup">s</hi> C. Bailey</persName> &amp; <persName ref="cwgk:N00021554">W. G. Stone</persName>, Capt. 1<hi rend="underline"><hi rend="sup">st</hi></hi> 2<hi rend="underline"><hi rend="sup">d</hi></hi> &amp; 3<hi rend="sup">d</hi> Lieut of the <orgName ref="cwgk:O00000916">Woodford Blues</orgName><pb/></p>
 <p><note place="header">161</note></p>
 <p><date when="1861">1861</date> Executive Journal</p>
 <p><date when="1861-01-16">Jany 16</date> 
-<lb/>The Governor approved an account of &#36;87.<hi rend="sup">50</hi>/<hi rend="sub">100</hi> for the Services of three guards at State Arsenal certified as correct by the Q<hi rend="underline"><hi rend="sup">r</hi></hi> M<hi rend="underline"><hi rend="sup">r</hi></hi> Genl.</p>
-<p>He issued a Proclamation ordering an election in the county of Warren for Representative in the General Assembly made vacant by the resignation of P. Hines -- Setting forth Saturday Jany. 26<hi rend="underline"><hi rend="sup">th</hi></hi> as the day for said election.</p>
+<lb/>The Governor approved an account of $87.<hi rend="sup">50</hi>/<hi rend="sub">100</hi> for the Services of three guards at <orgName ref="cwgk:O00010811">State Arsenal</orgName> certified as correct by the <persName ref="cwgk:N00002598">Q<hi rend="underline"><hi rend="sup">r</hi></hi> M<hi rend="underline"><hi rend="sup">r</hi></hi> Genl</persName>.</p>
+<p>He issued a Proclamation ordering an election in the county of <placeName ref="cwgk:P001020">Warren</placeName> for Representative in the <orgName ref="cwgk:O00000923">General Assembly</orgName> made vacant by the resignation of <persName ref="cwgk:N00001579">P. Hines</persName> -- Setting forth Saturday Jany. 26<hi rend="underline"><hi rend="sup">th</hi></hi> as the day for said election.</p>
 <p>He approved the following accounts, to wit</p>
 <p><table rend="rules">
 <row>
-	<cell>T. Grimsley &amp; Co</cell>
-	<cell>&#36;5.<hi rend="underline">40</hi></cell>
-	<cell>sundries furnished Q. M Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Dept.</cell>
+	<cell><orgName ref="cwgk:O00021551">T. Grimsley &amp; Co</orgName></cell>
+	<cell>$5.<hi rend="underline">40</hi></cell>
+	<cell>sundries furnished <orgName ref="cwgk:O00000389">Q. M Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Dept.</orgName></cell>
 </row>
 <row>
 	<cell>M. D. West</cell>
@@ -83,18 +91,18 @@
 	<cell>Drayage &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></cell>
 </row>
 <row>
-	<cell>Dan<hi rend="underline"><hi rend="sup">l</hi></hi> Welch</cell>
+	<cell><persName ref="cwgk:N00021552">Dan<hi rend="underline"><hi rend="sup">l</hi></hi> Welch</persName></cell>
 	<cell>2.50,</cell>
 	<cell>for gun rack "</cell>
 </row>
 <row>
-	<cell>Lou &amp;. Lex R. R.</cell>
+	<cell><orgName ref="cwgk:O00010775">Lou &amp;. Lex R. R.</orgName></cell>
 	<cell>11.45.</cell>
 	<cell>transportation fo Arms</cell>
 </row>
 <row>
-	<cell>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> R. Morgan</cell>
-	<cell>&#36;114.00</cell>
+	<cell><persName ref="cwgk:N00021553">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> R. Morgan</persName></cell>
+	<cell>$114.00</cell>
 	<cell> </cell>
 </row>
 </table></p>
