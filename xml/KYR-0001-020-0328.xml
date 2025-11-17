@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0328"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>We whose names are hereto signed know well L Hock &amp; have Known him for many years He is a man of good habits &amp; honest &amp; industrious. He is a man without property but is a laboring man his business being that of brick Laying his age is about twenty six years old. &amp; is a German as <hi rend="str">was</hi> is the man with whom he had the difficulty</p>
-<p>B. B. Weidler
+   <p>We whose names are hereto signed know well <persName ref="cwgk:N00020559">L Hock</persName> &amp; have Known him for <persName ref="cwgk:N00020560">man</persName>y years He is a man of good habits &amp; honest &amp; industrious. He is a man without property but is a laboring man his business being that of brick Laying his age is about twenty six years old. &amp; is a German as <hi rend="str">was</hi> is the man with whom he had the difficulty</p>
+<p><persName ref="cwgk:N00004621">B. B. Weidler</persName>
 <lb/><unclear>T, W, Senour</unclear>
-<lb/>A Droscher
-<lb/>Jos. Birkle
-<lb/>John Hasemeier
-<lb/>J W Myers
-<lb/>Francis Meyrose,</p>
+<lb/><persName ref="cwgk:N00004643">A Droscher</persName>
+<lb/><persName ref="cwgk:N00020562">Jos. Birkle</persName>
+<lb/><persName ref="cwgk:N00020563">John Hasemeier</persName>
+<lb/><persName ref="cwgk:N00020564">J W Myers</persName>
+<lb/><persName ref="cwgk:N00020565">Francis Meyrose</persName>,</p>
 <p>I know personally those whose names appear above, they are men of character. of truth &amp; veracity &amp; can be relied on in all their Statements</p>
-<p>J C Howard
-<lb/>Justice of th Peace for Kenton County</p>
+<p><persName ref="cwgk:N00010327">J C Howard</persName>
+<lb/>Justice of th Peace for <placeName ref="cwgk:P00000937">Kenton County</placeName></p>
   </body>
  </text>
 </TEI>
