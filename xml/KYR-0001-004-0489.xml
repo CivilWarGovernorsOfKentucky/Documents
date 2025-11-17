@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0489"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hartford Ky <date when="1864-01-08">Jan 8<hi rend="sup">th</hi> /64</date>
-<lb/>Hon Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlett Governor of Ky -- 
+   <p><placeName ref="cwgk:P001000">Hartford</placeName> <orgName ref="cwgk:O001025">Ky </orgName><date when="1864-01-08">Jan 8<hi rend="sup">th</hi> /64</date>
+<lb/>Hon <persName ref="cwgk:N001000">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlett</persName> Governor of Ky -- 
 <lb/>Sir</p>
-<p>I addressed you a few lines some two months ago -- in behalf of my neighbors Moses Baer &amp; also for Jonothan Raley both of whom have been fined for retailing liquors &amp;c- You will please release them of a portion if you can do so in discharge of your duties <hi rend="str">as</hi></p>
+<p>I addressed you a few lines some two months ago -- in behalf of my neighbors <persName ref="cwgk:N00002805">Moses Baer</persName> &amp; also for <persName ref="cwgk:N00001006">Jonothan Raley</persName> both of whom have been fined for retailing liquors &amp;c- You will please release them of a portion if you can do so in discharge of your duties <hi rend="str">as</hi></p>
 <p>You will please excuse me for addressing you again upon these subjects -- for the circumstances I refer you to the petitions in each case</p>
 <p>Truly thine
-<lb/>J. J. Harrison</p>
+<lb/><persName ref="cwgk:N00008711">J. J. Harrison</persName></p>
 <p>I myself take the liberty to ask you to remit my fine I know that I have done wrong but I never wilel do so anymore. Please excuse me if I ask to much, if I would, be able to work I would not ask you for what I did. I have paid all other cost. </p>
 <p>I am 24 years old and 6 feet and five inches high and always sick. </p>
 <p>I ask once more please do the best you can about the matter you oblige Your Respaly</p>
 <p>Moses Baer<pb/></p>
 <p>J J Harrison &amp; Moses Bair</p>
-<p>Ohio C't C't
+<p><orgName ref="cwgk:O00000484">Ohio C't C't</orgName>
 <lb/>vs
 <lb/>M. Barr</p>
   </body>
