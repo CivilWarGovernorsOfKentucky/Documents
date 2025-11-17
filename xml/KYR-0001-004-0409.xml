@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0409"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,50 +70,50 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Governor of the Commonwealth of Ky</p>
-<p>The undersigned citizens of Ohio County Ky respectfully ask you to remit a fine of one hundred Dollars imposed by the Ohio Circuit Court on Jesse W Megan a worthy young man of this County for betting a pair of Boots with one Charles K Metcalf on the result of the election in Ohio County at the <date when="1859-08">August election 1859</date> We say further that a fine for like amt was imposed on the said Metcalf for some Cause and by Executive Cemency the Same was remitted we therefore ask you from the fact above and from the further fact that Mr Megan is quite a young man was entirely ignorant that he was violating any law of Ky when he made the bet and thought that he was released when Metcalf was at is was agreed that the petition which resulted in the release of Metcalf Should also have presented the case of Mr Megan and he did not know till very recently but what he was released. And further we beleeve that if Mr Megan is released he will not again violate the law of Ky in this particular</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>A B Baird P M Hartford
-<lb/>E. R. Murrell
-<lb/>J. W. Lewis
-<lb/>J J Harrison
-<lb/>R M Paterson
-<lb/>C J Lawton
-<lb/>Remus Gibson
-<lb/>G R Wedding
-<lb/>W H Miller
-<lb/>R S. Moseley
-<lb/><cb n="2"/>John P. Tracy jailor o c
-<lb/>John J Ruggs
-<lb/>W<hi rend="sup">m</hi> Hardwick
-<lb/>D. S. Miller
-<lb/>N P Boswell
-<lb/>James F, Neel
-<lb/>William Canon
-<lb/>Walker White
-<lb/>W J thomas
-<lb/>Frank M Hevern
-<lb/>J B Stewart<milestone unit="column" n="1"/><pb/></p>
-<p>John H Steven
-<lb/>W<hi rend="underline">m</hi> H Rice
-<lb/>W<hi rend="underline">m</hi> M Miller
-<lb/>F Allen
-<lb/>Caleb Crow
-<lb/>T. F. Kirby
-<lb/>Pardan Talior
-<lb/>Stephen Daniel
-<lb/>William. H. Potts
-<lb/>Thomas. W, Acton
-<lb/>John. A. Bennett
-<lb/>Gabrel Acton
-<lb/>J M Blacklock
+   <p>To the <persName ref="cwgk:N001000">Governor</persName> of the <orgName ref="cwgk:O001025">Commonwealth of Ky</orgName></p>
+<p>The undersigned citizens of <placeName ref="cwgk:P00002417">Ohio County</placeName> <placeName ref="cwgk:P001800">Ky </placeName>respectfully ask you to remit a fine of one hundred Dollars imposed by the <orgName ref="cwgk:O00000484">Ohio Circuit Court</orgName> on <persName ref="cwgk:N00015619">Jesse W Megan</persName> a worthy young man of this County for betting a pair of Boots with one <persName ref="cwgk:N00015620">Charles K Metcalf</persName> on the result of the election in Ohio County at the <date when="1859-08">August election 1859</date> We say further that a fine for like amt was imposed on the said Metcalf for some Cause and by Executive Cemency the Same was remitted we therefore ask you from the fact above and from the further fact that Mr Megan is quite a young man was entirely ignorant that he was violating any law of Ky when he made the bet and thought that he was released when Metcalf was at is was agreed that the petition which resulted in the release of Metcalf Should also have presented the case of Mr Megan and he did not know till very recently but what he was released. And further we beleeve that if Mr Megan is released he will not again violate the law of Ky in this particular</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00002026">A B Baird</persName> P M Hartford
+<lb/><persName ref="cwgk:N00001022">E. R. Murrell</persName>
+<lb/><persName ref="cwgk:N00015897">J. W. Lewis</persName>
+<lb/><persName ref="cwgk:N00008711">J J Harrison</persName>
+<lb/><persName ref="cwgk:N00015900">R M Paterson</persName>
+<lb/><persName ref="cwgk:N00001012">C J Lawton</persName>
+<lb/><persName ref="cwgk:N00015904">Remus Gibson</persName>
+<lb/><persName ref="cwgk:N00015917">G R Wedding</persName>
+<lb/><persName ref="cwgk:N00015918">W H Miller</persName>
+<lb/><persName ref="cwgk:N00001698">R S. Moseley</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00010108">John P. Tracy</persName> jailor o c
+<lb/><persName ref="cwgk:N00015991">John J Ruggs</persName>
+<lb/><persName ref="cwgk:N00010110">W<hi rend="sup">m</hi> Hardwick</persName>
+<lb/><persName ref="cwgk:N00015992">D. S. Miller</persName>
+<lb/><persName ref="cwgk:N00015993">N P Boswell</persName>
+<lb/><persName ref="cwgk:N00015994">James F, Neel</persName>
+<lb/><persName ref="cwgk:N00015995">William Canon</persName>
+<lb/><persName ref="cwgk:N00016069">Walker White</persName>
+<lb/><persName ref="cwgk:N00016070">W J thomas</persName>
+<lb/><persName ref="cwgk:N00016164">Frank M Hevern</persName>
+<lb/><persName ref="cwgk:N00016165">J B Stewart</persName><milestone unit="column" n="1"/><pb/></p>
+<p><persName ref="cwgk:N00015926">John H Steven</persName>
+<lb/><persName ref="cwgk:N00016166">W<hi rend="underline">m</hi> H Rice</persName>
+<lb/><persName ref="cwgk:N00016167">W<hi rend="underline">m</hi> M Miller</persName>
+<lb/><persName ref="cwgk:N00016168">F Allen</persName>
+<lb/><persName ref="cwgk:N00016170">Caleb Crow</persName>
+<lb/><persName ref="cwgk:N00001021">T. F. Kirby</persName>
+<lb/><persName ref="cwgk:N00016225">Pardan Talior</persName>
+<lb/><persName ref="cwgk:N00016226">Stephen Daniel</persName>
+<lb/><persName ref="cwgk:N00001693">William. H. Potts</persName>
+<lb/><persName ref="cwgk:N00016233">Thomas. W, Acton</persName>
+<lb/><persName ref="cwgk:N00016236">John. A. Bennett</persName>
+<lb/><persName ref="cwgk:N00016238">Gabrel Acton</persName>
+<lb/><persName ref="cwgk:N00016244">J M Blacklock</persName>
 <lb/><unclear> D C </unclear> Shanks
-<lb/>J H. Barnes</p>
+<lb/><persName ref="cwgk:N00016245">J H. Barnes</persName></p>
 <p>Ohio Cir Ct
 <lb/>vs</p>
 <p>Remit &amp; hand to W W Miller of HR from Ohio Co</p>
 <p>Tho E Bramlette</p>
 <p>Jesse W. Megan
-<lb/>&#36;100 -- 
+<lb/>$100 -- 
 <lb/>Gaming
 <lb/><date when="1864-01-12">12<hi rend="sup">th</hi> Jany 1864</date></p>
   </body>
