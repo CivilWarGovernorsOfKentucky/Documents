@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0062"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,8 @@
  <text>
   <body>
    <p>No. 22.<figure type="hr"/>
-<lb/>The <hi rend="str">State of Kentucky,</hi>United States
-<lb/>To John Akin Dr.</p>
+<lb/>The <hi rend="str">State of Kentucky,</hi><orgName ref="cwgk:O00001186">United States
+</orgName><lb/>To <persName ref="cwgk:N00010890">John Akin</persName> Dr.</p>
 <p><table rend="rules">
 <row>
 	<cell><date when="1862">1862.</date></cell>
@@ -75,30 +83,30 @@
 </row>
 <row>
 	<cell><date when="1862-08-21">Augst 21</date></cell>
-	<cell>To hawling govement stores <hi rend="str">4 days</hi> 4 Horse team 21 days &#36;3.50 per day</cell>
-	<cell>&#36;73</cell>
+	<cell>To hawling govement stores <hi rend="str">4 days</hi> 4 Horse team 21 days $3.50 per day</cell>
+	<cell>$73</cell>
 	<cell>50</cell>
 </row>
 <row>
 	<cell/>
 	<cell/>
-	<cell>&#36;73</cell>
+	<cell>$73</cell>
 	<cell>50</cell>
 </row>
 </table></p>
 <note place="body"><p>no transportation was supplied to this Regiment</p>
 <p>Approved
-<lb/>By order of the Governor
-<lb/>Jno. W Finnell 
-<lb/>Adj<hi rend="sup">t</hi> Genl Ky Vol</p>
+<lb/>By order of the <persName ref="cwgk:N001000">Governor</persName>
+<lb/><persName ref="cwgk:N00000228">Jno. W Finnell</persName> 
+<lb/><orgName ref="cwgk:O00000388">Adj<hi rend="sup">t</hi> Genl <orgName ref="cwgk:O00000870">Ky Vol</orgName></orgName></p>
 <p>Approved
-<lb/>J M Shackleford
-<lb/>Col 8 Ky Cavaly</p></note>
+<lb/><persName ref="cwgk:N00007836">J M Shackleford
+</persName><lb/>Col 8 Ky Cavaly</p></note>
 <p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
-<p>John Feland
-<lb/>Q M 8<hi rend="sup">th</hi> Ky Cav</p>
-<p>Received at Frankfort Ky, the <date when="1864-03-29">29" of March, 1864</date>, S G Suddarth, Quarter-master ^Genl^ Kentucky Volunteers, the sum of Seventy three Dollars and fifty Cents, in full of the above account.
-<lb/>(DUPLICATE.)</p>
+<p><persName ref="cwgk:N00010887">John Feland
+</persName><lb/>Q M <orgName ref="cwgk:O00008608">8<hi rend="sup">th</hi> Ky Cav</orgName></p>
+<p>Received at <placeName ref="cwgk:P00000308">Frankfort Ky</placeName>, the <date when="1864-03-29">29" of March, 1864</date>, <persName ref="cwgk:N00000946">S G Suddarth</persName>, <orgName ref="cwgk:O00000389">Quarter-master ^Genl^ Kentucky Volunteers, the sum of Seventy three Dollars and fifty Cents, in full of the above account.
+<lb/>(DUPLICATE.)</orgName></p>
 <p>John Akin<pb/></p>
 <p><hi rend="str">18/206</hi>
 <lb/>107 </p>
