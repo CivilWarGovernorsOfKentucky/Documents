@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0443"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,14 +70,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Michael Byram Four Years. Logan County. <date when="1860-01-17">Jany 17<hi rend="sup">th</hi> 1860</date> <date when="1864-01-17">Jany 17<hi rend="sup">th</hi> 1864</date>. Manslaughter -- 
+   <p><persName ref="cwgk:N00017035">Michael Byram </persName>Four Years. <placeName ref="cwgk:P00002483">Logan County</placeName>. <date when="1860-01-17">Jany 17<hi rend="sup">th</hi> 1860</date> <date when="1864-01-17">Jany 17<hi rend="sup">th</hi> 1864</date>. Manslaughter -- 
 <lb/>convicted at the <date when="1860-01">January Term Logan Cirucit Court 1860 -- </date><pb/></p>
 <p><hi rend="str">Jeffers</hi>
 <lb/>Logan County</p>
 <p>Michael Byram
 <lb/><date when="1864-01-14">14<hi rend="sup">th.</hi> Jany/64</date></p>
 <p>Issue pardon
-<lb/>Tho E Bramlette</p>
+<lb/><persName ref="cwgk:N001000">Tho E Bramlette</persName></p>
 <p>M</p>
   </body>
  </text>
