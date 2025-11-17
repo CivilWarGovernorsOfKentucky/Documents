@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0092"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Tyler Campbell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,7 +71,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>Requisition for Ordnance and Ordnance Stores and Camp Equipage, &amp;c., for the use of Company Silver Creek Rangers of the <gap/> Regiment of Cavalry-, which was mustered into the KENTUCKY STATE GUARD on the <date when="1861-06-17">17<hi rend="sup">th</hi> day of June, 1861</date>, at Menelos, in Madison county.</p>
+   <p>Requisition for Ordnance and Ordnance Stores and Camp Equipage, &amp;c., for the use of <orgName ref="cwgk:O00011385">Company Silver Creek Rangers</orgName> of the <gap/> Regiment of Cavalry-, which was mustered into the<orgName ref="cwgk:O00000303"> KENTUCKY STATE GUARD </orgName>on the <date when="1861-06-17">17<hi rend="sup">th</hi> day of June, 1861</date>, at <placeName ref="cwgk:P00011384">Menelos</placeName>, in Madison county.</p>
 <p><table rend="rules">
 <row>
 	<cell>  </cell>
@@ -81,7 +89,7 @@
 	<cell>Cavalry Pistols &amp;amp;</cell>
 	<cell>Carbines</cell>
 	<cell>REMARKS.
-<lb/>Requisitions for arms should never be for a number greatly in excess of the actual strength of the Company, and should be addressed to the Inspector General at Louisville, who will transmit them to the Adjutant General at Frankfort, who will submit them to the Governor for approval or modification. When the issues do not fully cover the requisition, the receipt will be altered by the Adjutant General to correspond with the issues, and the Company commander be notified thereof.</cell>
+<lb/>Requisitions for arms should never be for a number greatly in excess of the actual strength of the Company, and should be addressed to the <orgName ref="cwgk:O00000920">Inspector General</orgName> at<placeName ref="cwgk:P00000337"> Louisville</placeName>, who will transmit them to the <orgName ref="cwgk:O00000388">Adjutant General</orgName> at <placeName ref="cwgk:P00000308">Frankfort</placeName>, who will submit them to the Governor for approval or modification. When the issues do not fully cover the requisition, the receipt will be altered by the Adjutant General to correspond with the issues, and the Company commander be notified thereof.</cell>
 </row>
 <row>
 	<cell>  </cell>
@@ -136,26 +144,26 @@
 <p><gap/>
 <lb/><hi rend="italic">Captain Commanding Company.</hi><pb/></p>
 <p>I hereby certify that the within requistion for ordnance and ordnance stores and camp equipage, &amp;c., is made with my consent.</p>
-<p>James H. Embry
+<p><persName ref="cwgk:N00011181">James H. Embry</persName>
 <lb/><hi rend="italic">County Judge of</hi> Madison <hi rend="italic">County</hi>. Ky</p>
 <p>The Quartermaster General is hereby directed to make the issue of public stores and arms in accordance with this requisition;</p>
-<p>B. Magoffin
-<lb/>Pres of the Board
-<lb/><hi rend="italic"><hi rend="str">Governor and Commander-in-Chief</hi></hi></p>
+<p><persName ref="cwgk:N00000258">B. Magoffin
+</persName><lb/>Pres of the Board
+<lb/><hi rend="italic"><hi><orgName ref="cwgk:O001025">Governor</orgName> and Commander-in-Chief</hi></hi></p>
 <p>with (525)
 <lb/>REQUISITION</p>
 <p>For ordnance, &amp;c., for company <gap/> of <gap/> Regiment, K. S. G. Issued <gap/>, 186<gap/>, and charged to <gap/> county.</p>
 <p><gap/><hi rend="str">
-<lb/></hi><hi rend="italic">Quartermaster General.</hi></p>
+<lb/></hi><hi><orgName ref="cwgk:O00000389">Quartermaster General</orgName>.</hi></p>
 <p>Head Quarters Ky State Guard
-<lb/>Louisville <date when="1861-07-05">5 July 1861</date></p>
+<lb/><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-07-05">5 July 1861</date></p>
 <p>The within requisition is approved and it is recommended that Fifty of each of the within articles be issued hereunder </p>
 <p>By Command of
-<lb/>Maj. Gen S B Buckner
+<lb/>Maj. Gen <persName ref="cwgk:N00002592">S B Buckner</persName>
 <lb/>Inspt Gen.</p>
 <p>Official
-<lb/>Alex Casseday
-<lb/>Asst. Adjt. Gen.</p>
+<lb/><persName ref="cwgk:N00006542">Alex Casseday
+</persName><lb/>Asst. Adjt. Gen.</p>
   </body>
  </text>
 </TEI>
