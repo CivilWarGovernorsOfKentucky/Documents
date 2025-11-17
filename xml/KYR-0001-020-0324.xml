@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0324"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,22 +72,22 @@
  <text>
   <body>
    <p>Ducker P. O
-<lb/>Woodford Co
-<lb/>Hon Beriah Magoffin
+<lb/><placeName ref="cwgk:P00002992">Woodford Co</placeName>
+<lb/>Hon <persName ref="cwgk:N00000258">Beriah Magoffin</persName>
 <lb/>Dear Gov.</p>
-<p>At the request of Mr. South, I write to you to give a statement of the Evidence in the case of the Comlth agst John Gmbill;</p>
-<p>Gambill was indicted in the Perry circuit court for passing counterfeit money -- </p>
-<p>The proof showed that a Mr. Gullit called on John Gambill to loan Him money Gambrill Had none according to His statement, a man by the name of Harman Bush was present -- Gambill called<pb/>
-<lb/>on Bush to Know if He had any money, who took out of His purse a &#36;20 -- on some Louisiana Bank and &#36;10 -- Kentucky Bank note, put them on the counter and Gullit took the money it was not in the Hands of Gambill, Gullit was to pay Gambill.</p>
-<p>There was proof to show that Gambill Had previously been seen with a Louisiana Bank Bill similar to the one that was passed -- And some Testimony I think by one witness who could not read. That He Had seen Gambrill with the &#36;10 Ky Bill. This is as near as I reckollect the proof<pb/>
+<p>At the request of Mr. <persName ref="cwgk:N00003959">South</persName>, I write to you to give a statement of the Evidence in the case of the <orgName ref="cwgk:O001025">Comlth</orgName> agst <persName ref="cwgk:N00007747">John Gmbill</persName>;</p>
+<p>Gambill was indicted in the <orgName ref="cwgk:O00000487">Perry circuit court</orgName> for passing counterfeit money -- </p>
+<p>The proof showed that a Mr. <persName ref="cwgk:N00020508">Gullit</persName> called on John Gambill to loan Him money Gambrill Had none according to His statement, a man by the name of <persName ref="cwgk:N00020509">Harman Bush</persName> was present -- Gambill called<pb/>
+<lb/>on Bush to Know if He had any money, who took out of His purse a $20 -- on some <placeName ref="cwgk:P00002302">Louisiana</placeName> Bank and $10 -- <placeName ref="cwgk:P001800">Kentucky</placeName> Bank note, put them on the counter and Gullit took the money it was not in the Hands of Gambill, Gullit was to pay Gambill.</p>
+<p>There was proof to show that Gambill Had previously been seen with a Louisiana Bank Bill similar to the one that was passed -- And some Testimony I think by one witness who could not read. That He Had seen Gambrill with the $10 Ky Bill. This is as near as I reckollect the proof<pb/>
 <lb/>in the case -- The Jury I have no doubt came to the conclusion that there was some understanding between all of the parties Though Gullit who was the principle witness swore that He did not Know the money was counterfeit at the time He took it.</p>
 <p>Since the conviction of Gambill Gullit Has been Indicted for passing or Having in his possession with Intent to pass, the same money.</p>
 <p>I wrote to you some months ago the full historie of the case, to which I would call your attention</p>
-<p>Gambills wife &amp; children are very respectable -- a number of good citizens<pb/>
+<p>Gambills <persName ref="cwgk:N00020510">wife</persName> &amp; children are very respectable -- a number of good citizens<pb/>
 <lb/>would like to see Him pardonded</p>
 <p>respectfully
 <lb/>Your obt Sert
-<lb/>John Dishman</p>
+<lb/><persName ref="cwgk:N00007312">John Dishman</persName></p>
   </body>
  </text>
 </TEI>
