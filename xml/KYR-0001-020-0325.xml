@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0325"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Wm. A. May.
-<lb/>Louisville</p>
-<p>Fined in City Court in suit of Com. vs. Wm. A. May.</p>
+   <p><persName ref="cwgk:N00020503">Wm. A. May</persName>.
+<lb/><placeName ref="cwgk:P00000337">Louisville</placeName></p>
+<p>Fined in <orgName ref="cwgk:O001838">City Court</orgName> in suit of <orgName ref="cwgk:O001025">Com</orgName>. vs. Wm. A. May.</p>
 <p>The fine should be remitted.</p>
-<p>Oliver Lucas
+<p><persName ref="cwgk:N00002925">Oliver Lucas</persName>
 <lb/><hi rend="underline">James S. Wallace</hi></p>
   </body>
  </text>
