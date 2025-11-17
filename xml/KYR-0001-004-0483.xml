@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0483"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,25 +70,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>We the undersigned Citizens of Louisvile would most respectfully request His Excellency the Governor of Kentucky to pardon William R. Banks Convicted of receiving stolen goods at the late term of the Jefferson Circuit Court- Mr. Banks has a wife &amp; family of children, has served near three years in the Army of the U.S. and wishes to Reenlist in the veteran corps- His Excellency is referred to the facts of the case made out by his attorney and duly authenticated- We hope the pardon will be extended -- </p>
-<p><milestone unit="column" n="2"/><cb n="1"/> R. F. Baird
-<lb/>J. H. Price
-<lb/>Jas C. Gill Coroner J. C.
+   <p>We the undersigned Citizens of <placeName ref="cwgk:P00000337">Louisvile</placeName> would most respectfully request <persName ref="cwgk:N001000">His Excellency</persName> the Governor of Kentucky to pardon <persName ref="cwgk:N00005830">William R. Banks</persName> Convicted of receiving stolen goods at the late term of the Jefferson Circuit Court- Mr. Banks has a <persName ref="cwgk:N00010738">wife</persName> &amp; family of children, has served near three years in the <orgName ref="cwgk:O00001186">Army of the U.S.</orgName> and wishes to Reenlist in the <orgName ref="cwgk:O00013253">veteran corps</orgName>- His Excellency is referred to the facts of the case made out by his attorney and duly authenticated- We hope the pardon will be extended -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/> <persName ref="cwgk:N002040">R. F. Baird</persName>
+<lb/><persName ref="cwgk:N002014">J. H. Price</persName>
+<lb/><persName ref="cwgk:N00011571">Jas C. Gill</persName> Coroner J. C.
 <lb/><hi rend="str">Henry Wehmhott</hi>
 <lb/><hi rend="underline">C. Henry Finck
-<lb/></hi>John. C. Baumberger
-<lb/>W B Casey
-<lb/>Patrick Carroll
-<lb/>Paeter Leonard
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Doolan
-<lb/>W R Hydes City Marshal
-<lb/>Carl Johnston
-<lb/>J. F. Webbe Jr Dpy Clk City Ct
-<lb/>Joseph. B. Read,
-<lb/><cb n="2"/>W. H. Monroe
-<lb/>Jon N Hehnke
+<lb/></hi><persName ref="cwgk:N00005835">John. C. Baumberger</persName>
+<lb/><persName ref="cwgk:N00016358">W B Casey</persName>
+<lb/><persName ref="cwgk:N00016359">Patrick Carroll</persName>
+<lb/><persName ref="cwgk:N00016360">Paeter Leonard</persName>
+<lb/><persName ref="cwgk:N00016361">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Doolan</persName>
+<lb/><persName ref="cwgk:N00003714">W R Hydes</persName> City Marshal
+<lb/><persName ref="cwgk:N00016362">Carl Johnston</persName>
+<lb/><persName ref="cwgk:N00001154">J. F. Webbe Jr </persName>Dpy Clk City Ct
+<lb/><persName ref="cwgk:N00016363">Joseph. B. Read</persName>,
+<lb/><cb n="2"/><persName ref="cwgk:N00016364">W. H. Monroe</persName>
+<lb/><persName ref="cwgk:N00016365">Jon N Hehnke</persName>
 <lb/>L. A. Woods
-<lb/>H C Russell Dpt marshal</p>
+<lb/><persName ref="cwgk:N002033">H C Russell</persName> Dpt marshal</p>
   </body>
  </text>
 </TEI>
