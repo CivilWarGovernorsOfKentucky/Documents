@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0365"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,36 +70,36 @@
  </teiHeader>
  <text>
   <body>
-   <p>Newton Thomasen
-<lb/>Squire Howe
-<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Thomasen
-<lb/>T Hanes
-<lb/>Moses Lucas
-<lb/>William T. Pitts
-<lb/>W. P. Duvall
-<lb/>J W Barnett
-<lb/>L H Gatwood
-<lb/>Mack Davine
-<lb/>John Lucas
-<lb/>Alfred T S Moore
-<lb/>J. A. Bell
-<lb/>B. S. Newton
-<lb/>W L Miller
-<lb/>A Calvert.
-<lb/>O. Calvert
-<lb/>William H Calvert
-<lb/>J F Welborn
-<lb/>James Thomas
-<lb/>R P Thomason
-<lb/>D, <unclear>Susbey</unclear>
-<lb/>J Shafer
-<lb/>Milves Wigginton
-<lb/>P. B. Hudson
-<lb/>John <unclear/>W, Wayt
-<lb/>E Branham
-<lb/>P W Lindsay
-<lb/>F, M, Johnson
-<lb/>Samuel Lucas</p>
+   <p><persName ref="cwgk:N00020876">Newton Thomasen</persName>
+<lb/><persName ref="cwgk:N00020877">Squire Howe</persName>
+<lb/><persName ref="cwgk:N00020878">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Thomasen</persName>
+<lb/><persName ref="cwgk:N00020879">T Hanes</persName>
+<lb/><persName ref="cwgk:N00020880">Moses Lucas</persName>
+<lb/><persName ref="cwgk:N00020881">William T. Pitts</persName>
+<lb/><persName ref="cwgk:N00020882">W. P. Duvall</persName>
+<lb/><persName ref="cwgk:N00020883">J W Barnett</persName>
+<lb/><persName ref="cwgk:N00010266">L H Gatwood</persName>
+<lb/><persName ref="cwgk:N00020884">Mack Davine</persName>
+<lb/><persName ref="cwgk:N00020885">John Lucas</persName>
+<lb/><persName ref="cwgk:N00020886">Alfred T S Moore</persName>
+<lb/><persName ref="cwgk:N00020887">J. A. Bell</persName>
+<lb/><persName ref="cwgk:N00006331">B. S. Newton</persName>
+<lb/><persName ref="cwgk:N00020888">W L Miller</persName>
+<lb/><persName ref="cwgk:N00020889">A Calvert</persName>.
+<lb/><persName ref="cwgk:N00020890">O. Calvert</persName>
+<lb/><persName ref="cwgk:N00020891">William H Calvert</persName>
+<lb/><persName ref="cwgk:N00020892">J F Welborn</persName>
+<lb/><persName ref="cwgk:N00020893">James Thomas</persName>
+<lb/><persName ref="cwgk:N00020894">R P Thomason</persName>
+<lb/><persName ref="cwgk:N00020979">D, <unclear>Susbey</unclear></persName>
+<lb/><persName ref="cwgk:N00020978">J Shafer</persName>
+<lb/><persName ref="cwgk:N00020953">Milves Wigginton</persName>
+<lb/><persName ref="cwgk:N00020954">P. B. Hudson</persName>
+<lb/><persName ref="cwgk:N00020973">John <unclear/>W, Wayt</persName>
+<lb/><persName ref="cwgk:N00020974">E Branham</persName>
+<lb/><persName ref="cwgk:N00020975">P W Lindsay</persName>
+<lb/><persName ref="cwgk:N00020976">F, M, Johnson</persName>
+<lb/><persName ref="cwgk:N00020977">Samuel Lucas</persName></p>
   </body>
  </text>
 </TEI>
