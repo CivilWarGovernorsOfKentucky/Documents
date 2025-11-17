@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1490"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,33 +70,33 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency the Governor of Kentucky. </p>
-<p>Your Petitioner Michael Scott would respectfully represent that he was fined in the court of the Police Judge of the city of Frankfort, on the <date when="1861-07-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> of July 1861,</date> the sum of ten dollars with costs upon a charge of breach of the peace -- </p>
-<p>This fine is still unpaid He is a very poor man, has a wife and <hi rend="str">five or six</hi> Two children small and helpless all dependant upon his labor for a support. He has resided in Franfort 20 or 30 years and this is the only time he was ever fined. </p>
+   <p>To <persName ref="cwgk:N00000258">his Excellency</persName> the Governor of <orgName ref="cwgk:O001025">Kentucky</orgName>. </p>
+<p>Your Petitioner <persName ref="cwgk:N00009258">Michael Scott</persName> would respectfully represent that he was fined in the <orgName ref="cwgk:O00003470">court of the Police Judge of the city of Frankfort</orgName>, on the <date when="1861-07-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> of July 1861,</date> the sum of ten dollars with costs upon a charge of breach of the peace -- </p>
+<p>This fine is still unpaid He is a very poor man, has <persName ref="cwgk:N00009259">a wife</persName> and <hi rend="str">five or six</hi> Two children small and helpless all dependant upon his labor for a support. He has resided in <placeName ref="cwgk:P00000308">Franfort</placeName> 20 or 30 years and this is the only time he was ever fined. </p>
 <p>He is a hard working man and the money which will necessarily be taken to pay the fine is absolutely necessary for the sustenance of his family. </p>
 <p>He promises he will not get into any such predicament again<pb/></p>
 <p>He respectfully prays your Excellency to pardon and remit the fine. The costs will be quite a punisment for his offence.</p>
 <p>Mike ^his X mark^ Scott</p>
 <p>We the undersigned believe the statement of the foregoing Petition to be true and respectfully ask that the fine be remitted.</p>
 <p>W. J, Chinn
-<lb/>Scott Brown
+<lb/><persName ref="cwgk:N00000390">Scott Brown</persName>
 <lb/>R, A, <unclear>Brawser</unclear>
-<lb/>Jno. N. Crutcher
-<lb/>W C Sneed
-<lb/>W Franklin
-<lb/>G, W, Miller
-<lb/>M B Chinn
+<lb/><persName ref="cwgk:N00004534">Jno. N. Crutcher</persName>
+<lb/><persName ref="cwgk:N00009262">W C Sneed
+</persName><lb/><persName ref="cwgk:N00002931">W Franklin
+</persName><lb/><persName ref="cwgk:N00009265">G, W, Miller</persName>
+<lb/><persName ref="cwgk:N00009266">M B Chinn</persName>
 <lb/>W. S, Dehoney
 <lb/>G, W, Robb
-<lb/>H R Williams
-<lb/>John Harrod Sr
-<lb/>G H Jett
-<lb/>A Tarrant
-<lb/>S A Scearce
-<lb/>Eli B Getz
-<lb/>Nelson Alley
-<lb/>J, R Watson
-<lb/><hi rend="underline">Ben Luckett</hi><pb/>
+<lb/><persName ref="cwgk:N00009269">H R Williams</persName>
+<lb/><persName ref="cwgk:N00009275">John Harrod Sr
+</persName><lb/><persName ref="cwgk:N00009277">G H Jett</persName>
+<lb/><persName ref="cwgk:N00009278">A Tarrant</persName>
+<lb/><persName ref="cwgk:N00009279">S A Scearce</persName>
+<lb/><persName ref="cwgk:N00004537">Eli B Getz</persName>
+<lb/><persName ref="cwgk:N00001622">Nelson Alley
+</persName><lb/>J, R Watson
+<lb/><hi><persName ref="cwgk:N00009280">Ben Luckett</persName></hi><pb/>
 <lb/><hi rend="underline">W H</hi> <hi rend="underline">Greenup</hi>
 <lb/><hi rend="underline">Ben <unclear>Fannel</unclear></hi>
 <lb/>Philip Ott
@@ -99,11 +107,11 @@
 <lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> P. O-Hara
 <lb/>P. Joyce
 <lb/>T. Callaghan
-<lb/><hi rend="underline">A. P. Williams</hi><pb/></p>
+<lb/><persName ref="cwgk:N00003193"><hi rend="underline">A. P. Williams</hi></persName><pb/></p>
 <p>Frankfort Po. Ct</p>
 <p>Remitted
 <lb/>B. M</p>
-<p>&#36;10 &#125; misdemeanor
+<p>$10 } misdemeanor
 <lb/>Mike Scott
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-10-05">Octo. 5. 1861</date></p>
   </body>
