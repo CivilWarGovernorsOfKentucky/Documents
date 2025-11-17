@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0438"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,24 +71,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bowling Green Ky
+   <p><placeName ref="cwgk:P00000560">Bowling Green</placeName> <placeName ref="cwgk:P001800">Ky</placeName>
 <lb/><date when="1864-01-30">January 30<hi rend="sup">th</hi> 1864</date>
 <lb/>To his Excellency,
-<lb/>The Governor of Kentucky</p>
-<p>In the fall of <date when="1861">1861</date> an organization was formed in this place styling itself the Provisional Government of Kentucky: with the formation of which I refused to have any thing to do. But some weeks after its formation I was solicited by Geo. W. Johnson, Esq, then acting Governor of said organization to accept the appointment of Auditor pro tempore until the the person who had been previously appointed to fill that office and who was then in a distant part of the State, should arrive. I consented to do so and did so act for several weeks in the daily expectation of being relieved from a position that I had accepted more as a personal favor to M<hi rend="sup">r</hi> Johnson than from a wish to oppose the Government of the State. In so doing however, I am sensible that I committed a grave offense against the laws of Kentucky and desire the interposition of executive clemency in my behalf.</p>
-<p>Josiah Pillsbury<pb/></p>
+<lb/>The <persName ref="cwgk:N001000">Governor </persName>of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>In the fall of <date when="1861">1861</date> an organization was formed in this place styling itself the <orgName ref="cwgk:O00003448">Provisional Government of Kentucky</orgName>: with the formation of which I refused to have any thing to do. But some weeks after its formation I was solicited by <persName ref="cwgk:N001002">Geo. W. Johnson</persName>, Esq, then acting Governor of said organization to accept the appointment of Auditor pro tempore until the the person who had been previously appointed to fill that office and who was then in a distant part of the State, should arrive. I consented to do so and did so act for several weeks in the daily expectation of being relieved from a position that I had accepted more as a personal favor to M<hi rend="sup">r</hi> Johnson than from a wish to oppose the Government of the State. In so doing however, I am sensible that I committed a grave offense against the laws of Kentucky and desire the interposition of executive clemency in my behalf.</p>
+<p><persName ref="cwgk:N00011402">Josiah Pillsbury</persName><pb/></p>
 <p>we know Mr. Pillsberry, the petitioner, very well, &amp; have no hesitation in saying his statements are entitled to full credit- We therefor write with him &amp; respectfully pray that a pardon be extended to him</p>
 <p><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> V Loving</hi>
-<lb/>R Rodes<pb/></p>
+<lb/><persName ref="cwgk:N00001578">R Rodes</persName><pb/></p>
 <p>Bowling Green, Ky- <date when="1864-01-30">Jany. 30/ 64</date>
-<lb/>Cols. P. B. Hawkins
-<lb/>Frankfort, Ky-
+<lb/>Cols. <persName ref="cwgk:N00002638">P. B. Hawkins</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, Ky-
 <lb/>Dr. Sir-</p>
-<p>Mr. Pillsberry has been Indicted in this court- commencing next Monday, &amp; as he has recd a pardon from the Prest. of the U.S. we venture to ask Govr. Bramlette executive clemency- So as to prevent any <unclear>vexation</unclear> have your friend &amp; relation, John Burnam Esqr. has just shown me a pardon from Govr. Bramlette to himself, he &amp; Mr. P. are both indicted for treason agt. the State of Ky. in this court. Your early attention is respectfully called to the accompanying petition of Mr. Pillsberry, by</p>
+<p>Mr. Pillsberry has been Indicted in this court- commencing next Monday, &amp; as he has recd a pardon from the <persName ref="cwgk:N001760">Prest</persName>. of the <placeName ref="cwgk:P001802">U.S.</placeName> we venture to ask Govr. Bramlette executive clemency- So as to prevent any <unclear>vexation</unclear> have your friend &amp; relation, <persName ref="cwgk:N00011354">John Burnam</persName> Esqr. has just shown me a pardon from Govr. Bramlette to himself, he &amp; Mr. P. are both indicted for treason agt. the State of Ky. in this court. Your early attention is respectfully called to the accompanying petition of Mr. Pillsberry, by</p>
 <p>very truly,
 <lb/>Yours
 <lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> V. Loving</hi><pb/></p>
-<p>Warren County
+<p><placeName ref="cwgk:P001020">Warren County</placeName>
 <lb/>vs
 <lb/>Josiah Pillsberry</p>
 <p>Issue Pardon</p>
