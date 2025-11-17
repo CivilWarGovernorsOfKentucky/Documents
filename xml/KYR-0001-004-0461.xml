@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0461"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Catlettsburg Ky
+   <p><placeName ref="cwgk:P00001173">Catlettsburg</placeName> <placeName ref="cwgk:P001800">Ky</placeName>
 <lb/><date when="1864-01-16">Jany 16<hi rend="sup">th</hi> 1864</date>
-<lb/>Gov Bramlett
+<lb/><persName ref="cwgk:N001000">Gov Bramlett</persName>
 <lb/>Sir</p>
-<p>I was Judge of the County Court of Laurence at the time the fine was assed against Israel &amp; Adams and at that time the security Stewart could have indemnified himself with the property of the principles now he cannott and could not have done so after the expiration of the year, for which the Governor respited the collection of the said fine</p>
+<p>I was Judge of the <orgName ref="cwgk:O00000653">County Court</orgName> of <placeName ref="cwgk:P00000552">Laurence</placeName> at the time the fine was assed against <persName ref="cwgk:N00017199">Israel</persName> &amp; <persName ref="cwgk:N00017198">Adams</persName> and at that time the security <persName ref="cwgk:N00017172">Stewart</persName> could have indemnified himself with the property of the principles now he cannott and could not have done so after the expiration of the year, for which the Governor respited the collection of the said fine</p>
 <p>Your Respectfully
-<lb/>S Short<pb/></p>
-<p>Boyd County
+<lb/><persName ref="cwgk:N00016876">S Short</persName><pb/></p>
+<p><placeName ref="cwgk:P00001174">Boyd County</placeName>
 <lb/>Relief Refused
 <lb/>Tho E Bramlette</p>
   </body>
