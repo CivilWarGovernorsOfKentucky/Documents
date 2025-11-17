@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0039"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,11 +72,11 @@
  <text>
   <body>
    <p><date when="1860-12-27">27</date> 
-<lb/>The Governor appointed and commissioned the following Justices in Laurel county to wit: James Pastell and Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Bayless in place of, Lemuel Casteel and Jonathan Price also P. G. Bryant in Distric N<hi rend="sup">o</hi> 6 in place of I. M. Johnson.</p>
-<p>He issued a Proclamation calling for an extra session of the General Assembly to convene at the Capitol on the 17<hi rend="underline"><hi rend="sup">th</hi></hi> day of January 1861, to take into consideration the interests of the Commonwealth as the same may be involved in or connected with the present distracted condition of the county at large</p>
-<p>He issues a Proclamation ordering an election in the 33<hi rend="underline"><hi rend="sup">d</hi></hi> Senatorial Distrcit composed of the counties of Montgomery, Clarke, Estill and Powell to supply the vacancy occasioned by the death of James M<hi rend="sup">c</hi>Kee, late Senator.</p>
-<p>Also a Proclamation ordering an election for Representative in the counties of Caldwell and Lyon made vacant by the resignation of W. B. Acree</p>
-<p>He commissioned the following Major of Enrolled Militia, to wit: Lloyd Tilghman, Thomas Bristow and W<hi rend="underline"><hi rend="sup">m</hi></hi> H Miller.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> appointed and commissioned the following Justices in <placeName ref="cwgk:P00006209">Laurel county</placeName> to wit: <persName ref="cwgk:N00021479">James Pastell</persName> and <persName ref="cwgk:N00021478">Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Bayless</persName> in place of, <persName ref="cwgk:N00021480">Lemuel Casteel</persName> and <persName ref="cwgk:N00021481">Jonathan Price</persName> also <persName ref="cwgk:N00021482">P. G. Bryant</persName> in Distric N<hi rend="sup">o</hi> 6 in place of <persName ref="cwgk:N00021483">I. M. Johnson</persName>.</p>
+<p>He issued a Proclamation calling for an extra session of the <orgName ref="cwgk:O00000923">General Assembly</orgName> to convene at the Capitol on the 17<hi rend="underline"><hi rend="sup">th</hi></hi> day of January 1861, to take into consideration the interests of the <orgName ref="cwgk:O001025">Commonwealth</orgName> as the same may be involved in or connected with the present distracted condition of the <placeName ref="cwgk:P001802">county</placeName> at large</p>
+<p>He issues a Proclamation ordering an election in the 33<hi rend="underline"><hi rend="sup">d</hi></hi> Senatorial Distrcit composed of the counties of <placeName ref="cwgk:P00000869">Montgomery</placeName>, <placeName ref="cwgk:P001786">Clarke</placeName>, <placeName ref="cwgk:P00004776">Estill</placeName> and <placeName ref="cwgk:P00001937">Powell</placeName> to supply the vacancy occasioned by the death of <persName ref="cwgk:N00021484">James M<hi rend="sup">c</hi>Kee</persName>, late Senator.</p>
+<p>Also a Proclamation ordering an election for Representative in the counties of <placeName ref="cwgk:P00002472">Caldwell</placeName> and <placeName ref="cwgk:P00002081">Lyon</placeName> made vacant by the resignation of <persName ref="cwgk:N00021485">W. B. Acree</persName></p>
+<p>He commissioned the following Major of <orgName ref="cwgk:O00000916">Enrolled Militia</orgName>, to wit: <persName ref="cwgk:N00001266">Lloyd Tilghman</persName>, <persName ref="cwgk:N00021487">Thomas Bristow</persName> and <persName ref="cwgk:N00021486">W<hi rend="underline"><hi rend="sup">m</hi></hi> H Miller</persName>.</p>
   </body>
  </text>
 </TEI>
