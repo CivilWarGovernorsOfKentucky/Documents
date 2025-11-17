@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0302"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,21 +72,21 @@
  <text>
   <body>
    <p>To his Excy
-<lb/>The Gov<hi rend="sup">r</hi> of Kentucky</p>
-<p>The undersigned very respectfully but earnestly request your excellency to remit a fine of Fifty dollars and Costs inflicted to day by the City Court of Lexington on Patrick Garrety for carrying concealed a deadly weapon,</p>
-<p><hi rend="underline">Geo B Kinkead</hi>
-<lb/>R. Hickman Prewitt
-<lb/>John B Payne Sr.
+<lb/>The <persName ref="cwgk:N00000258">Gov<hi rend="sup">r</hi></persName> of <placeName ref="cwgk:P001800">Kentucky</placeName></p>
+<p>The undersigned very respectfully but earnestly request your excellency to remit a fine of Fifty dollars and Costs inflicted to day by the <orgName ref="cwgk:O00000729">City Court</orgName> of <placeName ref="cwgk:P001002">Lexington</placeName> on <persName ref="cwgk:N00020148">Patrick Garrety</persName> for carrying concealed a deadly weapon,</p>
+<p><hi><persName ref="cwgk:N00011566">Geo B Kinkead</persName></hi>
+<lb/><persName ref="cwgk:N00004020">R. Hickman Prewitt</persName>
+<lb/><persName ref="cwgk:N00004829">John B Payne Sr.</persName>
 <lb/><hi rend="underline">W. Payne</hi>
-<lb/>J B, Cooper
-<lb/>W<hi rend="sup">m</hi> Campbell
-<lb/>W J Hornby
-<lb/>Alexander <unclear>Irvine</unclear>
-<lb/>A,, S,, Parker
-<lb/>J. Kastle Jr
-<lb/>W W Lowney
-<lb/>T. J. Lowney
-<lb/>C <unclear/> Dennis
+<lb/><persName ref="cwgk:N00020131">J B, Cooper</persName>
+<lb/><persName ref="cwgk:N00020133">W<hi rend="sup">m</hi> Campbell</persName>
+<lb/><persName ref="cwgk:N00020151">W J Hornby</persName>
+<lb/><persName ref="cwgk:N00020132">Alexander <unclear>Irvine</unclear></persName>
+<lb/><persName ref="cwgk:N00020152">A,, S,, Parker</persName>
+<lb/><persName ref="cwgk:N00020153">J. Kastle Jr</persName>
+<lb/><persName ref="cwgk:N00020155">W W Lowney</persName>
+<lb/><persName ref="cwgk:N00020156">T. J. Lowney</persName>
+<lb/><persName ref="cwgk:N00020157">C <unclear/> Dennis</persName>
 <lb/><hi rend="underline">G. B. Hale</hi></p>
   </body>
  </text>
