@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0446"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,53 +70,53 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excelency Govenor Bramblett</p>
-<p>We the undesigned citizens of <unclear>Harison</unclear> County being to a considerable extent acquainted with the case of Garrett Whetson now in the Jail of this county and condemed to be hanged on the <date when="--02-09">ninth of February</date> next for the murder of a man by the name of Speckard, would respectfully state that we think him a fit subject for the Executive clemency. We therefore ask your Excellency to pardon him
+   <p>To his Excelency <persName ref="cwgk:N001000">Govenor Bramblett</persName></p>
+<p>We the undesigned citizens of <unclear>Harison</unclear> County being to a considerable extent acquainted with the case of <persName ref="cwgk:N00015743">Garrett Whetson</persName> now in the Jail of this county and condemed to be hanged on the <date when="--02-09">ninth of February</date> next for the murder of a man by the name of <persName ref="cwgk:N00015780">Speckard</persName>, would respectfully state that we think him a fit subject for the Executive clemency. We therefore ask your Excellency to pardon him
 <lb/><date when="1864-01">Jan 1864</date></p>
-<p>John Williams
-<lb/>B. F. Dunn
-<lb/>L S Humble
-<lb/>Covington Coleman
-<lb/>Robert Coleman
-<lb/>James Sims
-<lb/>Richard <unclear/><pb/>
+<p><persName ref="cwgk:N00015757">John Williams</persName>
+<lb/><persName ref="cwgk:N00015708">B. F. Dunn</persName>
+<lb/><persName ref="cwgk:N00015759">L S Humble</persName>
+<lb/><persName ref="cwgk:N00015744">Covington Coleman</persName>
+<lb/><persName ref="cwgk:N00015745">Robert Coleman</persName>
+<lb/><persName ref="cwgk:N00015758">James Sims</persName>
+<lb/><persName ref="cwgk:N00015770">Richard </persName><unclear/><pb/>
 <lb/><unclear/>
-<lb/>James <unclear>Ch</unclear>
-<lb/>E. Faulconer S<hi rend="underline"><hi rend="sup">r</hi></hi>
-<lb/>T. Crosthwait
-<lb/>R. N. Faulconer
-<lb/>T. S. Faulconer
-<lb/>J. W. Steward
-<lb/>R Morris
-<lb/>Willis Jones
-<lb/>C. P. Kinnan
-<lb/>Jackson Matthews
-<lb/>William Bryant
-<lb/>Sanford Faulconer
-<lb/>Jesse Bean
-<lb/>Tobias Rose
-<lb/>James, Rose sen
-<lb/>James Rose
-<lb/>Thomas. Rose
-<lb/>William Faulconer
-<lb/>John Burgess
-<lb/>Milton Garard
-<lb/>AaRon Cook
-<lb/>F W Steward<pb/>
-<lb/>John N. Ralston
-<lb/>Joshua <unclear>Swinford</unclear>
-<lb/>Henson Courtney
-<lb/>James Crossthwait
-<lb/>John W. Morgan
-<lb/>John Coppage
-<lb/>Edmund Swinford
-<lb/>Newton Henry
-<lb/>Jessy Morris
-<lb/>Cornelius Dunn
-<lb/>James C, Whetson
-<lb/>Edmund Faulconer
-<lb/>John Swinford
-<lb/>Willis T. Whitson</p>
+<lb/><persName ref="cwgk:N00015752">James <unclear>Ch</unclear></persName>
+<lb/><persName ref="cwgk:N00015736">E. Faulconer S<hi rend="underline"><hi rend="sup">r</hi></hi></persName>
+<lb/><persName ref="cwgk:N00015707">T. Crosthwait</persName>
+<lb/><persName ref="cwgk:N00015750">R. N. Faulconer</persName>
+<lb/><persName ref="cwgk:N00015768">T. S. Faulconer</persName>
+<lb/><persName ref="cwgk:N00015740">J. W. Steward</persName>
+<lb/><persName ref="cwgk:N00015751">R Morris</persName>
+<lb/><persName ref="cwgk:N00015749">Willis Jones</persName>
+<lb/><persName ref="cwgk:N00015742">C. P. Kinnan</persName>
+<lb/><persName ref="cwgk:N00015709">Jackson Matthews</persName>
+<lb/><persName ref="cwgk:N00015776">William Bryant</persName>
+<lb/><persName ref="cwgk:N00015767">Sanford Faulconer</persName>
+<lb/><persName ref="cwgk:N00015775">Jesse Bean</persName>
+<lb/><persName ref="cwgk:N00015747">Tobias Rose</persName>
+<lb/><persName ref="cwgk:N00015760">James, Rose sen</persName>
+<lb/><persName ref="cwgk:N00015761">James Rose</persName>
+<lb/><persName ref="cwgk:N00015746">Thomas. Rose</persName>
+<lb/><persName ref="cwgk:N00015753">William Faulconer</persName>
+<lb/><persName ref="cwgk:N00015769">John Burgess</persName>
+<lb/><persName ref="cwgk:N00015771">Milton Garard</persName>
+<lb/><persName ref="cwgk:N00015748">AaRon Cook</persName>
+<lb/><persName ref="cwgk:N00015762">F W Steward</persName><pb/>
+<lb/><persName ref="cwgk:N00015741">John N. Ralston</persName>
+<lb/><persName ref="cwgk:N00015754">Joshua <unclear>Swinford</unclear></persName>
+<lb/><persName ref="cwgk:N00015739">Henson Courtney</persName>
+<lb/><persName ref="cwgk:N00015772">James Crossthwait</persName>
+<lb/><persName ref="cwgk:N00015773">John W. Morgan</persName>
+<lb/><persName ref="cwgk:N00015738">John Coppage</persName>
+<lb/><persName ref="cwgk:N00015735">Edmund Swinford</persName>
+<lb/><persName ref="cwgk:N00015734">Newton Henry</persName>
+<lb/><persName ref="cwgk:N00015733">Jessy Morris</persName>
+<lb/><persName ref="cwgk:N00015710">Cornelius Dunn</persName>
+<lb/><persName ref="cwgk:N00015732">James C, Whetson</persName>
+<lb/><persName ref="cwgk:N00015737">Edmund Faulconer</persName>
+<lb/><persName ref="cwgk:N00015479">John Swinford</persName>
+<lb/><persName ref="cwgk:N00015731">Willis T. Whitson</persName></p>
   </body>
  </text>
 </TEI>
