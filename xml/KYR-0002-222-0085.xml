@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0085"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  <text>
   <body>
    <p>NO. 22.<figure type="hr"/>
-<lb/>The State of Kentucky,
-<lb/>To D. W. Lindsey, Dr.</p>
+<lb/>The <orgName ref="cwgk:O001025">State of Kentucky</orgName>,
+<lb/>To <persName ref="cwgk:N00000873">D. W. Lindsey</persName>, Dr.</p>
 <p><table rend="rules">
 <row>
 	<cell>Date of Purchase.</cell>
@@ -75,12 +83,12 @@
 <row>
 	<cell/>
 	<cell>To services rendered in administering and organizing the Kentucky State Militia from the <date when="1863-11-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> November 1863</date> to the <date when="1864-03-31">31<hi rend="underline"><hi rend="sup">st</hi></hi> day of March 1864</date></cell>
-	<cell>&#36;1125</cell>
+	<cell>$1125</cell>
 	<cell/>
 </row>
 </table></p>
 <note place="left margin"><p>Approved -- and the Q. M. Genl is ordered to pay this claim out of the <hi rend="str">Militia</hi>State Militia fund</p>
-<p>Tho E Bramlette
+<p><persName ref="cwgk:N001000">Tho E Bramlette</persName>
 <lb/>Govr.</p></note>
 <p>I certify that the above account is correct and just, and that the services were rendered as stated, and were necessary for the public service.</p>
 <p>S, G, Suddarth
@@ -100,8 +108,8 @@
 </row>
 <row>
 	<cell/>
-	<cell>To services rendered in administering and organizing the Kentucky State Militia from the <date when="1863-11-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> November 1863</date> to the <date when="1864-03-21">31<hi rend="underline"><hi rend="sup">st</hi></hi> day of March 1864</date>.</cell>
-	<cell>&#36;1125.</cell>
+	<cell>To services rendered in administering and organizing the <orgName ref="cwgk:O00000916">Kentucky State Militia</orgName> from the <date when="1863-11-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> November 1863</date> to the <date when="1864-03-21">31<hi rend="underline"><hi rend="sup">st</hi></hi> day of March 1864</date>.</cell>
+	<cell>$1125.</cell>
 	<cell/>
 </row>
 </table></p>
@@ -109,8 +117,8 @@
 <p>Thos E Bramlette
 <lb/>Govr</p></note>
 <p>I certify that the above account is correct and just, and that the services were rendered as stated, and were necessary for the public service.</p>
-<p>S, G, Suddarth
-<lb/>Quarter-Master Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of Ky. </p>
+<p><persName ref="cwgk:N00000946">S, G, Suddarth
+</persName><lb/><orgName ref="cwgk:O00000389">Quarter-Master Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of Ky</orgName>. </p>
 <p>Received at <gap/> the <gap/> of <gap/>, 186<gap/>, of S. G. SUDDARTH, Quarter=Master General for the State of Kentucky, <gap/> dollars and<gap/> cents, in full of the above account.</p>
 <p>(DUPLICATE.)</p>
 <p><hi rend="underline">D, W, Lindsey</hi><pb/></p>
@@ -118,7 +126,7 @@
 <p>No. 22.<figure type="hr"/>
 <lb/>No. <gap/> Abstract. 
 <lb/>D, W, Lindsey
-<lb/>Dollars &#36;1125,<hi rend="sup">00</hi>/<hi rend="sub">100</hi>
+<lb/>Dollars $1125,<hi rend="sup">00</hi>/<hi rend="sub">100</hi>
 <lb/>Paid <date when="1864-03-22">March 22<hi rend="sup">d</hi> 1864.</date></p>
 <p>(1)</p>
   </body>
