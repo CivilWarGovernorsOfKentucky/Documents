@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1772"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Deborah J. Thompson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,37 +70,37 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellincy Governor, Tho<hi rend="sup">s</hi>. E. Bramlett,</p>
-<p>The undersigned petitioners say that S. W. Clark is a citizen of Pendleton County and our neighbors; We know him to be a good citizen and a law abiding man, We also think &amp; believe that the prosecution in this case against him was prompted by personal anemosity &amp; not for the peace and quiet &amp; the good morals of his immediate neighborhood. We recommend him to your clemency, <date when="1865-04-26">April 26<hi rend="sup">th</hi> 1865.</date> The prosecution is for keeping a tippling house and the fine assessed at the present <date when="1865-04">April Term</date> of the Pendleton Circuit Court is sixty dollars, which we think ought to be remitted</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>G B, Parker
-<lb/>George. W. Booker
-<lb/>W<hi rend="sup">m</hi> G. P Weaver
-<lb/>D. N. Williams
-<lb/>John Douglass
-<lb/>Squire Jett
-<lb/>F, M, Aulich
-<lb/>S C, Edwards
-<lb/>J. C, Garrard
-<lb/>N. C. Wilson
-<lb/>G. M. Calvin
-<lb/>James Wilson
-<lb/><cb n="2"/>C. C. Aulich
-<lb/>Robert Purdy
-<lb/>W<hi rend="sup">m</hi> <hi rend="underline">M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Murchy</hi>
-<lb/>J. T Applegate
-<lb/>E Wallach
-<lb/>J. H. Barbour
-<lb/>W<hi rend="sup">m</hi>. A. Pettit
-<lb/>G. D. Calvin
-<lb/>Thomas Earls
-<lb/>R. Stowen
-<lb/>N. S. Dickerson
-<lb/>J J. Brown
-<lb/>James Pigg<milestone unit="column" n="1"/><pb/></p>
+   <p>To his Excellincy Governor, <persName ref="cwgk:N001000">Tho<hi rend="sup">s</hi>. E. Bramlett</persName>,</p>
+<p>The undersigned petitioners say that <persName ref="cwgk:N00014313">S. W. Clark</persName> is a citizen of <placeName ref="cwgk:P00000544">Pendleton County</placeName> and our neighbors; We know him to be a good citizen and a law abiding man, We also think &amp; believe that the prosecution in this case against him was prompted by personal anemosity &amp; not for the peace and quiet &amp; the good morals of his immediate neighborhood. We recommend him to your clemency, <date when="1865-04-26">April 26<hi rend="sup">th</hi> 1865.</date> The prosecution is for keeping a tippling house and the fine assessed at the present <date when="1865-04">April Term</date> of the <orgName ref="cwgk:O00000489">Pendleton Circuit Court</orgName> is sixty dollars, which we think ought to be remitted</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00014314">G B, Parker</persName>
+<lb/><persName ref="cwgk:N00014315">George. W. Booker</persName>
+<lb/><persName ref="cwgk:N00014316">W<hi rend="sup">m</hi> G. P Weaver</persName>
+<lb/><persName ref="cwgk:N00003659">D. N. Williams</persName>
+<lb/><persName ref="cwgk:N00014317">John Douglass</persName>
+<lb/><persName ref="cwgk:N00014318">Squire Jett</persName>
+<lb/><persName ref="cwgk:N00014319">F, M, Aulich</persName>
+<lb/><persName ref="cwgk:N00014320">S C, Edwards</persName>
+<lb/><persName ref="cwgk:N00014321">J. C, Garrard</persName>
+<lb/><persName ref="cwgk:N00014244">N. C. Wilson</persName>
+<lb/><persName ref="cwgk:N00014322">G. M. Calvin</persName>
+<lb/><persName ref="cwgk:N00010828">James Wilson</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00014323">C. C. Aulich</persName>
+<lb/><persName ref="cwgk:N00014324">Robert Purdy</persName>
+<lb/><persName ref="cwgk:N00010825">W<hi rend="sup">m</hi> <hi rend="underline">M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Murchy</hi></persName>
+<lb/><persName ref="cwgk:N00010837">J. T Applegate</persName>
+<lb/><persName ref="cwgk:N00014325">E Wallach</persName>
+<lb/><persName ref="cwgk:N00003935">J. H. Barbour</persName>
+<lb/><persName ref="cwgk:N00003931">W<hi rend="sup">m</hi>. A. Pettit</persName>
+<lb/><persName ref="cwgk:N00014327">G. D. Calvin</persName>
+<lb/><persName ref="cwgk:N00014328">Thomas Earls</persName>
+<lb/><persName ref="cwgk:N00003754">R. Stowen</persName>
+<lb/><persName ref="cwgk:N00014329">N. S. Dickerson</persName>
+<lb/><persName ref="cwgk:N00014331">J J. Brown</persName>
+<lb/><persName ref="cwgk:N00014332">James Pigg</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Pendleton Cir Ct
 <lb/>vs
 <lb/>S W Clark
-<lb/>&#36;60,
+<lb/>$60,
 <lb/>Petition to be released of fine<figure type="hr"/>
 <lb/><date when="1865-06-08">8<hi rend="sup">th</hi> June 1865</date></p>
 <p>sent for fee
