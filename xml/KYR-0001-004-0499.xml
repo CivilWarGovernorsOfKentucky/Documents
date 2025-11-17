@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0499"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Danville Ky
+   <p><placeName ref="cwgk:P00005549">Danville </placeName>Ky
 <lb/><date when="1864-02-04">Febr 4<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
-<lb/>Dear Euf</p>
-<p>A forfeiture was obtained at the present term of the Boyle circuit court <hi rend="str">court</hi> against Ed Mitchell for &#36;100- for issuing a policy and taking risks as an agent for the London &amp; Liverpool insurance company with out license. Mr. M had obtained the mandatory license and paid the tax but failed to return a copy to the office here- My habit is when the law is violated however unintentional to dismiss no case but leave the matter for <hi rend="str">excute</hi> executive clemency &amp; I have no hesitancy when I<pb/>
+<lb/>Dear <persName ref="cwgk:N001777">Euf</persName></p>
+<p>A forfeiture was obtained at the present term of the <orgName ref="cwgk:O00000345">Boyle circuit court </orgName><hi rend="str">court</hi> against <persName ref="cwgk:N00019150">Ed Mitchell </persName>for $100- for issuing a policy and taking risks as an agent for the <orgName ref="cwgk:O00019151">London &amp; Liverpool insurance company</orgName> with out license. Mr. M had obtained the mandatory license and paid the tax but failed to return a copy to the office here- My habit is when the law is violated however unintentional to dismiss no case but leave the matter for <hi rend="str">excute</hi> executive clemency &amp; I have no hesitancy when I<pb/>
 <lb/>am satisfied the state of facts merit it to make the application myself I dont believe Mr. Mitchell intended to violate the law, and therefore address you on the subject -- </p>
-<p>I am allright yet <unclear/> leaving Frankfort and feel very much like a gentleman-</p>
+<p>I am allright yet <unclear/> leaving<placeName ref="cwgk:P00000308"> Frankfort </placeName>and feel very much like a gentleman-</p>
 <p>Yr friend
-<lb/>M. H. Owsley
+<lb/><persName ref="cwgk:N00002811">M. H. Owsley</persName>
 <lb/></p>
   </body>
  </text>
