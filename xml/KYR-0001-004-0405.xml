@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0405"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,36 +70,36 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Govenor of the Commonwealth of Kentucky.</p>
-<p>The undersigned citizens of the county of Caldwell in the state of Kentucky would respectfully state that, John C. Boyd, was indicted in the Caldwell Circuit Court for carrying concealed weapons, that thereupon he with, John R, Boyd as his security entered into a recognizance for the appearance of the said John C, <hi rend="str">C</hi>Boyd in said court to answer said charge, that subsequently the said John C, Boyd was engaged for a time in the Federal service, and thereby became so obnoxious to guerrillas who were infesting the country, that, he deemed it unsafe to remain in the state, that his life was repeatedly threatened by such guerrillas and those cooperating with them, and for these reasons he went to the state of Illinois and was absent from the state at the time of court, and said recognizance was taken as forfeited, and judgment for fifty dollars was rendered by the Caldwell Circuit Court at its <date when="1863-11">November term 1863</date> against the said John R, Boyd upon said forfeited recognizance.</p>
+   <p>To the <persName ref="cwgk:N001000">Govenor</persName> of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>.</p>
+<p>The undersigned citizens of the county of Caldwell in the state of Kentucky would respectfully state that, <persName ref="cwgk:N00015514">John C. Boyd</persName>, was indicted in the <orgName ref="cwgk:O00000363">Caldwell Circuit Court</orgName> for carrying concealed weapons, that thereupon he with, <persName ref="cwgk:N00015515">John R, Boyd</persName> as his security entered into a recognizance for the appearance of the said John C, <hi rend="str">C</hi>Boyd in said court to answer said charge, that subsequently the said John C, Boyd was engaged for a time in the Federal service, and thereby became so obnoxious to guerrillas who were infesting the country, that, he deemed it unsafe to remain in the state, that his life was repeatedly threatened by such guerrillas and those cooperating with them, and for these reasons he went to the state of <placeName ref="cwgk:P00004765">Illinois</placeName> and was absent from the state at the time of court, and said recognizance was taken as forfeited, and judgment for fifty dollars was rendered by the Caldwell Circuit Court at its <date when="1863-11">November term 1863</date> against the said John R, Boyd upon said forfeited recognizance.</p>
 <p>And we further state that before said judgment was rendered, the said John C. Boyd surrendered himself in said court to answer said charge, and he is now recognized to answer same.<pb/></p>
 <p>And we also state that the said John R. Boyd and John C. Boyd are both poor men, with families, relying mainly upon their exertions for a living. Wherefore we ask that said judgment may be remitted-</p>
-<p>S. Marble
+<p><persName ref="cwgk:N00015516">S. Marble</persName>
 <lb/>John R Boyd
-<lb/>D. W. M<hi rend="sup">c</hi>Goodwin
-<lb/>R. B. Ratliff
-<lb/>P. W. M<hi rend="sup">c</hi>Coy
+<lb/><persName ref="cwgk:N00014148">D. W. M<hi rend="sup">c</hi>Goodwin</persName>
+<lb/><persName ref="cwgk:N00008632">R. B. Ratliff</persName>
+<lb/><persName ref="cwgk:N00015517">P. W. M<hi rend="sup">c</hi>Coy</persName>
 <lb/><hi rend="underline">J. N. Turner</hi>
-<lb/>E P. Campbell
+<lb/><persName ref="cwgk:N00002633">E P. Campbell</persName>
 <lb/><hi rend="underline">Comths attorney</hi>
-<lb/>John Wheatly
-<lb/>W<hi rend="sup">m</hi> Cash
-<lb/>J, P, Gracey
-<lb/>R. L. Wilson
-<lb/>James C. Barnes</p>
+<lb/><persName ref="cwgk:N00015518">John Wheatly</persName>
+<lb/><persName ref="cwgk:N00014503">W<hi rend="sup">m</hi> Cash</persName>
+<lb/><persName ref="cwgk:N00014908">J, P, Gracey</persName>
+<lb/><persName ref="cwgk:N00008634">R. L. Wilson</persName>
+<lb/><persName ref="cwgk:N00003859">James C. Barnes</persName></p>
 <p>I believe from the evidence introduced on the trial of above named cause that the <hi rend="str">above</hi> Petition Sets forth Substantially the facts <hi rend="str">if</hi> <unclear>in</unclear> the premises</p>
-<p>R. T. Petree Cir Judge</p>
+<p><persName ref="cwgk:N00003091">R. T. Petree</persName> Cir Judge</p>
 <p>Please enclose to D. W. M<hi rend="underline"><hi rend="sup">c</hi></hi>Goodwin
-<lb/>Princeton, Ky-</p>
+<lb/><placeName ref="cwgk:P00002273">Princeton</placeName>, Ky-</p>
 <p>Caldwell Cir Ct
 <lb/>vs</p>
 <p>Remit all -- except fees &amp; costs
 <lb/>Tho E Bramlette</p>
 <p>J R Boyd
-<lb/>&#36;50 -- 
+<lb/>$50 -- 
 <lb/>Forfeiture
 <lb/><date when="1864-01-12">12<hi rend="sup">th</hi> Jany/64</date></p>
-<p></p>
+<p/>
   </body>
  </text>
 </TEI>
