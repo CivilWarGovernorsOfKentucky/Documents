@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0424"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,43 +71,43 @@
  </teiHeader>
  <text>
   <body>
-   <p>Irvine Ky <date when="1864-01-01">Jany 1<hi rend="underline"><hi rend="sup">st</hi></hi> 186<hi rend="str">3</hi>4</date>
-<lb/>To His Excelency Thomas. E. Bramlett
-<lb/>Govenor of Kentucky
+   <p><placeName ref="cwgk:P00005642">Irvine</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1864-01-01">Jany 1<hi rend="underline"><hi rend="sup">st</hi></hi> 186<hi rend="str">3</hi>4</date>
+<lb/>To His Excelency <persName ref="cwgk:N001000">Thomas. E. Bramlett</persName>
+<lb/>Govenor of <orgName ref="cwgk:O001025">Kentucky</orgName>
 <lb/>Dear Sir</p>
-<p>Some two weeks Since the Provost Marshal of this county mailed to you a certificate of the circuit clerk of this county Showing Presentments in this court against William Roggers for Robery &amp; Treason &amp; against James Roggers for Murder &amp; Treason, with a request that you have said Roggers givn up to the civil authorities for Trial or if that could not be done that they might be dealt with by military Law for their crimes &amp; if <hi rend="str">name</hi>this could not be done that you would take Some Steps to prevent men who Stand Indicted in our courts for such crimes from being taken in to the Federal Sevice and to carry Federal Bayonetts in this county whare they have committed those crimes the Marshal informs us that he has Received no answer to said communication and Knows of no action being taken thare in. we the undersigned Loyal citizens of Estill county feeling that Such men ought not to be permitted to Escape punishment by Shielding Themselves in this way ask and hope you will do whatever you can to have the requests of the <hi rend="underline">Marshal</hi> to you carried our Immediately and that you will Inform us of what ever action may be taken at the earliest Possible moment</p>
+<p>Some two weeks Since the Provost Marshal of this county mailed to you a certificate of the circuit clerk of this county Showing Presentments in this court against <persName ref="cwgk:N00016583">William Roggers</persName> for Robery &amp; Treason &amp; against <persName ref="cwgk:N00016584">James Roggers</persName> for Murder &amp; Treason, with a request that you have said Roggers givn up to the civil authorities for Trial or if that could not be done that they might be dealt with by military Law for their crimes &amp; if <hi rend="str">name</hi>this could not be done that you would take Some Steps to prevent men who Stand Indicted in our courts for such crimes from being taken in to the Federal Sevice and to carry Federal Bayonetts in this county whare they have committed those crimes the Marshal informs us that he has Received no answer to said communication and Knows of no action being taken thare in. we the undersigned Loyal citizens of <placeName ref="cwgk:P00004776">Estill county</placeName> feeling that Such men ought not to be permitted to Escape punishment by Shielding Themselves in this way ask and hope you will do whatever you can to have the requests of the <hi rend="underline">Marshal</hi> to you carried our Immediately and that you will Inform us of what ever action may be taken at the earliest Possible moment</p>
 <p>yous Respecfy
-<lb/>C. C. Bell
-<lb/><milestone unit="column" n="2"/><cb n="1"/>Joshua Abney
-<lb/>David Oglesby
-<lb/>John Durbin
-<lb/>M. L. Thomas
-<lb/><cb n="2"/>Jeptha Tipton
-<lb/>Henry C Thomas Asst Assessor
+<lb/><persName ref="cwgk:N00016585">C. C. Bell</persName>
+<lb/><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00016651">Joshua Abney</persName>
+<lb/><persName ref="cwgk:N00016652">David Oglesby</persName>
+<lb/><persName ref="cwgk:N00016653">John Durbin</persName>
+<lb/><persName ref="cwgk:N00016654">M. L. Thomas</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00011220">Jeptha Tipton</persName>
+<lb/><persName ref="cwgk:N00016690">Henry C Thomas</persName> Asst Assessor
 <lb/>11<hi rend="sup">th</hi> Div 2<hi rend="underline"><hi rend="sup">nd</hi></hi> District of Ky<milestone unit="column" n="1"/><pb/>
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C Barker
-<lb/>A D Campbell
-<lb/>Wm Morris
-<lb/>James Smyth
-<lb/>Stephen M Jones
-<lb/>Tobias, E. Smyth
-<lb/>George Smyth
-<lb/>Robert, Reynolds
-<lb/>E Hansen
-<lb/>Marton M Price
-<lb/>J, B, Hinds
-<lb/>Meredith, King
-<lb/>Wm L tipton
-<lb/>D. C Adams
-<lb/>D, B, Scholl
-<lb/>D, B, Rawlins
-<lb/>R W. Smith
-<lb/>W<hi rend="sup">m</hi>. J. Ashcraft
-<lb/>Thomas Sewell
-<lb/>Jonthan T Tristan
-<lb/>Jno, H, Hinds</p>
+<lb/><persName ref="cwgk:N00016691">W<hi rend="underline"><hi rend="sup">m</hi></hi> C Barker</persName>
+<lb/><persName ref="cwgk:N00016692">A D Campbell</persName>
+<lb/><persName ref="cwgk:N00016693">Wm Morris</persName>
+<lb/><persName ref="cwgk:N00016694">James Smyth</persName>
+<lb/><persName ref="cwgk:N00016695">Stephen M Jones</persName>
+<lb/><persName ref="cwgk:N00016696">Tobias, E. Smyth</persName>
+<lb/><persName ref="cwgk:N00016697">George Smyth</persName>
+<lb/><persName ref="cwgk:N00016698">Robert, Reynolds</persName>
+<lb/><persName ref="cwgk:N00016699">E Hansen</persName>
+<lb/><persName ref="cwgk:N00005643">Marton M Price</persName>
+<lb/><persName ref="cwgk:N00016700">J, B, Hinds</persName>
+<lb/><persName ref="cwgk:N00016701">Meredith, King</persName>
+<lb/><persName ref="cwgk:N00016703">Wm L tipton</persName>
+<lb/><persName ref="cwgk:N00016704">D. C Adams</persName>
+<lb/><persName ref="cwgk:N00009847">D, B, Scholl</persName>
+<lb/><persName ref="cwgk:N00016705">D, B, Rawlins</persName>
+<lb/><persName ref="cwgk:N00016706">R W. Smith</persName>
+<lb/><persName ref="cwgk:N00011183">W<hi rend="sup">m</hi>. J. Ashcraft</persName>
+<lb/><persName ref="cwgk:N00009762">Thomas Sewell</persName>
+<lb/><persName ref="cwgk:N00016707">Jonthan T Tristan</persName>
+<lb/><persName ref="cwgk:N00016708">Jno, H, Hinds</persName></p>
 <p>Article 33. 
-<lb/>Former correspondents has been forward to Genl Hammond com</p>
+<lb/>Former correspondents has been forward to Genl <persName ref="cwgk:N00016716">Hammond </persName>com</p>
   </body>
  </text>
 </TEI>
