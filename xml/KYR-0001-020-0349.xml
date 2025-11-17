@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0349"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,20 +71,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency, the Hon Beriah Magoffin,
-<lb/>Governor of Kentucky.</p>
-<p>We the undersigned, citizens of Bath, would respectfully, but earnestly solicit your excellency to remit a certain -- fine imposed, by a Judgement of the Bath Circuit Court at its <hi rend="str">March</hi>February term, upon our esteemed young friend M<hi rend="underline"><hi rend="sup">r</hi></hi> <hi rend="underline">Samuel</hi> <hi rend="underline">Herndon</hi>, for retailing spirituous liquors -- believeing that such a remission of said fine by you meets the approbation of an overwhelming majority your people -- they knowing M<hi rend="underline"><hi rend="sup">r</hi></hi> <hi rend="underline">Herndon</hi> well.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>N. P. Reid.
-<lb/>John. G. Mason
+   <p>To His Excellency, the Hon <persName ref="cwgk:N00000258">Beriah Magoffin</persName>,
+<lb/>Governor of <placeName ref="cwgk:P001800">Kentucky</placeName>.</p>
+<p>We the undersigned, citizens of <placeName ref="cwgk:P00000478">Bath</placeName>, would respectfully, but earnestly solicit your excellency to remit a certain -- fine imposed, by a Judgement of the <orgName ref="cwgk:O00000358">Bath Circuit Court</orgName> at its <hi rend="str">March</hi>February term, upon our esteemed young friend M<hi rend="underline"><hi rend="sup">r</hi></hi> <hi rend="underline">Samuel</hi> <hi rend="underline">Herndon</hi>, for retailing spirituous liquors -- believeing that such a remission of said fine by you meets the approbation of an overwhelming majority your people -- they knowing M<hi rend="underline"><hi rend="sup">r</hi></hi> <hi rend="underline">Herndon</hi> well.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00012439">N. P. Reid</persName>.
+<lb/><persName ref="cwgk:N00017613">John. G. Mason</persName>
 <lb/><hi rend="underline">J. A.</hi> Turner jr
-<lb/>W, H, <unclear>Brown</unclear>
-<lb/>Jas. T. Young
-<lb/>W. P. Conner S. B. C
-<lb/><cb n="2"/>M, R, Everett
-<lb/>J B Erwin
-<lb/>R. F. Berkley
-<lb/>O, S, T<unclear/>
-<lb/><hi rend="underline">Samuel Pike</hi>, of Montgomery.</p>
+<lb/><persName ref="cwgk:N00021397">W, H, <unclear>Brown</unclear></persName>
+<lb/><persName ref="cwgk:N00021380">Jas. T. Young</persName>
+<lb/><persName ref="cwgk:N00000492">W. P. Conner</persName> S. B. C
+<lb/><cb n="2"/><persName ref="cwgk:N00021396">M, R, Everett</persName>
+<lb/><persName ref="cwgk:N00021392">J B Erwin</persName>
+<lb/><persName ref="cwgk:N00021388">R. F. Berkley</persName>
+<lb/><persName ref="cwgk:N00021384">O, S, T</persName><unclear/>
+<lb/><hi rend="underline">Samuel Pike</hi>, of <placeName ref="cwgk:P00000869">Montgomery.</placeName></p>
   </body>
  </text>
 </TEI>
