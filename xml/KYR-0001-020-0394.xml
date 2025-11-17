@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0394"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,10 +70,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Commth of Ky
+   <p><orgName ref="cwgk:O001025">Commth of Ky</orgName>
 <lb/>vs
-<lb/>Hezekiah Alexander</p>
-<p>The Defendant prays that an appeal be granted him from the judgment of the Circuit Court of Meade County. </p>
+<lb/><persName ref="cwgk:N00018596">Hezekiah Alexander</persName></p>
+<p>The Defendant prays that an appeal be granted him from the judgment of the <orgName ref="cwgk:O00000431">Circuit Court</orgName> of <placeName ref="cwgk:P001822">Meade County</placeName>. </p>
 <p>(See sec: 329 of Criminal Code of Practice Stantons edition)</p>
 <p>The record shows that the indictment charges the Deft with committing a burglary.</p>
 <p>Burglary "is the breaking and entering the dwelling house of another with the intent to commit a felony therein." See Whartons American Criminal Law page 353.</p>
@@ -83,7 +91,7 @@
 <p>In this case the witness expressly said (see Bill of Exceptions) that she did not think the Deft had time to get his head <hi rend="str">or elbow</hi> in the window, or that either his head or elbow was in the window, thought both were on the outside</p>
 <p>Upon this evidence it is clear to my mind that the Judge ought to have instructed the Jury to find for the Deft The instruction asked for was to dismiss the indictment which is substantially a motion to find for the Deft. I could enlarge upon the prayer for an appeal, but I deem it unnecessary. I ask that <hi rend="str">the</hi>an appeal be granted</p>
 <p>Respy
-<lb/>N. Wolfe
+<lb/><persName ref="cwgk:N00000219">N. Wolfe</persName>
 <lb/>atto for Deft</p>
   </body>
  </text>
