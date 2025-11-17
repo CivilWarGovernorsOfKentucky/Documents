@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0498"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,24 +71,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lancaster Ky
+   <p><placeName ref="cwgk:P001842">Lancaster</placeName> <placeName ref="cwgk:P001800">Ky</placeName>
 <lb/><date when="1864-02-11">Febr. 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
-<lb/>Dear Euf</p>
-<p>James L Anderson Sheriff of this County informs me that the letter I wrote to Gov. Bramlette in reference to Richard Lutrell's forfeiture has been mislaid or lost. and, that you requested me to write another -- </p>
-<p>Richard Lutrell was security in Bail bond for &#36;500- for the appearance of W<hi rend="underline"><hi rend="sup">m</hi></hi> Williams in Garrard Circuit Court Bond was forfeited at the last <date when="--08"><hi rend="str">August</hi></date> <date when="--02">Febr. Term</date> of this court<pb/></p>
-<p>And Judgment obtained against said Lutrell at the <date when="1863-08">Aug Term 1863</date> for the sd &#36;500- I have been informed by quite a number of very reliable citizens of this county that Lutrell is honest and industrious but now very poor, had some property at the time the bond was taken but has since been cheated out of it, the bond was given for the appearance of his nephew These persons also inform me that Lutrell has his sister (who is a widow with a large family of little children to support) which is all and more than he can well do comfortably That he is still honest &amp;<pb/></p>
+<lb/>Dear <persName ref="cwgk:N001777">Euf</persName></p>
+<p><persName ref="cwgk:N00012549">Ja<persName ref="cwgk:N00002811">me</persName>s L Anderson</persName> Sheriff of this <placeName ref="cwgk:P001011">County </placeName>informs me that the letter I wrote to <persName ref="cwgk:N001000">Gov. Bramlette </persName>in reference to <persName ref="cwgk:N00016396">Richard Lutrell's</persName> forfeiture has been mislaid or lost. and, that you requested me to write another -- </p>
+<p>Richard Lutrell was security in Bail bond for $500- for the appearance of <persName ref="cwgk:N00019225">W<hi rend="underline"><hi rend="sup">m</hi></hi> Williams</persName> in <orgName ref="cwgk:O00000386">Garrard Circuit Court</orgName> Bond was forfeited at the last <date when="--08"><hi rend="str">August</hi></date> <date when="--02">Febr. Term</date> of this court<pb/></p>
+<p>And Judgment obtained against said Lutrell at the <date when="1863-08">Aug Term 1863</date> for the sd $500- I have been informed by quite a number of very reliable citizens of this county that Lutrell is honest and industrious but now very poor, had some property at the time the bond was taken but has since been cheated out of it, the bond was given for the appearance of his nephew These persons also inform me that Lutrell has his sister (who is a widow with a large family of little children to support) which is all and more than he can well do comfortably That he is still honest &amp;<pb/></p>
 <p>industrious and is laboring faithfully to discharge his duties to his sisters family That he is entirely unable to pay and will have to go to Jail For these reasons I have been urged to submit these facts to his excellency for his consideration. If the Gov. shall remit the fine I am willing to <unclear>leave</unclear> the greater part of my fee in the case.</p>
 <p>I think this case more meritorious than any which has fallen under my Jurisdiction and I cheerfully submit the facts-</p>
 <p>Respectfully
 <lb/>M. H Owsley Aty- for the Commonwealth</p>
 <p>Hon.
 <lb/>E L Van Winkle
-<lb/>Secty State Frankfort Ky<pb/></p>
+<lb/>Secty State <placeName ref="cwgk:P00000308">Frankfort</placeName> Ky<pb/></p>
 <p>The undersigned citizens of Garrard County concur in the statements and unite in the request of the foregoing letter -- </p>
-<p>Jas L Mac<unclear/>
-<lb/>Jo Burnside
-<lb/>Alex Lusk
-<lb/>Jas. A, Burnside</p>
+<p><persName ref="cwgk:N00019224">Jas L Mac</persName><unclear/>
+<lb/><persName ref="cwgk:N00011020">Jo Burnside</persName>
+<lb/><persName ref="cwgk:N00007991">Alex Lusk</persName>
+<lb/><persName ref="cwgk:N00019223">Jas. A, Burnside</persName></p>
 <p>Garrard Cir Ct
 <lb/>vs</p>
 <p>Remit except fees &amp; costs
@@ -88,7 +96,7 @@
 <lb/>Govr</p>
 <p>R. Lutrell
 <lb/>Forfeiture
-<lb/>&#36;500.
+<lb/>$500.
 <lb/><date when="1864-02-15">15<hi rend="sup">th</hi> Feby/ 64</date></p>
   </body>
  </text>
