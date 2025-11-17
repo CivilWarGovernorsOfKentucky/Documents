@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0054"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniel Farrell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,28 +72,28 @@
  <text>
   <body>
    <p><date when="1861-01-19">19</date> 
-<lb/>The Governor approved an account of &#36;965.<hi rend="sup">64</hi>/<hi rend="sub">100</hi> to S. I. M. Major &amp; Co. for printing done by order of the Executive Department for the year <date when="1860">1860</date>.</p>
-<p>He pardoned Christian Shroeder convicted of felony by the Jefferson Circuit Court and Sentenced to two years confinement in the Penitentiary </p>
-<p>He appointed A. S Hamlin Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for the State of Missouri (S<hi rend="underline"><hi rend="sup">t</hi></hi> Joseph)</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> approved an account of $965.<hi rend="sup">64</hi>/<hi rend="sub">100</hi> to <orgName ref="cwgk:O00021468">S. I. M. Major &amp; Co</orgName>. for printing done by order of the <orgName ref="cwgk:O00010556">Executive Department</orgName> for the year <date when="1860">1860</date>.</p>
+<p>He pardoned <persName ref="cwgk:N00021446">Christian Shroeder</persName> convicted of felony by the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> and Sentenced to two years confinement in the <orgName ref="cwgk:O00000266">Penitentiary</orgName> </p>
+<p>He appointed <persName ref="cwgk:N00002295">A. S Hamlin</persName> Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for the <orgName ref="cwgk:O00018723">State of Missouri</orgName> (<placeName ref="cwgk:P00002294">S<hi rend="underline"><hi rend="sup">t</hi></hi> Joseph</placeName>)</p>
 <p>He remitted the following judgments, to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>Louisville City Ct. vs. W<hi rend="sup">m</hi> M<hi rend="sup">c</hi>Kaye</cell>
-	<cell>&#36;50.</cell>
+	<cell><orgName ref="cwgk:O001838">Louisville City Ct</orgName>. vs. <persName ref="cwgk:N00021448">W<hi rend="sup">m</hi> M<hi rend="sup">c</hi>Kaye</persName></cell>
+	<cell>$50.</cell>
 	<cell>Concealed weapons</cell>
 </row>
 <row>
-	<cell>Do Do " C Townly</cell>
-	<cell>&#36;50.</cell>
+	<cell>Do Do " <persName ref="cwgk:N00021449">C Townly</persName></cell>
+	<cell>$50.</cell>
 	<cell>" "</cell>
 </row>
 <row>
-	<cell>Kenton Cir " " O. B. Higgins</cell>
-	<cell>&#36;50.</cell>
+	<cell><orgName ref="cwgk:O00000410">Kenton Cir</orgName> " " <persName ref="cwgk:N00021450">O. B. Higgins</persName></cell>
+	<cell>$50.</cell>
 	<cell>Illegal voting</cell>
 </row>
 </table></p>
-<p>He remitted a Judgment of &#36;50. &amp; six months imprisonment of the Kenton Circuit Court against Ferdinand Hock for Cutting in an affray.</p>
+<p>He remitted a Judgment of $50. &amp; six months imprisonment of the Kenton Circuit Court against <persName ref="cwgk:N00020559">Ferdinand Hock</persName> for Cutting in an affray.</p>
   </body>
  </text>
 </TEI>
