@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0437"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bath Co Ky <date when="1864-01-13">Jan the 13 1864</date>
-<lb/>Hon Mr Bramlett</p>
-<p>Dear sir I seat My self to write you A few lines to let you no My trobel situation praying you you to pardon A fine Against My Husban Ephraim Goodwin he had a pertition drew &amp; sine in <date when="--12">december</date> last &amp; sent to you hopeing &amp; praying you would pardon said fine this fine was found in Bath Court some severals years A Go the Judge that it was tried Before &amp; Sherriff &amp; the Most of the Jurors is all in the Rebel army My Husban has no Recollection of ever Bein Notified for trial on said fine nor New Nothing About it till of late I will tell you situation of My family last <date when="--09">september</date> A year A go the Rebels had posesion here &amp; My Husban had to lay out to save his life 3 weekes Which cause him to lose his health the Rebels come last spring &amp; took the last Work horse we had &amp; Robed our house of sutch as they wanted we are poor people &amp; if we have to pay this unlawfull fine Me &amp; family is Bound to come to want for we cant keep house I beg for God sake for My sake &amp; for the Sake of My family please parden o do parden this fine<pb/>
-<lb/>pleas write A few lines in haste if the pertition ever Reached you or not for the sherriff says he wont waite Meny days longer for us to get A answer from you I no you are A Hy Honerable gentleman o this war has Ruin us poor Union people of this part of the state for the <hi rend="str">Gurla</hi> Gurrillers come form the Mountains in one Night time &amp; Robs &amp; plunders &amp; makes there Escape Back please pardon the said fine &amp; I will Be your umble servant you ever write owingsvill Bath Co Ky or Sherborn Mill Flemin Co Ky Either place will do you God sake write &amp; let me no My doom you can save Me &amp; you only from suffering</p>
+   <p><placeName ref="cwgk:P00000478">Bath Co</placeName> <placeName ref="cwgk:P001800">Ky </placeName><date when="1864-01-13">Jan the 13 1864</date>
+<lb/>Hon Mr <persName ref="cwgk:N001000">Bramlett</persName></p>
+<p>Dear sir I seat My self to write you A few lines to let you no My trobel situation praying you you to pardon A fine Against My Husban<persName ref="cwgk:N00012386"> Ephraim Goodwin</persName> he had a pertition drew &amp; sine in <date when="--12">december</date> last &amp; sent to you hopeing &amp; praying you would pardon said fine this fine was found in <orgName ref="cwgk:O00000602">Bath Court</orgName> some severals years A Go the Judge that it was tried Before &amp; Sherriff &amp; the Most of the Jurors is all in the <orgName ref="cwgk:O00000506">Rebel army</orgName> My Husban has no Recollection of ever Bein Notified for trial on said fine nor New Nothing About it till of late I will tell you situation of My family last <date when="--09">september</date> A year A go the Rebels had posesion here &amp; My Husban had to lay out to save his life 3 weekes Which cause him to lose his health the Rebels come last spring &amp; took the last Work horse we had &amp; Robed our house of sutch as they wanted we are poor people &amp; if we have to pay this unlawfull fine Me &amp; family is Bound to come to want for we cant keep house I beg for God sake for My sake &amp; for the Sake of My family please parden o do parden this fine<pb/>
+<lb/>pleas write A few lines in haste if the pertition ever Reached you or not for the <persName ref="cwgk:N00009351">sherriff </persName>says he wont waite Meny days longer for us to get A answer from you I no you are A Hy Honerable gentleman o this war has Ruin us poor Union people of this part of the state for the <hi rend="str">Gurla</hi> Gurrillers come form the Mountains in one Night time &amp; Robs &amp; plunders &amp; makes there Escape Back please pardon the said fine &amp; I will Be your umble servant you ever write <placeName ref="cwgk:P00002306">owingsvill</placeName> Bath Co Ky or <placeName ref="cwgk:P00016162">Sherborn Mill</placeName> <placeName ref="cwgk:P00000542">Flemin Co</placeName> Ky Either place will do you God sake write &amp; let me no My doom you can save Me &amp; you only from suffering</p>
 <p>your umble Servants
 <lb/>Ephraim Goodwin
-<lb/>Mary A Goodwin</p>
+<lb/><persName ref="cwgk:N00016163">Mary A Goodwin</persName></p>
 <p>Governor Bramlett</p>
 <p>Bath Cir Ct vs
 <lb/>E. Goodwin</p>
