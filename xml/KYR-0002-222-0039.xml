@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0039"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,8 @@
  <text>
   <body>
    <p>No. 22.<figure type="hr"/>
-<lb/><unclear>The</unclear> <hi rend="str">United States.</hi> State of Kentucky
-<lb/>To Great Western Mining Co Dr.</p>
+<lb/><unclear>The</unclear> <hi rend="str">United States.</hi><orgName ref="cwgk:O001025"> State of Kentucky
+</orgName><lb/>To <orgName ref="cwgk:O00010760">Great Western Mining Co</orgName> Dr.</p>
 <p><table rend="rules">
 <row>
 	<cell>Date of purchase.</cell>
@@ -160,7 +168,7 @@
 <row>
 	<cell/>
 	<cell/>
-	<cell>&#36;67</cell>
+	<cell>$67</cell>
 	<cell>03</cell>
 </row>
 </table></p>
@@ -168,20 +176,20 @@
 <lb/>Jno Dils Jr col
 <lb/>Comdg 39<hi rend="sup">th</hi> Regt Ky vol</note></p>
 <p>I certify that the above account is correct and just; <hi rend="str">and that the articles have been accounted for on my property return for the month ending on the <gap/> of <gap/> 186<gap/></hi> and that the articles specifyed were absolutely requisite for the public service</p>
-<p>M Fulkerson Lut R Q M 39<hi rend="sup">t</hi> Regt Ky Vo<hi rend="sup">l</hi> mtd Inftry
-<lb/><gap/> <hi rend="italic">Quartermaster</hi>. </p>
-<p>Received at Frankfort Ky the <date when="1863-05-28">28 of May 1863</date>. of Jn<hi rend="sup">o</hi> W. Finnell Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky Vols <hi rend="str">Quartermaster U.S. Army,</hi> the sum of Sixty seven dollars and three cents, in full of the above account.
+<p><persName ref="cwgk:N00010792">M Fulkerson</persName> Lut R Q M <orgName ref="cwgk:O00009707">39<hi rend="sup">t</hi> Regt Ky Vo<hi rend="sup">l</hi> mtd Inftry
+</orgName><lb/><gap/> <hi rend="italic">Quartermaster</hi>. </p>
+<p>Received at <placeName ref="cwgk:P00000308">Frankfort Ky</placeName> the <date when="1863-05-28">28 of May 1863</date>. of <persName ref="cwgk:N00000228">Jn<hi rend="sup">o</hi> W. Finnell </persName><orgName ref="cwgk:O00000388">Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky Vols</orgName> <hi rend="str">Quartermaster U.S. Army,</hi> the sum of Sixty seven dollars and three cents, in full of the above account.
 <lb/>[SIGNED IN TRIPLICATE.]</p>
-<p>H Danley
+<p><persName ref="cwgk:N00010793">H Danley</persName>
 <lb/>Ag g w. m. c</p>
 <p>Approved
-<lb/>By order of the Governor
-<lb/>Jno. W. Finnell 
+<lb/>By order of the <persName ref="cwgk:N001004">Governor
+</persName><lb/>Jno. W. Finnell 
 <lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky Vols<pb/></p>
 <p>No. 12.<figure type="hr"/>
 <lb/>No. 191 ABSTRACT <hi rend="str">A</hi> P QR. 186<gap/><figure type="hr"/>
 <lb/>Great Western Mining Co
-<lb/>Dollars &#36;67. <hi rend="sup">03</hi>/<hi rend="sub">100</hi>
+<lb/>Dollars $67. <hi rend="sup">03</hi>/<hi rend="sub">100</hi>
 <lb/>Paid <date when="1863-05-28">28" of May 1863</date></p>
   </body>
  </text>
