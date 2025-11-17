@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0427"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,13 +70,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>we Joseph Hennin <gap/> Prinicpal
-<lb/>Cha<hi rend="sup">s</hi> Dupree <gap/> Security
-<lb/>do bind ourselves three months after date to pay The commonwealth of Ky (The plaintiff in Execution) The Sum of Four Hundred forty dollars and 41 cents with interest thereon from this date being the amount of Principal, interest and cost of an Execution 323. which issued from the clerks office of the Nelson circuit court on the <date when="1862-03-09">9<hi rend="sup">th</hi> day of March 1862</date> in favor of Said commonwealth of Ky for the Sum of
+   <p>we <persName ref="cwgk:N00004234">Joseph Hennin</persName> <gap/> Prinicpal
+<lb/><persName ref="cwgk:N00004235">Cha<hi rend="sup">s</hi> Dupree</persName> <gap/> Security
+<lb/>do bind ourselves three months after date to pay <orgName ref="cwgk:O001025">The commonwealth of Ky </orgName>(The plaintiff in Execution) The Sum of Four Hundred forty dollars and 41 cents with interest thereon from this date being the amount of Principal, interest and cost of an Execution 323. which issued from the clerks office of the <orgName ref="cwgk:O00000479">Nelson circuit court</orgName> on the <date when="1862-03-09">9<hi rend="sup">th</hi> day of March 1862</date> in favor of Said commonwealth of Ky for the Sum of
 <lb/><table rend="rules">
 <row>
 	<cell>Principal</cell>
-	<cell>&#36;400.<hi rend="sup">cts</hi></cell>
+	<cell>$400.<hi rend="sup">cts</hi></cell>
 </row>
 <row>
 	<cell>Interest</cell>
@@ -88,7 +96,7 @@
 </row>
 <row>
 	<cell>Amount</cell>
-	<cell>&#36;440.41 cents</cell>
+	<cell>$440.41 cents</cell>
 </row>
 </table></p>
 <p>Against the Said Jo<hi rend="sup">s</hi> Hennin and we the said Jo<hi rend="sup">s</hi> Hennin Principal. Cha<hi rend="sup">s</hi> Dupree. Security have replevied the Same</p>
@@ -97,11 +105,11 @@
 <lb/>Chas Dupree <figure type="seal"/>
 <lb/><gap/> <figure type="seal"/></p>
 <p>attest
-<lb/><unclear/> S S Meddis D<unclear/>
-<lb/><unclear/>w Davis
-<lb/><unclear/> Copy att Wm H Slaughter CK
+<lb/><unclear/> <persName ref="cwgk:N00004469">S S Meddis</persName> D<unclear/>
+<lb/><unclear/><persName ref="cwgk:N00009172">w Davis</persName>
+<lb/><unclear/> Copy att <persName ref="cwgk:N00010264">Wm H Slaughter</persName> CK
 <lb/><unclear/>uit Court</p>
-<p>The Above bond was given on a debt <unclear/> Comth vs Paul <unclear>Garras</unclear> for forfeited Recognizance (Jos Henin being secruity in the bail bond) and principal in the Execution -- </p>
+<p>The Above bond was given on a debt <unclear/> Comth vs <persName ref="cwgk:N00003057">Paul <unclear>Garras</unclear></persName> for forfeited Recognizance (Jos Henin being secruity in the bail bond) and principal in the Execution -- </p>
 <p>Att
 <lb/>Wm H Slaughter Ck</p>
   </body>
