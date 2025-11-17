@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0047"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -66,27 +74,27 @@
    <p><note place="header">158</note></p>
 <p><date when="1861">1861</date> Executive Journal</p>
 <p><date when="1861-01-11">Jany 11</date>. 
-<lb/>The Governor approved the following accounts to the City of Frankfort for gas for the month of January</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> approved the following accounts to the City of <placeName ref="cwgk:P00000308">Frankfort</placeName> for gas for the month of January</p>
 <p><table rend="rules">
 <row>
 	<cell>Governors' House</cell>
-	<cell>&#36;5.40</cell>
+	<cell>$5.40</cell>
 </row>
 <row>
-	<cell>Auditors &amp; Treasurers Office</cell>
+	<cell><persName ref="cwgk:N00000466">Auditor</persName>s &amp; <persName ref="cwgk:N00001049">Treasurer</persName>s Office</cell>
 	<cell>31.95</cell>
 </row>
 <row>
-	<cell>Governors &amp; Secretarys "</cell>
+	<cell>Governors &amp; <persName ref="cwgk:N00002581">Secretary</persName>s "</cell>
 	<cell>8.55</cell>
 </row>
 </table></p>
-<p>Also an account of &#36;1.00. to James Penn for packing public books in State Arsenal</p>
-<p>Also account of &#36;4.<hi rend="underline">60</hi> to Frank Nolls for painting and glazing done in State Capitol.</p>
-<p>And account of &#36;6.<hi rend="underline">90</hi> to Nancy Morton for washing &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> done at Auditors' office, certified as correct by the Assistant Auditor.</p>
-<p>He commissioned Jno. L. Phythian Assistant Surgeon in Ky State Guard</p>
-<p>And Tho. G. Calvert 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieutenant in the State Guard</p>
-<p>Also R. W. Woolley 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieutenant in the Lexington Rifles, duly elected.</p>
+<p>Also an account of $1.00. to <persName ref="cwgk:N00017483">James Penn</persName> for packing public books in <orgName ref="cwgk:O00010811">State Arsenal</orgName></p>
+<p>Also account of $4.<hi rend="underline">60</hi> to <persName ref="cwgk:N00021519">Frank Nolls</persName> for painting and glazing done in State Capitol.</p>
+<p>And account of $6.<hi rend="underline">90</hi> to <persName ref="cwgk:N00021520">Nancy Morton</persName> for washing &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> done at Auditors' office, certified as correct by the <persName ref="cwgk:N00002894">Assistant Auditor</persName>.</p>
+<p>He commissioned <persName ref="cwgk:N00004530">Jno. L. Phythian</persName> Assistant Surgeon in <orgName ref="cwgk:O00000303">Ky State Guard</orgName></p>
+<p>And <persName ref="cwgk:N00021521">Tho. G. Calvert</persName> 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieutenant in the State Guard</p>
+<p>Also <persName ref="cwgk:N00021522">R. W. Woolley</persName> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieutenant in the <orgName ref="cwgk:O00000916">Lexington Rifles</orgName>, duly elected.</p>
   </body>
  </text>
 </TEI>
