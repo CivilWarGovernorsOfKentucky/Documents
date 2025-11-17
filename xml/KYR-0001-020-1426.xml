@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1426"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Emily D. Moses</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,32 +71,32 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Taylor county
+   <p><orgName ref="cwgk:O001025">State of Kentucky
+</orgName><lb/>Taylor county
 <lb/><hi rend="str">Y</hi> To His Excellency 
-<lb/>Beriah Magoffin
-<lb/>Governor of Kentucky</p>
-<p>Your petitioner James C Wood begs leave to state to your Excellency that at the <date when="1861-09">Sept term 1861</date> of the Taylor circuit court he was tried convicted and sentenced to confinement for one year in the Penetentiary on the charge of maliciously Stabbing one Tho<hi rend="sup">s</hi> Cox, that in the trail he did not have a fair chance to defend the charge that he had been confined in jail for near seven months and had no friends who took any interest in getting his witnesses, that one very important witness for him was absent by whom he could have proven that Cox had a knife drawn at the time the petitioner stabed him, said absent witness was the only person<pb/>
-<lb/>present as fore as is known who saw Cox have the knife drawn, that Ed Yates is the name of the witness who made the statement on oath as above recited before the court of inquiry and was recognised as a witness for the comlth but failed to attend, that Petitioners lawyear was under the belief that a different witness made the statement above, and did not have yates Summoned for Petitioner, and did not learn better until after the trail had progressed for some time he says it is true that Cox had the knife drawn when petitioner stabed him, that severeal witnesses stated on the trial that Cox made an effort to kick petitoner just before the stab or did actually kick him,</p>
+<lb/><persName ref="cwgk:N00000258">Beriah Magoffin
+</persName><lb/>Governor of Kentucky</p>
+<p>Your petitioner <persName ref="cwgk:N00007673">James C Wood</persName> begs leave to state to your Excellency that at the <date when="1861-09">Sept term 1861</date> of the <orgName ref="cwgk:O00000579">Taylor circuit court</orgName> he was tried convicted and sentenced to confinement for one year in the <orgName ref="cwgk:O00000266">Penetentiary </orgName>on the charge of maliciously Stabbing one <persName ref="cwgk:N00010235">Tho<hi rend="sup">s</hi> Cox</persName>, that in the trail he did not have a fair chance to defend the charge that he had been confined in jail for near seven months and had no friends who took any interest in getting his witnesses, that one very important witness for him was absent by whom he could have proven that Cox had a knife drawn at the time the petitioner stabed him, said absent witness was the only person<pb/>
+<lb/>present as fore as is known who saw Cox have the knife drawn, that<persName ref="cwgk:N00007681"> Ed Yates</persName> is the name of the witness who made the statement on oath as above recited before the court of inquiry and was recognised as a witness for the comlth but failed to attend, that Petitioners lawyear was under the belief that a different witness made the statement above, and did not have yates Summoned for Petitioner, and did not learn better until after the trail had progressed for some time he says it is true that Cox had the knife drawn when petitioner stabed him, that severeal witnesses stated on the trial that Cox made an effort to kick petitoner just before the stab or did actually kick him,</p>
 <p>He states that he had no mallice towards Cox that the stabbing occured in a sudden passion that it was done with an ordinary pocket knife and that Cox was not dangerously injured, that his wound did<pb/>
 <lb/>not confine him.</p>
 <p>He states that his conviction was mainly produced by an undue excitement in the community against him, <hi rend="str">and</hi> produced by false rumors as to threats pretended to have been made by him, that one witness swore to some threats pretended by him to have been made after the Stabbing which statements was entirely untrue-</p>
 <p>He prays that your Excellency pardon him and release him from said judgment and sentence,</p>
 <p>James C, Wood</p>
 <p>Sworn to before me by Jas C Wood this <date when="1861-09-16">16<hi rend="sup">th</hi> of Sept 1861</date></p>
-<p>Geo. W. Montague clk
+<p><persName ref="cwgk:N00003561">Geo. W. Montague </persName>clk
 <lb/>Taylor Circuit Court</p>
 <p>We citizens of Taylor county join in the above prayr for a pardon for Mr Wood and would state that the case is one which they believe ought to be favored with Executive clemency -- </p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Chas Taylor
-<lb/>Able Wright
-<lb/>James H Howard
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00008863">Chas Taylor
+</persName><lb/><persName ref="cwgk:N00003549">Able Wright
+</persName><lb/>James H Howard
 <lb/>Benjamin Coyle
 <lb/>A. H. Buchanan
 <lb/>W T Martin
 <lb/><cb n="2"/>E L Barbee
 <lb/>Geo. W. Montague
-<lb/>John G. Herren
-<lb/>William. Marrs
+<lb/><persName ref="cwgk:N00008868">John G. Herren
+</persName><lb/>William. Marrs
 <lb/>Joseph L Bragg
 <lb/>Geo. W. Redman
 <lb/>A. Willson<pb/>
@@ -100,13 +108,13 @@
 <lb/>Jas H Christerson
 <lb/>Lewis Spurling
 <lb/>F. R. Wright
-<lb/>Stephen Harding
-<lb/>S W,, gabhert
-<lb/>Geo L Gabheart
-<lb/>Leonard Grinstead
-<lb/>J P Duncan
-<lb/>B F Mann
-<lb/>Josiah Mann
+<lb/><persName ref="cwgk:N00008860">Stephen Harding
+</persName><lb/>S W,, gabhert
+<lb/><persName ref="cwgk:N00008885">Geo L Gabheart
+</persName><lb/><persName ref="cwgk:N00008920">Leonard Grinstead
+</persName><lb/><persName ref="cwgk:N00004687">J P Duncan
+</persName><lb/><persName ref="cwgk:N00008921">B F Mann
+</persName><lb/>Josiah Mann
 <lb/>Mathew Taylor
 <lb/>Rob<hi rend="sup">t</hi> T Hodgen
 <lb/>D R Moore
@@ -115,24 +123,24 @@
 <lb/>R D Overstreet
 <lb/>Joel M Avery
 <lb/>S Boon
-<lb/>W B Scraggy
-<lb/>John Rollings
-<lb/>E L Rice
-<lb/>Moses Sprowls
-<lb/>W, C, Webster
+<lb/><persName ref="cwgk:N00003557">W B Scraggy
+</persName><lb/><persName ref="cwgk:N00008950">John Rollings
+</persName><lb/><persName ref="cwgk:N00008957">E L Rice
+</persName><lb/><persName ref="cwgk:N00008951">Moses Sprowls
+</persName><lb/>W, C, Webster
 <lb/>W G Davis
 <lb/>G W Asper
 <lb/>D M Mourning
-<lb/>John N, Town
+<lb/><persName ref="cwgk:N00008854">John N, Town</persName>
 <lb/>W White
-<lb/>John G Venecore Esq
+<lb/><persName ref="cwgk:N00008856">John G Venecore</persName> Esq
 <lb/>Martin Cure
 <lb/>D. I. Hotchkiss
 <lb/>Richd P Rice
 <lb/>James Durham
 <lb/>Gustavus Smith
-<lb/><cb n="2"/>G. L. Eads
-<lb/>J B Allen
+<lb/><cb n="2"/><persName ref="cwgk:N00008886">G. L. Eads
+</persName><lb/>J B Allen
 <lb/>A. <unclear/>
 <lb/>W. F, Chandler
 <lb/>I.. C,, Sanders Jr
@@ -146,18 +154,18 @@
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Dearen
 <lb/>Wayne Coyle
 <lb/>J. R. Avery
-<lb/>Thos A Crouch
-<lb/>W H Newcome
-<lb/>M A Martin 
-<lb/>David Hogan
-<lb/>Gid. Marr
-<lb/>John Overstreet
-<lb/>L M<hi rend="sup">c</hi>Clelland
-<lb/>W<hi rend="sup">m</hi> Mann Jr
-<lb/>Tho<hi rend="sup">s</hi> S Burch
-<lb/>Ed Rice 
-<lb/>Thos Wright
-<lb/>W N Marshall
+<lb/><persName ref="cwgk:N00008865">Thos A Crouch
+</persName><lb/><persName ref="cwgk:N00008922">W H Newcome
+</persName><lb/><persName ref="cwgk:N00008924">M A Martin 
+</persName><lb/><persName ref="cwgk:N00008926">David Hogan
+</persName><lb/><persName ref="cwgk:N00008929">Gid. Marr
+</persName><lb/><persName ref="cwgk:N00008930">John Overstreet
+</persName><lb/><persName ref="cwgk:N00008933">L M<hi rend="sup">c</hi>Clelland
+</persName><lb/><persName ref="cwgk:N00010236">W<hi rend="sup">m</hi> Mann Jr
+</persName><lb/><persName ref="cwgk:N00008945">Tho<hi rend="sup">s</hi> S Burch
+</persName><lb/><persName ref="cwgk:N00008944">Ed Rice 
+</persName><lb/><persName ref="cwgk:N00008958">Thos Wright
+</persName><lb/>W N Marshall
 <lb/>Thos. G. Bosley
 <lb/>F A Allen
 <lb/>W J Anderson
@@ -174,19 +182,19 @@
 <lb/><cb n="1"/>J<unclear/> B, D<unclear/>
 <lb/>Charles Wright
 <lb/>Matthew Taylor
-<lb/>Samuel Hill
-<lb/>John Wooley
-<lb/>Wm. S. Matthews
+<lb/><persName ref="cwgk:N00009024">Samuel Hill
+</persName><lb/><persName ref="cwgk:N00009026">John Wooley
+</persName><lb/>Wm. S. Matthews
 <lb/>Asa. Mann
 <lb/>Wiliam Dabney
 <lb/>James Mann 
 <lb/>Walker Rodes
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Sharp
-<lb/>J P Davis
-<lb/>J, T. Hughes
-<lb/>Thos. H. <unclear>Blakey</unclear>
-<lb/>Thos M Johnson
-<lb/>Bennet Cave
+<lb/><persName ref="cwgk:N00003553">J P Davis
+</persName><lb/>J, T. Hughes
+<lb/><persName ref="cwgk:N00009124">Thos. H. <unclear>Blakey</unclear>
+</persName><lb/><persName ref="cwgk:N00009125">Thos M Johnson
+</persName><lb/>Bennet Cave
 <lb/>John L Rice
 <lb/>B F Wayne
 <lb/>W. G. Dearen
@@ -198,16 +206,16 @@
 <lb/>Geo M<hi rend="sup">c</hi>Kinney
 <lb/>Oscar F horton
 <lb/>B, R, Lewis
-<lb/>W Hoskins
-<lb/><cb n="2"/>A Bright 
-<lb/>W<hi rend="sup">m</hi> Bright
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Shively
-<lb/>Sam,<hi rend="underline"><hi rend="sup">l</hi></hi> R. Bass
-<lb/>Simon Morris
-<lb/>W T Cabell
-<lb/>Luther Morris Jr
-<lb/>Henson Spurling
-<lb/>Lewis Thompson
+<lb/><persName ref="cwgk:N00003540">W Hoskins
+</persName><lb/><cb n="2"/><persName ref="cwgk:N00008993">A Bright 
+</persName><lb/><persName ref="cwgk:N00008994">W<hi rend="sup">m</hi> Bright
+</persName><lb/><persName ref="cwgk:N00008995">W<hi rend="underline"><hi rend="sup">m</hi></hi> Shively
+</persName><lb/>Sam,<hi rend="underline"><hi rend="sup">l</hi></hi> R. Bass
+<lb/><persName ref="cwgk:N00008997">Simon Morris
+</persName><lb/>W T Cabell
+<lb/><persName ref="cwgk:N00009000">Luther Morris Jr
+</persName><lb/><persName ref="cwgk:N00009001">Henson Spurling
+</persName><lb/>Lewis Thompson
 <lb/>Tho<hi rend="sup">s,</hi> H Parrott
 <lb/>Ben Hellem
 <lb/>Sam<hi rend="sup">l</hi> Wright
@@ -216,7 +224,7 @@
 <lb/>R, H, Cook
 <lb/>John Gaddis
 <lb/>J, M, Cabble
-<lb/>W. <unclear>Mattis</unclear>
+<lb/><persName ref="cwgk:N00010239">W. <unclear>Mattis</unclear></persName>
 <lb/>F, I, Hiestar
 <lb/>N L Price
 <lb/>W P Roach
@@ -224,8 +232,8 @@
 <lb/>James Wilson
 <lb/>H R Shafner
 <lb/>S R Faris
-<lb/>Nathan Phillips
-<lb/>Patrick Wade
+<lb/><persName ref="cwgk:N00010232">Nathan Phillips
+</persName><lb/>Patrick Wade
 <lb/>P, L, Netherland<pb/>
 <lb/><cb n="1"/> W<hi rend="underline"><hi rend="sup">m</hi></hi> M. Edrington
 <lb/>Tho<hi rend="sup">s</hi> S Cooke
@@ -237,15 +245,15 @@
 <lb/>Z W Cloyd
 <lb/>Richard... Maney..
 <lb/>Rufus Jenkins
-<lb/>J. P. Campbell
-<lb/><cb n="2"/>Nathan Phillips
+<lb/><persName ref="cwgk:N00010231">J. P. Campbell
+</persName><lb/><cb n="2"/>Nathan Phillips
 <lb/>E, F, M<hi rend="underline"><hi rend="sup">c</hi></hi>whorter
 <lb/>C, A, Douglass,
-<lb/>Corydon Hoskins
-<lb/>Hamilton B Smith
-<lb/>James Blandford
-<lb/>Newton Speer
-<lb/>Thomas Jarboe
+<lb/><persName ref="cwgk:N00010241">Corydon Hoskins
+</persName><lb/><persName ref="cwgk:N00010242">Hamilton B Smith
+</persName><lb/><persName ref="cwgk:N00008864">James Blandford
+</persName><lb/><persName ref="cwgk:N00010243">Newton Speer
+</persName><lb/>Thomas Jarboe
 <lb/>D. Wellok
 <lb/>J. W. Richeson
 <lb/>A, Matthews<milestone unit="column" n="1"/><pb/></p>
