@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0050"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,73 +71,73 @@
  </teiHeader>
  <text>
   <body>
-   <p><date when= "1861-01-15">15</date> 
-<lb/>He accepted and caused to be filed the resignation of C A. Berry a Justice of the Peace for Livingston County district N<hi rend="underline"><hi rend="sup">o</hi></hi> 3.</p>
-<p>He accepted the resignation of C. H. Harney 3<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut. of the Lexington Chasseurs.</p>
-<p>He approved an account of &#36;6.00 to D. Griffin for work done at State Capitol, certified by the Librarian to be correct.</p>
+   <p><date when="1861-01-15">15</date> 
+<lb/><persName ref="cwgk:N00000258">He</persName> accepted and caused to be filed the resignation of <persName ref="cwgk:N00002064">C A. Berry</persName> a Justice of the Peace for <placeName ref="cwgk:P00002063">Livingston County</placeName> district N<hi rend="underline"><hi rend="sup">o</hi></hi> 3.</p>
+<p>He accepted the resignation of <persName ref="cwgk:N00021309">C. H. Harney</persName> 3<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut. of the <orgName ref="cwgk:O00000916">Lexington Chasseurs</orgName>.</p>
+<p>He approved an account of $6.00 to <persName ref="cwgk:N00021534">D. Griffin</persName> for work done at State Capitol, certified by the <persName ref="cwgk:N00001596">Librarian</persName> to be correct.</p>
 <p>He respited for twelve months the following judgments</p>
 <p><table rend="rules">
 <row>
-	<cell>Harrodsburg Po. Ct. Tho H. Daviess -- </cell>
-	<cell>&#36;25.</cell>
+	<cell><orgName ref="cwgk:O00003265">Harrodsburg Po. Ct.</orgName> <persName ref="cwgk:N00003677">Tho H. Daviess</persName> -- </cell>
+	<cell>$25.</cell>
 	<cell>Misdemeanor</cell>
 </row>
 <row>
-	<cell>Boyle J. P. " " " J. M. Chandler</cell>
-	<cell>&#36;20.</cell>
+	<cell><persName ref="cwgk:N00021059">Boyle J. P.</persName> " " " <persName ref="cwgk:N00021058">J. M. Chandler</persName></cell>
+	<cell>$20.</cell>
 	<cell>"</cell>
 </row>
 </table></p>
 <p>He remitted the following judgmetns to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>Nelson Cir. Ct. vs. Murphy &amp; Bernard</cell>
-	<cell>&#36;500.</cell>
+	<cell><orgName ref="cwgk:O00000479">Nelson Cir. Ct.</orgName> vs. <persName ref="cwgk:N00021535">Murphy</persName> &amp; <persName ref="cwgk:N00021536">Bernard</persName></cell>
+	<cell>$500.</cell>
 	<cell>forf<hi rend="underline"><hi rend="sup">d</hi></hi> recognizance</cell>
 </row>
 <row>
-	<cell>Kenton " " " Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Ranson</cell>
-	<cell>&#36;50</cell>
+	<cell><orgName ref="cwgk:O00000410">Kenton</orgName> " " " <persName ref="cwgk:N00017893">Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Ranson</persName></cell>
+	<cell>$50</cell>
 	<cell>illegal voting</cell>
 </row>
 <row>
-	<cell>" " " " A H Herne</cell>
-	<cell>&#36;50.</cell>
+	<cell>" " " " <persName ref="cwgk:N00021372">A H Herne</persName></cell>
+	<cell>$50.</cell>
 	<cell>Bail Bond</cell>
 </row>
 <row>
-	<cell>Henderson " " " Howard &amp; Hicks -- </cell>
-	<cell>each &#36;30. -- </cell>
+	<cell><orgName ref="cwgk:O00000397">Henderson</orgName> " " " <persName ref="cwgk:N00021549">Howard</persName> &amp; <persName ref="cwgk:N00021550">Hicks</persName> -- </cell>
+	<cell>each $30. -- </cell>
 	<cell>Assault</cell>
 </row>
 <row>
-	<cell>Bourbon " " " B. F. Talbott</cell>
-	<cell>&#36;75</cell>
+	<cell><orgName ref="cwgk:O00000350">Bourbon</orgName> " " " <persName ref="cwgk:N00021544">B. F. Talbott</persName></cell>
+	<cell>$75</cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>Wayne " " " J Marcum</cell>
-	<cell>&#36;500.</cell>
+	<cell><orgName ref="cwgk:O00000584">Wayne</orgName> " " " <persName ref="cwgk:N00021542">J Marcum</persName></cell>
+	<cell>$500.</cell>
 	<cell>forf<hi rend="underline"><hi rend="sup">d</hi></hi> recognizance</cell>
 </row>
 <row>
-	<cell>Taylor " " " Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Jones</cell>
-	<cell> &#36;200.</cell>
+	<cell><orgName ref="cwgk:O00000579">Taylor</orgName> " " " <persName ref="cwgk:N00021543">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Jones</persName></cell>
+	<cell> $200.</cell>
 	<cell> Gaming</cell>
 </row>
 <row>
-	<cell>Bath " " " W Honaker &amp; others -- </cell>
-	<cell>&#36;20 -- 3 cases -- </cell>
+	<cell><orgName ref="cwgk:O00000358">Bath</orgName> " " " <persName ref="cwgk:N00010476">W Honaker</persName> &amp; others -- </cell>
+	<cell>$20 -- 3 cases -- </cell>
 	<cell>Selling liquor</cell>
 </row>
 <row>
-	<cell>Wolfe J. P. " " " Taulby &amp; Kid -- </cell>
-	<cell>each &#36;5. -- </cell>
+	<cell><persName ref="cwgk:N00021546">Wolfe J. P.</persName> " " " <persName ref="cwgk:N00021547">Taulby</persName> &amp; <persName ref="cwgk:N00021545">Kid</persName> -- </cell>
+	<cell>each $5. -- </cell>
 	<cell>breach of the peace</cell>
 </row>
 <row>
-	<cell>" " " " " Jno. Sparks</cell>
-	<cell>&#36;2 <hi rend="sup">50</hi>/<hi rend="sub">100</hi></cell>
+	<cell>" " " " " <persName ref="cwgk:N00021548">Jno. Sparks</persName></cell>
+	<cell>$2 <hi rend="sup">50</hi>/<hi rend="sub">100</hi></cell>
 	<cell>" "</cell>
 </row>
 </table></p>
