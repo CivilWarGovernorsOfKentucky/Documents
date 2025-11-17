@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0452"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>War Department
-<lb/>Washington City,
+   <p><orgName ref="cwgk:O00005118">War Department</orgName>
+<lb/><placeName ref="cwgk:P00001134">Washington City</placeName>,
 <lb/><date when="1864-01-06">January 6<hi rend="sup">th</hi> 186<hi rend="str">2</hi>4</date>.</p>
 <p>His Excellency
-<lb/>Tho<hi rend="sup">s</hi> E. Bramlette
-<lb/>Governor of Kentucky
-<lb/>Frankfort Ky
+<lb/><persName ref="cwgk:N001000">Tho<hi rend="sup">s</hi> E. Bramlette</persName>
+<lb/>Governor of <orgName ref="cwgk:O001025">Kentucky</orgName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort </placeName><placeName ref="cwgk:P001800">Ky</placeName>
 <lb/>Sir,</p>
-<p>I am instructed to acknowledge the receipt of your note of the <date when="---23">23<hi rend="sup">d</hi></date> ultimo, requesting that M<hi rend="underline"><hi rend="sup">rs</hi></hi> Martha Jones may be permitted to visit her husband in Richmond V<hi rend="underline"><hi rend="sup">a</hi></hi> and afterwards return to her home in Kentucky, and in reply to say that the War Department regrets that the desired permission cannot possibly be granted at this time.</p>
+<p>I am instructed to acknowledge the receipt of your note of the <date when="---23">23<hi rend="sup">d</hi></date> ultimo, requesting that <persName ref="cwgk:N00017081">M<hi rend="underline"><hi rend="sup">rs</hi></hi> Martha Jones</persName> may be permitted to visit <persName ref="cwgk:N00017082">her husband </persName>in <placeName ref="cwgk:P00008174">Richmond</placeName> <placeName ref="cwgk:P001037">V<hi rend="underline"><hi rend="sup">a</hi></hi> </placeName>and afterwards return to her home in Kentucky, and in reply to say that the War Department regrets that the desired permission cannot possibly be granted at this time.</p>
 <p>I have the honor to be Sir,
 <lb/>Very Respectfully
 <lb/>Your obedient Servant
-<lb/>Jas A Hardie
+<lb/><persName ref="cwgk:N00010617">Jas A Hardie</persName>
 <lb/>Assistant Adjutant General</p>
   </body>
  </text>
