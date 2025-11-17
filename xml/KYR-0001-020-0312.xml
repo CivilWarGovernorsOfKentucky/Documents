@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0312"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,34 +70,34 @@
  </teiHeader>
  <text>
   <body>
-   <p><milestone unit="column" n="2"/><cb n="1"/>J. J. Cantrell
-<lb/>J. J Gilbert
-<lb/>Alex, L, Patton if my name is on the other paper it is forged
-<lb/>Joshua Patton
-<lb/>Abraham Gum
-<lb/>William close
-<lb/>H B D spain
-<lb/>William Akridge
-<lb/>William Ray
-<lb/>James <unclear>Cinernel</unclear>
-<lb/>Joseph Cogdal
-<lb/>W H <unclear>Breess</unclear>
-<lb/>William Y <unclear>gorges</unclear>
-<lb/>William Y Vance
-<lb/>John Goff
-<lb/>Simpson Whitlow
-<lb/>Charley Gosnell
-<lb/><unclear/>edmon Creson
-<lb/>Rubin Akridg
-<lb/>John Steward
-<lb/>Thomas Beames
-<lb/>John Ray
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bale
-<lb/>Andrew C Druein
-<lb/>William R Poe
-<lb/><cb n="2"/>John Akins
-<lb/>John S Bauchamp
-<lb/>C F Lee</p>
+   <p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00019682">J. J. Cantrell</persName>
+<lb/><persName ref="cwgk:N00020211">J. J Gilbert</persName>
+<lb/><persName ref="cwgk:N00020181">Alex, L, Patton</persName> if my name is on the other paper it is forged
+<lb/><persName ref="cwgk:N00020182">Joshua Patton</persName>
+<lb/><persName ref="cwgk:N00020193">Abraham Gum</persName>
+<lb/><persName ref="cwgk:N00020205">William close</persName>
+<lb/><persName ref="cwgk:N00020212">H B D spain</persName>
+<lb/><persName ref="cwgk:N00020208">William Akridge</persName>
+<lb/><persName ref="cwgk:N00020213">William Ray</persName>
+<lb/><persName ref="cwgk:N00020228">James <unclear>Cinernel</unclear></persName>
+<lb/><persName ref="cwgk:N00020214">Joseph Cogdal</persName>
+<lb/><persName ref="cwgk:N00020227">W H <unclear>Breess</unclear></persName>
+<lb/><persName ref="cwgk:N00020226">William Y <unclear>gorges</unclear></persName>
+<lb/><persName ref="cwgk:N00020210">William Y Vance</persName>
+<lb/><persName ref="cwgk:N00020209">John Goff</persName>
+<lb/><persName ref="cwgk:N00007036">Simpson Whitlow</persName>
+<lb/><persName ref="cwgk:N00020217">Charley Gosnell</persName>
+<lb/><unclear/><persName ref="cwgk:N00020225">edmon Creson</persName>
+<lb/><persName ref="cwgk:N00020220">Rubin Akridg</persName>
+<lb/><persName ref="cwgk:N00020219">John Steward</persName>
+<lb/><persName ref="cwgk:N00020221">Thomas Beames</persName>
+<lb/><persName ref="cwgk:N00020218">John Ray</persName>
+<lb/><persName ref="cwgk:N00020222">W<hi rend="underline"><hi rend="sup">m</hi></hi> Bale</persName>
+<lb/><persName ref="cwgk:N00020224">Andrew C Druein</persName>
+<lb/><persName ref="cwgk:N00020223">William R Poe</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00020229">John Akins</persName>
+<lb/><persName ref="cwgk:N00019496">John S Bauchamp</persName>
+<lb/><persName ref="cwgk:N00020215">C F Lee</persName></p>
   </body>
  </text>
 </TEI>
