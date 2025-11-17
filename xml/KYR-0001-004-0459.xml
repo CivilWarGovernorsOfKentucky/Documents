@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0459"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Blandville- <date when="1864-01-30">Jany 30<hi rend="underline"><hi rend="sup">th</hi></hi>/ 64</date>.
-<lb/>Gov. Bramlette
+   <p><placeName ref="cwgk:P00002006">Blandville</placeName>- <date when="1864-01-30">Jany 30<hi rend="underline"><hi rend="sup">th</hi></hi>/ 64</date>.
+<lb/><persName ref="cwgk:N001000">Gov. Bramlette</persName>
 <lb/>Dear Sir</p>
-<p>this letter will be handed to you by M<hi rend="sup">rs</hi> Hudgens, a lady of estimable character in her neighborhood. She has the misfortune to be the mother of a son now in the penitentiary for the crime of robbery. I was of counsil for Hudgens and was thrown in to considerable intercourse with him I found him a young man of intelligence &amp; learning He has evidently been well raised and his expressions of reprehension of his own crime was as vivid and I believe as genuine as a<hi rend="str">s</hi> contrite heart could suggest. He I learn is<pb/></p>
+<p>this letter will be handed to you by <persName ref="cwgk:N00017152">M<hi rend="sup">rs</hi> <persName ref="cwgk:N00017153">Hudgens</persName></persName>, a lady of estimable character in her neighborhood. She has the misfortune to be the mother of a son now in the penitentiary for the crime of robbery. I was of counsil for Hudgens and was thrown in to considerable intercourse with him I found him a young man of intelligence &amp; learning He has evidently been well raised and his expressions of reprehension of his own crime was as vivid and I believe as genuine as a<hi rend="str">s</hi> contrite heart could suggest. He I learn is<pb/></p>
 <p>the only son of this lady and has hitherto been her stay and support. I should not request his discharge on this ground but persuaded as I am that if now pardoned he would sin no more. I urge this as a strong persuasion.</p>
 <p>Governor if you find your heart inclined to lean to the petition of <hi rend="str">your</hi> the <hi rend="str"><unclear/></hi> mother my belief is that the future conduct of the son will justify the exercise of your Kindness. I cannot say that he was not guilty but I do say that in my opinion he was operated upon by the influence of one<pb/>
 <lb/>of the most wily rascals I have ever seen and in a moment of drunkeness went astray and was ruined.</p>
