@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0329"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>The Commonwealth of Kentucky Monroe County Sct</p>
-<p>Be it remembered that <hi rend="str">th</hi> at a county court Began &amp; held for said county at the court house in the Town of Tompkinsville on the <date when="1859-12-26">26<hi rend="sup">th</hi> day of Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 1859</date> C E Barry Judge presiding &amp;c the following proceedings were had to wit</p>
-<p>On motion of Milton Berry and E W Huggins -- It is ordered by the court that a licence be granted to them to Keep a tavern in the town of Tompkinsville for twelve months from this date -- It was also proven in open Court that it was necessary to have a tavern Kept in said town of Tompkinsville &amp; that said Berry and Huggins was prepared to Keep a tavern as the law required who came into open court and executed the covenant required of them by law together with John Black, W D Martin and John H M<hi rend="sup">c</hi>Millon as their securtiy Conditioned as the law directs</p>
+   <p>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> <placeName ref="cwgk:P00008528">Monroe County</placeName> Sct</p>
+<p>Be it remembered that <hi rend="str">th</hi> at a <orgName ref="cwgk:O00000667">county court</orgName> Began &amp; held for said county at the court house in the Town of <placeName ref="cwgk:P00008566">Tompkinsville</placeName> on the <date when="1859-12-26">26<hi rend="sup">th</hi> day of Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 1859</date> <persName ref="cwgk:N00020568">C E Barry</persName> Judge presiding &amp;c the following proceedings were had to wit</p>
+<p>On motion of <persName ref="cwgk:N00020569">Milton Berry</persName> and <persName ref="cwgk:N00020571">E W Huggins</persName> -- It is ordered by the court that a licence be granted to them to Keep a tavern in the town of Tompkinsville for twelve months from this date -- It was also proven in open Court that it was necessary to have a tavern Kept in said town of Tompkinsville &amp; that said Berry and Huggins was prepared to Keep a tavern as the law required who came into open court and executed the covenant required of them by law together with <persName ref="cwgk:N00020572">John Black</persName>, <persName ref="cwgk:N00020573">W D Martin</persName> and <persName ref="cwgk:N00020574">John H M<hi rend="sup">c</hi>Millon</persName> as their securtiy Conditioned as the law directs</p>
 <p>A copy Test
-<lb/>J, C, Conkin <hi rend="underline">C M C</hi>
-<lb/>By J, H, Conkin D C</p>
+<lb/><persName ref="cwgk:N00020576">J, C, Conkin</persName> <hi rend="underline">C M C</hi>
+<lb/>By <persName ref="cwgk:N00020577">J, H, Conkin</persName> D C</p>
   </body>
  </text>
 </TEI>
