@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0033"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,43 +72,43 @@
  <text>
   <body>
    <p><date when="1860-12-18">18</date> 
-<lb/>The Governor accepted and caused to be filed the resignation of H. C. Anderson Second Lieutenant in the "National Blues" of Louisville</p>
-<p>He respited for twelve months a Judgment of the Madison Circuit Court against M Turpin for gaming.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> accepted and caused to be filed the resignation of <persName ref="cwgk:N00021509">H. C. Anderson</persName> Second Lieutenant in the <orgName ref="cwgk:O00000916">"National Blues"</orgName> of <placeName ref="cwgk:P00000337">Louisville</placeName></p>
+<p>He respited for twelve months a Judgment of the <orgName ref="cwgk:O00000422">Madison Circuit Court</orgName> against <persName ref="cwgk:N00021530">M Turpin</persName> for gaming.</p>
 <p>He remitted the following Judgments, to wit:</p>
 <p><table rend="rules">
 <row>
-	<cell>Nelson Cir. Ct. vs. W. W. Cadworth -- </cell>
-	<cell>&#36;100. -- </cell>
+	<cell><orgName ref="cwgk:O00000479">Nelson Cir. Ct.</orgName> vs. <persName ref="cwgk:N00021533">W. W. Cadworth</persName> -- </cell>
+	<cell>$100. -- </cell>
 	<cell>Lottery.</cell>
 </row>
 <row>
-	<cell>Madison " " " Tho. Shiflett</cell>
-	<cell>&#36;60.</cell>
+	<cell><orgName ref="cwgk:O00000422">Madison " " "</orgName> <persName ref="cwgk:N00021511">Tho. Shiflett</persName></cell>
+	<cell>$60.</cell>
 	<cell>Tipling</cell>
 </row>
 <row>
-	<cell>Do " " " R. I. Pond</cell>
-	<cell>&#36;20.</cell>
+	<cell>Do " " " <persName ref="cwgk:N00021528">R. I. Pond</persName></cell>
+	<cell>$20.</cell>
 	<cell>Gaming</cell>
 </row>
 <row>
-	<cell>Floyd " " " Geo W. Lewis</cell>
-	<cell>&#36;100.</cell>
+	<cell><orgName ref="cwgk:O00000378">Floyd " " "</orgName> <persName ref="cwgk:N00021510">Geo W. Lewis</persName></cell>
+	<cell>$100.</cell>
 	<cell>Forfeited Recognizance</cell>
 </row>
 <row>
-	<cell>Warren " " " Cyrus Mack</cell>
-	<cell>&#36;60.</cell>
+	<cell><orgName ref="cwgk:O00000585">Warren " " "</orgName> <persName ref="cwgk:N00021527">Cyrus Mack</persName></cell>
+	<cell>$60.</cell>
 	<cell>Tipling</cell>
 </row>
 <row>
-	<cell>Union " " " L Tusinger</cell>
-	<cell>&#36;60</cell>
+	<cell><orgName ref="cwgk:O00000582">Union " " "</orgName> <persName ref="cwgk:N00021532">L Tusinger</persName></cell>
+	<cell>$60</cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>Johnson " " " N. Preston</cell>
-	<cell>&#36;60.</cell>
+	<cell><orgName ref="cwgk:O00000409">Johnson " " "</orgName> <persName ref="cwgk:N00021531">N. Preston</persName></cell>
+	<cell>$60.</cell>
 	<cell>"</cell>
 </row>
 </table></p>
