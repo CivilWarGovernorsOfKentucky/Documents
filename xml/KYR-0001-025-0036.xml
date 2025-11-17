@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0036"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,8 +72,8 @@
  <text>
   <body>
    <p><date when="1860-12-21">21</date> 
-<lb/>The Governor pardoned R. H. Johnson convicted of the crime of Mayhem by the Trigg Circuit Court and sentenced to three years Confienment in the Penitentiary</p>
-<p>He caused to be filed the return of the Sheriff of Owen County upon his Warrant of Execution of Jane a slave who escaped as it appears from the Jail of the county of Gallatin on the <date when="1860-12-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> instant</date>.
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> pardoned <persName ref="cwgk:N00021612">R. H. Johnson</persName> convicted of the crime of Mayhem by the <orgName ref="cwgk:O00000580">Trigg Circuit Court</orgName> and sentenced to three years Confienment in the <orgName ref="cwgk:O00000266">Penitentiary</orgName></p>
+<p>He caused to be filed the return of the <persName ref="cwgk:N00010681">Sheriff</persName> of <placeName ref="cwgk:P00004760">Owen County</placeName> upon his Warrant of Execution of <persName ref="cwgk:N00010680">Jane</persName> a slave who escaped as it appears from the <orgName ref="cwgk:O00020655">Jail</orgName> of the <placeName ref="cwgk:P00007132">county of Gallatin</placeName> on the <date when="1860-12-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> instant</date>.
 <lb/></p>
   </body>
  </text>
