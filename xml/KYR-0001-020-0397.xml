@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0397"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Brandenburg <date when="1861-01-30">Jany 30<hi rend="sup">th</hi> 1861</date>
-<lb/>Dear Gov<hi rend="underline"><hi rend="sup">r</hi></hi></p>
-<p>The bearir of this a Colored woman, Sallie white is sister to Hez Alexander Junr who is in the penitentiary of the State. we also send you a statement of the facts and evidence in the case, which I think you will see was testimony of a verry slight character to convict upon, the mother &amp; sisters of the boy for honesty are I believe under a verry good character they pledge themselves to reform the boy and take him under their own care -- I think in view of all the facts it is a case that demands Your clemency -- hoping you are well and that the Legislature <hi rend="str">will</hi> will come up to your suggestions in Your Message like men</p>
-<p>I am Your<hi rend="sup">s</hi> Jesse S. Taylor<pb/></p>
+   <p><placeName ref="cwgk:P001809">Brandenburg</placeName> <date when="1861-01-30">Jany 30<hi rend="sup">th</hi> 1861</date>
+<lb/>Dear <persName ref="cwgk:N00000258">Gov<hi rend="underline"><hi rend="sup">r</hi></hi></persName></p>
+<p>The bearir of this a Colored woman, <persName ref="cwgk:N00018614">Sallie white</persName> is sister to <persName ref="cwgk:N00018596">Hez Alexander Junr</persName> who is in the <orgName ref="cwgk:O00000266">penitentiary of the State</orgName>. we also send you a statement of the facts and evidence in the case, which I think you will see was testimony of a verry slight character to convict upon, the <persName ref="cwgk:N00019237">mother</persName> &amp; sisters of the boy for honesty are I believe under a verry good character they pledge themselves to reform the boy and take him under their own care -- I think in view of all the facts it is a case that demands Your clemency -- hoping you are well and that the Legislature <hi rend="str">will</hi> will come up to your suggestions in Your Message like men</p>
+<p>I am Your<hi rend="sup">s</hi> <persName ref="cwgk:N00019238">Jesse S. Taylor</persName><pb/></p>
 <p>Govenor Magoffin
-<lb/>Frankfort
-<lb/>Ky</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>
+<lb/><placeName ref="cwgk:P001800">Ky</placeName></p>
   </body>
  </text>
 </TEI>
