@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0426"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>We Joseph. Hennin princip<hi rend="str">le</hi>al<hi rend="str">
+   <p>We <persName ref="cwgk:N00004234">Joseph. Hennin</persName> princip<hi rend="str">le</hi>al<hi rend="str">
 <lb/>Cha</hi><hi rend="sup">s</hi> Dupree Security
-<lb/>do bind ourselves three months after date to pay The commonwealth of Ky (The plaintiff in Execution) The sum of Five Hundred and twenty four dollars and 84 cents. With Interest thereon from this date being the amount of principal, interest and cost of an Execution No 322 which issued from the clerks office of the Nelson. Circuit Court on the <date when="1862-03-09">9<hi rend="underline"><hi rend="sup">th</hi></hi> day of March 1862</date> in favor of the Said commonwealth for the sum of
+<lb/>do bind ourselves three months after date to pay The <orgName ref="cwgk:O001025">commonwealth of Ky</orgName> (The plaintiff in Execution) The sum of Five Hundred and twenty four dollars and 84 cents. With Interest thereon from this date being the amount of principal, interest and cost of an Execution No 322 which issued from the clerks office of the <orgName ref="cwgk:O00000479">Nelson. Circuit Court</orgName> on the <date when="1862-03-09">9<hi rend="underline"><hi rend="sup">th</hi></hi> day of March 1862</date> in favor of the Said commonwealth for the sum of
 <lb/><table rend="rules">
 <row>
 	<cell>Principal.</cell>
-	<cell>&#36;500 cts</cell>
+	<cell>$500 cts</cell>
 	<cell> </cell>
 </row>
 <row>
@@ -94,19 +102,19 @@
 </row>
 <row>
 	<cell>Amount</cell>
-	<cell>&#36;524.84 cts</cell>
+	<cell>$524.84 cts</cell>
 	<cell> </cell>
 </row>
 </table>
 <lb/>against the Said Jo<hi rend="sup">s</hi> Hennin -- and we the Said Jo<hi rend="sup">s</hi> Hennin Principal and <gap/> Cha<hi rend="sup">s</hi> Dupree- Security have replevied the same witnesseth our hands and Seals this <date when="1862-05-31">31- day of May- 1862</date>.</p>
 <p>J Hennin [Seal]
 <lb/>Ch<hi rend="sup">s</hi> Dupree [Seal]</p>
-<p>attest S S Meddis
+<p>attest <persName ref="cwgk:N00004469">S S Meddis</persName>
 <lb/>D Sssr,
-<lb/>J. Wash Davis <gap/> [Seal]
+<lb/><persName ref="cwgk:N00009172">J. Wash Davis</persName> <gap/> [Seal]
 <lb/>S. J C</p>
 <p>The above bond<hi rend="str">s</hi> was given in satisfaction of an Ex"on &amp; Henin as bailee of Paul Garras under charge Larceny in Nelson Circuit Court -- </p>
-<p>Att Wm H Slaughter 
+<p>Att <persName ref="cwgk:N00010264">Wm H Slaughter</persName> 
 <lb/>CN</p>
   </body>
  </text>
