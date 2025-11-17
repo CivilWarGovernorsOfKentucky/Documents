@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0436"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bedford Trimble county
-<lb/>Kentucky
+   <p><placeName ref="cwgk:P00001508">Bedford</placeName> <placeName ref="cwgk:P00001509">Trimble county</placeName>
+<lb/><placeName ref="cwgk:P001800">Kentucky</placeName>
 <lb/><date when="1864-01-26">January 26<hi rend="sup">th</hi> 1864</date>,
-<lb/>Sir</p>
-<p>I have the satisfaction to return to you in behalf many friends of Trimble who had fines against them to return my, and their, thanks to you for extending clemency to them, but their is one friend yet whose fines stand without clemency being extended to him and I know his case presents stronger grounds for forgiveness, than any other and that is the case of Mr William P. Adcock.</p>
+<lb/><persName ref="cwgk:N001000">Sir</persName></p>
+<p>I have the satisfaction to return to you in behalf many friends of Trimble who had fines against them to return my, and their, thanks to you for extending clemency to them, but their is one friend yet whose fines stand without clemency being extended to him and I know his case presents stronger grounds for forgiveness, than any other and that is the case of Mr <persName ref="cwgk:N00001941">William P. Adcock</persName>.</p>
 <p>One case was for suffering gaming in his house, and another for selling Liquor to minors. I know that in each case, he was innocent for the men that gambled got a room and played without his knowledge for only five cents a game and of the minors he was not aware of their being under age.</p>
 <p>I am one of those who was an humble supporter of your election<pb/>
 <lb/>and would be the last man to petition you to pardon indescrimenately all offences; but in cases where you can exercise that humane power vested in you by organie law; I would justify you in it, and would be the last man to forsake you on that, but on the contrary would defend you in my humble way.</p>
@@ -75,7 +83,7 @@
 <p>I hope you will excuse me for my importunities for my friends; but they knowing my nature apply to me to implore you and I cannot resist.</p>
 <p>Very Respectfully and Humbly
 <lb/>Your friend &amp; Obt Servt
-<lb/>Silas Gatewood<pb/></p>
+<lb/><persName ref="cwgk:N00000998">Silas Gatewood</persName><pb/></p>
 <p>Trimble
 <lb/>vs
 <lb/>P. Adcock</p>
