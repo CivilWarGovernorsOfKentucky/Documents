@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0345"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Graves Circuit Court Sct
+   <p><placeName ref="cwgk:P001800">State of Kentucky</placeName>
+<lb/><orgName ref="cwgk:O00000382">Graves Circuit Court</orgName> Sct
 <lb/><date when="1859-06">June Term 1859</date></p>
-<p>The Court also ordered Peter Farthing to execute a Recognizance to keep the peace thereupon said Peter Farthing and A R Born has in court acknowledged themselves Jointly indebted to the Commonwealth of Kentucky in the penal sum of two hundred and fifty dollars but to be void if the said Peter Farthing shall appear in the Graves Circuit Court on the first day of the next <date when="1859-12">December Term</date> and shall in the mean time keep the peace towards the good citizens of this state and especially towards Alfred <unclear>Goings</unclear> and shall not depart without leave of the court</p>
-<p>Attest Ennis Anderson c g c c
-<lb/>By L. F. Andrson D C<pb/></p>
+<p>The Court also ordered <persName ref="cwgk:N00021302">Peter Farthing</persName> to execute a Recognizance to keep the peace thereupon said Peter Farthing and <persName ref="cwgk:N00021303">A R Born</persName> has in court acknowledged themselves Jointly indebted to the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> in the penal sum of two hundred and fifty dollars but to be void if the said Peter Farthing shall appear in the Graves Circuit Court on the first day of the next <date when="1859-12">December Term</date> and shall in the mean time keep the peace towards the good citizens of this state and especially towards <persName ref="cwgk:N00015595">Alfred <unclear>Goings</unclear></persName> and shall not depart without leave of the court</p>
+<p>Attest <persName ref="cwgk:N00014911">Ennis Anderson</persName> c g c c
+<lb/>By <persName ref="cwgk:N00000809">L. F. Andrson</persName> D C<pb/></p>
 <p>Peter Farthing
-<lb/>To &#125; Bond
+<lb/>To } Bond
 <lb/>Comlth of Ky</p>
 <p>(Copy)</p>
 <p>(A)</p>
