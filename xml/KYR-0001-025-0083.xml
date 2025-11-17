@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0083"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kayla Adams</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,7 +72,7 @@
  <text>
   <body>
    <p><date when="1861-02-22">22</date> 
-<lb/>The Governor approved two accounts to Gray &amp; Todd amounting to &#36;2.75. duly certified as correct.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> approved two accounts to <orgName ref="cwgk:O00008331">Gray &amp; Todd</orgName> amounting to $2.75. duly certified as correct.</p>
   </body>
  </text>
 </TEI>
