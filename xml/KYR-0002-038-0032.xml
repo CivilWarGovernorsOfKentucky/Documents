@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0032"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hailey Brangers</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  <text>
   <body>
    <p><date when="1864-09-07">Sept,, 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.</p>
-<p>His <hi rend="underline">Excelency</hi> the <hi rend="underline">Governor</hi> of <hi rend="underline">Kentucky</hi>.</p>
-<p>We the undersigned members of <hi rend="underline">Company</hi> "C" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky,, Light Artillery Vol,, Having <hi rend="underline">Served</hi> for the term of <hi rend="underline">one</hi> year in the <hi rend="underline">Service</hi> of the <hi rend="underline">United</hi> <hi rend="underline">States</hi>, under <hi rend="underline">Captain</hi> <hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi> <hi rend="underline">W</hi>. <hi rend="underline">Neville</hi>, and having re-enlisted for three year's more. do respectfully petition that <hi rend="underline">Edwin</hi> <hi rend="underline">W</hi>. <hi rend="underline">Gould</hi> <hi rend="underline">Sergt</hi>,, of the above named <hi rend="underline">Company</hi> be <hi rend="underline">Appointed</hi> <hi rend="underline">Captain</hi> of the <hi rend="underline">Company</hi>. By reason that the <hi rend="underline">Captain's</hi> term of <hi rend="underline">Service</hi> expires upon the <date when="1864-09-10">tenth of <hi rend="underline">Sept</hi>,, 1864</date>. and we understand that he wishes to change his <hi rend="underline">Position</hi> or retire from service.</p>
+<p>His <hi rend="underline">Excelency</hi> the <hi rend="underline">Governor</hi> of <hi><orgName ref="cwgk:O001025">Kentucky</orgName></hi>.</p>
+<p>We the undersigned members of <hi rend="underline">Company</hi> "C" <orgName ref="cwgk:O00011727">1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky,, Light Artillery Vol</orgName>,, Having <hi rend="underline">Served</hi> for the term of <hi rend="underline">one</hi> year in the <hi rend="underline">Service</hi> of the <hi rend="underline">United</hi> <hi rend="underline">States</hi>, under <hi rend="underline">Captain</hi> <hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi> <hi rend="underline">W</hi>. <hi rend="underline">Neville</hi>, and having re-enlisted for three year's more. do respectfully petition that <hi rend="underline">Edwin</hi> <hi rend="underline">W</hi>. <hi rend="underline">Gould</hi> <hi rend="underline">Sergt</hi>,, of the above named <hi rend="underline">Company</hi> be <hi rend="underline">Appointed</hi> <hi rend="underline">Captain</hi> of the <hi rend="underline">Company</hi>. By reason that the <hi rend="underline">Captain's</hi> term of <hi rend="underline">Service</hi> expires upon the <date when="1864-09-10">tenth of <hi rend="underline">Sept</hi>,, 1864</date>. and we understand that he wishes to change his <hi rend="underline">Position</hi> or retire from service.</p>
 <p><table rend="rules">
 <row>
 	<cell>Names.</cell>
@@ -73,63 +81,63 @@
 	<cell>Rank.</cell>
 </row>
 <row>
-	<cell>James. E. Hensley</cell>
+	<cell><persName ref="cwgk:N00013724">James. E. Hensley</persName></cell>
 	<cell>Sergt</cell>
-	<cell>John. C. Mann</cell>
+	<cell><persName ref="cwgk:N00013725">John. C. Mann</persName></cell>
 	<cell>corporal</cell>
 </row>
 <row>
-	<cell>Georg. F. Brown</cell>
+	<cell><persName ref="cwgk:N00013731">Georg. F. Brown</persName></cell>
 	<cell>" "</cell>
-	<cell>Thos,, J,, Simmons</cell>
-	<cell>" "</cell>
-</row>
-<row>
-	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Brison</cell>
-	<cell>" "</cell>
-	<cell>M Matthews</cell>
+	<cell><persName ref="cwgk:N00013730">Thos,, J,, Simmons</persName></cell>
 	<cell>" "</cell>
 </row>
 <row>
-	<cell>S. H. Segroves</cell>
+	<cell><persName ref="cwgk:N00013732">W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Brison</persName></cell>
 	<cell>" "</cell>
-	<cell>H, C. Simpson</cell>
+	<cell><persName ref="cwgk:N00013733">M Matthews</persName></cell>
 	<cell>" "</cell>
 </row>
 <row>
-	<cell>Lowdy Howard</cell>
+	<cell><persName ref="cwgk:N00013734">S. H. Segroves</persName></cell>
 	<cell>" "</cell>
-	<cell>Joseph Bellows</cell>
+	<cell><persName ref="cwgk:N00013735">H, C. Simpson</persName></cell>
+	<cell>" "</cell>
+</row>
+<row>
+	<cell><persName ref="cwgk:N00013722">Lowdy Howard</persName></cell>
+	<cell>" "</cell>
+	<cell><persName ref="cwgk:N00013736">Joseph Bellows</persName></cell>
 	<cell>" "</cell>
 </row>
 <row>
 	<cell/>
 	<cell/> 
-	<cell>John. N. Pearman</cell>
+	<cell><persName ref="cwgk:N00013737">John. N. Pearman</persName></cell>
 	<cell>" "</cell>
 </row>
 <row>
 	<cell/>
 	<cell/>
-	<cell>F, E, Winders</cell>
+	<cell><persName ref="cwgk:N00013727">F, E, Winders</persName></cell>
 	<cell>" "</cell>
 </row>
 <row>
 	<cell/>
 	<cell/>
-	<cell>Charles Sheffield</cell>
+	<cell><persName ref="cwgk:N00013738">Charles Sheffield</persName></cell>
 	<cell>" "</cell>
 </row>
 <row>
 	<cell/>
 	<cell/>
-	<cell>Jessee Morris</cell>
+	<cell><persName ref="cwgk:N00013739">Jessee Morris</persName></cell>
 	<cell>" "</cell>
 </row>
 <row>
 	<cell/>
 	<cell/>
-	<cell>John A. Ervin</cell>
+	<cell><persName ref="cwgk:N00013740">John A. Ervin</persName></cell>
 	<cell>" "</cell>
 </row>
 </table><pb/>
@@ -142,145 +150,145 @@
 	<cell>Rank.</cell>
 </row>
 <row>
-	<cell>John Spillman</cell>
+	<cell><persName ref="cwgk:N00013741">John Spillman</persName></cell>
 	<cell>Private</cell>
-	<cell>Moses ^his x mark^ Sweeden</cell>
+	<cell><persName ref="cwgk:N00013742">Moses ^his x mark^ Sweeden</persName></cell>
 	<cell>Private</cell>
 </row>
 <row>
-	<cell>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> ^his x mark^ Galaway</cell>
+	<cell><persName ref="cwgk:N00013723">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> ^his x mark^ Galaway</persName></cell>
 	<cell>"</cell>
-	<cell>Nicholas Lawson</cell>
+	<cell><persName ref="cwgk:N00013762">Nicholas Lawson</persName></cell>
 	<cell>''</cell>
 </row>
 <row>
-	<cell>Henry ^his x mark^ Pruett</cell>
+	<cell><persName ref="cwgk:N00013743">Henry ^his x mark^ Pruett</persName></cell>
 	<cell>"</cell>
-	<cell>James. L. Taylor</cell>
-	<cell>"</cell>
-</row>
-<row>
-	<cell>John. W. Garitey</cell>
-	<cell>"</cell>
-	<cell>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> J. Wright</cell>
+	<cell><persName ref="cwgk:N00013744">James. L. Taylor</persName></cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>Joseph M<hi rend="underline"><hi rend="sup">c</hi></hi>Millon</cell>
+	<cell><persName ref="cwgk:N00013799">John. W. Garitey</persName></cell>
 	<cell>"</cell>
-	<cell>John Pullins</cell>
-	<cell>"</cell>
-</row>
-<row>
-	<cell>J, S, M<hi rend="underline"><hi rend="sup">c</hi></hi>Donald</cell>
-	<cell>"</cell>
-	<cell>John, W, Black</cell>
+	<cell><persName ref="cwgk:N00013806">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> J. Wright</persName></cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>R. P. Redding</cell>
+	<cell><persName ref="cwgk:N00013745">Joseph M<hi rend="underline"><hi rend="sup">c</hi></hi>Millon</persName></cell>
 	<cell>"</cell>
-	<cell>R. W. Lyons</cell>
-	<cell>"</cell>
-</row>
-<row>
-	<cell>Johnson Ledbetter</cell>
-	<cell>"</cell>
-	<cell>W. P. Brashire</cell>
+	<cell><persName ref="cwgk:N00013807">John Pullins</persName></cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>Daniel L. Henderson</cell>
+	<cell><persName ref="cwgk:N00013746">J, S, M<hi rend="underline"><hi rend="sup">c</hi></hi>Donald</persName></cell>
 	<cell>"</cell>
-	<cell>George ^his x mark^ Hesein</cell>
-	<cell>"</cell>
-</row>
-<row>
-	<cell>John ^his x mark^ Bickle</cell>
-	<cell>"</cell>
-	<cell>Jerry Laughlin</cell>
+	<cell><persName ref="cwgk:N00013761">John, W, Black</persName></cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>Harrison ^his X mark^ Barett</cell>
+	<cell><persName ref="cwgk:N00013756">R. P. Redding</persName></cell>
 	<cell>"</cell>
-	<cell>T. J. Cate</cell>
+	<cell><persName ref="cwgk:N00013753">R. W. Lyons</persName></cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell><persName ref="cwgk:N00013752">Johnson Ledbetter</persName></cell>
+	<cell>"</cell>
+	<cell><persName ref="cwgk:N00013797">W. P. Brashire</persName></cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell><persName ref="cwgk:N00013754">Daniel L. Henderson</persName></cell>
+	<cell>"</cell>
+	<cell><persName ref="cwgk:N00013843">George ^his x mark^ Hesein</persName></cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell><persName ref="cwgk:N00013793">John ^his x mark^ Bickle</persName></cell>
+	<cell>"</cell>
+	<cell><persName ref="cwgk:N00013842">Jerry Laughlin</persName></cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell><persName ref="cwgk:N00013759">Harrison ^his X mark^ Barett</persName></cell>
+	<cell>"</cell>
+	<cell><persName ref="cwgk:N00013755">T. J. Cate</persName></cell>
 	<cell/>
 </row>
 <row>
-	<cell>John Krause</cell>
-	<cell>"</cell>
-	<cell/>
-	<cell/>
-</row>
-<row>
-	<cell>John ^his x mark^ Vasille</cell>
+	<cell><persName ref="cwgk:N00013840">John Krause</persName></cell>
 	<cell>"</cell>
 	<cell/>
 	<cell/>
 </row>
 <row>
-	<cell>Jesse Ghormly</cell>
+	<cell><persName ref="cwgk:N00013757">John ^his x mark^ Vasille</persName></cell>
 	<cell>"</cell>
 	<cell/>
 	<cell/>
 </row>
 <row>
-	<cell>John ^his x mark^ Summers</cell>
+	<cell><persName ref="cwgk:N00013796">Jesse Ghormly</persName></cell>
 	<cell>"</cell>
 	<cell/>
 	<cell/>
 </row>
 <row>
-	<cell>John Richey</cell>
+	<cell><persName ref="cwgk:N00013810">John ^his x mark^ Summers</persName></cell>
 	<cell>"</cell>
 	<cell/>
 	<cell/>
 </row>
 <row>
-	<cell>Robert ^his x mark^ Edwards</cell>
+	<cell><persName ref="cwgk:N00013833">John Richey</persName></cell>
 	<cell>"</cell>
 	<cell/>
 	<cell/>
 </row>
 <row>
-	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Brassele</cell>
+	<cell><persName ref="cwgk:N00013830">Robert ^his x mark^ Edwards</persName></cell>
 	<cell>"</cell>
 	<cell/>
 	<cell/>
 </row>
 <row>
-	<cell>S M Chambers</cell>
+	<cell><persName ref="cwgk:N00013826">W<hi rend="underline"><hi rend="sup">m</hi></hi> Brassele</persName></cell>
 	<cell>"</cell>
 	<cell/>
 	<cell/>
 </row>
 <row>
-	<cell>Edward Riley</cell>
+	<cell><persName ref="cwgk:N00013758">S M Chambers</persName></cell>
 	<cell>"</cell>
 	<cell/>
 	<cell/>
 </row>
 <row>
-	<cell>Robert ^his x mark^ Pulim</cell>
+	<cell><persName ref="cwgk:N00013834">Edward Riley</persName></cell>
 	<cell>"</cell>
 	<cell/>
 	<cell/>
 </row>
 <row>
-	<cell>Anthony ^his x mark^ Unklebeck</cell>
+	<cell><persName ref="cwgk:N00013760">Robert ^his x mark^ Pulim</persName></cell>
 	<cell>"</cell>
 	<cell/>
 	<cell/>
 </row>
 <row>
-	<cell>George. W. Allen</cell>
+	<cell><persName ref="cwgk:N00013838">Anthony ^his x mark^ Unklebeck</persName></cell>
 	<cell>"</cell>
 	<cell/>
 	<cell/>
 </row>
 <row>
-	<cell>Charles, W, Woods</cell>
+	<cell><persName ref="cwgk:N00013765">George. W. Allen</persName></cell>
+	<cell>"</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell><persName ref="cwgk:N00013795">Charles, W, Woods</persName></cell>
 	<cell>"</cell>
 	<cell/>
 	<cell/>
