@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0399"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Brian M. Trump</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Beriah Magoffin Governor of Kentucky.</p>
-<p>Your petitioner William S. Warren would most respectullfy state to your Excellency that on the <date when="1860-11-01">first day of November 1860</date> he was taken before Gabriel Close a justice of the Peace for Green County and tried for rioting, and fined the sum of Thirty dollars, He was present when the riot occured and his brother in law being engaged in a fight he rushed in and attempted to seperate the combattants and preserve the peace but he took no part whatever in the riot, but the Jury fined him the sum above stated. He solemnly declares that he never <unclear>committed</unclear> any act in violation of law.</p>
-<p>He is a poor man with a wife and family dependant upon his daily labor for a support, and the small sum of Thirty dollars is more than he can raise in fact he can pay no portion of it, owing to his poverty and the hard times. and if the fine is imposed he will be forced to lay in jail till the fine is satisfied and his family will suffer for the necessaries of live during his confinement.</p>
+   <p>To his Excellency <persName ref="cwgk:N00000258">Beriah Magoffin</persName> Governor of <orgName ref="cwgk:O001025">Kentucky</orgName>.</p>
+<p>Your petitioner <persName ref="cwgk:N00019603">William S. Warren</persName> would most respectullfy state to your Excellency that on the <date when="1860-11-01">first day of November 1860</date> he was taken before Gabriel Close a justice of the Peace for <placeName ref="cwgk:P00000468">Green County</placeName> and tried for rioting, and fined the sum of Thirty dollars, He was present when the riot occured and <persName ref="cwgk:N00020019">his brother in law</persName> being engaged in a fight he rushed in and attempted to seperate the combattants and preserve the peace but he took no part whatever in the riot, but the Jury fined him the sum above stated. He solemnly declares that he never <unclear>committed</unclear> any act in violation of law.</p>
+<p>He is a poor man with a <persName ref="cwgk:N00019604">wife</persName> and family dependant upon his daily labor for a support, and the small sum of Thirty dollars is more than he can raise in fact he can pay no portion of it, owing to his poverty and the hard times. and if the fine is imposed he will be forced to lay in <orgName ref="cwgk:O00019264">jail</orgName> till the fine is satisfied and his family will suffer for the necessaries of live during his confinement.</p>
 <p>He therefore prays your Excellency to remit the fine of thirty dollars as an act of mercy.</p>
 <p>William S warren</p>
 <p>Sworn to before me <date when="1860-12-20">Dec 20<hi rend="sup">th</hi> 1860</date>
-<lb/>(D T Towles Examiner for Green County Ky)<pb/></p>
-<p>We the Undersigned citizens of Green County Ky would most respectfully state that we are acquainted with W<hi rend="sup">m</hi> S Warren the petitioner, and know him to be a very poor <hi rend="str">hard</hi> man, and he is bound to labor hard to support his family and can scarcely sustain them with the actual necessaries of life, Our section of your state is in a miserable and deplorable condition, and we earnestly join in with him in petitioning your Excellency to remit the fine of Thirty dollars, in order that he may remain at home and work for his family</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>F C Warren
-<lb/>J F Warren
-<lb/>G W Carter
+<lb/>(<persName ref="cwgk:N00007761">D T Towles</persName> Examiner for Green County Ky)<pb/></p>
+<p>We the Undersigned citizens of Green County <placeName ref="cwgk:P001800">Ky</placeName> would most respectfully state that we are acquainted with W<hi rend="sup">m</hi> S Warren the petitioner, and know him to be a very poor <hi rend="str">hard</hi> man, and he is bound to labor hard to support his family and can scarcely sustain them with the actual necessaries of life, Our section of your state is in a miserable and deplorable condition, and we earnestly join in with him in petitioning your Excellency to remit the fine of Thirty dollars, in order that he may remain at home and work for his family</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00019605">F C Warren</persName>
+<lb/><persName ref="cwgk:N00019606">J F Warren</persName>
+<lb/><persName ref="cwgk:N00019607">G W Carter</persName>
 <lb/>O D. <unclear>Terrill</unclear> M. D.
 <lb/>J M Terrill
 <lb/><unclear/> <unclear/>
@@ -86,15 +94,15 @@
 <lb/>Js Salsman
 <lb/>Maston Thompson
 <lb/>Eligha Skaggs
-<lb/>Jeames Davis
-<lb/>Thommas Skaggs
-<lb/>Richard Drewin
-<lb/>Eligha Dezarn
-<lb/><cb n="2"/>O T Ward
+<lb/><persName ref="cwgk:N00019761">Jeames Davis</persName>
+<lb/><persName ref="cwgk:N00019279">Thommas Skaggs</persName>
+<lb/><persName ref="cwgk:N00019628">Richard Drewin</persName>
+<lb/><persName ref="cwgk:N00019633">Eligha Dezarn</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00000471">O T Ward</persName>
 <lb/>D T Towles
-<lb/>James Edwards
+<lb/><persName ref="cwgk:N00019762">James Edwards</persName>
 <lb/>C. Darnall
-<lb/>William Skaggs
+<lb/><persName ref="cwgk:N00019664">William Skaggs</persName>
 <lb/>John C Skaggs
 <lb/><unclear>Samuel Robson</unclear>
 <lb/>John <unclear/> Richards
@@ -134,10 +142,10 @@
 <lb/>F vaughn
 <lb/>M A Vaughn
 <lb/>N M<hi rend="sup">c</hi>Cullin
-<lb/>William Jewell
+<lb/><persName ref="cwgk:N00019681">William Jewell</persName>
 <lb/>A Bradshaw
-<lb/>Eliel Bell
-<lb/>James Childers
+<lb/><persName ref="cwgk:N00019686">Eliel Bell</persName>
+<lb/><persName ref="cwgk:N00019685">James Childers</persName>
 <lb/><cb n="2"/><hi rend="str">W</hi> Willis Skaggs
 <lb/>James J Cantrel
 <lb/>Joseph swigley
@@ -146,11 +154,11 @@
 <lb/>E<hi rend="underline"><hi rend="sup">d</hi></hi> Graham
 <lb/>R. Y. Graham
 <lb/>William <unclear>ware</unclear>
-<lb/>Silvester Merton<pb/></p>
+<lb/><persName ref="cwgk:N00019683">Silvester Merton</persName><pb/></p>
 <p><milestone unit="column" n="1"/>Green J P</p>
 <p>Remitted
 <lb/>B. M</p>
-<p>&#36;30 &#125; Rioting
+<p>$30 } Rioting
 <lb/>W. S. Warren
 <lb/>Is<hi rend="sup">d</hi> <date when="1861-01-30">Jan 30 1861</date></p>
   </body>
