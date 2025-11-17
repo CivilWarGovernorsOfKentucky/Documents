@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-161-0054"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>AaronMPhillips</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -66,13 +74,13 @@
    <p><note place="header">446</note></p>
 <p><date when="1865-03-15">March 15<hi rend="sup">th</hi> <gap/>5</date>
 <lb/><unclear>Ben</unclear> <unclear>Hannigan</unclear>
-<lb/><unclear/> Ky
-<lb/>Sir</p>
-<p>Yours of <date when="1865-02-20">Feby 20<hi rend="sup">th</hi></date> to the Governor has been referred to me for answer.</p>
-<p>It is not deemed advisable at present to increase the number of State troops Already in the field. If it is determined to raise more, your claim will be duly considered</p>
+<lb/><unclear/> <placeName ref="cwgk:P001800">Ky
+</placeName><lb/>Sir</p>
+<p>Yours of <date when="1865-02-20">Feby 20<hi rend="sup">th</hi></date> to the <persName ref="cwgk:N001000">Governor</persName> has been referred to me for answer.</p>
+<p>It is not deemed advisable at present to increase the number of <orgName ref="cwgk:O00000303">State troops</orgName> Already in the field. If it is determined to raise more, your claim will be duly considered</p>
 <p>Very Respectfully
-<lb/>D W Lindsey
-<lb/>Adjutant Gen of Ky</p>
+<lb/><persName ref="cwgk:N00000873">D W Lindsey</persName>
+<lb/>Adjutant Gen of <orgName ref="cwgk:O001025">Ky</orgName></p>
   </body>
  </text>
 </TEI>
