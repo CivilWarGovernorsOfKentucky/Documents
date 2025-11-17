@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0468"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,26 +71,26 @@
  </teiHeader>
  <text>
   <body>
-   <p>Maysville Kentucky
+   <p><placeName ref="cwgk:P00001219">Maysville</placeName> <placeName ref="cwgk:P001800">Kentucky</placeName>
 <lb/><date when="1864-01-14">January 14<hi rend="sup">th</hi> 1864</date>
 <lb/>To His Excellency
-<lb/>Gov Bramlette</p>
-<p>Dear Sir, The undersigned members of the Board of Council of this City, respectfully submit for your consideration the following statement</p>
-<p>There are a large number of licensed establishments in this City for the sale of spiritous liquors, and quite a large number of persons who sell liquor without license, These people are <hi rend="underline">occassionally</hi> convicted and fined for a violation of the Laws and ordinances of the City. As a general rule they claim to be innocent and get up a petition signed by their friends, praying the Board of Council to remit the fine, as we have a right to do by law. We remit such fines as ought to be remitted Being familiar with the circumstances, or in a position where we can arrive at the truth we <hi rend="underline">occassionally</hi> refuse to pardon an offender, who straitway sends a petition to the Executive of the state, and obtain a discharge from the fine imposed, before the City officials have any notice that such petition is pending We have therefore determined to request your Excellency not to remit any fine imposed by the Mayor of this City without first giving this Board an opportunity to advise you fully as to the truth of the particular case presented- We are much more apt to remit fines that ought not to be remitted than to pursue the<pb/>
+<lb/><persName ref="cwgk:N001000">Gov Bramlette</persName></p>
+<p>Dear Sir, The undersigned members of the <orgName ref="cwgk:O00017285">Board of Council</orgName> of this City, respectfully submit for your consideration the following statement</p>
+<p>There are a large number of licensed establishments in this City for the sale of spiritous liquors, and quite a large number of persons who sell liquor without license, These people are <hi rend="underline">occassionally</hi> convicted and fined for a violation of the Laws and ordinances of the City. As a general rule they claim to be innocent and get up a petition signed by their friends, praying the Board of Council to remit the fine, as we have a right to do by law. We remit such fines as ought to be remitted Being familiar with the circumstances, or in a position where we can arrive at the truth we <hi rend="underline">occassionally</hi> refuse to pardon an offender, who straitway sends a petition to the Executive of the <orgName ref="cwgk:O001025">state</orgName>, and obtain a discharge from the fine imposed, before the City officials have any notice that such petition is pending We have therefore determined to request your Excellency not to remit any fine imposed by the <persName ref="cwgk:N00008307">Mayor</persName> of this City without first giving this Board an opportunity to advise you fully as to the truth of the particular case presented- We are much more apt to remit fines that ought not to be remitted than to pursue the<pb/>
 <lb/>opposite course We can always to accurately informed as to the facts of each case and we feel satisfied that we treat each case fairly The Laws must be executed to some extent, but it has become so common to obtain at the hands of the state Executive, remittances of fines that they are seldom imposed</p>
 <p>We therefore respectfully and earnestly petition your Excellency not to remit any fine without giving us an opportunity to advise you fully in relation to the application which we pledge ourselves to do</p>
 <p>Respectfully
-<lb/>W, H, M<hi rend="sup">c</hi>Granaghan, President
-<lb/>T. C Campbell.
-<lb/>Henry Rudy
-<lb/>M F. Wilson
-<lb/>D Clark
-<lb/>Jo<hi rend="sup">s</hi> Wallingford
-<lb/>John Brasee
-<lb/>James Smith
-<lb/>Jos. F, Brodrick
-<lb/>Milton Calbertson
-<lb/>W H Wise<pb/></p>
+<lb/><persName ref="cwgk:N00009875">W, H, M<hi rend="sup">c</hi>Granaghan</persName>, President
+<lb/><persName ref="cwgk:N00006264">T. C Campbell</persName>.
+<lb/><persName ref="cwgk:N00017286">Henry Rudy</persName>
+<lb/><persName ref="cwgk:N00008066">M F. Wilson</persName>
+<lb/><persName ref="cwgk:N00008080">D Clark</persName>
+<lb/><persName ref="cwgk:N00017287">Jo<hi rend="sup">s</hi> Wallingford</persName>
+<lb/><persName ref="cwgk:N00017288">John Brasee</persName>
+<lb/><persName ref="cwgk:N00017289">James Smith</persName>
+<lb/><persName ref="cwgk:N00017290">Jos. F, Brodrick</persName>
+<lb/><persName ref="cwgk:N00017291">Milton Calbertson</persName>
+<lb/><persName ref="cwgk:N00009885">W H Wise</persName><pb/></p>
 <p>Maysville
 <lb/>City council of remonstrance against remission of Fines</p>
   </body>
