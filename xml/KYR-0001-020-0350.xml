@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0350"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Nelson Circuit Court,,
-<lb/>The Commth. of Kentucky,,
+   <p><orgName ref="cwgk:O00000479">Nelson Circuit Court</orgName>,,
+<lb/>The <orgName ref="cwgk:O001025">Commth. of Kentucky</orgName>,,
 <lb/>against
-<lb/>John B. Wilkerson,,</p>
-<p>The Grand Jury of Nelson County in the name and by the Authority of the Commonwealth of Kentucky accuse John B. Wilkerson of the Crime of maliciously and wilfully shooting and wounding with intent to Kill, committed as follows: the Said John B Wilkerson on the <date when="1858-03-01">1<hi rend="sup">st</hi> day of March 1858</date> in the County aforesaid did willfully maliciously and feloniously Shoot at and wound with intent to Kill one Electins Adams with a pistol loaded with powder and <hi rend="str">a</hi> leaden b<hi rend="str">alls</hi>ullitts without Killing Said Electins Adams against the peace and dignity of the Commonwealth of Kentucky -- </p>
-<p>Andy Barnett atty for the Commonwealth</p>
-<p>Upon which indictment, the following verdict was rendered,, "We of the Jury find the defendant John B Wilkerson not guilty of the malicious Shooting &amp; wounding as charged in the within indictment, but we find him guilty of shooting &amp; wounding E. Adams in sudden heat without previous malice and not in self defense and in consequence thereof do fix his punishment at a fine of Fifty Dollars and Six months Confinement in the County Jail</p>
-<p>Fr Realmear
+<lb/><persName ref="cwgk:N00021326">John B. Wilkerson</persName>,,</p>
+<p>The Grand Jury of <placeName ref="cwgk:P001012">Nelson County</placeName> in the name and by the Authority of the Commonwealth of Kentucky accuse John B. Wilkerson of the Crime of maliciously and wilfully shooting and wounding with intent to Kill, committed as follows: the Said John B Wilkerson on the <date when="1858-03-01">1<hi rend="sup">st</hi> day of March 1858</date> in the County aforesaid did willfully maliciously and feloniously Shoot at and wound with intent to Kill one <persName ref="cwgk:N00021348">Electins Adams</persName> with a pistol loaded with powder and <hi rend="str">a</hi> leaden b<hi rend="str">alls</hi>ullitts without Killing Said Electins Adams against the peace and dignity of the Commonwealth of Kentucky -- </p>
+<p><persName ref="cwgk:N00002559">Andy Barnett</persName> atty for the Commonwealth</p>
+<p>Upon which indictment, the following verdict was rendered,, "We of the Jury find the defendant John B Wilkerson not guilty of the malicious Shooting &amp; wounding as charged in the within indictment, but we find him guilty of shooting &amp; wounding E. Adams in sudden heat without previous malice and not in self defense and in consequence thereof do fix his punishment at a fine of Fifty Dollars and Six months Confinement in the <orgName ref="cwgk:O00017922">County Jail</orgName></p>
+<p><persName ref="cwgk:N00021336">Fr Realmear</persName>
 <lb/>one of the Jury</p>
-<p>A Copy att W<hi rend="sup">m</hi> Murphy ClK
+<p>A Copy att <persName ref="cwgk:N00009310">W<hi rend="sup">m</hi> Murphy</persName> ClK
 <lb/><hi rend="underline">By W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> Laughlin D C</hi></p>
   </body>
  </text>
