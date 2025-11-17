@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0444"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville, Ky: <date when="1864-01-20">Jan. 20, 1864</date>.
-<lb/>Hon. Thomas E. Bramlette,
-<lb/>Govenor of Kentucky:</p>
-<p>We the undersigned Jurors, who convicted Henry Byerback, of the city of Louisville, State of Kentucky, in the Jefferson Circuit Court, charged with "malicious stabbing with intent to Kill" recommend and request that the said Byerback be pardoned and the term of imprisonment fixed by our verdict be remitted and said Byerback be set at liberty.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>John. Downing Jr
-<lb/>R. A. Vacaro
-<lb/>J. Werne
-<lb/>P, T, Wood
-<lb/>Samuel Ingrem
-<lb/>J. J Hartt
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>: <date when="1864-01-20">Jan. 20, 1864</date>.
+<lb/>Hon. <persName ref="cwgk:N001000">Thomas E. Bramlette</persName>,
+<lb/>Govenor of <orgName ref="cwgk:O001025">Kentucky</orgName>:</p>
+<p>We the undersigned Jurors, who convicted <persName ref="cwgk:N00017036">Henry Byerback</persName>, of the city of Louisville, State of Kentucky, in the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName>, charged with "malicious stabbing with intent to Kill" recommend and request that the said Byerback be pardoned and the term of imprisonment fixed by our verdict be remitted and said Byerback be set at liberty.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00010879">John. Downing Jr</persName>
+<lb/><persName ref="cwgk:N00016367">R. A. Vacaro</persName>
+<lb/><persName ref="cwgk:N00016370">J. Werne</persName>
+<lb/><persName ref="cwgk:N00016368">P, T, Wood</persName>
+<lb/><persName ref="cwgk:N002020">Samuel Ingrem</persName>
+<lb/><persName ref="cwgk:N00017046">J. J Hartt</persName>
 <lb/><cb n="2"/><hi rend="underline">G. F. Doury</hi></p>
   </body>
  </text>
