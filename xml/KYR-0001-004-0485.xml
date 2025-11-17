@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0485"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Kevin McPartland</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,59 +71,59 @@
  </teiHeader>
  <text>
   <body>
-   <p>Glasgow Ky <date when="1864-01-01">January 1<hi rend="underline"><hi rend="sup">st</hi></hi> 64</date>
-<lb/>To Thomas E Bramblet
-<lb/>Governor of Kantucky</p>
-<p>We are &amp; have been acquainted with one G W. Dunn now confinded in the state prison for some offence (we understand) commited at Louisville Ky we know nothing of the charge or offince. But we know that said Dunn has always been regarded as an honest peacible citizen was &amp; is now or at the time of the offence a soldier of the 34<hi rend="underline"><hi rend="sup">th</hi></hi> reg<hi rend="underline"><hi rend="sup">t</hi></hi> of Ky Vols If he be guilty of said offence he certainly was superinduced by bad men who had controle of him He as a poor man has a wife and two little children</p>
+   <p><placeName ref="cwgk:P00000336">Glasgow</placeName> <placeName ref="cwgk:P001800">Ky</placeName> <date when="1864-01-01">January 1<hi rend="underline"><hi rend="sup">st</hi></hi> 64</date>
+<lb/>To <persName ref="cwgk:N001000">Thomas E Bramblet</persName>
+<lb/>Governor of <orgName ref="cwgk:O001025">Kantucky</orgName></p>
+<p>We are &amp; have been acquainted with one <persName ref="cwgk:N00016903">G W. Dunn </persName>now confinded in the <orgName ref="cwgk:O00000266">state prison</orgName> for some offence (we understand) commited at <placeName ref="cwgk:P00000337">Louisville</placeName> Ky we know nothing of the charge or offince. But we know that said Dunn has always been regarded as an honest peacible citizen was &amp; is now or at the time of the offence a soldier of the <orgName ref="cwgk:O00011956">34<hi rend="underline"><hi rend="sup">th</hi></hi> reg<hi rend="underline"><hi rend="sup">t</hi></hi> of Ky Vols </orgName>If he be guilty of said offence he certainly was superinduced by bad men who had controle of him He as a poor man has a wife and two little children</p>
 <p>We now wish respectfully &amp; earnestly for you to extend him pardon</p>
-<p>B J Spalding Lieu<hi rend="underline"><hi rend="sup">t</hi></hi> Con<hi rend="underline"><hi rend="sup">l</hi></hi> 37<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Vo<hi rend="underline"><hi rend="sup">l</hi></hi></p>
+<p><persName ref="cwgk:N00016904">B J Spalding</persName> Lieu<hi rend="underline"><hi rend="sup">t</hi></hi> Con<hi rend="underline"><hi rend="sup">l</hi></hi> <orgName ref="cwgk:O00016905">37<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Vo<hi rend="underline"><hi rend="sup">l</hi></hi></orgName></p>
 <p>Governor Bramblet
 <lb/>Dear Sir</p>
 <p>From all that I can learn about the condition of young Dunn It would be I think right to pardon him and I hope you will do so and let him return to the army</p>
 <p>your Friend
-<lb/>W. F. Evans<pb/></p>
+<lb/><persName ref="cwgk:N00001570">W. F. Evans</persName><pb/></p>
 <p>Governor Bramblet
 <lb/>Sir</p>
 <p>the undersigned Union soldiers would wish Dunn's pardon<figure type="hr"/></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>James M Adams 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieu<hi rend="underline"><hi rend="sup">t</hi></hi> 33<hi rend="underline"><hi rend="sup">rd</hi></hi> Ky Vo<hi rend="underline"><hi rend="sup">l</hi></hi>
-<lb/>Joseph M Starths 33<hi rend="underline"><hi rend="sup">rd</hi></hi> Ky
-<lb/>George W Boles -- 33 Ky
-<lb/>Bennett Robertson- 33 Ky
-<lb/>Eliga Saltsman Do Ky
-<lb/>L S Saltsman Do ky
-<lb/>John Jones -- Do Ky
-<lb/>J F Malsour Do Ky
-<lb/>R M James -- Do Ky
-<lb/>Elias G Ford -- Do Ky
-<lb/>Joseph H Sidebottom Do
-<lb/>J S Williams- 33<hi rend="underline"><hi rend="sup">rd</hi></hi> Ky
-<lb/>W M Dafern -- Do Do
-<lb/>W W Right -- Do Do
-<lb/>B B Ward- Do Do
-<lb/>Z. C. Fworney -- Do Do
-<lb/>C. S. Rowse 37<hi rend="underline"><hi rend="sup">th</hi></hi> Ky
-<lb/>John Garrison Do Do
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00016932">James M Adams</persName> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieu<hi rend="underline"><hi rend="sup">t</hi></hi> <orgName ref="cwgk:O00009912">33<hi rend="underline"><hi rend="sup">rd</hi></hi> Ky Vo<hi rend="underline"><hi rend="sup">l</hi></hi></orgName>
+<lb/><persName ref="cwgk:N00016933">Joseph M Starths</persName> 33<hi rend="underline"><hi rend="sup">rd</hi></hi> Ky
+<lb/><persName ref="cwgk:N00016934">George W Boles</persName> -- 33 Ky
+<lb/><persName ref="cwgk:N00016935">Bennett Robertson</persName>- 33 Ky
+<lb/><persName ref="cwgk:N00016936">Eliga Saltsman</persName> Do Ky
+<lb/><persName ref="cwgk:N00016937">L S Saltsman</persName> Do ky
+<lb/><persName ref="cwgk:N00016938">John Jones</persName> -- Do Ky
+<lb/><persName ref="cwgk:N00016939">J F Malsour</persName> Do Ky
+<lb/><persName ref="cwgk:N00016940">R M James</persName> -- Do Ky
+<lb/><persName ref="cwgk:N00016941">Elias G Ford</persName> -- Do Ky
+<lb/><persName ref="cwgk:N00016942">Joseph H Sidebottom</persName> Do
+<lb/><persName ref="cwgk:N00016943">J S Williams</persName>- 33<hi rend="underline"><hi rend="sup">rd</hi></hi> Ky
+<lb/><persName ref="cwgk:N00016944">W M Dafern </persName>-- Do Do
+<lb/><persName ref="cwgk:N00016945">W W Right</persName> -- Do Do
+<lb/><persName ref="cwgk:N00016946">B B Ward</persName>- Do Do
+<lb/><persName ref="cwgk:N00016947">Z. C. Fworney</persName> -- Do Do
+<lb/><persName ref="cwgk:N00016948">C. S. Rowse</persName> 37<hi rend="underline"><hi rend="sup">th</hi></hi> Ky
+<lb/><persName ref="cwgk:N00016950">John Garrison</persName> Do Do
 <lb/><hi rend="str">E</hi> G W Arvin Do Do
-<lb/>C S Skaggs Do Do
-<lb/>Jeremiah Turner- Do Do
-<lb/>Santford Hay D-Do
-<lb/><cb n="2"/>Lieut C A M<hi rend="sup">c</hi>Crus 37<hi rend="underline"><hi rend="sup">th</hi></hi> Ky
-<lb/>Dewit Smith -- 37: Ky
-<lb/>William Caty -- Do..Do
-<lb/>Birel Pruett Do
-<lb/>Frank Barlington Do
-<lb/>William Martin Do
-<lb/>Henry Harris Do
-<lb/>Thomas Keer- Do
-<lb/>William B Roddy Do
-<lb/>Ellhia Huffhines Do
-<lb/>Samuel G. Martin Do
-<lb/>Joseph Joyce -- Do
-<lb/>Felix Crady -- Do
-<lb/>William A Dever Do
-<lb/>John R Bornes Do
-<lb/>John H Dunn Do
-<lb/>P M Harris Do<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00016952">C S Skaggs</persName> Do Do
+<lb/><persName ref="cwgk:N00016953">Jeremiah Turner</persName>- Do Do
+<lb/><persName ref="cwgk:N00016954">Santford Hay</persName> D-Do
+<lb/><cb n="2"/>Lieut<persName ref="cwgk:N00016960"> C A M<hi rend="sup">c</hi>Crus</persName> 37<hi rend="underline"><hi rend="sup">th</hi></hi> Ky
+<lb/><persName ref="cwgk:N00016961">Dewit Smith</persName> -- 37: Ky
+<lb/><persName ref="cwgk:N00016968">William Caty</persName> -- Do..Do
+<lb/><persName ref="cwgk:N00016969">Birel Pruett</persName> Do
+<lb/><persName ref="cwgk:N00016970">Frank Barlington</persName> Do
+<lb/><persName ref="cwgk:N00016971">William Martin </persName>Do
+<lb/><persName ref="cwgk:N00016972">Henry Harris</persName> Do
+<lb/><persName ref="cwgk:N00016973">Thomas Keer</persName>- Do
+<lb/><persName ref="cwgk:N00016976">William B Roddy</persName> Do
+<lb/><persName ref="cwgk:N00016977">Ellhia Huffhines</persName> Do
+<lb/><persName ref="cwgk:N00016978">Samuel G. Martin</persName> Do
+<lb/><persName ref="cwgk:N00017014">Joseph Joyce </persName>-- Do
+<lb/><persName ref="cwgk:N00017015">Felix Crady</persName> -- Do
+<lb/><persName ref="cwgk:N00017016">William A Dever</persName> Do
+<lb/><persName ref="cwgk:N00017031">John R Bornes</persName> Do
+<lb/><persName ref="cwgk:N00017033">John H Dunn</persName> Do
+<lb/><persName ref="cwgk:N00017034">P M Harris </persName>Do<milestone unit="column" n="1"/><pb/></p>
 <p>Enquire into this</p>
   </body>
  </text>
