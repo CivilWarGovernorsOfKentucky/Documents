@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0313"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,26 +72,26 @@
   <body>
    <p><note place="left margin">E<unclear/>
 <lb/>C C C C</note></p>
-<p>E A Jones
-<lb/>C B Skaggs
-<lb/>B H Jones
-<lb/>Mathew Skaggs
-<lb/>Dail Akin
-<lb/>Joseph H Grayham
-<lb/>Ezekiel Davs
-<lb/>Elijah Skaggs
-<lb/>T B Eates
+<p><persName ref="cwgk:N00019667">E A Jones</persName>
+<lb/><persName ref="cwgk:N00020339">C B Skaggs</persName>
+<lb/><persName ref="cwgk:N00020340">B H Jones</persName>
+<lb/><persName ref="cwgk:N00020026">Mathew Skaggs</persName>
+<lb/><persName ref="cwgk:N00020341">Dail Akin</persName>
+<lb/><persName ref="cwgk:N00020343">Joseph H Grayham</persName>
+<lb/><persName ref="cwgk:N00020357">Ezekiel Davs</persName>
+<lb/><persName ref="cwgk:N00020023">Elijah Skaggs</persName>
+<lb/><persName ref="cwgk:N00019595">T B Eates</persName>
 <lb/><hi rend="str">T B Eates</hi>
-<lb/>John C skaggs
-<lb/>William S Warren
-<lb/>W N Phillips
-<lb/>J D Scott
-<lb/>P C Warren
-<lb/>J. D. Stennett
-<lb/>M. E. Thompson
+<lb/><persName ref="cwgk:N00019634">John C skaggs</persName>
+<lb/><persName ref="cwgk:N00019603">William S Warren</persName>
+<lb/><persName ref="cwgk:N00020358">W N Phillips</persName>
+<lb/><persName ref="cwgk:N00020359">J D Scott</persName>
+<lb/><persName ref="cwgk:N00019605">P C Warren</persName>
+<lb/><persName ref="cwgk:N00019695">J. D. Stennett</persName>
+<lb/><persName ref="cwgk:N00019625">M. E. Thompson</persName>
 <lb/><unclear>J P Uriah</unclear> Skaggs
-<lb/>F Vaughn
-<lb/>James G Scott</p>
+<lb/><persName ref="cwgk:N00019688">F Vaughn</persName>
+<lb/><persName ref="cwgk:N00020361">James G Scott</persName></p>
   </body>
  </text>
 </TEI>
