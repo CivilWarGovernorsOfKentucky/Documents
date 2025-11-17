@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0074"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,45 +72,45 @@
  <text>
   <body>
    <p><date when="1861-02-12">12</date> 
-<lb/>The Governor commissioned the following persons in the Ky State Guard. duly elected.</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> commissioned the following persons in the <orgName ref="cwgk:O00000303">Ky State Guard</orgName>. duly elected.</p>
 <p><table rend="rules">
 <row>
-	<cell>A. Madisen</cell>
+	<cell><persName ref="cwgk:N00021442">A. Madisen</persName></cell>
 	<cell>Captain</cell>
-	<cell>Home Guards Covington</cell>
+	<cell>Home Guards <placeName ref="cwgk:P00000936">Covington</placeName></cell>
 </row>
 <row>
-	<cell>S. V. Reed</cell>
+	<cell><persName ref="cwgk:N00021355">S. V. Reed</persName></cell>
 	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut</cell>
 	<cell>" " </cell>
 </row>
 <row>
-	<cell>W. T. Estep</cell>
+	<cell><persName ref="cwgk:N00021358">W. T. Estep</persName></cell>
 	<cell>2<hi rend="underline"><hi rend="sup">nd</hi></hi> " </cell>
 	<cell>" " </cell>
 </row>
 <row>
-	<cell>W. B. Phelps</cell>
+	<cell><persName ref="cwgk:N00021361">W. B. Phelps</persName></cell>
 	<cell>3<hi rend="sup">d</hi> " </cell>
 	<cell>" " </cell>
 </row>
 <row>
-	<cell>P. H. O Conner</cell>
+	<cell><persName ref="cwgk:N00021441">P. H. O Conner</persName></cell>
 	<cell>2<hi rend="underline"><hi rend="sup">d</hi></hi> "</cell>
-	<cell>Jackson "</cell>
+	<cell><placeName ref="cwgk:P00003363">Jackson</placeName> "</cell>
 </row>
 <row>
-	<cell>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> C Mitchell</cell>
+	<cell><persName ref="cwgk:N00021435">Jo<hi rend="underline"><hi rend="sup">s</hi></hi> C Mitchell</persName></cell>
 	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> "</cell>
 	<cell>Uniontown Rifle Company</cell>
 </row>
 <row>
-	<cell>Hugh Henry</cell>
+	<cell><persName ref="cwgk:N00021433">Hugh Henry</persName></cell>
 	<cell>3<hi rend="underline"><hi rend="sup">d</hi></hi> " </cell>
-	<cell>Flat Rock Greys</cell>
+	<cell><placeName ref="cwgk:P00021443">Flat Rock</placeName> Greys</cell>
 </row>
 </table></p>
-<p>He respited for twelve months a judgment of the Frankfort Police Court of &#36;10. against Josh. Vinegar for a. misdemeanor.</p>
+<p>He respited for twelve months a judgment of the <orgName ref="cwgk:O00003470">Frankfort Police Court</orgName> of $10. against <persName ref="cwgk:N00021439">Josh. Vinegar</persName> for a. misdemeanor.</p>
   </body>
  </text>
 </TEI>
