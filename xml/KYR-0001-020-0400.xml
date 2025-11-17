@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0400"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>A. J. Blaylock</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,12 +72,12 @@
  <text>
   <body>
    <p><date when="1861-01">January Term 1861</date>
-<lb/>City Court of Louisville
-<lb/>Comth of Kentucky
-<lb/>vs &#125; assault on Elizabeth Sidle
-<lb/>David Forst</p>
+<lb/><orgName ref="cwgk:O001838">City Court</orgName> of <placeName ref="cwgk:P00000337">Louisville</placeName>
+<lb/><orgName ref="cwgk:O001025">Comth of Kentucky</orgName>
+<lb/>vs } assault on <persName ref="cwgk:N00021304">Elizabeth Sidle</persName>
+<lb/><persName ref="cwgk:N00021305">David Forst</persName></p>
 <p>Fine one hundred Dollars imposed agst Deft Forst</p>
-<p>O H Stratton clk
+<p><persName ref="cwgk:N00004479">O H Stratton</persName> clk
 <lb/>by <hi rend="underline">Jno W Allen D C</hi></p>
   </body>
  </text>
