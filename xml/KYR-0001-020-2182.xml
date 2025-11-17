@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2182"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>MontanaWilliamson</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,11 +70,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>To Gov<hi rend="underline"><hi rend="sup">nr</hi></hi> Magoffin,</p>
-<p>There is an enditement depending in the Union Circuit Court against Leonard Clemants J<hi rend="underline"><hi rend="sup">r</hi></hi> for the Murder of a Slave the property of Ben P Cissell</p>
-<p>We believe that your excellency ought to pardon Said Clemants, because we think it was more the result of weakness of mind, than of Maliciousness, since Said occurance, his wife and only child have died and his Father has paid Mr Cissell <hi rend="str">fifteen</hi> sixteen hundred dollars for Said Slave.</p>
-<p>We believe it will meet the approbation of the people of Union County, for you to grant said pardon.</p>
-<p><hi rend="underline">W G Hughes</hi><pb/></p>
+   <p>To <persName ref="cwgk:N00000258">Gov<hi rend="underline"><hi rend="sup">nr</hi></hi> Magoffin</persName>,</p>
+<p>There is an enditement depending in the <orgName ref="cwgk:O00000582">Union Circuit Court</orgName> against<persName ref="cwgk:N00018544"> Leonard Clemants J<hi rend="underline"><hi rend="sup">r</hi></hi> </persName>for the Murder of a <persName ref="cwgk:N00012064">Slave</persName> the property of <persName ref="cwgk:N00006011">Ben P Cissell</persName></p>
+<p>We believe that your excellency ought to pardon Said Clemants, because we think it was more the result of weakness of mind, than of Maliciousness, since Said occurance, his <persName ref="cwgk:N00018545">wife</persName> and only <persName ref="cwgk:N00018546">child</persName> have died and his <persName ref="cwgk:N00018547">Father</persName> has paid Mr Cissell <hi rend="str">fifteen</hi> sixteen hundred dollars for Said Slave.</p>
+<p>We believe it will meet the approbation of the people of <placeName ref="cwgk:P00001845">Union County</placeName>, for you to grant said pardon.</p>
+<p><hi><persName ref="cwgk:N00003272">W G Hughes</persName></hi><pb/></p>
 <p>Clements Case
 <lb/>Pen<hi rend="sup">y</hi> -- </p>
   </body>
