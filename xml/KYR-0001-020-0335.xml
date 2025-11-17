@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0335"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Springfield No 15
+   <p><placeName ref="cwgk:P00001847">Springfield</placeName> No 15
 <lb/>Dear Sir -- </p>
-<p>Mr. Cheser -- who will hand you this letter -- is the Father of the Youg man who is confined in our Jail for six months and fined fifty dollars for an offence which you will find at the head of the partition Signed by the Jury besides a number of other partitioners we only ask you to release the imprisonment by doing so You will confer -- a favor on your Friend </p>
-<p>B C M<hi rend="sup">c</hi>Chord</p>
+<p>Mr. <persName ref="cwgk:N00021135">Cheser</persName> -- who will hand you this letter -- is the Father of the Youg <persName ref="cwgk:N00021136">man</persName> who is confined in our <orgName ref="cwgk:O00021137">Jail</orgName> for six months and fined fifty dollars for an offence which you will find at the head of the partition Signed by the Jury besides a number of other partitioners we only ask you to release the imprisonment by doing so You will confer -- a favor on your Friend </p>
+<p><persName ref="cwgk:N00021134">B C M<hi rend="sup">c</hi>Chord</persName></p>
   </body>
  </text>
 </TEI>
