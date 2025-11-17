@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0467"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bowling Green <date when="1864-02-09">Feby 9<hi rend="sup">th</hi> 64</date>
-<lb/>Col P B. Hawkins
-<lb/>Frankfort Ky
+   <p><placeName ref="cwgk:P00000560">Bowling Green</placeName> <date when="1864-02-09">Feby 9<hi rend="sup">th</hi> 64</date>
+<lb/><persName ref="cwgk:N00002638">Col P B. Hawkins</persName>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> <placeName ref="cwgk:P001800">Ky</placeName>
 <lb/>L<hi rend="sup">t</hi> Col</p>
-<p>Father tells me this morning that he had suggested to you that you would lay my name before the house in connexion with his &amp; Mr Pillsburry's. I thought I would write you a line or two, giveing you Some <hi rend="underline">facts</hi>, which you might urge in behalf of my case. If you remember, the President issued a proclamation shortly after the evacuation of Bowling Green by the Rebels, inviting all who might be under arms in rebellion to return to their allegiance in Sixty days.</p>
-<p>I availed myself of said proclamation, haveing had nothing to do whatever with said rebellion, after about the <date when="1862-03-01">1<hi rend="sup">st</hi> of March 1862</date>, though I did not come to Kentucky untill about the <date when="1862-06-10">10<hi rend="sup">th</hi> of June</date> thereafter, However I have been insides of the Federal lines, Since the <date when="1862-04-01">1<hi rend="sup">st</hi> of April 1862</date>, I have (as you probably know) taken the Oath, given bond, as required under said proclamation, and now I find I am <hi rend="underline">idicted</hi> in the Civil Courts, for "<hi rend="underline">Treason</hi> " <hi rend="underline">Conspericy</hi>" &amp;c, when I thought in availing myself of the President's clemency and returning to my allegiance, I was there released in full, And I hope the Clemency of the Legislature will relieve me. If the Legislature is so pressed with buisiness, that she can't act. will you be so kind as to lay my case before the Governor, and ask for a <hi rend="underline">respite</hi> untill the ^next^ session, I could send a petition if it was necessary, but hope your statements &amp;c, will suffice, Your attention to the above will greatly oblige</p>
+<p><persName ref="cwgk:N00011354">Father</persName> tells me this morning that he had suggested to you that you would lay my name before the house in connexion with his &amp; <persName ref="cwgk:N00011402">Mr Pillsburry's</persName>. I thought I would write you a line or two, giveing you Some <hi rend="underline">facts</hi>, which you might urge in behalf of my case. If you remember, the <persName ref="cwgk:N001760">President</persName> issued a proclamation shortly after the evacuation of Bowling Green by the Rebels, inviting all who might be under arms in rebellion to return to their allegiance in Sixty days.</p>
+<p>I availed myself of said proclamation, haveing had nothing to do whatever with said rebellion, after about the <date when="1862-03-01">1<hi rend="sup">st</hi> of March 1862</date>, though I did not come to Kentucky untill about the <date when="1862-06-10">10<hi rend="sup">th</hi> of June</date> thereafter, However I have been insides of the Federal lines, Since the <date when="1862-04-01">1<hi rend="sup">st</hi> of April 1862</date>, I have (as you probably know) taken the Oath, given bond, as required under said proclamation, and now I find I am <hi rend="underline">idicted</hi> in the Civil Courts, for "<hi rend="underline">Treason</hi> " <hi rend="underline">Conspericy</hi>" &amp;c, when I thought in availing myself of the President's clemency and returning to my allegiance, I was there released in full, And I hope the Clemency of the <orgName ref="cwgk:O00000923">Legislature</orgName> will relieve me. If the Legislature is so pressed with buisiness, that she can't act. will you be so kind as to lay my case before the <persName ref="cwgk:N001000">Governor</persName>, and ask for a <hi rend="underline">respite</hi> untill the ^next^ session, I could send a petition if it was necessary, but hope your statements &amp;c, will suffice, Your attention to the above will greatly oblige</p>
 <p>Your friend
 <lb/><hi rend="underline">Tom L Burnam
 <lb/></hi>over<pb/></p>
 <p>PS. Father says, if you succeed either before the Legislature, or in obtaing a <hi rend="underline">respite</hi>, that you bring such papers home with you, when you come.</p>
 <p>T L B</p>
 <p>No news. The friends are all well</p>
-<p>Warren Cir Ct
+<p><orgName ref="cwgk:O00000585">Warren Cir Ct</orgName>
 <lb/>vs
 <lb/>T. L. Burnam
 <lb/>Indicted for Treason
