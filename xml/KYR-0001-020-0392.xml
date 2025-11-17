@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0392"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Rachael Nicholas</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1860-11-13">Novr 13<hi rend="sup">th</hi> 1860</date>
-<lb/>My dear Sir</p>
-<p>The bearer of this letter is Sally White the sister ^of^ Hezekiah Alexander a free man of color who was sentenced to the Penitentiary from Meade County in July last.</p>
-<p>Some time ago I sent to you a copy of the record in the case It clearly showed that the accused was convicted Contrary to law But I could not obtain an <hi rend="str">ap</hi> order of appeal because of this defect of the proceedings in this Circuit Court.</p>
-<p>I must appeal to you in behalf of his sister and his aged father to pardon Hezekiah</p>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1860-11-13">Novr 13<hi rend="sup">th</hi> 1860</date>
+<lb/>My dear <persName ref="cwgk:N00000258">Sir</persName></p>
+<p>The bearer of this letter is <persName ref="cwgk:N00018614">Sally White </persName>the sister ^of^ <persName ref="cwgk:N00018596">Hezekiah Alexander</persName> a free man of color who was sentenced to the <orgName ref="cwgk:O00000266">Penitentiary </orgName>from <placeName ref="cwgk:P001822">Meade County </placeName>in July last.</p>
+<p>Some time ago I sent to you a copy of the record in the case It clearly showed that the accused was convicted Contrary to law But I could not obtain an <hi rend="str">ap</hi> order of appeal because of this defect of the proceedings in this <orgName ref="cwgk:O00000431">Circuit Court</orgName>.</p>
+<p>I must appeal to you in behalf of his sister and his aged <persName ref="cwgk:N00019235">father </persName>to pardon Hezekiah</p>
 <p>Give him an opportunity of showing to you &amp; to the world that he has been unjustly puneshed</p>
 <p>His sister &amp; Father display an<pb/>
 <lb/>affection for him that adds dignity to human nature and on their account as well as on account of the unfortunate man I ask you to pardon him</p>
 <p>Very respty
 <lb/>Yr obt servt
-<lb/>Nat Wolfe</p>
+<lb/><persName ref="cwgk:N00000219">Nat Wolfe</persName></p>
 <p>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Magoffin<pb/></p>
 <p>Nat Wolfe
 <lb/>Hez. Alexander's Case Pen<hi rend="sup">y</hi> -- </p>
