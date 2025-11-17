@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0475"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Daniele Celano</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,29 +71,29 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lebanon Ky.
+   <p><placeName ref="cwgk:P00002553">Lebanon</placeName> <placeName ref="cwgk:P001800">Ky</placeName>.
 <lb/><date when="1864-01-11">January 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>To His Excellency
-<lb/>Gov Bramlette</p>
+<lb/><persName ref="cwgk:N001000">Gov Bramlette</persName></p>
 <p>We the undersigned would represent to your Excellency the following facts (To wit)
-<lb/>that Since the war began the Trustees of Lebanon and the Military authorities have been in the habit of ordering all Hotel Bar<hi rend="underline"><hi rend="sup">s</hi></hi> and Drinking Saloons closed on Public occasions and other times when a good Many Soldiers wer near the town the Hotels and Saloons still paying the regular Tax (which was very high) They have suffered a heavy loss by complying with the orders, for which the Trustees promised to give them an extension of time and did pass an order making an allowance and the owners of the saloons ^Hotel Bar<hi rend="sup">s</hi>^ &amp; went on to sell. but the grand Jury was convened in the meantime and it was ascertained that the selling was illegal and <hi rend="underline">True</hi> Bills found against all the parties</p>
-<p>When the cases came up for trial the Circuit Judge decided that the Law was against the parties but if they had been misled that the Executive Should interpose. So Judgment was confessed by each party for the Sum of Sixty Dollars a copay of each Judgment is herewith enclosed on which execution has issued and is now in the hands of the Sheriff, we the<pb/>
-<lb/>undersigned citizens of Lebanon and Marion County being well acquainted with the facts would respectfully petition that you remit the fines except costs &amp; fees</p>
-<p>Jame<hi rend="underline"><hi rend="sup">s</hi></hi> M. Fidler C. M. Co ct
-<lb/>T. C. Jackson D. S. M. C.
-<lb/>J M Cardwell
-<lb/>V. A. Wheat
-<lb/>John Q Shucks
-<lb/>Jas <unclear/> Edelin
-<lb/>Marcus Wimsatt
-<lb/>Sam Edilen Pres Bord Trusts
+<lb/>that Since the war began the <orgName ref="cwgk:O00019208">Trustees of Lebanon</orgName> and the Military authorities have been in the habit of ordering all Hotel Bar<hi rend="underline"><hi rend="sup">s</hi></hi> and Drinking Saloons closed on Public occasions and other times when a good Many Soldiers wer near the town the Hotels and Saloons still paying the regular Tax (which was very high) They have suffered a heavy loss by complying with the orders, for which the Trustees promised to give them an extension of time and did pass an order making an allowance and the owners of the saloons ^Hotel Bar<hi rend="sup">s</hi>^ &amp; went on to sell. but the grand Jury was convened in the meantime and it was ascertained that the selling was illegal and <hi rend="underline">True</hi> Bills found against all the parties</p>
+<p>When the cases came up for trial the <orgName ref="cwgk:O00000425">Circuit</orgName> <persName ref="cwgk:N00009779">Judge</persName> decided that the Law was against the parties but if they had been misled that the Executive Should interpose. So Judgment was confessed by each party for the Sum of Sixty Dollars a copay of each Judgment is herewith enclosed on which execution has issued and is now in the hands of the <persName ref="cwgk:N00019211">Sheriff</persName>, we the<pb/>
+<lb/>undersigned citizens of Lebanon and <placeName ref="cwgk:P00002413">Marion County</placeName> being well acquainted with the facts would respectfully petition that you remit the fines except costs &amp; fees</p>
+<p><persName ref="cwgk:N00009964">Jame<hi rend="underline"><hi rend="sup">s</hi></hi> M. Fidler</persName> C. <orgName ref="cwgk:O00000660">M. Co ct</orgName>
+<lb/><persName ref="cwgk:N00019214">T. C. Jackson</persName> D. S. M. C.
+<lb/><persName ref="cwgk:N00012471">J M Cardwell</persName>
+<lb/><persName ref="cwgk:N00019218">V. A. Wheat</persName>
+<lb/><persName ref="cwgk:N00004970">John Q Shucks</persName>
+<lb/><persName ref="cwgk:N00010193">Jas <unclear/> Edelin</persName>
+<lb/><persName ref="cwgk:N00019219">Marcus Wimsatt</persName>
+<lb/><persName ref="cwgk:N00019233">Sam Edilen</persName> Pres Bord Trusts
 <lb/><hi rend="underline">Geo A Bricker</hi>
-<lb/>J, Littlefield
+<lb/><persName ref="cwgk:N00010190">J, Littlefield</persName>
 <lb/>H T Jackson Sherif
-<lb/>H. D. Gilmore
-<lb/>J. G. Phillips
-<lb/>T. W Blandford
-<lb/>H. Johnston</p>
+<lb/><persName ref="cwgk:N00019227">H. D. Gilmore</persName>
+<lb/><persName ref="cwgk:N00019229">J. G. Phillips</persName>
+<lb/><persName ref="cwgk:N00019230">T. W Blandford</persName>
+<lb/><persName ref="cwgk:N00010177">H. Johnston</persName></p>
   </body>
  </text>
 </TEI>
