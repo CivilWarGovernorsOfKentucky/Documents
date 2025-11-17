@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-025-0048"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jeremy Knoll</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,10 +72,10 @@
  <text>
   <body>
    <p><date when="1861-01-12">12</date> 
-<lb/>The Governor approved an account of &#36;5.00 to Meek &amp; Miland for work done on clock for Registers &amp; Governors Office, duly certified as correct</p>
-<p>He approved an account of &#36;43.10 to E H. Tole for work and repairs done at State Capitol Certified as correct by the State Librarian</p>
-<p>He approved an account of &#36;1365. to the Institution for the Blind for the board and tuition of the Pupils for the quarter ending Jany 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1861. Certified by the Auditor as correct.</p>
-<p>He approved an account of &#36;75. to Rich<hi rend="sup">d</hi> Glore for 25 cords of Wood @ &#36;3 per cord certified as correct by the Librarian</p>
+<lb/>The <persName ref="cwgk:N00000258">Governor</persName> approved an account of $5.00 to <orgName ref="cwgk:O00021524">Meek &amp; Miland</orgName> for work done on clock for <persName ref="cwgk:N00001157">Register</persName>s &amp; <orgName ref="cwgk:O00010556">Governors Office</orgName>, duly certified as correct</p>
+<p>He approved an account of $43.10 to <persName ref="cwgk:N00001598">E H. Tole</persName> for work and repairs done at State Capitol Certified as correct by the <persName ref="cwgk:N00001596">State Librarian</persName></p>
+<p>He approved an account of $1365. to the <orgName ref="cwgk:O00012488">Institution for the Blind</orgName> for the board and tuition of the Pupils for the quarter ending Jany 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1861. Certified by the <persName ref="cwgk:N00000466">Auditor</persName> as correct.</p>
+<p>He approved an account of $75. to <persName ref="cwgk:N00021523">Rich<hi rend="sup">d</hi> Glore</persName> for 25 cords of Wood @ $3 per cord certified as correct by the Librarian</p>
   </body>
  </text>
 </TEI>
