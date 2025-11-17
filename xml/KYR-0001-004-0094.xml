@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0094"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,22 +70,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Governor Bramblette of Ky.</p>
+   <p>To his Excellency Governor Bramblette of <placeName ref="cwgk:P001800">Ky.</placeName></p>
 <p>The undersigned petitioners respectfully state that at this <date when="1863-09">August Term 1863</date> of this Campbell Circuit Court Sebastian Gramer was fined for keeping a tipling house the sum of sixty dollars &amp; costs This is an exceedingly hard case, agst. a very poor man, and is in our judgement such as calls for Executive clemency -- </p>
-<p>s<hi rend="underline"><hi rend="sup">d</hi></hi> Gramer is a German unacquainted with the laws of Kentucky &amp; has always looked upon <hi rend="underline">Native wine</hi> ^(as he says)^ to be as natural and innocent a drink as <hi rend="underline">water</hi> -- He was keeping a small grocery in Jamestown and obtained a license to sell <hi rend="underline">beer</hi>, from the Trustees- This, Gramer innocently supposed justified at least ^the sale of^ Native wine -- It was proven by one witness on the trial (Charles Slain) that Gramer had let him have native wine as often as <hi rend="underline">two or three times</hi> &amp; this was all the evidence -- We as jurors who tried the case and as citizens of the immediate vicinity respectfully ask the Governor to remit this fine &amp; we are satisfied that public justice will not suffer &amp; that M<hi rend="sup">r</hi> Gramer will never again offend agst the law which he has innocently done as we believe in this case-
+<p>s<hi rend="underline"><hi rend="sup">d</hi></hi> Gramer is a German unacquainted with the laws of Kentucky &amp; has always looked upon <hi rend="underline">Native wine</hi> ^(as he says)^ to be as natural and innocent a drink as <hi rend="underline">water</hi> -- He was keeping a small grocery in Jamestown and obtained a license to sell <hi rend="underline">beer</hi>, from the Trustees- This, Gramer innocently supposed justified at least ^the sale of^ Native wine -- It was proven by one witness on the trial (<persName ref="cwgk:N00006863">Charles Slain</persName>) that Gramer had let him have native wine as often as <hi rend="underline">two or three times</hi> &amp; this was all the evidence -- We as jurors who tried the case and as citizens of the immediate vicinity respectfully ask the Governor to remit this fine &amp; we are satisfied that public justice will not suffer &amp; that M<hi rend="sup">r</hi> Gramer will never again offend agst the law which he has innocently done as we believe in this case-
 <lb/><date when="1863-09-18">Sep. 18. 1863</date><pb/></p>
 <p>Campbell Circuit Court
 <lb/><date when="1863-08-05">August 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>Commonwealth
 <lb/>Vs, On Indictment
 <lb/>S. Gramer</p>
-<p>The parties appeared and the defendant plead not guilty thereupon came a Jury, viz: J. O. Prather, J. Constans, P. H. Kemper, Lewis Donahower, W<hi rend="underline"><hi rend="sup">m</hi></hi> M. Neyman, S. Allen, John Butcher, John Nelson, Thos. Marston, Chas. Murnan, Geo. Summers &amp; B. Caruthers; who were sworn to try the issue after hearing the evidence returned the following verdict, viz: "We the jury find the defend't guilty of Keeping a tippling house as charged in the indictment, P. A. C, Kemper, foreman." It is therefore adjudged that the commonwealth recover of the defendant a fine of Sixty Dollars, and the costs of this proceeding; and that the defendant stand convicted until the fine is paid such commutal not to exceed 30 days.</p>
+<p>The parties appeared and the defendant plead not guilty thereupon came a Jury, viz: <persName ref="cwgk:N00006864">J. O. Prather</persName>, J. Constans, <persName ref="cwgk:N00006866">P. H. Kemper</persName>, <persName ref="cwgk:N00006868">Lewis Donahower</persName>, <persName ref="cwgk:N00006869">W<hi rend="underline"><hi rend="sup">m</hi></hi> M. Neyman</persName>, S. Allen, <persName ref="cwgk:N00006871">John Butcher</persName>, <persName ref="cwgk:N00002071">John Nelson</persName>, Thos. Marston, <persName ref="cwgk:N00006873">Chas. Murnan</persName>, <persName ref="cwgk:N00006884">Geo. Summers</persName> &amp; <persName ref="cwgk:N00006885">B. Caruthers</persName>; who were sworn to try the issue after hearing the evidence returned the following verdict, viz: "We the jury find the defend't guilty of Keeping a tippling house as charged in the indictment, P. A. C, Kemper, foreman." It is therefore adjudged that the commonwealth recover of the defendant a fine of Sixty Dollars, and the costs of this proceeding; and that the defendant stand convicted until the fine is paid such commutal not to exceed 30 days.</p>
 <p>A Copy Attest, Gus. Arttman, C. C. C.
 <lb/>by X. Sine, D, C</p>
 <p><hi rend="underline">Petitioners Names</hi>
 <lb/>John Butcher Juror
-<lb/>Thomas A Martin Juror
-<lb/>Jacob Constans Juror
+<lb/><persName ref="cwgk:N00006911">Thomas A Martin</persName> Juror
+<lb/><persName ref="cwgk:N00006903">Jacob Constans</persName> Juror
 <lb/>L B Donahower Juror
 <lb/>Geo Summers Juror<pb/>
 <lb/><hi rend="underline">Charles</hi> Wetzel. Juror
@@ -96,7 +104,7 @@
 <p>Tho E Bramlette</p>
 <p>S. Gramer
 <lb/>Tipling
-<lb/>&#36;60 -- 
+<lb/>$60 -- 
 <lb/><date when="1863-11-10">10<hi rend="sup">th</hi> Nov/63</date></p>
   </body>
  </text>
