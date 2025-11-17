@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0047"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Peter R. Thomas Jr.</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Ky
+   <p>State of <placeName ref="cwgk:P001800">Ky</placeName>
 <lb/>No. 22.<figure type="hr"/>
-<lb/>THE UNITED STATES,
+<lb/>THE <placeName ref="cwgk:P001802">UNITED STATES</placeName>,
 <lb/>To Louisville &amp; Frankfort and Lexington &amp; Frankfort R. R. Co.'s, Dr.
 <lb/><table rend="rules">
 <row>
@@ -82,31 +90,31 @@
 </row>
 <row>
 	<cell/>
-	<cell>5 Men 33<hi rend="sup">d</hi> Infy from Louisville to Frankfort &amp; return 130 miles @ 2&#162; 260</cell>
+	<cell>5 Men <orgName ref="cwgk:O00009912">33<hi rend="sup">d</hi> Infy</orgName> from <placeName ref="cwgk:P00000337">Louisville</placeName> to <placeName ref="cwgk:P00000308">Frankfort</placeName> &amp; return 130 miles @ 2¢ 260</cell>
 	<cell>13</cell>
 	<cell>00</cell>
 </row>
 <row>
 	<cell/>
-	<cell>2 " 31<hi rend="sup">st</hi> " " " " Lexington 94 " " 188</cell>
+	<cell>2 " <orgName ref="cwgk:O00010759">31<hi rend="sup">st</hi></orgName> " " " " <placeName ref="cwgk:P001002">Lexington </placeName>94 " " 188</cell>
 	<cell>3</cell>
 	<cell>76</cell>
 </row>
 <row>
 	<cell/>
-	<cell>2 " 28<hi rend="sup">th</hi> " " " " Frankfort 65 " " 130</cell>
+	<cell>2 " <orgName ref="cwgk:O00008814">28<hi rend="sup">th</hi></orgName> " " " " Frankfort 65 " " 130</cell>
 	<cell>2</cell>
 	<cell>60</cell>
 </row>
 <row>
 	<cell/>
-	<cell>1" 16<hi rend="sup">th</hi> " " " " " " " " "</cell>
+	<cell>1" <orgName ref="cwgk:O00008605">16<hi rend="sup">th</hi></orgName> " " " " " " " " "</cell>
 	<cell>1</cell>
 	<cell>30</cell>
 </row>
 <row>
 	<cell/>
-	<cell>1" 26<hi rend="sup">th</hi> " " " " " " " " "</cell>
+	<cell>1" <orgName ref="cwgk:O00009777">26<hi rend="sup">th</hi></orgName> " " " " " " " " "</cell>
 	<cell>1</cell>
 	<cell>30</cell>
 </row>
@@ -118,43 +126,43 @@
 </row>
 <row>
 	<cell/>
-	<cell>42 " 22<hi rend="sup">d</hi> " " " " " " " " "</cell>
+	<cell>42 " <orgName ref="cwgk:O00011396">22<hi rend="sup">d</hi></orgName> " " " " " " " " "</cell>
 	<cell>54</cell>
 	<cell>60</cell>
 </row>
 <row>
 	<cell/>
-	<cell>2 " 32<hi rend="sup">d</hi> " " " " " " " " "</cell>
+	<cell>2 " <orgName ref="cwgk:O00006231">32<hi rend="sup">d</hi></orgName> " " " " " " " " "</cell>
 	<cell>2</cell>
 	<cell>60</cell>
 </row>
 <row>
 	<cell/>
-	<cell>3 " 44<hi rend="sup">th</hi> " " " " " " " " "</cell>
+	<cell>3 " <orgName ref="cwgk:O00010777">44<hi rend="sup">th</hi></orgName> " " " " " " " " "</cell>
 	<cell>3</cell>
 	<cell>90</cell>
 </row>
 <row>
 	<cell/>
-	<cell>1 " 44<hi rend="sup">th</hi> " " Pleasureville " Louisville 44 " " 88</cell>
+	<cell>1 " 44<hi rend="sup">th</hi> " " <placeName ref="cwgk:P00010768">Pleasureville</placeName> " Louisville 44 " " 88</cell>
 	<cell/>
 	<cell>88</cell>
 </row>
 <row>
 	<cell/>
-	<cell>2 " 44<hi rend="sup">th</hi> " " Eminence " " 40 " " 80</cell>
+	<cell>2 " 44<hi rend="sup">th</hi> " " <placeName ref="cwgk:P00000309">Eminence</placeName> " " 40 " " 80</cell>
 	<cell>1</cell>
 	<cell>60</cell>
 </row>
 <row>
 	<cell/>
-	<cell>21 " 44<hi rend="sup">th</hi> " " LaGrange " Frankfort 38 " " 76</cell>
+	<cell>21 " 44<hi rend="sup">th</hi> " " <placeName ref="cwgk:P00002643">LaGrange</placeName> " Frankfort 38 " " 76</cell>
 	<cell>15</cell>
 	<cell>96</cell>
 </row>
 <row>
 	<cell/>
-	<cell>1 " 24<hi rend="sup">th</hi> " " Lexington " " 29 " " 58</cell>
+	<cell>1 " <orgName ref="cwgk:O00006977">24<hi rend="sup">th</hi></orgName> " " Lexington " " 29 " " 58</cell>
 	<cell/>
 	<cell>58</cell>
 </row>
@@ -190,30 +198,30 @@
 </row>
 <row>
 	<cell/>
-	<cell>1 " 22<hi rend="sup">d</hi> " " Milam " Frankfort 5 " "</cell>
+	<cell>1 " 22<hi rend="sup">d</hi> " " <persName ref="cwgk:N00001668">Milam</persName> " Frankfort 5 " "</cell>
 	<cell/>
 	<cell><hi rend="underline">10</hi></cell>
 </row>
 <row>
 	<cell/>
 	<cell/>
-	<cell>&#36;149</cell>
+	<cell>$149</cell>
 	<cell><hi rend="underline"><hi rend="sup">58</hi></hi></cell>
 </row>
 </table></p>
 <p>Approved
-<lb/>By order of the Governor
-<lb/>Jno. W Finnell 
+<lb/>By order of the <persName ref="cwgk:N001004">Governor
+</persName><lb/><persName ref="cwgk:N00000228">Jno. W Finnell</persName> 
 <lb/>Adj<hi rend="sup">t</hi> Genl Ky Vols.</p>
 <p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
 <p><gap/><hi rend="italic"> Quartermaster</hi></p>
 <p>Received at Frankfort Ky the <date when="1863-03-23">23 of March 1863.</date>, of Jn<hi rend="sup">o</hi> W. Finnell Adj<hi rend="sup">t</hi> General Ky Volunteers <hi rend="str">Quartermaster United States Army</hi>, the sum of One hundred and forty nine Dollars and fifty eight Cents, in full of the above account.
 <lb/>[DUPLICATES]</p>
-<p>Thos C. Kyle Agent<pb/></p>
+<p><persName ref="cwgk:N00010765">Thos C. Kyle</persName> Agent<pb/></p>
 <p>No. 22.<figure type="hr"/>
 <lb/>No. 12<hi rend="str">2</hi>3 Abstract <hi rend="str">B</hi> P Qr. 186<gap/>.
-<lb/>Lou &amp; Frankfort &amp; Lex &amp; F R R Co
-<lb/>Dollars 149<hi rend="sup">58</hi>/<hi rend="sub">100</hi>
+<lb/><orgName ref="cwgk:O00010775">Lou &amp; Frankfort &amp; Lex &amp; F R R Co
+</orgName><lb/>Dollars 149<hi rend="sup">58</hi>/<hi rend="sub">100</hi>
 <lb/>Paid <date when="1863-03-23">23 of March 1863.</date></p>
   </body>
  </text>
