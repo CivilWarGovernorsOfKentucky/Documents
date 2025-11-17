@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1407"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Melissa DeVelvis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,9 +70,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Beriah Magoffin,
-<lb/>Governor of the State of Kentucky,</p>
-<p>We the undersigned citizens of Henderson County petition your Excellency to grant a respite to William Allison Sandefur, for the period of twelve months, upon Judgments rendered against him at the last June Term of the Henderson Circuit Court in the sum of Twenty Dollars (&#36;20) each in the following named cases to-wit:
+   <p>To his Excellency <persName ref="cwgk:N00000258">Beriah Magoffin</persName>,
+<lb/>Governor of the <orgName ref="cwgk:O001025">State of Kentucky</orgName>,</p>
+<p>We the undersigned citizens of <placeName ref="cwgk:P00002891">Henderson County</placeName> petition your Excellency to grant a respite to <persName ref="cwgk:N00005589">William Allison Sandefur</persName>, for the period of twelve months, upon Judgments rendered against him at the last June Term of the <orgName ref="cwgk:O00000397">Henderson Circuit Court</orgName> in the sum of Twenty Dollars ($20) each in the following named cases to-wit:
 <lb/><table rend="rules">
 <row>
 	<cell>Commonwealth</cell>
@@ -126,29 +134,29 @@
 <lb/>Wm B, Beatty
 <lb/>S A. Sugg
 <lb/>B B Williams
-<lb/>A. S. Nunn
-<lb/>Edw<hi rend="sup">d</hi> H Hopkins
-<lb/>John Reuby
+<lb/><persName ref="cwgk:N00005599">A. S. Nunn</persName>
+<lb/><persName ref="cwgk:N00005600">Edw<hi rend="sup">d</hi> H Hopkins</persName>
+<lb/><persName ref="cwgk:N00005601">John Reuby</persName>
 <lb/>P. A Blackwell
 <lb/>R. A. Armistead
 <lb/>Harvey Yeaman
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> <hi rend="underline">Steele</hi>
 <lb/>Cyrus W. Steele
-<lb/>C A Brown
-<lb/>John. M<hi rend="underline"><hi rend="sup">c</hi></hi>Bride
-<lb/>W<hi rend="sup">m</hi> R Johnson
-<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi>. H. Holloway
-<lb/>G.. W.. Collins
-<lb/>J. L. Hicks
-<lb/>G. F. C. Mallaore
-<lb/>W<hi rend="sup">m</hi> P Smith
-<lb/>B Brashear
+<lb/><persName ref="cwgk:N00011950">C A Brown</persName>
+<lb/><persName ref="cwgk:N00011949">John. M<hi rend="underline"><hi rend="sup">c</hi></hi>Bride</persName>
+<lb/><persName ref="cwgk:N00011948">W<hi rend="sup">m</hi> R Johnson</persName>
+<lb/><persName ref="cwgk:N00002858">Ja<hi rend="underline"><hi rend="sup">s</hi></hi>. H. Holloway</persName>
+<lb/><persName ref="cwgk:N00011944">G.. W.. Collins</persName>
+<lb/><persName ref="cwgk:N00011943">J. L. Hicks</persName>
+<lb/><persName ref="cwgk:N00011942">G. F. C. Mallaore</persName>
+<lb/><persName ref="cwgk:N00011941">W<hi rend="sup">m</hi> P Smith</persName>
+<lb/><persName ref="cwgk:N00011940">B Brashear</persName>
 <lb/>W, S, Johnson</p>
-<p><hi rend="underline">Jas F. Clay</hi><pb/></p>
+<p><persName ref="cwgk:N00011938"><hi rend="underline">Jas F. Clay</hi></persName><pb/></p>
 <p>Henderson Cir. Ct</p>
 <p>Respite 12 mo
 <lb/>B. M</p>
-<p>7. Judg'ts each &#36;20.
+<p>7. Judg'ts each $20.
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. Sandifur
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-09-10">Sept 10. 1861</date></p>
   </body>
