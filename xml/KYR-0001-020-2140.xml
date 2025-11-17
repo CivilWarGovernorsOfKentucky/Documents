@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2140"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Charles Welsko</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Carl Creason</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Owen County Kentucky
+   <p><placeName ref="cwgk:P00004760">Owen County</placeName> <placeName ref="cwgk:P001800">Kentucky</placeName>
 <lb/>To his excellency Beriah M<hi rend="underline"><hi rend="sup">c</hi></hi>Goffin
 <lb/>Govenor of the Commonweth of Kentucky,</p>
-<p>The Undersigned would respectfully represent in behalf of Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Sebree convicted of the crime of Manslaughter on the person of William Gerald, at the <date when="--09">Sept. term</date> of the Boone Circuit Court; and Sentenced to the term of 5 years laber in the Penetentiary where he now is, that the Said Sebree is and always has been regarted by thos who knew him best as an unoffencive person of Scarcely sound mind and not in any degree dangerous in his disposition to the well being of Society and also that at the time the act was done he was labering under such a degree of excitment from liquer that he was in the <unclear>opinion</unclear> of Dr Scott who was examined at lenght on the trial, and also of the officer Mr <unclear>McNeely</unclear> who made the arrest a few houres after the, deed was accomplished he was the victim of mental aberration if not of <hi rend="underline">delerium</hi> <hi rend="underline">tremens</hi> They would further represent that the said Sebree is Sixty years of age and that his wife who is still older, is devising his imprisenment dependent on charity for a living. and that he Sufferd before hiss trial an imprisenment of Six or eight months which so broke his constitution that he now his dangerously ill in the Penitintiery unable to do any laber and if still Kept in Confinement will in all human probability not Survive many months certinly not to the end of his time Wherfore, in view of all these facts we respectully beg that your Excellency would Graciously<pb/>
+<p>The Undersigned would respectfully represent in behalf of <persName ref="cwgk:N00012194">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Sebree</persName> convicted of the crime of Manslaughter on the person of <persName ref="cwgk:N00012257">William Gerald</persName>, at the <date when="--09">Sept. term</date> of the <orgName ref="cwgk:O00000355">Boone Circuit Court</orgName>; and Sentenced to the term of 5 years laber in the <orgName ref="cwgk:O00000266">Penetentiary</orgName> where he now is, that the Said Sebree is and always has been regarted by thos who knew him best as an unoffencive person of Scarcely sound mind and not in any degree dangerous in his disposition to the well being of Society and also that at the time the act was done he was labering under such a degree of excitment from liquer that he was in the <unclear>opinion</unclear> of <persName ref="cwgk:N00012258">Dr Scott</persName> who was examined at lenght on the trial, and also of the officer Mr <unclear>McNeely</unclear> who made the arrest a few houres after the, deed was accomplished he was the victim of mental aberration if not of <hi rend="underline">delerium</hi> <hi rend="underline">tremens</hi> They would further represent that the said Sebree is Sixty years of age and that his <persName ref="cwgk:N00012250">wife</persName> who is still older, is devising his imprisenment dependent on charity for a living. and that he Sufferd before hiss trial an imprisenment of Six or eight months which so broke his constitution that he now his dangerously ill in the Penitintiery unable to do any laber and if still Kept in Confinement will in all human probability not Survive many months certinly not to the end of his time Wherfore, in view of all these facts we respectully beg that your Excellency would Graciously<pb/>
 <lb/>Exercise in this case the executive clemency and grant the said James Sebree a Pardon and immunity from all further effects of the sentence pronounced against him by the court as above stated</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Samuel Baer
-<lb/>William Roberts
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00012195">Samuel Baer</persName>
+<lb/><persName ref="cwgk:N00012261">William Roberts</persName>
 <lb/>Geo. C. Roberts
 <lb/>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> T. Roberts
 <lb/>G <unclear>Lusbey</unclear>
@@ -87,20 +95,20 @@
 <lb/>Geo Green
 <lb/>Lawrence Sandford
 <lb/>Benj. H. Ford
-<lb/>W F Riley
-<lb/>James Havis
-<lb/>G. W. Craignyler
-<lb/>James Vallandingham
-<lb/>John. A. Moore
-<lb/>W. P. Bacon
-<lb/>J A Duncan
-<lb/>James M Suter
-<lb/>W H Conder
-<lb/><cb n="2"/>J. J. Forsee
+<lb/><persName ref="cwgk:N00012223">W F Riley</persName>
+<lb/><persName ref="cwgk:N00012200">James Havis</persName>
+<lb/><persName ref="cwgk:N00012274">G. W. Craignyler</persName>
+<lb/><persName ref="cwgk:N00012203">James Vallandingham</persName>
+<lb/><persName ref="cwgk:N00012222">John. A. Moore</persName>
+<lb/><persName ref="cwgk:N00012205">W. P. Bacon</persName>
+<lb/><persName ref="cwgk:N00003208">J A Duncan</persName>
+<lb/><persName ref="cwgk:N00012236">James M Suter</persName>
+<lb/><persName ref="cwgk:N00012226">W H Conder</persName>
+<lb/><cb n="2"/><persName ref="cwgk:N00012213">J. J. Forsee</persName>
 <lb/>A, B, Ford
-<lb/>George P. Ford
-<lb/>M Dawson
-<lb/>Ben Moore
+<lb/><persName ref="cwgk:N00012221">George P. Ford</persName>
+<lb/><persName ref="cwgk:N00012249">M Dawson</persName>
+<lb/><persName ref="cwgk:N00012231">Ben Moore</persName>
 <lb/>Joseph Blackwell
 <lb/>W A. Goddard
 <lb/>Tho A. Ireland clk
@@ -112,12 +120,12 @@
 <lb/>A, J, Mason
 <lb/>W, H, Sandford
 <lb/>John Donovan
-<lb/>John Gallagher
-<lb/>Jas. P. Wilson.
-<lb/>John Knoll
-<lb/>D A Evans
+<lb/><persName ref="cwgk:N00012202">John Gallagher</persName>
+<lb/><persName ref="cwgk:N00012256">Jas. P. Wilson</persName>.
+<lb/><persName ref="cwgk:N00012227">John Knoll</persName>
+<lb/><persName ref="cwgk:N00012232">D A Evans</persName>
 <lb/><unclear/> Haydon
-<lb/>Simon Tufts</p>
+<lb/><persName ref="cwgk:N00012201">Simon Tufts</persName></p>
   </body>
  </text>
 </TEI>
